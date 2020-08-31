@@ -12,9 +12,9 @@ ADDON CENTRALIZADOR DE LINKS</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 "<channels>
 <channel>
-<name>[COLOR white]Lançamento[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://ia801504.us.archive.org/29/items/baseado/lancamento.jpg</externallink>
+<name>[COLOR white]FILMES[/COLOR]</name>
+<thumbnail>https://ia601508.us.archive.org/22/items/filmes_20200831_1524/filmes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/filmes</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>
 ADDON CENTRALIZADOR DE LINKS</info>
@@ -24,57 +24,9 @@ ADDON CENTRALIZADOR DE LINKS</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 "<channels>
 <channel>
-<name>[COLOR white]Todos[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://ia801504.us.archive.org/29/items/baseado/todos.jpg</externallink>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-<info>
-ADDON CENTRALIZADOR DE LINKS</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
-"<channels>
-<channel>
-<name>[COLOR white]Genero[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://ia801504.us.archive.org/29/items/baseado/genero.jpg</externallink>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-<info>
-ADDON CENTRALIZADOR DE LINKS</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
-"<channels>
-<channel>
-<name>[COLOR white]Ano[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://ia601504.us.archive.org/29/items/baseado/ano.jpg</externallink>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-<info>
-ADDON CENTRALIZADOR DE LINKS</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
-"<channels>
-<channel>
-<name>[COLOR white]Baseados em Quadrinhos[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://archive.org/download/baseado/baseado.jpg</externallink>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-<info>
-ADDON CENTRALIZADOR DE LINKS</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
-"<channels>
-<channel>
-<name>[COLOR white]Séries[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://ia801504.us.archive.org/29/items/baseado/series.jpg</externallink>
+<name>[COLOR white]SÉRIES[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/29/items/baseado/series.jpg</thumbnail>
+<externallink></externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>
 ADDON CENTRALIZADOR DE LINKS</info>
