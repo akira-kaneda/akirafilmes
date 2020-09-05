@@ -1,6 +1,6 @@
 "<channels>
 <channel>
-<name>[COLOR white]LANCAMENTO[/COLOR]</name>
+<name>[COLOR white]LANÇAMENTO[/COLOR]</name>
 <thumbnail>https://ia801504.us.archive.org/29/items/baseado/lancamento.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Lancamento</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -27,6 +27,18 @@ ADDON CENTRALIZADOR DE LINKS</info>
 <name>[COLOR white]GENERO[/COLOR]</name>
 <thumbnail>https://ia801504.us.archive.org/29/items/baseado/genero.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Categoria</externallink>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<info>
+ADDON CENTRALIZADOR DE LINKS</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+"<channels>
+<channel>
+<name>[COLOR white]ANO[/COLOR]</name>
+<thumbnail>https://ia601504.us.archive.org/29/items/baseado/ano.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/ANO</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>
 ADDON CENTRALIZADOR DE LINKS</info>
