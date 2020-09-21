@@ -1,15 +1,10 @@
 "<item>
 
 <title>01 - Uma Viagem e Tanto</title>
-<link>$doregex[BP1]THEBOST02EP01.mp4$doregex[BP2]</link>
-https://$doregex[AK1].azureedge.net/RCServer12/ondemand/THEBOST02EP01.mp4?attachment=true
+<link><externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/distrito1</externallink>.azureedge.net/RCServer12/ondemand/THEBOST02EP01.mp4?attachment=true<link>
 <image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 
 <info>Genero: Fantasia, Ficção científica, Ação, Aventura, Terror
 Lançamento: 2020
