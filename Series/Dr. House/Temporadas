@@ -33,7 +33,7 @@ Lançamento: 2005
 "<channels>
 <channel>
 <name>3ª Temporada</name>
-<thumbnail>https://ia801506.us.archive.org/5/items/6_20200907_202009/5.jpg</thumbnail>
+<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/Dr.%20House/3T</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>Genero: Drama, Comédia, Mistério
@@ -49,7 +49,7 @@ Lançamento: 2006
 "<channels>
 <channel>
 <name>4ª Temporada</name>
-<thumbnail>https://ia801506.us.archive.org/5/items/6_20200907_202009/6.jpg</thumbnail>
+<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/Dr.%20House/4T</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>Genero: Drama, Comédia, Mistério
@@ -65,11 +65,59 @@ Lançamento: 2007
 "<channels>
 <channel>
 <name>5ª Temporada</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/Dr.%20House/5T</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>Genero: Drama, Comédia, Mistério
 Lançamento: 2008
+
+</info>
+ 
+<genre>Drama, Comédia, Mistério</genre>
+ </channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+"<channels>
+<channel>
+<name>6ª Temporada</name>
+<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/10.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/Dr.%20House/6T</externallink>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<info>Genero: Drama, Comédia, Mistério
+Lançamento: 2009
+
+</info>
+ 
+<genre>Drama, Comédia, Mistério</genre>
+ </channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+"<channels>
+<channel>
+<name>7ª Temporada</name>
+<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/11.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/Dr.%20House/7T</externallink>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<info>Genero: Drama, Comédia, Mistério
+Lançamento: 2010
+
+</info>
+ 
+<genre>Drama, Comédia, Mistério</genre>
+ </channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+"<channels>
+<channel>
+<name>8ª Temporada</name>
+<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/12.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/Dr.%20House/8T</externallink>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<info>Genero: Drama, Comédia, Mistério
+Lançamento: 2011
 
 </info>
  
