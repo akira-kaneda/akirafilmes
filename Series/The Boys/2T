@@ -1,10 +1,11 @@
 "<item>
 
 <title>01 - Uma Viagem e Tanto</title>
-<link>https://distrito1.azureedge.net/RCServer12/ondemand/THEBOST02EP01.mp4?attachment=true</link>
+<link>https://$doregex[AK1].azureedge.net/RCServer12/ondemand/THEBOST02EP01.mp4?attachment=true</link>
 <image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<regex><name>AK1</name><expres></expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/distrito1</page></regex>
 
 <info>Genero: Fantasia, Ficção científica, Ação, Aventura, Terror
 Lançamento: 2020
