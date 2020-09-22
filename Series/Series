@@ -16,16 +16,16 @@ Um médico dissidente e anti-social, que se especializou em medicina de diagnós
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 "<channels>
 <channel>
-<name>The Boys [COLOR yellow][IMDb 8,7][/COLOR]</name>
-<thumbnail>https://ia601407.us.archive.org/4/items/1_20200907/1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/The%20Boys/Temporadas</externallink>
+<name>Grimm: Contos de Terror [COLOR yellow][IMDb 7,8][/COLOR]</name>
+<thumbnail>https://ia601404.us.archive.org/17/items/16_20200921_20200921/13.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/Grimm/Temporadas</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-<info>Genero: Fantasia, Ficção científica, Ação, Aventura, Terror
-Lançamento: 2019
+<info>Genero: Drama, Fantasia, Mistério
+Lançamento: 2011
 
-Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+O detetive Nick Burkhardt descobre que é o último dos Grimm, seres que protegem o mundo humano dos monstros saídos dos contos de fadas.</info>
  
-<genre>Fantasia, Ficção científica, Ação, Aventura, Terror</genre>
+<genre>Drama, Fantasia, Mistério</genre>
  </channel>
 </channels>
 
@@ -42,6 +42,22 @@ Lançamento: 2020
 Chicago, 1954. Atticus Turner é um veterano do exército que vê sua vida mudar quando seu pai desaparece misteriosamente. Decidido a encontrá-lo, o jovem embarca em uma viagem de carro ao lado do tio George e da amiga de infância Letitia, mas essa jornada não demora a se tornar muito mais perigosa do que eles esperavam.</info>
  
 <genre>Drama, Mistério, Ficção Cientifica, Fantasia</genre>
+ </channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+"<channels>
+<channel>
+<name>The Boys [COLOR yellow][IMDb 8,7][/COLOR]</name>
+<thumbnail>https://ia601407.us.archive.org/4/items/1_20200907/1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Series/The%20Boys/Temporadas</externallink>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<info>Genero: Fantasia, Ficção científica, Ação, Aventura, Terror
+Lançamento: 2019
+
+Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+ 
+<genre>Fantasia, Ficção científica, Ação, Aventura, Terror</genre>
  </channel>
 </channels>
 
