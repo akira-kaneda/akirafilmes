@@ -1,5 +1,10 @@
 "<channels>
 <channel>
+<name>$doregex[BP1]WHSKYCVLRT01EP01.mp4$doregex[BP2]</name>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <name>[COLOR white][B]AKIRA FILMES[/B][/COLOR]</name>
 <thumbnail>https://ia601408.us.archive.org/11/items/icon_20200831/icon.png</thumbnail>
 <externallink>https://</externallink>
