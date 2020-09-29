@@ -1,6 +1,6 @@
 
 "<item>
-
+<title>https://$doregex[RC].azureedge.net/RCServer12/ondemand/LOVCRFTCNTRYT01EP01.mp4?attachment=true</title>
 <title>01 - Sundown</title>
 <link>https://$doregex[RC].azureedge.net/RCServer12/ondemand/LOVCRFTCNTRYT01EP01.mp4?attachment=true</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
