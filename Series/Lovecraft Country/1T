@@ -1,8 +1,7 @@
 
 "<item>
-<title>https://$doregex[RC].azureedge.net/RCServer12/ondemand/LOVCRFTCNTRYT01EP01.mp4?attachment=true</title>
-<>01 - Sundown</>
-<link>https://$doregex[RC].azureedge.net/RCServer12/ondemand/LOVCRFTCNTRYT01EP01.mp4?attachment=true</link>
+<title>01 - Sundown</title>
+<link>https://$doregex[RC].azureedge.net/RCServer12/ondemand/LOVCRFTCNTRYT01EP01.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://archive.org/download/8_20200915/8.jpg</image>
