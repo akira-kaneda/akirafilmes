@@ -2,7 +2,9 @@
 "<item>
 
 <title>01 - Sundown</title>
-<link>https://distrito1.azureedge.net/RCServer12/ondemand/LOVCRFTCNTRYT01EP01.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCServer12/ondemand/LOVCRFTCNTRYT01EP01.mp4?attachment=true</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://archive.org/download/8_20200915/8.jpg</image>
 <thumbnail>https://archive.org/download/8_20200915/8.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
