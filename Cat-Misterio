@@ -1,7 +1,9 @@
 "<item>
 
 <title>#Horror [COLOR yellow][IMDb 3,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/HROR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/HROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/7.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/7.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -19,7 +21,9 @@ Inspirado em fatos reais, um grupo de garotas de 12 anos de idade enfrenta uma n
 "<item>
 
 <title>2:22 - Encontro Marcado [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/222ENCTRMRDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/222ENCTRMRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/75.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/75.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -37,7 +41,9 @@ Dylan Branson (Michiel Huisman) é um homem que tem a sua vida permanentemente m
 "<item>
 
 <title>2001: Uma Odisséia no Espaço [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/2001UMODSIANESPCO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/2001UMODSIANESPCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/67.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/67.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -55,7 +61,9 @@ Desde a ""Aurora do Homem"" (a pré-história), um misterioso monolito negro par
 "<item>
 
 <title>31 - A Morte é a Única Saída [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/31AMRTEAUNCSID.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/31AMRTEAUNCSID.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/88.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/88.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -73,7 +81,9 @@ Cinco pessoas são sequestradas cinco dias antes do Halloween e são mantidas re
 "<item>
 
 <title>A Arte do Demônio [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AARTDEMO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AARTDEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/960.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/960.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -90,7 +100,9 @@ Uma mulher grávida é abandonada pelo amante. Enfurecida, ela vai a um feiticei
 "<item>
 
 <title>A Árvore da Maldição [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AARVRDMLDCAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AARVRDMLDCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/124.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/124.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -108,7 +120,9 @@ Camilla parecia ser a escolha correta para o emprego de baby-sitter. Bonita e sa
 "<item>
 
 <title>A Autópsia [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AAUTSPS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AAUTSPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/126.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/126.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -126,7 +140,9 @@ Tommy Tilden (Brian Cox) e Austin Tilden (Emile Hirsch), seu filho, são os repo
 "<item>
 
 <title>À Beira da Loucura [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABERADLOCRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABERADLOCRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/139.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/139.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -143,7 +159,9 @@ Com o desaparecimento do escritor de terror Sutter Cane, todo o Inferno está se
 "<item>
 
 <title>A Bruxa de Blair [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABRXDBLR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABRXDBLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/151.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/151.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -160,7 +178,9 @@ Três estudantes de cinema embrenham-se nas matas do estado de Maryland para faz
 "<item>
 
 <title>A Bruxa de Blair 2 - O Livro das Sombras [COLOR yellow][IMDb 3,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABRXDBLR2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABRXDBLR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/152.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/152.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -177,7 +197,9 @@ Em A Bruxa de Blair, um grupo de jovens cineastas viaja para uma floresta em bus
 "<item>
 
 <title>A Cartada Final [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACRTDAFNL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACRTDAFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/168.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/168.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -194,7 +216,9 @@ Nick Wells (Robert De Niro) é um criminoso profissional que decidiu abandonar a
 "<item>
 
 <title>A Casa Amaldiçoada [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSAMLDCADA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSAMLDCADA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/170.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/170.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -211,7 +235,9 @@ Eleanor Lance (Lili Taylor), uma mulher bastante solitária que tem insônia, re
 "<item>
 
 <title>A Casa da Colina [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ACSADCLNA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ACSADCLNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/174.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/174.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -228,7 +254,9 @@ Famoso empresário do ramo de parques temáticos, Stephen Price (Geoffrey Rush) 
 "<item>
 
 <title>A Casa do Fim dos Tempos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSDFMDSTMP.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSDFMDSTMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/188.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/188.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -245,7 +273,9 @@ Dulce é mãe de família que tem encontros com aparições dentro de sua velha 
 "<item>
 
 <title>A Casa do Lago [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ACSADLGO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ACSADLGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/182.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/182.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -262,7 +292,9 @@ Kate Forster (Sandra Bullock) é uma médica solitária, que morava em uma casa 
 "<item>
 
 <title>A Casa do Medo: Incidente em Ghostland [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACSDMDOINCDNEMGHSTLND.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACSDMDOINCDNEMGHSTLND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/185.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/185.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -279,7 +311,9 @@ Pauline acaba de herdar uma casa de sua tia e então decide morar lá com suas d
 "<item>
 
 <title>A Casa do Silêncio [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSDSLCN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSDSLCN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/186.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/186.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -296,7 +330,9 @@ Em 1997 a família Anderson desapareceu de sua casa sem deixar vestígios. Nenhu
 "<item>
 
 <title>A Casa dos Sonhos [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSDSNHS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSDSNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/187.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/187.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -313,7 +349,9 @@ Will Atenton é um bem sucedido editor em Manhattan que deixa o emprego e se mud
 "<item>
 
 <title>A Casa Silenciosa [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSASLCNSA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSASLCNSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/191.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/191.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -330,7 +368,9 @@ A jovem Sarah (Elizabeth Olsen), seu pai John (Adam Trese) e seu tio Peter (Eric
 "<item>
 
 <title>A Chantagem [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACHTGM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACHTGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/195.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/195.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -347,7 +387,9 @@ Medidas desesperadas são tomadas por um homem que tenta salvar sua família do 
 "<item>
 
 <title>A Chave Mestra [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACHVMSTRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACHVMSTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/196.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/196.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -364,7 +406,9 @@ Caroline aceita trabalhar como enfermeira para um casal de deficientes que vive 
 "<item>
 
 <title>A Chegada [COLOR yellow][IMDb 7,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACHGDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACHGDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/197.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/197.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -381,7 +425,9 @@ Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma 
 "<item>
 
 <title>A Coisa [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACOISA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACOISA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/201.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/201.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -398,7 +444,9 @@ A paleontóloga Kate Lloyd viaja para investigar um ser misterioso que foi encon
 "<item>
 
 <title>A Colina Escarlate [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACLNESCRLAT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACLNESCRLAT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/204.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/204.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -415,7 +463,9 @@ Apaixonada pelo misterioso Sir Thomas Sharpe (Tom Hiddleston), a escritora Edith
 "<item>
 
 <title>A Cura [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACUA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/221.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/221.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -432,7 +482,9 @@ Enviado para buscar o CEO da sua empresa em um spa europeu distante, um ingênuo
 "<item>
 
 <title>A Descoberta [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ADSCBRT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ADSCBRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/226.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/226.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -449,7 +501,9 @@ Um ano após a existência da vida após a morte ser comprovada cientificamente,
 "<item>
 
 <title>A Deusa da Vingança [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/SAMWSHRE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/SAMWSHRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/228.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/228.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -466,7 +520,9 @@ Sam, um vendedor ambulante, viaja pelo deserto em busca de clientes, mas a área
 "<item>
 
 <title>A Encruzilhada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -483,7 +539,9 @@ Eugene Martone (Ralph Macchio) é um jovem e talentoso guitarrista que está bus
 "<item>
 
 <title>A Entidade [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AENTDADE1.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AENTDADE1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/232.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/232.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -500,7 +558,9 @@ Ellison (Ethan Hawke) é um escritor de romances policias que acaba de se mudar 
 "<item>
 
 <title>À Espera da Chuva [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESPRDCHV.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESPRDCHV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/252.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/252.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -517,7 +577,9 @@ O filme conta a história da repórter nova-iorquina Emma Gardner. Ao saber da m
 "<item>
 
 <title>A Fera [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AFER.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AFER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/284.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/284.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -534,7 +596,9 @@ Uma mulher problemática que vive em uma comunidade isolada encontra-se deve esc
 "<item>
 
 <title>A Flor Mortal [COLOR yellow][IMDb 3,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AFLRMRTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AFLRMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/10/items/250_20200903/289.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/289.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -551,7 +615,9 @@ Uma detetive investigando um caso de assassinato em série pede a ajuda de uma p
 "<item>
 
 <title>A Freira [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AFRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AFRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/296.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/296.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -568,7 +634,9 @@ Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o
 "<item>
 
 <title>A Garota no Trem [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AGRTNTRM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AGRTNTRM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/308.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/308.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -585,7 +653,9 @@ Rachel (Emily Blunt), uma alcoólatra desempregada e deprimida, sofre pelo seu d
 "<item>
 
 <title>A Grande Caçada [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AGRNDCACDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AGRNDCACDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/311.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/311.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -602,7 +672,9 @@ Cinco anos atrás, um caçador desapareceu nas florestas do Alabama, deixando pa
 "<item>
 
 <title>A Grande Farra dos Muppets [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/312.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/312.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -619,7 +691,9 @@ Nessa história, Caco e Fozzie são irmãos gêmeos (apesar de um ser um sapo e 
 "<item>
 
 <title>A Grande Mentira [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AGRNDMNTRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AGRNDMNTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/318.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/318.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -636,7 +710,9 @@ Em um jogo de gato e rato, o golpista Roy Courtnay não resiste aplicar seu golp
 "<item>
 
 <title>A História Verdadeira [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AHISTVRDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AHISTVRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/329.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/329.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -653,7 +729,9 @@ Baseado em fatos reais, o densorado jornalista do New York Times Michael Finkel 
 "<item>
 
 <title>A Hora do Lobo [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AHRADLBO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AHRADLBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/334.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/334.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -670,7 +748,9 @@ Nova Iorque, 1977. June, uma antiga figura da contra-cultura, leva uma rotina so
 "<item>
 
 <title>A Hora do Pesadelo [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AHRDPSDL08.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AHRDPSDL08.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/336.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/336.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -687,7 +767,9 @@ Um grupo de adolescentes de um subúrbio americano tem um sonho em comum, envolv
 "<item>
 
 <title>A Identidade Bourne [COLOR yellow][IMDb 7,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AIDBOURN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AIDBOURN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/347.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/347.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -704,7 +786,9 @@ Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele s
 "<item>
 
 <title>A Ilha da Fantasia [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ILHDFNTSIA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ILHDFNTSIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/348.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/348.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -721,7 +805,9 @@ Uma ilha mágica no meio do Oceano Pacífico oferece aos seus visitantes a possi
 "<item>
 
 <title>A Janela Secreta [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AJNLSCRT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AJNLSCRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/366.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/366.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -738,7 +824,9 @@ Mort Rainey (Johnny Depp) é um escritor em crise, que acaba de se separar de su
 "<item>
 
 <title>A Lenda do Cavaleiro Sem Cabeça [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ALNDOCVLROSMCABCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ALNDOCVLROSMCABCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/383.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/383.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -755,7 +843,9 @@ Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo 
 "<item>
 
 <title>A Maldição da Bela Adormecida [COLOR yellow][IMDb 4,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMLDCDBLARDMCDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMLDCDBLARDMCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/406.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/406.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -772,7 +862,9 @@ Thomas Kaiser (Ethan Peck) finalmente herda a grande mansão de sua família, pe
 "<item>
 
 <title>A Maldição da Casa Winchester [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMLDCDCSWNCHSTR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLDCDCSWNCHSTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/408.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/408.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -789,7 +881,9 @@ Sarah Winchester (Helen Mirren) é herdeira de uma empresa de armas de fogo que 
 "<item>
 
 <title>A Maldição da Chorona [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/409.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/409.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -806,7 +900,9 @@ Na Los Angeles da década de 1970, uma assistente social criando seus dois filho
 "<item>
 
 <title>A Maldição da Sereia [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMLDCAODSREIA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMLDCAODSREIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/412.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/412.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -823,7 +919,9 @@ Uma sereia é arrancada do Pacífico, seu rabo é cortado e ela é jogada em um 
 "<item>
 
 <title>A Maldição de Downers Grove [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMLDCDWNRSGRV.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLDCDWNRSGRV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/414.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/414.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -840,7 +938,9 @@ Nesse suspense angustiante, uma escola de ensino médio parece ser vítima de um
 "<item>
 
 <title>A Mansão Marsten [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMNSAOMRSTN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMNSAOMRSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/425.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/425.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -857,7 +957,9 @@ Adaptação de 1979 da televisão americana do romance ""Salem's Lot"" de Stephe
 "<item>
 
 <title>A Máquina De Lembranças [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMQNADLMBRCS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMQNADLMBRCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/428.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/428.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -874,7 +976,9 @@ Carolyn Dunn (Julia Ormond), uma viúva, acaba encontrando uma das invenções q
 "<item>
 
 <title>A Morte te dá Parabéns [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRTDPRBNS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRTDPRBNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/7/items/457_20200905/461.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/461.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -891,7 +995,9 @@ No longa, a personagem Tree Gelbman (Jessica Rothe), é assassinada por uma pess
 "<item>
 
 <title>A Mulher Mais Assassinada do Mundo [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMLHRMASASNDMNDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLHRMASASNDMNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/7/items/457_20200905/468.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/468.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -908,7 +1014,9 @@ Na década de 1930, em Paris, uma atriz famosa por suas assustadoras cenas de mo
 "<item>
 
 <title>A Noite do Jogo [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANTDJGO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANTDJGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/480.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/480.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -925,7 +1033,9 @@ Max (Jason Bateman) e Annie (Rachel McAdams) participam de um grupo de casais qu
 "<item>
 
 <title>A Noiva [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANIVA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANIVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/485.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/485.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -942,7 +1052,9 @@ Nastya é uma jovem mulher que viaja com seu futuro marido para a casa da famíl
 "<item>
 
 <title>A Nona Vida de Louis Drax [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANONAVDDLSDRX.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANONAVDDLSDRX.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/490.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/490.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -959,7 +1071,9 @@ Louis Drax (Aiden Longworth) é um garoto brilhante na escola, mas com sérias d
 "<item>
 
 <title>A Órfã [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AORFA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AORFA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/502.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/502.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -976,7 +1090,9 @@ Kate e John Coleman ficam arrasados devido a um trágico aborto. Apesar de já t
 "<item>
 
 <title>A Pantera Cor de Rosa 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APNTRACRDRSA2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APNTRACRDRSA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/513.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/513.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -993,7 +1109,9 @@ Quando famosos tesouros ao redor do mundo são roubados, entre eles o lendário 
 "<item>
 
 <title>A Pantera Cor-de-Rosa [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APNTRACRDRSA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APNTRACRDRSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/512.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/512.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1010,7 +1128,9 @@ Jacques Clouseau (Steve Martin) é um atrapalhado policial francês, que trabalh
 "<item>
 
 <title>A Pele Que Habito [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/APLEQHBTO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/APLEQHBTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/519.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/519.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1027,7 +1147,9 @@ Um evento traumático arruina o estranho relacionamento entre um cirurgião plá
 "<item>
 
 <title>A Princesa Encantada 3: O Mistério do Tesouro Encantado [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/APRNCSAENCTDA3OMSTRODTSROENCTDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APRNCSAENCTDA3OMSTRODTSROENCTDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/545.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/545.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1044,7 +1166,9 @@ O reino da princesa Odete e seu grande amor, Derek, está ameaçado pela bruxa Z
 "<item>
 
 <title>A Próxima Pele [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APRXMPLE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APRXMPLE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/567.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/567.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1061,7 +1185,9 @@ Um adolescente desaparecido retorna depois de oito anos, quando todos já o dava
 "<item>
 
 <title>A Queda de Berlim [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AQDADBRLM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AQDADBRLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/572.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/572.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1078,7 +1204,9 @@ O dia de Frank começou difícil e está prestes a ficar muito pior. Ele acordou
 "<item>
 
 <title>A Rede [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ARDE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ARDE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/583.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/583.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1095,7 +1223,9 @@ Angela Bennett (Sandra Bullock) é uma especialista em corrigir sistemas de info
 "<item>
 
 <title>A Revolta de Atlas: Parte II [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ARVLTDATLSPT2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ARVLTDATLSPT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/591.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/591.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1112,7 +1242,9 @@ A economia mundial está à beira do colapso. Desemprego ultrapassa 24%. Gás es
 "<item>
 
 <title>A Seita Misteriosa [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ASETAMSTRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ASETAMSTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/604.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/604.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1129,7 +1261,9 @@ Um jornalista e sua namorada são puxados enquanto investigam um culto cujo líd
 "<item>
 
 <title>A Série Divergente - Convergente [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/609.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/609.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1146,7 +1280,9 @@ Tris (Shailene Woodley), Quatro (Theo James) e seus amigos estão prestes a pula
 "<item>
 
 <title>A Sétima Alma [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASTMALM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASTMALM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/610.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/610.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1163,7 +1299,9 @@ Numa pequena cidade existe a lenda de que um assassino serial jurou na noite de 
 "<item>
 
 <title>A Síndrome de Berlin [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASNDRMDBRLM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASNDRMDBRLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/611.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/611.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1180,7 +1318,9 @@ Clare (Teresa Palmer) é uma fotógrafa australiana que está passando férias e
 "<item>
 
 <title>A Sociedade Secreta de Souptown [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASCDASCRTADSPTW.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASCDASCRTADSPTW.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/613.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/613.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1197,7 +1337,9 @@ Lançamento: 2015
 "<item>
 
 <title>A Sombra do Inimigo [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASMBRDINMGO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASMBRDINMGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/615.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/615.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1214,7 +1356,9 @@ O novo alvo de investigação do detetive Alex Cross é o assassino em série Pi
 "<item>
 
 <title>A Trilha [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ATRLHA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ATRLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/630.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/630.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1231,7 +1375,9 @@ Cliff (Steve Zahn) e Cydney (Milla Jovovich) estão em plena lua de mel, viajand
 "<item>
 
 <title>A Vastidão da Noite [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AVSTDAODNTE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AVSTDAODNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/648.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/648.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1248,7 +1394,9 @@ No período da Guerra Fria, enquanto acontece a corrida espacial entre os Estado
 "<item>
 
 <title>A Vila [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AVILA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AVILA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/666.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/666.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1265,7 +1413,9 @@ Os habitantes de uma comunidade cercada por uma floresta temem que perigosas cri
 "<item>
 
 <title>A Visita [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AVSTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1282,7 +1432,9 @@ Um garoto (Ed Oxenbould) e sua irmã (Olivia DeJonge) são mandados pela mãe (K
 "<item>
 
 <title>Ace Ventura: Um Detetive Diferente [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACVNTURA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACVNTURA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/696.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/696.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1299,7 +1451,9 @@ Ace Ventura (Jim Carrey) é um detetive especializado em desvendar crimes envolv
 "<item>
 
 <title>Acesso Restrito [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSORSTRTO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSORSTRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/698.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/698.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1316,7 +1470,9 @@ Five friends arrive at a party, fully unaware that the special night is just a c
 "<item>
 
 <title>Advogado do Diabo [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ADVGDIAB.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ADVGDIAB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/715.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/715.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1332,8 +1488,29 @@ Kevin Lomax, advogado de uma pequena cidade da Flórida que nunca perdeu um caso
 </item>"
 "<item>
 
+<title>Afunde o Navio [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BLWTHMAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1283.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1283.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Comédia
+Lançamento: 2020
+
+Mary Beth e Priscilla Connolly tentam encobrir uma briga horrenda com um homem perigoso. Para ocultar seu crime, as irmãs devem se aprofundar no ventre criminoso de sua cidade natal, descobrindo os segredos mais sombrios da cidade.</info>
+ 
+<genre>Drama, Mistério, Comédia</genre>
+ 
+<date>20/03/2020</date>
+</item>"
+"<item>
+
 <title>Agente Mirim [COLOR yellow][IMDb 4,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AGNTMRIM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AGNTMRIM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/721.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/721.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1350,7 +1527,9 @@ A mãe de Olivia sai numa viagem de negócios e a deixa sozinha em casa com seu 
 "<item>
 
 <title>Agora Estamos Sozinhos [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AGORSTMSZNHO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AGORSTMSZNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/723.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/723.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1367,7 +1546,9 @@ Del (Peter Dinklage) está sozinho no mundo. Depois da raça humana ter sido des
 "<item>
 
 <title>Além da Ilusão [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALMDILSAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALMDILSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/738.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/738.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1384,7 +1565,9 @@ Paris, 1943. As irmãs Laura (Natalie Portman) e Kate Barlow (Lily-Rose Depp) re
 "<item>
 
 <title>Além da Realidade [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALMDRLD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALMDRLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/741.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/741.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1401,7 +1584,9 @@ Um casal, desesperado para ter filhos e após inúmeras tentativas infrutíferas
 "<item>
 
 <title>Alma Perdida [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALMPRDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALMPRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/769.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/769.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1418,7 +1603,9 @@ Casey Beldon (Odette Yustman) é uma jovem orfã de mãe (Carla Gugino), que se 
 "<item>
 
 <title>Almas Condenadas [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALMSCNDNDS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALMSCNDNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/770.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/770.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1435,7 +1622,9 @@ No Filme, Melanie (Leah Pipes), acaba de sair de um tratamento de reabilitação
 "<item>
 
 <title>Alta Tensão [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALTNSAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALTNSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/779.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/779.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1452,7 +1641,9 @@ Marie e Alexia são amigas e companheiras na universidade. Num final de semana, 
 "<item>
 
 <title>Altered Carbon: Nova Capa [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALTRDCRBNNVCPA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALTRDCRBNNVCPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/781.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/781.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1469,7 +1660,9 @@ No planeta Latimer, Takeshi Kovacs deve proteger um tatuador enquanto investiga 
 "<item>
 
 <title>Amaldiçoada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMLDODA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLDODA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/794.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/794.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1486,7 +1679,9 @@ Liz (Dakota Fanning) é uma corajosa mulher que tenta fugir de seu passado, mas 
 "<item>
 
 <title>Amistad [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMSTAD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMSTAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/825.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/825.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1503,7 +1698,9 @@ A história remonta ao ano de 1839 e é baseada em factos verídicos que ocorrer
 "<item>
 
 <title>Amizade Desfeita 2 - Dark Web [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMZDSFTA2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMZDSFTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/833.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/833.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1520,7 +1717,9 @@ Um jovem de 20 anos encontra arquivos ocultos no armazenamento de memória do se
 "<item>
 
 <title>Amnésia [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMNSIA2000.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMNSIA2000.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/834.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/834.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1537,7 +1736,9 @@ Leonard está caçando o homem que estuprou e matou sua esposa. Ele tem dificuld
 "<item>
 
 <title>Anjo Perdido / Anjo Meu [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ANJPRDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANJPRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/879.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/879.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1554,7 +1755,9 @@ Lizzie (Noomi Rapace) é uma mulher melancólica que ainda sofre com a morte pre
 "<item>
 
 <title>Anjos e Demônios [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ANJSEDEMS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANJSEDEMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/888.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/888.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1571,7 +1774,9 @@ O professor de simbologia Robert Langdon (Tom Hanks), depois de decifrar o códi
 "<item>
 
 <title>Annabelle 2: A Criação do Mal [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANBL2ACRCDML.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANBL2ACRCDML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/895.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/895.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1588,7 +1793,9 @@ Anos após a trágica morte de sua filha, um habilidoso artesão de bonecas e su
 "<item>
 
 <title>Annabelle 3: De Volta Para Casa [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/896.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/896.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1605,7 +1812,9 @@ Quando Ed (Patrick Wilson) e Lorraine Warren (Vera Farmiga) deixam sua casa dura
 "<item>
 
 <title>Annabelle Hooper e os Fantasmas de Nantucket [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANBLEHPREOSFNTMSDNTCKT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANBLEHPREOSFNTMSDNTCKT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/897.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/897.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1622,7 +1831,9 @@ De férias na histórica Ilha de Nantucket, um escritor de mistério adolescente
 "<item>
 
 <title>Antes Que Eu Vá [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANTSQEVA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANTSQEVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/905.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/905.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1639,7 +1850,9 @@ Samantha Kingston (Zoey Deutch) é uma jovem que tem tudo o que uma jovem pode d
 "<item>
 
 <title>Ao Cair da Noite [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AOCRDNT2017.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AOCRDNT2017.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/911.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/911.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1656,7 +1869,9 @@ Paul (Joel Edgerton) mora com sua esposa e o filho numa casa solitária e mister
 "<item>
 
 <title>Ao Cair da Noite [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AOCRDNT2014.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AOCRDNT2014.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/912.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/912.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1673,7 +1888,9 @@ George Lam investiga o assassinato de uma celebridade de Hong Kong. Mas descobri
 "<item>
 
 <title>Apóstolo [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APSTLO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APSTLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/928.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/928.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1690,7 +1907,9 @@ Um homem misterioso viaja para uma ilha remota em busca de sua irmã desaparecid
 "<item>
 
 <title>Arquivo X: O Filme [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ARQVXOFLME.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ARQVXOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/956.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/956.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1707,7 +1926,9 @@ Dois agentes do FBI, que foram até Dallas, Texas tentar evitar que um prédio f
 "<item>
 
 <title>As Aventuras de Tintim [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AAVTRSDTNFILME.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AAVTRSDTNFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/988.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/988.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1724,7 +1945,9 @@ Tintim é um jovem repórter que tem um histórico impressionante de aventuras. 
 "<item>
 
 <title>As Criaturas Atrás das Paredes [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/997.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/997.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1740,8 +1963,278 @@ Para ganhar dinheiro e ajudar sua mãe doente a pagar o aluguel, um garoto pobre
 </item>"
 "<item>
 
+<title>As Duas Faces de um Crime [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASDUSFCSDUMCRME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1006.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1006.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Mistério, Thriller
+Lançamento: 1996
+
+Em Chicago, um arcebispo (Stanley Anderson) assassinado com 78 facadas. O crime choca a opinião pública e tudo indica que o assassino um jovem de 19 anos (Edward Norton), que foi preso com as roupas cobertas de sangue da vítima. No entanto, um ex-promotor (Richard Gere) que se tornou um advogado bem-sucedido se propõe a defendê-lo, sem cobrar honorários, tendo um motivo para isto: adora ser coberto pela mídia, além de ter uma incrível necessidade de vencer.</info>
+ 
+<genre>Crime, Drama, Mistério, Thriller</genre>
+ 
+<date>03/04/1996</date>
+</item>"
+"<item>
+
+<title>As Fitas de Poughkeepsie [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASFTSDPUGKPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1014.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1014.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Crime
+Lançamento: 2007
+
+Centenas de fitas cassetes com torturas e assassinatos são encontradas em uma casa abandonada. E tudo isso acaba revelando uma década inteira do terror de um serial killer, se tornando uma perturbadora coleção de provas criminais que jamais foi vistas.</info>
+ 
+<genre>Terror, Mistério, Crime</genre>
+ 
+<date>27/04/2007</date>
+</item>"
+"<item>
+
+<title>As Peripécias do Ratinho Detetive [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ASPRPCSDUMRTNHODTVE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1038.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1038.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Mistério
+Lançamento: 1986
+
+Basil é um ratinho detetive. É considerado o Sherlock Holmes dos roedores. Ele está investigando o desaparecimento de um homem famoso por fazer brinquedos. Basil acredita que Ratagão, seu arqui-inimigo, pode estar envolvido com o desaparecimento do senhor Flaversham, o fabricante de brinquedos. Durante as investigações, o ratinho descobre que Ratagão planeja sequestrar a rainha e se declarar o rei.</info>
+ 
+<genre>Animação, Família, Aventura, Mistério</genre>
+ 
+<date>02/07/1986</date>
+</item>"
+"<item>
+
+<title>Asilo do Medo [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASLODMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1058.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1058.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Terror
+Lançamento: 2018
+
+Quando uma equipe de investigadores paranormais é contratada para investigar um sanatório prestes a ser demolido, acabam por descobrir pistas que levam a um massacre violento causado por um médico insano nos anos 60.</info>
+ 
+<genre>Mistério, Thriller, Terror</genre>
+ 
+<date>09/01/2018</date>
+</item>"
+"<item>
+
+<title>Assalto em Dose Dupla [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ASLTEDSDPL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1061.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1061.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Comédia, Crime
+Lançamento: 2011
+
+Ao fim da tarde, Tripp (Patrick Dempsey) vai ao banco e é surpreendido por duas gangues, que desejam roubá-lo. Uma delas é formada por profissionais, enquanto a outra conta com uma dupla de palhaços chamada Peanut Butter (Tim Blake Nelson) e Jelly (Pruitt Taylor Vince). Em meio a um tiroteio dentro do banco, Tripp tenta proteger Kaitlin (Ashley Judd), uma bela caixa. Logo o sistema de segurança bloqueia todas as saídas do banco, o que faz com que todos fiquem presos dentro dele.</info>
+ 
+<genre>Mistério, Comédia, Crime</genre>
+ 
+<date>19/08/2011</date>
+</item>"
+"<item>
+
+<title>Assassinato no Expresso do Oriente [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASSNTNEXPRSDORNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1065.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1065.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Mistério
+Lançamento: 2017
+
+Várias pessoas estão fazendo uma viagem longa em um luxuoso trem. A paz, entretanto, é perturbada por um acontecimento sinistro: um terrível assassinato. À bordo da composição está ninguém menos que o mundialmente reconhecido detetive Hercule Poirot (Kenneth Branagh) que se voluntaria para iniciar uma varredura no local, ouvindo testemunhas e possíveis suspeitos para descobrir o que de fato aconteceu.</info>
+ 
+<genre>Crime, Drama, Mistério</genre>
+ 
+<date>23/11/2017</date>
+</item>"
+"<item>
+
+<title>Assassinato no Mississipi [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASSNTONMSISPI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1067.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1067.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller, Mistério
+Lançamento: 2017
+
+Uma jovem mulher tenta se recuperar de um trauma que envolve um assassinato misterioroso na região onde mora, no Mississippi. Porém o prospecto de uma vida normal é ameçado quando ela começa a sentir que os horrores de seu passado estão voltando a assombrá-la.</info>
+ 
+<genre>Crime, Thriller, Mistério</genre>
+ 
+<date>03/01/2017</date>
+</item>"
+"<item>
+
+<title>Assassinos Anônimos [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASASNSANMOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1074.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1074.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime, Mistério
+Lançamento: 2019
+
+A tensão está insuportável dentro do Assassinos Anônimos, um grupo de apoio para matadores, quando todos estão tentando descobrir qual deles está por trás de um atentado contra um importante senador – crime que colocou toda a polícia da cidade em alerta. Só que a trama é bem mais complexa do que um simples assassinato encomendado e, conforme os segredos vão sendo revelados, uma conspiração envolvendo alianças secretas e traições, tornando a sessão de hoje uma explosão de violência e caos. Agora, é matar ou morrer… Entre assassinos!</info>
+ 
+<genre>Ação, Thriller, Crime, Mistério</genre>
+ 
+<date>27/06/2019</date>
+</item>"
+"<item>
+
+<title>Assombrada pelo Passado [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASMBDPLPSDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1079.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1079.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2013
+
+O espírito de Lisa está preso a uma casa onde ela e sua família morreram. Quando Olívia se muda para a propriedade, o fantasma de Lisa decide assombrá-la para impedir que o passado se repita.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>25/10/2013</date>
+</item>"
+"<item>
+
+<title>Atirador [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/SHTRATRDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1100.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1100.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Mistério, Thriller, Crime
+Lançamento: 2007
+
+Bob Lee Swagger (Mark Wahlberg) é um ex-atirador de elite dos Marines, que se afastou do trabalho após uma traição. Isolado em um refúgio remoto nas montanhas, Bob é encontrado pelo coronel aposentado Isaac Johnson (Danny Glover). Johnson lhe diz que o país precisa de sua ajuda, já que a vida do presidente está em risco e apenas suas habilidades em tiro de longa distância podem impedir que esta ameaça se concretize. Inicialmente relutante, Bob aceita o trabalho. Porém logo ele descobre que tudo é na verdade uma armação patrocinada por Johnson.</info>
+ 
+<genre>Ação, Drama, Mistério, Thriller, Crime</genre>
+ 
+<date>22/03/2007</date>
+</item>"
+"<item>
+
+<title>ATL - O Som do Gueto [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ATLOSMDGTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1108.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1108.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Mistério
+Lançamento: 2006
+
+""ATL"" conta a história de quatro adolescentes da classe operária de Atlanta chegando a uma idade na vizinhaça onde a música hip-hop e o skate são as palavras de comando.
+
+Enquanto o grupo se prepara para uma vida após o Ensino médio, desafios dentro e fora das pistas de patinação trazem pontos de reviravolta nas vidas dos quatro.</info>
+ 
+<genre>Drama, Comédia, Mistério</genre>
+ 
+<date>31/03/2006</date>
+</item>"
+"<item>
+
+<title>Atlantique [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ATLNTQ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1109.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1109.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Fantasia, Mistério
+Lançamento: 2019
+
+Ada é uma menina de 17 anos apaixonada por Souleimane, um jovem pedreiro que está trabalhando na construção de um prédio futurista à beira mar no subúrbio de Dakar, no Senegal. O único problema é que ela foi prometida para outro homem.</info>
+ 
+<genre>Drama, Romance, Fantasia, Mistério</genre>
+ 
+<date>15/11/2019</date>
+</item>"
+"<item>
+
+<title>Atômica [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ATMCAGNTESPC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1112.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1112.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Mistério, Thriller
+Lançamento: 2017
+
+Lorraine Broughton (Charlize Theron), uma agente disfarçada do MI6, é enviada para Berlim durante a Guerra Fria para investigar o assassinato de um oficial e recuperar uma lista perdida de agentes duplos. Ao lado de David Percival (James McAvoy), chefe da localidade, a assassina brutal usará todas as suas habilidades nesse confronto de espiões.</info>
+ 
+<genre>Ação, Mistério, Thriller</genre>
+ 
+<date>03/08/2017</date>
+</item>"
+"<item>
+
+<title>Ave, César! [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVCSR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1135.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1135.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Mistério
+Lançamento: 2016
+
+Na década de 1950, Hollywood vive o auge da Era de Ouro. Mas para fazer tudo isso funcionar não é nada fácil para o especialista em resolver grandes encrencas Eddie Mannix (Josh Brolin). Ele tem um grande problema pela frente quando o astro da grande produção Ave, César!, Baird Whitlock (George Clooney), é sequestrado.</info>
+ 
+<genre>Comédia, Drama, Mistério</genre>
+ 
+<date>25/02/2016</date>
+</item>"
+"<item>
+
 <title>Aventuras de Timmy Failure [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AVNTRSDTMYFLRE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVNTRSDTMYFLRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/987.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/987.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1757,8 +2250,789 @@ Timmy ""Fiasco"" Failure é um garoto de 11 anos que acredita ser o melhor detet
 </item>"
 "<item>
 
+<title>Barricade [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BARCADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1177.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2012
+
+Um pai viúvo leva seus dois filhos pequenos a uma casa afastada nas montanhas para se isolar e buscar conforto. No entanto, a paz se vai com uma tempestade de inverno, que traz acontecimentos terríveis.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>25/09/2012</date>
+</item>"
+"<item>
+
+<title>Baseado em Fatos Reais [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BSDEMFTSRES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1179.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1179.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério, Drama
+Lançamento: 2018
+
+Durante o lançamento de seu mais novo livro, a autora Delphine (Emmanuelle Seigner) conhece Elle (Eva Green), uma de suas fãs, que lhe pede para autografar seu exemplar. Elle também é escritora, trabalhando como ghost writer em biografias de celebridades. Aos poucos as duas se aproximam, com Elle se tornando cada vez mais presente na vida da autora. Por mais que às vezes se sinta incomodada com a onipresença da nova amiga, Delphine permite a aproximação devido à sua fragilidade emocional, o que logo se revela um erro.</info>
+ 
+<genre>Thriller, Mistério, Drama</genre>
+ 
+<date>12/04/2018</date>
+</item>"
+"<item>
+
+<title>Batman - A Máscara do Fantasma [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1206.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1206.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Thriller, Drama, Crime, Mistério, Romance, Baseado em Quadrinho
+Lançamento: 1993
+
+Desenho animado no qual o Homem-Morcego combate o Fantasma, um novo bandido que mata um grande criminoso e faz parecer que o herói encapuçado cometeu o crime, fazendo com que Gotham City se volte contra ele. Além disso, Batman ainda precisa se preocupar em defender a cidade do Coringa.</info>
+ 
+<genre>Ação, Aventura, Animação, Thriller, Drama, Crime, Mistério, Romance, Baseado em Quadrinho</genre>
+ 
+<date>25/12/1993</date>
+</item>"
+"<item>
+
+<title>Batman - Ano Um [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMANUM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1208.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1208.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Crime, Mistério, Baseado em Quadrinho
+Lançamento: 2011
+
+Bruce Wayne retorna para casa depois de anos de treinamento para se tornar um combatente do crime, enquanto o Tenente James Gordon se muda para Gotham e encontra a corrupção em todas as esferas da administração. Assim tem início a batalha de Wayne contra as famílias mafiosas e bandidos de Gotham, sem contar a polícia, que nos primórdios de Batman, atacam o morcego freneticamente.</info>
+ 
+<genre>Ação, Aventura, Animação, Crime, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>18/10/2011</date>
+</item>"
+"<item>
+
+<title>Batman - Contra o Capuz Vermelho [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1193.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1193.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Mistério, Baseado em Quadrinho
+Lançamento: 2010
+
+Batman enfrenta o maior de todos os seus desafios quando o misterioso Capuz Vermelho toma Gotham City de assalto. Parte vigilante, parte criminoso, o Capuz Vermelho inicialmente limpa as ruas da cidade com a mesma eficiência do Batman, mas sem seguir o mesmo código de ética do Cavaleiro das Trevas. Para ele, matar é sempre uma opção. E quando o Coringa fica dividido entre os dois, a dura verdade vem à tona e velhas feridas são reabertas.</info>
+ 
+<genre>Ação, Animação, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>10/08/2010</date>
+</item>"
+"<item>
+
+<title>Batman - O Cavaleiro das Trevas, Parte 1 [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNOCVDSTRVSPT1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1214.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1214.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Mistério, Baseado em Quadrinho
+Lançamento: 2012
+
+Mais uma noite cai sobre Gotham City e, com a chegada da escuridão, o crime e a vilania surgem em meio às sombras. Os dias do Batman e outros nobres super-heróis são somente memórias desaparecendo; a violência e o desespero são agora os arautos do nosso tempo. Mas um evento promoverá uma drástica mudança: quando Harvey “Duas Caras” Dent troca sua reabilitação por uma nova descida ao submundo do crime, um idoso e desgastado Bruce Wayne usa a máscara e capa mais uma vez. Com um elenco estelar de dubladores originais, incluindo Peter Weller, Ariel Winter e David Selby, esta indômita lenda da DC Comics ganha vida novamente para encarar batalhas esquecíveis, perseguições de tirar o fôlego e oferecer uma promessa de um melhor futuro para a humanidade, porque não existe lugar para os criminosos se esconderem quando o Cavaleiro das Trevas retorna.</info>
+ 
+<genre>Ação, Animação, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>25/09/2012</date>
+</item>"
+"<item>
+
+<title>Batman - O Cavaleiro das Trevas, Parte 2 [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNOCVDSTRVSPT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1215.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1215.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Mistério, Baseado em Quadrinho
+Lançamento: 2013
+
+O Cavaleiro das Trevas, com a jovem e corajosa Carrie Kelly ao seu lado como Robin, finalmente reclamam Gotham City de volta e permitem que um raio de esperança penetre no reino de terror que o grupo conhecido como Os Mutantes instaurou na cidade. Com Batman de volta às atenções, a intensa cobertura da mídia acabou despertando um mal, de longe muito pior, no Asilo Arkham – O Coringa! Destinado a ser o seu inimigo mortal, o Coringa tem um plano diabólico que pode conduzir Batman aos níveis mais sombrios da insanidade. Enquanto isso, no horizonte, uma catástrofe global se dirige rapidamente para Gotham e surge em uma face familiar, a do Homem-de-Aço, só que desta vez ele tem Batman em seus pensamentos. Um elenco estelar empresta sua voz aos personagens, liderado por Peter Weller, Ariel Winter e David Selby, e entrega ao espectador o épico final desta lenda da DC Comics.</info>
+ 
+<genre>Ação, Animação, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>29/01/2013</date>
+</item>"
+"<item>
+
+<title>Batman - Silêncio [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMNSLNCIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1221.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1221.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Animação, Mistério, Ação, Baseado em Quadrinho
+Lançamento: 2019
+
+O passado de Batman começa a se desenrolar, dá-se início a uma corrida para o Cavaleiro das Trevas solucionar os jogos mortais do Silêncio. O misterioso vilão conhecido como Silêncio está determinado a destruir tanto a carreira de combatente ao crime de Batman, quanto a vida pessoal de Bruce Wayne</info>
+ 
+<genre>Crime, Animação, Mistério, Ação, Baseado em Quadrinho</genre>
+ 
+<date>20/07/2019</date>
+</item>"
+"<item>
+
+<title>Batman vs. Drácula [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMVSDRCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1200.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1200.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Terror, Ação, Thriller, Ficção científica, Família, Mistério, Baseado em Quadrinho
+Lançamento: 2005
+
+Coringa e Pinguim fogem do Asilo Arkham e vão atrás de um dinheiro escondido em uma cripta do Cemitério de Gotham. Batman aparece e o Coringa aparentemente morre quando cai num rio e é eletrocutado por um de seus aparelhos eletrônicos. O Pinguim vai sozinho ao cemitério mas encontra no caixão um corpo no lugar do dinheiro. Ele é o Conde Drácula que hipnotiza o vilão para ser seu escravo e cuidar do caixão dele durante o dia. Várias pessoas começam a desaparecer e a polícia culpa o Batman, quando testemunhas dizem que um morcego gigante era o que estaria levando as vítimas. O herói por sua vez desconfia do Dr. Alucard (“Drácula”, escrito ao contrário), um recém-chegado antropólogo europeu que conhecera numa festa da sociedade e que demonstrara interesse pela repórter Vicki Vale. Ao deduzir quem é seu inimigo, Batman inicia a perseguição e terá que enfrentar ainda um exército de mortos-vivos, o Pinguim e um Coringa vampiro, além de resgatar Vicki Vale, raptada pelo Conde Drácula.</info>
+ 
+<genre>Fantasia, Animação, Terror, Ação, Thriller, Ficção científica, Família, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>18/10/2005</date>
+</item>"
+"<item>
+
+<title>Beyond The Sky [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BEYNDTHSKYLEG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1260.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1260.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Terror, Mistério, Thriller
+Lançamento: 2018
+
+Um documentarista viaja para uma convenção de OVNIs no Novo México, onde conhece um artista local com um segredo sombrio. Ao seguirem uma trilha de pistas, descobrem visões perturbadoras e questionam tudo o que acreditam quando ficam imersos na enigmática cultura dos índios Pueblo. (e 16 - Estimado 16 Anos)</info>
+ 
+<genre>Ficção científica, Terror, Mistério, Thriller</genre>
+ 
+<date>21/09/2018</date>
+</item>"
+"<item>
+
+<title>Black Mirror: Bandersnatch [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLCKMIRBDNRSNTCHOF.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1273.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1273.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Mistério, Drama, Thriller, Cinema TV
+Lançamento: 2018
+
+Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programador começa a questionar o próprio conceito de realidade e acaba enfrentando um desafio alucinante.</info>
+ 
+<genre>Ficção científica, Mistério, Drama, Thriller, Cinema TV</genre>
+ 
+<date>28/12/2018</date>
+</item>"
+"<item>
+
+<title>Black Mirror: Bandersnatch - Todos Finais [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLCKMIRBDNRSNTCH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1272.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1272.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Mistério, Drama, Thriller, Cinema TV
+Lançamento: 2018
+
+Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programador começa a questionar o próprio conceito de realidade e acaba enfrentando um desafio alucinante.</info>
+ 
+<genre>Ficção científica, Mistério, Drama, Thriller, Cinema TV</genre>
+ 
+<date>28/12/2018</date>
+</item>"
+"<item>
+
+<title>Boneco do Mal [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BONCDML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1300.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1300.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 2016
+
+Greta é uma jovem americana que aceita um trabalho como babá em uma pequena vila inglesa. Porém, o garoto de 8 anos de quem ela tem que cuidar é, na verdade, um boneco de quem o casal cuida como se fosse um menino de verdade, como uma forma de lidarem com a morte do filho, ocorrida 20 anos antes. Após violar uma lista de regras do garoto, uma série de eventos inexplicáveis transformam a vida dela em um pesadelo.</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>18/02/2016</date>
+</item>"
+"<item>
+
+<title>Borboleta Negra [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRBLTNGR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1311.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1311.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério
+Lançamento: 2017
+
+Paul (Antonio Banderas), um escritor recluso e sem sucesso que planeja escrever um roteiro que vai lhe trazer retorno, vive em uma cidade montanhosa que está lidando com sequestros e assassinatos. Após um tenso jantar em que encontra o vagabundo Jack (Jonathan Rhys Meyers), Paul acaba oferecendo a Jack um lugar para ficar. Na casa de Paul, o exigente Jack começa a se aproximar do trabalho do escritor. Paul começa a suspeitar que Jack é um assassino e os dois iniciam um jogo de poder.</info>
+ 
+<genre>Thriller, Mistério</genre>
+ 
+<date>08/06/2017</date>
+</item>"
+"<item>
+
+<title>Brincadeira Mortal [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BRNCDRMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1334.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1334.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Drama, Mistério
+Lançamento: 2019
+
+Uma família enfrenta uma força invisível enquanto percebem que precisam se unir para lutar contra o terror que os perturba.</info>
+ 
+<genre>Terror, Thriller, Drama, Mistério</genre>
+ 
+<date>28/02/2019</date>
+</item>"
+"<item>
+
+<title>Busca Alucinante [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BSCALCNTE2010.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1353.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1353.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Thriller
+Lançamento: 2010
+
+Após constatar o sequestro de seu marido, Mary, irá até as últimas consequências para descobrir seu paradeiro. Para piorar a situação, as investigações apontam que o rapaz jamais esteve no hospital.</info>
+ 
+<genre>Drama, Mistério, Thriller</genre>
+ 
+<date>24/08/2010</date>
+</item>"
+"<item>
+
+<title>Buscando... [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BSCNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1362.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1362.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério, Drama
+Lançamento: 2018
+
+Após uma jovem de 16 anos desaparecer, seu pai David Kim pede ajuda às autoridades locais. Sem sucesso, após 37 horas, David decide invadir o computador de sua filha para procurar pistas que possam levar ao seu paradeiro.</info>
+ 
+<genre>Thriller, Mistério, Drama</genre>
+ 
+<date>20/09/2018</date>
+</item>"
+"<item>
+
+<title>Cadê Você, Bernadette? [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CDVCBRNDTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1392.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1392.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Mistério
+Lançamento: 2019
+
+Antes de viajar com sua família para a Antártica, uma arquiteta que sofre de agorafobia - o medo de estar em lugares abertos ou em meio à multidões - some sem deixar pistas para trás. Sua filha, então, através de emails, sessões com sua psicóloga, cartas e outros documentos, tenta descobrir para onde sua mãe foi e quais foram as razões de seu desaparecimento.</info>
+ 
+<genre>Drama, Comédia, Mistério</genre>
+ 
+<date>16/08/2019</date>
+</item>"
+"<item>
+
+<title>Calmaria [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CLMARIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1406.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1406.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério, Drama
+Lançamento: 2019
+
+O capitão de um barco de pesca vive em uma pequena ilha do Caribe e de repente sua vida toma um caminho inesperado. Sua ex-mulher retorna e pede para que ele leve seu atual e abusivo marido em um passeio de barco e se livre dele.</info>
+ 
+<genre>Thriller, Mistério, Drama</genre>
+ 
+<date>28/02/2019</date>
+</item>"
+"<item>
+
+<title>Cam [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CAM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1408.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1408.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério, Terror
+Lançamento: 2018
+
+Uma Cam Girl com a popularidade em alta tem sua conta roubada por uma sósia e precisa identificar a farsante para reaver sua identidade.</info>
+ 
+<genre>Thriller, Mistério, Terror</genre>
+ 
+<date>01/10/2018</date>
+</item>"
+"<item>
+
+<title>Capitão Sky e o Mundo do Amanhã [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CPTAOSKYEOMNDODAMANHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1438.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1438.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Ação, Thriller, Ficção científica, Aventura
+Lançamento: 2004
+
+Nova York, final dos anos 1930. A repórter Polly Perkins (Gwyneth Paltrow) descobre que os cientistas mais famosos do mundo estão desaparecendo. Após a cidade ser atacada por imensos robôs voadores, ela resolve pedir ajuda ao piloto e aventureiro ­ e seu antigo namorado ­ Joseph ""Capitão Sky"" Sullivan (Jude Law) e Dex (Giovanni Ribisi), o fiel ajudante dele. A missão principal do grupo é localizar o megalomaníaco doutor Totenkopf (Laurence Olivier), que está escondido em algum lugar do Nepal e planeja destruir o mundo.</info>
+ 
+<genre>Mistério, Ação, Thriller, Ficção científica, Aventura</genre>
+ 
+<date>19/11/2004</date>
+</item>"
+"<item>
+
+<title>Casamento Sangrento [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CSMNTSNGNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1476.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1476.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério, Comédia
+Lançamento: 2019
+
+Grace acaba de se casar com o herdeiro milionário de uma família especializada em jogos de tabuleiro. Antes de realmente integrar a família, no entanto, ela é obrigada a participar de uma tradição familiar: um jogo de esconde-esconde pela mansão dos Le Domas. Aos poucos, Grace percebe que a brincadeira inocente é na verdade uma caçada sangrenta contra a recém-casada, em que todas as armas e golpes são permitidos para assassiná-la. A jovem terá a difícil missão de sobreviver aos ataques até o amanhecer.</info>
+ 
+<genre>Terror, Thriller, Mistério, Comédia</genre>
+ 
+<date>21/08/2019</date>
+</item>"
+"<item>
+
+<title>Cascavel [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CASCVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1477.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1477.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Mistério, Terror
+Lançamento: 2019
+
+Como retribuição a uma mulher misteriosa que salvou sua filha picada por uma cobra mortal, uma mãe solteira tem de matar um desconhecido antes do pôr do sol.</info>
+ 
+<genre>Thriller, Drama, Mistério, Terror</genre>
+ 
+<date>25/10/2019</date>
+</item>"
+"<item>
+
+<title>Caso 39 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CSO39.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1478.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1478.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2009
+
+Emily Jenkins (Renée Zellweger) é uma dedicada assistente social que está diante do caso 39, referente à garota Lilith Sullivan (Jodelle Ferland). Os pais de Lilith tentam feri-la, o que faz com que Emily intervenha. Encantada com a garota, Emily oferece que more com ela até que seja encontrada uma família adotiva. Só que há um mistério por trás da garota, já que todos que se aproximam dela aparentam enlouquecer.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>13/08/2009</date>
+</item>"
+"<item>
+
+<title>Cidade dos Sonhos [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CIDDSNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1525.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Mistério
+Lançamento: 2002
+
+Uma jovem atriz viaja para Hollywood e se vê emaranhada numa intriga secreta com uma mulher que escapou por pouco de ser assassinada, e que agora se encontra com amnésia devido a um acidente de carro. Seu mundo se torna um pesadelo e surreal.</info>
+ 
+<genre>Thriller, Drama, Mistério</genre>
+ 
+<date>17/05/2002</date>
+</item>"
+"<item>
+
+<title>Cidades de Papel [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CDADPAPL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1528.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1528.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Romance
+Lançamento: 2015
+
+A história é centrada em Quentin Jacobsen (Nat Wolff) e sua enigmática vizinha e colega de escola Margo Roth Spiegelman (Cara Delevingne). Ele nutre uma paixão platônica por ela. E não pensa duas vezes quando a menina invade seu quarto propondo que ele participe de um engenhoso plano de vingança. Mas, depois da noite de aventura, Margo desaparece – não sem deixar pistas sobre o seu paradeiro.</info>
+ 
+<genre>Drama, Mistério, Romance</genre>
+ 
+<date>09/07/2015</date>
+</item>"
+"<item>
+
+<title>Cinzas de Vingança [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNZSDVNGCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1539.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1539.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller, Drama, Mistério
+Lançamento: 2019
+
+Com um emprego honesto e uma esposa amorosa, Nick Brenner acreditava que ele havia escapado com segurança de sua história criminosa e violenta. Mas sua antiga equipe não se esqueceu dele ou do dinheiro que roubou, e quando eles pegam o que Nick agora mais valoriza - sua esposa - ele não tem mais nada a perder. Confrontado pelo xerife da cidade, que também é seu sogro, Nick deve decidir se ele permanecerá em seu novo caminho ou se entregará à sua necessidade de vingança e forçará seus inimigos a pagar pelo que fizeram.</info>
+ 
+<genre>Crime, Thriller, Drama, Mistério</genre>
+ 
+<date>12/12/2019</date>
+</item>"
+"<item>
+
+<title>Colheita Maldita 666: Isaac Está de Volta [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLHTMLDTA666ISCESTDVLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1587.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1587.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 1999
+
+Uma garota chamada Hannah volta para sua cidade natal (Gatlin) para descobrir quem é sua mãe, mas no caminho ela encontra um homem estranho que diz um presságio de sua vida com uma passagem da Bíblia. Quando ela chega lá, ela acorda Isaac de um coma em que ele está há 19 anos. Isaac está acordado e quer cumprir a profecia final.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>19/10/1999</date>
+</item>"
+"<item>
+
+<title>Com Amor, Van Gogh [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMAMRVNGH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1598.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1598.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Drama, Mistério
+Lançamento: 2017
+
+Um ano após o suicídio de Vincent Van Gogh, Armand Roulin (Douglas Booth) encontra uma carta por ele enviada ao irmão Theo, que jamais chegou ao seu destino. Após conversar com o pai, carteiro que era amigo pessoal de Van Gogh, Armand é incentivado a entregar ele mesmo a correspondência. Desta forma, ele parte para a cidade francesa de Arles na esperança de encontrar algum contato com a família do pintor falecido. Lá, inicia uma investigação junto às pessoas que conheceram Van Gogh, no intuito de decifrar se ele realmente se matou.</info>
+ 
+<genre>Animação, Drama, Mistério</genre>
+ 
+<date>01/09/2017</date>
+</item>"
+"<item>
+
+<title>Compartilhar [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CMPRTLHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1634.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1634.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério
+Lançamento: 2019
+
+As redes sociais podem mudar sua vida em apenas um instante. Especialmente para Mandy, que aos 16 anos se vê em um vídeo que parece mostrá-la sofrendo abuso sexual durante uma noite de que não se lembra. Enquanto tenta recuperar alguma lembrança do que aconteceu, Mandy terá que lidar com as expectativas de sua família e amigos sobre como ela deve enfrentar as consequências do que pode ou não ter acontecido.</info>
+ 
+<genre>Drama, Mistério</genre>
+ 
+<date>27/07/2019</date>
+</item>"
+"<item>
+
+<title>Contagem Regressiva [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTGMRGRSVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1658.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1658.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Mistério
+Lançamento: 2016
+
+Quando um louco com explosivos sequestra um garoto, Ray, assombrado pela perda de seu filho, desafia seu capitão e leva o caso por conta própria. Agora ele deve vencer o relógio, parar um psicopata e salvar uma criança inocente.</info>
+ 
+<genre>Ação, Crime, Mistério</genre>
+ 
+<date>05/04/2016</date>
+</item>"
+"<item>
+
+<title>Contato [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CNTATO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1661.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1661.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ficção científica, Mistério
+Lançamento: 1997
+
+Desde menina, Ellie Arroway sempre buscou indícios de outras vidas no universo, deixando de lado sua vida particular e até mesmo o amor do teólogo Palmer Joss. Quando recebe uma mensagem do espaço por meio de uma máquina que permite o contato com extraterrestres, ela confirma sua teoria e reivindica ser escolhida para a missão, mesmo que para isso tenha que correr risco de vida.</info>
+ 
+<genre>Drama, Ficção científica, Mistério</genre>
+ 
+<date>19/09/1997</date>
+</item>"
+"<item>
+
+<title>Contato Visceral [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNTRVSCRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1663.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1663.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Mistério, Thriller
+Lançamento: 2019
+
+A vida de um bartender de Nova Orleans é virada do avesso quando um cliente esquece um celular no bar. Por causa dele, o funcionário é afetado por uma série de eventos perturbadores e inexplicáveis.</info>
+ 
+<genre>Terror, Drama, Mistério, Thriller</genre>
+ 
+<date>18/10/2019</date>
+</item>"
+"<item>
+
+<title>Contatos de 4º Grau [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CNTSD4GRAU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1664.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1664.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Ficção científica, Thriller
+Lançamento: 2009
+
+O desaparecimento de pessoas em uma pequena cidade do Alasca desperta a atenção de um estudioso, que acaba misteriosamente assassinado. Sua esposa, a psicóloga Abigail Tyler, passa a observar evidências de abdução alienígena por meio de filmagens obtidas durante sessões com seus pacientes. Após outro caso de morte, o xerife August passa a considerá-la suspeita, dando início a um intrigante e assustador jogo de perguntas e respostas sobre deuses e alienígenas através das sessões de hipnose.</info>
+ 
+<genre>Mistério, Ficção científica, Thriller</genre>
+ 
+<date>06/11/2009</date>
+</item>"
+"<item>
+
+<title>Contra o Tempo [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNTRPTMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1671.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1671.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Mistério
+Lançamento: 2011
+
+Um soldado assume a mente de um homem nos últimos oito minutos de sua vida, antes da explosão de um trem. Sua missão é voltar diversas vezes ao mesmo momento e descobrir quem plantou a bomba e como impedir a tragédia.</info>
+ 
+<genre>Thriller, Ficção científica, Mistério</genre>
+ 
+<date>30/09/2011</date>
+</item>"
+"<item>
+
+<title>Controle Absoluto [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTRLABSLTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1673.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1673.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Ação
+Lançamento: 2008
+
+Jerry Shaw (Shia LaBeouf) e Rachel Holloman (Michelle Monaghan) não se conhecem, até que um telefonema feito por uma mulher desconhecida os une. Ameaçando a vida de ambos e de suas famílias, a voz utiliza a tecnologia do dia-a-dia para rastrear e controlar todos os seus movimentos. Logo eles se tornam os fugitivos mais procurados do país, precisando se unir para descobrir o que realmente está ocorrendo.</info>
+ 
+<genre>Mistério, Thriller, Ação</genre>
+ 
+<date>26/09/2008</date>
+</item>"
+"<item>
+
+<title>Corpo Fechado [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRPFCHDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1697.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1697.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Mistério
+Lançamento: 2001
+
+Um espantoso desastre de trem deixa os Estados Unidos em choque. Todos os passageiros das locomotivas acabam mortos, exceto David Dunne, que sai completamente ileso do acidente, deixando todos, inclusive os médicos e ele próprio, em choque. Enquanto busca explicações sobre o que poderia ter salvado sua vida, David encontra Elijah Price, um desconhecido que apresenta uma explicação no mínimo bizarra para o fato.</info>
+ 
+<genre>Thriller, Drama, Mistério</genre>
+ 
+<date>19/01/2001</date>
+</item>"
+"<item>
+
+<title>Corra! [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CORRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1704.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1704.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Terror
+Lançamento: 2017
+
+Agora que Chris e sua namorada, Rose, chegaram à fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princípio, Chris acha que o comportamento excessivamente agradável dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avança, uma série de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.</info>
+ 
+<genre>Mistério, Thriller, Terror</genre>
+ 
+<date>18/05/2017</date>
+</item>"
+"<item>
+
+<title>Crimes em Primeiro Grau [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CRMSEMPRMROGRAU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1740.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1740.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Thriller, Crime
+Lançamento: 2002
+
+Claire Kubik (Ashley Judd) é uma promotora de sucesso que tem um casamento feliz com Tom Chapman (James Caviezel), até que é surpreendida com a revelação de que seu marido tem um passado escondido como integrante do exército norte-americano. Tom é acusado de ter participado em um massacre em El Salvador, sendo preso por esta acusação até que seu julgamento na corte militar ocorra. Ainda atordoada com o ocorrido e em dúvida sobre seu marido, Claire decide defendê-lo no julgamento e para tanto recebe a ajuda de Charles Grimes (Morgan Freeman), um promotor militar.</info>
+ 
+<genre>Drama, Mistério, Thriller, Crime</genre>
+ 
+<date>05/04/2002</date>
+</item>"
+"<item>
+
+<title>Criminosos de Novembro [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRMNOSDNOV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1744.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1744.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Mistério, Thriller
+Lançamento: 2017
+
+Addison tem 18 anos de idade e está terminando o Ensino Médio. Enquanto pensa se deve entrar na universidade, ele leva uma vida cheia de conflitos, vendendo drogas aos colegas e brigando com os professores. Quando Kevin, um colega de turma, é assassinado, Addison decide fazer a sua própria investigação.</info>
+ 
+<genre>Crime, Drama, Mistério, Thriller</genre>
+ 
+<date>28/12/2017</date>
+</item>"
+"<item>
+
+<title>Cubo Zero [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CUBZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1760.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1760.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Ficção científica, Thriller
+Lançamento: 2004
+
+A trama segue o princípio básico dos anteriores: um grupo de pessoas encontra-se preso num cubo com diversas câmaras e, aparentemente, sem saída. Em cada sala, uma armadilha e uma morte. Só o mais esperto e menos rebelde sempre sobrevive. Desta vez, porém, há a viagem a um local misterioso e uma trama envolvendo operadores do cubo.</info>
+ 
+<genre>Mistério, Ficção científica, Thriller</genre>
+ 
+<date>15/10/2004</date>
+</item>"
+"<item>
+
 <title>Oi Scooby-Doo! [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCServer09/ondemand/SCBDFLM08.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCServer09/ondemand/SCBDFLM08.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/774.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/774.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
