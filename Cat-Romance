@@ -1,7 +1,9 @@
 "<item>
 
 <title>(500) Dias com Ela [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/500DSCMELA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/500DSCMELA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/9.JPG</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/9.JPG</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -19,7 +21,9 @@ Um romântico escritor se surpreende quando sua namorada Summer termina o namoro
 "<item>
 
 <title>(Des)encontro Perfeito [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/DESNCTROPRFTO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/DESNCTROPRFTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/10.JPG</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/10.JPG</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -37,7 +41,9 @@ Nancy (Lake Bell) tem 34 anos de idade e leva uma vida fracassada no amor. Quand
 "<item>
 
 <title>...E o Vento Levou [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -54,7 +60,9 @@ Lançamento: 1940
 "<item>
 
 <title>10 Coisas que Deveríamos Fazer Antes de nos Separar [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/10COSQDVRMSFZRANTSDNSPR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/10COSQDVRMSFZRANTSDNSPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/35.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/35.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -72,7 +80,9 @@ Em 10 Coisas que Deveríamos Fazer Antes de Nos Separar, Abigail (Christina Ricc
 "<item>
 
 <title>2:22 - Encontro Marcado [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/222ENCTRMRDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/222ENCTRMRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/75.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/75.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -90,7 +100,9 @@ Dylan Branson (Michiel Huisman) é um homem que tem a sua vida permanentemente m
 "<item>
 
 <title>360 [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/360.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/360.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/89.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/89.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -108,7 +120,9 @@ Lançamento: 2012
 "<item>
 
 <title>365 Dias [COLOR yellow][IMDb 3,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/365DIAS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/365DIAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/90.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/90.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -126,7 +140,9 @@ Laura, a fim de salvar seu relacionamento, vai para a Sicília, onde conhece Mas
 "<item>
 
 <title>72 Horas [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/72HRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/72HRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/104.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/104.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -144,7 +160,9 @@ John Brennan (Russell Crowe) é um professor universitário que leva uma vida pe
 "<item>
 
 <title>A Acompanhante [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AACMPNHT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AACMPNHT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/115.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/115.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -162,7 +180,9 @@ Desesperado por uma boa história, um jornalista viciado em sexo se lança no mu
 "<item>
 
 <title>A Arte da Conquista [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AARTDCNQSTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AARTDCNQSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/122.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/122.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -180,7 +200,9 @@ Esquisitão e rebelde, George não tem nenhuma ambição a não ser cabular a pr
 "<item>
 
 <title>A Arte da Paixão [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AARTDPXA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AARTDPXA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/123.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/123.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -197,7 +219,9 @@ O filme é inspirado no livro homônimo de Jonathan Smith, que também assina o 
 "<item>
 
 <title>A Barraca do Beijo [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ABARCDBJ.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ABARCDBJ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/132.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/132.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -214,7 +238,9 @@ O primeiro beijo de Elle vira um romance proibido com o cara mais gato da escola
 "<item>
 
 <title>A Barraca do Beijo 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ABARCDBJ2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ABARCDBJ2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/133.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/133.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -231,7 +257,9 @@ Após o verão mais romântico de sua vida, Elle Evans precisa voltar à realida
 "<item>
 
 <title>A Bela Adormecida [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABLADRMCDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABLADRMCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/141.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/141.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -248,7 +276,9 @@ Ciumenta e vingativa a fada Malévola lança um feitiço cruel sobre a princesa 
 "<item>
 
 <title>A Bela e a Fera [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ABELEAFRA1991.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ABELEAFRA1991.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/142.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/142.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -265,7 +295,9 @@ Em uma pequena aldeia da França vive Belle, uma jovem inteligente que é consid
 "<item>
 
 <title>A Bela e a Fera [COLOR yellow][IMDb 3,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABLAEAFRA2010.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABLAEAFRA2010.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/143.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/143.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -282,7 +314,9 @@ Uma visão mais dark do conto de amor proibido entre a delicada Bela e a mais te
 "<item>
 
 <title>A Bela e a Fera [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ABELEAFRA2014.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ABELEAFRA2014.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/144.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/144.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -299,7 +333,9 @@ No ano de 1810, um naufrágio leva à falência um comerciante (André Dussollie
 "<item>
 
 <title>A Bela e a Fera [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ABLEAFR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ABLEAFR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/145.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/145.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -316,7 +352,9 @@ Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e de
 "<item>
 
 <title>A Bruxa do Cabelo Branco do Reino Lunar [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/155.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/155.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -333,7 +371,9 @@ Perto do final da dinastia Ming, Zhuo Yi Hang, como o futuro líder da seita Wud
 "<item>
 
 <title>A Casa do Lago [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ACSADLGO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ACSADLGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/182.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/182.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -350,7 +390,9 @@ Kate Forster (Sandra Bullock) é uma médica solitária, que morava em uma casa 
 "<item>
 
 <title>A Cinco Passos de Você [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ACNCPASDVC.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ACNCPASDVC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/200.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/200.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -367,7 +409,9 @@ Aos dezesseis anos de idade, Stella Grant é diferente da maior parte dos adoles
 "<item>
 
 <title>A Colina Escarlate [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACLNESCRLAT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACLNESCRLAT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/204.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/204.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -384,7 +428,9 @@ Apaixonada pelo misterioso Sir Thomas Sharpe (Tom Hiddleston), a escritora Edith
 "<item>
 
 <title>A Criada [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ACRIDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ACRIDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/214.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/214.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -401,7 +447,9 @@ Coreia do Sul, anos 1930. Durante a ocupação japonesa, a jovem Sookee é contr
 "<item>
 
 <title>A Culpa é das Estrelas [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACLPEDSESTRLS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACLPEDSESTRLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/218.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/218.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -418,7 +466,9 @@ Diagnosticada com câncer, a adolescente Hazel Grace Lancaster (Shailene Woodley
 "<item>
 
 <title>A Culpa Não É do Carma [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACLPNEDCMA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACLPNEDCMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/220.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/220.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -435,7 +485,9 @@ A jovem Sara é uma designer de moda de Madri que vê sua vida virar de cabeça 
 "<item>
 
 <title>A Dama e o Vagabundo [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/223.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/223.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -452,7 +504,9 @@ A história de uma cachorrinha de classe chamada Lady que se sente abandonada pe
 "<item>
 
 <title>A Dama e o Vagabundo [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ADMEOVGNDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADMEOVGNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/224.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/224.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -469,7 +523,9 @@ Relançamento do clássico de 1955, que conta a história de amor entre a Dama, 
 "<item>
 
 <title>A Dama e o Vagabundo 2: As Aventuras de Banzé [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/225.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/225.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -486,7 +542,9 @@ Entre seus filhotes comportados, Dama e o Vagabundo criam o bagunceiro Banze –
 "<item>
 
 <title>A Descoberta [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ADSCBRT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ADSCBRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/226.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/226.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -503,7 +561,9 @@ Um ano após a existência da vida após a morte ser comprovada cientificamente,
 "<item>
 
 <title>A Encruzilhada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -520,7 +580,9 @@ Eugene Martone (Ralph Macchio) é um jovem e talentoso guitarrista que está bus
 "<item>
 
 <title>A Escala - Amizade em Segundo Lugar [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESCLAMZDEEMSGNDLGR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLAMZDEEMSGNDLGR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/243.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/243.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -537,7 +599,9 @@ Duas grandes amigas de infância decidem fazer uma viagem juntas. Mas quando est
 "<item>
 
 <title>A Escalada [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESCLDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/244.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/244.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -554,7 +618,9 @@ Lançamento: 2017
 "<item>
 
 <title>A Escolha [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESCLHA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/10/items/250_20200903/246.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/246.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -571,7 +637,9 @@ Travis é um jovem que não acredita em relacionamentos, até que Gabby se muda 
 "<item>
 
 <title>A Escolha Perfeita [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/247.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/247.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -588,7 +656,9 @@ O The Barden Bellas é um grupo formado apenas por garotas, que apostam no visua
 "<item>
 
 <title>A Extraordinária Garota Chamada Estrela [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AEXTRODRGRTCHMDAESTRLA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AEXTRODRGRTCHMDAESTRLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/265.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/265.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -605,7 +675,9 @@ Desde o dia em que chegou a tranquila Mica High, em uma explosão de cor e som, 
 "<item>
 
 <title>A Fera [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AFERA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AFERA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/283.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/283.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -622,7 +694,9 @@ Kyle (Alex Pettyfer) era um jovem bem sucedido e cobiçado pelas mulheres, que d
 "<item>
 
 <title>A Filha do Meu Melhor Amigo [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AFLHDMLHRAMG.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFLHDMLHRAMG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/286.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/286.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -639,7 +713,9 @@ David (Hugh Laurie) e Paige Walling (Catherine Keener) são vizinhos e amigos de
 "<item>
 
 <title>A Filha do Patrão [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AFLHDPTR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFLHDPTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/287.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/287.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -656,7 +732,9 @@ Vital é funcionário de uma fábrica têxtil e tem 40 anos de idade. Ele se apa
 "<item>
 
 <title>A Flor Mortal [COLOR yellow][IMDb 3,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AFLRMRTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AFLRMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/10/items/250_20200903/289.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/289.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -673,7 +751,9 @@ Uma detetive investigando um caso de assassinato em série pede a ajuda de uma p
 "<item>
 
 <title>A Força do Destino [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AFRCDSTNO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFRCDSTNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/292.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/292.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -690,7 +770,9 @@ Jovem decide se tornar um Oficial da Marinha e ingressa na Escola de Aspirantes,
 "<item>
 
 <title>A Forma da Água [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AFRMDAGU.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFRMDAGU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/293.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/293.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -707,7 +789,9 @@ Década de 60. Em meio aos grandes conflitos políticos e bélicos e as grandes 
 "<item>
 
 <title>A Fotografia [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AFTGRFIA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AFTGRFIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/295.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/295.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -724,7 +808,9 @@ Vasculhando os pertences deixados pela mãe, Mae encontra algumas fotos antigas 
 "<item>
 
 <title>A Garota de Rosa Shocking [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AGRTDRSSCKNG.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AGRTDRSSCKNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/306.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/306.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -741,7 +827,9 @@ Andie é uma jovem de classe baixa na escola de Chicago, e costuma sair com sua 
 "<item>
 
 <title>A Garota no Trem [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AGRTNTRM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AGRTNTRM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/308.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/308.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -758,7 +846,9 @@ Rachel (Emily Blunt), uma alcoólatra desempregada e deprimida, sofre pelo seu d
 "<item>
 
 <title>A Incrível História de Adaline [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AINVRVLHSTRDADLNE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AINVRVLHSTRDADLNE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/355.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/355.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -775,7 +865,9 @@ Adaline Bowman (Blake Lively) nasceu na virada do século XX. Ela tinha uma vida
 "<item>
 
 <title>A Incrível Jessica James [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AINCRVLJSCJMS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AINCRVLJSCJMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/356.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/356.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -792,7 +884,9 @@ Jessica James, uma aspirante a dramaturga de Nova York, está lutando para super
 "<item>
 
 <title>A Lagoa Azul [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ALGOAZL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ALGOAZL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/370.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/370.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -809,7 +903,9 @@ Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinh
 "<item>
 
 <title>A Luta pela Esperança [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALTPLESPRCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALTPLESPRCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/399.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/399.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -826,7 +922,9 @@ Jim Braddock (Russell Crowe) era considerado um prodígio do boxe, mas foi obrig
 "<item>
 
 <title>A Luz Entre Oceanos [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALZNOCNOS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALZNOCNOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/401.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/401.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -843,7 +941,9 @@ Na Austrália, depois da Primeira Guerra Mundial, um homem trabalha em um farol 
 "<item>
 
 <title>A Magia do Natal [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMGIADNTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMGIADNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/402.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/402.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -860,7 +960,9 @@ Ainda no ar, a apresentadora Kate Harper (Lori Loughlin) falou sem querer seus v
 "<item>
 
 <title>A Mala e os Errantes [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMLDODA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLDODA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/404.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/404.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -877,7 +979,9 @@ Ellie (Grace Van Patten) e Danny (Callum Turner) formam um par improvável de cr
 "<item>
 
 <title>A Menina do Chalé [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMNINDCHLE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMNINDCHLE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/439.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/439.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -894,7 +998,9 @@ O ex-campeão do skate Kim quer ganhar mais dinheiro depois da trágica morte de
 "<item>
 
 <title>A Missy Errada [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMSYERDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMSYERDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/445.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/445.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -911,7 +1017,9 @@ Tim acha que convidou a garota dos sonhos para uma temporada no Havaí. Só que 
 "<item>
 
 <title>À Moda Antiga [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMDANTGA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMDANTGA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/447.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/447.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -928,7 +1036,9 @@ De um passado imoral para uma vida de princípios e fé em Deus. Essa é a traje
 "<item>
 
 <title>A Morte e Vida de Charlie [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMRTEVDADCHLIE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMRTEVDADCHLIE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/7/items/457_20200905/456.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/456.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -945,7 +1055,9 @@ Adorado pela mãe e pelo irmãozinho Sam, Charlie St. Cloud é um velejador de s
 "<item>
 
 <title>A Noiva Cadáver [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ANOIVCDVER.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ANOIVCDVER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/489.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/489.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -962,7 +1074,9 @@ As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a
 "<item>
 
 <title>A Nova Cinderela: Era Uma Vez Uma Canção [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ANVACNRLAERUMVZUMCNCAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ANVACNRLAERUMVZUMCNCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/493.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/493.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -979,7 +1093,9 @@ Rotineiramente a jovem Katie (Lucy Hale) é explorada e maltratada pela madrasta
 "<item>
 
 <title>A Nova Cinderela: Milagre de Natal [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ANVACNRLAMLGRDNTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANVACNRLAMLGRDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/492.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/492.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -996,7 +1112,9 @@ Kat é uma jovem aspirante a cantora, cujos sonhos sempre são esnobados pela cr
 "<item>
 
 <title>A Noviça Rebelde [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1013,7 +1131,9 @@ No final da década de 1930, na Áustria, quando o pesadelo nazista estava prest
 "<item>
 
 <title>A Onda Perfeita [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AONDPRFTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AONDPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/500.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/500.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1030,7 +1150,9 @@ Esta é uma história de amor, baseada no amor de um homem pelo surfe, no amor d
 "<item>
 
 <title>A Outra Mulher [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AOUTRMLHR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AOUTRMLHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/509.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/509.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1047,7 +1169,9 @@ Daniel é apaixonado por sua esposa, mas também é conhecido por sua imaginaç�
 "<item>
 
 <title>A Pequena Morte [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APQNMRT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APQNMRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/521.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/521.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1064,7 +1188,9 @@ Uma comédia que explora as vidas sexuais secretas de vários casais que moram e
 "<item>
 
 <title>A Pequena Sereia [COLOR yellow][IMDb 4,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APQNSREA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APQNSREA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/523.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/523.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1081,7 +1207,9 @@ Um jovem repórter vai fazer uma reportagem sobre um circo que diz apresentar um
 "<item>
 
 <title>A Primeira Transa de Jonathan [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APRMRTRNSDJNTHN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APRMRTRNSDJNTHN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/537.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/537.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1098,7 +1226,9 @@ Em 1956, em uma pequena cidade, o introvertido e desajeitado Jonathan, é amigo 
 "<item>
 
 <title>A Primeira Vez [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/APRMRVEZ.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APRMRVEZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/538.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/538.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1115,7 +1245,9 @@ Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victor
 "<item>
 
 <title>A Princesa e a Plebeia [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APRNCSAEAPBLEA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APRNCSAEAPBLEA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/540.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/540.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1132,7 +1264,9 @@ Uma duquesa e uma confeiteira descobrem que são sósias perfeitas uma da outra 
 "<item>
 
 <title>A Princesa e o Sapo [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APRNCSEOSPO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APRNCSEOSPO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/542.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/542.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1149,7 +1283,9 @@ Tiana é uma bela jovem que vive em Nova Orleans. Desde criança ela sonha em te
 "<item>
 
 <title>A Princesa Encantada 2: O Segredo do Castelo [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/APRNCSAENCTDA2EOSGRDOCSTLO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APRNCSAENCTDA2EOSGRDOCSTLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/544.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/544.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1166,7 +1302,9 @@ Após um ano de casamento, Derek e Odette estão se afastando. Enquanto a prince
 "<item>
 
 <title>A Promessa [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APRMSA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APRMSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/561.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/561.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1183,7 +1321,9 @@ Um triângulo amoroso surge em meio aos últimos dias do Império Otomano. Duran
 "<item>
 
 <title>A Proposta [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/APRPSTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APRPSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/16/items/487_20200908/562.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/562.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1200,7 +1340,9 @@ Margaret Tate (Sandra Bullock) é uma poderosa editora de livros, que se vê em 
 "<item>
 
 <title>À Prova de Fogo [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APRVDFGO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APRVDFGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/565.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/565.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1217,7 +1359,9 @@ No trabalho, o bombeiro Caleb Holt (Cameron) é um profissional que cumpre com t
 "<item>
 
 <title>A Química que Há Entre Nós [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AQMCAQHENTRNOS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AQMCAQHENTRNOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/576.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/576.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1234,7 +1378,9 @@ Após ser transferida para outra escola, uma aluna do ensino médio conhece o ed
 "<item>
 
 <title>A Saga Crepúsculo: Amanhecer - Parte 1 [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ASGCRSPCLO04.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ASGCRSPCLO04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/597.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/597.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1251,7 +1397,9 @@ O casamento de Edward e Bella, sua lua de mel e o nascimento do filho desencadei
 "<item>
 
 <title>A Saga Crepúsculo: Amanhecer - Parte 2 [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ASGCRSPCLO05.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ASGCRSPCLO05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/598.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/598.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1268,7 +1416,9 @@ Depois do nascimento da filha de Bella e Edward, Renesmee, os Cullen reúnem lob
 "<item>
 
 <title>A Saga Crepúsculo: Eclipse [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ASGCRSPCLO03.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ASGCRSPCLO03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/599.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/599.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1285,7 +1435,9 @@ O perigo novamente ronda Bella com uma série de crimes misteriosos aterrorizand
 "<item>
 
 <title>A Saga Crepúsculo: Lua Nova [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ASGCRSPCLO02.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ASGCRSPCLO02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/600.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/600.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1302,7 +1454,9 @@ Um incidente na festa de aniversário de Isabella ""Bella"" Swan (Kristen Stewar
 "<item>
 
 <title>A Sereia - Lago Dos Mortos [COLOR yellow][IMDb 4,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ASRIALGDSMRTS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ASRIALGDSMRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/608.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/608.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1319,7 +1473,9 @@ Uma sereia malvada se apaixona por Roman, noivo de Marina, e tenta mantê-lo lon
 "<item>
 
 <title>A Sociedade Literária e a Torta de Casca de Batata [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASCDADELTRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASCDADELTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/612.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/612.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1336,7 +1492,9 @@ Juliet Ashton (Lily James) é uma jovem escritora, com falta de inspiração, qu
 "<item>
 
 <title>A Sogra [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ASGRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/614.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/614.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1353,7 +1511,9 @@ Após anos procurando seu príncipe encantado, Charlotte Cantilini (Jennifer Lop
 "<item>
 
 <title>A Teoria de Tudo [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ATORIDTD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ATORIDTD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/622.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/622.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1370,7 +1530,9 @@ Baseado na biografia de Stephen Hawking, o filme mostra como o jovem astrofísic
 "<item>
 
 <title>A Última Música [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AULTMSCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AULTMSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/641.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/641.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1387,7 +1549,9 @@ Lançamento: 2010
 "<item>
 
 <title>A Última Vez Que Vi Paris [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AULTMVZQVIPRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AULTMVZQVIPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/647.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/647.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1404,7 +1568,9 @@ Charles Wills (Van Johnson) é um escritor que volta a Paris para reencontrar a 
 "<item>
 
 <title>A Vida em Si [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AVDEMSI.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AVDEMSI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/658.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/658.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1421,7 +1587,9 @@ O relacionamento amoroso vivido por um casal, é contado através de diferentes 
 "<item>
 
 <title>A Vizinhança Assombrada [COLOR yellow][IMDb 3,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AVZNHAASBRDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AVZNHAASBRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/673.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/673.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1438,7 +1606,9 @@ Os moradores de uma pequena cidade descobrem que algo mais sinistro do que os lo
 "<item>
 
 <title>Abandonado no Altar [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABNDNDONALTR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABNDNDONALTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/681.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/681.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1455,7 +1625,9 @@ Diego está prestes a ter o melhor dia de sua vida, quando do nada é deixado pl
 "<item>
 
 <title>Acertando o Passo [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACRTDOPASO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACRTDOPASO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/697.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/697.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1472,7 +1644,9 @@ Casada há 40 anos, Lady Sandra Abbott (Imelda Staunton) descobre que seu marido
 "<item>
 
 <title>Acho que Amo Minha Mulher [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACHQAMOMNHMLHR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACHQAMOMNHMLHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/699.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/699.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1489,7 +1663,9 @@ Richard Cooper (Chris Rock) é um executivo bem sucedido, casado com Brenda (Gin
 "<item>
 
 <title>Adoráveis Mulheres [COLOR yellow][IMDb 7,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ADRVSMLHRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADRVSMLHRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/709.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/709.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1506,7 +1682,9 @@ As irmãs Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Flo
 "<item>
 
 <title>Adorável Professora [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ADRVLPRFSRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ADRVLPRFSRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/710.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/710.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1523,7 +1701,9 @@ Linda Sinclair (Julianne Moore) é uma professora de inglês solteira, que tem 4
 "<item>
 
 <title>Afinado no Amor [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AFNDONAMR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AFNDONAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/716.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/716.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1540,7 +1720,9 @@ Em 1985 Robbie Hart (Adam Sandler), que sempre sonhou ser compositor, vive como 
 "<item>
 
 <title>After [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AFTR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AFTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/717.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/717.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1557,7 +1739,9 @@ Tessa Young é uma jovem com uma vida simples, ótimas notas na escola, muitos a
 "<item>
 
 <title>Água para Elefantes [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AGUPRELFNTS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AGUPRELFNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/725.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/725.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1574,7 +1758,9 @@ Jacob Jankowski é um estudante de veterinária que está perto de se formar qua
 "<item>
 
 <title>Aladdin [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALDN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALDN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/731.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/731.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1591,7 +1777,9 @@ Após o sultão ordenar que sua filha, a princesa Jasmine, ache um marido rapida
 "<item>
 
 <title>Aladdin [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ALDN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ALDN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/732.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/732.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1608,7 +1796,9 @@ Um jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conce
 "<item>
 
 <title>Aladdin - O Retorno de Jafar [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALDN2ORTNDJFR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALDN2ORTNDJFR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/734.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/734.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1625,7 +1815,9 @@ Ao final de Aladdin, Jafar fora tornado um gênio e por consequência, aprisiona
 "<item>
 
 <title>Além da Eternidade [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ALMDETRNDAD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ALMDETRNDAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/737.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/737.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1642,7 +1834,9 @@ Pete Sandich é um piloto que despeja água sobre os incêndios florestais em al
 "<item>
 
 <title>Alguém Especial [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ALGMESPCL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ALGMESPCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/748.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/748.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1659,7 +1853,9 @@ Após o fim de um relacionamento, a jornalista musical Jenny se prepara para rec
 "<item>
 
 <title>Aliados [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALDOS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALDOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/752.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/752.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1676,7 +1872,9 @@ Em uma missão para eliminar um embaixador nazista em Casablanca, no Marrocos, o
 "<item>
 
 <title>Alta Fidelidade [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALTFDLDADE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALTFDLDADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/776.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/776.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1693,7 +1891,9 @@ Rob Gordon (John Cusack) é o dono de uma loja de música beira da falência, po
 "<item>
 
 <title>Alta Tensão [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ALTATNSAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ALTATNSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/778.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/778.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1710,7 +1910,9 @@ Um informante do FBI manteve sua nova identidade em segredo por 15 anos, agora u
 "<item>
 
 <title>Amar [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/800.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/800.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1727,7 +1929,9 @@ Laura (María Pedraza) e Carlos (Pol Monen) têm apenas 17 anos se desejam muito
 "<item>
 
 <title>American Pie 2: A Segunda Vez é Ainda Melhor [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AMRCNPIE2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AMRCNPIE2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/805.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/805.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1744,7 +1948,9 @@ Ao término do primeiro ano da faculdade, Jim (Jason Biggs), Oz (Chris Klein), K
 "<item>
 
 <title>American Pie: A Primeira Vez é Inesquecível [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AMRCNPIE1.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AMRCNPIE1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/808.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/808.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1761,7 +1967,9 @@ Jim Levenstein, Kevin Myers, Oz Ostreicher e Paul Finch são quatro amigos virge
 "<item>
 
 <title>American Pie: O Casamento [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AMRCNPIE3.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AMRCNPIE3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/810.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/810.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1778,7 +1986,9 @@ Após os eventos do colégio e da faculdade, os garotos estão enfim se tornando
 "<item>
 
 <title>Amizade Colorida [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMZDECLRDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMZDECLRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/831.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/831.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1795,7 +2005,9 @@ Jamie (Mila Kunis) é uma jovem recrutadora de Nova York que convence um cliente
 "<item>
 
 <title>Amor & Amizade [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMREAMZD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMREAMZD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/836.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/836.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1812,7 +2024,9 @@ Século XVIII. A bela viúva Lady Susan Vernon (Kate Beckinsale) foge das fofoca
 "<item>
 
 <title>Amor à Distância [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRADSTNCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRADSTNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/837.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/837.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1829,7 +2043,9 @@ Erin (Drew Barrymore) e Garrett (Justin Long) viveram um romance de seis semanas
 "<item>
 
 <title>Amor à Segunda Vista [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMRASGNDVST.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMRASGNDVST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/838.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/838.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1846,7 +2062,9 @@ Lucy Kelson (Sandra Bullock) é a chefe do conselho da Wade Corporation, uma das
 "<item>
 
 <title>Amor a Toda Prova [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRATDPRVA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRATDPRVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/839.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/839.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1863,7 +2081,9 @@ O quarentão Carl Weaver leva uma vida feliz ao lado da mulher. Quando ela pede 
 "<item>
 
 <title>Amor Além da Vida [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMRALMDVDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMRALMDVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/840.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/840.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1880,7 +2100,9 @@ Chris Nielsen morre em um acidente e entra no céu. Mas quando descobre que sua 
 "<item>
 
 <title>Amor de Aluguel [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRDALGL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRDALGL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/841.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/841.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1897,7 +2119,9 @@ Alvin (Nick Cannon) é um limpador de piscinas nerd e conhecedor de carros. Ele 
 "<item>
 
 <title>Amor de Páscoa [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMRDPSCOA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMRDPSCOA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/842.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/842.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1914,7 +2138,9 @@ Erika se disfarça na fábrica de chocolate de sua família para descobrir porqu
 "<item>
 
 <title>Amor e Revolução [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMRERVLC.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMRERVLC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/843.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/843.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1931,7 +2157,9 @@ Chile, 1973. Em meio ao golpe de estado que derrubou o presidente eleito Salvado
 "<item>
 
 <title>Amor e Tulipas [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRETLPA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRETLPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/844.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/844.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1948,7 +2176,9 @@ Holanda, século XVII. O artista Jan van Loos (Dane DeHaan) é contratado para p
 "<item>
 
 <title>Amor em Little Italy [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMREMLTITLY.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMREMLTITLY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/846.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/846.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1965,7 +2195,9 @@ Leo Campo (Hayden Christensen) e Nikki Angioli (Emma Roberts) são namorados. Os
 "<item>
 
 <title>Amor em Obras [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AMREMOBRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AMREMOBRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/847.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/847.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1982,7 +2214,9 @@ Uma executiva de San Francisco ganha uma pousada na Nova Zelândia e deixa a vid
 "<item>
 
 <title>Amor em Tempos de Guerra [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMREMTMPSDGRRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMREMTMPSDGRRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/848.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/848.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -1999,7 +2233,9 @@ Em 1914, uma mulher deixa seu país quando conhece um médico norte-americano qu
 "<item>
 
 <title>Amor no Safari [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMRNSFRI.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMRNSFRI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/849.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/849.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2016,7 +2252,9 @@ Kira (Lacey Chabert) é uma jovem urbana que mora em Chicago. Ela descobre que h
 "<item>
 
 <title>Amor Pleno [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRPLNO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRPLNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/850.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/850.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2033,7 +2271,9 @@ Um homem (Ben Affleck), descontente com a sua vida, viaja a Paris e inicia uma p
 "<item>
 
 <title>Amor por Acidente [COLOR yellow][IMDb 4,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMRPRACDNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMRPRACDNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/851.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/851.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2052,7 +2292,9 @@ Decidida a lutar por seus direitos ela parte para Washington no intuito de ajuda
 "<item>
 
 <title>Amor por Direito [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMRPRDRTO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMRPRDRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/852.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/852.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2069,7 +2311,9 @@ A policial de New Jersey Laurel Hester (Julianne Moore) e a mecânica Stacie And
 "<item>
 
 <title>Amor Sem Escalas [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRSMESCLAS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRSMESCLAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/853.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/853.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2086,7 +2330,9 @@ Ryan Bingham tem por função demitir pessoas, até que seu chefe contrata a arr
 "<item>
 
 <title>Amor Sem Fim [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMRSMFM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMRSMFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/854.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/854.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2103,7 +2349,9 @@ Jade Butterfield (Gabriella Wilde) é uma jovem superprotegida pelos pais, que a
 "<item>
 
 <title>Amor Sem Querer [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRSMQR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRSMQR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/856.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/856.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2120,7 +2368,9 @@ Amor Sem Querer é um filme que conta a história de Trish que vai a um encontro
 "<item>
 
 <title>Amor, Romance e Chocolate [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMRMCECHLTE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMRMCECHLTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/857.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/857.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2137,7 +2387,9 @@ Dispensada pelo namorado, Emma (Lacey Chabert) decide fazer uma viagem para a B�
 "<item>
 
 <title>Antes do Adeus [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANTSDADUS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANTSDADUS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/903.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/903.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2154,7 +2406,9 @@ Brooke (Alice Eve) é uma jovem que está correndo para tentar pegar o trem em d
 "<item>
 
 <title>Antes do Amanhecer [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ANTSDAMNHCR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANTSDAMNHCR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/904.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/904.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2171,7 +2425,9 @@ Jesse (Ethan Hawke), um jovem americano, e Celine (Julie Delpy), uma estudante f
 "<item>
 
 <title>Antes que Termine o Dia [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANTSQUTRMNEODIA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANTSQUTRMNEODIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/907.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/907.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2188,7 +2444,9 @@ Ian (Paul Nicholls) e Samantha (Jennifer Love Hewitt) formam um casal feliz e ch
 "<item>
 
 <title>Antes Só do que Mal Casado [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ANTSODQMLCSDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANTSODQMLCSDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/909.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/909.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2205,7 +2463,9 @@ Eddie está em crise porque todos seus amigos já se casaram menos ele. Quando c
 "<item>
 
 <title>Anthony Zimmer [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANTNYZMR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANTNYZMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/910.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/910.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2222,7 +2482,9 @@ In Paris, the international police force and the Russian mafia are chasing Antho
 "<item>
 
 <title>Aplicativo para o Natal [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/APPPRONTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APPPRONTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/919.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/919.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2239,7 +2501,9 @@ Molly (Jen Lilley) desenvolve um aplicativo de namoro para pessoas ocupadas, mas
 "<item>
 
 <title>Arcade - Você Vai Entrar Nesse Jogo [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ARDEVCVENTNSJGO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ARDEVCVENTNSJGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/940.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/940.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2256,7 +2520,9 @@ Funcionário de uma oficina de reparo de fliperamas, Oz fica responsável por vi
 "<item>
 
 <title>Arco-Íris do Amor  [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ARCOIRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ARCOIRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/941.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/941.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2273,7 +2539,9 @@ Lucy (Jodie Sweetin) é uma professora que acredita estar muito ocupada para bus
 "<item>
 
 <title>Arn - O Cavaleiro Templário [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ARNOCVLROTMPRIO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ARNOCVLROTMPRIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/955.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/955.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2290,7 +2558,9 @@ Baseado na triologia épica 'As Cruzadas' de Jan Guillou, lançada inclusive no 
 "<item>
 
 <title>As Apimentadas #Desafio Mundial [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASAPMTDS6.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASAPMTDS6.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/966.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/966.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2307,7 +2577,9 @@ Vivica A. Fox faz sua estreia em “As Apimentadas” como Cheer Goddess, a “T
 "<item>
 
 <title>As Calouras [COLOR yellow][IMDb 3,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASCLRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASCLRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/995.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/995.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2323,8 +2595,1359 @@ Um grupo de amigos abrem suas cartas de aceitação da faculdade ao mesmo tempo 
 </item>"
 "<item>
 
+<title>As Donas Da Noite [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASDNSDNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1005.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1005.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Drama, Terror, Romance
+Lançamento: 2010
+
+Uma jovem é mordida por uma mulher misteriosa e torna-se a quarta integrante de um grupo de vampiras movidas a sangue, sedução, glamour e muita diversão pelas noites de Berlim.</info>
+ 
+<genre>Fantasia, Drama, Terror, Romance</genre>
+ 
+<date>11/11/2010</date>
+</item>"
+"<item>
+
+<title>As Leis da Termodinâmica [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASLESDTRMDNMCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1024.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1024.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2018
+
+Um físico usa as leis da termodinâmica para descrever o amor e os relacionamentos românticos. O problema é que sua vida amorosa contradiz toda a teoria.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>20/04/2018</date>
+</item>"
+"<item>
+
+<title>As Namoradas do Papai [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASNMRDSDPAPAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1031.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1031.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Romance
+Lançamento: 1995
+
+Filha de um milionário viúvo e uma menina de rua, sósias perfeitas, trocam de lugar, provocando uma série de confusões. Juntas, as duas garotas resolvem promover o romance do pai - noivo de uma moça rica e esnobe com uma assistente social de bom coração.</info>
+ 
+<genre>Comédia, Família, Romance</genre>
+ 
+<date>17/11/1995</date>
+</item>"
+"<item>
+
+<title>As Ondas [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASONDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1032.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1032.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama
+Lançamento: 2020
+
+Dois jovens casais navegam o campo minado emocional de crescer, amadurecer e se apaixonar.</info>
+ 
+<genre>Romance, Drama</genre>
+ 
+<date>17/01/2020</date>
+</item>"
+"<item>
+
+<title>As Patricinhas de Beverly Hills [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASPATRCNHSDBEVLYHLL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1037.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1037.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 1995
+
+Em Beverly Hills, a adolescente Cher (Alicia Silverstone), filha de uma advogado (Dan Hedaya) muito rico, passa seu tempo em conversas fúteis e fazendo compras com amigas totalmente alienadas como ela. Mas a chegada do enteado de seu pai, Josh (Paul Rudd), muda tudo, primeiro por ele criticá-la de não tomar conhecimento com o ""mundo real"" e em segundo lugar por ela descobrir que está apaixonada por ele.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>19/07/1995</date>
+</item>"
+"<item>
+
+<title>As Travessuras de Uma Sereia [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASTRVSRSDUMSERA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1053.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1053.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia, Romance
+Lançamento: 2016
+
+Shan, uma sereia, é enviada para assassinar Xuan, um desenvolvedor que ameaça o ecossistema da sua raça, mas acaba se apaixonando por ele.</info>
+ 
+<genre>Comédia, Fantasia, Romance</genre>
+ 
+<date>08/02/2016</date>
+</item>"
+"<item>
+
+<title>Até que o Casamento nos Separe [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ATEQOCASMENTNSPRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1095.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1095.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2017
+
+Planejadora de casamento é perfeita no que faz, mas incapaz de gerir a sua própria vida.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>26/04/2017</date>
+</item>"
+"<item>
+
+<title>Atlantique [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ATLNTQ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1109.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1109.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Fantasia, Mistério
+Lançamento: 2019
+
+Ada é uma menina de 17 anos apaixonada por Souleimane, um jovem pedreiro que está trabalhando na construção de um prédio futurista à beira mar no subúrbio de Dakar, no Senegal. O único problema é que ela foi prometida para outro homem.</info>
+ 
+<genre>Drama, Romance, Fantasia, Mistério</genre>
+ 
+<date>15/11/2019</date>
+</item>"
+"<item>
+
+<title>Austenland [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AUSTLND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1126.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1126.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2013
+
+Com mais de 30 anos de idade, Jane Hayes (Keri Russell) não consegue encontrar um namorado, porque nenhum homem lhe parece à altura de seu grande ídolo: o Sr. Darcy, personagem criado por Jane Austen no romance Orgulho e Preconceito. Um dia, ela decide gastar todas as suas economias e voar ao Reino Unido, onde existe um resort especializado em acolher as mulheres apaixonadas pelas histórias de Austen. Lá, ela descobre que o homem do seus sonhos pode se tornar uma realidade.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>16/08/2013</date>
+</item>"
+"<item>
+
+<title>Austrália [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AUSTRLIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1130.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1130.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Romance
+Lançamento: 2008
+
+Início da 2ª Guerra Mundial. Sarah Ashley (Nicole Kidman) é uma arrogante aristocrata inglesa, que possui uma fazenda de gado na Austrália. Ela viaja ao país para reencontrar o marido, mas ao chegar descobre que ele foi assassinado. Para não perder a fazenda, ela se une a um vaqueiro (Hugh Jackman) e ao garoto aborígene Nullah (Brandon Walters). Juntos eles precisam levar um rebanho de gado até Darwin, no interior do país.</info>
+ 
+<genre>Aventura, Drama, Romance</genre>
+ 
+<date>26/11/2008</date>
+</item>"
+"<item>
+
+<title>Barrados no Shopping [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRDSNSHOP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1176.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1176.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 1995
+
+Dois estudantes muito amigos ficam chateados, pois suas respectivas namoradas rompem com eles no mesmo dia. Assim, eles vão ao shopping local para arejar a cabeça e, se possível, encontrar um meio de recuperarem suas namoradas. Mas esta simples ida ao shopping acaba se transformando em uma sucessão de confusões.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>20/10/1995</date>
+</item>"
+"<item>
+
+<title>Batalhas [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BTLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1185.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1185.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Música
+Lançamento: 2018
+
+Com a falência do pai, a jovem bailarina Amalie vê seu estilo de vida luxuoso desmoronar. Mas ela descobre um novo ritmo ao conhecer o dançarino de hip-hop Mikael.</info>
+ 
+<genre>Drama, Romance, Música</genre>
+ 
+<date>28/09/2018</date>
+</item>"
+"<item>
+
+<title>Batman - A Máscara do Fantasma [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1206.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1206.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Thriller, Drama, Crime, Mistério, Romance, Baseado em Quadrinho
+Lançamento: 1993
+
+Desenho animado no qual o Homem-Morcego combate o Fantasma, um novo bandido que mata um grande criminoso e faz parecer que o herói encapuçado cometeu o crime, fazendo com que Gotham City se volte contra ele. Além disso, Batman ainda precisa se preocupar em defender a cidade do Coringa.</info>
+ 
+<genre>Ação, Aventura, Animação, Thriller, Drama, Crime, Mistério, Romance, Baseado em Quadrinho</genre>
+ 
+<date>25/12/1993</date>
+</item>"
+"<item>
+
+<title>Beijar e Chorar [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BJRECHRAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1229.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1229.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Romance, Cinema TV
+Lançamento: 2017
+
+Diagnosticada com um tipo raro de câncer, a jovem patinadora Carley Allison encontra no canto sua força para lutar.</info>
+ 
+<genre>Música, Drama, Romance, Cinema TV</genre>
+ 
+<date>10/02/2017</date>
+</item>"
+"<item>
+
+<title>Belas e Mimadas [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BLASEMIMDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1231.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1231.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Comédia, Família, Romance
+Lançamento: 2006
+
+A fim de fazer com que suas duas filhas mimadas amadureçam, dono de fábrica de latícinios obriga as adolescentes a trabalharem com ele. Elas penam, mas enfim se adaptam. Quando ele sai de férias, elas precisam lutar contra ameaça de falência.</info>
+ 
+<genre>Cinema TV, Comédia, Família, Romance</genre>
+ 
+<date>24/03/2006</date>
+</item>"
+"<item>
+
+<title>Beleza Adormecida [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLZADRMCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1233.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1233.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2012
+
+Lucy é uma jovem universitária que vive precisando de dinheiro. Para isso, divide o apartamento com outras duas pessoas e possui uma série de pequenos empregos. Por meio de um anúncio de jornal, entra em contato com uma inusitada agência, que a contrata para prestar um trabalho estranho chamado beleza adormecida. Ela adormece. Ela acorda. É como se nada tivesse acontecido.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>30/03/2012</date>
+</item>"
+"<item>
+
+<title>Beleza Oculta [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BLZOCLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1235.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1235.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2017
+
+Howard entra em depressão após uma tragédia pessoal e passa a escrever cartas para a Morte, o Tempo e o Amor, algo que preocupa seus amigos. Mas o que parece impossível, se torna realidade quando essas três partes do universo decidem responder. Morte, Tempo e Amor vão tentar ensinar o valor da vida para Howard.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>26/01/2017</date>
+</item>"
+"<item>
+
+<title>Bem a Tempo para o Natal [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BMATMPRNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1238.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1238.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Cinema TV, Romance, Drama
+Lançamento: 2015
+
+Uma jovem professora de psicologia deve escolher entre percorrer todo o país para aceitar seu emprego dos sonhos ou permanecer em sua cidade natal para se casar com o seu homem ideal. Em uma noite nevoenta de Dezembro, ela recebe a ajuda de um cocheiro, que lhe mostra seus três anos no futuro e o que sua vida vai se tornar.</info>
+ 
+<genre>Fantasia, Cinema TV, Romance, Drama</genre>
+ 
+<date>05/12/2015</date>
+</item>"
+"<item>
+
+<title>Berlim, Berlim – Lolle e suas opções [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BRLMBRLMLOLESUSOPCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1252.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1252.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2020
+
+A vida amorosa de Lolle em Berlim é mais complicada do que nunca. Depois que a história com Sven, sua prima em segundo grau, terminou, ela se reuniu com sua melhor amiga Hart e os dois estão prestes a se casar. Ou seja, se Sven não estragar as coisas.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>07/08/2020</date>
+</item>"
+"<item>
+
+<title>Bridget Jones: No Limite da Razão [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRGHTJNSNLMTDRZAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1328.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1328.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2004
+
+Depois de seis semanas de namoro firme com Mark Darcy (Colin Firth), Bridget Jones (Renée Zellweger) começa a sofrer ao se auto-questionar sobre o que poderia manter o relacionamento firme, fora da rotina. Tudo promete ficar ainda pior com a contratação de uma nova funcionária no trabalho de Mark, além do retorno inusitado e inesperado de Daniel Cleaver.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>03/12/2004</date>
+</item>"
+"<item>
+
+<title>Brilho Eterno de uma Mente sem Lembranças [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRLHOETRNODUMTSMLEMBR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1332.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1332.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Drama, Romance
+Lançamento: 2004
+
+Joel se surpreende ao saber que seu amor verdadeiro, Clementine, o apagou completamente de sua memória. Ele decide fazer o mesmo, mas muda de ideia. Preso dentro da própria mente enquanto os especialistas se mantêm ocupados em seu apartamento, Joel precisa avisá-los para parar.</info>
+ 
+<genre>Ficção científica, Drama, Romance</genre>
+ 
+<date>23/07/2004</date>
+</item>"
+"<item>
+
+<title>Burlesque [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BURLQE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1352.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1352.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2011
+
+Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>02/11/2011</date>
+</item>"
+"<item>
+
+<title>Cadeado do Amor [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CDADAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1393.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1393.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Romance, Drama
+Lançamento: 2018
+
+Lindsey Wilson encontrou amor pela primeira vez, na romântica cidade de Paris, quando estudava artes. Agora, vinte anos mais tarde, ela está voltando para a Cidade da Luz, numa aventura com sua filha. Lindsay é uma pintora talentosa, porém, depois de uma promessa quebrada por uma antiga paixão, ela acabou em Nova York, não como artista, mas como editora de uma revista de arte. Lindsay só não imaginaria que sua viagem à Paris com sua filha, geraria um reencontro com seu ex-namorado e a aventura se tornaria um belo romance.</info>
+ 
+<genre>Cinema TV, Romance, Drama</genre>
+ 
+<date>05/10/2018</date>
+</item>"
+"<item>
+
+<title>Caminhando nas Nuvens [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CMNHDNSNVS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1409.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1409.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1995
+
+Logo após a rendição do Japão, que marca o fim da II Guerra Mundial. Paul Sutton retorna a São Francisco para se reunir com sua esposa Betty, com quem se casou, na sequência de um namoro rápido, um dia antes de ele partiu para o Pacífico. A guerra deixou com cicatrizes emocionais. Paulo briga com Betty, especialmente depois que ele descobre que a maioria das cartas que ele escreveu-lhe ela não abriu. Ele está determinado a deixar o casamento, e espera estabelecer uma nova carreira. Numa de suas viagens como vendedor de chocolate, Paul, conhece Victoria, uma bela estudante grávida. Emocionado pela sua história, ele concorda em passar por seu marido até que sua família se acostume com a ideia.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>11/08/1995</date>
+</item>"
+"<item>
+
+<title>Cantando na Chuva [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTNDNCHVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1952
+
+Don Lockwood (Gene Kelly) e Lina Lamont (Jean Hagen) são dois dos astros mais famosos da época do cinema mudo em Hollywood. Seus filmes são um verdadeiro sucesso de público e as revistas inclusive apostam num relacionamento mais íntimo entre os dois, o que não existe na realidade. Mas uma novidade no mundo do cinema chega para mudar totalmente a situação de ambos no mundo da fama: O Cinema Falado, que logo se torna a nova moda entre os espectadores. Decidido a produzir um filme falado com o casal mais famoso do momento, Don e Lina precisam entretanto superar as dificuldades do novo método de se fazer cinema, para conseguir manter a fama conquistada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>30/06/1952</date>
+</item>"
+"<item>
+
+<title>Carol [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1453.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1453.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama
+Lançamento: 2016
+
+Therese Belivet tem um emprego entediante em uma loja de departamentos. Um dia, ela conhece Carol, uma elegante e misteriosa cliente. Rapidamente, as duas mulheres desenvolvem um vínculo amoroso que terá consequências sérias.</info>
+ 
+<genre>Romance, Drama</genre>
+ 
+<date>14/01/2016</date>
+</item>"
+"<item>
+
+<title>Carrossel de Emoções [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRSLDEMCES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Romance
+Lançamento: 1964
+
+Charlie Rogers (Elvis Presley) dirige sua motocicleta e se apresenta em pequenos clubes, pois espera se tornar um cantor famoso. Porém, enquanto sua moto é reparada ele decide trabalhar no parque de diversões de Maggie Morgan (Barbara Stanwyck). Quando canta lá obtém sucesso, sendo que isto pode ser a salvação de Morgan, que tem uma dívida com o banco que pode fechar o parque. Entretanto, logo a moto estará pronta e Charlie vai deixá-los, a menos que a jovem Cathy Lean (Joan Freeman) o convença a ficar.</info>
+ 
+<genre>Música, Romance</genre>
+ 
+<date>11/11/1964</date>
+</item>"
+"<item>
+
+<title>Cartão de Natal [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRTAODNATL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1462.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1462.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance
+Lançamento: 2017
+
+Antes que a herdeira ambiciosa Ellen Langford possa herdar o negócio de presentes de seu pai, ela deve entregar um cartão de Natal especial para o ex-parceiro de seu pai em Snow Falls, a cidade natal que ela nunca conheceu. Quando uma tempestade de neve a prende na pousada da cidade, ela é forçada a trabalhar para se manter. Ali também começa um romance, e descobre o verdadeiro presente do Natal.</info>
+ 
+<genre>Romance</genre>
+ 
+<date>15/12/2017</date>
+</item>"
+"<item>
+
+<title>Cartas para Julieta [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRTSPRJLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1464.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1464.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2010
+
+Sophie (Amanda Seyfried) é uma aspirante a escritora que viaja para a Itália ao lado do noivo Victor (Gael García Bernal), que sonha em ter seu próprio restaurante. Em Verona, onde se passou a história de Romeu e Julieta, local perfeito para uma lua de mel antecipada, Sophie acaba percebendo que seu noivo está mais interessado nos fornecedores para seu restaurante do que nela. Na cidade descobre uma antiga carta de amor e junta-se a um grupo de voluntárias que responde estas missivas amorosas. Para sua surpresa, a remetente Claire Smith (Vanessa Redgrave) ouve o conselho dado na resposta e vai procurar Lorenzo, por quem se apaixonou na juventude. Mas existem muitos italianos com o mesmo nome e Sophie demonstra interesse em ajudá-la na tarefa, desagradando o neto Charlie (Christopher Egan), que já tinha reprovado essa louca aventura da avó viúva.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>11/06/2010</date>
+</item>"
+"<item>
+
+<title>Cartas Para Quem Ficou [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRTSPRQMFCOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1465.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1465.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Romance
+Lançamento: 2018
+
+Duas garotas, que eram apaixonadas pelo mesmo rapaz, começam a receber mensagens de texto no celular, e outras mensagens misteriosas após sua morte. Porém, ele era a única pessoa quem poderia enviar essas mensagens. Isso faz com que as duas rivais, se juntem e viagem para o sul do país, em busca de respostas.</info>
+ 
+<genre>Thriller, Drama, Romance</genre>
+ 
+<date>18/10/2018</date>
+</item>"
+"<item>
+
+<title>Casa Comigo? [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CSACMG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1468.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1468.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2010
+
+Anna (Amy Adams) viaja a Dublin, Irlanda, para pedir o namorado Jeremy (Adam Scott) em casamento. Segundo a tradição local, o homem não pode recusar um pedido feito no dia 29 de fevereiro. Após contratempos na viagem, Anna vê-se obrigada a pegar carona com o charmoso e grosseiro Declan (Matthew Goode), dono de uma hospedaria. Logo, o que deveria ser uma simples travessia ganha rumos inesperados.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>08/01/2010</date>
+</item>"
+"<item>
+
+<title>Casal Improvável [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CSLIMPVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1472.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1472.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2019
+
+Um jornalista (Seth Rogen) solitário, sem emprego, autodestrutivo e fracassado tenta mudar os rumos de sua vida. Ele passa a perseguir uma antiga babá (Charlize Theron), que hoje se tornou uma das mulheres mais poderosas do mundo.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>20/06/2019</date>
+</item>"
+"<item>
+
+<title>Casamento Grego [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CSMNTDGRGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1473.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1473.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2002
+
+Toula Portokalos (Nia Vardalos) tem 30 anos, é grega e trabalha no restaurante de sua família. O sonho de seu pai é vê-la casada com um grego, mas ela espera algo mais da vida. Com muito custo Toula consegue convencer seu pai a lhe pagar aulas de informática, como forma de melhorar seu trabalho. No curso ela conhece e se apaixona por Ian Miller (John Corbett), sendo correspondida. Porém, Ian é inglês e por causa disso eles decidem manter seu namoro em segredo. Mas logo eles são descobertos, desencadeando um processo de aceitação para Ian, para que ele possa se adequar às tradições gregas.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>22/02/2002</date>
+</item>"
+"<item>
+
+<title>Casamento Grego 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CSMNTDGRGO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1474.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1474.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2016
+
+Toula (Nia Vardalos) e Ian (John Corbett) continuam juntos e passam bastante tempo tentando compreender a problemática filha adolescente. Quando o casal descobre que uma união de sua família nunca foi oficializada pela religião, todos os Portokalos se reúnem para mais um grande casamento grego.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>25/03/2016</date>
+</item>"
+"<item>
+
+<title>Casamento ou Luxo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CSMTOULXOLEG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1475.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1475.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1923
+
+Quando Marie St. Clair acredita que foi rejeitada por seu namorado artista Jean, ela decide partir para Paris sozinha. Depois de passar um ano na cidade como amante do rico Pierre Revel, ela se reencontra com Jean por acaso. Isso a deixa com a escolha entre uma vida glamorosa em Paris e o verdadeiro amor que ela deixou para trás.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>01/10/1923</date>
+</item>"
+"<item>
+
+<title>Cavaleiro de Copas [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CAVLDCPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1489.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1489.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama
+Lançamento: 2015
+
+Um escritor (Christian Bale) leva uma vida de festas luxuosas, namoros curtos e relações pouco satisfatórias. Cansado deste ritmo, ele começa a reavaliar as suas escolhas, relembrando as mulheres importantes em sua trajetória.</info>
+ 
+<genre>Romance, Drama</genre>
+ 
+<date>08/02/2015</date>
+</item>"
+"<item>
+
+<title>Cidade dos Anjos [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CIDDSANJS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1524.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1524.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Fantasia, Romance
+Lançamento: 1998
+
+Em Los Angeles, uma dedicada cirurgiã (Meg Ryan) fica arrasada quando perde um paciente durante uma operação, no mesmo instante em que um anjo (Nicolas Cage), que estava na sala de cirurgia, começa a se sentir atraído por ela. Em pouco tempo ele fica apaixonado pela médica e resolve ficar visível para ela, a fim de poder encontrá-la frequentemente, o que acaba provocando entre os dois uma atração cada vez maior, apesar dela ter um sério relacionamento com um colega de profissão. O ser celestial não pode sentir calor, nem o vento no rosto, o gosto de uma fruta ou o toque da sua amada, assim ele cogita em deixar de ser um imortal para poder amar e ser amado intensamente.</info>
+ 
+<genre>Drama, Fantasia, Romance</genre>
+ 
+<date>11/06/1998</date>
+</item>"
+"<item>
+
+<title>Cidades de Papel [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CDADPAPL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1528.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1528.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Romance
+Lançamento: 2015
+
+A história é centrada em Quentin Jacobsen (Nat Wolff) e sua enigmática vizinha e colega de escola Margo Roth Spiegelman (Cara Delevingne). Ele nutre uma paixão platônica por ela. E não pensa duas vezes quando a menina invade seu quarto propondo que ele participe de um engenhoso plano de vingança. Mas, depois da noite de aventura, Margo desaparece – não sem deixar pistas sobre o seu paradeiro.</info>
+ 
+<genre>Drama, Mistério, Romance</genre>
+ 
+<date>09/07/2015</date>
+</item>"
+"<item>
+
+<title>Cinderela [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNDRLA1950.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1529.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1529.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Animação, Romance
+Lançamento: 1950
+
+Cinderela vive com sua madrasta, Lady Tremaine, e as duas filhas dela. Obrigada a trabalhar como empregada da casa, ela tem como amigos apenas os animais que a rodeiam. O local em que vive está agitado devido ao baile que será realizado no castelo, o qual contará com a presença do príncipe. Como Lady Tremaine pretende que uma das filhas se case com ele, elas se preparam com requinte para o evento. Cinderela, entretanto, não pode ir. Até que surge a Fada-madrinha, que dá a Cinderela um vestido e condições para que possa ir ao baile em alto estilo. Entretanto há uma condição: Cinderela precisa retornar antes da meia-noite, caso contrário o feitiço será desfeito.</info>
+ 
+<genre>Família, Fantasia, Animação, Romance</genre>
+ 
+<date>22/05/1950</date>
+</item>"
+"<item>
+
+<title>Cinderela [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CNDRLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1530.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1530.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Fantasia, Família, Drama
+Lançamento: 2015
+
+Após a trágica e inesperada morte do seu pai, Ella (Lily James) fica à mercê da sua terrível madrasta, Lady Tremaine (Cate Blanchett), e suas filhas Anastasia e Drisella. A jovem ganha o apelido de Cinderela e é obrigada a trabalhar como empregada na sua própria casa, mas continua otimista com a vida. Passeando na floresta, ela se encanta por um corajoso estranho (Richard Madden), sem desconfiar que ele é o príncipe do castelo. Cinderela recebe um convite para o grande baile e acredita que pode voltar a encontrar sua alma gêmea, mas seus planos vão por água abaixo quando a madrasta má rasga seu vestido. Agora, será preciso uma fada madrinha (Helena Bonham Carter) para mudar o seu destino.</info>
+ 
+<genre>Romance, Fantasia, Família, Drama</genre>
+ 
+<date>02/04/2015</date>
+</item>"
+"<item>
+
+<title>Cinderela II: Os Sonhos se Realizam [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNDRLAII.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1531.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1531.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Romance, Fantasia
+Lançamento: 2002
+
+A Fada madrinha lê a historia de Cinderela,mas Jac Jac e Tatá chegam atrasados e perdem a historia como não existe outra historia de Cinderela então os ratinhos escrevem o livro ""Cinderela 2""baseado nos fatos que aconteceram depois da lua de mel de Cinderela e o principe.</info>
+ 
+<genre>Família, Animação, Romance, Fantasia</genre>
+ 
+<date>23/02/2002</date>
+</item>"
+"<item>
+
+<title>Cinderela III: Uma Volta no Tempo [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNDRLAIII.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1532.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1532.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Romance, Família, Fantasia
+Lançamento: 2007
+
+Lady Tremaine põe as mãos na varinha da Fada Madrinha, em seguida, volta o tempo para o dia que Cinderella experimentou o sapatinho de cristal. Ela amplia o chinelo para caber uma das irmãs, Anastasia, em seguida, apaga as memórias do encontro de Cinderella com o príncipe encantado. Agora, Cinderela precisa evitar o plano de Lady Tremaine e reconquistar seu príncipe.</info>
+ 
+<genre>Animação, Romance, Família, Fantasia</genre>
+ 
+<date>06/02/2007</date>
+</item>"
+"<item>
+
+<title>Cinquenta Tons de Cinza [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CNQNTNSDCNZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1535.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1535.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Thriller
+Lançamento: 2015
+
+Anastasia Steele (Dakota Johnson) é uma estudante de literatura de 21 anos, recatada e virgem. Uma dia ela deve entrevistar para o jornal da faculdade o poderoso magnata Christian Grey (Jamie Dornan). Nasce uma complexa relação entre ambos: com a descoberta amorosa e sexual, Anastasia conhece os prazeres do sadomasoquismo, tornando-se o objeto de submissão do sádico Grey.</info>
+ 
+<genre>Drama, Romance, Thriller</genre>
+ 
+<date>12/02/2015</date>
+</item>"
+"<item>
+
+<title>Cinquenta Tons de Liberdade [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CQNTTNSDLRBDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1536.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1536.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2018
+
+Superados os principais problemas, Anastasia (Dakota Johnson) e Christian (Jamie Dornan) agora têm amor, intimidade, dinheiro, sexo, relacionamento estável e um promissor futuro. A vida, no entanto, ainda reserva surpresas para os dois e fantasmas do passado como Jack Hyde (Eric Johnson) e Elena Lincoln (Kim Basinger) voltam a impedir a paz do casal.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>09/02/2018</date>
+</item>"
+"<item>
+
+<title>Cinquenta Tons de Preto [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CQNTATNSDPRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1537.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1537.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2016
+
+Christian Black (Marlon Wayans) é um empresário milionário, que recebe a estudante Hannah (Kali Hawk) em seu escritório. Insegura e simplória, ela foi no lugar da amiga Kateesha (Jenny Zigrino) para fazer uma entrevista para o jornal da faculdade. Não demora muito para que eles flertem entre si, apesar das trapalhadas cometidas por Hannah. Black passa então a rondá-la, disposto a atraí-lo ao mundo secreto e cheio de brinquedinhos que armazena em seu luxuoso apartamento.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>03/03/2016</date>
+</item>"
+"<item>
+
+<title>Cinquenta Tons Mais Escuros [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CQNTTNSMSESCR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1538.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1538.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2017
+
+Incomodada com os hábitos e atitudes de Christian Grey (Jamie Dornan), Anastasia (Dakota Johnson) decide terminar o relacionamento e focar no desenvolvimento de sua carreira. O desejo, porém, fala mais alto e ela logo volta aos joguinhos do empresário, sendo que, aos poucos, passa a compreender melhor os jogos sexuais que ele tanto aprecia.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>09/02/2017</date>
+</item>"
+"<item>
+
+<title>Cleópatra [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLEOPDTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1549.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1549.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Romance
+Lançamento: 1963
+
+O filme narra a ascensão e o declínio de Cleópatra, rainha do Egito, sua luta para defender o império das ambições políticas e territoriais de Roma e seu relacionamento com Júlio César e Marco Antônio.</info>
+ 
+<genre>Drama, História, Romance</genre>
+ 
+<date>12/06/1963</date>
+</item>"
+"<item>
+
+<title>Click [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CLCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1550.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1550.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Fantasia, Romance
+Lançamento: 2006
+
+Um arquiteto casado e com filhos está cada vez mais frustrado por passar a maior parte de seu tempo trabalhando. Um dia, ele encontra um inventor excêntrico que lhe dá um controle remoto universal, com capacidade de acelerar o tempo.</info>
+ 
+<genre>Comédia, Drama, Fantasia, Romance</genre>
+ 
+<date>23/06/2006</date>
+</item>"
+"<item>
+
+<title>Closer: Perto Demais [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CLSRPRTDMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1554.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1554.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2005
+
+Anna (Julia Roberts) é uma fotógrafa bem sucedida, que se divorciou recentemente. Ela conhece e seduz Dan (Jude Law), um aspirante a romancista que ganha a vida escrevendo obituários, mas se casa com Larry (Clive Owen). Dan mantém um caso secreto com Anna mesmo após ela se casar e usa Alice (Natalie Portman), uma stripper, como musa inspiradora para ganhar confiança e tentar conquistar o amor de Anna.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>21/01/2005</date>
+</item>"
+"<item>
+
+<title>Cloud 9: Desafio Final [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CLD9DSFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1555.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1555.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Romance, Cinema TV
+Lançamento: 2014
+
+Kayla Morgan, atleta de snowboard afastada da sua equipe, e Will Cloud, ex-campeão de snowboard, se conhecem quando Kayla é forçada a trabalhar em um pet shop, estabelecimento que pertence à mãe de Will.</info>
+ 
+<genre>Ação, Drama, Romance, Cinema TV</genre>
+ 
+<date>17/01/2014</date>
+</item>"
+"<item>
+
+<title>Com Amor, Simon [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/COMAMRSMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1597.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1597.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2018
+
+Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>05/04/2018</date>
+</item>"
+"<item>
+
+<title>Com Quem Será? [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CMQSRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1600.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1600.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia, Drama
+Lançamento: 2018
+
+Frank (Keanu Reeves) e Lindsay (Winona Ryder) são duas pessoas que sofreram muito emocionalmente no passado. Eles se conhecem durante um casamento e contra todas as probabilidades, são atraídos um para o outro, mesmo tentanto com todas as forças não se apaixonarem novamente.</info>
+ 
+<genre>Romance, Comédia, Drama</genre>
+ 
+<date>24/08/2018</date>
+</item>"
+"<item>
+
+<title>Como Eu Era Antes de Você [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CMEUERANTSDVC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1619.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1619.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2016
+
+Will é um garoto rico e bem-sucedido, até sofrer um grave acidente que o deixa preso a uma cadeira de rodas. Ele está profundamente depressivo e contrata uma garota do campo para cuidar dele. Ela sempre levou uma vida modesta, com dificuldades financeiras e problemas no trabalho, mas está disposta a provar para Will que ainda existem razões para viver.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>16/07/2016</date>
+</item>"
+"<item>
+
+<title>Como Não Perder Essa Mulher [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CMNPRDRESAMLHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1621.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1621.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia, Drama
+Lançamento: 2013
+
+Jon é um cara sedutor que não se prende a ninguém. Seu corpo, casa, carro, família, amigos, mulheres e vídeos pornôs são as únicas coisas que lhe interessam. Mas, quando conhece Barbara, ele percebe que terá que mudar seus hábitos.</info>
+ 
+<genre>Romance, Comédia, Drama</genre>
+ 
+<date>23/09/2013</date>
+</item>"
+"<item>
+
+<title>Como Perder um Homem em 10 Dias [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMPRDRUMHMNEM10DS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1622.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1622.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2003
+
+Ben é um publicitário que aposta com o chefe que faz qualquer mulher se apaixonar por ele em dez dias. Se conseguir, será o responsável por uma cobiçada campanha de diamantes. Andie é uma jornalista que, por causa de uma matéria, está decidida a infernizar a vida de qualquer homem que se aproximar. Os dois se conhecem em um bar e escolhem um ao outro como alvo de seus planos totalmente opostos.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>07/02/2003</date>
+</item>"
+"<item>
+
+<title>Como Se Fosse a Primeira Vez [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CMSFSAPRMVZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1624.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1624.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2004
+
+Henry Roth (Adam Sandler) é um veterinário paquerador, que vive no Havaí e é famoso pelo grande número de turistas que conquista. Seu novo alvo é Lucy Whitmore (Drew Barrymore), que mora no local e por quem Henry se apaixona perdidamente. Porém há um problema: Lucy sofre de falta de memória de curto prazo, o que faz com que ela rapidamente se esqueça de fatos que acabaram de acontecer. Com isso Henry é obrigado a conquistá-la, dia após dia, para ficar ao seu lado.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>30/04/2004</date>
+</item>"
+"<item>
+
+<title>Como Ser Solteira [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMSERSLTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1626.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1626.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2016
+
+Alice (Dakota Johnson) acabou de sair de um relacionamento e não sabe muito bem como agir sem outra metade. Para sua sorte, ela tem uma animada amiga (Rebel Wilson) especialista na vida noturna de Nova York, que passa a ensiná-la como ser solteira. Adaptação do primeiro romance de Liz Tuccillo, ""How To Be Single"", lançado em 2008.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>03/03/2016</date>
+</item>"
+"<item>
+
+<title>Cómplices [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMPLCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1635.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1635.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2018
+
+Juan Campos (Arath de la Torre) dedicou sua vida a seduzir as mulheres mais bonitas com seu amigo e cúmplice Luis Pani. Quando se preparam para sua viagem à República Dominicana, Luis fica doente e Juan é obrigado a levar seu sobrinho Mau (Jesus Zavala), um menino de 20 anos que está passando pela depressão de perder seu primeiro amor. Enquanto Juan treina Mau na arte da conquista, surge Teresa D'Ors (Marina de Tavira), a única mulher no mundo capaz de paralisar Juan. Juntos, eles se aventuram em uma jornada em que aprenderão uns com os outros e descobrirão que nada é dito em amor.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>23/02/2018</date>
+</item>"
+"<item>
+
+<title>Consequências [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CNSQNCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1652.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1652.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Guerra
+Lançamento: 2019
+
+Recém-chegada em Hamburgo, Rachel Morgan é afetada de imediato pelo clima sombrio que a cidade conserva depois de ter sido inteiramente destruída durante a Segunda Guerra Mundial. Seu marido, o coronel britânico Lewis , foi encarregado de coordenar a reconstrução da região por tempo indeterminado. Em uma decisão unilateral, Lewis estabelece que o casal ficará hospedado na casa de um viúvo alemão, provocando sentimentos conflituosos em sua esposa.</info>
+ 
+<genre>Drama, Romance, Guerra</genre>
+ 
+<date>01/03/2019</date>
+</item>"
+"<item>
+
+<title>Construindo uma Carreira [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNSTNDUMCRERA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1656.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1656.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Romance
+Lançamento: 1991
+
+Josie, a filha do empresário mais rico da cidade, enfrenta problemas em casa e deseja deixar a cidade, mas está desorientada. Sua decisão é finalizada depois que ela adormece no camarim do Target. Ela acorda e encontra-se trancada na loja durante a noite com o zelador, Jim, a cidade ""sem pressa"" e mentiroso.</info>
+ 
+<genre>Drama, Comédia, Romance</genre>
+ 
+<date>29/03/1991</date>
+</item>"
+"<item>
+
+<title>Coração de Corredor [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRCAODCRDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1677.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1677.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2017
+
+Após a morte de um amigo seu em um acidente de carro, um rapaz decide manter vivas, ao máximo, as memórias que possui de seu falecido amigo. No entanto, sempre se manter no passado cria um conflito com as novas memórias que precisa criar do presente e atrapalha o futuro.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>07/04/2017</date>
+</item>"
+"<item>
+
+<title>Coragem para Amar [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CRGMPRAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1687.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1687.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2017
+
+Órfão depois de um acidente, Alex Shelby é escolhido para presidente da empresa que foi de seu pai. Durante o evento em que ele será apresentado como o novo proprietário, alguém derruba ponche na roupa de Alex, que vai até a cozinha para se limpar. Ele é confundido com um funcionário da cozinha e decide continuar sem ser reconhecido para ver o que acontece. Algum tempo depois, Alex precisa ir até Manhattan para conferir alguns contratos que não batem. Lá, ele reencontra Michelle, uma funcionária. Ele segue com a farsa e passa a investigar a moça, que trará consequências nas vidas de ambos.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>14/02/2017</date>
+</item>"
+"<item>
+
+<title>Corina, Uma Babá Perfeita [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CORNUMBABPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1694.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1694.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família, Romance
+Lançamento: 1994
+
+O executivo Manny Singer precisa de uma babá confiável para sua filha, Molly, mas não consegue encontrar uma boa candidata. Desde que sua mãe morreu, Molly não fala. Até que Corina Washington aparece e consegue conversar com a menina, garantindo o emprego de babá. O pai e a nova empregada iniciam um relacionamento inter-racial, considerado um tanto polêmico para os anos 50.</info>
+ 
+<genre>Comédia, Drama, Família, Romance</genre>
+ 
+<date>12/08/1994</date>
+</item>"
+"<item>
+
+<title>Correndo Atrás [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRNDOATRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1705.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1705.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Romance
+Lançamento: 2000
+
+Em uma escola secundária americana estudam Ryan (Shane West), um jovem tímido, e Chris (James Franco), um popular garoto da escola. Apaixonados por duas garotas do colégio, a dupla resolve se unir no intuito de conquistar as garotas de seus sonhos.</info>
+ 
+<genre>Drama, Comédia, Romance</genre>
+ 
+<date>31/03/2000</date>
+</item>"
+"<item>
+
+<title>Crash Pad: Dando o Troco [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRSHPD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1722.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1722.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Drama
+Lançamento: 2017
+
+O jovem romântico Stensland (Gleeson) acredita no amor verdadeiro quando conhece e se apaixona por Morgan (Christina Applegate), uma mulher mais velha. Mas tudo muda quando ele descobre que a mulher é casada e usa ele e o relacionamento deles para fazer ciúmes no marido, Grady (Thomas Haden Church).</info>
+ 
+<genre>Comédia, Romance, Drama</genre>
+ 
+<date>27/10/2017</date>
+</item>"
+"<item>
+
+<title>Crepúsculo [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ASGCRSPCLO01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1728.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1728.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Drama, Romance
+Lançamento: 2008
+
+Isabella Swan (Kristen Stewart) e seu pai, Charlie (Billy Burke), mudaram-se recentemente. No novo colégio ela logo conhece Edward Cullen (Robert Pattinson), um jovem admirado por todas as garotas locais e que mantém uma aura de mistério em torno de si. Eles aos poucos se apaixonam, mas Edward sabe que isto põe a vida de Isabella em risco.</info>
+ 
+<genre>Fantasia, Drama, Romance</genre>
+ 
+<date>19/12/2008</date>
+</item>"
+"<item>
+
+<title>Cruise: Destino em Colisão [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CRSEDSTNOEMCLSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1754.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1754.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance
+Lançamento: 2018
+
+Situado na década de 1980, um jovem ítalo-americano se apaixona por uma menina judia de Long Island.</info>
+ 
+<genre>Romance</genre>
+ 
+<date>28/09/2018</date>
+</item>"
+"<item>
+
+<title>Crush à Altura [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CRSHALTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1755.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1755.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2019
+
+Jodi é uma adolescente que tem que lidar com as inconveniências de ser a garota mais alta da escola. Tudo muda quando ela se apaixona por um bonito (e igualmente alto) intercambista, que vai morar na casa do melhor amigo de Jodi. Como resultado, Jodi se vê embolada num triângulo amoroso inesperado, que a ajuda a perceber que ela é bem mais do que suas inseguranças a faziam acreditar.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>13/09/2019</date>
+</item>"
+"<item>
+
+<title>Cry-Baby [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRYBABY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1757.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1757.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1990
+
+Na década de 1950 em Baltimore, um garoto delinquente com um coração de ouro ganha o amor de uma boa garota, cujo ex-namorado se vinga.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>05/04/1990</date>
+</item>"
+"<item>
+
+<title>Curvas da Vida [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRVSDVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1766.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1766.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2012
+
+Gus Lobel é um veterano olheiro de baseball, daqueles que se recusam a trabalhar usando o computador e apostam todas as fichas em seu feeling sobre os jogadores. Restando apenas três meses para o fim de seu contrato, ele começa a ter problemas de visão devido a um glaucoma. Escondendo a doença de todos, Gus é enviado para analisar Bo Gentry, um promissor rebatedor que pode ser a escolha de sua equipe no próximo draft. Entretanto, ao desconfiar que há algo errado com o velho amigo, Pete Klein pede à filha dele, Mickey, que o acompanhe na viagem. Mickey trabalha como advogada e está prestes a se tornar sócia na empresa em que trabalha, mas passa por cima dos compromissos profissionais para acompanhar o pai, apesar deles terem um relacionamento problemático. Juntos, eles avaliam o potencial de Gentry e encontram Johnny Flanagan, um ex-jogador de baseball que é agora olheiro de outra equipe.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>23/11/2012</date>
+</item>"
+"<item>
+
+<title>Montanha Gelada [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLDMNTAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1579.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1579.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, História, Romance
+Lançamento: 2004
+
+Após o término da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar à sua casa, na vila de Cold Mountain. Lá está à sua espera Ada, sua namorada, que luta para administrar uma grande fazenda após a morte de seu pai. Para ajudá-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experiências da guerra.</info>
+ 
+<genre>Aventura, Drama, História, Romance</genre>
+ 
+<date>13/02/2004</date>
+</item>"
+"<item>
+
 <title>Nove Canções [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/9CANCOES.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/9CANCOES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/108.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/108.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -2342,7 +3965,9 @@ Londres, verão de 2003. Matt (Kieran O'Brien) conhece Lisa (Margo Stilley), uma
 "<item>
 
 <title>Vida Após Beth [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AVIDDPSDBTH.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AVIDDPSDBTH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/654.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/654.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
