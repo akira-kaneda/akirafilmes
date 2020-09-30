@@ -1,7 +1,9 @@
 "<item>
 
 <title>300 [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/300.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/300.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -19,7 +21,9 @@ Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e se
 "<item>
 
 <title>300: A Ascensão do Império [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -37,7 +41,9 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 "<item>
 
 <title>A Liga Extraordinária [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALGAEXTRDNRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALGAEXTRDNRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/393.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/393.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -54,7 +60,9 @@ No final do século XIX a rainha Vitória nomeia uma legião de grandes nomes da
 "<item>
 
 <title>Akira [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AKIRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AKIRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/730.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/730.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -71,7 +79,9 @@ Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar,
 "<item>
 
 <title>Aquaman [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AQAMN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AQAMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/934.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/934.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -88,7 +98,9 @@ A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações 
 "<item>
 
 <title>Aventuras da Liga da Justiça - Armadilha do Tempo [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/asavntrsdlgdjstcarmd.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/asavntrsdlgdjstcarmd.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/971.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/971.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -101,4 +113,688 @@ Lex Luthor comanda a Legião do Mal que se divide em dois grupos, um no Polo Nor
 <genre>Família, Animação, Ação, Ficção científica, Baseado em Quadrinho</genre>
  
 <date>21/01/2014</date>
+</item>"
+"<item>
+
+<title>Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AVSDRPNARLQNESEMPCFBLSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1142.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1142.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Comédia, Baseado em Quadrinho
+Lançamento: 2020
+
+Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.</info>
+ 
+<genre>Ação, Crime, Comédia, Baseado em Quadrinho</genre>
+ 
+<date>06/02/2020</date>
+</item>"
+"<item>
+
+<title>Batman [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1191.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1191.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 1989
+
+Em Gotham City o milionário Bruce Wayne, que quando jovem teve os pais assassinados por bandidos, resolve combater o crime como Batman, o Homem-Morcego. Mas chega o dia em que o vilão Coringa decide dominar a cidade e se torna um grande desafio para o super-herói.</info>
+ 
+<genre>Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>26/10/1989</date>
+</item>"
+"<item>
+
+<title>Batman - A Máscara do Fantasma [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1206.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1206.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Thriller, Drama, Crime, Mistério, Romance, Baseado em Quadrinho
+Lançamento: 1993
+
+Desenho animado no qual o Homem-Morcego combate o Fantasma, um novo bandido que mata um grande criminoso e faz parecer que o herói encapuçado cometeu o crime, fazendo com que Gotham City se volte contra ele. Além disso, Batman ainda precisa se preocupar em defender a cidade do Coringa.</info>
+ 
+<genre>Ação, Aventura, Animação, Thriller, Drama, Crime, Mistério, Romance, Baseado em Quadrinho</genre>
+ 
+<date>25/12/1993</date>
+</item>"
+"<item>
+
+<title>Batman - Ano Um [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMANUM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1208.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1208.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Crime, Mistério, Baseado em Quadrinho
+Lançamento: 2011
+
+Bruce Wayne retorna para casa depois de anos de treinamento para se tornar um combatente do crime, enquanto o Tenente James Gordon se muda para Gotham e encontra a corrupção em todas as esferas da administração. Assim tem início a batalha de Wayne contra as famílias mafiosas e bandidos de Gotham, sem contar a polícia, que nos primórdios de Batman, atacam o morcego freneticamente.</info>
+ 
+<genre>Ação, Aventura, Animação, Crime, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>18/10/2011</date>
+</item>"
+"<item>
+
+<title>Batman - Ataque ao Arkham [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMATQAOAKHM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1209.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1209.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Animação, Ação, Crime, Baseado em Quadrinho
+Lançamento: 2014
+
+Bem-vindo ao coração sombrio de Gotham City. Do centro das sombras surge o Asilo Arkham, um depósito purulento de tudo que é vil, perigoso e delirante, com uma população que cresce exponencialmente graças ao Cavaleiro das Trevas. Mas quando Batman frustra o mais recente plano do Charada e uma importante parte de uma evidência precisa ser secretamente recuperada no Arkham, a solução vem de uma inesperada fonte: uma equipe secreta de ataque do governo montada no submundo de Gotham City. O assassino Pistoleiro lidera o Esquadrão Suicida: Arlequina, Nevasca, Capitão Bumerangue, Tubarão Rei e Aranha Negra, um bando de desonestos que conhecem o Asilo Arkham e seus residentes muitíssimo bem.</info>
+ 
+<genre>Thriller, Animação, Ação, Crime, Baseado em Quadrinho</genre>
+ 
+<date>12/08/2014</date>
+</item>"
+"<item>
+
+<title>Batman - Contra o Capuz Vermelho [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1193.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1193.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Mistério, Baseado em Quadrinho
+Lançamento: 2010
+
+Batman enfrenta o maior de todos os seus desafios quando o misterioso Capuz Vermelho toma Gotham City de assalto. Parte vigilante, parte criminoso, o Capuz Vermelho inicialmente limpa as ruas da cidade com a mesma eficiência do Batman, mas sem seguir o mesmo código de ética do Cavaleiro das Trevas. Para ele, matar é sempre uma opção. E quando o Coringa fica dividido entre os dois, a dura verdade vem à tona e velhas feridas são reabertas.</info>
+ 
+<genre>Ação, Animação, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>10/08/2010</date>
+</item>"
+"<item>
+
+<title>Batman - O Cavaleiro das Trevas, Parte 1 [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNOCVDSTRVSPT1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1214.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1214.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Mistério, Baseado em Quadrinho
+Lançamento: 2012
+
+Mais uma noite cai sobre Gotham City e, com a chegada da escuridão, o crime e a vilania surgem em meio às sombras. Os dias do Batman e outros nobres super-heróis são somente memórias desaparecendo; a violência e o desespero são agora os arautos do nosso tempo. Mas um evento promoverá uma drástica mudança: quando Harvey “Duas Caras” Dent troca sua reabilitação por uma nova descida ao submundo do crime, um idoso e desgastado Bruce Wayne usa a máscara e capa mais uma vez. Com um elenco estelar de dubladores originais, incluindo Peter Weller, Ariel Winter e David Selby, esta indômita lenda da DC Comics ganha vida novamente para encarar batalhas esquecíveis, perseguições de tirar o fôlego e oferecer uma promessa de um melhor futuro para a humanidade, porque não existe lugar para os criminosos se esconderem quando o Cavaleiro das Trevas retorna.</info>
+ 
+<genre>Ação, Animação, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>25/09/2012</date>
+</item>"
+"<item>
+
+<title>Batman - O Cavaleiro das Trevas, Parte 2 [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNOCVDSTRVSPT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1215.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1215.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Mistério, Baseado em Quadrinho
+Lançamento: 2013
+
+O Cavaleiro das Trevas, com a jovem e corajosa Carrie Kelly ao seu lado como Robin, finalmente reclamam Gotham City de volta e permitem que um raio de esperança penetre no reino de terror que o grupo conhecido como Os Mutantes instaurou na cidade. Com Batman de volta às atenções, a intensa cobertura da mídia acabou despertando um mal, de longe muito pior, no Asilo Arkham – O Coringa! Destinado a ser o seu inimigo mortal, o Coringa tem um plano diabólico que pode conduzir Batman aos níveis mais sombrios da insanidade. Enquanto isso, no horizonte, uma catástrofe global se dirige rapidamente para Gotham e surge em uma face familiar, a do Homem-de-Aço, só que desta vez ele tem Batman em seus pensamentos. Um elenco estelar empresta sua voz aos personagens, liderado por Peter Weller, Ariel Winter e David Selby, e entrega ao espectador o épico final desta lenda da DC Comics.</info>
+ 
+<genre>Ação, Animação, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>29/01/2013</date>
+</item>"
+"<item>
+
+<title>Batman - O Homem Morcego [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BTMNOHMNMORCG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1205.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1205.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Comédia, Ficção científica, Crime, Baseado em Quadrinho
+Lançamento: 1966
+
+Em Gotham City, Charada (Frank Gorshin), Pinguim (Burgess Meredith), Coringa (Cesar Romero) e Mulher-Gato (Lee Meriweather) roubam uma invenção secreta e planejam usá-la de forma maléfica. Além disto, planejam também destruir o Homem-Morcego e o Menino-Prodígio.</info>
+ 
+<genre>Família, Aventura, Comédia, Ficção científica, Crime, Baseado em Quadrinho</genre>
+ 
+<date>30/07/1966</date>
+</item>"
+"<item>
+
+<title>Batman - Silêncio [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMNSLNCIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1221.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1221.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Animação, Mistério, Ação, Baseado em Quadrinho
+Lançamento: 2019
+
+O passado de Batman começa a se desenrolar, dá-se início a uma corrida para o Cavaleiro das Trevas solucionar os jogos mortais do Silêncio. O misterioso vilão conhecido como Silêncio está determinado a destruir tanto a carreira de combatente ao crime de Batman, quanto a vida pessoal de Bruce Wayne</info>
+ 
+<genre>Crime, Animação, Mistério, Ação, Baseado em Quadrinho</genre>
+ 
+<date>20/07/2019</date>
+</item>"
+"<item>
+
+<title>Batman & Mr. Freeze: Abaixo de Zero [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMRSFRZABXDZR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1190.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1190.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Crime, Família, Baseado em Quadrinho
+Lançamento: 1998
+
+Mr. Freeze vive no ártico com sua esposa conservada criogenicamente. Quando um submarino destrói a cápsula que a mantinha congelada, Mr. Freeze enlouquece com a idéia de perdê-la e sai à procura de uma doadora de tipo sangüíneo compatível para substituir seu coração. A escolhida é Barbara Gordon, filha do comissário Gordon, e também a garota por trás da heroína Batgirl. Agora, a Dupla Dinâmica tem pouco tempo para resgatá-la e tirá-la dessa tremenda fria.</info>
+ 
+<genre>Animação, Ação, Crime, Família, Baseado em Quadrinho</genre>
+ 
+<date>17/03/1998</date>
+</item>"
+"<item>
+
+<title>Batman & Robin [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1210.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1210.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Fantasia, Baseado em Quadrinho
+Lançamento: 1997
+
+A dupla dinâmica enfrenta uma terrível dupla de vilões: o gélido Mr. Freeze e a delicada botânica que, ao sofrer um acidente, transforma-se na perigosa e vingativa Hera Venenosa. Mas, para poder livrar Gotham City das garras dos vilões, Batman e Robin contam com uma nova companheira, a Batgirl.</info>
+ 
+<genre>Ficção científica, Ação, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>04/07/1997</date>
+</item>"
+"<item>
+
+<title>Batman Begins [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1192.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1192.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Baseado em Quadrinho
+Lançamento: 2005
+
+Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.</info>
+ 
+<genre>Ação, Crime, Drama, Baseado em Quadrinho</genre>
+ 
+<date>17/06/2005</date>
+</item>"
+"<item>
+
+<title>Batman do Futuro - O Retorno do Coringa [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMDFTRORTNDCRNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1194.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1194.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2000
+
+Enquanto busca descobrir os segredos por trás do Coringa, Terry McGinnis, o novo Batman, descobre também a verdade por trás do maior mistério da carreira do Batman original: a verdadeira história em que Bruce Wayne e o Coringa se enfrentaram pela última vez. Mas quando o Coringa retorna à ativa e quase mata Wayne, é hora do novo Batman vingar seu mentor e acabar de uma vez por todas com a ameaça do palhaço assassino.</info>
+ 
+<genre>Animação, Família, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>12/12/2000</date>
+</item>"
+"<item>
+
+<title>Batman e Arlequina: Pancadas e Risadas [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMEALRQNPNCDSERSDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1195.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1195.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Animação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2017
+
+Batman e Asa Noturna precisam se juntar com Harley Quinn, a ex-namorada do Coringa, para conseguirem evitar uma catástrofe global que está sendo planejada pela Hera Venenosa e o cientista Jason Woodrue, também conhecido como Mestre das Plantas ou Homem Florônico.</info>
+ 
+<genre>Aventura, Ação, Animação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>14/08/2017</date>
+</item>"
+"<item>
+
+<title>Batman Eternamente [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1211.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1211.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Fantasia, Baseado em Quadrinho
+Lançamento: 1995
+
+Duas-Caras e Charada, dois excêntricos bandidos, decidem descobrir a identidade do Homem-Morcego para depois matá-lo. Este por sua vez recebe a ajuda de um jovem que tem sede de vingança, por ter perdido a família em um acidente provocado exatamente pelo Duas-Caras.</info>
+ 
+<genre>Ação, Crime, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>07/07/1995</date>
+</item>"
+"<item>
+
+<title>Batman Ninja [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BTMNJA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1196.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1196.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Baseado em Quadrinho
+Lançamento: 2018
+
+Na trama, o Gorila Grodd é um Senhor Feudal, e Batman enfrentará seu arqui-inimigo, Coringa. Mas o palhaço do caos recrutou as versões japonesas de outros vilões como Era Venenosa, Duas Caras, Arlequina e também O Pinguim. Vendo que ele não estava para brincadeira, o Cavaleiro das Trevas também trouxe amigos e recrutou Mulher-Gato, Asa Noturna, Robin e Alfred para seu time. A direção do longa animado fica por conta de Jumpei Mizusaki (JoJo’s Bizarre Adventure), o roteiro é de Kazuki Nakashima (Kill la Kill), o desenho dos personagens é foi feito por Takashi Okazaki (Afro Samurai) e a trilha sonora é de Yugo Kanno (Ajin, JoJo’s Bizarre Adventure). As animações são de Kamikaze Douga (JoJo’s Bizarre Adventure).</info>
+ 
+<genre>Ação, Animação, Baseado em Quadrinho</genre>
+ 
+<date>24/04/2018</date>
+</item>"
+"<item>
+
+<title>Batman Sem Limites - Robôs Vs Mutantes [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMSMLMTSMCHSVSMTNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1199.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1199.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Baseado em Quadrinho
+Lançamento: 2016
+
+Quando o cientista Mr. Freeze usa sua mais recente invenção em dois dos criminosos mais formidáveis de Gotham City, Killer Croc e Bane, as coisas vão de mal a pior. Transformando-os em monstros mutantes super-poderosos, os supervilões começam atacando pelas ruas de Gotham City. Até o Cruzado Encapuzado e sua equipe de super-heróis surgir para salvar o dia.</info>
+ 
+<genre>Animação, Baseado em Quadrinho</genre>
+ 
+<date>30/08/2016</date>
+</item>"
+"<item>
+
+<title>Batman Sem Limites: Caos Monstruoso [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BTMNSMLMTSCASMNSTOSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1197.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1197.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Família, Baseado em Quadrinho
+Lançamento: 2015
+
+É noite de Halloween em Gotham City e Espantalho, Cara-de-Barro, Banshee Prateada e Solomon Grundy foram para as ruas para trazer encrenca! Batman está na trilha dos vilões mais assustadores da cidade enquanto, o que complica ainda mais as coisas, o palhaço príncipe do crime, Coringa, está governando sobre este misterioso grupo de criminosos desajustados. Depende do Cavaleiro das Trevas para acabar com este horrível gangue antes de desencadear ""o riso digital"", um vírus de computador que faz parte de um plano diabólico para comprometer toda a tecnologia vital de Gotham. Batman, Arqueiro Verde, Cyborg, Asa Noturna e Robin Vermelho devem juntar forças para combater esses vilões e salvar a cidade.</info>
+ 
+<genre>Ação, Animação, Família, Baseado em Quadrinho</genre>
+ 
+<date>18/08/2015</date>
+</item>"
+"<item>
+
+<title>Batman Sem Limites: Instintos Animais [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMSMLMTSINSTSANMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1198.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1198.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Família, Baseado em Quadrinho
+Lançamento: 2015
+
+Quando Gotham é atormentada por crimes cometidos por um esquadrão de vilões animais composto por Pinguim, Dorso Prateado, Mulher-Leopardo, Crocodilo e Morcego Humano, em seguida, Batman, Robin Vermelho, Asa Noturna, Arqueiro Verde e Flash têm de se unir para detê-los.</info>
+ 
+<genre>Ação, Animação, Família, Baseado em Quadrinho</genre>
+ 
+<date>12/05/2015</date>
+</item>"
+"<item>
+
+<title>Batman vs As Tartarugas Ninja [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNVSTRTRGSNJS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1202.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1202.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Família, Baseado em Quadrinho
+Lançamento: 2019
+
+Quando uma nova ameaça começa a roubar tecnologia experimental da cidade de Gotham, Batman se coloca em estado de alerta. Mas uma equipe de guerreiros, que espreita por debaixo das ruas, também investiga o caso: as Tartarugas Ninja! Liderados por Leonardo, esses irmãos – o esperto Donatello, o destemido Raphael e o brincalhão Michelangelo – são artistas marciais misteriosos que acabarão cruzando caminhos com o Cavaleiro Negro. Warner Bros Home Entertainment, DC e Nickelodeon apresentam Batman vs. Tartarugas Ninja, uma aventura estonteante de acelerar o coração, numa proporção que Gotham jamais viu!</info>
+ 
+<genre>Ação, Animação, Família, Baseado em Quadrinho</genre>
+ 
+<date>14/05/2019</date>
+</item>"
+"<item>
+
+<title>Batman vs Robin [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMNVSRBN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1204.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1204.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Baseado em Quadrinho
+Lançamento: 2015
+
+Quando Damian Wayne assume o manto de Robin, ele passa a seguir um caminho de teimosia e imprudência ao lado de seu pai, o Batman. Enquanto investiga uma cena de crime, Robin encontra Talon, um sujeito misterioso que o leva até as profundezas de uma sociedade secreta de Gotham. Será uma jornada perigosa e que forçará Batman e Robin enfrentarem os seus adversário mais perigosos: um ao lado do outro.</info>
+ 
+<genre>Ação, Aventura, Animação, Baseado em Quadrinho</genre>
+ 
+<date>14/04/2015</date>
+</item>"
+"<item>
+
+<title>Batman vs Superman: A Origem da Justiça [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1201.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1201.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2016
+
+Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um com o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>24/03/2016</date>
+</item>"
+"<item>
+
+<title>Batman vs. Drácula [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMVSDRCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1200.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1200.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Terror, Ação, Thriller, Ficção científica, Família, Mistério, Baseado em Quadrinho
+Lançamento: 2005
+
+Coringa e Pinguim fogem do Asilo Arkham e vão atrás de um dinheiro escondido em uma cripta do Cemitério de Gotham. Batman aparece e o Coringa aparentemente morre quando cai num rio e é eletrocutado por um de seus aparelhos eletrônicos. O Pinguim vai sozinho ao cemitério mas encontra no caixão um corpo no lugar do dinheiro. Ele é o Conde Drácula que hipnotiza o vilão para ser seu escravo e cuidar do caixão dele durante o dia. Várias pessoas começam a desaparecer e a polícia culpa o Batman, quando testemunhas dizem que um morcego gigante era o que estaria levando as vítimas. O herói por sua vez desconfia do Dr. Alucard (“Drácula”, escrito ao contrário), um recém-chegado antropólogo europeu que conhecera numa festa da sociedade e que demonstrara interesse pela repórter Vicki Vale. Ao deduzir quem é seu inimigo, Batman inicia a perseguição e terá que enfrentar ainda um exército de mortos-vivos, o Pinguim e um Coringa vampiro, além de resgatar Vicki Vale, raptada pelo Conde Drácula.</info>
+ 
+<genre>Fantasia, Animação, Terror, Ação, Thriller, Ficção científica, Família, Mistério, Baseado em Quadrinho</genre>
+ 
+<date>18/10/2005</date>
+</item>"
+"<item>
+
+<title>Batman vs. Duas-Caras [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BTMNVSDSCRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1203.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1203.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Comédia, Baseado em Quadrinho
+Lançamento: 2017
+
+Um dispositivo inventado para eliminar o mal das mentes criminosas falha e Harvey Dent, o promotor da cidade de Gotham, transforma-se na sinistra e dupla personalidade do Duas-Caras.</info>
+ 
+<genre>Ação, Animação, Comédia, Baseado em Quadrinho</genre>
+ 
+<date>14/11/2017</date>
+</item>"
+"<item>
+
+<title>Batman: A Piada Mortal [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMAPIDMRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1207.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1207.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Crime, Drama, Baseado em Quadrinho
+Lançamento: 2016
+
+Do produtor executivo Bruce Timm e baseado na aclamada graphic novel da DC Comics, “Batman: A Piada Mortal” é uma jornada adentro da sombria psique do Príncipe Palhaço do Crime. Acompanhando desde o seu humilde começo, quando era um comediante esforçado, até seu fatídico encontro com o Cavaleiro das Trevas, que mudou tudo. Agora fugitivo do Asilo Arkham, o Coringa planeja provar para todos que um dia ruim é capaz de tornar qualquer um tão insano quanto ele.</info>
+ 
+<genre>Ação, Animação, Crime, Drama, Baseado em Quadrinho</genre>
+ 
+<date>25/07/2016</date>
+</item>"
+"<item>
+
+<title>Batman: O Cavaleiro das Trevas [COLOR yellow][IMDb 9,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN06.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1212.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1212.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Crime, Thriller, Baseado em Quadrinho
+Lançamento: 2008
+
+Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
+ 
+<genre>Drama, Ação, Crime, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>18/07/2008</date>
+</item>"
+"<item>
+
+<title>Batman: O Cavaleiro das Trevas Ressurge [COLOR yellow][IMDb 9,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN07.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1213.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1213.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller, Baseado em Quadrinho
+Lançamento: 2012
+
+Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>27/07/2012</date>
+</item>"
+"<item>
+
+<title>Batman: O Cavaleiro de Gotham [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNOCVLDGTHM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1216.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1216.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2008
+
+Dos produtores de Batman Begins e de Batman – O Cavaleiro das Trevas, o grande lançamento de cinema do ano, vem esta maravilhosa interpretação da transição do Homem-Morcego, de inciante à Cavaleiro das Trevas. Seis histórias interrelacionadas revelam as primeiras aventuras de Bruce Wayne como Batman e os passos que ele tomou até se transformar no incansável vingador de Gotham City. Estas incríveis aventuras colocam Batman contra o amedrontador Espantalho e dois outros vilões jamais encarados antes: o ensandecido Killer Croc e o pistoleiro que nunca erra conhecido como Deadshot</info>
+ 
+<genre>Animação, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>08/07/2008</date>
+</item>"
+"<item>
+
+<title>Batman: O Mistério da Mulher Morcego [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMOMSTRDMLHRMRCG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1217.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1217.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Animação, Ação, Ficção científica, Família, Baseado em Quadrinho
+Lançamento: 2003
+
+O lendário Cavaleiro das Trevas em mais uma aventura incrível! A misteriosa presença de uma vigilante auto-denominada Mulher-Morcego deixa Batman intrigado. Quais as intenções dessa nova “heroína”? Batman está disposto a desvendar esse mistério.</info>
+ 
+<genre>Aventura, Fantasia, Animação, Ação, Ficção científica, Família, Baseado em Quadrinho</genre>
+ 
+<date>21/10/2003</date>
+</item>"
+"<item>
+
+<title>Batman: O Retorno [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1218.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1218.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Baseado em Quadrinho
+Lançamento: 1992
+
+Com o objetivo de manipular Gotham City, um milionário tenta transformar o Pinguim, um ser deformado que tinha sido abandonado ainda bebê nos esgotos, em prefeito da cidade. Como se isto não bastasse, surge a Mulher-Gato que, apesar de ser linda e sedutora, também tem dupla personalidade, em razão de problemas no passado. Ambos se tornam verdadeiros pesadelos para Batman no presente.</info>
+ 
+<genre>Ação, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>19/06/1992</date>
+</item>"
+"<item>
+
+<title>Batman: O Retorno da Dupla Dinâmica [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BATMORTNODLPDNMCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1219.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1219.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Aventura, Crime, Ficção científica, Baseado em Quadrinho
+Lançamento: 2016
+
+Batman e Robin (Adam West e Burt Ward retomando seus papeis da série original, agora como dubladores) precisam se unir uma vez mais para derrotar os perigosos inimigos de sempre: a Mulher-Gato, o Coringa, o Charada e o Pinguim. O problema é que agora os quatro vilões combinaram os seus poderes, algo que fará com que a dupla dinâmica tenha se esforçar ainda mais para salvar o dia.</info>
+ 
+<genre>Ação, Animação, Aventura, Crime, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>08/10/2016</date>
+</item>"
+"<item>
+
+<title>Batman: Sangue Ruim [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BTMNSNGRUIM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1220.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1220.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2016
+
+O manto do Batman passa para as mãos de Dick Grayson quando Bruce Wayne desaparece misteriosamente. Alfred cobre o sumiço do patrão enquanto o Asa Noturna e o Robin patrulham Gotham City. Uma nova personagem surge na história, a Batwoman, que está investigando o desaparecimento do Batman.</info>
+ 
+<genre>Ação, Animação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>22/03/2016</date>
+</item>"
+"<item>
+
+<title>Constantine [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNSTNTNE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1654.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1654.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Fantasia, Terror, Baseado em Quadrinho
+Lançamento: 2005
+
+John Constantine (Keanu Reeves) é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson (Rachel Weisz), uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.</info>
+ 
+<genre>Drama, Fantasia, Terror, Baseado em Quadrinho</genre>
+ 
+<date>11/03/2005</date>
+</item>"
+"<item>
+
+<title>Constantine: Cidade dos Demônios - O Filme [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/DCCONSTNECDADEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1655.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1655.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Terror, Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 2018
+
+Uma década depois de um erro trágico, o pai de família Chas e o investigador do ocultismo John Constantine (dublado por Matt Ryan) se preparam para curar a filha de Chas, Trish, de um misterioso coma sobrenatural. Com a ajuda da misteriosa Nightmare Nurse, da influente Queen of Angels e do cruel deus asteca Mictlantecuhtli, os dois só poderiam ter uma chance de enganar o demônio Beroul e salvar a alma de Trish. Em um mundo de sombras e magia negra, nem tudo é o que parece, e há sempre um preço a ser pago. O caminho para a redenção nunca é fácil e, se Constantine tiver sucesso, ele deverá percorrer o obscuro submundo urbano de Los Angeles, superar a criatura mais astuta do inferno e estar cara a cara com o arqui-inimigo Nergal… Tudo isso enquanto luta contra os seus próprios demônios interiores!</info>
+ 
+<genre>Animação, Terror, Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>09/10/2018</date>
+</item>"
+"<item>
+
+<title>Coringa [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CRNGA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1695.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1695.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller, Drama, Baseado em Quadrinho
+Lançamento: 2019
+
+Arthur Fleck trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.</info>
+ 
+<genre>Crime, Thriller, Drama, Baseado em Quadrinho</genre>
+ 
+<date>03/10/2019</date>
 </item>"
