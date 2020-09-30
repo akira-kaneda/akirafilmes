@@ -1,7 +1,9 @@
 "<item>
 
 <title>3 Minutos, Um Abraço [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/UMABRCDTRSMNTO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/UMABRCDTRSMNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/77.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/77.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -19,7 +21,9 @@ Este documentário captura a alegria e a tristeza de famílias separadas pela fr
 "<item>
 
 <title>A Cabana e Seus Segredos [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACBNAESEUSGRDS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACBNAESEUSGRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/159.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/159.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -35,8 +39,29 @@ William Paul Young, autor do best-seller ""A Cabana"", investiga como é ter fé
 </item>"
 "<item>
 
+<title>A Caçada: A Busca por Bin Laden [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CACDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1371.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1371.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2013
+
+A investigação da Agência Central de Inteligência sobre Osama bin Laden , desde 1995 até sua morte em 2011. Dois anos após a missão que matou Bin Laden, o documentário apresenta narrativas de muitos analistas e agentes da CIA que trabalharam mais de uma década para entender e rastrear Bin Laden, e inclui imagens de filmes de Washington, DC , Paquistão , Arábia Saudita e outros lugares do Oriente Médio . Nesse Documentário podemos ver imagens extensas e raramente vistas de vídeos de treinamento e propaganda da Al-Qaeda , incluindo notas de vídeo de vários terroristas que mais tarde trabalharam como homens-bomba .</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>20/01/2013</date>
+</item>"
+"<item>
+
 <title>A Inventora: À Procura de Sangue no Vale do Silício [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/OIVNTRAPRCRDSGUENVLDSLCIO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/OIVNTRAPRCRDSGUENVLDSLCIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/362.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/362.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -53,7 +78,9 @@ Com uma nova invenção mágica que prometia revolucionar os testes de sangue, E
 "<item>
 
 <title>A Lenda da Ilha do Pó [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ALNDAILHDPO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ALNDAILHDPO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/374.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/374.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -70,7 +97,9 @@ Embalado pelos boatos sobre uma mala de cocaína enterrada no Caribe, um grupo d
 "<item>
 
 <title>A Partida Final [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APRTDFNL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APRTDFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/16/items/487_20200908/514.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/514.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -87,7 +116,9 @@ Diante do fim inevitável, pacientes terminais conhecem profissionais de saúde 
 "<item>
 
 <title>À Procura do Submarino I-52 [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/APRCRDSBMRNOI52.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APRCRDSBMRNOI52.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/554.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/554.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -104,7 +135,9 @@ Noite de 23 de junho de 1944. O comandante aliado Jesse Taylor circula em um avi
 "<item>
 
 <title>A Todo Volume [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ATDOVLME.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ATDOVLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/625.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/625.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -121,7 +154,9 @@ Jimmy Page, The Edge e Jack White, três gerações diferentes, reúnem-se para 
 "<item>
 
 <title>Água e Poder: O Roubo à California [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AGUEPDR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AGUEPDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/724.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/724.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -138,7 +173,9 @@ Descobrindo o lucro dos barões da água do estado e como eles afetam os agricul
 "<item>
 
 <title>Alô, Amigos [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALOMGS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALOMGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/773.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/773.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -155,7 +192,9 @@ Apresentando personagens como Zé Carioca, Pedro, um avião mirim do correio e o
 "<item>
 
 <title>Amigos da Clínica [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMGSDCLNC.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMGSDCLNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/821.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/821.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -172,7 +211,9 @@ Quatro homens tentam reinventar suas vidas e se reintegrar na sociedade depois d
 "<item>
 
 <title>Anelka - O incompreendido [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ANLKINCMPRNDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ANLKINCMPRNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/867.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/867.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -189,7 +230,9 @@ Impenetrável ou incomparável? Este documentário explora as controvérsias que
 "<item>
 
 <title>Apollo 11 [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APLO11.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APLO11.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/922.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/922.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -206,7 +249,9 @@ Com o plano de desembarcar dois astronautas na superfície lunar e regressar par
 "<item>
 
 <title>Após o Furacão Maria [COLOR yellow][IMDb 4,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/APSOFRCAOMARIA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APSOFRCAOMARIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/925.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/925.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -222,8 +267,204 @@ Mulheres porto-riquenhas são forçadas a fugir da ilha depois que o furacão Ma
 </item>"
 "<item>
 
+<title>Avalanche no Everest [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AVLNCHNEVRST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1133.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1133.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Cinema TV
+Lançamento: 2014
+
+Em 18 de abril de 2014 ocorreu a pior tragédia na história do Monte Everest, uma avalanche que tirou a vida de 13 pessoas. documentário mostrará filmagens bastante emotivas e em tempo real, captando os esforços de mobilização do resgate das vítimas e de seus socorristas enquanto lutam pela sobrevivência. Por meio de depoimentos de testemunhas, os telespectadores ouvirão daqueles que presenciaram essa horrível tragédia e suas consequências. Todas as vítimas eram guias Sherpas que ajudavam os alpinistas durante a escada quando a neve rolou abaixo cruzando em seu caminho.
+
+Não temos uma lista da equipe técnica deste(a) movie. Você pode ajudar!</info>
+ 
+<genre>Documentário, Cinema TV</genre>
+ 
+<date>04/05/2014</date>
+</item>"
+"<item>
+
+<title>Aventuras no Fundo do Mar [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AVNTNFNDOMAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1140.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1140.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Família
+Lançamento: 2018
+
+Echo é um jovem que não pode decidir se é hora de crescer e assumir novas responsabilidades - ou ceder a seu lado bobo e simplesmente se divertir. A sociedade dos golfinhos é complicada, e o recife de coral que Echo e sua família chamam de lar depende de todos os seus habitantes para mantê-lo saudável. Mas Echo tem um tempo difícil resistindo as muitas aventuras que o oceano tem para oferecer.</info>
+ 
+<genre>Documentário, Família</genre>
+ 
+<date>28/03/2018</date>
+</item>"
+"<item>
+
+<title>Aventuras no Novo Ártico [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AVENTNVARTIC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1141.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1141.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Família
+Lançamento: 2007
+
+Dos mesmos criadores de A Marcha dos Pingüins. Ambientado no vasto reino da neve no topo do mundo o filme acompanha a impressionante luta pela sobrevivência de Nanu, o filhote de urso polar e Seela, o pequeno leão-marinho.</info>
+ 
+<genre>Documentário, Família</genre>
+ 
+<date>17/06/2007</date>
+</item>"
+"<item>
+
+<title>City of Joy: Onde Vive a Esperança [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CTYOFJOYONDVIVEAESPCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1546.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1546.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2016
+
+Mulheres violentadas durante os conflitos no Congo buscam reabilitação no City of Joy, um centro criado para ajudá-las a recuperar o poder e a identidade.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>11/11/2016</date>
+</item>"
+"<item>
+
+<title>Contragolpe [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CONTRPNCH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1672.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1672.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2017
+
+À medida que a popularidade do boxe diminui, três lutadores em diferentes fases de sua carreira fazem sacrifícios para perseguir seus sonhos de se tornarem campeões.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>16/06/2017</date>
+</item>"
+"<item>
+
+<title>Coronavírus: A origem [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRNVRSAORGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1696.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1696.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2020
+
+Os sistemas de saúde estão sobrecarregados, as economias são interrompidas e os governos impõem bloqueios para conter a propagação do vírus. De onde veio esse novo coronavírus? De que maneira isso estava se manifestando nos seres humanos? Como estava sendo espalhado? Nós descobrimos as perguntas vitais que os cientistas fazem quando tentam entender esse novo vírus e sua potencial ameaça. Também conversamos com os cientistas e especialistas que lideram a luta contra esta última pandemia para desenvolver vacinas e tratamentos, em uma tentativa de impedir a disseminação implacável do coronavírus.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>14/06/2020</date>
+</item>"
+"<item>
+
+<title>Countdown to Death: Pablo Escobar [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CONTDWMTDTHPBLESCBR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1719.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1719.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2017
+
+Com entrevistas raras, imagens e escutas clandestinas, documentário reconstrói os últimos nove anos de Pablo Escobar, o chefão do narcotráfico da Colômbia.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>24/01/2017</date>
+</item>"
+"<item>
+
+<title>Crip Camp: Revolução pela Inclusão [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRPCMPRVLCPLINCLSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1745.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1745.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2020
+
+No final da estrada de Woodstock, uma revolução floresceu em um acampamento de verão em ruínas para adolescentes com deficiência, transformando suas vidas e iniciando um movimento marcante.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>25/03/2020</date>
+</item>"
+"<item>
+
+<title>Crise na Síria [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRSNSRI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1746.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1746.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2017
+
+Ativistas sírios, líderes revolucionários, ex-generais do exército, jornalistas e cidadãos comuns discutem a crise humanitária e a Guerra Civil no país.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>13/03/2017</date>
+</item>"
+"<item>
+
+<title>Cuba e o Cameraman [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CBAEOCMRAMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1759.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1759.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2017
+
+Este retrato revelador de Cuba acompanha a vida de Fidel Castro e de três famílias cubanas afetadas pelas políticas de seu governo nas últimas quatro décadas.
+
+Documentário original Netflix.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>08/09/2017</date>
+</item>"
+"<item>
+
 <title>Struggle: A Vida e a Arte de Szukalski [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AVDAEARTDSTNTW.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AVDAEARTDSTNTW.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/655.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/655.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
