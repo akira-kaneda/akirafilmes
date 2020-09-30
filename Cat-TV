@@ -1,7 +1,9 @@
 "<item>
 
 <title>A Babá Tem Que Morrer [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ABABTMQMRE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ABABTMQMRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/128.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/128.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -18,7 +20,9 @@ Uma estudante exemplar decide trabalhar como babá durante o verão para cobrir 
 "<item>
 
 <title>A Boneca que Virou Gente [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ABNCQVRGNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ABNCQVRGNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/148.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/148.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -35,7 +39,9 @@ Casey Stuart é uma divertida menina que ao tentar fazer um feitiço, faz com qu
 "<item>
 
 <title>A Caixa de Pandora [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACXDPNDRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACXDPNDRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/163.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/163.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -52,7 +58,9 @@ Mike (Michael Shulman) é um garoto de 14 anos precoce, mas totalmente deslocado
 "<item>
 
 <title>A Casa da Árvore [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ACSDAVRE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ACSDAVRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/173.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/173.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -69,7 +77,9 @@ Um célebre chef tenta escapar de uma onda de exposição negativa na mídia ao 
 "<item>
 
 <title>A Casa Inteligente [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSINTLGNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSINTLGNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/189.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/189.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -86,7 +96,9 @@ Ben (Ryan Merriman) é um garoto de 13 anos que ganha uma casa computadorizada c
 "<item>
 
 <title>A Era do Gelo - A Grande Caçada aos Ovos de Páscoa [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/240.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/240.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -103,7 +115,9 @@ Os negócios estão crescendo de vento em popa no serviço que Sid abriu como ba
 "<item>
 
 <title>A Era do Gelo - Especial de Natal [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AERDGLESPCLDNTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AERDGLESPCLDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/10/items/250_20200903/241.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/241.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -120,7 +134,9 @@ Quando Sid acidentalmente destrói uma peça que está na família de Manny há 
 "<item>
 
 <title>A Guarda do Leão - Um Novo Rugido [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AGRDALEO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AGRDALEO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/321.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/321.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -137,7 +153,9 @@ Nas savanas africanas, Kion, o segundo filho de Simba, cria e se torna o líder 
 "<item>
 
 <title>A Irmandade [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AIRMPRTBDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AIRMPRTBDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/365.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/365.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -154,7 +172,9 @@ Ashley teve um ano difícil após a morte de sua mãe, a desintegração de seu 
 "<item>
 
 <title>A Magia do Natal [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMGIADNTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMGIADNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/402.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/402.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -171,7 +191,9 @@ Ainda no ar, a apresentadora Kate Harper (Lori Loughlin) falou sem querer seus v
 "<item>
 
 <title>A Marca do Zorro [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -188,7 +210,9 @@ Nos tempos de vitoria, Don Diego de La Vega retornou da Espanha para sua famíli
 "<item>
 
 <title>A Patrulha das Almas [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/APTRLHDSALMS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APTRLHDSALMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/515.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/515.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -205,7 +229,9 @@ Os irmãos Ian e Claire Carlyle fazem uma triste viagem para Steeple Falls, para
 "<item>
 
 <title>A Vida Moderna de Rocko: Volta ao Lar [COLOR yellow][IMDb 7,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AVDMRDNDRCKVLTAOLR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AVDMRDNDRCKVLTAOLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/659.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/659.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -222,7 +248,9 @@ Depois de 20 anos no espaço, Rocko retorna!!! e tem como missão principal leva
 "<item>
 
 <title>A Vida Secreta da Babás [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AVDASCRTDSBBS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AVDASCRTDSBBS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/660.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/660.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -239,7 +267,9 @@ Quando os problemas financeiros de seus pais ameaçam os sonhos de Ashley de ent
 "<item>
 
 <title>A Vida Secreta das Cheerleaders [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AVDASCRTDSCHHERLDR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVDASCRTDSCHHERLDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/661.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/661.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -256,7 +286,9 @@ A líder de torcida naturalmente talentosa Ava é um sucesso instantâneo em sua
 "<item>
 
 <title>A Vingança da Noiva [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AVNGCDNVA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AVNGCDNVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/668.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/668.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -273,7 +305,9 @@ Prestes a se casar com o homem dos seus sonhos, Miya não acha que as coisas pod
 "<item>
 
 <title>A Volta do Espírito de Natal [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AVLTDESPRTODNTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVLTDESPRTODNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/675.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/675.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -289,8 +323,29 @@ Gabby Messinger, um anjo da guarda que tem problemas para seguir as regras e é 
 </item>"
 "<item>
 
+<title>Acampamento do Medo [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACMPNTDMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1350.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1350.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Comédia
+Lançamento: 2013
+
+Quando dois irmãos encrenqueiros vão parar em um tranquilo acampamento de verão, acabam levando um bando de garotos a quebrar todas as regras. Mas os problemas começam mesmo quando eles, acidentalmente, liberam uma maldição que torna real uma história de acampamento sobre zumbis.</info>
+ 
+<genre>Cinema TV, Comédia</genre>
+ 
+<date>27/10/2013</date>
+</item>"
+"<item>
+
 <title>Acho Que Matei Minha Chefe [COLOR yellow][IMDb 3,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACHQMTMNHCHFE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACHQMTMNHCHFE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/700.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/700.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -307,7 +362,9 @@ Paige Davis acaba de ser promovida a presidente de vendas em seu trabalho. Depoi
 "<item>
 
 <title>Aconteceu na Noite de Natal [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ACNTCENNTDNTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ACNTCENNTDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/702.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/702.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -324,7 +381,9 @@ Danny tem 14 anos e vive aprontando. Pouco antes do Natal, seus pais decidem dei
 "<item>
 
 <title>Aluguel de Pesadelo [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ALGLDPSDLO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ALGLDPSDLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/784.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/784.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -341,7 +400,9 @@ Lydia se muda para um novo apartamento depois de terminar com seu namorado de lo
 "<item>
 
 <title>Aluna Exemplar e Estrela Pornô [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALNEXMPLESTLPRN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALNEXMPLESTLPRN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/785.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/785.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -358,7 +419,9 @@ Miriam Weeks, também conhecida como Belle Knox, ganhou notoriedade por estrelar
 "<item>
 
 <title>Ambulância do Terror [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMBLCDTROR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMBLCDTROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/801.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/801.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -375,7 +438,9 @@ Dois paramédicos chegam ao local de um acidente de carro para transportar uma a
 "<item>
 
 <title>Aminimigos [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/INMGSDINFCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/INMGSDINFCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/824.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/824.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -392,7 +457,9 @@ As melhores amigas Halley (Zendaya), é uma sóbria nerd, e Avalon (Bella Thorne
 "<item>
 
 <title>Amityville 4 - A Fuga do Mal [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMTVL4.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMTVL4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/827.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/827.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -409,7 +476,9 @@ Quando uma imobiliária vende os objetos deixados por seus donos na sinistra cas
 "<item>
 
 <title>Amor de Páscoa [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMRDPSCOA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMRDPSCOA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/842.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/842.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -426,7 +495,9 @@ Erika se disfarça na fábrica de chocolate de sua família para descobrir porqu
 "<item>
 
 <title>Amor no Safari [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMRNSFRI.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMRNSFRI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/849.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/849.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -443,7 +514,9 @@ Kira (Lacey Chabert) é uma jovem urbana que mora em Chicago. Ela descobre que h
 "<item>
 
 <title>Amor Sem Querer [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRSMQR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRSMQR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/856.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/856.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -460,7 +533,9 @@ Amor Sem Querer é um filme que conta a história de Trish que vai a um encontro
 "<item>
 
 <title>Amor, Romance e Chocolate [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AMRMCECHLTE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AMRMCECHLTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/857.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/857.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -477,7 +552,9 @@ Dispensada pelo namorado, Emma (Lacey Chabert) decide fazer uma viagem para a B�
 "<item>
 
 <title>Anjo Negro [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANJNGRO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANJNGRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/878.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/878.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -494,7 +571,9 @@ Heaven finalmente encontrou a nova vida que sempre sonhou com seus avós recém-
 "<item>
 
 <title>Annabelle Hooper e os Fantasmas de Nantucket [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANBLEHPREOSFNTMSDNTCKT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANBLEHPREOSFNTMSDNTCKT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/897.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/897.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -511,7 +590,9 @@ De férias na histórica Ilha de Nantucket, um escritor de mistério adolescente
 "<item>
 
 <title>Apenas um Show: O Filme [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/APNSUSWOFILME.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APNSUSWOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/917.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/917.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -528,7 +609,9 @@ Após acidentalmente fazerem uma timenado, Mordecai e Rigby devem voltar no temp
 "<item>
 
 <title>Aplicativo para o Natal [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/APPPRONTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APPPRONTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/919.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/919.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -545,7 +628,9 @@ Molly (Jen Lilley) desenvolve um aplicativo de namoro para pessoas ocupadas, mas
 "<item>
 
 <title>Aranhas Assassinas [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ARNHSASASNS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ARNHSASASNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/939.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/939.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -562,7 +647,9 @@ Percorrendo as selvas da Índia, um grupo de mochileiros chega a um primeiro vil
 "<item>
 
 <title>Arco-Íris do Amor  [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ARCOIRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ARCOIRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/941.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/941.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -576,3 +663,576 @@ Lucy (Jodie Sweetin) é uma professora que acredita estar muito ocupada para bus
  
 <date>09/03/2019</date>
 </item>"
+"<item>
+
+<title>As Gêmeas Entram na Quadra [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASGMSENTRMQDRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1017.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1017.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Drama, Família
+Lançamento: 2002
+
+Baseado na história de Heather e Heidi Burge, gemeas acostumadas a um bairro simples da Califórnia, sofrem grande mudança ao serem transferidas para a escola secundária “Palos Verdes” num bairro chique da cidade. Ainda mais quando seu pai Larry resolve investir no basquete. Entre amizades, confusoes e competitividade elas acabam por se unir para alcançar um sonho: o de se profissionalizar no esporte.</info>
+ 
+<genre>Cinema TV, Drama, Família</genre>
+ 
+<date>18/01/2002</date>
+</item>"
+"<item>
+
+<title>As Terríveis Aventuras De Billy e Mandy - Filme: A Ira da Aranha-Rainha [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCServer04/ondemand/ATADBMFAIDAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1050.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1050.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Animação, Cinema TV
+Lançamento: 2007
+
+A Rainha Aranha quer se vingar de Grim por negar a ela o lugar de direito como Estripador.</info>
+ 
+<genre>Aventura, Comédia, Animação, Cinema TV</genre>
+ 
+<date>06/07/2007</date>
+</item>"
+"<item>
+
+<title>As Terríveis Aventuras De Billy e Mandy - Filme: Contra o Bicho Papão [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCServer04/ondemand/ATADBMFCOBP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1049.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1049.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Animação, Cinema TV
+Lançamento: 2007
+
+Quando o Boogey Man faz com que Grim perca seus poderes, posição e título na Corte do Submundo por usar mal seus poderes, ele planeja procurar a Mão do Horror e dominar o mundo. Cabe a Billy, Mandy, Irwin e Grim chegar ao Horror's Hand antes que o Boogey Man o faça.</info>
+ 
+<genre>Aventura, Comédia, Animação, Cinema TV</genre>
+ 
+<date>03/04/2007</date>
+</item>"
+"<item>
+
+<title>Assassinada Aos 17 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASASNAO17.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1063.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1063.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Cinema TV
+Lançamento: 2018
+
+A jovem Brooke Emerson se apaixona loucamente por Jake, sem perceber que ele está a manipulando e pretende incriminá-la por um assassinato.</info>
+ 
+<genre>Drama, Cinema TV</genre>
+ 
+<date>07/07/2018</date>
+</item>"
+"<item>
+
+<title>Assassinato no Grupo de Mães [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASASNTONGRPDMAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1066.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1066.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2018
+
+Uma nova mãe se junta a um grupo de mães locais para ajudá-la a lidar com o estresse que a maternidade está exercendo sobre ela e seu casamento. Mas ela logo descobre que a adesão tem um preço. Quando o marido de um membro aparece morto, nossa nova mãe está convencida de que uma das outras mães é responsável. Agora ela deve descobrir a verdade antes que algo aconteça a ela ou a sua família.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>18/12/2018</date>
+</item>"
+"<item>
+
+<title>Avalanche no Everest [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AVLNCHNEVRST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1133.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1133.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Cinema TV
+Lançamento: 2014
+
+Em 18 de abril de 2014 ocorreu a pior tragédia na história do Monte Everest, uma avalanche que tirou a vida de 13 pessoas. documentário mostrará filmagens bastante emotivas e em tempo real, captando os esforços de mobilização do resgate das vítimas e de seus socorristas enquanto lutam pela sobrevivência. Por meio de depoimentos de testemunhas, os telespectadores ouvirão daqueles que presenciaram essa horrível tragédia e suas consequências. Todas as vítimas eram guias Sherpas que ajudavam os alpinistas durante a escada quando a neve rolou abaixo cruzando em seu caminho.
+
+Não temos uma lista da equipe técnica deste(a) movie. Você pode ajudar!</info>
+ 
+<genre>Documentário, Cinema TV</genre>
+ 
+<date>04/05/2014</date>
+</item>"
+"<item>
+
+<title>Babá Diabólica [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BABDABLCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1146.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1146.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller, Cinema TV
+Lançamento: 2016
+
+Um casal contrata uma babá para para cuidar de seus filhos enquanto trabalham. No início, tudo vai perfeitamente bem, mas quando ocorre um incidente e o casal não quer mais a babá no emprego, eles descobrem que esta babá é experiente em não ser demitida de seu trabalho. Tão experiente que ela pode fazer a vida desses pais um verdadeiro pesadelo.</info>
+ 
+<genre>Drama, Terror, Thriller, Cinema TV</genre>
+ 
+<date>27/12/2016</date>
+</item>"
+"<item>
+
+<title>Bates Motel [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BTSMTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1189.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1189.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Cinema TV
+Lançamento: 1987
+
+Alex West é um homem que morou com Norman Bates no asilo estadual para lunáticos por quase 20 anos. Após a morte de Bates, Alex descobre que ele está no testamento de Norman como o herdeiro do Motel Bates, que está vazio desde a prisão de Norman. Alex viaja para a cidade natal de Bates na Califórnia e com uma pequena ajuda de um adolescente fugitivo, Willie, Alex luta para reabrir o motel para negócios, coisas estranhas estão acontecendo no Motel. Alguém está tentando afastá-lo ou o motel está realmente assombrado pelo fantasma da mãe de Norman?</info>
+ 
+<genre>Drama, Terror, Cinema TV</genre>
+ 
+<date>05/07/1987</date>
+</item>"
+"<item>
+
+<title>Beijar e Chorar [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BJRECHRAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1229.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1229.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Romance, Cinema TV
+Lançamento: 2017
+
+Diagnosticada com um tipo raro de câncer, a jovem patinadora Carley Allison encontra no canto sua força para lutar.</info>
+ 
+<genre>Música, Drama, Romance, Cinema TV</genre>
+ 
+<date>10/02/2017</date>
+</item>"
+"<item>
+
+<title>Belas e Mimadas [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BLASEMIMDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1231.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1231.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Comédia, Família, Romance
+Lançamento: 2006
+
+A fim de fazer com que suas duas filhas mimadas amadureçam, dono de fábrica de latícinios obriga as adolescentes a trabalharem com ele. Elas penam, mas enfim se adaptam. Quando ele sai de férias, elas precisam lutar contra ameaça de falência.</info>
+ 
+<genre>Cinema TV, Comédia, Família, Romance</genre>
+ 
+<date>24/03/2006</date>
+</item>"
+"<item>
+
+<title>Bem a Tempo para o Natal [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BMATMPRNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1238.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1238.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Cinema TV, Romance, Drama
+Lançamento: 2015
+
+Uma jovem professora de psicologia deve escolher entre percorrer todo o país para aceitar seu emprego dos sonhos ou permanecer em sua cidade natal para se casar com o seu homem ideal. Em uma noite nevoenta de Dezembro, ela recebe a ajuda de um cocheiro, que lhe mostra seus três anos no futuro e o que sua vida vai se tornar.</info>
+ 
+<genre>Fantasia, Cinema TV, Romance, Drama</genre>
+ 
+<date>05/12/2015</date>
+</item>"
+"<item>
+
+<title>Big Time Rush: O Filme [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTRSHOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1264.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1264.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Cinema TV
+Lançamento: 2012
+
+Os meninos do Big Time Rush têm as malas trocadas no aeroporto e acabam ficando com um dispositivo secreto do bilionário Atticus Moon. Agora, enquanto escapam de espiões e malfeitores, eles precisam salvar o planeta antes de iniciar a sua nova turnê.</info>
+ 
+<genre>Comédia, Cinema TV</genre>
+ 
+<date>10/03/2012</date>
+</item>"
+"<item>
+
+<title>Black Mirror: Bandersnatch [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLCKMIRBDNRSNTCHOF.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1273.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1273.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Mistério, Drama, Thriller, Cinema TV
+Lançamento: 2018
+
+Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programador começa a questionar o próprio conceito de realidade e acaba enfrentando um desafio alucinante.</info>
+ 
+<genre>Ficção científica, Mistério, Drama, Thriller, Cinema TV</genre>
+ 
+<date>28/12/2018</date>
+</item>"
+"<item>
+
+<title>Black Mirror: Bandersnatch - Todos Finais [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLCKMIRBDNRSNTCH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1272.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1272.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Mistério, Drama, Thriller, Cinema TV
+Lançamento: 2018
+
+Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programador começa a questionar o próprio conceito de realidade e acaba enfrentando um desafio alucinante.</info>
+ 
+<genre>Ficção científica, Mistério, Drama, Thriller, Cinema TV</genre>
+ 
+<date>28/12/2018</date>
+</item>"
+"<item>
+
+<title>Brexit [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BRXTAGRAUNCVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1326.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1326.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Cinema TV, Drama
+Lançamento: 2019
+
+Dominic Cummings é o estrategista político que liderou a campanha para a saída do Reino Unido da União Europeia durante o referendo de 2016. Usando novas táticas na era da informação, Cummings e sua campanha conseguiram influenciar o eleitorado de uma forma que não só decidiria o resultado do referendo, mas também futuras eleições ao redor do mundo.</info>
+ 
+<genre>História, Cinema TV, Drama</genre>
+ 
+<date>19/01/2019</date>
+</item>"
+"<item>
+
+<title>Brink! Patinadores de Alma [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRNKPTNDSDAML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1336.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1336.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Cinema TV
+Lançamento: 1998
+
+Andy Brinker e seus amigos andam de skate apenas por diversão. Eles batem de frente com um grupo de skatistas chamado X-Bladz, que recebe patrocínio. Porém, quando sua família passa por dificuldades financeiras, Andy se junta a eles.</info>
+ 
+<genre>Drama, Cinema TV</genre>
+ 
+<date>28/08/1998</date>
+</item>"
+"<item>
+
+<title>Bruno e Boots: Antes Juntos do que Mal Acompanhados [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRNEBTSANTSJNTSDQMLACMPNHD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1343.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1343.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Cinema TV
+Lançamento: 2017
+
+O diretor Sturgeon se cansou das brincadeiras de Bruno e Boots. Para acabar com isso, ele determina que eles não podem mais dividir classe e nem dormitório</info>
+ 
+<genre>Família, Cinema TV</genre>
+ 
+<date>01/04/2017</date>
+</item>"
+"<item>
+
+<title>Caçadores de Papai Noel [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CACDRSDPAPNOL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1384.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1384.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Cinema TV
+Lançamento: 2014
+
+Alex recebeu de Natal um presente que vem do próprio Papai Noel. Mas quando ele tenta mostrar ao mundo a evidência de que o bom velhinho existe, ele começa a ser caçoado por todos. Alex resolve provar que Papai Noel é real.</info>
+ 
+<genre>Família, Cinema TV</genre>
+ 
+<date>28/11/2014</date>
+</item>"
+"<item>
+
+<title>Cadeado do Amor [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CDADAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1393.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1393.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Romance, Drama
+Lançamento: 2018
+
+Lindsey Wilson encontrou amor pela primeira vez, na romântica cidade de Paris, quando estudava artes. Agora, vinte anos mais tarde, ela está voltando para a Cidade da Luz, numa aventura com sua filha. Lindsay é uma pintora talentosa, porém, depois de uma promessa quebrada por uma antiga paixão, ela acabou em Nova York, não como artista, mas como editora de uma revista de arte. Lindsay só não imaginaria que sua viagem à Paris com sua filha, geraria um reencontro com seu ex-namorado e a aventura se tornaria um belo romance.</info>
+ 
+<genre>Cinema TV, Romance, Drama</genre>
+ 
+<date>05/10/2018</date>
+</item>"
+"<item>
+
+<title>Caravana da Coragem - Uma Aventura Ewok [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRVNDCRGMUMAVTEWK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1443.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1443.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia, Ficção científica, Cinema TV
+Lançamento: 1985
+
+Em Caravana da Coragem, a família Towani, foi separada quando sua nave espacial caiu em Endor. Os pais, são logo capturados por um gigante conhecido como Gorax, e Mace e Cindel, o filho e a filha, estão desaparecidos. Quando os Ewoks, encontram as crianças Towani, nos destroços da nave, logo fica claro que será necessária confiança mútua para embarcar em uma aventura para resgatar os pais Towani.</info>
+ 
+<genre>Aventura, Família, Fantasia, Ficção científica, Cinema TV</genre>
+ 
+<date>15/02/1985</date>
+</item>"
+"<item>
+
+<title>Caravana da Coragem 2 - A Batalha de Endor [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRVNDCRGMABTLHENDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1442.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1442.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Cinema TV
+Lançamento: 1985
+
+Em A Batalha de Endor, um exército de Marauders, liderados pelo Rei Terak e a bruxa Charal, ataca a vida dos Ewoks. Cindel e Wicket, escapam floresta a dentro e lá encontram Teek e Noa. Eles precisam ficar amigos de Noa, para aliarem-se na tentativa de derrotar os Marauders.</info>
+ 
+<genre>Aventura, Família, Cinema TV</genre>
+ 
+<date>24/11/1985</date>
+</item>"
+"<item>
+
+<title>Carrie, A Estranha [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CARIEAESTNH2002.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1454.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1454.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Drama, Terror
+Lançamento: 2002
+
+Carrie White (Angela Bettis) é uma adolescente solitária. Ela sofre constantemente com os abusos da mãe, uma mulher religiosa, e dos colegas da sua escola. Aos poucos, a garota vai perdendo a sanidade mental, até que descobre os seus poderes telecinéticos. A noite da formatura do colégio está chegando e tudo pode acontecer.</info>
+ 
+<genre>Cinema TV, Drama, Terror</genre>
+ 
+<date>04/11/2002</date>
+</item>"
+"<item>
+
+<title>Casa das Trevas 2 [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CSADSTRVS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1470.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1470.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Cinema TV
+Lançamento: 2018
+
+O casal Kelly e Brian está passando por problemas conjugais. Ainda enquanto fazem terapia de casal, os dois decidem que é hora de tentar apimentar a relação e recomeçar a vida. Para isso, concluem que a melhor opção é deixar para trás a vida na cidade e se mudar para a zona rural, então optam por comprar uma propriedade com uma casa construída há mais de cem anos. O problema é que essa casa é assombrada por uma força sombria capaz de provocar uma enorme tragédia.</info>
+ 
+<genre>Terror, Cinema TV</genre>
+ 
+<date>07/09/2018</date>
+</item>"
+"<item>
+
+<title>Castelo do Medo [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CSTLDMD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1482.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1482.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Terror, Cinema TV
+Lançamento: 2010
+
+Os membros da família Sands estão passando por dificuldades financeiras quando descobrem uma herança muito peculiar: um castelo na Romênia. Sem outras possibilidades, David (Matt Winston) e seus filhos, Hunter (Chase Ellison) e Jordan (Victoria Justice), resolvem se mudar para o misterioso castelo, na cidade de Wolfsberge. Coisas estranhas começam a acontecer e a vida desta família vai se transformar radicalmente.</info>
+ 
+<genre>Família, Fantasia, Terror, Cinema TV</genre>
+ 
+<date>22/10/2010</date>
+</item>"
+"<item>
+
+<title>Catástrofes [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/STNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1485.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1485.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Cinema TV
+Lançamento: 2013
+
+Um caçador de tempestades tenta salvar Boston da destruição quando um tornado anormal bombardeia a cidade com pedras enormes.</info>
+ 
+<genre>Ficção científica, Cinema TV</genre>
+ 
+<date>31/08/2013</date>
+</item>"
+"<item>
+
+<title>Cloud 9: Desafio Final [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CLD9DSFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1555.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1555.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Romance, Cinema TV
+Lançamento: 2014
+
+Kayla Morgan, atleta de snowboard afastada da sua equipe, e Will Cloud, ex-campeão de snowboard, se conhecem quando Kayla é forçada a trabalhar em um pet shop, estabelecimento que pertence à mãe de Will.</info>
+ 
+<genre>Ação, Drama, Romance, Cinema TV</genre>
+ 
+<date>17/01/2014</date>
+</item>"
+"<item>
+
+<title>Como Criar o Garoto Perfeito [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CMCRAROGRTOPRFTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1616.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1616.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Ficção científica, Cinema TV
+Lançamento: 2014
+
+Duas amigas que sabem tudo sobre tecnologia programam pelo computador um garoto perfeito, mas durante o processo, acabam provocando um acidente nacional.</info>
+ 
+<genre>Família, Ficção científica, Cinema TV</genre>
+ 
+<date>18/11/2014</date>
+</item>"
+"<item>
+
+<title>Confissões de Tru [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNFSDTRU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1645.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1645.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Família, Drama
+Lançamento: 2002
+
+Comovente filme que conta a história de uma adolescente que decide filmar um documentário sobre seu irmão deficiente, sem imaginar todas as mudanças positivas que isso trará à sua família.</info>
+ 
+<genre>Cinema TV, Família, Drama</genre>
+ 
+<date>05/04/2002</date>
+</item>"
+"<item>
+
+<title>Conrad e Michelle: Se Palavras Matassem [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNRDEMCHLESPLVRSMTSEM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1651.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1651.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Cinema TV
+Lançamento: 2018
+
+Conrad e Michelle são dois adolescentes depressivos que moram em cidades diferentes e se falam por meio de mensagens de texto. Mas o relacionamento chega a um desfecho trágico quando a garota passa a incentivar o menino em seu desejo de suicídio. Baseado em um chocante caso real que levantou um debate sobre saúde mental e segurança na Internet.</info>
+ 
+<genre>Drama, Cinema TV</genre>
+ 
+<date>23/09/2018</date>
+</item>"
+"<item>
+
+<title>Criaturas ao Ataque [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CRATRSAOATQE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1735.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1735.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica, Comédia, Cinema TV
+Lançamento: 2019
+
+Inspirado pela famosa série de filmes dos anos 80 e 90, Criaturas ao Ataque acompanhe Drea, uma jovem de 20 anos que aceita, relutantemente, trabalhar como babá para um professor da faculdade em que pretende ingressar. Com dificuldade para manter entretidos os filhos do professor, Trissy e Jake, e seu próprio irmãozinho, Phillip, Drea resolve levá-los a um passeio, sem saber que misteriosas criaturas alienígenas caíram do céu e começaram a devorar tudo o que encontram. Enquanto são perseguidas pelas criaturas vorazes, Drea e as crianças encontram uma adorável, e aparentemente inofensiva, criatura chamada Bianca, uma princesa exilada em fuga. Conforme as criaturas começam a se dirigir ao campus, Drea e as crianças, que agora estão intimamente ligadas à Bianca, tentam interceptá-las. Será que Drea encontrará coragem dentro de si? E seria isso o suficiente para deter o ataque das criaturas? E será que a princesa é tão inocente quanto parece?</info>
+ 
+<genre>Terror, Ficção científica, Comédia, Cinema TV</genre>
+ 
+<date>26/08/2019</date>
+</item>"
+
