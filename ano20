@@ -1,0 +1,19 @@
+"<item>
+
+<title>Casamento ou Luxo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CSMTOULXOLEG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1475.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1475.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1923
+
+Quando Marie St. Clair acredita que foi rejeitada por seu namorado artista Jean, ela decide partir para Paris sozinha. Depois de passar um ano na cidade como amante do rico Pierre Revel, ela se reencontra com Jean por acaso. Isso a deixa com a escolha entre uma vida glamorosa em Paris e o verdadeiro amor que ela deixou para trás.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>01/10/1923</date>
+</item>"
