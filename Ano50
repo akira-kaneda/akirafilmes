@@ -1,7 +1,28 @@
 "<item>
 
+<title>Cinderela [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNDRLA1950.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1529.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1529.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Animação, Romance
+Lançamento: 1950
+
+Cinderela vive com sua madrasta, Lady Tremaine, e as duas filhas dela. Obrigada a trabalhar como empregada da casa, ela tem como amigos apenas os animais que a rodeiam. O local em que vive está agitado devido ao baile que será realizado no castelo, o qual contará com a presença do príncipe. Como Lady Tremaine pretende que uma das filhas se case com ele, elas se preparam com requinte para o evento. Cinderela, entretanto, não pode ir. Até que surge a Fada-madrinha, que dá a Cinderela um vestido e condições para que possa ir ao baile em alto estilo. Entretanto há uma condição: Cinderela precisa retornar antes da meia-noite, caso contrário o feitiço será desfeito.</info>
+ 
+<genre>Família, Fantasia, Animação, Romance</genre>
+ 
+<date>22/05/1950</date>
+</item>"
+"<item>
+
 <title>A Malvada [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMLVDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/422.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/422.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -18,7 +39,9 @@ Margo Channing é uma reconhecida atriz da Broadway que está envelhecendo e Eve
 "<item>
 
 <title>Alice no País das Maravilhas [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALCNPASDSMARLVHS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALCNPASDSMARLVHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/756.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/756.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -34,8 +57,29 @@ Alice é uma garota curiosa e cansada da monotonia de sua vida. Um dia, ao segui
 </item>"
 "<item>
 
+<title>Cantando na Chuva [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTNDNCHVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1952
+
+Don Lockwood (Gene Kelly) e Lina Lamont (Jean Hagen) são dois dos astros mais famosos da época do cinema mudo em Hollywood. Seus filmes são um verdadeiro sucesso de público e as revistas inclusive apostam num relacionamento mais íntimo entre os dois, o que não existe na realidade. Mas uma novidade no mundo do cinema chega para mudar totalmente a situação de ambos no mundo da fama: O Cinema Falado, que logo se torna a nova moda entre os espectadores. Decidido a produzir um filme falado com o casal mais famoso do momento, Don e Lina precisam entretanto superar as dificuldades do novo método de se fazer cinema, para conseguir manter a fama conquistada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>30/06/1952</date>
+</item>"
+"<item>
+
 <title>As Aventuras de Peter Pan [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/PTRPN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/PTRPN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/979.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/979.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -52,7 +96,9 @@ Deixando o conforto e segurança de seus lares, Wendy, Miguel e João seguem Pet
 "<item>
 
 <title>A Última Vez Que Vi Paris [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AULTMVZQVIPRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AULTMVZQVIPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/647.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/647.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -69,7 +115,9 @@ Charles Wills (Van Johnson) é um escritor que volta a Paris para reencontrar a 
 "<item>
 
 <title>A Dama e o Vagabundo [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/223.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/223.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -86,7 +134,9 @@ A história de uma cachorrinha de classe chamada Lady que se sente abandonada pe
 "<item>
 
 <title>A 20 Milhões de Milhas da Terra [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/A20MLHSDMLSDTRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/A20MLHSDMLSDTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/112.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/112.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -104,7 +154,9 @@ Quando uma espaçonave americana cai na costa da Sicília, o time de resgate des
 "<item>
 
 <title>A Maldição de Frankenstein [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMLDCAODFRNKSTN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMLDCAODFRNKSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/415.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/415.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -121,7 +173,9 @@ O Barão Frankenstein (Peter Cushing) descobre uma maneira de enganar a morte. P
 "<item>
 
 <title>A Ponte do Rio Kwai [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APNTDRIOKWAI.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APNTDRIOKWAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/531.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/531.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -138,7 +192,9 @@ Depois de liquidar suas diferenças com o comandante de um campo de prisioneiros
 "<item>
 
 <title>12 Homens e Uma Sentença [COLOR yellow][IMDb 8,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/12HMNSEUMSTNC.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/12HMNSEUMSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/43.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/43.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
