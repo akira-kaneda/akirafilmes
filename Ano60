@@ -1,7 +1,47 @@
 "<item>
 
+<title>Ben-Hur [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BENHUR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1249.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1249.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, História, Drama
+Lançamento: 1960
+
+Em Jerusalém no início do século I vive Judah Ben-Hur (Charlton Heston), um rico mercador judeu. Mas, com o retorno de Messala (Stephen Boyd), um amigo da juventude que agora é o chefe das legiões romanas na cidade, um desentendimento devido a visões políticas divergentes faz com que Messala condene Ben-Hur a viver como escravo em uma galera romana, mesmo sabendo da inocência do ex-amigo. Mas o destino vai dar a Ben-Hur uma oportunidade de vingança que ninguém poderia imaginar.</info>
+ 
+<genre>Aventura, História, Drama</genre>
+ 
+<date>29/01/1960</date>
+</item>"
+"<item>
+
+<title>Circo dos Horrores [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRCODSHRORS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1540.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1540.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1960
+
+Em 1947, na Inglaterra, um cirurgião plástico deve bater em retirada para a França, quando um de seus pacientes tem problemas horríveis com sua cirurgia. Uma vez lá, ele opera sobre a filha de um dono do circo, deformado por bombas da guerra. Mais tarde, ele se torna o dono do circo, e continua transformando as mulheres desfiguradas para as belas estrelas de seu show. O repórter intrometida (bem como Scotland Yard) da polícia e se interessar quando as mulheres que querem fora do circo começam a morrer em acidentes estranhos, e eles começam a suspeitar o bom médico é responsável.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>31/08/1960</date>
+</item>"
+"<item>
+
 <title>A Bela Adormecida [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABLADRMCDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABLADRMCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/141.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/141.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -18,7 +58,9 @@ Ciumenta e vingativa a fada Malévola lança um feitiço cruel sobre a princesa 
 "<item>
 
 <title>101 Dálmatas [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/101DMLTS1.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/101DMLTS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/40.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/40.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -36,7 +78,9 @@ Conta a história de uma família de cachorrinhos da raça dálmata que é rapta
 "<item>
 
 <title>A Face Oculta [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/272.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/272.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -52,8 +96,29 @@ Em fuga após o roubo de um banco no México um dos assaltantes, Dad Longworth (
 </item>"
 "<item>
 
+<title>Cleópatra [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLEOPDTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1549.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1549.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Romance
+Lançamento: 1963
+
+O filme narra a ascensão e o declínio de Cleópatra, rainha do Egito, sua luta para defender o império das ambições políticas e territoriais de Roma e seu relacionamento com Júlio César e Marco Antônio.</info>
+ 
+<genre>Drama, História, Romance</genre>
+ 
+<date>12/06/1963</date>
+</item>"
+"<item>
+
 <title>007 Contra o Satânico Dr. No [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071962CNTROSTNC.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071962CNTROSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/18.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/18.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -70,8 +135,29 @@ James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. E
 </item>"
 "<item>
 
+<title>Carrossel de Emoções [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRSLDEMCES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Romance
+Lançamento: 1964
+
+Charlie Rogers (Elvis Presley) dirige sua motocicleta e se apresenta em pequenos clubes, pois espera se tornar um cantor famoso. Porém, enquanto sua moto é reparada ele decide trabalhar no parque de diversões de Maggie Morgan (Barbara Stanwyck). Quando canta lá obtém sucesso, sendo que isto pode ser a salvação de Morgan, que tem uma dívida com o banco que pode fechar o parque. Entretanto, logo a moto estará pronta e Charlie vai deixá-los, a menos que a jovem Cathy Lean (Joan Freeman) o convença a ficar.</info>
+ 
+<genre>Música, Romance</genre>
+ 
+<date>11/11/1964</date>
+</item>"
+"<item>
+
 <title>007 Contra Goldfinger [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/15.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/15.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -89,7 +175,9 @@ James Bond é (Sean Connery) encarregado de espionar Goldfinger (Gert Fröbe), u
 "<item>
 
 <title>A Maior História de Todos os Tempos [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMIORHSTRDTDSOSTMPS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMIORHSTRDTDSOSTMPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/403.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/403.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -106,7 +194,9 @@ A vida de Jesus de Nazaré (Max von Sydow). Seu nascimento, as pregações, mila
 "<item>
 
 <title>A Noviça Rebelde [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -123,7 +213,9 @@ No final da década de 1930, na Áustria, quando o pesadelo nazista estava prest
 "<item>
 
 <title>A Espada Era a Lei [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESPDERALEI.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESPDERALEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/251.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/251.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -140,7 +232,9 @@ Humor, espetáculo e magia imperam neste conto clássico legendário de Walt Dis
 "<item>
 
 <title>007 Contra a Chantagem Atômica [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601508.us.archive.org/16/items/35_20200901/13.jpg</image>
 <thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/13.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -157,8 +251,124 @@ James Bond (Sean Connery) tenta evitar a destruição de Miami por meio de uma s
 </item>"
 "<item>
 
+<title>Batman - O Homem Morcego [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BTMNOHMNMORCG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1205.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1205.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Comédia, Ficção científica, Crime, Baseado em Quadrinho
+Lançamento: 1966
+
+Em Gotham City, Charada (Frank Gorshin), Pinguim (Burgess Meredith), Coringa (Cesar Romero) e Mulher-Gato (Lee Meriweather) roubam uma invenção secreta e planejam usá-la de forma maléfica. Além disto, planejam também destruir o Homem-Morcego e o Menino-Prodígio.</info>
+ 
+<genre>Família, Aventura, Comédia, Ficção científica, Crime, Baseado em Quadrinho</genre>
+ 
+<date>30/07/1966</date>
+</item>"
+"<item>
+
+<title>Cyborg 009: Contra o Monstro do Mar [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/C009CNTROMNTROMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1768.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1768.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 1967
+
+A organização do mal Black Ghost está atacando em todo o mundo, usando robôs gigantes do tipo dinossauro (plesiossauro), e a equipe dos 9 ciborgues lança sua busca ao esconderijo da organização. 009 conhece uma garota chamada Helena...</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>19/03/1967</date>
+</item>"
+"<item>
+
+<title>Casino Royale [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CSNOROYALE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1480.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1480.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia
+Lançamento: 1967
+
+Uma organização criminosa conhecida como Smersh está eliminando os agentes de todas as agências de espionagem do mundo. Afastado do Serviço Secreto Britânico, James Bond volta à ativa, elaborando uma conspiração secreta para combater o inimigo.</info>
+ 
+<genre>Aventura, Ação, Comédia</genre>
+ 
+<date>28/04/1967</date>
+</item>"
+"<item>
+
+<title>Bonnie e Clyde - Uma Rajada de Balas [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BNECLYDUMRJDADBLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1303.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1303.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 1967
+
+Bonnie Parker se apaixona por um ex-presidiário, Clyde Barrow e decide acompanhá-lo. Juntos, iniciam uma carreira de crimes roubando carros e assaltando bancos até serem perseguidos pela polícia por todo o país.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>14/08/1967</date>
+</item>"
+"<item>
+
+<title>Com 007 Só Se Vive Duas Vezes [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071967CM007SSVDV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1592.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1592.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1967
+
+Durante uma missão de rotina no espaço, uma nave americana desaparece misteriosamente da sua órbita. Os americanos suspeitam dos soviéticos e pensam em uma retaliação. No entanto, os ingleses se mantêm mais cautelosos, após existirem possibilidades da nave ter pousado perto do Mar do Japão. Assim, 007 (Sean Connery) vai investigar o caso, mas quando os soviéticos perdem uma espaçonave nas mesmas circunstâncias, Bond tem poucos dias para resolver esta missão e evitar a Terceira Guerra Mundial.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>02/10/1967</date>
+</item>"
+"<item>
+
+<title>Asterix, o Gaulês [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASTRXOGLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1085.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1085.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura, Comédia
+Lançamento: 1967
+
+No ano 50 a.C. a Gália é ocupada pelos romanos. Mas, a pequena vila de Asterix e seus amigos ainda resiste com a ajuda de uma poção mágica, que lhes dá uma força sobre-humana. Desesperado para descobrir a poção secreta dos gauleses, um centurião romano passa a espionar a vila. O objetivo é se tornar invencível e acabar com qualquer obstáculo entre ele e o trono de César. Mas, Panoramix, o druida da vila prepara uma poção especial para ele. Nosso herói Asterix dá a ele a mistura: um tônico poderoso que faz seu cabelo crescer, crescer...</info>
+ 
+<genre>Família, Animação, Aventura, Comédia</genre>
+ 
+<date>20/12/1967</date>
+</item>"
+"<item>
+
 <title>2001: Uma Odisséia no Espaço [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/2001UMODSIANESPCO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/2001UMODSIANESPCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/67.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/67.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -175,8 +385,29 @@ Desde a ""Aurora do Homem"" (a pré-história), um misterioso monolito negro par
 </item>"
 "<item>
 
+<title>Asterix & Cleópatra [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASTRXECLEOPTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1081.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1081.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura, Comédia
+Lançamento: 1968
+
+Nessa grande aventura que ocorre no tempo do Egito, Asterix e sua turma ajudarão o arquiteto da rainha Cleópatra a construir um magnífico palácio para César. Mas o maligno e invejoso arquiteto Timetamom e seu escravo farão de tudo para impedir a construção. Conseguirá o terrível arquiteto acabar com Asterix e seus amigos?</info>
+ 
+<genre>Família, Animação, Aventura, Comédia</genre>
+ 
+<date>19/12/1968</date>
+</item>"
+"<item>
+
 <title>A Ponte de Remagen [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/APNTDRMGM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/APNTDRMGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/16/items/487_20200908/530.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/530.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
