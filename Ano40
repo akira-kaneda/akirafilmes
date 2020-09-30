@@ -1,7 +1,9 @@
 "<item>
 
 <title>...E o Vento Levou [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -17,8 +19,29 @@ Lançamento: 1940
 </item>"
 "<item>
 
+<title>Bambi [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BMBI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1157.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1157.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Drama, Família
+Lançamento: 1942
+
+A história animada de Bambi, um jovem cervo saudado como o ""Príncipe da Floresta"" no seu nascimento. Como Bambi cresce, ele faz amizade com os outros animais da floresta, aprende as habilidades necessárias para sobreviver e até encontra o amor. Um dia, porém, os caçadores vem, e Bambi deve aprender a ser tão corajoso como seu pai, e levar os outros cervos para a segurança.</info>
+ 
+<genre>Animação, Drama, Família</genre>
+ 
+<date>14/08/1942</date>
+</item>"
+"<item>
+
 <title>Alô, Amigos [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALOMGS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALOMGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/773.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/773.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -35,7 +58,9 @@ Apresentando personagens como Zé Carioca, Pedro, um avião mirim do correio e o
 "<item>
 
 <title>A Canção do Sul [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/167.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/167.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -52,7 +77,9 @@ Morando com os avós, depois que os pais se separaram, garoto só encontra a ale
 "<item>
 
 <title>A Felicidade Não se Compra [COLOR yellow][IMDb 8,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AFLCDNSCMPR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AFLCDNSCMPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/282.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/282.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -68,8 +95,48 @@ Em Bedford Falls, no Natal, George Bailey, que sempre ajudou a todos, pensa em s
 </item>"
 "<item>
 
+<title>Califórnia [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CLFNIA1947.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1404.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1404.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1947
+
+Uma caravana dirige-se para o Oeste, guiada pelo ex-tenente Jonathan Trumbo e seu amigo irlandês Michael Fabian. No caminho, junta-se a eles a aventureira Lily Bishop, com quem Jonathan se envolve. Todavia, quando chega a notícia de que foi descoberto ouro na Califórnia, Lily e a maioria dos colonos partem, atrás de fortuna fácil. Mais tarde, Jonathan a reencontra em Pharaoh City, cidade dominada pelo ex-traficante de escravos Pharaoh Coffin, que arranca até a última gota de sangue dos mineiros. Pharaoh também deseja tornar o território uma nação independente, para fortalecer sua posição. Entretanto, seus planos são frustrados por Jonathan, Michael e Lily, agora a rica proprietária do saloon The Golden Lily.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>21/02/1947</date>
+</item>"
+"<item>
+
+<title>Como é Bom se Divertir [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMEBMSDVRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1617.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1617.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Música
+Lançamento: 1949
+
+Jiminy Cricket apresenta dois curtas de animação da Disney: ""Bongo"", sobre um urso de circo que foge para a vida selvagem, e uma visão de famoso conto de fadas em ""Mickey e o Pé de Feijão"", com Mickey, Donald e Pateta nos papéis principais.</info>
+ 
+<genre>Animação, Família, Música</genre>
+ 
+<date>01/11/1949</date>
+</item>"
+"<item>
+
 <title>As Aventuras de Ichabod e Sr. Sapo [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ASAVNTRSDICHBDESRSPO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASAVNTRSDICHBDESRSPO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/975.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/975.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
