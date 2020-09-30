@@ -1,7 +1,9 @@
 "<item>
 
 <title>A Canção do Sul [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/167.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/167.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -18,7 +20,9 @@ Morando com os avós, depois que os pais se separaram, garoto só encontra a ale
 "<item>
 
 <title>A Encruzilhada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -35,7 +39,9 @@ Eugene Martone (Ralph Macchio) é um jovem e talentoso guitarrista que está bus
 "<item>
 
 <title>A Escolha Perfeita [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/247.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/247.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -52,7 +58,9 @@ O The Barden Bellas é um grupo formado apenas por garotas, que apostam no visua
 "<item>
 
 <title>A Escolha Perfeita 2 [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESCLHPRFTA2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHPRFTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/10/items/250_20200903/248.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/248.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -69,7 +77,9 @@ Após conquistarem o sucesso, as Barden Bellas ganham a oportunidade de se apres
 "<item>
 
 <title>A Escolha Perfeita 3 [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AESCLHPRFTA3.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHPRFTA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/249.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/249.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -86,7 +96,9 @@ Agora formadas, Beca (Anna Kendrick), Fat Amy (Rebel Wilson), Chloe (Brittany Sn
 "<item>
 
 <title>A Fábrica de Nada [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AFBRCDNDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AFBRCDNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/267.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/267.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -103,7 +115,9 @@ Uma noite, os trabalhadores de uma fábrica de elevadores em Portugal veem as m�
 "<item>
 
 <title>A Fabulosa Aventura da Sharpay [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AFBLSANTURASHRP.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFBLSANTURASHRP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/268.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/268.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -120,7 +134,9 @@ Um caça-talentos de Nova York descobre Sharpay Evans, aspirante a atriz dramát
 "<item>
 
 <title>A Família Bélier [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AFMLBLR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFMLBLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/276.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/276.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -137,7 +153,9 @@ Paula é uma adolescente francesa que enfrenta todas as questões comuns de sua 
 "<item>
 
 <title>A Grande Farra dos Muppets [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/312.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/312.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -154,7 +172,9 @@ Nessa história, Caco e Fozzie são irmãos gêmeos (apesar de um ser um sapo e 
 "<item>
 
 <title>A Lenda de Oz [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALNDEOZ.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALNDEOZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/380.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/380.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -171,7 +191,9 @@ Na história, Dorothy volta para casa e descobre que o Kansas foi devastado pelo
 "<item>
 
 <title>A Menina e o Porquinho [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMNAEOPRQNHO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMNAEOPRQNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/441.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/441.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -188,7 +210,9 @@ Charlotte, é uma pequena aranha que tenta salvar a vida do porquinho Wilbur, te
 "<item>
 
 <title>A Nova Cinderela: Milagre de Natal [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ANVACNRLAMLGRDNTL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANVACNRLAMLGRDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/492.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/492.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -205,7 +229,9 @@ Kat é uma jovem aspirante a cantora, cujos sonhos sempre são esnobados pela cr
 "<item>
 
 <title>A Nova Cinderela: Se O Sapato Encaixar [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ANVACNRLASOSPTENXR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANVACNRLASOSPTENXR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/494.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/494.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -222,7 +248,9 @@ Tessa (Sofia Carson) é uma jovem sonhadora que vive uma vida infeliz ao lado de
 "<item>
 
 <title>A Noviça Rebelde [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -239,7 +267,9 @@ No final da década de 1930, na Áustria, quando o pesadelo nazista estava prest
 "<item>
 
 <title>A Pequena Sereia II - O Retorno Para o Mar [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/APQNSRAFILME02.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/APQNSRAFILME02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/524.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/524.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -256,7 +286,9 @@ Ariel e seu príncipe encantado Eric, vivem felizes, após a sereia filha do Rei
 "<item>
 
 <title>A Princesa Encantada - O Reino da Música [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/APRNCSENCTDAORNDMSCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/APRNCSENCTDAORNDMSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/548.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/548.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -273,7 +305,9 @@ A princesa Odette (Nina Herzog) está apresentando uma competição de música e
 "<item>
 
 <title>À Procura da Liberdade [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APRCURDLBRD.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APRCURDLBRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/552.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/552.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -290,7 +324,9 @@ Em 1856, o escravo Samuel Woodward e sua família escapam da plantação Monroe,
 "<item>
 
 <title>Acertando o Passo [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACRTDOPASO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACRTDOPASO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/697.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/697.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -307,7 +343,9 @@ Casada há 40 anos, Lady Sandra Abbott (Imelda Staunton) descobre que seu marido
 "<item>
 
 <title>All Eyez on Me: A História de Tupac [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALLEYZONMAHSTDTPC.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALLEYZONMAHSTDTPC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/766.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/766.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -324,7 +362,9 @@ Cinebiografia do rapper americano Tupac Shakur, desde o início da carreira até
 "<item>
 
 <title>Alta Fidelidade [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALTFDLDADE.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALTFDLDADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/776.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/776.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -341,7 +381,9 @@ Rob Gordon (John Cusack) é o dono de uma loja de música beira da falência, po
 "<item>
 
 <title>Alvin e os Esquilos 2 [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ALVNEOSESQULS2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ALVNEOSESQULS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/787.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/787.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -358,7 +400,9 @@ Alvin, Simon e Theodore são astros mundialmente conhecidos. Apesar disto, conti
 "<item>
 
 <title>Alvin e os Esquilos 3 [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ALVNEOSESQULS3.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ALVNEOSESQULS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/788.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/788.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -375,7 +419,9 @@ Os irmãos Alvin, Simon e Theodore partem em uma viagem de cruzeiro juntamente c
 "<item>
 
 <title>Amadeus [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMDEUS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMDEUS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/792.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/792.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -392,7 +438,9 @@ Após tentar se suicidar, Salieri (F. Murray Abraham) confessa a um padre que fo
 "<item>
 
 <title>Ardida como Pimenta [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/943.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/943.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -408,8 +456,295 @@ Deadwood, no território de Dakota, é em grande parte terra de homens, onde a R
 </item>"
 "<item>
 
+<title>As Loucuras de Rose [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASLCRSDROSE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1027.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1027.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia, Drama
+Lançamento: 2019
+
+Rose-Lynn Harlan é uma cantora de Glasgow, na Escócia, que sonha em se tornar uma estrela da música country em Nashville, no Tennessee. Acabando de sair da prisão e mãe solteira de dois filhos, ela é forçada a encarar responsabilidades mais urgentes e arruma um emprego de diarista, mas acaba encontrando em seu caminho quem dê apoio para o seu sonho aparentemente louco.</info>
+ 
+<genre>Música, Comédia, Drama</genre>
+ 
+<date>11/09/2019</date>
+</item>"
+"<item>
+
+<title>Barbie: Rainhas do Rock [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BARBRANHDRCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1171.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1171.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Música, Família
+Lançamento: 2015
+
+Prepare-se para arrasar! No musical Barbie Rock’n Royals, Barbie estrela como Courtney, uma princesa moderna que tem seu mundo virado de ponta-cabeça ao trocar de lugar com Erika, uma famosa estrela do rock. Dois estilos completamente diferentes se chocam quando a Princesa Courtney vai para o acampamento pop e Erika para o acampamento da realeza. Enquanto os líderes dos acampamentos rivais tentam corrigir o engano, Courtney e Erika têm que aprender a se ajustar a um mundo novo e se divertem ao fazer novos e inesperados amigos. Quando as garotas descobrem que os acampamentos estão correndo o risco de fechar, elas devem conciliar suas diferenças e encontrar suas verdadeiras vozes, em uma épica aventura para descobrir que a música tem o poder de unir a todos!</info>
+ 
+<genre>Animação, Música, Família</genre>
+ 
+<date>13/08/2015</date>
+</item>"
+"<item>
+
+<title>Batalhas [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BTLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1185.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1185.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Música
+Lançamento: 2018
+
+Com a falência do pai, a jovem bailarina Amalie vê seu estilo de vida luxuoso desmoronar. Mas ela descobre um novo ritmo ao conhecer o dançarino de hip-hop Mikael.</info>
+ 
+<genre>Drama, Romance, Música</genre>
+ 
+<date>28/09/2018</date>
+</item>"
+"<item>
+
+<title>Beijar e Chorar [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BJRECHRAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1229.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1229.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Romance, Cinema TV
+Lançamento: 2017
+
+Diagnosticada com um tipo raro de câncer, a jovem patinadora Carley Allison encontra no canto sua força para lutar.</info>
+ 
+<genre>Música, Drama, Romance, Cinema TV</genre>
+ 
+<date>10/02/2017</date>
+</item>"
+"<item>
+
+<title>Bob Esponja - O Filme [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BOBOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1286.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1286.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia, Música
+Lançamento: 2004
+
+Após a coroa do Rei Netuno ser roubada, Bob Esponja e seu melhor amigo Patrick partem em uma viagem pela Fenda do Bikini para reencontrá-la. No caminho eles precisam enfrentar monstros marinhos, vilões perigosos e vários bandidos.</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia, Música</genre>
+ 
+<date>14/11/2004</date>
+</item>"
+"<item>
+
+<title>Bohemian Rhapsody [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1288.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1288.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2018
+
+Freddie Mercury (Rami Malek) e seus companheiros Brian May (Gwilyn Lee), Roger Taylor (Ben Hardy) e John Deacon (Joseph Mazzello) mudam o mundo da música para sempre ao formar a banda Queen, durante a década de 1970. Porém, quando o estilo de vida extravagante de Mercury começa a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>01/11/2018</date>
+</item>"
+"<item>
+
+<title>Bolden - A Sensação do Jazz [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLNDASNSDJZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1292.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1292.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2019
+
+Cinebiografia de Buddy Bolden, o primeiro Cornet King de Nova Orleans. A história de Charles Joseph “Buddy” Bolden (Gary Carr), o rei do jazz. Em meio a um contexto social e político turbulento no início do século 20, Bolden foi o primeiro cornetista de Nova Orleans, grande precursor do ritmo e responsável por revolucionar o cenário musical.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>03/05/2019</date>
+</item>"
+"<item>
+
+<title>Bravetown [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BRVTWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1323.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1323.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2015
+
+Josh Harvest (Lucas Till) é um jovem DJ que, acidentalmente, entra na vida de Alex (Josh Duhamel), um veterano de guerra. Logo, a amizade entre os dois cresce e, após um evento complexo expor o passado de Alex, os dois descobrem que o vínculo que formaram transformará a vida dos dois para sempre.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>08/05/2015</date>
+</item>"
+"<item>
+
+<title>Cantando na Chuva [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTNDNCHVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1952
+
+Don Lockwood (Gene Kelly) e Lina Lamont (Jean Hagen) são dois dos astros mais famosos da época do cinema mudo em Hollywood. Seus filmes são um verdadeiro sucesso de público e as revistas inclusive apostam num relacionamento mais íntimo entre os dois, o que não existe na realidade. Mas uma novidade no mundo do cinema chega para mudar totalmente a situação de ambos no mundo da fama: O Cinema Falado, que logo se torna a nova moda entre os espectadores. Decidido a produzir um filme falado com o casal mais famoso do momento, Don e Lina precisam entretanto superar as dificuldades do novo método de se fazer cinema, para conseguir manter a fama conquistada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>30/06/1952</date>
+</item>"
+"<item>
+
+<title>Carrossel de Emoções [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRSLDEMCES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Romance
+Lançamento: 1964
+
+Charlie Rogers (Elvis Presley) dirige sua motocicleta e se apresenta em pequenos clubes, pois espera se tornar um cantor famoso. Porém, enquanto sua moto é reparada ele decide trabalhar no parque de diversões de Maggie Morgan (Barbara Stanwyck). Quando canta lá obtém sucesso, sendo que isto pode ser a salvação de Morgan, que tem uma dívida com o banco que pode fechar o parque. Entretanto, logo a moto estará pronta e Charlie vai deixá-los, a menos que a jovem Cathy Lean (Joan Freeman) o convença a ficar.</info>
+ 
+<genre>Música, Romance</genre>
+ 
+<date>11/11/1964</date>
+</item>"
+"<item>
+
+<title>Chet Baker: A Lenda do Jazz [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CHTBKRALNDJZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1515.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1515.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2015
+
+Cinebiografia contando a história da lenda do jazz, o trompetista Chet Baker (Ethan Hawke), e seu envolvimento com drogas que o levou em direção ao isolamento e a busca de forças para voltar aos palcos com a ajuda do amor, quando se apaixona por Jane (Carmen Ejogo).</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>13/09/2015</date>
+</item>"
+"<item>
+
+<title>Cirque du Soleil: Outros Mundos [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CRQDSLELOTRSMNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1545.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1545.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Música, Drama
+Lançamento: 2013
+
+O mais famoso circo acrobático do mundo traz Worlds Away, um espetáculo inédito concebido especialmente para um filme em 3D. A trama apresenta Mia (Erica Linz), uma jovem garota que decide visitar o circo. Chegando no local, ela observa um jovem (Igor Zaripov) arrumar a tenda do picadeiro, e os dois se apaixonam à primeira vista. Ela logo descobre que este homem é um famoso equilibrista e trapezista, e decide assistir a uma de suas apresentações. No entanto, quando o artista percebe a presença de Mia no público, ele erra sua manobra e cai em um mundo mágico, levando Mia consigo. Entre diversos perigos e seres mágicos, eles tentam se encontrar.</info>
+ 
+<genre>Fantasia, Família, Música, Drama</genre>
+ 
+<date>22/02/2013</date>
+</item>"
+"<item>
+
+<title>Como é Bom se Divertir [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMEBMSDVRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1617.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1617.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Música
+Lançamento: 1949
+
+Jiminy Cricket apresenta dois curtas de animação da Disney: ""Bongo"", sobre um urso de circo que foge para a vida selvagem, e uma visão de famoso conto de fadas em ""Mickey e o Pé de Feijão"", com Mickey, Donald e Pateta nos papéis principais.</info>
+ 
+<genre>Animação, Família, Música</genre>
+ 
+<date>01/11/1949</date>
+</item>"
+"<item>
+
+<title>Corações Batendo Alto [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CRCOSBTNDOALTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1684.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1684.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Comédia, Família
+Lançamento: 2018
+
+Frank (Nick Offerman) é um pai solteiro que não está preparado para se despedir de sua filha, que em breve se mudará para seguir seu sonho de estudar medicina. Ele é dono de uma gravadora que está falindo, mas espera manter contato com a filha através da paixão que dividem: a música. Um pouco antes da mudança, Frank sugere que os dois iniciem uma banda, a ""We're Not A Band"". Uma das músicas compostas pela dupla viraliza instantaneamente na internet. Agora, Sam precisa decidir entre cursar a faculdade de medicina, um dos maiores objetivos de sua vida, ou se continua ao lado do pai, se dedicando a banda e a carreira de cantora.</info>
+ 
+<genre>Drama, Música, Comédia, Família</genre>
+ 
+<date>08/06/2018</date>
+</item>"
+"<item>
+
+<title>Cry-Baby [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRYBABY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1757.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1757.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1990
+
+Na década de 1950 em Baltimore, um garoto delinquente com um coração de ouro ganha o amor de uma boa garota, cujo ex-namorado se vinga.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>05/04/1990</date>
+</item>"
+"<item>
+
 <title>Nove Canções [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/9CANCOES.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/9CANCOES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/108.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/108.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
