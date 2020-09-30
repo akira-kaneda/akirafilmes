@@ -1,7 +1,9 @@
 "<item>
 
 <title>A Balada de Buster Scruggs [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ABLDADBSTRSCRG.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABLDADBSTRSCRG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/130.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/130.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -18,7 +20,9 @@ Os aclamados irmãos Joel e Ethan Coen idealizam uma antologia faroeste em seis 
 "<item>
 
 <title>A Difícil Vingança [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ADFCLVNGCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ADFCLVNGCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/10/items/250_20200903/229.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/229.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -35,7 +39,9 @@ Christian Slater, Jill Hennessy e Donald Sutherland estrelam esta envolvente his
 "<item>
 
 <title>A Face Oculta [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/272.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/272.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -52,7 +58,9 @@ Em fuga após o roubo de um banco no México um dos assaltantes, Dad Longworth (
 "<item>
 
 <title>A Lenda de Wild Bill Hickok [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ALNDWLDBIL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALNDWLDBIL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/382.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/382.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -69,7 +77,9 @@ O lendário homem da lei e pistoleiro, Wild Bill Hickok, é encarregado de domar
 "<item>
 
 <title>A Marca do Zorro [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -86,7 +96,9 @@ Nos tempos de vitoria, Don Diego de La Vega retornou da Espanha para sua famíli
 "<item>
 
 <title>À Procura da Vingança [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/APRCRDVNGC.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APRCRDVNGC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/553.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/553.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -103,7 +115,9 @@ Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX
 "<item>
 
 <title>A Qualquer Custo [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AQLQRCSTO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AQLQRCSTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/569.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/569.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -120,7 +134,9 @@ Quando a fazenda da família é penhorada pelo banco no Oeste do Texas, dois irm
 "<item>
 
 <title>A Salvação [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ASLVCAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASLVCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/602.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/602.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -137,7 +153,9 @@ Na América de 1870, um pacífico colono americano mata o culpado por assassinar
 "<item>
 
 <title>A Vingança de Lefty Brown [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AVNGCDLTYBRWN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVNGCDLTYBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -154,7 +172,9 @@ Lefty Brown (Bill Pullman) é um ajudante de 63 anos que toda a sua vida ficou a
 "<item>
 
 <title>Amaldiçoada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMLDODA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLDODA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/794.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/794.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -171,7 +191,9 @@ Liz (Dakota Fanning) é uma corajosa mulher que tenta fugir de seu passado, mas 
 "<item>
 
 <title>Amigos, Sempre Amigos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMGSMPRAMGO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMGSMPRAMGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/823.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/823.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -188,7 +210,9 @@ Três empresários de Nova York decidem tirar férias no ""Velho Oeste"", que n�
 "<item>
 
 <title>Appaloosa - Uma Cidade sem Lei [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APLOSAUMCDADSMLEI.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APLOSAUMCDADSMLEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/929.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/929.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -205,7 +229,9 @@ Virgil Cole (Ed Harris) e Everett Hitch (Viggo Mortensen) são pistoleiros contr
 "<item>
 
 <title>Ardida como Pimenta [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/943.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/943.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -222,7 +248,9 @@ Deadwood, no território de Dakota, é em grande parte terra de homens, onde a R
 "<item>
 
 <title>Armados e Perigosos [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ARMDSEPRGSOS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ARMDSEPRGSOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/952.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/952.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -235,4 +263,194 @@ Passado em 1882, John Slaughter e sua ajudante Savannah Starr retornam a uma cid
 <genre>Ação, Faroeste</genre>
  
 <date>08/06/2004</date>
+</item>"
+"<item>
+
+<title>As Loucas Aventuras de James West [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASLCSAVNTSDJMSWST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1026.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1026.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Ficção científica, Faroeste
+Lançamento: 1999
+
+James West (Will Smith), um herói da Guerra Civil americana, e Artemus Gordon (Kevin Kline), um criativo inventor, são chamados pelo Presidente Ulysses S. Grant para combater o Dr. Arliss Loveless (Kenneth Branagh), que pretende conquistar os Estados Unidos com suas máquinas modernas.</info>
+ 
+<genre>Ação, Aventura, Comédia, Ficção científica, Faroeste</genre>
+ 
+<date>15/07/1999</date>
+</item>"
+"<item>
+
+<title>Bandidas [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BNDAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1159.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1159.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Faroeste, Crime
+Lançamento: 2006
+
+México, 1880. Sara Sandoval (Salma Hayek) é a bela filha de um rico banqueiro. Maria Alvarez (Penélope Cruz) é a bela filha de um camponês. Elas aparentemente não têm nada em comum, mas o destino faz com que se tornem as mais perigosas e sensuais assaltantes de banco do país. Com a ajuda de Quentin Cooke (Steve Zahn), um inspetor de polícia idealista, Sara e Maria combatem Tyler Jackson (Dwight Yoakam), o representante do Banco de Nova York que está tentando tomar ilegalmente as terras da população local.</info>
+ 
+<genre>Ação, Comédia, Faroeste, Crime</genre>
+ 
+<date>18/01/2006</date>
+</item>"
+"<item>
+
+<title>Bater ou Correr [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTROUCORER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1187.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1187.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia, Faroeste
+Lançamento: 2000
+
+Em 1800, uma princesa (Lucy Liu) sequestrada na Cidade Proibida, na China, e levada até o Velho Oeste americano. Na tentativa de salvá-la parte Chon Wang (Jackie Chan), que se depara com uma cultura completamente diferente da sua. Ao ser atacado por cowboys armados, Wang responde com acrobáticos golpes de kung fu que deixam os americanos de cabelo em pé.</info>
+ 
+<genre>Aventura, Ação, Comédia, Faroeste</genre>
+ 
+<date>26/05/2000</date>
+</item>"
+"<item>
+
+<title>Bater ou Correr em Londres [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTROUCORERLNDRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1188.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1188.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Faroeste
+Lançamento: 2003
+
+Dois amigos fazem uma viagem no tempo a Londres, no século 19, para recuperar o Selo Imperial da China, que foi roubado por um lorde inglês demoníaco. No caminho, eles conhecem Jack, o Estripador, Sir Arthur Conan Doyle e Charlie Chaplin ainda jovem. Tudo isso regado a muita ação e kung fu.</info>
+ 
+<genre>Ação, Aventura, Comédia, Faroeste</genre>
+ 
+<date>07/02/2003</date>
+</item>"
+"<item>
+
+<title>Big Kill - A Cidade do Medo [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BIGKILACDADMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1262.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1262.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste
+Lançamento: 2018
+
+O destino leva um almofadinha da Filadélfia, dois jogadores desajustados em fuga e um religioso assassino a uma cidade em franca expansão chamada Big Kill. Após a morte de sua esposa, Jim, o contador, veio do Leste para se juntar a seu irmão nos negócios. Jake e Travis, dois bandidos desajustados com um pé de cada lado da lei, vieram do Sul depois de serem expulsos do México sob uma chuva de tiros. O que eles encontram no Oeste é uma jornada selvagem, uma luta pela sobrevivência que levará a um momento de decisão que os mudará para sempre.</info>
+ 
+<genre>Ação, Faroeste</genre>
+ 
+<date>19/10/2018</date>
+</item>"
+"<item>
+
+<title>Black '47 [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLCK47.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1271.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1271.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Faroeste
+Lançamento: 2018
+
+Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.</info>
+ 
+<genre>Drama, Faroeste</genre>
+ 
+<date>28/09/2018</date>
+</item>"
+"<item>
+
+<title>Bravura Indômita [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BRVRINDMT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1324.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1324.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Aventura, Faroeste
+Lançamento: 2010
+
+Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajudá-la a encontrar Chaney e vingar seu pai . A dupla briguenta não está sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, também vem monitorando Chaney por razões próprias. Juntos, o trio se aventura em um território hostil para distribuir um pouco da justiça do Velho Oeste.</info>
+ 
+<genre>Drama, Aventura, Faroeste</genre>
+ 
+<date>22/12/2010</date>
+</item>"
+"<item>
+
+<title>Caçador de Almas [COLOR yellow][IMDb 3,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CACDRDALMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1375.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1375.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Faroeste
+Lançamento: 2012
+
+Quando uma freira quebrou seu pacto com Deus para salvar a vida de Aman, seu filho ainda não nascido, ele foi amaldiçoado por toda a vida. Como um adulto, Aman (Snipes) mata todos que cruzaram seu caminho. Mas sua maldição traz suas vítimas de volta à vida, e como os mortos-vivos, eles perseguem incessantemente por vingança. Sofrendo esta maldição eternamente, Aman recruta Fabulos (Smith), um jovem pistoleiro, para lutar ao seu lado contra suas vítimas mortos-vivos.</info>
+ 
+<genre>Ação, Terror, Faroeste</genre>
+ 
+<date>27/10/2012</date>
+</item>"
+"<item>
+
+<title>Cactus Jack, o Vilão [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CACTSJCKOVLAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1387.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1387.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Faroeste
+Lançamento: 1979
+
+Um atraente desconhecido (Arnold Schwarzenegger) concorda em acompanhar a jovem Charming Jones (Ann-Margret) para receber a herança do seu pai. Porém, Avery Simpson (Jack Elam) quer ficar com o dinheiro e, para isso, contrata o notório fora da lei Cactus Jack (Kirk Douglas) para armar uma emboscada para a garota. Mas o que não se espera é que Cactus Jack não tem muita habilidade em roubar pessoas.</info>
+ 
+<genre>Comédia, Faroeste</genre>
+ 
+<date>26/07/1979</date>
+</item>"
+"<item>
+
+<title>Califórnia [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CLFNIA1947.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1404.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1404.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1947
+
+Uma caravana dirige-se para o Oeste, guiada pelo ex-tenente Jonathan Trumbo e seu amigo irlandês Michael Fabian. No caminho, junta-se a eles a aventureira Lily Bishop, com quem Jonathan se envolve. Todavia, quando chega a notícia de que foi descoberto ouro na Califórnia, Lily e a maioria dos colonos partem, atrás de fortuna fácil. Mais tarde, Jonathan a reencontra em Pharaoh City, cidade dominada pelo ex-traficante de escravos Pharaoh Coffin, que arranca até a última gota de sangue dos mineiros. Pharaoh também deseja tornar o território uma nação independente, para fortalecer sua posição. Entretanto, seus planos são frustrados por Jonathan, Michael e Lily, agora a rica proprietária do saloon The Golden Lily.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>21/02/1947</date>
 </item>"
