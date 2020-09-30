@@ -1,7 +1,9 @@
 "<item>
 
 <title>A Bruma Assassina [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ABRMASASINA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ABRMASASINA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/150.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/150.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -17,8 +19,29 @@ Antonio Bay, uma comunidade pesqueira, está prestes a comemorar cem anos de fun
 </item>"
 "<item>
 
+<title>As Gatinhas [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASGTNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1016.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1016.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 1980
+
+O filme aborda os problemas de quatro adolescentes, Jeanie (Jodie Foster), Annie (Cherie Currie), Madge (Marilyn Kagan) e Deirdre (Kandice Stroh), que dividem um apartamento em San Fernando Valley, no início dos anos 80.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>29/02/1980</date>
+</item>"
+"<item>
+
 <title>Alligator - O Jacaré Gigante [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALGTROJCRGNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALGTROJCRGNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/767.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/767.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -35,7 +58,9 @@ Família volta da Flórida para Chicago, trazendo filhote de jacaré. O pai, que
 "<item>
 
 <title>A Lagoa Azul [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ALGOAZL.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/ALGOAZL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/370.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/370.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -51,8 +76,48 @@ Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinh
 </item>"
 "<item>
 
+<title>Cheech e Chong Atacam Novamente [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CHECHECHNGATCMNVMTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1508.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 1980
+
+Cheech Marin e Tommy Chong formam uma dupla e embarcam numa viagem em busca de aventura por Los Angeles. Eles aprontam em casas de massagem, ameaçam milionários, encontram alienígenas, e vão parar na polícia.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>18/07/1980</date>
+</item>"
+"<item>
+
+<title>Clube dos Pilantras [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLBEDSPLTRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1564.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1980
+
+Comédia ambientada num clube de golfe exclusivo, cujos sócios são ricos e excêntricos, e os empregados pobres e esquisitos. Danny, personagem principal, trabalha como caddy e faz todo tipo de estripulia para juntar dinheiro para ir para a faculdade.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>25/07/1980</date>
+</item>"
+"<item>
+
 <title>2 Campeões de Shaolin [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/2CMPEOSDSHAOLN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/2CMPEOSDSHAOLN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/63.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/63.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -70,7 +135,9 @@ Ferido em uma batalha contra o clã Wu Tang, o guerreiro Shaolin Tung Chien-chen
 "<item>
 
 <title>A Profecia III - O Conflito Final [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/APRFCA3.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APRFCA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/557.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/557.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -87,7 +154,9 @@ O Anticristo Damien Thorn, agora com 32 anos, é um empresário de sucesso, pron
 "<item>
 
 <title>Chamas da Morte [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AVNGDCPY.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AVNGDCPY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/669.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/669.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -104,7 +173,9 @@ Grupo de jovens acampado na floresta ouve atento a lenda contada por seu líder:
 "<item>
 
 <title>A Grande Farra dos Muppets [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/312.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/312.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -121,7 +192,9 @@ Nessa história, Caco e Fozzie são irmãos gêmeos (apesar de um ser um sapo e 
 "<item>
 
 <title>007 Somente Para Seus Olhos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/33.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/33.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -138,7 +211,9 @@ A tarefa agora é recuperar uma importante arma de defesa que afundou com um nav
 "<item>
 
 <title>A Marca da Pantera [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMRCDPNTRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMRCDPNTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/432.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/432.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -154,8 +229,86 @@ Após vários anos Irena Gallier (Nastassja Kinski), uma sensual e jovem mulher,
 </item>"
 "<item>
 
+<title>O Cão Branco [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CAOBRNCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1425.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1425.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 1982
+
+A jovem aspirante a atriz Julie Sawyer encontra um cão branco perdido na rua e resolve adotá-lo. No entanto, aos poucos ela começa a notar um comportamento estranho no cachorro e percebe que se trata de um animal treinado a vida toda para atacar pessoas negras. Diante desse comportamento racista do cachorro, Julie resolve entregar o animal aos cuidados de Keys, um adestrador, ele próprio negro, para tentar reeducar o animal.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>07/07/1982</date>
+</item>"
+"<item>
+
+<title>Conan, o Bárbaro [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNANOBABRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1637.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1637.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 1982
+
+Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. Os anos passam e ele desenvolve uma enorme força física, o que faz Conan se tornar gladiador. Ele ainda se mantém determinado a vingar a morte dos pais e quando é libertado tenta alcançar seu objetivo. Conan descobre que Thulsa Doom lidera o misterioso culto da serpente e, tentando se aproximar do feiticeiro, faz amizade com dois ladrões, Valeria e Subotai. Ao trio é prometida uma vultosa recompensa pelo rei Osric, que quer que o trio de guerreiros resgate sua filha, que se tornou uma seguidora de Thulsa Doom.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>09/07/1982</date>
+</item>"
+"<item>
+
+<title>Blade Runner: O Caçador de Andróides [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BLDRNER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/26/items/1280_20200923/1277.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/26/items/1280_20200923/1277.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Drama, Thriller
+Lançamento: 1982
+
+No século 21, uma corporação desenvolve clones humanos para serem usados como escravos em colônias fora da Terra, identificados como replicantes. Em 2019, um ex-policial é acionado para caçar um grupo fugitivo vivendo disfarçado em Los Angeles.</info>
+ 
+<genre>Ficção científica, Drama, Thriller</genre>
+ 
+<date>26/07/1982</date>
+</item>"
+"<item>
+
+<title>Cheech e Chong Em Pintou Sujeira [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CHECHECHNGPNTSJRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1510.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1510.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 1982
+
+Cheech e Chong são contratados para dirigir uma limusine de Chicago para Las Vegas por dois árabes sombrios - Sr. Slyman (Cheech) e Príncipe Habib (Chong). Sem o conhecimento deles, cinco milhões de dólares em dinheiro sujo foram escondidos por todo o carro.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>04/08/1982</date>
+</item>"
+"<item>
+
 <title>A Força do Destino [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AFRCDSTNO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFRCDSTNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/292.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/292.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -172,7 +325,9 @@ Jovem decide se tornar um Oficial da Marinha e ingressa na Escola de Aspirantes,
 "<item>
 
 <title>A Ratinha Valente [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/ARTNHVLNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ARTNHVLNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/580.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/580.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -189,7 +344,9 @@ Para salvar seu filho doente, uma corajosa ratinha percorre uma longa jornada em
 "<item>
 
 <title>48 Horas [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/48HRS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/48HRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801407.us.archive.org/5/items/112_20200902/92.jpg</image>
 <thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/92.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -206,8 +363,48 @@ Nick Nolte e Eddie Murphy formam uma das mais incomuns e interessantes duplas de
 </item>"
 "<item>
 
+<title>Cujo [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CJO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1762.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1762.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1983
+
+Cujo, um doce cachorro São Bernardo, é picado por um morcego-vampiro e fica raivoso. A partir de então, ele espalha o terror em uma pequena cidade dos Estados Unidos e faz reféns uma mulher e seu filho, aprisionados dentro de um carro quebrado, sob um calor escaldante, durante horas intermináveis.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>12/08/1983</date>
+</item>"
+"<item>
+
+<title>Cheech e Chong em Amsterdã [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CHECHECHNGEMAMSTNAINDOIDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1509.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1983
+
+Cheech e Chong são convidados para uma festa de celebridades em Amsterdã. Quando eles chegam lá, no entanto, verificam que o cara que os convidou fugiu com todo o dinheiro. Todos estão realmente esperando Burt Reynolds e Dolly Parton, então nossos heróis são o Sr. Burt e o Sr. Dolly.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>09/09/1983</date>
+</item>"
+"<item>
+
 <title>007 Contra Octopussy [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/19.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/19.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -225,7 +422,9 @@ Ao tentar solucionar quem assassinou o agente 009 (Andy Bradford), James Bond (R
 "<item>
 
 <title>Amityville 3: O Demônio [COLOR yellow][IMDb 4,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMTVL3.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMTVL3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/826.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/826.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -241,8 +440,29 @@ Após se divorciar de Nancy (Tess Harper), um cético repórter, John Baxter (To
 </item>"
 "<item>
 
+<title>Christine, O Carro Assassino [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CRSTNOCRASSANO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1519.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1983
+
+Arnie Cunningham compra um Plymouth Fury 1958, que ele chama de Christine. Ele então desenvolve uma obsessão doentia pelo carro, para o desespero de seu amigo atleta, Dennis Guilder. Depois do valentão Buddy Repperton desfigurar Christine, o carro se restaura perfeitamente e começa a matar Buddy e seus amigos. Determinado a acabar com as mortes, Dennis e a namorada de Arnie, Leigh Cabot, decidem destruir Christine.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>08/12/1983</date>
+</item>"
+"<item>
+
 <title>007 Nunca Mais Outra Vez [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/25.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/25.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -259,8 +479,48 @@ James Bond (Sean Connery) é convocado para reaver bombas nucleares roubadas pel
 </item>"
 "<item>
 
+<title>Colheita Maldita [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLHTMLDTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1582.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1582.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1984
+
+Isaac Chroner (John Franklin), um menino pregador, vai para Gatlin, Nebraska, e consegue que as crianças assassinem todos os adultos da cidade. Um jovem casal tem de comunicar um assassinato e vai para Gatlin, a cidade mais próxima, em busca de ajuda. Porém a localidade parece abandonada e logo eles são aprisionados, com poucas chances de escaparem vivos, pois as crianças praticam um culto que utiliza sangue humano para adubar a terra.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>09/03/1984</date>
+</item>"
+"<item>
+
+<title>Chamas da Vingança [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CHAMSDVNGC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1503.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1503.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica
+Lançamento: 1984
+
+Baseado em livro escrito pelo mestre do terror Stephen King, ""Chamas da Vingança"" conta a história de Andrew McGee, um homem que, quando jovem, participou de uma experiência científica na faculdade e teve uma substância misteriosa injetada em sua corrente sanguínea. Sua filha Charlie, acaba herdando a capacidade de provocar incêndios com a ajuda da mente. Juntos, pai e filha devem fugir de uma agência governamental que descobre os poderes adquiridos por Charlie.</info>
+ 
+<genre>Thriller, Ficção científica</genre>
+ 
+<date>11/05/1984</date>
+</item>"
+"<item>
+
 <title>A História sem Fim [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AHSTSMFM.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AHSTSMFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/326.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/326.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -276,8 +536,29 @@ Bastian (Barret Oliver) é um garoto sonhador, que usa a imaginação como refú
 </item>"
 "<item>
 
+<title>Cheech e Chong - Os Irmãos Corsos [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CHECHECHNGOSIRMSCRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1511.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1511.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1984
+
+Irmãos gêmeos são separados no nascimento, mas permanecem ligados por uma grande força espiritual. Quando são pegos com o poodle cor-de-rosa de um aristocrata louco, conseguem escapar, mas provocam a Revolução Francesa.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>27/07/1984</date>
+</item>"
+"<item>
+
 <title>Amanhecer Violento [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMNHCRVLNTO1984.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMNHCRVLNTO1984.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/797.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/797.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -294,7 +575,9 @@ Quando a cidade de 8 jovens é invadida por soldados soviéticos e cubanos, e gr
 "<item>
 
 <title>Amadeus [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMDEUS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMDEUS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/792.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/792.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -310,8 +593,29 @@ Após tentar se suicidar, Salieri (F. Murray Abraham) confessa a um padre que fo
 </item>"
 "<item>
 
+<title>Conan, O Destruidor [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNANODSTRDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1639.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1639.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 1984
+
+Para que a rainha Taramis (Sarah Douglas) cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna (Olivia d'Abo). Mas o que ele desconhece é que Taramis ordenou que, após a missão cumprida, Conan seja morto e a virginal princesa retorne para então ser sacrificada ao deus demônio Dagoth.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>26/10/1984</date>
+</item>"
+"<item>
+
 <title>A Hora do Pesadelo [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AHRDPSDL01.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AHRDPSDL01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/335.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/335.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -327,8 +631,29 @@ Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um hom
 </item>"
 "<item>
 
+<title>Braddock - O Super Comando [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRDCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1319.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1319.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1984
+
+O coronel das Forças Especiais, James Braddock, precisa trazer de volta soldados norte-americanos que ainda estão sendo mantidos como prisioneiros no Vietnã. Contando com a ajuda da funcionária do Departamento de Estado e de um ex-colega de Exército, Braddock, reúne informação altamente confidencial e armamento de última geração. Braddock, forma então, um exército de um homem só, disposto a invadir o Vietnã, para localizar e salvar seus companheiros restantes desaparecidos em combate.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>16/11/1984</date>
+</item>"
+"<item>
+
 <title>2010 - O Ano em que Faremos Contato [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/2010OANEMFRMSCNTO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/2010OANEMFRMSCNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/68.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/68.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -345,7 +670,9 @@ A bordo da nave Leonov, uma tripulação que reúne americanos e soviéticos, es
 "<item>
 
 <title>A Primeira Transa de Jonathan [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APRMRTRNSDJNTHN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APRMRTRNSDJNTHN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/537.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/537.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -361,8 +688,67 @@ Em 1956, em uma pequena cidade, o introvertido e desajeitado Jonathan, é amigo 
 </item>"
 "<item>
 
+<title>Caravana da Coragem - Uma Aventura Ewok [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRVNDCRGMUMAVTEWK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1443.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1443.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia, Ficção científica, Cinema TV
+Lançamento: 1985
+
+Em Caravana da Coragem, a família Towani, foi separada quando sua nave espacial caiu em Endor. Os pais, são logo capturados por um gigante conhecido como Gorax, e Mace e Cindel, o filho e a filha, estão desaparecidos. Quando os Ewoks, encontram as crianças Towani, nos destroços da nave, logo fica claro que será necessária confiança mútua para embarcar em uma aventura para resgatar os pais Towani.</info>
+ 
+<genre>Aventura, Família, Fantasia, Ficção científica, Cinema TV</genre>
+ 
+<date>15/02/1985</date>
+</item>"
+"<item>
+
+<title>Braddock 2 - O Início da Missão [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/brdck2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1317.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1317.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 1985
+
+Em 1972, no Vietnã, o Coronel Braddock, e alguns de seus soldados são capturados e mantidos prisioneiros, sob intensa tortura, por um militar corrupto, traficante de drogas. Os anos se passam, Braddock, é dado como desaparecido pelo governo americano, e cria um plano para escapar com seus homens.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>01/03/1985</date>
+</item>"
+"<item>
+
+<title>Cocoon [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/COCON.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1568.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1568.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Ficção científica
+Lançamento: 1985
+
+Extra-terrestres vem a Terra, com a missão de recuperar casulos com seres de outro planeta, sendo que enquanto os casulos vão sendo recuperados eles são colocados em uma piscina, energizada pelos alienígenas. Mas os extraterrenos ignoram o fato desta piscina ser utilizada por três idosos moradores de um asilo, que logo passam a ter uma disposição fantástica. Porém, quando descobrem a origem da sua juventude um dilema surge na vida deles.</info>
+ 
+<genre>Comédia, Drama, Ficção científica</genre>
+ 
+<date>21/06/1985</date>
+</item>"
+"<item>
+
 <title>007 Na Mira dos Assassinos [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071985NMRDSASNS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071985NMRDSASNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/24.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/24.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -378,8 +764,29 @@ O magnata Max Zorin (Christopher Walken) pretende controlar o mercado de inform�
 </item>"
 "<item>
 
+<title>Clube dos Cinco [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLBDSCNCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1562.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1562.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1985
+
+Em virtude de terem cometido pequenos delitos, cinco adolescentes são confinados no colégio em um sábado, com a tarefa de escrever uma redação de mil palavras sobre o que pensam de si mesmos. Apesar de serem pessoas completamente diferentes, enquanto o dia transcorre eles passam a aceitar uns aos outros, fazem várias confissões e tornam-se amigos.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>28/06/1985</date>
+</item>"
+"<item>
+
 <title>A Lenda de Billie Jean [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ALNDBLIEJENS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ALNDBLIEJENS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/377.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/377.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -396,7 +803,9 @@ Injustamente acusada por um crime que não cometeu, Billie Jean Davy (Helen Slat
 "<item>
 
 <title>A Hora do Lobisomem / Bala de Prata [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AHRDLBSMNBLADPRTA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AHRDLBSMNBLADPRTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/333.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/333.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -413,7 +822,9 @@ pequena cidade de Tarker's Mill, que sempre foi um lugar pacato até que terrív
 "<item>
 
 <title>A Hora do Pesadelo 2: A Vingança de Freddy [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AHRDPSDL02.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AHRDPSDL02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/337.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/337.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -429,8 +840,29 @@ Uma nova família se muda para a casa em Elm Street, e logo os garotos estão te
 </item>"
 "<item>
 
+<title>Caravana da Coragem 2 - A Batalha de Endor [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRVNDCRGMABTLHENDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1442.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1442.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Cinema TV
+Lançamento: 1985
+
+Em A Batalha de Endor, um exército de Marauders, liderados pelo Rei Terak e a bruxa Charal, ataca a vida dos Ewoks. Cindel e Wicket, escapam floresta a dentro e lá encontram Teek e Noa. Eles precisam ficar amigos de Noa, para aliarem-se na tentativa de derrotar os Marauders.</info>
+ 
+<genre>Aventura, Família, Cinema TV</genre>
+ 
+<date>24/11/1985</date>
+</item>"
+"<item>
+
 <title>A Cor Púrpura [COLOR yellow][IMDb 7,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACORPRPRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACORPRPRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/209.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/209.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -447,7 +879,9 @@ Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adole
 "<item>
 
 <title>A Morte Pede Carona [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMRTPDCRNA1.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRTPDCRNA1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/7/items/457_20200905/458.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/458.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -464,7 +898,9 @@ Um jovem, Jim Halsey, está levando um carro para a Califórnia. No caminho ele 
 "<item>
 
 <title>A Casa do Espanto [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSDESPNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSDESPNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/178.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/178.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -481,7 +917,9 @@ Roger Cobb (William Katt), é um veterano da guerra do Vietnã cuja carreira com
 "<item>
 
 <title>A Encruzilhada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -497,8 +935,105 @@ Eugene Martone (Ralph Macchio) é um jovem e talentoso guitarrista que está bus
 </item>"
 "<item>
 
+<title>Comando Delta [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMDLT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1601.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1601.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1986
+
+Cinco anos depois de o major Scott McCoy demitir-se da Força Delta devido a questões burocráticas, ele retorna com o coronel Alexander para prender terroristas libaneses que sequestraram um Boeing 707. O líder terrorista Abdul Rifi faz de refém a tripulação e redireciona o avião para Beirute. Quando McCoy e Alexander tentam salvar os reféns, eles são forçados a combater um grupo de terroristas que é maior do que o esperado.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>20/03/1986</date>
+</item>"
+"<item>
+
+<title>Criaturas [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRATRS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1731.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1731.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Terror, Ficção científica, Thriller
+Lançamento: 1986
+
+Do outro lado do espaço sideral, um pequeno grupo de terríveis criaturas com uma fome voraz escapa facilmente de um asteróide de segurança máxima e parte rumo à liberdade. Eles são seguidos de perto por caçadores de recompensa intergalácticos, que terão muito trabalho para impedi-los de chegar ao seu objetivo final: a Terra. Já no nosso planeta, as criaturas acabam caindo em uma pequena cidade do interior dos EUA, onde começam a devorar tudo (e todos) que vêem pela frente. Ou a vizinhança liderada por Helen Brown tenta combater esta ameaça por conta própria, ou serão todos vítimas destes seres famintos. A batalha começou em outra galáxia… e vai acabar bem no jardim da família Brown.</info>
+ 
+<genre>Ação, Comédia, Terror, Ficção científica, Thriller</genre>
+ 
+<date>11/04/1986</date>
+</item>"
+"<item>
+
+<title>As Peripécias do Ratinho Detetive [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ASPRPCSDUMRTNHODTVE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1038.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1038.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Mistério
+Lançamento: 1986
+
+Basil é um ratinho detetive. É considerado o Sherlock Holmes dos roedores. Ele está investigando o desaparecimento de um homem famoso por fazer brinquedos. Basil acredita que Ratagão, seu arqui-inimigo, pode estar envolvido com o desaparecimento do senhor Flaversham, o fabricante de brinquedos. Durante as investigações, o ratinho descobre que Ratagão planeja sequestrar a rainha e se declarar o rei.</info>
+ 
+<genre>Animação, Família, Aventura, Mistério</genre>
+ 
+<date>02/07/1986</date>
+</item>"
+"<item>
+
+<title>Comboio do Terror [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CMBOIDTROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1611.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1611.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 1986
+
+Quando um cometa passa pela Terra, máquinas ganham vida e provocam uma rebelião. Movendo-se por conta própria, caminhões e carros perseguem as pessoas até a morte, ameaçando a humanidade. Para salvar suas vidas, um grupo de sobreviventes planeja lutar contra as máquinas e recuperar a paz.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>25/07/1986</date>
+</item>"
+"<item>
+
+<title>Caçador de Assassinos [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CACDRDASASNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1376.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1376.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Terror, Thriller
+Lançamento: 1986
+
+Afastado do FBI por conta de um colapso nervoso, o agente Will Graham é convocado novamente para auxiliar na captura de um perigoso serial killer que tem aterrorizado a cidade. Com especial habilidade em desvendar mentes criminosas, ele precisará contar também com as dicas do último homem que prendeu, responsável por provocar sua crise: o Dr. Hannibal Lecktor.</info>
+ 
+<genre>Crime, Terror, Thriller</genre>
+ 
+<date>14/08/1986</date>
+</item>"
+"<item>
+
 <title>A Garota de Rosa Shocking [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AGRTDRSSCKNG.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AGRTDRSSCKNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/306.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/306.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -515,7 +1050,9 @@ Andie é uma jovem de classe baixa na escola de Chicago, e costuma sair com sua 
 "<item>
 
 <title>A Missão [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AMSAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AMSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/444.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/444.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -532,7 +1069,9 @@ No final do século XVIII Mendoza (Robert De Niro), um mercador de escravos, fic
 "<item>
 
 <title>A Maldição de Samantha [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMLDCDSMNTHA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMLDCDSMNTHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/417.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/417.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -548,8 +1087,48 @@ No centro desta trama está o jovem Paul Conway, um pequeno gênio da ciência, 
 </item>"
 "<item>
 
+<title>Crocodilo Dundee [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CRDLEDNDE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1749.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1749.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 1986
+
+Sue Charlton (Linda Kozlowski) é uma jornalista americana que vai até a Austrália entrevistar Michael J. ""Crocodilo"" Dundee (Paul Hogan), um caçador que foi muito ferido por um crocodilo. Quando ela o leva para Nova York, ele se comporta de forma pouco convencional por estar fora de seu habitat natural.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>14/10/1986</date>
+</item>"
+"<item>
+
+<title>Biquínis Recheados [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BNQNSRCHDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1267.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1267.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1986
+
+Dois jovens, um deles noivo, tentam passar nos cobres loja de biquínis que herdaram em Los Angeles, pensando em aproveitar o dinheiro na boa vida. Nesse meio tempo, o noivo apaixona-se por uma das funcionárias da loja.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>01/11/1986</date>
+</item>"
+"<item>
+
 <title>A Aparição [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AAPRCAO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AAPRCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/117.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/117.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -566,8 +1145,29 @@ Em uma cidade do Arizona, Jamie Hankins é um jovem que é morto pelo líder de 
 </item>"
 "<item>
 
+<title>Asterix entre os Bretões [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASTRXENTOSBRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1084.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1084.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura, Comédia
+Lançamento: 1986
+
+As tropas romanas invadem a Bretanha em mais uma etapa na sua fase de conquistas por toda a Europa antiga. Os bretões se pareciam com os gauleses e muitos deles descendiam de tribos vindas da Gália. Entre eles estava um contra-parente de Asterix que, ao perceber que os bretões não resistiriam por muito tempo ao ataque romano, resolve partir em busca de Asterix para conseguir um pouco da poção mágica que lhes dá uma força descomunal. Asterix e seus amigos concordam, afinal os bretões sempre ajudaram os gauleses nas batalhas contra o exército romano. Eles enchem um barril com poção suficiente para toda a tribo bretã e partem rumo à grande ilha. No caminho deparam-se com uma galera romana que, embora tenha sido derrotada, volta para avisar que os bretões estão recebendo a poção. Daí para frente têm início as mais divertidas aventuras de Asterix e Obelix para evitar que os romanos se apoderem da poção.</info>
+ 
+<genre>Família, Animação, Aventura, Comédia</genre>
+ 
+<date>03/12/1986</date>
+</item>"
+"<item>
+
 <title>Aliens, O Resgate [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALIENORSGT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALIENORSGT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/764.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/764.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -584,7 +1184,9 @@ Depois de dormir por 57 anos, a única sobrevivente de uma tragédia espacial de
 "<item>
 
 <title>A Pequena Loja dos Horrores [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APQNALJADSHROS.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APQNALJADSHROS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/520.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/520.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -600,8 +1202,48 @@ O submisso ajudante de floricultura Seymour é apaixonado pela colega de trabalh
 </item>"
 "<item>
 
+<title>Conta Comigo [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CNTCMGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1657.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1657.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 1986
+
+Gordie Lachance (Richard Dreyfuss), um escritor, recorda quando tinha entre doze e treze anos no verão de 1959 e vivia em Castle Rock, Oregon, uma localidade com 1281 habitantes. Gordie tinha três amigos inseparáveis: Chris Chambers (River Phoenix), Teddy Duchamp (Corey Feldman) e Vern Tessio (Jerry O'Connell). Chris era o líder natural, Teddy era emocionalmente perturbado e, se Gordie era o intelectual do grupo, Vern era o mais infantil. Um dia Vern ouviu por acaso Billy Tessio (Casey Siemaszko) e Charlie Hogan (Gary Riley) comentando sobre o corpo de Ray Brower, garoto da idade deles que havia desaparecido. Cada um deu uma desculpa em casa e partiram para tentar encontrar o corpo. Nenhum deles imaginava que esta viagem se transformaria em uma jornada de autodescoberta que os marcaria para sempre.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>19/12/1986</date>
+</item>"
+"<item>
+
+<title>Curtindo a Vida Adoidado [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRTNDAVDADODA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1765.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1765.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1986
+
+No último semestre do curso do colégio, estudante (Matthew Broderick) sente um incontrolável desejo de matar a aula e planeja um grande programa na cidade com a namorada (Mia Sara), seu melhor amigo (Alan Ruck) e uma Ferrari. Só que para poder realizar seu desejo ele precisa escapar do diretor (Jeffrey Jones) do colégio e de sua própria irmã (Jennifer Grey).</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>19/12/1986</date>
+</item>"
+"<item>
+
 <title>A Manhã Seguinte [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMNHSGNT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMNHSGNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/423.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/423.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -618,7 +1260,9 @@ Alex Sternberg é uma atriz alcoólatra que um dia acorda com uma ressaca e sem 
 "<item>
 
 <title>A Mosca [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMSCA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/7/items/457_20200905/463.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/463.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -635,7 +1279,9 @@ Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova 
 "<item>
 
 <title>A Hora do Pesadelo 3: Os Guerreiros dos Sonhos [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AHRDPSDL03.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AHRDPSDL03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/338.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/338.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -651,8 +1297,29 @@ Adolescentes internados em clínica psiquiátrica, atormentados por pesadelos pa
 </item>"
 "<item>
 
+<title>Bates Motel [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BTSMTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1189.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1189.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Cinema TV
+Lançamento: 1987
+
+Alex West é um homem que morou com Norman Bates no asilo estadual para lunáticos por quase 20 anos. Após a morte de Bates, Alex descobre que ele está no testamento de Norman como o herdeiro do Motel Bates, que está vazio desde a prisão de Norman. Alex viaja para a cidade natal de Bates na Califórnia e com uma pequena ajuda de um adolescente fugitivo, Willie, Alex luta para reabrir o motel para negócios, coisas estranhas estão acontecendo no Motel. Alguém está tentando afastá-lo ou o motel está realmente assombrado pelo fantasma da mãe de Norman?</info>
+ 
+<genre>Drama, Terror, Cinema TV</genre>
+ 
+<date>05/07/1987</date>
+</item>"
+"<item>
+
 <title>A Casa do Espanto 2 [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSDESPNT2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSDESPNT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/179.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/179.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -669,7 +1336,9 @@ Jesse (Arye Gross), o tataraneto do explorador que constuiu a casa, recebe a man
 "<item>
 
 <title>As Amazonas na Lua [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASAMZNSNLUA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASAMZNSNLUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/965.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/965.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -686,7 +1355,9 @@ Sátira dos programas de TV e dos filmes de orçamento precário, com várias hi
 "<item>
 
 <title>007 Marcado para a Morte [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071987MRCDOMRT.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071987MRCDOMRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/23.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/23.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -704,7 +1375,9 @@ Georgi Koskov (Jeroen Krabbé), um general dissidente da União Soviética, esca
 "<item>
 
 <title>Antes Só do que Mal Acompanhado [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ANTSDQMLACMPNDO.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANTSDQMLACMPNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/908.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/908.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -720,8 +1393,86 @@ Neal Page (Steve Martin) é um publicitário que decide voltar de avião de Nova
 </item>"
 "<item>
 
+<title>Bom Dia, Vietnã [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BMDIAVTNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1296.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1296.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Guerra
+Lançamento: 1987
+
+Convocado pelo exército para transmitir um programa de rádio, Cronauer acaba com a caretice das ondas pasteurizadas da rádio, com suas piadas e os últimos sucessos musicais da América. Os soldados o veneram enquanto as altas patentes o consideram um ultraje.</info>
+ 
+<genre>Comédia, Drama, Guerra</genre>
+ 
+<date>23/12/1987</date>
+</item>"
+"<item>
+
+<title>Braddock 3 - O Resgate [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BRDCK3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1318.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1318.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 1988
+
+Saigon, 1975 O Coronel James Braddock deixou para trás mais do que recordações: seu filho. E está vivo ! Agora... 12 anos depois, não é só um soldado perseguindo o inimigo, é um pai procurando pelo filho. Até que descobre uma geração ignorada. Os órfãos de uma guerra esquecisa. Agora Braddock está numa heróica missão de clemência. Está lutando por todo mundo que não pode revidas. E que ninguém se ponha em seu caminho. Eu tiro do caminho! Fechando com chave de ouro a trilogia Braddock.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>22/01/1988</date>
+</item>"
+"<item>
+
+<title>Busca Frenética [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BSCFRNTCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1360.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1360.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 1988
+
+Richard Walker (Harrison Ford) é um médico que vai com Sondra (Betty Buckley), sua mulher, a Paris para uma conferência. Porém, logo no primeiro dia de viagem ela é seqüestrada. Querendo entender a razão do acontecido, ele acaba indo parar no submundo parisiense em uma procura desesperada, sem pistas e sem ninguém para auxiliá-lo. Até que surge a linda Michelle (Emmanuelle Seigner), que resolve lhe ajudá-lo para tentar encontrar Sondra até que ambos se vêem envoltos em uma trama internacional.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>19/02/1988</date>
+</item>"
+"<item>
+
+<title>Crocodilo Dundee 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/CRDLEDNDE2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1750.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1750.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 1988
+
+Após salvar sua namorada Sue Charlton (Linda Kozlowski) das mãos de um chefão de drogas de Nova York, Mick Dundee (Paul Hogan) decide levá-la para um lugar mais seguro: sua Austrália natal. Lá Dundee prepara uma calorosa recepção aos perseguidores de Sue.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>19/05/1988</date>
+</item>"
+"<item>
+
 <title>Abominável Criatura  [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/AABMNVLCRTRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AABMNVLCRTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/114.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/114.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -738,8 +1489,29 @@ As terríveis criaturas que habitam o inferno a mais de 300 anos que assombram u
 </item>"
 "<item>
 
+<title>Clube dos Pilantras 2 [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLBEDSPLTRS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1565.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1565.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1988
+
+Jack Hartounian é um empresário da construção civil convidado para integrar um clube de golfe para ricaços. Quando os membros do local conhecem o excêntrico Jack, porém, resolvem cancelar sua ficha de inscrição. Furioso, ele se vinga comprando o clube e transformando num parque de diversões para a classe média, enlouquecendo os figurões que freqüentavam o lugar e só queriam paz e sossego.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>22/07/1988</date>
+</item>"
+"<item>
+
 <title>A Bolha Assassina [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ABLHASASNA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ABLHASASNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/147.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/147.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -756,7 +1528,9 @@ Arborville, EUA. Um velho passeia entre os arbustos da periferia quando encontra
 "<item>
 
 <title>A Última Tentação de Cristo [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AULTMTNTCDCRST.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AULTMTNTCDCRST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/645.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/645.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -773,7 +1547,9 @@ Baseado no romance de Nikos Kazantzakis, o filme traz Jesus Cristo como um homem
 "<item>
 
 <title>A Hora do Pesadelo 4: O Mestre dos Sonhos [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/AHRDPSDL04.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AHRDPSDL04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601406.us.archive.org/21/items/371_20200905/339.jpg</image>
 <thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/339.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -790,7 +1566,9 @@ Freddy Krueger retorna em busca de mais vítimas. Depois de matar todos os sobre
 "<item>
 
 <title>Akira [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AKIRA.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AKIRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/730.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/730.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -806,8 +1584,86 @@ Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar,
 </item>"
 "<item>
 
+<title>Brinquedo Assassino [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BRNQDASASN1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1337.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1337.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1988
+
+Uma mulher compra para seu filho um boneco amaldiçoado por um assassino em série morto dentro uma loja de brinquedos. Pouco antes, ele faz um ritual de vodu com o boneco, que ganha vida e se torna um perigoso psicopata.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>08/11/1988</date>
+</item>"
+"<item>
+
+<title>Os Fantasmas se Divertem [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/OSFNTSMSDVRTM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1228.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1228.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia
+Lançamento: 1988
+
+O casarão de uma dupla de fantasmas super atrapalhados foi invadido por novaiorquinos sofisticados. Para espantá-los, eles contratam um profissional: um fantasma especialista em assustar humanos (Michael Keaton), que vai tentar de tudo - adotar formas estranhas, armar ciladas e engraçadíssimas armadilhas. Dirigido por Tim Burton, Os Fantasmas se Divertem é uma comédia hilariante, vencedora do OSCAR de melhor maquiagem em 1988 que ainda conta com um elenco de estrelas: Alec Baldwin, Geena Davis e Winona Ryder. Crie coragem e invoque os espíritos. Você terá uma experiência inesquecível!</info>
+ 
+<genre>Fantasia, Comédia</genre>
+ 
+<date>10/11/1988</date>
+</item>"
+"<item>
+
+<title>Cocoon II: O Regresso [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/COCON2ORGRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1569.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1569.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica
+Lançamento: 1988
+
+Os internos do asilo que foram para um outro planeta aproveitam uma oportunidade e pegam uma ""carona"", para poderem rever seus familiares e amigos. Mas quando chegam na Terra começam a questionar se devem continuar no planeta ou retornar a Antares, enquanto seus amigos alienígenas se preocupam em resgatar alguns de seus antepassados.</info>
+ 
+<genre>Comédia, Ficção científica</genre>
+ 
+<date>23/11/1988</date>
+</item>"
+"<item>
+
+<title>Corra que a Polícia Vem Aí! [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CORQAPLCVMAI1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1702.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1702.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1989
+
+Leslie Nielsen interpreta o tira cabeça-dura Frank Debrin, que tenta acabar com um brilhante plano para assassinar a Rainha Elizabeth. Priscilla Presley, O.J. Simpson, um castor empalhado, dois times de baseball e uma curiosa variedade de piadas e situações hilariantes farão seu medidor de risadas estourar.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>06/01/1989</date>
+</item>"
+"<item>
+
 <title>As Aventuras do Barão Munchausen [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ASAVNTSDBARMNCHSN.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASAVNTSDBARMNCHSN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/989.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/989.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -823,8 +1679,48 @@ As fantásticas histórias do maior mentiroso de todos os tempos. Enquanto tenta
 </item>"
 "<item>
 
+<title>Cyborg - O Dragão do Futuro [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CBRGODRGDFTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1771.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1771.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 1989
+
+Num mundo pós-apocalíptico, a humanidade está contaminada por um vírus que provoca fome e doenças nos poucos habitantes que ainda restam na Terra. Uma ciborgue que pode ter a chave para a cura é protegida por um guerreiro mais forte.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>07/04/1989</date>
+</item>"
+"<item>
+
+<title>Batendo de Frente [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BTNDFRNT2TRDPSDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1186.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1186.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Crime, Thriller
+Lançamento: 1989
+
+Tony Costas, a brash, obnoxious, sexist and racist Detroit cop who has long since stopped following the rules, gets told that he will have to work with Inspector Fuji, a straightlaced policeman from Japan. Fuji is in Detroit searching for a Japanese engineer who has gone to America with plans for a top secret car part. The pair naturally fail to get along at first, but as the investigation continues, they almost begin to come close to tolerating each other's presence.</info>
+ 
+<genre>Ação, Comédia, Crime, Thriller</genre>
+ 
+<date>22/04/1989</date>
+</item>"
+"<item>
+
 <title>A Casa do Espanto 3 [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ACSDESPNT3.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACSDESPNT3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/180.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/180.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -841,7 +1737,9 @@ Finalmente, o detetive Lucas McCarthy (Lance Henriksen) consegue prender Max Jen
 "<item>
 
 <title>Amityville 4 - A Fuga do Mal [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMTVL4.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMTVL4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/827.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/827.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -858,7 +1756,9 @@ Quando uma imobiliária vende os objetos deixados por seus donos na sinistra cas
 "<item>
 
 <title>A Mosca 2 [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMSCA2.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMSCA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/7/items/457_20200905/464.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/464.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -875,7 +1775,9 @@ Sob uma aparência comum, Martin (Eric Stoltz) é a pessoa mais extraordinária 
 "<item>
 
 <title>A Fera do Rock [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AFRDRCK.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AFRDRCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801401.us.archive.org/10/items/250_20200903/285.jpg</image>
 <thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/285.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -891,8 +1793,48 @@ A história do cantor, compositor e pianista, Jerry Lee Lewis, um dos músicos p
 </item>"
 "<item>
 
+<title>Condenação Brutal [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CNDCNAOBRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1640.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1640.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime
+Lançamento: 1989
+
+Faltam apenas seis meses para Frank Leone (Sylvester Stallone), um prisioneiro modelo, terminar de cumprir sua pena por um crime menor, em uma prisão de segurança mínima. Até que, repentinamente, ele é transferido para uma prisão de segurança máxima que é administrada pelo diretor Drumgoole (Donald Sutherland), que nutre um imenso ódio por Leone e vai fazer de tudo para que ele nunca mais seja solto, pois transformará o que resta da sua pena em um inferno. Drumgoole espera que fazendo isto Leone irá se descontrolar, justificando uma ação violenta dos guardas ou mesmo dos detentos, que provocam Leone para conseguir algum favor de Drumgoole.</info>
+ 
+<genre>Ação, Crime</genre>
+ 
+<date>04/08/1989</date>
+</item>"
+"<item>
+
+<title>Batman [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTMN01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1191.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1191.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 1989
+
+Em Gotham City o milionário Bruce Wayne, que quando jovem teve os pais assassinados por bandidos, resolve combater o crime como Batman, o Homem-Morcego. Mas chega o dia em que o vilão Coringa decide dominar a cidade e se torna um grande desafio para o super-herói.</info>
+ 
+<genre>Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>26/10/1989</date>
+</item>"
+"<item>
+
 <title>007 Permissão para Matar [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071989PRMSPMTR.mp4?attachment=true</link>
+<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071989PRMSPMTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/31.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/31.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
