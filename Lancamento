@@ -1,7 +1,7 @@
 "<item>
 
 <title>A Batalha das Correntes [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ABTLHDSCRNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ABTLHDSCRNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/135.jpg</image>
@@ -17,11 +17,49 @@ Ambientado no final do século XIX, a Guerra das Correntes, que foi uma disputa 
  
 <date>15/10/2020</date>
 </item>"
+"<item>
+
+<title>Enola Holmes [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENLOHLMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2186.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2186.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Crime, Drama, Mistério
+Lançamento: 2020
+
+Quando a jovem Enola Holmes descobre que sua mãe desapareceu, ela decide usar toda a sua astúcia para encontrá-la. Superando seu famoso irmão Sherlock Holmes, ela desvenda uma perigosa conspiração e prova que solucionar mistérios é mesmo um negócio de família.</info>
+ 
+<genre>Aventura, Crime, Drama, Mistério</genre>
+ 
+<date>23/09/2020</date>
+</item>"
+"<item>
+
+<title>Estou Pensando em Acabar com Tudo [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESTPNSDOEMACBRCMTDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2266.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2266.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2020
+
+Uma jovem vai com o namorado conhecer os pais dele em uma fazenda remota e embarca em uma viagem para dentro de seu próprio psiquismo.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>28/08/2020</date>
+</item>"
 
 "<item>
 
 <title>A Química que Há Entre Nós [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AQMCAQHENTRNOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AQMCAQHENTRNOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/576.jpg</image>
@@ -41,7 +79,7 @@ Após ser transferida para outra escola, uma aluna do ensino médio conhece o ed
 "<item>
 
 <title>Crimes de Família [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRMSDFMLIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRMSDFMLIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1738.jpg</image>
@@ -60,7 +98,7 @@ Desesperada e confusa, Alícia faz de tudo para evitar que o filho seja preso po
 "<item>
 
 <title>A Câmara do Medo [COLOR yellow][IMDb 4,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ACMRADMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACMRADMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/164.jpg</image>
@@ -79,7 +117,7 @@ Elle Chrystler (Shauna MacDonald) é uma doutora que acorda em uma cela cúbica 
 "<item>
 
 <title>Berlim, Berlim – Lolle e suas opções [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BRLMBRLMLOLESUSOPCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRLMBRLMLOLESUSOPCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1252.jpg</image>
@@ -97,8 +135,27 @@ A vida amorosa de Lolle em Berlim é mais complicada do que nunca. Depois que a 
 </item>"
 "<item>
 
+<title>Dançarina Imperfeita [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DNCRNIMPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1783.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1783.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2020
+
+Para ser aceita na Universidade de Duke, a inteligente e desajeitada Quin decide vencer uma competição de dança. Com Sabrina Carpenter.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>07/08/2020</date>
+</item>"
+"<item>
+
 <title>Anelka - O incompreendido [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ANLKINCMPRNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ANLKINCMPRNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/867.jpg</image>
@@ -116,8 +173,46 @@ Impenetrável ou incomparável? Este documentário explora as controvérsias que
 </item>"
 "<item>
 
+<title>Exterminador: Cavaleiros e Dragões [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EXTRMNDRCVLRSEDRGROS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2303.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2303.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Baseado em Quadrinho
+Lançamento: 2020
+
+Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Slade Wilson terá que redimir os pecados do seu passado para alimentar as batalhas do seu futuro!</info>
+ 
+<genre>Animação, Ação, Baseado em Quadrinho</genre>
+ 
+<date>04/08/2020</date>
+</item>"
+"<item>
+
+<title>Do Fundo do Mar 3 [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOFNDMR3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1956.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1956.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2020
+
+A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>28/07/2020</date>
+</item>"
+"<item>
+
 <title>A Barraca do Beijo 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ABARCDBJ2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ABARCDBJ2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/133.jpg</image>
@@ -135,8 +230,46 @@ Após o verão mais romântico de sua vida, Elle Evans precisa voltar à realida
 </item>"
 "<item>
 
+<title>Dragões - Equipe de Resgate: Os segredos do Melo-Draco [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DGOSEQPEDRSTEOSGRDSDMLODRCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2021.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2021.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2020
+
+Quando um dragão hipnotiza todos em Huttsgalor com seu canto, a Equipe de Resgate precisa encontrar um jeito de quebrar o feitiço.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>24/07/2020</date>
+</item>"
+"<item>
+
+<title>Amuleto [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMLTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2070.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2070.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2020
+
+Um ex-soldado encontra refúgio da guerra numa casa em ruínas, cuidando de uma mulher e sua mãe moribunda. Ele suspeita que a mulher mais jovem é escravizada por um demônio, mas nem tudo é o que parece.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>24/07/2020</date>
+</item>"
+"<item>
+
 <title>A Princesa Encantada: O Casamento Real [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APRNCSAENCTDAOCSMNTREAL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRNCSAENCTDAOCSMNTREAL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/547.jpg</image>
@@ -154,8 +287,27 @@ A princesa Odette e o príncipe Derek vão a um casamento na princesa Mei Li e s
 </item>"
 "<item>
 
+<title>Encontro Fatal [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENCTRFTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2176.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2176.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2020
+
+Após um drink com um velho amigo, uma advogada se envolve em um obsessivo jogo de gato e rato que põe em risco todos as pessoas que ela ama.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>16/07/2020</date>
+</item>"
+"<item>
+
 <title>SCOOBY! O Filme [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/SCBYOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SCBYOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/314.jpg</image>
@@ -173,8 +325,27 @@ Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um
 </item>"
 "<item>
 
+<title>Desperados [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DSPRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1881.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1881.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Acompanhada pelos amigos, uma jovem apavorada parte para o México para tentar apagar um e-mail desaforado que enviou ao novo namorado.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>03/07/2020</date>
+</item>"
+"<item>
+
 <title>Code 8: Renegados [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CD8RNGDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CD8RNGDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1570.jpg</image>
@@ -190,10 +361,11 @@ Num mundo onde pessoas com habilidades “especiais” vivem na pobreza, Conner 
  
 <date>02/07/2020</date>
 </item>"
+(vazio)
 "<item>
 
 <title>Apanhador de Pesadelos [COLOR yellow][IMDb 3,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APNHDRDPSDLOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APNHDRDPSDLOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/913.jpg</image>
@@ -212,7 +384,7 @@ Neste aterrorizante thriller de terror, Gail (Radha Mitchell, Silent Hill) é fo
 "<item>
 
 <title>Bala Perdida [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BLAPRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BLAPRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1154.jpg</image>
@@ -228,10 +400,11 @@ Um mecânico acusado de assassinato precisa encontrar o carro que contém a úni
  
 <date>19/06/2020</date>
 </item>"
+(vazio)
 "<item>
 
 <title>2 Minutos de Fama [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/2MNTSDFMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/2MNTSDFMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/64.jpg</image>
@@ -250,7 +423,7 @@ Uma nova sensação da mídia (Jay Pharoah) vai para Los Angeles com o sonho de 
 "<item>
 
 <title>Coronavírus: A origem [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRNVRSAORGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRNVRSAORGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1696.jpg</image>
@@ -268,8 +441,27 @@ Os sistemas de saúde estão sobrecarregados, as economias são interrompidas e 
 </item>"
 "<item>
 
+<title>Destacamento Blood [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DSTCMNTBLND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1883.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1883.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2020
+
+Spike Lee conta a história de quatro veteranos de guerra afro-americanos que voltam ao Vietnã à procura dos restos mortais de seu comandante e de um tesouro enterrado.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>12/06/2020</date>
+</item>"
+"<item>
+
 <title>Arkansas [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ARKNSAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ARKNSAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/949.jpg</image>
@@ -288,7 +480,7 @@ Kyle e Swin recebem ordens do chefe do cartel, Frog, que nunca conheceram pessoa
 "<item>
 
 <title>A Caçada [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ACACDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACACDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/160.jpg</image>
@@ -307,7 +499,7 @@ Doze estranhos acordam em uma clareira. Eles não sabem onde estão ou como cheg
 "<item>
 
 <title>Capitão Dentes de Sabre e o Diamante Mágico [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CPTAODNTSDSBREODMNTMGCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CPTAODNTSDSBREODMNTMGCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1433.jpg</image>
@@ -326,7 +518,7 @@ Para evitar que o Diamante Mágico caia nas mãos de Maga Kahn, um poderoso mago
 "<item>
 
 <title>A Vastidão da Noite [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AVSTDAODNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVSTDAODNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/648.jpg</image>
@@ -345,7 +537,7 @@ No período da Guerra Fria, enquanto acontece a corrida espacial entre os Estado
 "<item>
 
 <title>A Missy Errada [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMSYERDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMSYERDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/445.jpg</image>
@@ -363,8 +555,27 @@ Tim acha que convidou a garota dos sonhos para uma temporada no Havaí. Só que 
 </item>"
 "<item>
 
+<title>Dias Sem Fim [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DIASMFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1934.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1934.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Condenado à pena perpétua, um jovem negro recorda as pessoas, as circunstâncias e o sistema que o levaram a cometer um crime.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>01/05/2020</date>
+</item>"
+"<item>
+
 <title>Correndo Por Um Sonho [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CORNDPRUMSNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CORNDPRUMSNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1707.jpg</image>
@@ -383,7 +594,7 @@ Zach é um atleta que sonha em mudar de vida junto com o irmão, David, deixando
 "<item>
 
 <title>A Terra e o Sangue [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ATRAEOSNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ATRAEOSNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/624.jpg</image>
@@ -402,7 +613,7 @@ O dono de uma serraria e sua filha adolescente se envolvem em uma disputa perigo
 "<item>
 
 <title>Altos Negócios [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ALTSNGCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ALTSNGCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/783.jpg</image>
@@ -421,7 +632,7 @@ Disposto a fazer qualquer coisa para ficar rico, um jovem e seu amigo viram o me
 "<item>
 
 <title>Aqui Estamos Nós: notas sobre como viver no planeta Terra [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AQESTMNSNSCVNPT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AQESTMNSNSCVNPT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/936.jpg</image>
@@ -440,7 +651,7 @@ Na véspera do Dia da Terra, um menino precoce de sete anos aprende sobre as mar
 "<item>
 
 <title>A Grande Luta [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AGNDLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AGNDLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/317.jpg</image>
@@ -459,7 +670,7 @@ Usando uma máscara mágica que lhe dá poderes especiais, um menino provoca o m
 "<item>
 
 <title>A Ilha da Fantasia [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ILHDFNTSIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ILHDFNTSIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/348.jpg</image>
@@ -478,7 +689,7 @@ Uma ilha mágica no meio do Oceano Pacífico oferece aos seus visitantes a possi
 "<item>
 
 <title>Coffee & Kareem [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/COFEANKREM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/COFEANKREM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1577.jpg</image>
@@ -496,8 +707,27 @@ Um policial de Detroit precisa formar uma dupla com o filho boca-suja da namorad
 </item>"
 "<item>
 
+<title>Dragões: Equipe de Resgate: Em Busca do Dragão Dourado [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DGOSEQPEDRSTEEMBSCDRGODRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2020.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2020.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação
+Lançamento: 2020
+
+Hora da caça ao tesouro: a Equipe de Resgate tem de encontrar o ovo do Dragão Dourado antes de os piratas colocarem as mãos nele.</info>
+ 
+<genre>Animação</genre>
+ 
+<date>27/03/2020</date>
+</item>"
+"<item>
+
 <title>A Casa [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ACSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/169.jpg</image>
@@ -516,7 +746,7 @@ Um publicitário desempregado começa a perseguir os novos moradores da sua anti
 "<item>
 
 <title>Crip Camp: Revolução pela Inclusão [COLOR yellow][IMDb 7,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRPCMPRVLCPLINCLSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRPCMPRVLCPLINCLSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1745.jpg</image>
@@ -532,10 +762,11 @@ No final da estrada de Woodstock, uma revolução floresceu em um acampamento de
  
 <date>25/03/2020</date>
 </item>"
+(vazio)
 "<item>
 
 <title>Afunde o Navio [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BLWTHMAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BLWTHMAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1283.jpg</image>
@@ -554,7 +785,7 @@ Mary Beth e Priscilla Connolly tentam encobrir uma briga horrenda com um homem p
 "<item>
 
 <title>A Jornada [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AJRNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AJRNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/367.jpg</image>
@@ -573,7 +804,7 @@ Uma astronauta francesa em treinamento é convocada para uma missão oficial. El
 "<item>
 
 <title>Altered Carbon: Nova Capa [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALTRDCRBNNVCPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALTRDCRBNNVCPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/781.jpg</image>
@@ -592,7 +823,7 @@ No planeta Latimer, Takeshi Kovacs deve proteger um tatuador enquanto investiga 
 "<item>
 
 <title>Ambulância do Terror [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMBLCDTROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMBLCDTROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/801.jpg</image>
@@ -611,7 +842,7 @@ Dois paramédicos chegam ao local de um acidente de carro para transportar uma a
 "<item>
 
 <title>A Extraordinária Garota Chamada Estrela [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AEXTRODRGRTCHMDAESTRLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AEXTRODRGRTCHMDAESTRLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/265.jpg</image>
@@ -630,7 +861,7 @@ Desde o dia em que chegou a tranquila Mica High, em uma explosão de cor e som, 
 "<item>
 
 <title>Aprendiz de Espiã [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APRNDZDESPIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRNDZDESPIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601501.us.archive.org/4/items/6_20200831_202008/5.jpg</image>
@@ -650,7 +881,7 @@ Aprendiz de Espiã acompanha um agente da CIA (Dave Bautista) de coração endur
 "<item>
 
 <title>Bloodshot [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BLODHT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BLODHT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/26/items/1280_20200923/1282.jpg</image>
@@ -669,7 +900,7 @@ Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacid
 "<item>
 
 <title>Aluguel de Pesadelo [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ALGLDPSDLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ALGLDPSDLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/784.jpg</image>
@@ -687,8 +918,27 @@ Lydia se muda para um novo apartamento depois de terminar com seu namorado de lo
 </item>"
 "<item>
 
+<title>De Quem É a Culpa? [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DQMEACLPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1801.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1801.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2020
+
+Um bonitão da faculdade é acusado de estupro por uma aluna nada popular. A namorada dele procura a verdade em várias versões da história.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>06/03/2020</date>
+</item>"
+"<item>
+
 <title>10 Coisas que Deveríamos Fazer Antes de nos Separar [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/10COSQDVRMSFZRANTSDNSPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/10COSQDVRMSFZRANTSDNSPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/35.jpg</image>
@@ -707,8 +957,27 @@ Em 10 Coisas que Deveríamos Fazer Antes de Nos Separar, Abigail (Christina Ricc
 </item>"
 "<item>
 
+<title>Dois Irmãos: Uma Jornada Fantástica [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOSIRMSUMJRNDFNTSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1980.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1980.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Comédia, Fantasia
+Lançamento: 2020
+
+Em um mundo transformado, no qual as criaturas não dependiam mais da magia para viver, dois irmãos elfos recebem um cajado de bruxo de seu falecido pai, capaz de trazê-lo de volta à vida. Inexperientes com qualquer tipo de magia, Ian e Barley não conseguem executar o feitiço e acabam gerando uma criatura sem cabeça. Para passar mais um dia com seu pai, eles embarcam em uma jornada fantástica. Ao perceber a ausência dos filhos, sua mãe se une à uma lendária manticora para encontrá-los.</info>
+ 
+<genre>Animação, Família, Aventura, Comédia, Fantasia</genre>
+ 
+<date>05/03/2020</date>
+</item>"
+"<item>
+
 <title>Aventuras de Timmy Failure [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVNTRSDTMYFLRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVNTRSDTMYFLRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601405.us.archive.org/13/items/974_20200914/987.jpg</image>
@@ -727,7 +996,7 @@ Timmy ""Fiasco"" Failure é um garoto de 11 anos que acredita ser o melhor detet
 "<item>
 
 <title>A Hora Da Sua Morte [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AHRDESUAMRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AHRDESUAMRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601406.us.archive.org/21/items/371_20200905/330.jpg</image>
@@ -745,8 +1014,65 @@ Uma jovem enfermeira baixa um aplicativo que promete prever o momento e a data d
 </item>"
 "<item>
 
+<title>Decisão [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DCSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1828.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1828.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Uma partida de futebol em um campo de terra perto de Roma se torna um dia de acerto de contas como um jovem jogador, seu treinador e o dono de sua equipe lutam contra demônios internos.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>27/02/2020</date>
+</item>"
+"<item>
+
+<title>Era uma Vez: Anastasia [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ERUMVZANSTSIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2221.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2221.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 2020
+
+O filme conta a história de Anastasia Romanov e começa em 1917, quando a filha mais nova de Tsar Nicholas II foge das tropas de Lênin através de um portal de tempo, emergindo em 1988, quando ela faz amizade com uma jovem americana.</info>
+ 
+<genre>Aventura, Fantasia, Família</genre>
+ 
+<date>27/02/2020</date>
+</item>"
+"<item>
+
+<title>Emma. [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2160.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2160.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2020
+
+Emma Woodhouse é uma jovem rica e inteligente, que não tem pretensões de se casar tão cedo, para ficar sempre perto do pai. Porém, isso não a impede de dar uma de 'casamenteira', tentando juntar casais que considere apropriados entre seus conhecidos, sem perceber os problemas causados com sua imaginação e teimosia.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>21/02/2020</date>
+</item>"
+"<item>
+
 <title>As Aventuras do Dr. Dolittle [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASAVNTRSDODRDLTLE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASAVNTRSDODRDLTLE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601405.us.archive.org/13/items/974_20200914/991.jpg</image>
@@ -765,7 +1091,7 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 "<item>
 
 <title>Centro de Trauma [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1496.jpg</image>
@@ -784,7 +1110,7 @@ Uma ex-paramédica fica ferida depois que testemunha um fogo cruzado envolvendo 
 "<item>
 
 <title>A Fotografia [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AFTGRFIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFTGRFIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601406.us.archive.org/21/items/371_20200905/295.jpg</image>
@@ -803,7 +1129,7 @@ Vasculhando os pertences deixados pela mãe, Mae encontra algumas fotos antigas 
 "<item>
 
 <title>A Última Coisa que Ele Queria [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AULTMCSAQELEQRIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AULTMCSAQELEQRIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/635.jpg</image>
@@ -822,7 +1148,7 @@ Uma repórter obstinada se envolve na história que investiga quando ajuda o pai
 "<item>
 
 <title>365 Dias [COLOR yellow][IMDb 3,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/365DIAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/365DIAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/90.jpg</image>
@@ -841,8 +1167,27 @@ Laura, a fim de salvar seu relacionamento, vai para a Sicília, onde conhece Mas
 </item>"
 "<item>
 
+<title>Entre Realidades [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ENTRRALDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2205.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2205.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Thriller, Ficção científica
+Lançamento: 2020
+
+Uma mulher socialmente estranha com um gosto por artes, cavalos e programas de crimes sobrenaturais encontra seus sonhos cada vez mais lúcidos escorrendo em sua vida de vigília.</info>
+ 
+<genre>Drama, Mistério, Thriller, Ficção científica</genre>
+ 
+<date>07/02/2020</date>
+</item>"
+"<item>
+
 <title>Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AVSDRPNARLQNESEMPCFBLSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVSDRPNARLQNESEMPCFBLSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1142.jpg</image>
@@ -861,7 +1206,7 @@ Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya
 "<item>
 
 <title>Coração de Dragão: Vingança [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRCDRGVNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRCDRGVNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1682.jpg</image>
@@ -880,7 +1225,7 @@ Lukas, um jovem fazendeiro cuja família é morta por invasores selvagens no cam
 "<item>
 
 <title>Adú [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ADU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ADU.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/713.jpg</image>
@@ -899,7 +1244,7 @@ Um homem decide se separar, e vai para Moçambique trabalhar em um reservatório
 "<item>
 
 <title>Aventuras de Betty [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVNTRSDBETY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVNTRSDBETY.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1139.jpg</image>
@@ -918,7 +1263,7 @@ Ambientado no parque de diversões, a pastora de ovelhas aparece no topo da roda
 "<item>
 
 <title>Bad Boys Para Sempre [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BDBYSPRSMPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BDBYSPRSMPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1152.jpg</image>
@@ -937,7 +1282,7 @@ Armando é um assassino de sangue frio com uma natureza cruel e provocadora. Ele
 "<item>
 
 <title>1917 [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/1917.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/1917.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/59.jpg</image>
@@ -957,7 +1302,7 @@ Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens so
 "<item>
 
 <title>A Possessão de Mary [COLOR yellow][IMDb 4,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APSESAODMRY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APSESAODMRY.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/532.jpg</image>
@@ -976,7 +1321,7 @@ David é um capitão de navio que luta para dar uma vida melhor para sua famíli
 "<item>
 
 <title>As Ondas [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASONDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASONDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1032.jpg</image>
@@ -995,7 +1340,7 @@ Dois jovens casais navegam o campo minado emocional de crescer, amadurecer e se 
 "<item>
 
 <title>Assassinato Via Babá Eletrônica [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASASNTVIABABELTRNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASASNTVIABABELTRNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1068.jpg</image>
@@ -1014,7 +1359,7 @@ Cassie Temple aceita um emprego como babá em casa após o término do estágio,
 "<item>
 
 <title>Adoráveis Mulheres [COLOR yellow][IMDb 7,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADRVSMLHRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ADRVSMLHRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/709.jpg</image>
@@ -1033,7 +1378,7 @@ As irmãs Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Flo
 "<item>
 
 <title>Ameaça Profunda [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMCAPRFNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMCAPRFNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/804.jpg</image>
@@ -1052,7 +1397,7 @@ Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil m
 "<item>
 
 <title>Corpus Christi [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRPSCHRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRPSCHRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1699.jpg</image>
@@ -1071,7 +1416,7 @@ Daniel (Bartosz Bielenia) é um rapaz de 20 anos que experimenta uma transforma�
 "<item>
 
 <title>À Prova de Balas 2 [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/APRVDBLS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRVDBLS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601409.us.archive.org/16/items/487_20200908/564.jpg</image>
@@ -1090,7 +1435,7 @@ Lançamento: 2020
 "<item>
 
 <title>A Marca do Demônio [COLOR yellow][IMDb 3,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMRCDEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMRCDEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/433.jpg</image>
