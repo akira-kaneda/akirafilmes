@@ -1,7 +1,9 @@
 "<item>
 
 <title>01 - Uma Viagem e Tanto</title>
-<link><externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/distrito1</externallink>.azureedge.net/RCServer12/ondemand/THEBOST02EP01.mp4?attachment=true<link>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -17,7 +19,9 @@ Agora com 50% mais cabeças explodindo, terroristas, prostitutas S&M, cultos e u
 "<item>
 
 <title>02 - Armando a Arapuca</title>
-<link>https://distrito1.azureedge.net/RCServer12/ondemand/THEBOST02EP02.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -33,7 +37,9 @@ Os caras arranjam um Super Terrorista, a Luz-Estrala consegue evidências contra
 "<item>
 
 <title>03 - Mil Homens Armados Com Espadas</title>
-<link>https://distrito1.azureedge.net/RCServer12/ondemand/THEBOST02EP03.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -49,7 +55,9 @@ Atenção: Se você ou um ente querido foi exposto ao Composto V, pode ter direi
 "<item>
 
 <title>04 - Não Há Nada Igual No Mundo</title>
-<link>https://distrito1.azureedge.net/RCServer12/ondemand/THEBOST02EP04.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -65,7 +73,9 @@ Viagem de lazer! Os caras vão para a Carolina do Norte para seguir a pista de u
 "<item>
 
 <title>05 - Hora de Cair Fora</title>
-<link>https://distrito1.azureedge.net/RCServer12/ondemand/THEBOST02EP05.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
 <thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -74,6 +84,60 @@ Viagem de lazer! Os caras vão para a Carolina do Norte para seguir a pista de u
 Lançamento: 2020
 
 A VoughtStudios tem o prazer de anunciar que as filmagens de #AOrigemDosSete começaram. Doze anos de produções da Vought culminaram nisso. Se você já gosta de filmes sobre um herói, você vai adorar um filme sobre Sete Heróis. Apresentando a mais nova participante @TempestaReal! Veja como a lenda começou! Nos cinemas, no verão de 2021!</info>
+ 
+<genre>Fantasia, Ficção científica, Ação, Aventura, Terror</genre>
+ 
+</item>"
+"<item>
+
+<title>06 - Arrombando Portas</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP06.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
+<thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ficção científica, Ação, Aventura, Terror
+Lançamento: 2020
+
+A Clínica Sage Grove® cuida de pessoas que sofrem de doenças mentais. Nossos médicos e conselheiros dedicados fornecem serviços personalizados para ajudar os pacientes a viverem melhor. Se você ou um ente querido precisa de ajuda, ligue para o Clínica Sage Grove, pelo 1-800-122-8585. Uma estimada subsidiária do Serviço Global de Saúde®, que é uma estimada subsidiária da Vought Internacional®</info>
+ 
+<genre>Fantasia, Ficção científica, Ação, Aventura, Terror</genre>
+ 
+</item>"
+"<item>
+
+<title>07 - O Bruto, o Belo e a Estrela</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP07.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
+<thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ficção científica, Ação, Aventura, Terror
+Lançamento: 2020
+
+A audiência fajuta da deputada Victoria Neuman contra a Vought é daqui a 3 DIAS. Vamos deixá-la criminalizar os super-heróis quando mais precisamos deles? Temos que nos levantar contra esse partidarismo vergonhoso. Junte-se a outros patriotas americanos e envie $ 20 para VOUGHTPROMETE.COM para dizer a Neuman e seus comparsas de bobos da Corte que eles não ganharão, “Não Vamos Deixar” ™</info>
+ 
+<genre>Fantasia, Ficção científica, Ação, Aventura, Terror</genre>
+ 
+</item>"
+"<item>
+
+<title>08 - O Que Eu Sei</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/THEBOST02EP08.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</image>
+<thumbnail>https://ia601401.us.archive.org/13/items/2_20200907/2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ficção científica, Ação, Aventura, Terror
+Lançamento: 2020
+
+*** ALERTA DE SUPER VILÕES *** VOCÊ ESTÁ RECEBENDO ESTA NOTIFICAÇÃO DO DEPARTAMENTO DE SEGURANÇA NACIONAL. UM ALERTA DE SUPER VILÕES FOI EMITIDO PARA A SUA ÁREA. POR FAVOR, ESTEJA ATENTO E DENUNCIE QUALQUER PESSOA OU ATIVIDADE SUSPEITA. SE VOCÊ ACREDITA QUE VIU UM SUPER VILÃO, NÃO SE APROXIME NEM TENTE PRENDÊ-LO. CONTATE AS FORÇAS DA LEI IMEDIATAMENTE.</info>
  
 <genre>Fantasia, Ficção científica, Ação, Aventura, Terror</genre>
  
