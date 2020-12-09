@@ -1,0 +1,57 @@
+"<item>
+
+<title>Dennis, O Pimentinha [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DNSOPMNTNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1844.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1844.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Comédia
+Lançamento: 1993
+
+A Sra. Wilson aceita hospedar o pestinha Dennis em sua casa enquanto os pais dele viajam. Ela só não imagina que o garoto é capaz de tantas travessuras, incluindo a destruição do premiado jardim que seu marido, o Sr. Wilson, cultiva há décadas.</info>
+ 
+<genre>Família, Comédia</genre>
+ 
+<date>23/06/1993</date>
+</item>"
+"<item>
+
+<title>Dennis, o Pimentinha Ataca Novamente [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DNSOPMENTATCNOVMTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1845.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1845.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1998
+
+O avô de Dennis chega para ""morar"" com o netinho de 7 anos e isso provoca ciúmes no Sr. Wilson, vizinho e principal vítima das traquinagens do garoto! Mas como Dennis não tem limites apronta mais uma a ponto do sr. Wilson decidir vender sua casa! Dennis, de castigo, foge e confessa ao vizinho que o ama como seu melhor amigo! Sr. Wilson também estava caindo no ""conto da juventude"" (uns pilantras estavam explorando-o) e Dennis, acaba virando herói, pois, consegue, com suas ""peraltices"" capturar esses pilantras.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>14/07/1998</date>
+</item>"
+"<item>
+
+<title>O Natal de Dennis o Pimentinha [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ONTLDNSOPMTNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4212.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4212.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2007
+
+No Natal, Denis Mitchell está tentando achar o presente ideal para o seu vizinho rabugento, o Sr. Wlison. Um anjo, que está na terra com a missão de propagar o espiíito natalino, irá ajudar Dennis nessa tarefa difícil.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>10/11/2007</date>
+</item>"
