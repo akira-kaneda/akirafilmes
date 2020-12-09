@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Ratinha Valente [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ARTNHVLNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/580.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/580.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia, Aventura
+Lançamento: 1982
+
+Para salvar seu filho doente, uma corajosa ratinha percorre uma longa jornada em busca de conseguir mover a sua casa de lugar de maneira segura. Enquanto procura curar seu filho, ela se depara com amuletos mágicos, animais perigosos e grandes amigos que prometem ajudá-la no misterioso percurso de uma floresta mágica que muda sua vida para sempre.</info>
+ 
+<genre>Animação, Família, Fantasia, Aventura</genre>
+ 
+<date>17/09/1982</date>
+</item>"
+"<item>
+
+<title>A Ratinha Valente 2 - O Segredo Do Ratinho [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ARTNHVLNT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/581.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/581.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 1998
+
+O povoado de Thorn Valley precisa mais uma vez de um herói para salvá-lo da ameaça do INSM. Timmy, filho de Jonathan Brisby, um dos ratos mais corajosos, é então convocado. Para mostrar que ele está preparado, ele terá que ajudar a ratinha Jenny.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>22/12/1998</date>
+</item>"
