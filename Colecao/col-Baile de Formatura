@@ -1,0 +1,38 @@
+"<item>
+
+<title>Baile de Formatura: A Morte Convida para Dançar [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BALDFRMTRAMRTCNDPRDNCAR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5750.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5750.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1980
+
+Um assassino mascarado persegue quatro adolescentes em seu baile de formatura para vingar a morte acidental de uma criança seis anos atrás.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>18/07/1980</date>
+</item>"
+"<item>
+
+<title>Baile de Formatura 2 - Vestida para a Vingança [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BALDFRMTR2VSTDORVNGC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5749.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5749.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1987
+
+30 anos após sua morte acidental, no baile de formatura de 1957, o espírito torturado de Mary Lou Maloney, retorna e busca por vingança.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>16/10/1987</date>
+</item>"
