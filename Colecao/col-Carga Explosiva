@@ -1,0 +1,76 @@
+"<item>
+
+<title>Carga Explosiva [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSV1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1446.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1446.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2002
+
+O ex-operador das Forças Especiais Frank Martin vive o que parece ser uma vida tranquila ao longo do Mediterrâneo francês. Na verdade ele é um transportador mercenário levando bens, humanos ou não, de um lugar para outro, sem fazer perguntas sobre que tipo de mercadoria foi contratado para transportar.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>02/10/2002</date>
+</item>"
+"<item>
+
+<title>Carga Explosiva 2 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSV2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1447.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1447.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2005
+
+Frank Martin (Jason Statham) é um ex-agente das Forças Especiais que trabalha atualmente como transportador de itens valiosos. Frank atualmente trabalha para a poderosa família Billings, como favor a um amigo. Aos poucos ele fica próximo ao pequeno Jack Billings (Hunter Clary), de 6 anos, a quem leva e traz da escola. Quando Jack é sequestrado Frank é obrigado a mais uma vez pôr suas habilidades em ação, partindo em uma tentativa de resgate.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>02/09/2005</date>
+</item>"
+"<item>
+
+<title>Carga Explosiva 3 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSV3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1448.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1448.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Crime
+Lançamento: 2008
+
+Frank Martin (Jason Statham) é obrigado a conduzir Valentina (Natalya Rudakova), a filha de Leonid Vasilev (Jeroen Krabbé), o chefe da Agência de Proteção Ambiental da Ucrânia. Ela foi sequestrada por Jonas Johnson (Robert Knepper), contratado por uma empresa de gerenciamento internacional de resíduos que deseja operar na Ucrânia. Para ter Frank e Valentina sob controle, Jonas prende em seus pulsos um dispositivo que determina que não possam se afastar muito do carro que os conduz, caso contrário o bracelete explode. Contando com a ajuda do inspetor Tarconi (François Berléand), Frank busca um meio de deixar a armadilha.</info>
+ 
+<genre>Ação, Aventura, Thriller, Crime</genre>
+ 
+<date>05/12/2008</date>
+</item>"
+"<item>
+
+<title>Carga Explosiva: O Legado [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1449.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1449.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2015
+
+Riviera Francesa, 2010. Frank Martin segue trabalhando como transportador de mercadorias perigosas, sem fazer qualquer pergunta sobre o que carrega. Um dia ele recebe uma ligação de Anna, que deseja contratá-lo. Eles combinam de se encontrar em um requintado restaurante e lá Frank recebe a tarefa de pegá-la em frente ao Banco de Mônaco, daqui a algumas horas. Ao chegar ao local, ele é surpreedido pela presença de outras duas mulheres, o que não havia sido previamente acertado. Frank tenta desfazer o acordo, mas logo descobre que o trio mantém em cativeiro seu próprio pai. Para salvá-lo, ele aceita participar do plano das garotas.</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>10/09/2015</date>
+</item>"
