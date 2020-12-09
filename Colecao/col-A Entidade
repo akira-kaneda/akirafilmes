@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Entidade [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AENTDADE1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/232.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/232.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 2012
+
+Ellison (Ethan Hawke) é um escritor de romances policias que acaba de se mudar com a família. No sótão da nova casa ele descobre antigos rolos de filme, que trazem imagens de pessoas sendo mortas. Intrigado com o que elas representam e com um estranho símbolo presente nas imagens, ele e sua família logo passam a correr sério risco de morte.</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>12/10/2012</date>
+</item>"
+"<item>
+
+<title>A Entidade 2 [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AENTDADE2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/233.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/233.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2015
+
+Courtney (Shannyn Sossamon), uma jovem mãe solteira e superprotetora de dois gêmeos de 9 anos, se muda com os filhos para uma casa em uma área rural de uma pequena cidade. Logo, ela descobre que o local foi palco de estranhos acontecimentos e que sua família está marcada para morrer.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>03/09/2015</date>
+</item>"
