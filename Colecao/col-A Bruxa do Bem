@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Bruxa do Bem [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ABRXDBM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/153.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/153.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Drama
+Lançamento: 2008
+
+Cassandra Nightingale (Catherine Bell) acaba de se mudar para uma casa assombrada de uma pequena cidade. Ela abre uma loja, ""Sinos, Livros e Velas"", com vários produtos únicos e um tanto peculiares, logo todos os moradores da região começam a acreditar que é uma bruxa. Após ajudar o filho do chefe de polícia, Cassie fica amiga de Jake Russell (Chris Potter) e ele fica interessado pela mulher. Mas os segredos do seu passado vão ser revelados pelo policial Derek Sanders...</info>
+ 
+<genre>Família, Fantasia, Drama</genre>
+ 
+<date>19/01/2008</date>
+</item>"
+"<item>
+
+<title>A Bruxa do Bem 3: A Magia do Natal [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ABRXDBMAMGIDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/154.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/154.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Fantasia
+Lançamento: 2015
+
+O delegado Jake Russel planeja dar a sua namorada Cassie o melhor presente de natal do mundo - um casamento na noite da véspera de Natal. Mas, a volta de um ex-presidiário à cidade e outros problemas com os filhos de Jake irão dificultar a realização da cerimônia.</info>
+ 
+<genre>Drama, Família, Fantasia</genre>
+ 
+<date>29/05/2015</date>
+</item>"
