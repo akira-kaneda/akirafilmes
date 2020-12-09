@@ -19,6 +19,25 @@ Sam Montgomery (Hilary Duff) é uma jovem estudante do ensino médio, que vive c
 </item>"
 "<item>
 
+<title>Outro Conto da Nova Cinderela [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OTRCNTDANVACNRLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4728.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4728.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia
+Lançamento: 2008
+
+A jovem Mary (Selena Gomez) perdeu os pais durante a infância e sua vida está mudando de cabeça pra baixo. Ela é adotada por uma cantora pop, que está com a carreira musical em decadência, e ganha duas irmãs postiças. Quando conhece o astro adolescente Joey Parker (Drew Seeley), Mary acredita que pode mudar o seu futuro. Joey faz um concurso de dança para encontrar uma nova bailarina e a jovem encanta o rapaz, mas ela foge antes de ter a chance de se apresentar, deixando como única pista de sua identidade um aparelho de música.</info>
+ 
+<genre>Música, Comédia</genre>
+ 
+<date>16/09/2008</date>
+</item>"
+"<item>
+
 <title>A Nova Cinderela: Era Uma Vez Uma Canção [COLOR yellow][IMDb 6,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/ANVACNRLAERUMVZUMCNCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
