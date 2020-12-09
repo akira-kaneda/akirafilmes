@@ -1,0 +1,57 @@
+"<item>
+
+<title>Bob Esponja - O Filme [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BOBOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1286.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1286.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia, Música
+Lançamento: 2004
+
+Após a coroa do Rei Netuno ser roubada, Bob Esponja e seu melhor amigo Patrick partem em uma viagem pela Fenda do Bikini para reencontrá-la. No caminho eles precisam enfrentar monstros marinhos, vilões perigosos e vários bandidos.</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia, Música</genre>
+ 
+<date>14/11/2004</date>
+</item>"
+"<item>
+
+<title>Bob Esponja - Um Herói Fora D'Água [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BOBESPJUHRFRDGUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1287.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1287.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia, Animação
+Lançamento: 2015
+
+O pirata Burger Beard rouba a receita secreta do adorado hambúrguer de siri e Bob Esponja e seus amigos desembarcam em terra firme para resgatar a fórmula perdida. Para conseguirem, eles têm de se associar a seu antigo rival, Plankton.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia, Animação</genre>
+ 
+<date>05/02/2015</date>
+</item>"
+"<item>
+
+<title>Bob Esponja: O Incrível Resgate [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3952.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3952.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Aventura, Comédia, Família
+Lançamento: 2020
+
+Onde está Gary? Segundo Bob Esponja, Gary foi ""caracolstrado"" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</info>
+ 
+<genre>Fantasia, Animação, Aventura, Comédia, Família</genre>
+ 
+<date>14/08/2020</date>
+</item>"
