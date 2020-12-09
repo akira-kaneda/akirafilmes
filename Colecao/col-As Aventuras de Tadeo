@@ -1,0 +1,38 @@
+"<item>
+
+<title>As Aventuras de Tadeo [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASAVNTRSDTAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601405.us.archive.org/13/items/974_20200914/985.jpg</image>
+<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/985.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Aventura, Família
+Lançamento: 2013
+
+Tadeo sonha em ser um explorador e, por acaso, é confundido com um famoso arqueólogo e enviado para uma expedição no Peru. Lá, precisa enfrentar uma organização criminosa que pretende saquear uma mítica cidade inca.</info>
+ 
+<genre>Animação, Comédia, Aventura, Família</genre>
+ 
+<date>28/06/2013</date>
+</item>"
+"<item>
+
+<title>As Aventuras de Tadeo 2: O Segredo do Rei Midas [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASAVNTRSDTAD2OSGRNDRM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601405.us.archive.org/13/items/974_20200914/986.jpg</image>
+<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/986.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família
+Lançamento: 2017
+
+Tadeo Stones é um pedreiro muito aventureiro e aspirante a arqueólogo. Ao descobrir que o colar do rei Midas, que transformava tudo que tocava em ouro, existiu de verdade sai rumo a Los Angeles com seus amigos – Sara Lavrof, o cão Jeff e sua velha amiga Múmia. Mas um problema surge quando Sara desaparece misteriosamente.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família</genre>
+ 
+<date>21/12/2017</date>
+</item>"
