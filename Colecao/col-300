@@ -1,7 +1,9 @@
 "<item>
 
 <title>300 [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/300.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/300.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -19,7 +21,9 @@ Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e se
 "<item>
 
 <title>300: A Ascensão do Império [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
