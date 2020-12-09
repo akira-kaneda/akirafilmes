@@ -1,0 +1,38 @@
+"<item>
+
+<title>Busca Explosiva [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BSCEXPLSV1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1355.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1355.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Thriller
+Lançamento: 2006
+
+O fuzileiro John Triton (John Cena) tem uma boa reputação entre seus colegas do exércido americano, mas após ser ferido e desobedecer a ordem de um superior, o soldado, que lutava na Guerra do Iraque, é mandado de volta para casa. Porém, quando sua mulher Kate (Kelly Carlson) é raptada por um grupo de ladrões de joias liderados pelo cruel Rome (Robert Patrick), John voltará a pegar em armas para defender quem mais ama.</info>
+ 
+<genre>Ação, Aventura, Drama, Thriller</genre>
+ 
+<date>13/10/2006</date>
+</item>"
+"<item>
+
+<title>Busca Explosiva 2 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BSCEXPLSV2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1356.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1356.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Thriller
+Lançamento: 2009
+
+Durante uma viagem de férias, o soldado Joe Linwood (Ted DiBiase) precisa enfrentar um grupo de rebeldes que tomaram o hotel em que ele estava hospedado. Para piorar a situação, sua mulher foi feita refém pelos bandidos e Joe precisa correr contra o tempo para resgatá-la e controlar a situação antes que seja tarde demais.</info>
+ 
+<genre>Ação, Aventura, Drama, Thriller</genre>
+ 
+<date>29/12/2009</date>
+</item>"
