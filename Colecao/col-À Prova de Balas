@@ -1,0 +1,38 @@
+"<item>
+
+<title>À Prova de Balas [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/APRVDBLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/563.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/563.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1996
+
+Keats (Damon Wayans) é um policial que tem a missão de investigar o chefão do crime Frank Colton (James Caan). Ele se passa por bandido e faz amizade com um dos subordinados de Colton, o traficante e ladrão de carros Archie Moses (Adam Sandler). É claro que a parceria dos dois termina quando a identidade do policial é revelada. Anos mais tarde, os ex-amigos terão de aturar um ao outro novamente. Isso acontece quando Keats é escalado para escoltar Archie, que agora faz parte do programa de proteção à testemunha.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>06/09/1996</date>
+</item>"
+"<item>
+
+<title>À Prova de Balas 2 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRVDBLS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/16/items/487_20200908/564.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 2020
+
+25 anos depois, Jack agora trabalha como Agente Especial com a missão de derrubar uma poderosa família criminosa sul-africana. O oficial relutantemente se disfarça mais uma vez, desta vez levando a identidade de Moisés.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>07/01/2020</date>
+</item>"
