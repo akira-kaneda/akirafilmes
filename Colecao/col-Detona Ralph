@@ -1,0 +1,38 @@
+"<item>
+
+<title>Detona Ralph [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DTNARLPH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1886.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1886.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Comédia, Aventura
+Lançamento: 2013
+
+Ralph está cansado de ser desprezado no seu próprio jogo de fliperama. Para ganhar a atenção do herói Felix e todos os outros personagens, o vilão tem um plano e sai em busca de uma medalha, com a intenção de provar o seu valor.</info>
+ 
+<genre>Família, Animação, Comédia, Aventura</genre>
+ 
+<date>04/01/2013</date>
+</item>"
+"<item>
+
+<title>WiFi Ralph: Quebrando a Internet [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6421.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6421.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Comédia, Aventura
+Lançamento: 2019
+
+Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos ""cidadãos da Internet"" e de Yess, a alma por trás do ""Buzzztube"", um famoso website que dita tendências.</info>
+ 
+<genre>Família, Animação, Comédia, Aventura</genre>
+ 
+<date>03/01/2019</date>
+</item>"
