@@ -1,0 +1,57 @@
+"<item>
+
+<title>Efeito Borboleta [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/EFTOBRBLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2086.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2086.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller
+Lançamento: 2004
+
+Evan (Ashton Kutcher) é um jovem que luta para esquecer fatos de sua infância. Para tanto ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas ele termina por criar novos, já que toda mudança que realiza gera consequências em seu futuro.</info>
+ 
+<genre>Ficção científica, Thriller</genre>
+ 
+<date>23/07/2004</date>
+</item>"
+"<item>
+
+<title>Efeito Borboleta 2 [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/EFTOBRBLTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2087.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2087.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ficção científica, Thriller
+Lançamento: 2006
+
+Quando Nick Larson perde sua bonita namorada Julie Miller em um acidente, sua carreira de sucesso e sua vida feliz são interrompidas. Lutando para continuar e cheio de culpa, Nick eventualmente descobre que ele pode viajar no tempo e usa sua habilidade para prevenir a morte de Julie. Infelizmente, a alteração do tempo por Nick afeta o futuro de uma forma trágica, o que o leva a procurar salvar Julie sem causar resultados catastróficos.</info>
+ 
+<genre>Drama, Ficção científica, Thriller</genre>
+ 
+<date>10/10/2006</date>
+</item>"
+"<item>
+
+<title>Efeito Borboleta 3: Revelação [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/EFTOBRBLTA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2088.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2088.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller, Drama, Crime
+Lançamento: 2009
+
+Quando Sam Reide volta no tempo para salvar sua irmã Jenna de uma casa pegando fogo, ele inadvertidamente cria uma história alternativa em que seus pais morrem prematuramente. Na sequência do acidente, o viajante do tempo jura não interferir com a história novamente. Porém quando um homem inocente acaba no corredor da morte por ter assassinado sua namorada, Reide ignora os avisos e se prepara para uma último pulo no tempo para testemunhar o crime.</info>
+ 
+<genre>Ficção científica, Thriller, Drama, Crime</genre>
+ 
+<date>31/07/2009</date>
+</item>"
