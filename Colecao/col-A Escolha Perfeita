@@ -1,0 +1,57 @@
+"<item>
+
+<title>A Escolha Perfeita [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/247.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/247.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 2012
+
+O The Barden Bellas é um grupo formado apenas por garotas, que apostam no visual perfeito e em sucessos pop para atrair o público da escola. Entretanto, após uma apresentação desastrosa na competição de fim de ano, suas integrantes decidem repensar o grupo. É quando surge o convite para que Beca (Anna Kendrick), uma DJ aspirante que não tem o menor interesse na vida colegial, integre a nova banda. De início Beca descarta completamente o convite, mas após conhecer Jesse (Skylar Astin), que integra uma banda formada apenas por garotos, ela resolve aceitar o convite e passa a ajudar as integrantes do The Barden Bellas a encontrar um novo visual.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>07/12/2012</date>
+</item>"
+"<item>
+
+<title>A Escolha Perfeita 2 [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601401.us.archive.org/10/items/250_20200903/248.jpg</image>
+<thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/248.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2015
+
+Após conquistarem o sucesso, as Barden Bellas ganham a oportunidade de se apresentar para ninguém menos que o presidente dos Estados Unidos. Só que o show é um grande fiasco, o que as torna uma vergonha nacional. Diante do ocorrido, as Bellas são proibidas de participar de competições no meio acadêmico e até mesmo de aceitar novas integrantes. A única saída de Beca (Anna Kendrick), Fat Amy (Rebel Wilson) & cia é vencer o campeonato mundial a capela, o que apagaria as punições aplicadas ao grupo. Mas há um problema: nunca uma equipe americana venceu o torneio.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>13/08/2015</date>
+</item>"
+"<item>
+
+<title>A Escolha Perfeita 3 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/249.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/249.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2018
+
+Agora formadas, Beca (Anna Kendrick), Fat Amy (Rebel Wilson), Chloe (Brittany Snow) e as demais Bella Bardens estão infelizes devido a trabalhos mal remunerados e pouco motivadores. Diante desta situação, elas decidem se unir mais uma vez como grupo a capela para participar do USO Tour, uma turnê que as levará para apresentações na Europa. Lá, elas precisam duelar com grupos musicais que privilegiam a autorialidade das canções em detrimento de novas versões de músicas já consagradas.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>08/03/2018</date>
+</item>"
