@@ -1,0 +1,76 @@
+"<item>
+
+<title>Cinderela [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNDRLA1950.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1529.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1529.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Animação, Romance
+Lançamento: 1950
+
+Cinderela vive com sua madrasta, Lady Tremaine, e as duas filhas dela. Obrigada a trabalhar como empregada da casa, ela tem como amigos apenas os animais que a rodeiam. O local em que vive está agitado devido ao baile que será realizado no castelo, o qual contará com a presença do príncipe. Como Lady Tremaine pretende que uma das filhas se case com ele, elas se preparam com requinte para o evento. Cinderela, entretanto, não pode ir. Até que surge a Fada-madrinha, que dá a Cinderela um vestido e condições para que possa ir ao baile em alto estilo. Entretanto há uma condição: Cinderela precisa retornar antes da meia-noite, caso contrário o feitiço será desfeito.</info>
+ 
+<genre>Família, Fantasia, Animação, Romance</genre>
+ 
+<date>22/05/1950</date>
+</item>"
+"<item>
+
+<title>Cinderela II: Os Sonhos se Realizam [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNDRLAII.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1531.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1531.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Romance, Fantasia
+Lançamento: 2002
+
+A Fada madrinha lê a historia de Cinderela,mas Jac Jac e Tatá chegam atrasados e perdem a historia como não existe outra historia de Cinderela então os ratinhos escrevem o livro ""Cinderela 2""baseado nos fatos que aconteceram depois da lua de mel de Cinderela e o principe.</info>
+ 
+<genre>Família, Animação, Romance, Fantasia</genre>
+ 
+<date>23/02/2002</date>
+</item>"
+"<item>
+
+<title>Cinderela III: Uma Volta no Tempo [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNDRLAIII.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1532.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1532.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Romance, Família, Fantasia
+Lançamento: 2007
+
+Lady Tremaine põe as mãos na varinha da Fada Madrinha, em seguida, volta o tempo para o dia que Cinderella experimentou o sapatinho de cristal. Ela amplia o chinelo para caber uma das irmãs, Anastasia, em seguida, apaga as memórias do encontro de Cinderella com o príncipe encantado. Agora, Cinderela precisa evitar o plano de Lady Tremaine e reconquistar seu príncipe.</info>
+ 
+<genre>Animação, Romance, Família, Fantasia</genre>
+ 
+<date>06/02/2007</date>
+</item>"
+"<item>
+
+<title>Cinderela [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CNDRLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1530.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1530.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Fantasia, Família, Drama
+Lançamento: 2015
+
+Após a trágica e inesperada morte do seu pai, Ella (Lily James) fica à mercê da sua terrível madrasta, Lady Tremaine (Cate Blanchett), e suas filhas Anastasia e Drisella. A jovem ganha o apelido de Cinderela e é obrigada a trabalhar como empregada na sua própria casa, mas continua otimista com a vida. Passeando na floresta, ela se encanta por um corajoso estranho (Richard Madden), sem desconfiar que ele é o príncipe do castelo. Cinderela recebe um convite para o grande baile e acredita que pode voltar a encontrar sua alma gêmea, mas seus planos vão por água abaixo quando a madrasta má rasga seu vestido. Agora, será preciso uma fada madrinha (Helena Bonham Carter) para mudar o seu destino.</info>
+ 
+<genre>Romance, Fantasia, Família, Drama</genre>
+ 
+<date>02/04/2015</date>
+</item>"
