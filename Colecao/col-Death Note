@@ -1,0 +1,57 @@
+"<item>
+
+<title>Death Note 2: O Último Nome [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DTHNT2OULTMNME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1824.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1824.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Thriller, Mistério
+Lançamento: 2006
+
+Depois de colocar em prática um complexo esquema para afastar as suspeitas de que ele é Kira, Light, conhece Amane Misa, uma fã apaixonada por Kira, e disposta a ajudá-lo, que além de também ter um Death Note, possui os Olhos de Shinigami, um poder capaz de revelar o nome de uma pessoa ao simplesmente olhá-la. Assim continua a intelectual batalha entre Kira e L.</info>
+ 
+<genre>Fantasia, Thriller, Mistério</genre>
+ 
+<date>28/10/2006</date>
+</item>"
+"<item>
+
+<title>Death Note: Iluminando um Novo Mundo [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DTHNTIUNMDUB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1823.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1823.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Mistério, Thriller
+Lançamento: 2016
+
+Em 2016, dez anos após os acontecimentos dos filmes anteriores, a sociedade sofre com o ciberterrorismo. O Death Note é um caderno sobrenatural que concede ao seu usuário o poder de matar simplesmente escrevendo o nome de uma pessoa em suas páginas. Seis Death Notes diferentes caem para o mundo humano, sendo essa quantidade o número máximo de cadernos que podem existir ao mesmo tempo. Em meio a isso, dois novos indivíduos, herdeiros do DNA de Light Yagami e de L, começam um jogo mortal de gato e rato mais uma vez.</info>
+ 
+<genre>Fantasia, Mistério, Thriller</genre>
+ 
+<date>29/10/2016</date>
+</item>"
+"<item>
+
+<title>Death Note [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DTHNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1822.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1822.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Thriller
+Lançamento: 2017
+
+Light, um estudante brilhante que tropeça em um caderno místico que tem o poder de matar qualquer pessoa cujo nome ele escreve nele. Light decide matar todos os criminosos do mundo. Logo, encontra-se perseguido por um famoso detetive conhecido apenas por L.</info>
+ 
+<genre>Fantasia, Terror, Thriller</genre>
+ 
+<date>25/08/2017</date>
+</item>"
