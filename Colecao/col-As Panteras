@@ -1,0 +1,57 @@
+"<item>
+
+<title>As Panteras [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASPNTRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1034.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1034.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Crime, Thriller
+Lançamento: 2000
+
+Três multitalentosas e inteligentes detetives trabalham para Charlie, chefe de uma agência de detetives que evita sempre o confronto cara-a-cara com suas contratadas. Contrárias ao uso de armas, as Panteras, como são conhecidas, enfrentam seu maior desafio quando passam a investigar o sequestro do bilionário Eric Knox (Sam Rockwell), que pode fazer com que sua empresa, a Knox Tecnologies, perca milhões de dólares.</info>
+ 
+<genre>Ação, Aventura, Comédia, Crime, Thriller</genre>
+ 
+<date>24/11/2000</date>
+</item>"
+"<item>
+
+<title>As Panteras - Detonando [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASPNTRS2DTNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1036.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1036.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2003
+
+Após um arquivo do sistema de proteção à testemunha ser roubado do Governo dos Estados Unidos, uma série de cinco assassinatos de participantes do programa ocorre. Para desvendar o caso é contratada a Agência de Detetives Charles Townsend, que coloca Natalie (Cameron Diaz), Dylan (Drew Barrymore) e Alex (Lucy Liu) na investigação. A principal suspeita de ter cometido o roubo e os assassinatos é Madison Lee (Demi Moore), uma ex-pantera que deixou a agência tempos atrás para entrar no mundo do crime.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>11/07/2003</date>
+</item>"
+"<item>
+
+<title>As Panteras [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASPNTRS2019.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1035.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1035.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2019
+
+Elizabeth Banks dirige a nova geração de Panteras – Kristen Stewart, Naomi Scott e Ella Balinska – a serviço do misterioso Charles Townsend. As Panteras sempre proveram segurança e suas habilidades de investigação para clientes particulares, e agora a agência Townsend tem atuação internacional: as mais espertas, destemidas e altamente treinadas agentes em todo o globo formam múltiplos times de Panteras guiados por múltiplos Bosleys e estão prontas para atuar nos trabalhos mais difíceis ao redor do mundo. Quando um jovem engenheiro de sistemas soa o alarme a respeito de uma perigosa tecnologia; as Panteras são chamadas à ação, e colocam suas vidas em risco para nos proteger a todos.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>14/11/2019</date>
+</item>"
