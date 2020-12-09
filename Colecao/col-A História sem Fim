@@ -1,0 +1,57 @@
+"<item>
+
+<title>A História sem Fim [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AHSTSMFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/21/items/371_20200905/326.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/326.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Fantasia, Aventura
+Lançamento: 1984
+
+Bastian (Barret Oliver) é um garoto sonhador, que usa a imaginação como refúgio para os fatos que o entristecem, como as provas de Matemática, brigas na escola e, especialmente, a recente perda de sua mãe. Um dia, o garoto a caminho da escola briga com outros colegas, foge, e acaba parando numa livraria, onde toma conhecimento de um livro chamado ""A História Sem Fim"". A leitura do livro o transporta ao fantástico mundo de ""Fantasia"", habitado por um caracol de corrida, um morcego planador, um dragão da sorte, elfos, uma Imperatriz Criança (Tami Stronach), o valente guerreiro Atreyu (Noah Hathaway) e uma pedra ambulante chamada Come-Pedra. O jovem começa a visualizar o que lê. A imperatriz que governa ""Fantasia"" está morrendo e, junto com ela, todo aquele mundo habitado por criaturas maravilhosas. Um jovem guerreiro é a única esperança para encontrar a cura para a doença da imperatriz e impedir que aquele mundo fosse engolido pelo ""Nada"".</info>
+ 
+<genre>Drama, Família, Fantasia, Aventura</genre>
+ 
+<date>20/07/1984</date>
+</item>"
+"<item>
+
+<title>A História Sem Fim 2 [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AHSTSMFM2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/327.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/327.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Fantasia, Aventura
+Lançamento: 1991
+
+Bastian (Jonathan Brandis) retorna a Fantasia, que está agora ameaçada por um feitiço da bruxa Xayide (Clarissa Burt). Com a ajuda de Atreyu (Kenny Morrison), o cão voador Falkor (Donald Arthur) e o Homem de Pedra, ele enfrenta a bruxa e seus protetores, os temíveis gigantes.</info>
+ 
+<genre>Drama, Família, Fantasia, Aventura</genre>
+ 
+<date>25/01/1991</date>
+</item>"
+"<item>
+
+<title>A História Sem Fim 3 [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AHSTSMFM3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/328.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/328.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Fantasia, Aventura
+Lançamento: 1994
+
+Bastian (Jason James Richter) se esconde em uma biblioteca, ao fugir de uma gangue de garotos. Lá ele encontra o livro A História Sem Fim. Decidido a esquecer seus problemas, ele começa a lê-lo e novamente chega a Fantasia. Só que o líder da gangue encontra o livro caído no chão e passa a escrever nele diversas maldades e perigos, o que faz com que o reino torne-se um pesadelo. O único jeito de salvar Fantasia é com Bastian retornando ao mundo real para resgatar o livro.</info>
+ 
+<genre>Drama, Família, Fantasia, Aventura</genre>
+ 
+<date>26/10/1994</date>
+</item>"
