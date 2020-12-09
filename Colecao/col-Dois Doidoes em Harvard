@@ -1,0 +1,38 @@
+"<item>
+
+<title>Dois Doidões em Harvard [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DOSDODESEMHRVD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1976.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1976.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2001
+
+Silas (Method Man, de Cop Land) e Jamal (Redman) estão bastante tensos na hora de fazer um exame que irá decidir em qual faculdade eles poderão ingressar. Para “relaxar” um pouco, os dois colegas decidem puxar um fumo antes da prova. A fumaça mágica que sai de seus baseados evoca o fantasma de Ivory (Chuck Davis), um outro colega de fumo que havia morrido recentemente. Bem relacionado com todos os espíritos inteligentes “do outro lado”, Ivory ajuda os amigos na hora do exame, e ambos são aprovados com nota máxima. Como prêmio, eles são convidados a entrar na prestigiada Universidade de Harvard, um lugar repleto de ricaços, brancos e mauricinhos. Silas e Jamal, sempre auxiliados pelo fantasma de Ivory, vão deixar a Universidade de cabeça para baixo.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>21/12/2001</date>
+</item>"
+"<item>
+
+<title>Dois Doidões em Harvard 2 [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DOSDODESEMHRVD2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1977.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1977.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Cinema TV
+Lançamento: 2019
+
+Dois viciados preguiçosos embarcam em uma aventura alucinante para encontrar sua reserva roubada e a bíblia da erva com a receita do melhor broto.</info>
+ 
+<genre>Comédia, Cinema TV</genre>
+ 
+<date>16/04/2019</date>
+</item>"
