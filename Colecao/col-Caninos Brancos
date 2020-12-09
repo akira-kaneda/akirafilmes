@@ -1,0 +1,38 @@
+"<item>
+
+<title>Caninos Brancos [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNSBRNCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1420.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1420.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Família
+Lançamento: 1991
+
+Primorosa adaptação de Jack London, uma obra literária imortal. O órfão Jack Conroy (Ethan Hawke – Sociedade dos Poetas Mortos) vai para o Alasca em busca de uma mina de ouro deixada pelo pai. Nas terras geladas, trava uma amizade inusitada com um lobo a quem resolve batizar de Caninos Brancos. Eles crecem e amadurecem juntos e a vida faz de Jack um homem de coragem. Com uma fotografia belíssima, a fria paisagem nevada e seus animais solitários são apresentados num clima deslumbrante e inesquecível de rara emoção.</info>
+ 
+<genre>Ação, Aventura, Drama, Família</genre>
+ 
+<date>18/01/1991</date>
+</item>"
+"<item>
+
+<title>Caninos Brancos 2 A Lenda do Lobo Branco [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNSBRNCS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1422.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1422.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Família
+Lançamento: 1994
+
+Uma antiga profecia indígena conduz Caninos Brancos e seu dono, Henry Casey para a missão de salvar uma pacífica tribo. Mas quando Henry e sua companheira, uma bonita garota índia, são envolvidos nas garras do perigo, cabe a Caninos Brancos salvá-los e assim, cumprir a lenda. Um filme com a tradição Disney, que fala de uma antiga lenda numa terra de mistérios, com imagens fantásticas. Feito para todos aqueles que sentem falta de uma aventura selvagem.</info>
+ 
+<genre>Ação, Aventura, Drama, Família</genre>
+ 
+<date>15/04/1994</date>
+</item>"
