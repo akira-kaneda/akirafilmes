@@ -1,0 +1,76 @@
+"<item>
+
+<title>A Casa do Espanto [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACSDESPNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/178.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/178.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1986
+
+Roger Cobb (William Katt), é um veterano da guerra do Vietnã cuja carreira como escritor de histórias de horror, sofre uma reviravolta, quando misteriosamente seu filho Jimmy desaparece ao visitar a casa de sua tia. A obcecada procura por seu filho destruiu toda sua carreira como escritor e até mesmo seu casamento, mas agora, com a súbita morte de sua tia, ele retorna a casa onde seu pior pesadelo tem início. Os demoníacos seres que habitam a assustadora casa o forçam a enfrentar uma angustiante jornada ao passado, na qual ele reencontrará seu filho. Roger precisa combater as forças do mal que o assombraram por toda vida, a fim de salvar a ele e a seu filho da morte certa.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>28/02/1986</date>
+</item>"
+"<item>
+
+<title>A Casa do Espanto 2 [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACSDESPNT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/179.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/179.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1987
+
+Jesse (Arye Gross), o tataraneto do explorador que constuiu a casa, recebe a mansão como herança embora tenha sido nela que seus pais foram mortos quando ele ainda era um bebê. Acreditando que seu tataravô tenha enterrado o produto de seus roubos em algum lugar na casa, com a ajuda de Kate (Lar Par Lincoln) sua namorada e seu amigos Charlie (Jonathan Stark), Jesse inicia sua busca. Mas, ao invés de encontrar um tesouro, ele desenterra seu tataravô (Royal Dano ) e descobre que o velho fora-da-lei usou os poderes de uma caveira de cristal asteca que proporciona a imortalidade a quem a possui. Mas, logo surgem mortos-vivos e zumbis que estão tão determinados a colocar as mãos na poderosa caveira quanto o valeho cadáver em mantê-la consigo... Tem início um arrepiante duelo entre dois feiticeiros, uma série de eventos assustadoramente bizarros.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>28/08/1987</date>
+</item>"
+"<item>
+
+<title>A Casa do Espanto 3 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACSDESPNT3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/180.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/180.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1989
+
+Finalmente, o detetive Lucas McCarthy (Lance Henriksen) consegue prender Max Jenke (Brion James), um assassino diabólico. Ele é executado na cadeira elétrica, porém isso só o transporta para um outro nível de realidade e o assassino jura vingança contra o detetive. E, após a sua morte, ele retorna para infernizar a vida de seu algoz. Agora, a família de Lucas está sendo atacada, ele está à beira da loucura e sua casa assombrada. Será que com a ajuda de um mal-afamado professor, ele conseguirá mandar Max de uma vez por todas para o inferno?</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>28/04/1989</date>
+</item>"
+"<item>
+
+<title>A Casa do Espanto 4 [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACSDESPNT4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/181.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/181.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1992
+
+Após seu marido ter sido morto em um acidente de carro e sua filha paralisada, Kelly Cobb deve precaver-se não apenas contra seu misterioso cunhado, mas também contra os maus espíritos que assombram sua casa.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>21/01/1992</date>
+</item>"
