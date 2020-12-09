@@ -1,0 +1,38 @@
+"<item>
+
+<title>Black Mirror: Bandersnatch - Todos Finais [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BLCKMIRBDNRSNTCH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1272.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1272.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Mistério, Drama, Thriller, Cinema TV
+Lançamento: 2018
+
+Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programador começa a questionar o próprio conceito de realidade e acaba enfrentando um desafio alucinante.</info>
+ 
+<genre>Ficção científica, Mistério, Drama, Thriller, Cinema TV</genre>
+ 
+<date>28/12/2018</date>
+</item>"
+"<item>
+
+<title>Black Mirror: Bandersnatch [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BLCKMIRBDNRSNTCHOF.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1273.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1273.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Mistério, Drama, Thriller, Cinema TV
+Lançamento: 2018
+
+Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programador começa a questionar o próprio conceito de realidade e acaba enfrentando um desafio alucinante.</info>
+ 
+<genre>Ficção científica, Mistério, Drama, Thriller, Cinema TV</genre>
+ 
+<date>28/12/2018</date>
+</item>"
