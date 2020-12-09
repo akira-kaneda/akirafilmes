@@ -1,0 +1,57 @@
+"<item>
+
+<title>Alice no País das Maravilhas [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALCNPASDSMARLVHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/756.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/756.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia, Aventura
+Lançamento: 1951
+
+Alice é uma garota curiosa e cansada da monotonia de sua vida. Um dia, ao seguir o apressado e misterioso Coelho Branco até uma toca, ela acaba entrando no País das Maravilhas. Lá, ela conhece diversos seres incríveis, como o peculiar Chapeleiro Maluco, o misterioso Mestre Gato, a Lagarta e a tirana Rainha de Copas.</info>
+ 
+<genre>Animação, Família, Fantasia, Aventura</genre>
+ 
+<date>14/09/1951</date>
+</item>"
+"<item>
+
+<title>Alice no País das Maravilhas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ALCNPSDSMRVLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/757.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/757.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Aventura
+Lançamento: 2010
+
+A Alice de 19 anos de idade, que regressa ao excêntrico mundo que encontrou pela primeira vez quando era criança reunindo-se assim com os seus amigos de infância: o Coelho Branco, Tweedledee e Tweedledum, a Ratazana, a Lagarta, o Gato Cheshire, e claro, o Chapeleiro Louco. Alice embarca numa fantástica viagem para encontrar o seu verdadeiro destino e acabar com o reino de terror da Rainha Vermelha.</info>
+ 
+<genre>Família, Fantasia, Aventura</genre>
+ 
+<date>23/04/2010</date>
+</item>"
+"<item>
+
+<title>Alice Através do Espelho [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ALCATRVSDESLHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/755.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/755.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia
+Lançamento: 2016
+
+Alice retorna após uma longa viagem pelo mundo, e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.</info>
+ 
+<genre>Aventura, Família, Fantasia</genre>
+ 
+<date>26/05/2016</date>
+</item>"
