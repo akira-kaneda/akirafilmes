@@ -1,0 +1,76 @@
+"<item>
+
+<title>A Família Addams [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AFMLADMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/273.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/273.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia
+Lançamento: 1991
+
+Quando um homem dizendo ser Funério, o irmão desaparecido de Gomez Addams, chega à casa dos Addams, a família está feliz. No entanto, Morticia começa a suspeitar que Funério é uma fraude, já que ele não consegue se lembrar de detalhes da sua vida. Com a ajuda do advogado Tully Alford, Funério consegue fazer com que o clã Addams seja despejado de sua casa. Gomez percebe que os dois homens estão conspirando para roubar a fortuna de sua família.</info>
+ 
+<genre>Comédia, Fantasia</genre>
+ 
+<date>22/11/1991</date>
+</item>"
+"<item>
+
+<title>A Família Addams 2 [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AFMLADMS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/275.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/275.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia
+Lançamento: 1993
+
+Com a chegada do novo bebê do casal Addams, Pubert, que é meigo e bigodudo, Gomez e Morticia ficam bobos de contentamento e Fester se apaixona por Debbie Jilinsky, uma babá sensual que cuida da criança. Mas Vandinha e Pugsley descobrem que Fester corre o risco de ser usado por Debbie, uma aproveitadora, que pretende dar um golpe e tem idéias maquiavélicas sobre o futuro do tio. Paralelamente Pubert é rejeitado intensamente pelos irmãos, com o futuro da família correndo um sério risco quando Debbie se casa com Fester e manda as crianças para um acampamento de verão.</info>
+ 
+<genre>Comédia, Família, Fantasia</genre>
+ 
+<date>19/11/1993</date>
+</item>"
+"<item>
+
+<title>O Retorno da Família Addams [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ORTRNDAFMLADMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4372.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4372.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia, Thriller, Cinema TV
+Lançamento: 1998
+
+Gomez e Morticia preparam tudo para as férias, quando são surpreendidos por outro convite: uma reunião familiar. Só que ao chegar, eles descobrem que a reunião não é da família A-D-D-A-M-S, e sim da família A-D-A-M-S, completamente diferente da sua.</info>
+ 
+<genre>Comédia, Família, Fantasia, Thriller, Cinema TV</genre>
+ 
+<date>22/09/1998</date>
+</item>"
+"<item>
+
+<title>A Família Addams [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AFMLADMSDSNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/274.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/274.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia
+Lançamento: 2019
+
+Para ir de mal a pior, a Família Addams precisa se preparar para receber uma visita de parentes ainda mais arrepiantes. Mas a misteriosa mansão deles parece estar com os dias de maldade contados. Prepare-se para estalar os dedos! O clã assustador mais querido dos cinemas está de volta nessa animação baseada nos quadrinhos de Charles Addams.</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia</genre>
+ 
+<date>31/10/2019</date>
+</item>"
