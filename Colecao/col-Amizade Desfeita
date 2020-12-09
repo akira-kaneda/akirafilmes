@@ -1,0 +1,38 @@
+"<item>
+
+<title>Amizade Desfeita [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AMZDSFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/832.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/832.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2015
+
+Quando um vídeo constrangedor de Laura Barns (Heather Sossaman) cai na internet, a menina tira a própria vida no pátio da escola. Um ano depois, um grupo de seis amigos (Courtney Halverson, Shelley Hennig, Renee Olstead, William Peltz, Moses Jacob Storm e Jacob Wysocki) conversam via Skype e percebem que há uma sétima pessoa desconhecida na vídeoconferência, que revela ser sua ex-colega de classe, Laura, exigindo saber quem postou o vídeo que a levou à morte. Eles pensam que é uma brincadeira mas logo descobrem que há algo estranho, já que a menina começa a revelar segredos dos amigos e os ameaça de morte.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>28/05/2015</date>
+</item>"
+"<item>
+
+<title>Amizade Desfeita 2 - Dark Web [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AMZDSFTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/833.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/833.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2018
+
+Um jovem de 20 anos encontra arquivos ocultos no armazenamento de memória do seu novo laptop e sem perceber ele se vê preso na tela do computador e dentro da parte mais profunda e obscura da web.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>20/07/2018</date>
+</item>"
