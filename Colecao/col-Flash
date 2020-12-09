@@ -1,0 +1,38 @@
+"<item>
+
+<title>The Flash [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/THEFLSHOFLME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5884.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5884.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Cinema TV, Ficção científica
+Lançamento: 1990
+
+Barry Allen, crime lab detective, is transformed into the Flash, the fastest man alive, and takes on the Dark Riders, a motorcycle gang terrorizing Central City.</info>
+ 
+<genre>Ação, Crime, Cinema TV, Ficção científica</genre>
+ 
+<date>04/11/1990</date>
+</item>"
+"<item>
+
+<title>LEGO Super Heróis DC: O Flash [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LEGDCCMSSPRHRTHFLSH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3049.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3049.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família, Ficção científica, Baseado em Quadrinho
+Lançamento: 2018
+
+Na trama, o Flash Reverso usa a força de aceleração para voltar no tempo e afetar a vida do Flash. Batman, Superman, Mulher-Maravilha, Ciborgue, Zatanna e Senhor Destino são alguns dos personagens do filme.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>13/02/2018</date>
+</item>"
