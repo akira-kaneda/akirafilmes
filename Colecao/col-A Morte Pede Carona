@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Morte Pede Carona 2 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMRTPDCRNA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/7/items/457_20200905/460.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/460.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2003
+
+Apesar de terem se passado vários anos, Jim Halsey (C. Thomas Howell), um policial, ainda é atormentado por terríveis lembranças. Ao resgatar uma criança seqüestrada ele acaba usando, em razão das suas fobias, ""força excessiva"" e mata desnecessariamente o seqüestrador. Isto faz com que seja desligado da polícia. Após conversar por telefone com o capitão Esteridge (Stephen Hair), que o ajudou no passado, Jim resolve se encontrar com ele no Condado de Pecos, oeste do Texas, onde Jim passou por experiências traumatizantes. Esteridge acha que só enfrentando seus temores Jim irá superá-los. Acompanhado por Maggie (Kari Wuhrer), sua namorada, ele ruma para lá. Logo os dois descobrem que estão viajando na mesma desolada estrada onde tudo começou. Tudo vai se repetir, pois Maggie não sabe de todos os fatos e assim praticamente obriga Jim a dar uma carona para um psicopata assassino, que encara matar pessoas como um jogo que nunca deve acabar</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>15/07/2003</date>
+</item>"
+"<item>
+
+<title>A Morte Pede Carona [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMRTPDCRNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/7/items/457_20200905/459.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/459.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Crime, Thriller
+Lançamento: 2007
+
+Grace Andrews (Sophia Bush) e Jim Halsey (Zachary Knighton) estão viajando a bordo de um carro antigo, dispostos a aproveitar o feriado de primavera. Até que encontram John Ryder (Sean Bean), que está pedindo carona à beira da estrada. O 1º contato de Ryder com Grace e Jim não é dos melhores, mas eles conseguem se defender de seu ataque. Entretanto a partir de então Ryder passa a persegui-los, fazendo da estrada seu campo de batalha</info>
+ 
+<genre>Ação, Terror, Crime, Thriller</genre>
+ 
+<date>19/01/2007</date>
+</item>"
