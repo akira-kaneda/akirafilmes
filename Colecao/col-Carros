@@ -1,0 +1,78 @@
+"<item>
+
+<title>Carros [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CARROS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1457.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1457.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família
+Lançamento: 2006
+
+Ao viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família</genre>
+ 
+<date>30/06/2006</date>
+</item>"
+"<item>
+
+<title>Carros - As Grandes Histórias do Mate [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRSTONAGHDM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1461.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1461.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2008
+
+Turbine seus motores para esta coleção de CARS TOON estrelado por Mate, o adorável e hilário guincho de Carros. Das mentes criativas da Disney Pixar chegam nove histórias superdivertidas envolvendo touradas, corridas, shows de rock, apresentações de caminhões-monstro e até OVNIs – e ainda veja os novos curtas Mate, O Detetive e Mate Lunático.
+
+Não temos uma lista da equipe técnica deste(a) movie. Você pode ajudar!</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>01/11/2008</date>
+</item>"
+"<item>
+
+<title>Carros 2 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CARROS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1458.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1458.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Comédia
+Lançamento: 2011
+
+O astro das corridas, Relâmpago McQueen, e o carro-guincho, Mate, viajam para disputar o primeiro Grand Prix Mundial, que irá revelar o carro mais veloz do planeta. Nessa jornada imperdível, Mate se envolve com um grupo de espionagem e vive grandes aventuras com seus amigos.</info>
+ 
+<genre>Animação, Família, Aventura, Comédia</genre>
+ 
+<date>16/06/2011</date>
+</item>"
+"<item>
+
+<title>Carros 3 [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1459.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1459.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2017
+
+Durante mais uma disputa eletrizante nas pistas, o campeão Relâmpago McQueen acelerou demais e acabou perdendo o controle. Agora, após ter capotando várias vezes e quase ter partido dessa para melhor, o vermelhinho vai ter sua vida alterada para sempre. O acidente foi tão grave que, com os estragos, McQueen pode ter que se aposentar de vez.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>13/07/2017</date>
+</item>"
