@@ -1,0 +1,57 @@
+"<item>
+
+<title>Do Fundo do Mar [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DOFNDMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1954.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1954.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 1999
+
+A Dra. Susan McAlester (Saffron Burrows) está fazendo pesquisa com tubarões, pois pretende através deles descobrir a cura para o Mal de Alzheimer. Russell Franklin (Samuel L. Jackson), um empresário, é o principal patrocinador e doou 200 milhões de dólares para o projeto. Quando um tubarão escapa e ataca um barco, a reação de Russell não é boa, mas Susan consegue reverter a situação e ele decide visitar Aquática, uma antiga base de submarinos no meio do oceano agora convertida em laboratório. Neste local Susan faz alterações genéticas nos tubarões, deixando-os mais inteligentes, para que sua experiência seja bem sucedida. O problema é que os animais se tornam também mais rápidos e não sentem vontade de colaborar, pois anseiam ir para mar aberto.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>12/11/1999</date>
+</item>"
+"<item>
+
+<title>Do Fundo do Mar 2 [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DOFNDMR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1955.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1955.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2018
+
+Preservadora de tubarões, a Dr. Misty Calhoun (Danielle Savre) é convidada para ser consultora num projeto ultra-secreto do bilionário farmacêutico Carl Durant (Michael Beach). Ela acredita que o projeto, situado numa base subaquática, foca na extração de anticorpos dos tubarões para ajudar na cura de doenças humanas. Contudo, Misty fica espantada ao descobrir que a companhia está usando os imprevisíveis tubarões-cabeça-chata como teste e que Durant está usando bio-genética neles para gerar tubarões altamente inteligentes e rápidos, além de altamente agressivos.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>17/04/2018</date>
+</item>"
+"<item>
+
+<title>Do Fundo do Mar 3 [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOFNDMR3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1956.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1956.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2020
+
+A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>28/07/2020</date>
+</item>"
