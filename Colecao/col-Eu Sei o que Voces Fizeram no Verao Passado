@@ -1,0 +1,57 @@
+"<item>
+
+<title>Eu Sei o que Vocês Fizeram no Verão Passado [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EUSEIOQFZRMNVRAOPSDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2282.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2282.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 1998
+
+Um ano após atropelar um pescador e jogar o seu corpo na água, quatro amigos se reúnem quando Julie recebe uma carta assustadora dizendo-lhe que seu crime foi visto. Ao perseguir quem ele pensa ser responsável pela carta, Barry é atropelado por um homem com um gancho de carne. O derramamento de sangue a partir daí só aumenta, pois o assassino com o gancho continua a perseguir Julie, Helen e Ray.</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>27/03/1998</date>
+</item>"
+"<item>
+
+<title>Eu Ainda Sei o que Vocês Fizeram no Verão Passado [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EUAINDSEIOQFZRMNVRAOPSDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2276.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2276.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 1999
+
+Dois anos depois do acidente, Julie é convidada para ir às Bahamas com sua amiga Karla, o namorado dela e um amigo. Mas Ray descobre que o assassino com capa de pescador está vivo, e precisa alertar Julie antes que ele chegue à ilha para se vingar.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>05/03/1999</date>
+</item>"
+"<item>
+
+<title>Eu Sempre Vou Saber o que Vocês Fizeram no Verão Passado [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EUSMPRVOSBROQFZRMNVRAOPSDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2283.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2283.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2006
+
+Um grupo de adolescentes de uma pequena cidade do Colorado está sendo perseguido por uma figura misteriosa. Um por um é morto, exatamente um ano depois de terem jurado não contar para ninguém sobre a morte acidental de um amigo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>22/08/2006</date>
+</item>"
