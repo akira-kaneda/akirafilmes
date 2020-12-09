@@ -1,0 +1,40 @@
+"<item>
+
+<title>48 Horas [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/48HRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/92.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/92.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Comédia, Crime, Drama
+Lançamento: 1983
+
+Nick Nolte e Eddie Murphy formam uma das mais incomuns e interessantes duplas de todos os tempos, neste empolgante filme de Walter Hill. Nolte é um tira enfurecido, que está cumprindo pena pelo roubo de meio milhão de dólares. Essa improvável parceria consegue tantas gargalhadas quanto pancadaria, à medida que cada qual busca atingir seu objetivo: Nolte quer os bandidos e Murphy quer recuperar o dinheiro roubado e também quebrar o jejum de companhia feminina. Preste atenção à hilariante cena do bar típico de faroeste - você vai querer repetir mais de uma vez.
+</info>
+ 
+<genre>Thriller, Ação, Comédia, Crime, Drama</genre>
+ 
+<date>17/02/1983</date>
+</item>"
+"<item>
+
+<title>48 Horas - Parte 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/48HRSPT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/93.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/93.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Comédia, Crime, Drama
+Lançamento: 1990
+
+Nos últimos quatro anos, o policial de São Francisco, Jack Cates, foi atrás de um chefão das drogas não identificado que se autodenomina ""Iceman"". Jack encontra uma foto que prova que Iceman colocou um preço na cabeça de Reggie Hammond, que deve ser libertado da prisão no dia seguinte.
+</info>
+ 
+<genre>Thriller, Ação, Comédia, Crime, Drama</genre>
+ 
+<date>08/06/1990</date>
+</item>"
