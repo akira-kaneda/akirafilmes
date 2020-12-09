@@ -17,3 +17,22 @@ Quando o Boogey Man faz com que Grim perca seus poderes, posição e título na 
  
 <date>03/04/2007</date>
 </item>"
+"<item>
+
+<title>As Terríveis Aventuras De Billy e Mandy - Filme: A Ira da Aranha-Rainha [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/ATADBMFAIDAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1050.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1050.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Animação, Cinema TV
+Lançamento: 2007
+
+A Rainha Aranha quer se vingar de Grim por negar a ela o lugar de direito como Estripador.</info>
+ 
+<genre>Aventura, Comédia, Animação, Cinema TV</genre>
+ 
+<date>06/07/2007</date>
+</item>"
