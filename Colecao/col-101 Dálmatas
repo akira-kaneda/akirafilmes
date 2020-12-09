@@ -1,0 +1,78 @@
+"<item>
+
+<title>101 Dálmatas [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/40.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/40.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 1961
+
+Conta a história de uma família de cachorrinhos da raça dálmata que é raptada por uma terrível mulher chamada Cruella De Vil, que quer transformar os cãezinhos em um casaco de peles. Fascinada por peles, essa mulher tem um sonho e para realiza-lo ela depende de uma ""amiga"" sua, Anita, que tem uma quinzena de filhotes dálmatas.
+</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>03/03/1961</date>
+</item>"
+"<item>
+
+<title>101 Dálmatas [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTSFILME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4564.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1996
+
+A designer de moda Anita e o programador de jogos para computador Roger se encontram, se apaixonam e se casam junto com seus dálmatas Perdita e Pongo. Mas os filhotinhos dos orgulhosos Perdita e Pongo são sequestrados pela chefe de Anita, a Cruella De Vil, que está roubando filhotes de dálmatas para fazer o casaco de peles que ela definiu como seu preferido. Com a ajuda do reino animal britânico, Pongo e Perdita partem para encontrar e resgatar seus filhotes de seus temíveis sequestradores, Jasper e Horácio. Acabam encontrando alguns mais.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>14/12/1996</date>
+</item>"
+"<item>
+
+<title>102 Dálmatas [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/102DMLTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4565.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4565.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2000
+
+Após uma terapia por hipnose e acreditando estar curada, Cruella de Vil é libertada da prisão e se propõe a começar uma nova vida. As coisas estão indo bem para Cruella que está ocupada ajudando cães desabrigados da rua. Porem, quando o relógio Big Ben bate as horas, as coisas ficam ruins. A cura hipnótica é revertida e Cruella está de volta. E desta vez ela está determinada a fazer seu casaco com pele malhada que ela sempre quis.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>01/12/2000</date>
+</item>"
+"<item>
+
+<title>101 Dálmatas 2 - A Aventura de Patch em Londres [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/39.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/39.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Comédia, Animação
+Lançamento: 2008
+
+Antes de se mudar para a nova casa, numa fazenda, Patch, um dos filhotes de dálmatas, foge para Londres. A terrível Cruela DeVil quer pegar novamente os cãezinhos, para transformá-los em casaco de peles.
+</info>
+ 
+<genre>Família, Aventura, Comédia, Animação</genre>
+ 
+<date>20/11/2008</date>
+</item>"
