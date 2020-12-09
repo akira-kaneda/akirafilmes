@@ -1,0 +1,76 @@
+"<item>
+
+<title>Fascinação Mortal [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FSCNCMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2330.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2330.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2015
+
+Quando uma adolescente é milagrosamente salva por um cirurgião cardíaco, o médico começa a flertar com ela. Seu pai não acredita nela e sem o conhecimento de todos, o médico está obcecado pela menina.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>26/12/2015</date>
+</item>"
+"<item>
+
+<title>Fascinação mortal 2 [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FSCNCMRTL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2331.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2331.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2016
+
+O Dr. Beck, que mudou de nome, salva uma jovem adolescente que se afoga no México, por quem se apaixona. Como sempre, há algumas complicações em seu caminho, mas ele tem planos de possivelmente superá-las e conseguir a garota dos seus sonhos.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>05/09/2016</date>
+</item>"
+"<item>
+
+<title>Fascinação Mortal: A Vingança [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/FSCNCMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2333.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2333.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2018
+
+Depois de ter sido considerado inocente das acusações de tentativa de assassinato de uma ex-paciente, o Dr. Albert Beck (Eric Roberts) recomeça sua vida como professor em uma pequena universidade de medicina. Lá, ele se envolve romanticamente em uma relação proibida com uma aluna, mas as coisas começam a se complicar quando um fantasma de seu passado volta para aterrorizá-lo.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>10/06/2018</date>
+</item>"
+"<item>
+
+<title>Fascinação Mortal 4 [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FSCNCMRTL4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2332.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2332.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2019
+
+O louco dr. Beck (Eric Roberts) rouba a identidade de outro médico e passa a atuar em um hospital de Nova York. Sua primeira paciente, a bela Michelle, sofre de uma condição única: ela assume uma personalidade sensual durante o sonambulismo. Logo Beck torna-se obcecado pela mulher, usando a condição a seu favor.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>13/07/2019</date>
+</item>"
