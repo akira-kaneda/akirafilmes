@@ -1,0 +1,133 @@
+"<item>
+
+<title>A Princesa Encantada [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRNCSAENCTDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/543.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Fantasia, Família, Aventura, Comédia
+Lançamento: 1994
+
+A princesa Odette e o príncipe Derek se conhecem desde criança e passam todos os verões juntos, com o intuito de que possam se apaixonar e casar quando crescidos, para que os dois reinos se juntem pela união. Porém, com o tempo os dois se afastam e o sonho dos pais parece cada vez mais distante. Até que em um verão, Derek e Odette se reaproximam, nutrindo uma paixão que os dois até então desconheciam. Na volta para casa, o rei e a princesa são surpreendidos no caminho e Odette é raptada pelo malvado feiticeiro Rothbart, que a transforma em um cisne. Agora, só o verdadeiro amor será capaz de quebrar tal encanto.</info>
+ 
+<genre>Animação, Fantasia, Família, Aventura, Comédia</genre>
+ 
+<date>18/11/1994</date>
+</item>"
+"<item>
+
+<title>A Princesa Encantada 2: O Segredo do Castelo [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRNCSAENCTDA2EOSGRDOCSTLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/544.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/544.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Romance, Família
+Lançamento: 1997
+
+Após um ano de casamento, Derek e Odette estão se afastando. Enquanto a princessa se preocupa com o aniversário de casamento, Derek dá atenção às suas atividades de caça. Um dia ocorre um incêndio nos campos do Reino e Derek sai para saber o que está acontecendo. Ao mesmo tempo, sua mãe, a Rainha Uberta, é sequestrada como uma armadilha para o príncipe, que só poderá ser salvo com a ajuda de Odette em abrir mão de sua forma humana e se transformar em cisne.</info>
+ 
+<genre>Fantasia, Animação, Romance, Família</genre>
+ 
+<date>18/07/1997</date>
+</item>"
+"<item>
+
+<title>A Princesa Encantada 3: O Mistério do Tesouro Encantado [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRNCSAENCTDA3OMSTRODTSROENCTDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/545.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/545.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Família, Mistério
+Lançamento: 1998
+
+O reino da princesa Odete e seu grande amor, Derek, está ameaçado pela bruxa Zelda, que elaborou um diabólico plano para pôr as mãos nas anotações que lhe darão o mais terrível poder: a força para destruir o reino.</info>
+ 
+<genre>Fantasia, Animação, Família, Mistério</genre>
+ 
+<date>04/08/1998</date>
+</item>"
+"<item>
+
+<title>A Princesa Encantada: A Fábula da Família Real [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRNCSAENCTDAFBLADFMLREAL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/16/items/487_20200908/546.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/546.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia
+Lançamento: 2014
+
+Pouco depois de a Família Real adotar uma jovem chamada Alise, ela é levada para a floresta. Princesa Odette, Derek e seus amigos da floresta devem trabalhar juntos para encontrar uma maneira de trazê-la para casa no castelo.</info>
+ 
+<genre>Animação, Família, Fantasia</genre>
+ 
+<date>25/02/2014</date>
+</item>"
+"<item>
+
+<title>Princesa Encantada – Um Mistério Real [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNCSENCTDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/549.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/549.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura, Comédia
+Lançamento: 2018
+
+A marca da letra Z misteriosamente aparece nos residentes do palácio, a Princesa Odette, Scully e seus amigos trabalham juntos na investigação.</info>
+ 
+<genre>Família, Animação, Aventura, Comédia</genre>
+ 
+<date>27/03/2018</date>
+</item>"
+"<item>
+
+<title>A Princesa Encantada - O Reino da Música [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/APRNCSENCTDAORNDMSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/548.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/548.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia, Música
+Lançamento: 2019
+
+A princesa Odette (Nina Herzog) está apresentando uma competição de música em comemoração ao aniversário da princesa Alise, e o vencedor irá cantar para ela em seu baile. Enquanto isso, a princesa Mei Li procura Odette e Derek (Yuri Lowenthal) para ajudar Chen, que foi amaldiçoado a viver na forma de um dragão para sempre.</info>
+ 
+<genre>Animação, Família, Fantasia, Música</genre>
+ 
+<date>06/08/2019</date>
+</item>"
+"<item>
+
+<title>A Princesa Encantada: O Casamento Real [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/APRNCSAENCTDAOCSMNTREAL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/547.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/547.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia
+Lançamento: 2020
+
+A princesa Odette e o príncipe Derek vão a um casamento na princesa Mei Li e seu amado Chen. Mas as forças do mal estão em jogo e os planos do casamento estão manchados e o amor verdadeiro tem condições difíceis.</info>
+ 
+<genre>Animação, Família, Fantasia</genre>
+ 
+<date>20/07/2020</date>
+</item>"
