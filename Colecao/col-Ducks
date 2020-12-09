@@ -1,0 +1,38 @@
+"<item>
+
+<title>D2: Nós Somos os Campeões 2 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/D2NSMSCMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1776.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1776.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Drama, Família
+Lançamento: 1994
+
+O jogador Gordon Bombay (Emilio Estevez) lesiona o joelho e é obrigado a sair da liga de hóquei. Ele assume a função de treinador durante um campeonato na Califórnia. Ele se estabelece e tudo parece ir bem. Mas Bombay acaba se distraindo quando a esquipe favorita ao título entra em cena.</info>
+ 
+<genre>Ação, Comédia, Drama, Família</genre>
+ 
+<date>01/05/1994</date>
+</item>"
+"<item>
+
+<title>Nós Somos os Campeões 3 [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/D3NSMSCMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1777.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1777.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Drama, Família
+Lançamento: 1996
+
+Os jogadores do ""Ducks"", um time de hoquéi, cuja fama e sucesso só cresce, tem que entrar em uma nova escola preparatória, a Eden Hall Academy. Mas eles não serão bem recebidos pelos esnobes veteranos do colégio. Além disso, o técnico Gordon Bombay (Emilio Estevez) tem uma revelação bombástica a fazer, algo que pode acabar com o grupo de vez.</info>
+ 
+<genre>Ação, Comédia, Drama, Família</genre>
+ 
+<date>04/10/1996</date>
+</item>"
