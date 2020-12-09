@@ -1,0 +1,76 @@
+"<item>
+
+<title>Diário de um Banana [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DRIODUBNA1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1926.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1926.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2010
+
+Greg Heffley está destinado a viver grandes coisas, mas primeiro ele precisa sobreviver à experiência mais assustadora e humilhante da vida de qualquer garoto - o ginásio. E isso não vai ser fácil, pois ele está cercado por garotos peludos sardentos, grandalhões intimidadores e uma fatia de queijo com piolhos nucleares.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>19/03/2010</date>
+</item>"
+"<item>
+
+<title>Diário de um Banana 2: Rodrick é o Cara [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DRIODUBNA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1927.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1927.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Comédia
+Lançamento: 2011
+
+Greg Heffley (Zachary Gordon) está de volta, agora cursando a sétima série do ensino fundamental. Além dos valentões da escola, desta vez Greg terá de enfrentar o irmão mais velho, Rodrick (Devon Bostick), que descobre um segredo do caçula da família por meio do diário. Como Greg não quer que a descoberta seja espalhada, Rodrick aproveita que está no controle da situação para atormentar o irmão mais novo.</info>
+ 
+<genre>Família, Comédia</genre>
+ 
+<date>25/03/2011</date>
+</item>"
+"<item>
+
+<title>Diário de um Banana 3: Dias de Cão [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DRIODUBNA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1929.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1929.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2012
+
+Greg Heffley (Zachary Gordon), mesmo em férias, consegue aprontar muita confusão com suas ideias mirabolantes. Tudo por que seu pai decidiu que esta é uma boa hora para passar aqueles momentos de pai e filho. Para que nada estrague seus planos, Greg finge que trabalha em um luxuoso clube de campo, mas nem tudo sai como ele imaginou.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>14/12/2012</date>
+</item>"
+"<item>
+
+<title>Diário de um Banana: Caindo na Estrada [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DRIODUBNA4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1928.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1928.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2017
+
+Greg convence sua família a embarcar numa viagem para ir ao aniversário de 90 anos de sua avó. Mas, na verdade, o que ele realmente quer é assistir a uma convenção de gamers. Sem surpresas, as coisas não vão de acordo com o planejado e as palhaçadas da família Heffley começam a acontecer.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>10/08/2017</date>
+</item>"
