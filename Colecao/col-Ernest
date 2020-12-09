@@ -1,0 +1,57 @@
+"<item>
+
+<title>Ernest - O Bobo e A Fera [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ERNSTOBOBEAFRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3723.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3723.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia
+Lançamento: 1991
+
+Ernest solta um demônio acidentalmente e agora tem que salvar a cidade.</info>
+ 
+<genre>Comédia, Família, Fantasia</genre>
+ 
+<date>11/10/1991</date>
+</item>"
+"<item>
+
+<title>Ernest e as Jóias da Coroa [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENRSTEASJOSDCROA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2224.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2224.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1993
+
+Ernest e seu amigo Abner descobrem um canhão que contém as jóias da coroa da Inglaterra.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>01/01/1993</date>
+</item>"
+"<item>
+
+<title>Ernest Vai Para A Escola [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENRSTVAIPRESCLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2226.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2226.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família
+Lançamento: 1994
+
+Ernest retorna como um motorista de ônibus escolar que quer tirar seu diploma.</info>
+ 
+<genre>Comédia, Drama, Família</genre>
+ 
+<date>14/12/1994</date>
+</item>"
