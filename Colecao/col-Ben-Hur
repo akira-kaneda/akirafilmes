@@ -1,0 +1,38 @@
+"<item>
+
+<title>Ben-Hur [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BENHUR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1249.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1249.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, História, Drama
+Lançamento: 1960
+
+Em Jerusalém no início do século I vive Judah Ben-Hur (Charlton Heston), um rico mercador judeu. Mas, com o retorno de Messala (Stephen Boyd), um amigo da juventude que agora é o chefe das legiões romanas na cidade, um desentendimento devido a visões políticas divergentes faz com que Messala condene Ben-Hur a viver como escravo em uma galera romana, mesmo sabendo da inocência do ex-amigo. Mas o destino vai dar a Ben-Hur uma oportunidade de vingança que ninguém poderia imaginar.</info>
+ 
+<genre>Aventura, História, Drama</genre>
+ 
+<date>29/01/1960</date>
+</item>"
+"<item>
+
+<title>Ben-Hur [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BENHUR2016.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1250.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1250.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama
+Lançamento: 2016
+
+A história épica de Judah Ben-Hur (Jack Huston), um príncipe falsamente acusado de traição por seu irmão adotivo Messala (Toby Kebbell), um oficial do exército romano. Destituído de seu título, afastado de sua família e da mulher amada (Nazanin Boniadi), Judah é forçado à escravidão. Depois de muitos anos no mar, Judah retorna à sua pátria em busca de vingança, mas encontra a redenção.</info>
+ 
+<genre>Ação, Aventura, Drama</genre>
+ 
+<date>18/08/2016</date>
+</item>"
