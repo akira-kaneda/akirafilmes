@@ -1,0 +1,114 @@
+"<item>
+
+<title>Queimando Tudo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/QUMANDTDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5142.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5142.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1978
+
+Cheech e Chong se conheceram e logo são presos e eventualmente deportados para o México. Para conseguirem regressar aos Estados Unidos, a dupla recebe inadvertidamente uma van feita de maconha, que ao longo do trajeto deixa todos os que seguem chapados e acabam parando em um festival de rock.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>01/01/1978</date>
+</item>"
+"<item>
+
+<title>Cheech e Chong Atacam Novamente [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CHECHECHNGATCMNVMTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1508.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 1980
+
+Cheech Marin e Tommy Chong formam uma dupla e embarcam numa viagem em busca de aventura por Los Angeles. Eles aprontam em casas de massagem, ameaçam milionários, encontram alienígenas, e vão parar na polícia.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>18/07/1980</date>
+</item>"
+"<item>
+
+<title>Cheech e Chong Em Pintou Sujeira [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CHECHECHNGPNTSJRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1510.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1510.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 1982
+
+Cheech e Chong são contratados para dirigir uma limusine de Chicago para Las Vegas por dois árabes sombrios - Sr. Slyman (Cheech) e Príncipe Habib (Chong). Sem o conhecimento deles, cinco milhões de dólares em dinheiro sujo foram escondidos por todo o carro.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>04/08/1982</date>
+</item>"
+"<item>
+
+<title>Cheech e Chong em Amsterdã [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CHECHECHNGEMAMSTNAINDOIDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1509.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1983
+
+Cheech e Chong são convidados para uma festa de celebridades em Amsterdã. Quando eles chegam lá, no entanto, verificam que o cara que os convidou fugiu com todo o dinheiro. Todos estão realmente esperando Burt Reynolds e Dolly Parton, então nossos heróis são o Sr. Burt e o Sr. Dolly.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>09/09/1983</date>
+</item>"
+"<item>
+
+<title>Sonhos Alucinantes de Cheech e Chong [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SNHSALCNTSDCHECHECHNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5615.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1983
+
+Cheech e Chong são convidados para uma festa de celebridades em Amsterdã. Quando eles chegam lá, no entanto, verificam que o cara que os convidou fugiu com todo o dinheiro. Todos estão realmente esperando Burt Reynolds e Dolly Parton, então nossos heróis são o Sr. Burt e o Sr. Dolly.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>09/09/1983</date>
+</item>"
+"<item>
+
+<title>Cheech e Chong - Os Irmãos Corsos [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CHECHECHNGOSIRMSCRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1511.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1511.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1984
+
+Irmãos gêmeos são separados no nascimento, mas permanecem ligados por uma grande força espiritual. Quando são pegos com o poodle cor-de-rosa de um aristocrata louco, conseguem escapar, mas provocam a Revolução Francesa.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>27/07/1984</date>
+</item>"
