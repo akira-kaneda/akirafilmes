@@ -1,0 +1,38 @@
+"<item>
+
+<title>Casamento Grego [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CSMNTDGRGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1473.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1473.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2002
+
+Toula Portokalos (Nia Vardalos) tem 30 anos, é grega e trabalha no restaurante de sua família. O sonho de seu pai é vê-la casada com um grego, mas ela espera algo mais da vida. Com muito custo Toula consegue convencer seu pai a lhe pagar aulas de informática, como forma de melhorar seu trabalho. No curso ela conhece e se apaixona por Ian Miller (John Corbett), sendo correspondida. Porém, Ian é inglês e por causa disso eles decidem manter seu namoro em segredo. Mas logo eles são descobertos, desencadeando um processo de aceitação para Ian, para que ele possa se adequar às tradições gregas.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>22/02/2002</date>
+</item>"
+"<item>
+
+<title>Casamento Grego 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CSMNTDGRGO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1474.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1474.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2016
+
+Toula (Nia Vardalos) e Ian (John Corbett) continuam juntos e passam bastante tempo tentando compreender a problemática filha adolescente. Quando o casal descobre que uma união de sua família nunca foi oficializada pela religião, todos os Portokalos se reúnem para mais um grande casamento grego.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>25/03/2016</date>
+</item>"
