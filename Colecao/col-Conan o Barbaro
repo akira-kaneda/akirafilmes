@@ -1,0 +1,57 @@
+"<item>
+
+<title>Conan, o Bárbaro [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNANOBABRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1637.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1637.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 1982
+
+Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. Os anos passam e ele desenvolve uma enorme força física, o que faz Conan se tornar gladiador. Ele ainda se mantém determinado a vingar a morte dos pais e quando é libertado tenta alcançar seu objetivo. Conan descobre que Thulsa Doom lidera o misterioso culto da serpente e, tentando se aproximar do feiticeiro, faz amizade com dois ladrões, Valeria e Subotai. Ao trio é prometida uma vultosa recompensa pelo rei Osric, que quer que o trio de guerreiros resgate sua filha, que se tornou uma seguidora de Thulsa Doom.</info>
+ 
+<genre>Aventura, Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>09/07/1982</date>
+</item>"
+"<item>
+
+<title>Conan, O Destruidor [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNANODSTRDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1639.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1639.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 1984
+
+Para que a rainha Taramis (Sarah Douglas) cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna (Olivia d'Abo). Mas o que ele desconhece é que Taramis ordenou que, após a missão cumprida, Conan seja morto e a virginal princesa retorne para então ser sacrificada ao deus demônio Dagoth.</info>
+ 
+<genre>Aventura, Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>26/10/1984</date>
+</item>"
+"<item>
+
+<title>Conan, o Bárbaro [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNANOBABRO2011.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1638.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1638.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 2011
+
+O maior e mais lendário bárbaro de todos os tempos está de volta. Prosperou e evoluiu para oito décadas consecutivas na imaginação do público - em quadrinhos, jogos, tela grande e pequena - explorar Conan na Era Hiboriana será como nunca, seu mundo ganhou vida em um filme 3D colossal, cheio de ação e aventura. A busca feroz do guerreiro cimério começa como uma vingança pessoal, mas logo se transforma em uma batalha épica contra seus rivais hukking, e situações impossíveis, Conan é única opção para salvar as grandes nações da Hyboria de uma invasão sobrenatural.</info>
+ 
+<genre>Aventura, Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>16/09/2011</date>
+</item>"
