@@ -1,0 +1,57 @@
+"<item>
+
+<title>Braddock - O Super Comando [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BRDCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1319.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1319.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1984
+
+O coronel das Forças Especiais, James Braddock, precisa trazer de volta soldados norte-americanos que ainda estão sendo mantidos como prisioneiros no Vietnã. Contando com a ajuda da funcionária do Departamento de Estado e de um ex-colega de Exército, Braddock, reúne informação altamente confidencial e armamento de última geração. Braddock, forma então, um exército de um homem só, disposto a invadir o Vietnã, para localizar e salvar seus companheiros restantes desaparecidos em combate.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>16/11/1984</date>
+</item>"
+"<item>
+
+<title>Braddock 2 - O Início da Missão [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/brdck2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1317.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1317.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 1985
+
+Em 1972, no Vietnã, o Coronel Braddock, e alguns de seus soldados são capturados e mantidos prisioneiros, sob intensa tortura, por um militar corrupto, traficante de drogas. Os anos se passam, Braddock, é dado como desaparecido pelo governo americano, e cria um plano para escapar com seus homens.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>01/03/1985</date>
+</item>"
+"<item>
+
+<title>Braddock 3 - O Resgate [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BRDCK3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1318.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1318.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 1988
+
+Saigon, 1975 O Coronel James Braddock deixou para trás mais do que recordações: seu filho. E está vivo ! Agora... 12 anos depois, não é só um soldado perseguindo o inimigo, é um pai procurando pelo filho. Até que descobre uma geração ignorada. Os órfãos de uma guerra esquecisa. Agora Braddock está numa heróica missão de clemência. Está lutando por todo mundo que não pode revidas. E que ninguém se ponha em seu caminho. Eu tiro do caminho! Fechando com chave de ouro a trilogia Braddock.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>22/01/1988</date>
+</item>"
