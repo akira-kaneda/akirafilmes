@@ -1,0 +1,57 @@
+"<item>
+
+<title>Cemitério Maldito [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMTRMLDT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3854.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3854.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1989
+
+Uma série de acontecimentos estranhos se inicia após a morte do gato da família Creed. Aos poucos eles percebem que um antigo cemitério, que fica nos fundos da casa, pode ter ligação com esses eventos.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>21/04/1989</date>
+</item>"
+"<item>
+
+<title>Cemitério Maldito II [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CMTRMLDT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1495.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1495.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1992
+
+Jeff Matthews (Edward Furlong) é filho de Renee Halow (Darlanne Fluegel), uma atriz de filme de terror que morreu acidentalmente durante uma filmagem, quando recebeu um enorme choque elétrico. Jeff se muda com Chase Matthews (Anthony Edwards), seu pai, um veterinário, para o campo e lá Jeff faz amizade com Drew Gilbert (Jason McGuire), um tímido garoto que é maltrado por Gus Gilbert (Clancy Brown), seu padrasto, que é o xerife local. Jeff também descobre um antigo cemitério indígena, no qual pessoas e animais que ali são enterrados voltam à vida.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>28/08/1992</date>
+</item>"
+"<item>
+
+<title>Cemitério Maldito [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CMTRMLDTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1494.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1494.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2019
+
+Dr. Louis Creed (Jason Clarke), que após se mudar com sua esposa Rachel (Amy Seimetz) e seus dois filhos, de Boston para o Maine, descobre um misterioso cemitério escondido nas florestas perto da nova casa da família. Quando uma tragédia os atinge, Louis se volta para seu vizinho incomum, Jud Crandall (John Lithgow), desencadeando uma perigosa reação em cadeia que libera um mal insondável com consequências terríveis.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>09/05/2019</date>
+</item>"
