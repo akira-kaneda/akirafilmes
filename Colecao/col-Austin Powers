@@ -1,0 +1,57 @@
+"<item>
+
+<title>Austin Powers: Um Agente Nada Discreto [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AUSTNPWRS000UAND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1128.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1128.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Comédia, Crime
+Lançamento: 1997
+
+O agente Austin Powers (Mike Myers) foi congelado nos anos 60 depois que seu maior inimigo, Dr. Evil (Mike Myers), escapa em uma nave espacial. Já nos anos 90, herói e vilão voltam a se enfrentar enquanto tentam se adaptar ao mundo moderno.</info>
+ 
+<genre>Ficção científica, Comédia, Crime</genre>
+ 
+<date>02/05/1997</date>
+</item>"
+"<item>
+
+<title>Austin Powers: O Agente Bond Cama [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AUSTNPWRSOAGNTBNDCM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1129.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1129.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Crime, Ficção científica
+Lançamento: 1999
+
+Dr. Evil está de volta e com um novo plano: desenvolver um máquina do tempo e retornar aos anos 60 para roubar o ""mojo"" de Austin Powers, logo após ele ter sido congelado. Sem seu ""mojo"", Austin ficaria indefeso e não poderia impedir Dr. Evil de disparar um laser gigante sobre a Terra. Entretanto, o vilão não contava que Austin também fosse retornar no tempo e ter a ajuda da agente Felicity Façobem na sua batalha para recuperar o ""mojo"" perdido.</info>
+ 
+<genre>Aventura, Comédia, Crime, Ficção científica</genre>
+ 
+<date>08/06/1999</date>
+</item>"
+"<item>
+
+<title>Austin Powers em o Homem do Membro de Ouro [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AUSTNPWRSEOHMDMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1127.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1127.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime, Ficção científica
+Lançamento: 2002
+
+Já fazem 3 anos desde o último confronto entre Austin Powers (Mike Myers) e seu arquiinimigo Dr. Evil (Mike Myers), que fez com que Evil e seu comparsa Mini-Me (Verne Troyer) fossem levados à prisão. Entretanto, a dupla consegue escapar da penitenciária e, juntamente com Goldmember (Mike Myers), elabora mais um arrojado plano de dominação mundial, que envolve uma viagem no tempo e ainda o sequestro de Nigel Powers (Michael Caine), pai de Austin e o mais renomado espião de todos os tempos. Austin também viaja no tempo para deter os planos do trio de vilões, reencontrando em 1975 uma antiga namorada, Foxxy Cleopatra (Beyoncé Knowles), que o ajudará em seus planos.</info>
+ 
+<genre>Comédia, Crime, Ficção científica</genre>
+ 
+<date>13/09/2002</date>
+</item>"
