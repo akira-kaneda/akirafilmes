@@ -1,0 +1,76 @@
+"<item>
+
+<title>A Pequena Sereia [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/APQNSRAFILME01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/522.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/522.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia
+Lançamento: 1990
+
+Ariel é a filha caçula do Rei Tritão, comandante dos sete mares, que está insatisfeita com sua vida. Ela deseja caminhar entre os humanos para conhecê-los melhor, mas sempre é proibida por seu pai, que considera os humanos como sendo ""bárbaros comedores de peixe"". Até que ela se apaixona por um jovem príncipe e, no intuito de conhecê-lo, resolve firmar um pacto com Úrsula, a bruxa do reino, que faz com que ela ganhe pernas e se torne uma verdadeira humana. Porém, Úrsula também tem seus planos e eles incluem a conquista do reino de Tritão.</info>
+ 
+<genre>Animação, Família, Fantasia</genre>
+ 
+<date>30/11/1990</date>
+</item>"
+"<item>
+
+<title>A Pequena Sereia II - O Retorno Para o Mar [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/APQNSRAFILME02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/524.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/524.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Música
+Lançamento: 2000
+
+Ariel e seu príncipe encantado Eric, vivem felizes, após a sereia filha do Rei dos Mares, ter abdicado de sua condição para tornar-se mulher. Eles já têm até uma bela menina chamada Melody. Mas, a terrível Morgana arquiteta um plano diabólico para vingar-se de Ariel e Eric, obrigando-os a retornar aos mares para derrotá-la, contando com a ajuda do caranguejo Sebastião e do peixe Linguado, amigos do primeiro filme.</info>
+ 
+<genre>Aventura, Animação, Família, Música</genre>
+ 
+<date>30/08/2000</date>
+</item>"
+"<item>
+
+<title>A Pequena Sereia: A História de Ariel [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/APQNSREIAHSTRDARIEL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/16/items/487_20200908/525.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação
+Lançamento: 2008
+
+Veja como tudo começou para um dos mais queridos personagens Disney, um filme totalmente novo, em A Pequena Sereia: A História de Ariel. Imagine muito tempo antes de Ariel conhecer o príncipe Eric e conseguir andar em terra firme. Um tempo em que a música foi proibida no reino submarino de Atlântica. Dividia entre as obrigações familiares e o amor pela música, Ariel tem que fazer a escolha mais difícil de sua vida. Com ajuda dos amigos, Sebastião e Linguado e de suas seis divertidas irmãs, a jovem sereia será capaz de restabelecer a música, a amizade e o amor para o reino?Mergulhe na mágica aventura musical de Ariel, cheia de surpresas, animações empolgantes e canções originais. O retorno de todos os personagens favoritos, junto com maravilhosos novos amigos, em um conto inesquecível com diversão para toda a família!</info>
+ 
+<genre>Família, Animação</genre>
+ 
+<date>26/08/2008</date>
+</item>"
+"<item>
+
+<title>A Pequena Sereia [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/APQNSREA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/523.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/523.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Romance, Drama, Família
+Lançamento: 2018
+
+Um jovem repórter vai fazer uma reportagem sobre um circo que diz apresentar uma sereia de verdade. Inicialmente cético, ele leva sua jovem sobrinha na viagem e lá eles descobrem uma bela e encantadora critatura a qual eles acreditam ser realmente uma sereia. Juntos eles embarcar numa aventura de salvar a moça da vida naquele lugar.</info>
+ 
+<genre>Aventura, Fantasia, Romance, Drama, Família</genre>
+ 
+<date>02/08/2018</date>
+</item>"
