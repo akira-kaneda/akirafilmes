@@ -1,0 +1,57 @@
+"<item>
+
+<title>Dungeons & Dragons: A Aventura Começa Agora [COLOR yellow][IMDb 3,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DNGSEDRGNSAVNTRCMAGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2060.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2060.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica
+Lançamento: 2001
+
+No Reino de Izmer, mágicos usam seus poderes para dominar a Terra. Savina, uma imperatriz cheia de juventude, está determinada a usar seus poderes em prol da justiça e da prosperidade. Entretanto, ela é deposta por um diabólico mágico e precisa controlar os Dragões Vermelhos para reaver o trono.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica</genre>
+ 
+<date>20/07/2001</date>
+</item>"
+"<item>
+
+<title>Dungeons e Dragons 2: O Poder Maior [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DNGSEDRGNS2OPDRMAOR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2058.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2058.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia
+Lançamento: 2005
+
+O malvado Damodar rouba um orbe mágico que pode lhe dar grandes poderes, mas a linda Melora se junta ao guerreiro Berek e se lança numa jornada para enfrentar dragões e outras feras a fim de impedir que os planos sinistros do mago se realizem.</info>
+ 
+<genre>Ação, Aventura, Fantasia</genre>
+ 
+<date>01/01/2005</date>
+</item>"
+"<item>
+
+<title>Dungeons & Dragons 3: O Livro Da Escuridão [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DNGSEDRGNS3OLVRDESCRDAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2059.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2059.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 2012
+
+Um nobre guerreiro deve lutar contra dragões e demônios enquanto defende seu código moral enquanto se junta secretamente a um grupo de vilões para resgatar seu pai seqüestrado de Shathrax, o Esfolador da Mente, que ameaça destruir o mundo.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>23/11/2012</date>
+</item>"
