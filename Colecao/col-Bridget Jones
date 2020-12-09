@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Diário de Bridget Jones [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ODIARDBRGHTJNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3927.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3927.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Drama
+Lançamento: 2001
+
+Bridget Jones, uma mulher de trinta anos, decide, entre as resoluções de Ano Novo escrever um diário. Bridget revela, a cada capítulo, as suas qualidades e os seus defeitos, além de expor com muito humor situações que fazem parte do dia-a-dia de várias mulheres nesta mesma faixa de idade: problemas com o trabalho, a busca do homem ideal etc. Cada capítulo do livro trata de um determinado dia na vida desta anti-heroína, que sempre inicia o seu relato contabilizando o peso e as calorias, cigarros e unidades alcoólicas que consumiu no dia anterior.</info>
+ 
+<genre>Comédia, Romance, Drama</genre>
+ 
+<date>17/08/2001</date>
+</item>"
+"<item>
+
+<title>O Bebê de Bridget Jones [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OBEBDBRGTJNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3816.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3816.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2016
+
+Depois de tantas idas e vindas, Bridget Jones (Renée Zellweger) e Mark (Colin Firth) finalmente se casam. Não demora muito, entretanto, para que a vida pregue mais uma peça neles e eles acabam se separando. Em crise no tabalho, tentando manter uma boa relação com o ex e engatando um novo romance (Patrick Dempsey), Bridget tem uma surpreendente revelação: está grávida - e não tem certeza de quem é o pai da criança.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>29/09/2016</date>
+</item>"
