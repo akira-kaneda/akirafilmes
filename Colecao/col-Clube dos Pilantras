@@ -1,0 +1,38 @@
+"<item>
+
+<title>Clube dos Pilantras [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLBEDSPLTRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1564.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1980
+
+Comédia ambientada num clube de golfe exclusivo, cujos sócios são ricos e excêntricos, e os empregados pobres e esquisitos. Danny, personagem principal, trabalha como caddy e faz todo tipo de estripulia para juntar dinheiro para ir para a faculdade.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>25/07/1980</date>
+</item>"
+"<item>
+
+<title>Clube dos Pilantras 2 [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLBEDSPLTRS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1565.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1565.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1988
+
+Jack Hartounian é um empresário da construção civil convidado para integrar um clube de golfe para ricaços. Quando os membros do local conhecem o excêntrico Jack, porém, resolvem cancelar sua ficha de inscrição. Furioso, ele se vinga comprando o clube e transformando num parque de diversões para a classe média, enlouquecendo os figurões que freqüentavam o lugar e só queriam paz e sossego.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>22/07/1988</date>
+</item>"
