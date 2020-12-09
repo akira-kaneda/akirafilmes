@@ -1,0 +1,38 @@
+"<item>
+
+<title>Com a Cor e a Coragem [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/COMACREACRGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1595.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1595.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 2002
+
+Anton Jackson se parece com muitos outros homens, mas, na verdade, ele é um impagável agente supersecreto de uma organização mais secreta ainda. Sua organização defende os direitos dos negros no mundo. Porém, Anton parece ter saído diretamente de um velho seriado de TV dos anos 70. Suas roupas, sua atitude e seu exagerado penteado afro são uma divertida mistura de Mod Squad e As Panteras, com pitadas de Starsky & Hutch.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>31/05/2002</date>
+</item>"
+"<item>
+
+<title>Com a Cor e a Coragem 2 [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/comacreacrgm2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1596.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1596.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação
+Lançamento: 2019
+
+Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma avalanche, o irmão do herói disfarçado, Lionel, enfrenta uma ameaça para a comunidade negra e o mundo: a extrema lucidez.</info>
+ 
+<genre>Comédia, Ação</genre>
+ 
+<date>05/11/2019</date>
+</item>"
