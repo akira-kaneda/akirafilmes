@@ -1,0 +1,38 @@
+"<item>
+
+<title>Anjos da Lei [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANJSDLEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/880.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/880.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Crime
+Lançamento: 2012
+
+Jenko (Channing Tatum) e Schmidt (Jonah Hill) estudaram juntos, mas jamais foram amigos. A situação muda quando se reencontram na academia de policiais, onde passam a ajudar um ao outro. Já formados, se envolvem em uma confusão ao tentar realizar a prisão de um traficante de drogas, que atuava no parque onde trabalhavam. Remanejados para uma divisão comandada pelo capitão Walters (Ice Cube), onde jovens policiais trabalham infiltrados, eles recebem a missão de desvendar quem é o fornecedor de uma nova e perigosa droga. De volta ao ambiente escolar e atuando sob nomes falsos, Jenko e Schmidt precisam se acostumar aos novos tempos sem perder o foco na tarefa que lhes foi incumbida.</info>
+ 
+<genre>Ação, Comédia, Crime</genre>
+ 
+<date>04/05/2012</date>
+</item>"
+"<item>
+
+<title>Anjos da Lei 2 [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANJSDLEI2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/881.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/881.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia, Ação
+Lançamento: 2014
+
+Os oficiais Schmidt (Jonah Hill) e Jenko (Channing Tatum) têm agora uma nova missão: se infiltrar em uma faculdade local. O problema é que, em meio à investigação, Jenko conhece sua alma gêmea em plena equipe de atletismo e Schmidt, após se infiltrar no centro de arte boêmia, começa a questionar a dupla. Em meio aos inevitáveis problemas de relacionamento, eles precisam encontrar um meio de desvendar o caso que estão investigando.</info>
+ 
+<genre>Crime, Comédia, Ação</genre>
+ 
+<date>13/06/2014</date>
+</item>"
