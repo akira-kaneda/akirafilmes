@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Morte te dá Parabéns [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMRTDPRBNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/7/items/457_20200905/461.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/461.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller, Comédia
+Lançamento: 2017
+
+No longa, a personagem Tree Gelbman (Jessica Rothe), é assassinada por uma pessoa mascarada no dia de seu aniversário. Para descobrir o responsável pelo crime, ela ressuscita várias vezes e se vê presa em um ciclo entre vida e morte até conseguir solucionar seu próprio assassinato. Ela só conseguirá escapar de um destino trágico, quando compreender as reais causas de sua morte.</info>
+ 
+<genre>Terror, Mistério, Thriller, Comédia</genre>
+ 
+<date>12/10/2017</date>
+</item>"
+"<item>
+
+<title>A Morte Te dá Parabéns 2 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AMRTDPRBNS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/7/items/457_20200905/462.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/462.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror, Ficção científica
+Lançamento: 2019
+
+A Colegial Tree Gelbman acorda horrorizada ao saber que está presa em um universo paralelo. Seu namorado Carter está agora com outra pessoa, e seus amigos e colegas parecem ser versões completamente diferentes de si mesmos. Quando Tree descobre que o colega de quarto de Carter está alterando o tempo, ela se vê mais uma vez como alvo de um matador mascarado. Quando o psicopata começa a ir atrás de seu círculo íntimo, Tree logo percebe que ela deve morrer repetidamente para salvar a todos.</info>
+ 
+<genre>Comédia, Terror, Ficção científica</genre>
+ 
+<date>21/02/2019</date>
+</item>"
