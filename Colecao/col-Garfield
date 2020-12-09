@@ -1,0 +1,38 @@
+"<item>
+
+<title>Garfield - O Filme [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GARFLDOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2463.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2463.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2004
+
+Garfield é um gato preguiçoso que adora lasanha e tem a vida que sempre quis: come, dorme e vê televisão sempre que quer. Até que seu dono, Jon Arbuckle (Breckin Meyer), decide adotar um cachorro, Odie. Contrariado com o novo hóspede, que agora divide com ele a atenção de seu dono, Garfield inicia uma disputa particular com Odie. Porém, quando Odie é sequestrado, Garfield sente remorsos e parte para salvar o cachorro.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>11/06/2004</date>
+</item>"
+"<item>
+
+<title>Garfield 2 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GARFLDOFLM2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2462.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2462.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Aventura
+Lançamento: 2006
+
+Garfield vai à Inglaterra e lá é confundido com Prince, o bicho de estimação de uma condessa falecida recentemente. Prince é o herdeiro de um castelo e é tratado como um rei, do jeito que Garfield sempre quis. No castelo, ele ajuda um grupo de animais a salvar a propriedade das malvadas mãos do lorde Dargis (Billy Connolly).</info>
+ 
+<genre>Animação, Comédia, Família, Aventura</genre>
+ 
+<date>15/06/2006</date>
+</item>"
