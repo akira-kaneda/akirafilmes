@@ -1,7 +1,9 @@
 "<item>
 
 <title>007 Contra o Satânico Dr. No [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071962CNTROSTNC.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071962CNTROSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/18.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/18.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -18,8 +20,29 @@ James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. E
 </item>"
 "<item>
 
+<title>Moscou Contra 007 [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071963MSCCNT007.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3482.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3482.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1964
+
+James Bond (Sean Connery) é incumbido de ajudar uma bela agente soviética a fugir de seu país, para então tentar recuperar uma leitora de códigos na embaixada russa, em Londres. Porém, Bond não sabe que a temível organização criminosa Spectre organizou esta armadilha no intuito de executá-lo.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>24/04/1964</date>
+</item>"
+"<item>
+
 <title>007 Contra Goldfinger [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/15.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/15.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -37,7 +60,9 @@ James Bond é (Sean Connery) encarregado de espionar Goldfinger (Gert Fröbe), u
 "<item>
 
 <title>007 Contra a Chantagem Atômica [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601508.us.archive.org/16/items/35_20200901/13.jpg</image>
 <thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/13.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -54,8 +79,29 @@ James Bond (Sean Connery) tenta evitar a destruição de Miami por meio de uma s
 </item>"
 "<item>
 
+<title>Com 007 Só Se Vive Duas Vezes [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071967CM007SSVDV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1592.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1592.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1967
+
+Durante uma missão de rotina no espaço, uma nave americana desaparece misteriosamente da sua órbita. Os americanos suspeitam dos soviéticos e pensam em uma retaliação. No entanto, os ingleses se mantêm mais cautelosos, após existirem possibilidades da nave ter pousado perto do Mar do Japão. Assim, 007 (Sean Connery) vai investigar o caso, mas quando os soviéticos perdem uma espaçonave nas mesmas circunstâncias, Bond tem poucos dias para resolver esta missão e evitar a Terceira Guerra Mundial.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>02/10/1967</date>
+</item>"
+"<item>
+
 <title>007 A Serviço Secreto de Sua Majestade [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071969ASVCSCRT.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071969ASVCSCRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/21.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/21.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -73,7 +119,9 @@ Em uma praia 007 (George Lazenby) evita que uma jovem mulher cometa suicídio. O
 "<item>
 
 <title>007 Os Diamantes São Eternos [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071971OSDAMTS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071971OSDAMTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601508.us.archive.org/12/items/11_20200901_20200901/30.jpg</image>
 <thumbnail>https://ia601508.us.archive.org/12/items/11_20200901_20200901/30.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -90,8 +138,29 @@ Quando o governo britânico suspeita da existência de uma rede mundial de contr
 </item>"
 "<item>
 
+<title>Com 007 Viva e Deixe Morrer [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071973VIVADXMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1593.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1593.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1973
+
+Três agentes britânicos são mortos no mesmo dia, ao investigarem o contrabando de drogas, com os assassinatos estando ligados a um chefão do crime do Harlem e a um diplomata internacional. 007 (Roger Moore) vai investigar o caso e, ao chegar em Nova York, quase morto por um capanga que trabalha para o chefão do Harlem. Mas, ao iniciar suas investigações, logo o agente inglês descobre uma trama para colocar dois bilhões de dólares em heroína no mercado americano.</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>05/10/1973</date>
+</item>"
+"<item>
+
 <title>007 Contra o Homem com a Pistola de Ouro [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071974CNTROHMN.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071974CNTROHMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/17.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/17.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -109,7 +178,9 @@ Quando uma bala de ouro chega ao quartel-general da inteligência britânica com
 "<item>
 
 <title>007 O Espião Que Me Amava [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071977OESPNHQMA.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071977OESPNHQMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/27.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/27.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -126,7 +197,9 @@ A Inglaterra descobre que alguém sabe como rastrear um submarino submerso e est
 "<item>
 
 <title>007 Contra o Foguete da Morte [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071979CNTROFGUT.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071979CNTROFGUT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/16.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/16.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -144,7 +217,9 @@ Um avião carregando um foguete espacial sofre um acidente, mas quando o Serviç
 "<item>
 
 <title>007 Somente Para Seus Olhos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/33.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/33.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -161,7 +236,9 @@ A tarefa agora é recuperar uma importante arma de defesa que afundou com um nav
 "<item>
 
 <title>007 Contra Octopussy [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/19.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/19.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -179,7 +256,9 @@ Ao tentar solucionar quem assassinou o agente 009 (Andy Bradford), James Bond (R
 "<item>
 
 <title>007 Nunca Mais Outra Vez [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/25.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/25.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -197,7 +276,9 @@ James Bond (Sean Connery) é convocado para reaver bombas nucleares roubadas pel
 "<item>
 
 <title>007 Na Mira dos Assassinos [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071985NMRDSASNS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071985NMRDSASNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/24.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/24.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -214,7 +295,9 @@ O magnata Max Zorin (Christopher Walken) pretende controlar o mercado de inform�
 "<item>
 
 <title>007 Marcado para a Morte [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071987MRCDOMRT.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071987MRCDOMRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/23.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/23.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -232,7 +315,9 @@ Georgi Koskov (Jeroen Krabbé), um general dissidente da União Soviética, esca
 "<item>
 
 <title>007 Permissão para Matar [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071989PRMSPMTR.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071989PRMSPMTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/31.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/31.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -250,7 +335,9 @@ James Bond desobedece ordens e parte em uma missão para vingar a morte da mulhe
 "<item>
 
 <title>007 Contra GoldenEye [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071995CNTRGLDNE.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071995CNTRGLDNE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601508.us.archive.org/16/items/35_20200901/14.jpg</image>
 <thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/14.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -268,7 +355,9 @@ James Bond precisa impedir que o controle do poderoso satélite GoldenEye, capaz
 "<item>
 
 <title>007 O Amanhã Nunca Morre [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071997OAMNHNCM.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071997OAMNHNCM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/26.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/26.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -286,7 +375,9 @@ James Bond descobre que o magnata da mídia Elliot Carver colocou em prática um
 "<item>
 
 <title>007 O Mundo Não é o Bastante [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/28.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/28.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -304,7 +395,9 @@ James Bond deve proteger Elektra King, filha de um magnata do petróleo que foi 
 "<item>
 
 <title>007 Um Novo Dia Para Morrer [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0072002UNDPM.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072002UNDPM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/34.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/34.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -322,7 +415,9 @@ Após se libertar de uma prisão na Coreia do Norte, James Bond entra em ação 
 "<item>
 
 <title>007 Casino Royale [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0072006CSNRYL.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072006CSNRYL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/22.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/22.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -340,7 +435,9 @@ Depois de obter o status 00 e uma licença para matar, o agente secreto James Bo
 "<item>
 
 <title>007 Quantum of Solace [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0072008QNTOFSLC.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072008QNTOFSLC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/32.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/32.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -358,7 +455,9 @@ Após a morte de Vesper Lynd, James Bond faz com que sua próxima missão seja p
 "<item>
 
 <title>007 Operação Skyfall [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0072012OPSKYFL.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072012OPSKYFL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/29.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/29.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -376,7 +475,9 @@ Após uma missão mal sucedida de James Bond, a identidade de agentes secretos �
 "<item>
 
 <title>007 Contra Spectre [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/0072016CNTRSPCTR.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072016CNTRSPCTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/20.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/20.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
