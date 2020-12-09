@@ -1,0 +1,57 @@
+"<item>
+
+<title>Crocodilo Dundee [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRDLEDNDE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1749.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1749.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 1986
+
+Sue Charlton (Linda Kozlowski) é uma jornalista americana que vai até a Austrália entrevistar Michael J. ""Crocodilo"" Dundee (Paul Hogan), um caçador que foi muito ferido por um crocodilo. Quando ela o leva para Nova York, ele se comporta de forma pouco convencional por estar fora de seu habitat natural.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>14/10/1986</date>
+</item>"
+"<item>
+
+<title>Crocodilo Dundee 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRDLEDNDE2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1750.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1750.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 1988
+
+Após salvar sua namorada Sue Charlton (Linda Kozlowski) das mãos de um chefão de drogas de Nova York, Mick Dundee (Paul Hogan) decide levá-la para um lugar mais seguro: sua Austrália natal. Lá Dundee prepara uma calorosa recepção aos perseguidores de Sue.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>19/05/1988</date>
+</item>"
+"<item>
+
+<title>Crocodilo Dundee em Hollywood [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRDLEDNDEMHLWD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1751.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1751.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 2001
+
+Mick Dundee (Paul Hogan), sua esposa Sue (Linda Kozlowski) e seu filho Mikey (Serge Cockburn) precisam deixar a pequena cidade de Walkabout, onde vivem, e viajar até Los Angeles, onde Sue precisa assumir a chefia do jornal do seu pai, após o chefe anterior ter morrido em circunstâncias suspeitas. Mick acredita que esta seja uma boa oportunidade de mostrar a seu filho o mundo existente além da pequena cidade onde vivem, enquanto que Sue precisa se desdobrar entre seu novo trabalho e ainda as investigações decorrentes da morte do antigo chefe.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>18/04/2001</date>
+</item>"
