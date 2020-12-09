@@ -1,0 +1,57 @@
+"<item>
+
+<title>Balto [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BLTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1153.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1153.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família
+Lançamento: 1995
+
+Cão mestiço de lobo tem a chance de virar herói quando uma epidemia ameaça as crianças de uma cidade do Alasca em 1925. Ele lidera uma equipe de cães de trenó em uma viagem de quase mil quilômetros para buscar suprimentos médicos.</info>
+ 
+<genre>Animação, Aventura, Família</genre>
+ 
+<date>22/12/1995</date>
+</item>"
+"<item>
+
+<title>Balto - Aventura na Terra do Gelo [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BLTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1155.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1155.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura
+Lançamento: 2002
+
+Balto conseguiu capturar a imaginação do mundo e agora a aventura continua. Só que, desta vez, Balto não está só. Balto teve uma filha, Aleu. Enquanto, a jovem Aleu descobre que ela nunca será aceita como seus irmãos e irmãs, pois ela se parece mais a um lobo do que a um cão. Transtornada, ela foge na tentativa de encontrar um sentido para a sua vida e encontrar o seu verdadeiro lugar no mundo. Balto, preocupado, parte à procura de Aleu e, assim, tem início uma épica busca através da vastidão gélida do Alasca. Uma espetacular e alentadora aventura de muita coragem, descoberta e fascinação que ficará no seu coração para sempre.</info>
+ 
+<genre>Família, Animação, Aventura</genre>
+ 
+<date>19/02/2002</date>
+</item>"
+"<item>
+
+<title>Balto - Nas Asas do Destino [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BLTO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1156.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1156.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Animação
+Lançamento: 2004
+
+Balto e seu filho Kodi descobrem que a tecnologia ameaça o futuro dos cães puxadores de trenó, pois o avião tornou-se uma opção mais veloz, trazendo suprimentos e correspondência à cidade. Em meio a controvérsia, uma corrida para entregar correspondência é arranjada entre um time liderado por Balto e um arrojado piloto de um avião que fascina Balto profundamente. Quando Duke, o piloto, não consegue chegar ao seu destino, alguns dos cães ficam felizes ao provar sua superioridade, mas Balto sabe como é sentir-se perdido. Balto, com a ajuda de Muc e Luc, sai numa operação de resgate de Duke e Boris, em seu avião caído no gelo. Junte-se a Balto e seus amigos nessa extraordinária jornada que vai alegrar todos os espíritos.</info>
+ 
+<genre>Família, Aventura, Animação</genre>
+ 
+<date>30/09/2004</date>
+</item>"
