@@ -1,5 +1,24 @@
 "<item>
 
+<title>Corra que a Polícia Vem Aí! [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CORQAPLCVMAI1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1702.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1702.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1989
+
+Leslie Nielsen interpreta o tira cabeça-dura Frank Debrin, que tenta acabar com um brilhante plano para assassinar a Rainha Elizabeth. Priscilla Presley, O.J. Simpson, um castor empalhado, dois times de baseball e uma curiosa variedade de piadas e situações hilariantes farão seu medidor de risadas estourar.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>06/01/1989</date>
+</item>"
+"<item>
+
 <title>Corra que a Polícia Vem Aí! 2½ [COLOR yellow][IMDb 7,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/CORQAPLCVMAI2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -16,4 +35,23 @@ O tenente Frank Drebin precisa descobrir como deter o infame plano de Quentin Ha
 <genre>Comédia, Crime</genre>
  
 <date>28/06/1991</date>
+</item>"
+"<item>
+
+<title>Corra que a Polícia Vem Aí! 33⅓: O Insulto Final [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CORQAPLCVMAI3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1701.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1701.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1994
+
+Na última parte da trilogia, o Tenente Frank Drebin (Leslie Nielsen) é acionado novamente. Desta vez, a cerimônia do Oscar corre o risco de ir pelos ares, e o policial mais maluco da história é o único capaz de prender o responsável. Mesmo enferrujado e ainda aposentado, Frank assume mais uma divertida missão.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>27/05/1994</date>
 </item>"
