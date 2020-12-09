@@ -1,0 +1,76 @@
+"<item>
+
+<title>Deixados para Trás [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DXDSPRTRS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1831.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1831.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Fantasia, Ficção científica, Thriller
+Lançamento: 2000
+
+Baseado no beste seller ""Deixados para Trás"", o suspense mostra o desaparecimento de inúmeras pessoas pelo mundo. Intrigados com o fato, um jornalista e um piloto partem em busca de respostas que culminam no misterioso livro do Apocalipse da Bíblia.</info>
+ 
+<genre>Drama, Fantasia, Ficção científica, Thriller</genre>
+ 
+<date>30/10/2000</date>
+</item>"
+"<item>
+
+<title>Deixados para Trás 2 - Comando Tribulação [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DXDSPRTRS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1832.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1832.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Drama, Thriller
+Lançamento: 2002
+
+Após o desaparecimento de milhões de pessoas, o mundo desesperado recorre ao presidente das Nações Unidas, Nicolae Carpathia (Gordon Currie). Colocado em um pedestal, idolatrado e ganhando a confiança dos que foram deixados para trás, ele se sente o dono do mundo com o planeta aos seus pés. Mas a milhares de quilômetros dali, um grupo sabe qual é a verdadeira e sinistra identidade do governante. Auto-intitulando-se ""Comando Tribulação"", o grupo tenta desesperadamente compartilhar o que sabe com quem estiver disposto a escutá-lo, mesmo colocando em risco as sua próprias vidas. Embarcam nessa perigosa missão, tentando abrir os olhos do mundo para a verdade, o jornalista Buck Williams (Kirk Cameron), o Pastor Bruce Barnes (Clarence Gilyard), o piloto Rayford Steele (Brad Johnson) e sua filha Chloe (Jonaya Stephens).</info>
+ 
+<genre>Fantasia, Drama, Thriller</genre>
+ 
+<date>29/10/2002</date>
+</item>"
+"<item>
+
+<title>Deixados para Trás 3 - Mundo em Guerra [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DXDSPRTRS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1833.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1833.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Fantasia, Ficção científica, Thriller
+Lançamento: 2005
+
+No mundo profetizado no Livro da Revelação, o líder mundial Nicolae Carpathia (Gordon Currie) enfim consegue realizar o inimaginável: unir o mundo em paz e dar fim ao derramamento de sangue. Gerald Fitzhugh (Louis Gossett Jr.), o Presidente dos Estados Unidos, sempre teve este sonho e dedica seu mandato a impedir que ele seja arruinado. Porém, quando sofre uma tentativa frustrada de assassinato, Gerald passa a conhecer uma conspiração que pretende fazer com que a 3ª Guerra Mundial aconteça o quanto antes, o que seria facilitado pelo fato de que o sonho da paz fez com que o Presidente deixasse os Estados Unidos sem opções de defesa. A esperança passa a ser o repórter Buck Williams (Kirk Cameron) e seu Comando Tripulação, que precisam encontrar um meio de salvar a vida de milhões de pessoas.</info>
+ 
+<genre>Ação, Aventura, Drama, Fantasia, Ficção científica, Thriller</genre>
+ 
+<date>01/01/2005</date>
+</item>"
+"<item>
+
+<title>Deixados para Trás - A Nova Geração [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DXDSPRTRSANVGRC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1834.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1834.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura
+Lançamento: 2016
+
+Quando milhares de pessoas de repente desaparecem do mundo, o caos começa. Gabby (Amber Frank), junto com sua irmã mais nova Claire (Keely Wilson), Josh (Mason Dye) e Flynn (Dylan Sprayberry) tentam descobrir o que aconteceu. E, ao mesmo tempo, precisam sobreviver no mundo em que vivem.</info>
+ 
+<genre>Aventura</genre>
+ 
+<date>28/02/2016</date>
+</item>"
