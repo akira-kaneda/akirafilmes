@@ -1,0 +1,76 @@
+"<item>
+
+<title>Aladdin [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ALDN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/731.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/731.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Fantasia, Romance
+Lançamento: 1993
+
+Após o sultão ordenar que sua filha, a princesa Jasmine, ache um marido rapidamente, ela foge do palácio. Jasmine encontra um tipo meio malandro, Aladdin, que conquista seu coração. Porém ambos são achados pelos guardas de Jafar, o vizir do sultão. Jafar criou um feitiço para dominar o sultão, se casar com Jasmine e se tornar ele mesmo o sultão. Além disto finge que cometeu um engano e mandou decapitar Aladdin, que na verdade está vivo, pois Jafar precisa dele para conseguir uma lâmpada mágica, que é a morada de um poderoso gênio. Mas o plano de Jafar falha, pois Aladdin fica com a lâmpada graças a intervenção de um pequeno macaco, Abu, seu fiel mascote. Quando descobre que há na lâmpada um gênio poderoso, que pode se transformar em qualquer pessoa ou coisa e que lhe concederá três desejos, Aladdin planeja usá-los para conquistar Jasmine, sem imaginar que Jafar é um diabólico inimigo, que precisa ser detido.</info>
+ 
+<genre>Animação, Família, Aventura, Fantasia, Romance</genre>
+ 
+<date>03/07/1993</date>
+</item>"
+"<item>
+
+<title>Aladdin - O Retorno de Jafar [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ALDN2ORTNDJFR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/734.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/734.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Animação, Romance
+Lançamento: 1995
+
+Ao final de Aladdin, Jafar fora tornado um gênio e por consequência, aprisionado em uma lâmpada junto com seu papagaio Iago. O Gênio azul arremessara essa lâmpada para longe, e esta acaba soterrada num deserto. The Return of Jafar começa com Aladdin atacando o ladrão Abis Mal e seu bando, e pegando os tesouros roubados. Algum tempo depois, Iago (ainda preso na lâmpada) escava seu caminho de volta á superfície. Jafar pede para Iago libertá-lo, mas o papagaio cansado de ser abusado resolve abandonar a lâmpada com o antigo mestre num poço, e volta voando a Agrabah. Tendo chegado, encontra Aladdin e salva-o de um ataque do bando de Abis Mal. Aladdin resolve acolher o papagaio a seu lado. Mais tarde porém, Abis Mal encontra a lâmpada de Jafar e liberta-o, e resolve colaborar com seus planos de vingança.</info>
+ 
+<genre>Família, Aventura, Animação, Romance</genre>
+ 
+<date>08/03/1995</date>
+</item>"
+"<item>
+
+<title>Aladdin e os 40 Ladrões [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ALDNEOS40LDRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/733.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/733.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família
+Lançamento: 1996
+
+Aladdin e Jasmine finalmente decidem se casar mas, antes, ele deverá impedir que os quarenta ladrões roubem um de seus presentes de casamento, um misterioso oráculo, que pode levar a riquezas muito além da imaginação. Aladdin, Jasmine, Abu, o Tapete Mágico e o Gênio enfrentam perigos e fugas arriscadas durante uma verdadeira caçada ao rei dos ladrões e seu bando.</info>
+ 
+<genre>Aventura, Animação, Família</genre>
+ 
+<date>20/05/1996</date>
+</item>"
+"<item>
+
+<title>Aladdin [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ALDN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/732.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/732.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Romance, Família
+Lançamento: 2019
+
+Um jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conceder desejos. Agora o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que está prestes a se noivar. Agora, com a ajuda do Gênio (Will Smith), ele tenta se passar por um príncipe e para conquistar o amor da moça e a confiança de seu pai.</info>
+ 
+<genre>Aventura, Fantasia, Romance, Família</genre>
+ 
+<date>23/05/2019</date>
+</item>"
