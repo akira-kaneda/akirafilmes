@@ -1,0 +1,38 @@
+"<item>
+
+<title>Frogtown: O Inferno Chega a Frogtown [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FRGTWNOICAF.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2425.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2425.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Terror, Ficção científica
+Lançamento: 1988
+
+Hell' é o nome do herói deste filme, ele é um prisioneiro de mulheres que trabalham nos EUA após uma guerra nuclear biológica. Os resultados da guerra são que as mulheres se tornaram mutantes evoluídas, deixando a raça humana sob perigo de extinção, devido à infertilidade. Hell é convocado a tarefa de ajudar um grupo de mulheres férteis do Harém (que se assemelha a uma rã) para salva-las.</info>
+ 
+<genre>Ação, Comédia, Terror, Ficção científica</genre>
+ 
+<date>01/01/1988</date>
+</item>"
+"<item>
+
+<title>Frogtown: A Vingança dos Sapos Assassinos [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FRGTWN2AVDSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2424.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2424.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 1992
+
+O território do Texas é controlado por vigilantes aéreos. Nesse local há uma reserva, tipo colônia penal, onde vivem sapos mutantes. Eles vivem em paz até a chegada dos vigilantes. Assim , decidem contra-atacar os inimigos</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>03/11/1992</date>
+</item>"
