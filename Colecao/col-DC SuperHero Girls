@@ -1,0 +1,57 @@
+"<item>
+
+<title>DC SuperHero Girls: Heroínas do Ano [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DCSPRHROGRLSHRNSDANO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1792.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1792.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Ação
+Lançamento: 2016
+
+Mulher Maravilha, Supergirl, Batgirl, Harley Quinn, Bumblebee, Poison Ivy e Katana se unem para navegar pelas reviravoltas do ensino médio em DC Super Hero Girls: Hero of the Year.</info>
+ 
+<genre>Animação, Família, Ação</genre>
+ 
+<date>09/08/2016</date>
+</item>"
+"<item>
+
+<title>DC SuperHero Girls: Jogos Intergaláticos [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DCSPRHROGRLSJGSINTGLTCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1793.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1793.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2017
+
+Prepare-se para os Jogos Intergaláticos, uma competição que tem por objetivo promover a paz em toda a galáxia. A rivalidade fica à flor da pele com essas competidoras. Será que a Super Hero High terá forças para enfrentar a korugar Academy e a Female Furies e sair vitoriosa dos jogos? Junte-se à Mulher Maravilha, Supergirl, Batgirl e desvende o mistério que está levando uma das equipes a participar dos jogos. Que os jogos e a ação comecem. Está na hora de mais uma animação inédita das DC Super Hero Girls.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>09/05/2017</date>
+</item>"
+"<item>
+
+<title>DC Super Hero Girls: Lendas de Atlântida [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DCSPRHROGRLSLNDSDATLNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1794.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1794.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2018
+
+Mergulhe nesta aventura com as Super-heroínas da DC neste épico submarino. Irmãs do mar, Siren e Mera pegam os alunos do Super Hero High desprevenidos em um ataque surpresa para roubar uma relíquia extremamente poderosa - o Book of Legends. Com o livro em sua posse e fortalecendo mais poder do que nunca, Siren pretende levantar um exército das profundezas dos abismos oceânicos. Wonder Woman, Batgirl e Supergirl estão prontas para ajudar o Aquaman a defender Atlantis e parar a sinistra Siren! Apronte-se para uma aventura eletrizante estrelada pelas Super-heroínas da DC!</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>05/10/2018</date>
+</item>"
