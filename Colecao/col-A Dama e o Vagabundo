@@ -1,0 +1,57 @@
+"<item>
+
+<title>A Dama e o Vagabundo [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ADMAEOVAGNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/223.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/223.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Romance
+Lançamento: 1956
+
+A história de uma cachorrinha de classe chamada Lady que se sente abandonada pelos donos quando eles têm um bebê e acaba se envolvendo com um cachorro de rua conhecido como Vagabundo. Os dois terão que lidar com uma injusta tia que, com seus gatos de estimação, chegam na casa e acabam com o sossego de Lady.</info>
+ 
+<genre>Animação, Família, Romance</genre>
+ 
+<date>24/12/1956</date>
+</item>"
+"<item>
+
+<title>A Dama e o Vagabundo 2: As Aventuras de Banzé [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ADMAEOVAGNDO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/225.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/225.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Animação, Família
+Lançamento: 2001
+
+Entre seus filhotes comportados, Dama e o Vagabundo criam o bagunceiro Banze – que está sempre aprontando alguma. Sonhando com a liberdade, Banzé sai de casa e conhece uma vira-lata adorável e teimosa chamada Angel. Ela o apresenta aos cães do lixo, liderados pelo escolado Buster que o desafia para o teste supremo da vida sem coleira. Agora, Banzé fica dividido entre um mundo repleto de aventuras e o amor pela família que abandonou.</info>
+ 
+<genre>Romance, Animação, Família</genre>
+ 
+<date>24/03/2001</date>
+</item>"
+"<item>
+
+<title>A Dama e o Vagabundo [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ADMEOVGNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/224.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/224.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia, Família
+Lançamento: 2019
+
+Relançamento do clássico de 1955, que conta a história de amor entre a Dama, uma cocker spaniel mimada, e um vira-lata chamado Vagabundo, que salva a cadelinha do perigo de vagar sozinha perdida pelas ruas.</info>
+ 
+<genre>Romance, Comédia, Família</genre>
+ 
+<date>12/11/2019</date>
+</item>"
