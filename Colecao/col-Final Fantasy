@@ -1,0 +1,38 @@
+"<item>
+
+<title>Final Fantasy [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FFTSTSW.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2373.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2373.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Animação, Fantasia, Ficção científica, Thriller, Romance
+Lançamento: 2001
+
+Borrar as linhas entre a realidade e a animação por computador. Este é o primeiro filme de longa-metragem que traz uma realidade sem igual, gerada por computador, de personagens humanos. A emocionante ficção mostra a saga dos humanos de tentar resistir a uma invasão alienígena.</info>
+ 
+<genre>Aventura, Ação, Animação, Fantasia, Ficção científica, Thriller, Romance</genre>
+ 
+<date>02/07/2001</date>
+</item>"
+"<item>
+
+<title>Kingslave: Final Fantasy XV [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KNGLVFNLFNTSY15.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2984.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2984.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 2016
+
+O reino mágico de Lucis é o lar do último Crystal remanescente no mundo, e o império ameaçador de Niflheim está determinado em roubá-lo. Rei Regis de Lucis [Bean] comanda uma força de elite de soldados chamada Kingsglaive. Empunhando a magia de seu rei, eles lutam para proteger Lucis.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>09/07/2016</date>
+</item>"
