@@ -2566,7 +2566,7 @@ Em 1946, Andy Dufresne, um jovem e bem sucedido banqueiro, tem a sua vida radica
 "<item>
 
 <title>Um Sonho de Natal [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMSNHDNTL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMSNHDNTL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6187.jpg</image>
@@ -2585,7 +2585,7 @@ Quando o futuro de sua tradicional loja de Natal é ameaçada por um ambicioso a
 "<item>
 
 <title>Um Sonho Distante [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMSNHODSTNTE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMSNHODSTNTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6188.jpg</image>
@@ -2604,7 +2604,7 @@ A trama se passa em 1892 e tem início na Irlanda. Joseph Donnelly é um jovem a
 "<item>
 
 <title>Um Sonho Possível [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UMSNHPSVL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UMSNHPSVL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6189.jpg</image>
@@ -2623,7 +2623,7 @@ Michael Oher (Quinton Aaron) era um jovem negro, filho de uma mãe viciada e nã
 "<item>
 
 <title>Um Time Bem Diferente [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMTMBMDFRNT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMTMBMDFRNT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6190.jpg</image>
@@ -2642,7 +2642,7 @@ Maxime (Medi Sadoun) é um grande jogador de futebol que acaba de sofrer uma les
 "<item>
 
 <title>Um Time Show de Bola [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMTMSHWDBLA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMTMSHWDBLA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6191.jpg</image>
@@ -2661,7 +2661,7 @@ Desde garoto Amadeo é aficcionado por totó, tendo construído seus próprios j
 "<item>
 
 <title>Um Tira Acima da Média [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMTRACMDMED.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMTRACMDMED.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6192.jpg</image>
@@ -2680,7 +2680,7 @@ O jovem policial Tracy (Nick Cannon) faz a patrulha de seu bairro a bordo de sua
 "<item>
 
 <title>Um Tira e Meio – A Nova Recruta [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMTREMEIOANVRCRT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMTREMEIOANVRCRT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6193.jpg</image>
@@ -2699,7 +2699,7 @@ Karina Foley é uma astuta garota de 12 anos que sonha em ser policial. Durante 
 "<item>
 
 <title>Um Tira Muito Suspeito [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMTRMTOSPTO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMTRMTOSPTO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6194.jpg</image>
@@ -2718,7 +2718,7 @@ Miles Logan (Martin Lawrence) um ladrão de jóias, mas as coisas não correm mu
 "<item>
 
 <title>Um Tiro de Misericórdia [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMTRODMSCDIA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMTRODMSCDIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6195.jpg</image>
@@ -2737,7 +2737,7 @@ Terry Noonan (Sean Penn) passou 10 anos longe de Nova York, sem explicar o porqu
 "<item>
 
 <title>Um Vampiro Mentiroso [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMVMPMNTRSO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMVMPMNTRSO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6196.jpg</image>
@@ -2756,7 +2756,7 @@ Um Vampiro Mentiroso – Davis (Rahart Adams), um garoto com manias estranhas, c
 "<item>
 
 <title>Uma Agente Muito Louca [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAGNTMTLC.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAGNTMTLC.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6197.jpg</image>
@@ -2775,7 +2775,7 @@ Johanna Pasquali (Alice Pol) é a primeira mulher a se juntar ao RAID, um grupo 
 "<item>
 
 <title>Uma Aventura de Babás [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMAVNTRDBABS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMAVNTRDBABS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6198.jpg</image>
@@ -2813,7 +2813,7 @@ A história do cão vira-lata Pluto, que aparece do nada e afeta a família Davi
 "<item>
 
 <title>Uma Aventura Lego [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMAVNTRLGO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMAVNTRLGO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6199.jpg</image>
@@ -2832,7 +2832,7 @@ Emmet é um Lego comum, até o dia em que é confundido com o Master Builder, o 
 "<item>
 
 <title>Uma Aventura Lego 2 [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMAVNTRLGO2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMAVNTRLGO2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6200.jpg</image>
@@ -2851,7 +2851,7 @@ Já faz cinco anos desde que tudo foi incrível e os cidadãos estão enfrentand
 "<item>
 
 <title>Uma Aventura na América Selvagem [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMACNTRNAMRCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMACNTRNAMRCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6201.jpg</image>
@@ -2870,7 +2870,7 @@ A verdadeira história sobre os irmão Stouffer, três rapazes cujas férias de 
 "<item>
 
 <title>Uma Aventura no Gelo [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAVNTRNGLO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAVNTRNGLO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6202.jpg</image>
@@ -2889,7 +2889,7 @@ O pinguim Buffet recruta seus amigos Euri, um iaque preguiçoso, e Luke, um coel
 "<item>
 
 <title>Uma Aventura Perigosa [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMAVNTRPRGSA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMAVNTRPRGSA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6203.jpg</image>
@@ -2908,7 +2908,7 @@ A inacreditável história de quatro jovens americanos, com temperamentos extrem
 "<item>
 
 <title>Uma Babá Quase Perfeita [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMBABQSEPRFTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMBABQSEPRFTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6204.jpg</image>
@@ -2927,7 +2927,7 @@ Daniel Hillard (Robin Williams) está passando por uma fase complicada, acaba de
 "<item>
 
 <title>Uma Batalha de Fé [COLOR yellow][IMDb 3,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMABTLHDFE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMABTLHDFE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6205.jpg</image>
@@ -2946,7 +2946,7 @@ Hunter Wilde é o líder de um grupo de sobreviventes cristãos que está tentan
 "<item>
 
 <title>Uma Boa História [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMABAHSTRIA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMABAHSTRIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6206.jpg</image>
@@ -2965,7 +2965,7 @@ Um novo funcionário se junta a uma pizzaria em uma cidade pequena, pouco antes 
 "<item>
 
 <title>Uma Canção de Amor para Bobby Long [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMCNCDAMRPRBOBY.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMCNCDAMRPRBOBY.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6208.jpg</image>
@@ -2984,7 +2984,7 @@ Purslane Hominy Will (Scarlett Johansson) é uma jovem que fica sabendo pelo seu
 "<item>
 
 <title>Uma Canção para Latasha [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMCANCPRLTSHA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMCANCPRLTSHA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6209.jpg</image>
@@ -3003,7 +3003,7 @@ O assassinato de Latasha Harlins foi o estopim para os protestos de 1992 em Los 
 "<item>
 
 <title>Uma Chamada Perdida [COLOR yellow][IMDb 4,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMCHMDPRD.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMCHMDPRD.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6210.jpg</image>
@@ -3022,7 +3022,7 @@ Várias pessoas recebem mensagens aterrorizantes no celular, contendo o dia, a h
 "<item>
 
 <title>Uma Cilada para Roger Rabbit [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UMACLDAPRGER.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UMACLDAPRGER.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6211.jpg</image>
@@ -3041,7 +3041,7 @@ O detetive de carne e osso Eddie Valiant (Bob Hoskins) é contratado para descob
 "<item>
 
 <title>Uma Comédia Nada Romântica [COLOR yellow][IMDb 2,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMCMDIANDRMTCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMCMDIANDRMTCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6212.jpg</image>
@@ -3060,7 +3060,7 @@ Julia Jones (Alyson Hannigan) é uma garçonete pouco atraente, que trabalha no 
 "<item>
 
 <title>Uma Criança Como Jake [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UMCRANCCMJKE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UMCRANCCMJKE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6213.jpg</image>
@@ -3079,7 +3079,7 @@ Alex (Claire Danes) e Greg Wheeler (Jim Parsons) têm grandes expectativas para 
 "<item>
 
 <title>Uma Dobra no Tempo [COLOR yellow][IMDb 4,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMDOBRNTEMP.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMDOBRNTEMP.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6214.jpg</image>
@@ -3098,7 +3098,7 @@ Os irmãos Meg (Storm Reid) e Charles (Deric McCabe) decidem reencontrar o pai, 
 "<item>
 
 <title>Uma Dupla Quase Perfeita [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMDPLAQSPRFTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMDPLAQSPRFTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6215.jpg</image>
@@ -3117,7 +3117,7 @@ Scott Turner é um detetive que leva uma vida extremamente organizada. Um dia, e
 "<item>
 
 <title>Uma Escola Muito Doida [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMESCLMTDOIDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMESCLMTDOIDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6216.jpg</image>
@@ -3136,7 +3136,7 @@ Após ser aceito numa escola barra pesada, um verdadeiro palco de guerra de gang
 "<item>
 
 <title>Uma Escola Muito Especial, Para Garotas [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMESCLAMTESPCLPRMLHRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMESCLAMTESPCLPRMLHRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6217.jpg</image>
@@ -3155,7 +3155,7 @@ Cherryvale Academy, é uma escola para moças que fica ao lado da academia mascu
 "<item>
 
 <title>Uma Esperança no Natal [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMAESPCDNTL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMAESPCDNTL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6218.jpg</image>
@@ -3174,7 +3174,7 @@ No filme Uma Esperança no Natal A magia do Natal transformará a vida de uma fa
 "<item>
 
 <title>Uma Família de Dois [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMFMLDOS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMFMLDOS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6219.jpg</image>
@@ -3193,7 +3193,7 @@ Samuel (Omar Sy) nunca foi de ter muitas responsabilidades. Levando uma vida tra
 "<item>
 
 <title>Uma Família em Apuros [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMFMLEMAPURS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMFMLEMAPURS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6220.jpg</image>
@@ -3212,7 +3212,7 @@ Quando Artie e Diane tomam conta dos netos e veem que os modernos métodos de ed
 "<item>
 
 <title>Uma Família Feliz [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAFMLFLZ.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAFMLFLZ.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6221.jpg</image>
@@ -3231,7 +3231,7 @@ Emma, a mãe da família Wishbone, está tentando de todas as formas salvar a re
 "<item>
 
 <title>Uma Fazenda Maluca [COLOR yellow][IMDb 3,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMFZNDMLCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMFZNDMLCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6222.jpg</image>
@@ -3250,7 +3250,7 @@ Baseado em um clássico conto da literatura checa. Esta história fala sobre a a
 "<item>
 
 <title>Uma Fazenda Maluca 2: Queijo de Cabra [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMFZNDMLCA2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMFZNDMLCA2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6223.jpg</image>
@@ -3269,7 +3269,7 @@ O jovem Zuzanka, Honzik e Goat procuram os pais das crianças, que o diabo apare
 "<item>
 
 <title>Uma Floresta Muito Louca [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMFLRSTMTLC.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMFLRSTMTLC.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6224.jpg</image>
@@ -3288,7 +3288,7 @@ Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um 
 "<item>
 
 <title>Uma Forma de Assassinato [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAFRMDASNT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAFRMDASNT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6225.jpg</image>
@@ -3307,7 +3307,7 @@ Walter Stackhouse é um rico homem preso em um infeliz casamento com Clara. Seu 
 "<item>
 
 <title>Uma Garota Encantada [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMGRTAENCTDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMGRTAENCTDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6226.jpg</image>
@@ -3326,7 +3326,7 @@ Ella ganha o dom da obediência de sua madrinha. Após seu pai se casar novament
 "<item>
 
 <title>Uma Guerra Pessoal [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMGRAPSOAL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMGRAPSOAL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6227.jpg</image>
@@ -3345,7 +3345,7 @@ Biografia sobre a jornalista Marie Colvin (Rosamund Pike), premiada repórter no
 "<item>
 
 <title>Uma História de Luta [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMHSTRDLTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMHSTRDLTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6228.jpg</image>
@@ -3364,7 +3364,7 @@ Jace é um garoto cego que está tendo problemas para se adaptar à nova escola 
 "<item>
 
 <title>Uma História de Vingança [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMHISTRDVING.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMHISTRDVING.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6229.jpg</image>
@@ -3383,7 +3383,7 @@ Uma mãe solteira foi vítima de um crime brutal: um estupro coletivo. Ela foi d
 "<item>
 
 <title>Uma Invenção de Natal [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMAINVCAODNTL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMAINVCAODNTL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6230.jpg</image>
@@ -3421,7 +3421,7 @@ Quando a sua irmã (Tiffany Haddish) é libertada da prisão e reencontra sua vi
 "<item>
 
 <title>Uma Jornada de Perdão [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMJRNDPRDAO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMJRNDPRDAO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6231.jpg</image>
@@ -3440,7 +3440,7 @@ Baseado nas inspiradoras parábolas ""O Filho Pródigo"" e ""O Bom Samaritano"",
 "<item>
 
 <title>Uma Jornada Para Toda a Vida [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAJRNDAPRTDVDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAJRNDAPRTDVDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6232.jpg</image>
@@ -3459,7 +3459,7 @@ Austrália, 1997. Uma jovem embarca em uma caminhada de 2.700 quilômetros pelo 
 "<item>
 
 <title>Uma Lição de Amor [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UMLCDAMR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UMLCDAMR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6233.jpg</image>
@@ -3478,7 +3478,7 @@ Sam Dawson (Sean Penn) é um homem com deficiência mental que cria sua filha Lu
 "<item>
 
 <title>Uma Lição de Vida [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UMLCAODVDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UMLCAODVDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6234.jpg</image>
@@ -3497,7 +3497,7 @@ Numa pequena escola fundamental no topo de uma remota montanha no Quênia, cente
 "<item>
 
 <title>Uma Luz na Escuridão [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMLZNAESCRDAO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMLZNAESCRDAO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6235.jpg</image>
@@ -3516,7 +3516,7 @@ Uma secretária se apaixona por seu novo chefe misterioso e insiste em ir para a
 "<item>
 
 <title>Uma Manhã Gloriosa [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMNHAGLRSA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNHAGLRSA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6236.jpg</image>
@@ -3535,7 +3535,7 @@ Recém-contratada como produtora de um programa de notícias matutino, Becky Ful
 "<item>
 
 <title>Uma Mensagem Através do Tempo [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMNSHMATRVSDTMP.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMNSHMATRVSDTMP.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6237.jpg</image>
@@ -3554,7 +3554,7 @@ Enfrentando mudanças, Augusta é novata na escola e imediatamente se torna o al
 "<item>
 
 <title>Uma Mente Brilhante [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMNTRBRLHNTE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTRBRLHNTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6238.jpg</image>
@@ -3573,7 +3573,7 @@ John Nash (Russell Crowe) é um gênio da matemática que, aos 21 anos, formulou
 "<item>
 
 <title>Uma Noite Alucinante 2 [COLOR yellow][IMDb 7,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMNTALCNTE2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTALCNTE2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6239.jpg</image>
@@ -3592,7 +3592,7 @@ Ash (Bruce Campbell) leva sua namorada Linda (Denise Bixler) até uma casa aband
 "<item>
 
 <title>Uma Noite Alucinante 3 [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMNTALCNTE3.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTALCNTE3.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6240.jpg</image>
@@ -3611,7 +3611,7 @@ Ash é transportado acidentalmente para os tempos medievais. Preso no passado, e
 "<item>
 
 <title>Uma Noite Alucinante: A Morte do Demônio [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMNTALCNTE1.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTALCNTE1.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6241.jpg</image>
@@ -3630,7 +3630,7 @@ Ashley e um grupo de amigos vão para uma casa na floresta para uma noite de div
 "<item>
 
 <title>Uma Noite Com a Família Blacks [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMANTCMAFMLBLC.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMANTCMAFMLBLC.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6242.jpg</image>
@@ -3649,7 +3649,7 @@ Comédia que parodia que o filme de terror ""Uma noite de crime"". Uma vez por a
 "<item>
 
 <title>Uma Noite de Aventuras [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMNTDAVNTS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTDAVNTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6243.jpg</image>
@@ -3668,7 +3668,7 @@ Chris aceita passar a noite como babá, após ter seus planos de sair com o namo
 "<item>
 
 <title>Uma Noite de Crime [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMNTDCRM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTDCRM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6244.jpg</image>
@@ -3687,7 +3687,7 @@ Nos Estados Unidos, uma lei permite toda e qualquer atividade ilegal por 12 hora
 "<item>
 
 <title>Uma Noite de Crime: Anarquia [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMNTDCRM2ARQU.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTDCRM2ARQU.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6245.jpg</image>
@@ -3706,7 +3706,7 @@ O governo dos Estados Unidos sanciona uma lei em que os assassinatos são permit
 "<item>
 
 <title>Uma Noite de Loucuras [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMANTDLOCRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMANTDLOCRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6246.jpg</image>
@@ -3725,7 +3725,7 @@ Quatro mulheres, cujos filhos freqüentam a mesma classe pré-escolar, se reúne
 "<item>
 
 <title>Uma Noite e Tanto [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMNTEMTANT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTEMTANT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6247.jpg</image>
@@ -3763,7 +3763,7 @@ O melhor assassino do ramo faz sua 500ª morte — e decide se aposentar. Em vez
 "<item>
 
 <title>Uma Noite Infernal [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMANTINFRNL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMANTINFRNL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6248.jpg</image>
@@ -3782,7 +3782,7 @@ Melinda é solitária e instável, que está cansada de ser ofuscada por Sheila,
 "<item>
 
 <title>Uma Noite Mágica [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMNTMGCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTMGCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6249.jpg</image>
@@ -3801,7 +3801,7 @@ Jack Frost (Michael Keaton) é um cantor que sempre está viajando, assim ele n�
 "<item>
 
 <title>Uma Noite Mais que Louca [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMNTMTLOCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTMTLOCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6250.jpg</image>
@@ -3820,7 +3820,7 @@ Matt Franklin (Topher Grace) é um jovem de 22 anos recém-graduado que não sab
 "<item>
 
 <title>Uma Noite Muito Louca [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMNTMTLCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMNTMTLCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6251.jpg</image>
@@ -3839,7 +3839,7 @@ A garota mais popular do colégio, Tara Mitchell (Lori Loughlin), perde uma apos
 "<item>
 
 <title>Uma Noite no Museu [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UNTNMSU1.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UNTNMSU1.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6252.jpg</image>
@@ -3858,7 +3858,7 @@ Larry Daley (Ben Stiller) é um homem de bom coração, que arranja um emprego c
 "<item>
 
 <title>Uma Noite no Museu 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UNTNMSU2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UNTNMSU2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6253.jpg</image>
@@ -3877,7 +3877,7 @@ O guarda-noturno do Museu de História Natural Larry Daley é agora um empresár
 "<item>
 
 <title>Uma Noite no Museu 3: O Segredo da Tumba [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UNTNMSU3.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UNTNMSU3.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6254.jpg</image>
@@ -3896,7 +3896,7 @@ O segurança Larry Daley (Ben Stiller) segue com seu inusitado trabalho no Museu
 "<item>
 
 <title>Uma Noite Para Esquecer [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMNTPRESQCR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTPRESQCR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6255.jpg</image>
@@ -3915,7 +3915,7 @@ Tom (Iain De Caestecker) e Lucy (Alice Englert) fazem planos para uma viagem com
 "<item>
 
 <title>Uma Noiva em Apuros [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMNVEMAPRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMNVEMAPRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6256.jpg</image>
@@ -3934,7 +3934,7 @@ Uma mentira inocente pode ficar fora de controle e levar a um desastre total? Ou
 "<item>
 
 <title>Uma Notícia Inesperada [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UNTCINSPRD.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UNTCINSPRD.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6257.jpg</image>
@@ -3953,7 +3953,7 @@ No Filme Donna Stern (Jenny Slate) é uma comediante de pouco sucesso. Após ser
 "<item>
 
 <title>Uma Nova Chance [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMNVCHNCE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMNVCHNCE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6258.jpg</image>
@@ -3972,7 +3972,7 @@ Maya é uma caixa de supermercado insatisfeita com sua vida profissional. Porém
 "<item>
 
 <title>Uma Paixão em Nova York [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMPXAOEMNVYRK.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMPXAOEMNVYRK.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6259.jpg</image>
@@ -3991,7 +3991,7 @@ Kyle (Casper Van Dien) e Jenna (Rachel Wilson) são colegas de trabalho e vivem 
 "<item>
 
 <title>Uma Prece Antes do Amanhecer  [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMPRCANTSDAMNHCE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMPRCANTSDAMNHCE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6260.jpg</image>
@@ -4010,7 +4010,7 @@ Encarcerado em uma das prisões mais bárbaras e mortais do planeta, a Klong Pre
 "<item>
 
 <title>Uma Prova de Amor [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMPRVDAMR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMPRVDAMR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6261.jpg</image>
@@ -4029,7 +4029,7 @@ Sara (Cameron Diaz) e Brian Fitzgerald (Jason Patric) são informados que Kate (
 "<item>
 
 <title>Uma Prova De Fé [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMPVRDFE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMPVRDFE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6262.jpg</image>
@@ -4048,7 +4048,7 @@ John e Alexa Taylor são um casal quase perfeito, a ponto de dar inveja a seus v
 "<item>
 
 <title>Uma Prova de Fé 2: Voltando para Casa [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMPVRDFE2VLTDPRCSA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMPVRDFE2VLTDPRCSA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6263.jpg</image>
@@ -4067,7 +4067,7 @@ Tudo parece estar dando errado para a família Taylor agora. No momento em que A
 "<item>
 
 <title>Uma Questão de Fé [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAQSTAODFE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAQSTAODFE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6264.jpg</image>
@@ -4086,7 +4086,7 @@ Três famílias têm seus caminhos interligados quando duas tragédias as conect
 "<item>
 
 <title>Uma Razão Para Recomeçar [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMARZAOPRCOMCR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMARZAOPRCOMCR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6265.jpg</image>
@@ -4105,7 +4105,7 @@ A vida de Benjamin Morton mudou para sempre no dia em que conheceu sua vizinha. 
 "<item>
 
 <title>Uma Razão para Vencer [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMARZAOPRVNCE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMARZAOPRVNCE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6266.jpg</image>
@@ -4124,7 +4124,7 @@ Após a morte de sua estrela, a jogadora Caroline ""Line"" Found, a equipe femin
 "<item>
 
 <title>Uma Razão para Viver [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/UMRZOPRVR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMRZOPRVR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6267.jpg</image>
@@ -4143,7 +4143,7 @@ A história real de Robin, um homem brilhante e aventureiro que fica paralisado 
 "<item>
 
 <title>Uma Ressaca de 9 Meses [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMARSCAD9MS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMARSCAD9MS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6268.jpg</image>
@@ -4162,7 +4162,7 @@ Maru (Karla Souza), está passando por um momento delicado e totalmente inespera
 "<item>
 
 <title>Uma Segunda Chance [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMASGNDCHNCE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMASGNDCHNCE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6269.jpg</image>
@@ -4181,7 +4181,7 @@ Agora que Ned é roteirista de um programa de TV e está sendo pressionado, est�
 "<item>
 
 <title>Uma Segunda Chance Para Amar [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMSGNDCHNCPRAMR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMSGNDCHNCPRAMR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6270.jpg</image>
@@ -4200,7 +4200,7 @@ Kate (Emilia Clarke) é uma jovem inglesa cuja vida é uma bagunça. Ela trabalh
 "<item>
 
 <title>Uma Segunda Chance: Rivais! [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMASGNDCHNCERVS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMASGNDCHNCERVS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6271.jpg</image>
@@ -4219,7 +4219,7 @@ A estrela da ginástica Maddy Cornell (Emily Morris, estrela de ""A Second Chanc
 "<item>
 
 <title>Uma Turma Do Barulho [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UMTRMDBRLHO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UMTRMDBRLHO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6272.jpg</image>
@@ -4238,7 +4238,7 @@ Calvin pe um candidato a empresário com grandes projetos. E dirigir a barbearia
 "<item>
 
 <title>Uma Verdade Mais Inconveniente [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAVRDADMASINCVNTE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAVRDADMASINCVNTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6273.jpg</image>
@@ -4257,7 +4257,7 @@ Dez anos após ""Uma Verdade Inconveniente"" ter alertado sobre a necessidade da
 "<item>
 
 <title>Uma Viagem Extraordinária [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UMAVGMEXTRORDNRIA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMAVGMEXTRORDNRIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6274.jpg</image>
@@ -4276,7 +4276,7 @@ Aos doze anos de idade, T.S. Spivet é um garoto superdotado, apaixonado por car
 "<item>
 
 <title>Uma Viagem para Espanha [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMVGMPRESPNHA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMVGMPRESPNHA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6275.jpg</image>
@@ -4295,7 +4295,7 @@ Os amigos Steve Coogan e Rob Brydon já tinham viajado pela Inglaterra e Itália
 "<item>
 
 <title>Uma Vida Com Propósito [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMAVDCMPRPSTO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMAVDCMPRPSTO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6276.jpg</image>
@@ -4314,7 +4314,7 @@ Cinebiografia baseada na história real e no diário de Rachel Joy Scott, uma ad
 "<item>
 
 <title>Uma Vida Oculta [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/UMAVDOCLTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMAVDOCLTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6277.jpg</image>
@@ -4333,7 +4333,7 @@ Franz Jägerstätter (August Diehl) é um fazendeiro austríaco que se torna her
 "<item>
 
 <title>Una [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UNA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UNA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6278.jpg</image>
@@ -4352,7 +4352,7 @@ Ray (Ben Mendelsohn) e Una (Rooney Mara) já tiveram um complicado relacionament
 "<item>
 
 <title>Universidade Monstros [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UNIMNSTRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UNIMNSTRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6279.jpg</image>
@@ -4371,7 +4371,7 @@ Mike e Sulley, alunos promissores da Universidade Monstros, são forçados a se 
 "<item>
 
 <title>Up: Altas Aventuras [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/UPALTSAVNTRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UPALTSAVNTRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6280.jpg</image>
@@ -4390,7 +4390,7 @@ Carl Fredricksen é um vendedor de balões que, aos 78 anos, está prestes a per
 "<item>
 
 <title>Upa – Meu Monstro Favorito [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UPAMEMNSTFVTO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UPAMEMNSTFVTO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6281.jpg</image>
@@ -4409,7 +4409,7 @@ Em uma realidade na qual seres humanos e monstros coexistem, a rainha dos monstr
 "<item>
 
 <title>Upstarts [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/UPSTRTS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UPSTRTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6282.jpg</image>
@@ -4428,7 +4428,7 @@ Na esperança de fazer o bem e ao mesmo tempo ganhar milhões, três recém-form
 "<item>
 
 <title>Urge: Desejo Perigoso [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/DESJOPERGSO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DESJOPERGSO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6283.jpg</image>
@@ -4447,7 +4447,7 @@ Um grupo de amigos decide tirar ""férias"" de suas vidas cotidianas e de seus t
 "<item>
 
 <title>Ursos [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/URSOS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/URSOS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6284.jpg</image>
@@ -4466,7 +4466,7 @@ Apresentando um ano na vida de uma família de ursos, onde a mãe ensina seus do
 "<item>
 
 <title>Ursos Polares - Uma Odisseia No Verão [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/URSPOLRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/URSPOLRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6285.jpg</image>
@@ -4485,7 +4485,7 @@ Filmado ao longo de doze meses, este documentário da vida selvagem blue chip co
 "<item>
 
 <title>Ursos Sem Curso: O Filme [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/URSNCROFLM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/URSNCROFLM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6286.jpg</image>
@@ -4504,7 +4504,7 @@ Quando Pardo, Panda e Polar, amantes de food trucks e vídeos virais saem de con
 "<item>
 
 <title>V de Vingança [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VDVNGNCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VDVNGNCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6287.jpg</image>
@@ -4523,7 +4523,7 @@ Após uma guerra mundial, a Inglaterra é ocupada por um governo fascista e vive
 "<item>
 
 <title>Valente [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLNTE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLNTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6288.jpg</image>
@@ -4542,7 +4542,7 @@ Determinada a seguir seu próprio caminho na vida, a princesa Mérida desafia um
 "<item>
 
 <title>Valerian e a Cidade dos Mil Planetas [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VLRIANEACDEDSMLPLNT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VLRIANEACDEDSMLPLNT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6289.jpg</image>
@@ -4561,7 +4561,7 @@ Século XXVIII. Valérian é um agente viajante do tempo e do espaço que luta a
 "<item>
 
 <title>Valhalla: A Lenda de Thor [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VLHALNDADTHR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VLHALNDADTHR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6290.jpg</image>
@@ -4580,7 +4580,7 @@ As crianças Vikings Røskva e Tjalfe embarcam em uma viagem de aventura de Midg
 "<item>
 
 <title>Valiant - Um Herói que Vale a Pena [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VALNTUMHRQVLEAPENA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VALNTUMHRQVLEAPENA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6291.jpg</image>
@@ -4599,7 +4599,7 @@ Valiant (Ewan McGregor) é um jovem pombo que sonha em se alistar na Força Aér
 "<item>
 
 <title>Vamp - A Noite dos Vampiros [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VMPANTDSVMPRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VMPANTDSVMPRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6292.jpg</image>
@@ -4618,7 +4618,7 @@ Três jovens amigos decidem viver uma noite de aventura num clube de strip-tease
 "<item>
 
 <title>Vampiro em Vegas [COLOR yellow][IMDb 2,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VMPREMVGS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VMPREMVGS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6293.jpg</image>
@@ -4637,7 +4637,7 @@ Em Las Vegas, o poderoso Sylvian vampiro velho de 300 anos, contrata Dr. van Hel
 "<item>
 
 <title>Vampiros de John Carpenter [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VMPRSDJHNCRPTER.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VMPRSDJHNCRPTER.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6294.jpg</image>
@@ -4656,7 +4656,7 @@ Jack Crow (James Woods) é o líder de uma equipa de mercenários contratados se
 "<item>
 
 <title>Vampiros X The Bronx [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VMPSXTHBRNX.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VMPSXTHBRNX.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6295.jpg</image>
@@ -4675,7 +4675,7 @@ No Bronx, três meninos corajosos descobrem um plano sinistro para acabar com a 
 "<item>
 
 <title>Vamps - A Morte Não Existe para o Amor [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VMPSAMRTNEXTPROAMR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VMPSAMRTNEXTPROAMR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6296.jpg</image>
@@ -4694,7 +4694,7 @@ Depois de muitos anos, Andrey ( Konstantin Kryukov), afilhado da Imperatriz Eliz
 "<item>
 
 <title>Van Helsing: Missão Londres [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VNHLSHMSAOLNDRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNHLSHMSAOLNDRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6297.jpg</image>
@@ -4713,7 +4713,7 @@ No filme Van Helsing: Missão Londres, Acompanhe Van Helsing (Hugh Jackman, voz)
 "<item>
 
 <title>Van Helsing: O Caçador de Monstros [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VNHLSHOCDRDMSNTRO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNHLSHOCDRDMSNTRO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6298.jpg</image>
@@ -4732,7 +4732,7 @@ No século 19, um especialista em monstros, o dr. Van Helsing, é contratado pel
 "<item>
 
 <title>Vazante [COLOR yellow][IMDb 2,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VZNTS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VZNTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6299.jpg</image>
@@ -4751,7 +4751,7 @@ O que o oceano traz, o oceano leva embora.</info>
 "<item>
 
 <title>Veia de Lutador [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VEIADLTDR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VEIADLTDR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6300.jpg</image>
@@ -4770,7 +4770,7 @@ Shawn MacArthur (Channing Tatum ) é um jovem do interior que que chega à Nova 
 "<item>
 
 <title>Velhos Tempos [COLOR yellow][IMDb 4,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLHSTMPS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLHSTMPS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6301.jpg</image>
@@ -4789,7 +4789,7 @@ Anthony teve de suportar um pai abusivo, desempregado e alcoólatra, mas foi abe
 "<item>
 
 <title>Velocidade Máxima [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VLCDMXMA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VLCDMXMA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6302.jpg</image>
@@ -4808,7 +4808,7 @@ Howard Payne é um psicopata que está ameaçando Los Angeles com explosivos. Ja
 "<item>
 
 <title>Velocidade Máxima 2 [COLOR yellow][IMDb 3,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VLCDMXMA2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VLCDMXMA2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6303.jpg</image>
@@ -4827,7 +4827,7 @@ O cruzeiro que Annie (Sandra Bullock) faz ao Caribe com Alex Shaw (Jason Patric)
 "<item>
 
 <title>Velocidade Mortal [COLOR yellow][IMDb 4,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VLCDADEMRTL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VLCDADEMRTL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6304.jpg</image>
@@ -4865,7 +4865,7 @@ Natasha Martin é a vocalista de uma das mais promissoras bandas da Costa Oeste 
 "<item>
 
 <title>Veloz Como o Vento [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VLZCMOVNTO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VLZCMOVNTO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6305.jpg</image>
@@ -4884,7 +4884,7 @@ A paixão por motores sempre correu nas veias de Giulia De Martino. Ela vem de u
 "<item>
 
 <title>Velozes & Furiosos 7 [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLZEFROSOS07.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS07.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6310.jpg</image>
@@ -4903,7 +4903,7 @@ Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a
 "<item>
 
 <title>Velozes e Furiosos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLZEFROSOS01.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS01.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6306.jpg</image>
@@ -4922,7 +4922,7 @@ Dominic Toretto é o líder de uma gangue de corridas de ruas em Los Angeles que
 "<item>
 
 <title>Velozes e Furiosos 4 [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLZEFROSOS04.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS04.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6307.jpg</image>
@@ -4941,7 +4941,7 @@ Depois de ser visto rumo ao México no filme que deu origem a série, Dominic ""
 "<item>
 
 <title>Velozes e Furiosos 5: Operação Rio [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLZEFROSOS05.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS05.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6308.jpg</image>
@@ -4960,7 +4960,7 @@ Desde que o ex-policial Brian O'Conner e Mia Torretto libertaram Dom da prisão,
 "<item>
 
 <title>Velozes e Furiosos 6 [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLZEFROSOS06.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS06.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6309.jpg</image>
@@ -4979,7 +4979,7 @@ Desde que o golpe de Dom e Brian no Rio de Janeiro deixou o grupo com US$100 mil
 "<item>
 
 <title>Velozes e Furiosos 8 [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VLZEFROSOS08.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VLZEFROSOS08.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6311.jpg</image>
@@ -4998,7 +4998,7 @@ Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e 
 "<item>
 
 <title>Velozes e Furiosos: Desafio em Tóquio [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VLZEFROSOS03.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS03.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6312.jpg</image>
@@ -5017,7 +5017,7 @@ Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da 
 "<item>
 
 <title>Velozes e Furiosos: Hobbs & Shaw [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VLZEFROSOSHBSESWDUB.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VLZEFROSOSHBSESWDUB.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6313.jpg</image>
@@ -5036,7 +5036,7 @@ Desde que se conheceram, em ""Velozes & Furiosos 7"", Luke Hobbs (Dwayne Johnson
 "<item>
 
 <title>Velozes e Mortais [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VLZEMRTS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VLZEMRTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6314.jpg</image>
@@ -5055,7 +5055,7 @@ Rennie Cray (James Caviezel) é um homem amargurado, que sofre pelo assassinato 
 "<item>
 
 <title>Velvet Buzzsaw: Toda Arte é Perigosa  [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VLTBZSAW.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VLTBZSAW.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6315.jpg</image>
@@ -5074,7 +5074,7 @@ Após uma série de pinturas de um autor desconhecido serem encontradas, uma for
 "<item>
 
 <title>Vem com o Papai [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VMCMOPAPI.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VMCMOPAPI.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6316.jpg</image>
@@ -5093,7 +5093,7 @@ Um homem de trinta e poucos anos viaja para uma cabana remota para se reconectar
 "<item>
 
 <title>Vencer ou Morrer [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VNCROUMRE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNCROUMRE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6317.jpg</image>
@@ -5112,7 +5112,7 @@ Um prisioneiro foragido, Sam (Jean-Claude Van Damme), tem o azar de estar sempre
 "<item>
 
 <title>Vende-se Esta Casa [COLOR yellow][IMDb 3,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNDSESTCSA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNDSESTCSA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6318.jpg</image>
@@ -5131,7 +5131,7 @@ Depois de uma tragédia, uma mãe e o filho adolescente vão viver nas montanhas
 "<item>
 
 <title>Venom [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VNOM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VNOM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6319.jpg</image>
@@ -5150,7 +5150,7 @@ Jovem é morto em circunstâncias sobrenaturais. Sua morte é investigada por ou
 "<item>
 
 <title>Venom [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VENOM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VENOM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6320.jpg</image>
@@ -5169,7 +5169,7 @@ O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corp
 "<item>
 
 <title>Ventos da Liberdade [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VNTDLBRDADE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VNTDLBRDADE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6321.jpg</image>
@@ -5188,7 +5188,7 @@ No verão de 1979, na Alemanha Oriental, uma família bola um ousado plano para 
 "<item>
 
 <title>Vera - Sonhos de Inverno [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VRASNHSDINVRNO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VRASNHSDINVRNO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6323.jpg</image>
@@ -5207,7 +5207,7 @@ Um cristal está deixando tudo congelado no Reino do Arco-Íris, até os morador
 "<item>
 
 <title>Vera Cruz [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VERCRZ.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VERCRZ.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6322.jpg</image>
@@ -5226,7 +5226,7 @@ Cooper e Lancaster interpretam Benjamin Trane e Joe Erin, dois perigosos mercen�
 "<item>
 
 <title>Verão 2003 [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VERAO03.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VERAO03.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6324.jpg</image>
@@ -5245,7 +5245,7 @@ Jamie é pega de surpresa pelo falecimento da avó. No meio de uma crise familia
 "<item>
 
 <title>Verão de 42: Houve uma Vez um Verão  [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VRAOD42.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRAOD42.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6325.jpg</image>
@@ -5264,7 +5264,7 @@ Aos quinze anos de idade, Hermie (Gary Grimes) vai passar as férias na praia. D
 "<item>
 
 <title>Verão de Ilusões [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VRAODILSOS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRAODILSOS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6326.jpg</image>
@@ -5283,7 +5283,7 @@ Rick está com 30 anos, mas ainda trabalha em tempo integral como salva-vidas na
 "<item>
 
 <title>Verão em Staten Island [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VERAEMSTISLND.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VERAEMSTISLND.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6327.jpg</image>
@@ -5302,7 +5302,7 @@ A trama segue os amigos Danny e Frank durante o verão depois da sua formatura n
 "<item>
 
 <title>Verdade e Honra [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VRDEHNRA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRDEHNRA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6328.jpg</image>
@@ -5321,7 +5321,7 @@ A história é centrada no jovem investigador do Pentágono Scott Huffman que lu
 "<item>
 
 <title>Verdade e Justiça [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VRDAEJSTCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRDAEJSTCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6329.jpg</image>
@@ -5340,7 +5340,7 @@ Estônia, 1870. O jovem Andres, juntamente com sua esposa Krõõt, chegam a uma 
 "<item>
 
 <title>Verdade Oculta [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VRDOCLTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VRDOCLTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6330.jpg</image>
@@ -5359,7 +5359,7 @@ Pablo Rouviot (Benjamín Vicuña) é um renomado psicanalista que recebe o pedid
 "<item>
 
 <title>Verdade ou Desafio [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VRDAOUDSFIO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRDAOUDSFIO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6331.jpg</image>
@@ -5378,7 +5378,7 @@ Olivia, Lucas e um grupo de amigos viajam ao México como uma despedida antes da
 "<item>
 
 <title>Verônica: Jogo Sobrenatural [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VRNCA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRNCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6332.jpg</image>
@@ -5397,7 +5397,7 @@ Após ter participado de uma sessão espírita na escola, uma jovem encarregada 
 "<item>
 
 <title>Versões de um Crime [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VRSOSDUMCRM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRSOSDUMCRM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6333.jpg</image>
@@ -5416,7 +5416,7 @@ Um adolescente é acusado de assassinar o pai rico. Um advogado é encarregado d
 "<item>
 
 <title>Vestido Maldito [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VSTDMLDTO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VSTDMLDTO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6334.jpg</image>
@@ -5435,7 +5435,7 @@ Durante as promoções de inverno de uma loja de departamento, um vestido amaldi
 "<item>
 
 <title>Viagem 2: A Ilha Misteriosa [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIGM2AILHMSTOSA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGM2AILHMSTOSA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6335.jpg</image>
@@ -5454,7 +5454,7 @@ Sean capta uma mensagem codificada vinda de uma ilha misteriosa localizada em um
 "<item>
 
 <title>Viagem ao Centro da Terra: O Filme [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIGMAOCNTRDTRA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGMAOCNTRDTRA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6336.jpg</image>
@@ -5473,7 +5473,7 @@ Trevor Anderson (Brendan Fraser) é um cientista cujas teorias não são bem ace
 "<item>
 
 <title>Viagem das Garotas [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIAGMDSGRTS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIAGMDSGRTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6337.jpg</image>
@@ -5492,7 +5492,7 @@ Quatro amigas de longa data partem em uma longa jornada em busca de diversão po
 "<item>
 
 <title>Viagem das Loucas [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VGMDSLCS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VGMDSLCS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6338.jpg</image>
@@ -5511,7 +5511,7 @@ Após levar um pé na bunda, uma mulher (Amy Schumer) decide se recuperar, e de 
 "<item>
 
 <title>Viagem Insólita [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VGMINSLTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VGMINSLTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6339.jpg</image>
@@ -5530,7 +5530,7 @@ Tuck Pendleton (Dennis Quaid), um piloto de teste da Marinha, se ofereceu para u
 "<item>
 
 <title>Viagem Maldita [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIGMLDTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGMLDTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6340.jpg</image>
@@ -5549,7 +5549,7 @@ Viagem Maldita é a história de uma família em férias com direção à Calif�
 "<item>
 
 <title>Viagem Maldita 2: O Retorno dos Malditos [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIGMLDTA2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGMLDTA2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6341.jpg</image>
@@ -5568,7 +5568,7 @@ Como parte de uma missão de rotina, uma unidade de soldados da Guarda Nacional 
 "<item>
 
 <title>Viagem Sem Volta [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIGMSMVLTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGMSMVLTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6342.jpg</image>
@@ -5587,7 +5587,7 @@ Durante as férias, a insônia faz esta garota perder a capacidade de distinguir
 "<item>
 
 <title>Vibes: Boas Vibrações [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VBSBSVBRCOES.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VBSBSVBRCOES.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6343.jpg</image>
@@ -5606,7 +5606,7 @@ Nick Deezy (Jeff Goldblum, de O Reencontro) e Sylvia Pickel (interpretada pela c
 "<item>
 
 <title>Vice [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VICE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VICE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6344.jpg</image>
@@ -5625,7 +5625,7 @@ Acompanhe a ascensão de Dick Cheney ao se tornar um dos homens mais poderoso do
 "<item>
 
 <title>Vício Frenético [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VCIOFRNTCO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VCIOFRNTCO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6345.jpg</image>
@@ -5644,7 +5644,7 @@ Após salvar um prisioneiro de afogamento em decorrência do furacão Katrina, o
 "<item>
 
 <title>Vício Inerente [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VCOINRNT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VCOINRNT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6346.jpg</image>
@@ -5663,7 +5663,7 @@ Em uma comunidade litorânea da Califórnia, o solitário detetive particular La
 "<item>
 
 <title>Victor Frankenstein [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VCTFRNKSTEN.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VCTFRNKSTEN.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6347.jpg</image>
@@ -5682,7 +5682,7 @@ Ao visitar um circo, o cientista Victor Frankenstein (James McAvoy) encontra um 
 "<item>
 
 <title>Victoria e Abdul: O Confidente da Rainha [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VCTREABDL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VCTREABDL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6348.jpg</image>
@@ -5701,7 +5701,7 @@ A extraordinária história real de uma amizade inesperada nos últimos anos da 
 "<item>
 
 <title>Vida [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6349.jpg</image>
@@ -5739,7 +5739,7 @@ Zach (Dane de Haan) está devastado com a morte repentina de sua namorada, Beth 
 "<item>
 
 <title>Vida de Inseto [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VDADISNTO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VDADISNTO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6350.jpg</image>
@@ -5758,7 +5758,7 @@ Todo ano, os gananciosos gafanhotos exigem uma parte da colheita das formigas. M
 "<item>
 
 <title>Vida Dupla [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VDADPLA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VDADPLA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6351.jpg</image>
@@ -5777,7 +5777,7 @@ Quando Sabrina suspeita da possível infidelidade de seu marido com suas numeros
 "<item>
 
 <title>Vida Na Natureza [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VDANTRZA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VDANTRZA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6352.jpg</image>
@@ -5796,7 +5796,7 @@ Bluebird é uma mulher espanhola. Ela decide fazer a trilha dos Apalaches, nos E
 "<item>
 
 <title>Vida Selvagem [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VDSLVGM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VDSLVGM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6353.jpg</image>
@@ -5815,7 +5815,7 @@ Aos 14 anos de idade, Joe (Ed Oxenbould) começa a perceber que sua família est
 "<item>
 
 <title>Vidas Sem Rumo [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VDSSMRUMO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VDSSMRUMO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6354.jpg</image>
@@ -5834,7 +5834,7 @@ Três órfãos tentam sobreviver onde tudo se restringe a mexicanos pobres e ric
 "<item>
 
 <title>Vidro [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VDRO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VDRO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6355.jpg</image>
@@ -5853,7 +5853,7 @@ Kevin Crumb, um homem com 24 personalidades diferentes, passa a ser perseguido p
 "<item>
 
 <title>Vigiados [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VGDOS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VGDOS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6356.jpg</image>
@@ -5872,7 +5872,7 @@ Dois casais alugam uma casa para o que deveria ser um final de semana de celebra
 "<item>
 
 <title>Vigilantes da Guerra [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VGLNTDGURA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VGLNTDGURA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6357.jpg</image>
@@ -5891,7 +5891,7 @@ Jack é um soldado americano que é colocado para trabalhar na prisão iraquiana
 "<item>
 
 <title>Viking [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VKNG.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VKNG.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6358.jpg</image>
@@ -5910,7 +5910,7 @@ Após a morte de seu pai, Vladimir, príncipe viking é forçado ao exilio atrav
 "<item>
 
 <title>Viking – Os Pergaminhos Sagrados [COLOR yellow][IMDb 2,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VKNGOSPRGMNHSGDS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VKNGOSPRGMNHSGDS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6359.jpg</image>
@@ -5929,7 +5929,7 @@ Nos tempos antigos, sete livros sagrados são usados para conceder poder e prosp
 "<item>
 
 <title>Vincent N Roxxy - Cúmplices Por Acidente [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VNCTNRXYCMPLSPRACNDT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VNCTNRXYCMPLSPRACNDT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6366.jpg</image>
@@ -5986,7 +5986,7 @@ Quando Rumpelstiltskin destrói o espelho mágico e foge para o mundo moderno, a
 "<item>
 
 <title>Vingadores: Era de Ultron [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VNGDRSEDURON.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNGDRSEDURON.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6360.jpg</image>
@@ -6005,7 +6005,7 @@ Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de int
 "<item>
 
 <title>Vingadores: Guerra Infinita [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6361.jpg</image>
@@ -6024,7 +6024,7 @@ Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mai
 "<item>
 
 <title>Vingadores: Ultimato [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VNGDRSULTMTO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6362.jpg</image>
@@ -6043,7 +6043,7 @@ Após os eventos devastadores de ""Vingadores: Guerra Infinita"", o universo est
 "<item>
 
 <title>Vingança [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNGA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6363.jpg</image>
@@ -6062,7 +6062,7 @@ Um assassino é traído por gangsters e cai nas mãos de uma desonesta cirurgiã
 "<item>
 
 <title>Vingança [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNGNCA2018.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGNCA2018.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6364.jpg</image>
@@ -6081,7 +6081,7 @@ Três homens casados e ricos fazem anualmente uma espécie de caçada no deserto
 "<item>
 
 <title>Vingança a Sangue Frio [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VNGCASNGFRIO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VNGCASNGFRIO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6367.jpg</image>
@@ -6100,7 +6100,7 @@ Nels é um tranquilo homem de família que trabalha como motorista de um removed
 "<item>
 
 <title>Vingança à Sangue Frio [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VNGCASNGFRIO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNGCASNGFRIO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6365.jpg</image>
@@ -6119,7 +6119,7 @@ Protagonizado por Jean Reno (O Profissional), Vingança à Sangue Frio é um sus
 "<item>
 
 <title>Vingança ao Anoitecer [COLOR yellow][IMDb 4,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VNGCAOANTCR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VNGCAOANTCR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6368.jpg</image>
@@ -6138,7 +6138,7 @@ Evan Lake (Nicolas Cage) é um condecorado agente da CIA cuja entrega, determina
 "<item>
 
 <title>Vingança em Bangkok [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNGCEMBAGKOK.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGCEMBAGKOK.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6369.jpg</image>
@@ -6157,7 +6157,7 @@ Manit (Jon Foo) testemunhou o assassinato de seus pais quando ele tinha apenas 1
 "<item>
 
 <title>Vingança Fatal [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNGFTL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGFTL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6370.jpg</image>
@@ -6176,7 +6176,7 @@ Um herói de guerra guiado por culpa e sofrendo de transtorno de estresse pós-t
 "<item>
 
 <title>Vingança FM [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VNGNCFM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNGNCFM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6371.jpg</image>
@@ -6195,7 +6195,7 @@ Jarvis Dolan é o principal jornalista do bem-sucedido programa de rádio noturn
 "<item>
 
 <title>Vingança Mesmo Que Tardia [COLOR yellow][IMDb 2,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNCGMSMQTRDIA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNCGMSMQTRDIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6372.jpg</image>
@@ -6214,7 +6214,7 @@ Um western que tem um olhar diferente, com vingança que Calamity Jane assume, a
 "<item>
 
 <title>Violet Evergarden Gaiden - Eternidade e a Boneca de Automemória [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VIOLTEVRGRDNGEABDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VIOLTEVRGRDNGEABDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6373.jpg</image>
@@ -6233,7 +6233,7 @@ Isabella, a filha da nobre família York, está matriculada em uma escola só pa
 "<item>
 
 <title>VIPs [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VIPS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VIPS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6374.jpg</image>
@@ -6252,7 +6252,7 @@ Marcelo não consegue conviver com sua própria identidade, o que faz com que as
 "<item>
 
 <title>Viral [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VRL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6376.jpg</image>
@@ -6271,7 +6271,7 @@ Emma (Sofia Black-D'Elia) e sua irmã levam uma vida normal em um pequena cidade
 "<item>
 
 <title>Vira-lata [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VRLTA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRLTA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6375.jpg</image>
@@ -6290,7 +6290,7 @@ Um acidente no laboratório de alta tecnologia do dr. Simon Barsinistro (Peter D
 "<item>
 
 <title>Virando a Mesa do Poder [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VRNDAMSADPDR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VRNDAMSADPDR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6377.jpg</image>
@@ -6309,7 +6309,7 @@ Uma jovem bartender do Bronx, uma mãe de luto em Nevada e uma enfermeira do Mis
 "<item>
 
 <title>Virando a Noite [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VRNDOANTE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VRNDOANTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6378.jpg</image>
@@ -6328,7 +6328,7 @@ Alex (Adam Scott), Emily (Taylor Schilling) e o filho deles, RJ, são novos em L
 "<item>
 
 <title>Virando a Página [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VRNDAPGNA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VRNDAPGNA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6379.jpg</image>
@@ -6347,7 +6347,7 @@ Há 15 anos, o roteirista Keith Michaels estava no topo do mundo, com um Globo d
 "<item>
 
 <title>VIRUNGA [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VRNG.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRNG.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6380.jpg</image>
@@ -6366,7 +6366,7 @@ Conheça a história verídica dos guardas que arriscam a vida para proteger o p
 "<item>
 
 <title>Virus [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VRUS1999.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VRUS1999.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6381.jpg</image>
@@ -6385,7 +6385,7 @@ Após perder sua carga, que afundou em tempestade, o navio ""Sea Star"" procura 
 "<item>
 
 <title>Vírus [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6382.jpg</image>
@@ -6404,7 +6404,7 @@ Um vírus mortal se espalhou por todo o planeta, fazendo com que ninguém seja c
 "<item>
 
 <title>Visitas Noturnas [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VSTSNTRNS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VSTSNTRNS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6383.jpg</image>
@@ -6423,7 +6423,7 @@ Michelle Miller é uma sonâmbula crônica. Uma noite, ela caminha até a casa d
 "<item>
 
 <title>Visões do Passado [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VSOESDPSDO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VSOESDPSDO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6384.jpg</image>
@@ -6442,7 +6442,7 @@ O psicólogo Peter Bower e sua esposa decidem retornar a Melbourne, na Austráli
 "<item>
 
 <title>Viva - A Vida é uma Festa [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VIVAAVDEUMFST.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIVAAVDEUMFST.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6385.jpg</image>
@@ -6461,7 +6461,7 @@ O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonh
 "<item>
 
 <title>Viveiro [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VIVRO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VIVRO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6386.jpg</image>
@@ -6480,7 +6480,7 @@ Quando o casal de noivos Tom (Jesse Eisenberg) e Gemma (Imogen Poots), à procur
 "<item>
 
 <title>Vivendo o Agora [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VNDOAGRA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNDOAGRA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6387.jpg</image>
@@ -6499,7 +6499,7 @@ Jeppe, um jovem de 17 anos, se apaixona por Cecilie, mas quando ela é diagnosti
 "<item>
 
 <title>Viver Duas Vezes [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VIVRDSVZS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VIVRDSVZS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6388.jpg</image>
@@ -6518,7 +6518,7 @@ Quando Emilio (Oscar Martínez) é diagnosticado com Alzheimer, ele e sua famíl
 "<item>
 
 <title>Vizinhos Imediatos de 3° Grau [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VIZNHIMDATS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VIZNHIMDATS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6389.jpg</image>
@@ -6537,7 +6537,7 @@ Quatro amigos formam um grupo de vigilância do bairro. Equipados, levam sua mis
 "<item>
 
 <title>Vizinhos Nada Secretos [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VZNHSNDSCRTS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VZNHSNDSCRTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6390.jpg</image>
@@ -6556,7 +6556,7 @@ Um casal suburbano se envolve em uma trama de espionagem internacional quando de
 "<item>
 
 <title>Voando Alto [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/VONDOALT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VONDOALT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6391.jpg</image>
@@ -6575,7 +6575,7 @@ O pequeno Manou passou a vida inteira acreditando que era uma gaivota, quando na
 "<item>
 
 <title>Você Acredita? [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VCACRDT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VCACRDT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6392.jpg</image>
@@ -6594,7 +6594,7 @@ Um pastor encontra por acaso um mendigo que prega a palavra de Deus pelas ruas e
 "<item>
 
 <title>Você Já Esteve Na Lua? [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VCJAESTVNLUA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VCJAESTVNLUA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6393.jpg</image>
@@ -6613,7 +6613,7 @@ Giulia is thirty years old and unmarried. She has a good job which allows her to
 "<item>
 
 <title>Você Já Foi à Bahia? [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VCJFOABHA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VCJFOABHA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6394.jpg</image>
@@ -6632,7 +6632,7 @@ Pato Donald recebe uma grande caixa no dia de seu aniversário, trazendo três p
 "<item>
 
 <title>Você Nunca Esteve Realmente Aqui [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VCNUCESTVRELMTAKI.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VCNUCESTVRELMTAKI.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6395.jpg</image>
@@ -6651,7 +6651,7 @@ Um homem, veterano de guerra, ganha a vida resgatando mulheres presas em cativei
 "<item>
 
 <title>Você Quer Saber um Segredo? [COLOR yellow][IMDb 3,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VCQRSBRUMSGRDO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VCQRSBRUMSGRDO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6396.jpg</image>
@@ -6670,7 +6670,7 @@ Seis estudantes chegam e Bayhead Flórida para as férias de primavera. O que co
 "<item>
 
 <title>Volcano - A Fúria [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VOLVNAFURIA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VOLVNAFURIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6397.jpg</image>
@@ -6689,7 +6689,7 @@ Em Los Angeles surge um desconhecido vulcão ativo, causando grande destruição
 "<item>
 
 <title>Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VLTAOMNDEM80DS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VLTAOMNDEM80DS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6398.jpg</image>
@@ -6708,7 +6708,7 @@ Phileas Fogg, inventor que vive na Inglaterra vitoriana, é desafiado por outro 
 "<item>
 
 <title>Voltando do Inferno [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VLTNDINFNO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VLTNDINFNO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6399.jpg</image>
@@ -6727,7 +6727,7 @@ Dois meninos são surpreendidos com o sumiço de um de seus melhores amigos. Des
 "<item>
 
 <title>Voo 7500 [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/VOO7500.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VOO7500.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6400.jpg</image>
@@ -6746,7 +6746,7 @@ O voo 7500 parte do Aeroporto Internacional de Los Angeles com destino a Tóquio
 "<item>
 
 <title>Vovó... Zona [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VOVZNA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6401.jpg</image>
@@ -6765,7 +6765,7 @@ O agente do FBI Malcolm Turner (Martin Lawrence) é duro, inteligente e um mestr
 "<item>
 
 <title>Vovó... Zona 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VOVZNA2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6402.jpg</image>
@@ -6784,7 +6784,7 @@ Após prender um famoso ladrão de bancos, o detetive do FBI Malcolm Turner (Mar
 "<item>
 
 <title>Vovó... Zona 3: Tal Pai Tal Filho [COLOR yellow][IMDb 4,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/VOVZNA3.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA3.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6403.jpg</image>
@@ -6803,7 +6803,7 @@ O jovem Trent (Brandon T. Jakcson) só queria saber de se tornar um rapper, mas 
 "<item>
 
 <title>Vox Lux: O Preço da Fama [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/VXLXOPRCDFMA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VXLXOPRCDFMA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6404.jpg</image>
@@ -6822,7 +6822,7 @@ Celeste é uma menina que sobrevive após uma grande tragédia, o que a torna co
 "<item>
 
 <title>Voyeur [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VYER.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VYER.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6405.jpg</image>
@@ -6860,7 +6860,7 @@ Depois de uma tragédia ocorrer em sua nova casa, Daniel escuta um pedido de soc
 "<item>
 
 <title>Vulcão - O Apocalipse [COLOR yellow][IMDb 2,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/VLCOAPCLPSE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VLCOAPCLPSE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6406.jpg</image>
@@ -6879,7 +6879,7 @@ Um ex-comandante das Forças Especiais visita Pompéia, para resgatar sua esposa
 "<item>
 
 <title>Wallace e Gromit - A Batalha dos Vegetais [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/WLCEGRMTABTLGHDSVGNTS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/WLCEGRMTABTLGHDSVGNTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6408.jpg</image>
@@ -6898,7 +6898,7 @@ O bairro onde moram o pacato inventor Wallace (Peter Sallis) e seu fiel cão Gro
 "<item>
 
 <title>WALL-E [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/WLLE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WLLE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6407.jpg</image>
@@ -6917,7 +6917,7 @@ Em um distante futuro, um pequeno robô coletor de lixo embarca em uma jornada e
 "<item>
 
 <title>Warcraft - O Primeiro Encontro de Dois Mundos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/WARCRFT.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WARCRFT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6409.jpg</image>
@@ -6936,7 +6936,7 @@ A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com
 "<item>
 
 <title>Wasp Network: Rede de Espiões [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/WSPNTWRK.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WSPNTWRK.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6410.jpg</image>
@@ -6955,7 +6955,7 @@ Espiões cubanos se infiltram em grupos de exilados para deter o terrorismo cont
 "<item>
 
 <title>Watchmen: Contos do Cargueiro Negro [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6412.jpg</image>
@@ -6974,7 +6974,7 @@ Os temidos piratas do Cargueiro Negro fazem um ataque, deixando somente um sobre
 "<item>
 
 <title>Watchmen: O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/WTCHMNOFLM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WTCHMNOFLM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6411.jpg</image>
@@ -6993,7 +6993,7 @@ Um de seus antigos colegas é assassinado, e o vigilante mascarado Rorschach dec
 "<item>
 
 <title>Waterworld: O Segredo das Águas [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/WATRWRLD.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WATRWRLD.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6413.jpg</image>
@@ -7012,7 +7012,7 @@ Em meados do terceiro milênio, em razão do derretimento das calotas polares, a
 "<item>
 
 <title>Weevil [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/WEVL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/WEVL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6414.jpg</image>
@@ -7031,7 +7031,7 @@ Black Mountain National Park has long harboured a strange history, from masses o
 "<item>
 
 <title>Wendy Wu: A Garota Kung-Fu [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/WNDYWUAGRTKNGFU.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WNDYWUAGRTKNGFU.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6415.jpg</image>
@@ -7050,7 +7050,7 @@ Wendy Wu é uma adolescente com uma vida perfeita: ela é bonita, popular e alé
 "<item>
 
 <title>Westworld - Onde Ninguém Tem Alma [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/WSTWLDONDNGMTMALMA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WSTWLDONDNGMTMALMA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</image>
@@ -7069,7 +7069,7 @@ Num resort futurista, visitantes ricos podem visitar recriações de diferentes 
 "<item>
 
 <title>Wheelman [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/WHRLMN.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WHRLMN.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6417.jpg</image>
@@ -7088,7 +7088,7 @@ O piloto de fuga de um assalto fracassado coloca suas habilidades à prova quand
 "<item>
 
 <title>Wheely - Velozes e Divertidos [COLOR yellow][IMDb 4,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6418.jpg</image>
@@ -7107,7 +7107,7 @@ Wheely, um pequeno táxi verde e amarelo que sonha em se tornar o Rei da estrada
 "<item>
 
 <title>Whiplash: Em Busca da Perfeição [COLOR yellow][IMDb 8,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/WHPSHEBSCDPFC.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WHPSHEBSCDPFC.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6419.jpg</image>
@@ -7126,7 +7126,7 @@ Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção d
 "<item>
 
 <title>White Boy Rick [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/WHTBOYRCK.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WHTBOYRCK.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6420.jpg</image>
@@ -7145,7 +7145,7 @@ A história de Richard Wershe Jr. (Richie Merritt) que, em meados da década de 
 "<item>
 
 <title>WiFi Ralph: Quebrando a Internet [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6421.jpg</image>
@@ -7164,7 +7164,7 @@ Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapal
 "<item>
 
 <title>Wig [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/WIG.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WIG.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6422.jpg</image>
@@ -7183,7 +7183,7 @@ Explorando as fortes influências do festival anual, Wigstock, responsável por 
 "<item>
 
 <title>Wildling: Criaturas Noturnas [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/SLVGMWDLNG.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SLVGMWDLNG.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6423.jpg</image>
@@ -7202,7 +7202,7 @@ Anna (Bel Powley) passou toda a sua infância sob os cuidados de um homem conhec
 "<item>
 
 <title>Willow - Na Terra da Magia [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/WLWNTRADMAGA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WLWNTRADMAGA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6424.jpg</image>
@@ -7221,7 +7221,7 @@ Numa terra mística onde o mágico é real, vive Willow Ufgood (Warwick Davis), 
 "<item>
 
 <title>Wilson [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/WLSN.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WLSN.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6425.jpg</image>
@@ -7240,7 +7240,7 @@ Wilson é um homem de meia-idade, introvertido, solitário, neurótico e hilaria
 "<item>
 
 <title>Wing Chun - Uma Luta Milenar [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6426.jpg</image>
@@ -7259,7 +7259,7 @@ Wing Chun (Michelle Yeoh) é um menina que vive em função de sua família e a 
 "<item>
 
 <title>Wishcraft – Feitiço Macabro [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/WSHCFTFTCMCBRO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WSHCFTFTCMCBRO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6427.jpg</image>
@@ -7278,7 +7278,7 @@ Ao receber uma caixa pelo correio, Brett Bumpers, não imaginava que sua vida mu
 "<item>
 
 <title>Wolf Creek - Viagem ao Inferno [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/WLFCRKVGMAOINFNO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WLFCRKVGMAOINFNO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6428.jpg</image>
@@ -7297,7 +7297,7 @@ Liz Hunter (Cassandra Magrath) e Kristy Earl (Kestie Morassi) são duas mochilei
 "<item>
 
 <title>Wolverine: Imortal [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMEN06.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN06.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</image>
@@ -7316,7 +7316,7 @@ Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. D
 "<item>
 
 <title>Woodlawn: Talento e Fé [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/TLNTEFWODLWN.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TLNTEFWODLWN.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6430.jpg</image>
@@ -7335,7 +7335,7 @@ Um jogador de futebol americano luta contra as pressões sociais e raciais para 
 "<item>
 
 <title>Wu Kong - Contra a Ira dos Deuses [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/WUKNGCNTRAIRDSDES.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WUKNGCNTRAIRDSDES.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6431.jpg</image>
@@ -7354,7 +7354,7 @@ Há muitos anos, o Monte Huaguo foi destruído pelo Reino Celestial, a morada do
 "<item>
 
 <title>Xanadu [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/XNDU.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/XNDU.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6440.jpg</image>
@@ -7373,7 +7373,7 @@ Uma bela musa inspira um artista e seu amigo mais velho a converter um auditóri
 "<item>
 
 <title>Xeque-Mate [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/XQUMTE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/XQUMTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6441.jpg</image>
@@ -7392,7 +7392,7 @@ Slevin Kelevra (Josh Hartnett) está com vários problemas em sua vida. O prédi
 "<item>
 
 <title>X-Men 2 [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMEN02.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN02.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6433.jpg</image>
@@ -7411,7 +7411,7 @@ Stryker, um ex-comandante perverso do exército, tem a chave para o passado de W
 "<item>
 
 <title>X-Men Origens: Wolverine [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMEN04.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN04.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6434.jpg</image>
@@ -7430,7 +7430,7 @@ Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, par
 "<item>
 
 <title>X-Men: Apocalipse [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMENAPCLPSE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMENAPCLPSE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6435.jpg</image>
@@ -7449,7 +7449,7 @@ Apocalipse, o primeiro mutante de todos, consegue retornar à vida após milhare
 "<item>
 
 <title>X-Men: Dias de um Futuro Esquecido [COLOR yellow][IMDb 7,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMEN07.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN07.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6436.jpg</image>
@@ -7468,7 +7468,7 @@ Convencido de que os mutantes são uma ameaça para a humanidade, o Dr. Bolivar 
 "<item>
 
 <title>X-Men: Fênix Negra [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/XMENFNXNGRA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/XMENFNXNGRA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6437.jpg</image>
@@ -7487,7 +7487,7 @@ Ambientado em 1992, Charles Xavier (James McAvoy) está lidando com o fato dos m
 "<item>
 
 <title>X-Men: O Confronto Final [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMEN03.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN03.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6438.jpg</image>
@@ -7506,7 +7506,7 @@ A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo
 "<item>
 
 <title>X-Men: O Filme [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMEN01.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN01.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6432.jpg</image>
@@ -7525,7 +7525,7 @@ Eles são filhos do átomo superior, o próximo elo na corrente da evolução. C
 "<item>
 
 <title>X-Men: Primeira Classe [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/XMEN05.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN05.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6439.jpg</image>
@@ -7544,7 +7544,7 @@ No início dos anos 1960, durante o auge da Guerra Fria, um mutante chamado Char
 "<item>
 
 <title>xXx 2: Estado de Emergência [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/TRPLX2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPLX2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6442.jpg</image>
@@ -7563,7 +7563,7 @@ O presidente dos Estados Unidos está recebendo ameaças de um grupo de dissiden
 "<item>
 
 <title>xXx: Reativado [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/TRPLXRATVD.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPLXRATVD.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6443.jpg</image>
@@ -7582,7 +7582,7 @@ Xander Cage desiste de sua aposentadoria quando Xiang, um guerreiro alfa mortal,
 "<item>
 
 <title>Yellowbird O Pequeno Herói [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6444.jpg</image>
@@ -7601,7 +7601,7 @@ Um pequenino passarinho órfão que nunca saiu de seu ninho. Tímido, desajeitad
 "<item>
 
 <title>Yesterday [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/YESRTDY.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YESRTDY.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6445.jpg</image>
@@ -7620,7 +7620,7 @@ Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estran
 "<item>
 
 <title>Yo-kai Watch o Filme: Enma Daioh e os Cinco Contos Nyan!  [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/YOKWTCHOGREEA5A.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YOKWTCHOGREEA5A.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6447.jpg</image>
@@ -7639,7 +7639,7 @@ Nate, Whisper, Jibanyan, Hailey, USApyon e todos os seus amigos Yo-kai embarcam 
 "<item>
 
 <title>Yo-kai Watch o Filme: O Segredo do Nascimento Nyan! [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/YOKWTCHOFLM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YOKWTCHOFLM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6446.jpg</image>
@@ -7658,7 +7658,7 @@ Quando os malvados Yo-Kai Kin, Gin e Bronzlow fazem o Yo-Kai Watch desaparecer c
 "<item>
 
 <title>You Can't Fight Christmas [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/YOUCNTFGHTCHRSMS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/YOUCNTFGHTCHRSMS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6448.jpg</image>
@@ -7696,7 +7696,7 @@ Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sort
 "<item>
 
 <title>Yu Yu Hakusho: Invasores do Inferno [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCServer09/ondemand/YUYUHKSFILME.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCServer09/ondemand/YUYUHKSFILME.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6449.jpg</image>
@@ -7715,7 +7715,7 @@ O Mundo Espiritual é atacado por uma forte enchente, arrasando com o lugar, cau
 "<item>
 
 <title>Yucatán [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/YCTN.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/YCTN.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6452.jpg</image>
@@ -7734,7 +7734,7 @@ Durante um cruzeiro entre a Espanha e o México, dois trapaceiros competem entre
 "<item>
 
 <title>Yu-Gi-Oh! O Filme: Pirâmide de Luz [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCServer01/videos/539c897b.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCServer01/videos/539c897b.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6450.jpg</image>
@@ -7753,7 +7753,7 @@ Na cronologia da série de anime, o filme se passa entre as sagas ""Cidade das B
 "<item>
 
 <title>Yu-Gi-Oh! O Lado Negro das Dimensões [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/YUGIOHOLDONGRDSDMSOES.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YUGIOHOLDONGRDSDMSOES.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6451.jpg</image>
@@ -7772,7 +7772,7 @@ Yu-Gi-Oh! O Lado Negro das Dimensões continua a saga do jovem que remontou o En
 "<item>
 
 <title>Z: A Cidade Perdida [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZCDSPRDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZCDSPRDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6455.jpg</image>
@@ -7791,7 +7791,7 @@ A incrível história real do explorador britânico Percy Fawcett (Charlie Hunna
 "<item>
 
 <title>Zack e Cody: O Filme [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZACKECDYOFLM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZACKECDYOFLM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6456.jpg</image>
@@ -7810,7 +7810,7 @@ Zack e Cody recebem a oportunidade de participar do prestigiado Projeto Gemini, 
 "<item>
 
 <title>Zapped [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZPED.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZPED.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6457.jpg</image>
@@ -7829,7 +7829,7 @@ Zoey Stevens é boa aluna e dançarina, mas está com dificuldades para se adapt
 "<item>
 
 <title>Zathura: Uma Aventura Espacial [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6458.jpg</image>
@@ -7848,7 +7848,7 @@ Após encontrarem um jogo no porão, os irmãos Walter (Josh Hutcherson) e Danny
 "<item>
 
 <title>Zé Colmeia : O Filme [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZECLMEIOFLM.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZECLMEIOFLM.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6459.jpg</image>
@@ -7867,7 +7867,7 @@ No filme, o parque Jellystone está perdendo visitantes, por isso o prefeito Bro
 "<item>
 
 <title>Zenon: A Garota do Século 21 [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZNONAGRTSCLO21.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZNONAGRTSCLO21.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6460.jpg</image>
@@ -7886,7 +7886,7 @@ Em 2049, Zenon arruma problemas com o dono da estação espacial onde vive com a
 "<item>
 
 <title>Zerando a Vida [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/ZRNDAVDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ZRNDAVDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6461.jpg</image>
@@ -7905,7 +7905,7 @@ Dois caras azarados perdem todo seu dinheiro e decidem fingir a própria morte p
 "<item>
 
 <title>Zeroville [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/ZROVLE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ZROVLE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6462.jpg</image>
@@ -7924,7 +7924,7 @@ No fim dos anos 1960, um jovem ator chega a Hollywood na intenção de trabalhar
 "<item>
 
 <title>Zeus & Roxanne [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/ZEUSERXNEQSEFTUNSPROTRO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ZEUSERXNEQSEFTUNSPROTRO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6463.jpg</image>
@@ -7943,7 +7943,7 @@ Mary Beth is a marine biologist that gets annoyed when a dog called Zeus stows a
 "<item>
 
 <title>Zion [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZION.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZION.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6464.jpg</image>
@@ -7962,7 +7962,7 @@ Sem as pernas e condenado a viver em lares adotivos por muitos anos, o adolescen
 "<item>
 
 <title>Zoando na Escola [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZANDAESCLA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZANDAESCLA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6465.jpg</image>
@@ -7981,7 +7981,7 @@ Billy não é exatamente o que se pode chamar de herói. Na verdade, graças ao 
 "<item>
 
 <title>Zoando no Campus [COLOR yellow][IMDb 1,8][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZNDONCMPS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZNDONCMPS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6466.jpg</image>
@@ -8000,7 +8000,7 @@ A young entrepreneur supplies the campus jocks and frat boys with choice female 
 "<item>
 
 <title>Zodíaco [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZDCO.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZDCO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6467.jpg</image>
@@ -8019,7 +8019,7 @@ Durante os anos 60 e 70, o medo aumenta em São Francisco com os ataques de um a
 "<item>
 
 <title>Zoe [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZOE.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6468.jpg</image>
@@ -8038,7 +8038,7 @@ A trama explora a história de amor proibido entre Zoe (Lea Seydoux) e seu coleg
 "<item>
 
 <title>Zoe e Raven: Os Doze Presentes de Natal [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/ZOERVNOSDZEPRSNTSDNTL.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ZOERVNOSDZEPRSNTSDNTL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6469.jpg</image>
@@ -8057,7 +8057,7 @@ O Campo Brilhante se prepara para a comemoração do Natal. Zoe descobre um segr
 "<item>
 
 <title>Z-O-M-B-I-E-S [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZMBS2018.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZMBS2018.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6453.jpg</image>
@@ -8076,7 +8076,7 @@ Um zumbi e uma líder de torcida trabalham juntos para mostrar à cidade o que p
 "<item>
 
 <title>Z-O-M-B-I-E-S 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZMBS20202.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZMBS20202.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6454.jpg</image>
@@ -8095,7 +8095,7 @@ Zed e Addison estão de volta à Seabrook High, onde, após um semestre inovador
 "<item>
 
 <title>Zona Desmilitarizada [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer1/ondemand/ZNADMLTZADA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ZNADMLTZADA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6470.jpg</image>
@@ -8114,7 +8114,7 @@ No dia da eleição presidencial dos EUA em 2024, Ahab e sua equipe de mercenár
 "<item>
 
 <title>Zona Fria [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZNFRIA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZNFRIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6471.jpg</image>
@@ -8133,7 +8133,7 @@ Uma tempestade gelada está chegando. Ninguém podia prever. Uma família deve l
 "<item>
 
 <title>Zona Futura / Polícia do Futuro 2: Exterminador [COLOR yellow][IMDb 3,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer5/ondemand/ZNAFTRA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ZNAFTRA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6472.jpg</image>
@@ -8152,7 +8152,7 @@ O filho de John Tucker viaja no tempo 30 anos para salvar seu pai de ser morto p
 "<item>
 
 <title>Zoo: Uma Amizade Maior que a Vida [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZOOUMZDMRQAVDA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZOOUMZDMRQAVDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6473.jpg</image>
@@ -8171,7 +8171,7 @@ Durante a Segunda Guerra Mundial, animais do zoológico de Belfast são ameaçad
 "<item>
 
 <title>Zoolander [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZOLNDR.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOLNDR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6474.jpg</image>
@@ -8190,7 +8190,7 @@ Derek Zoolander (Ben Stiller) é um supermodelo egocêntrico em crise, já que p
 "<item>
 
 <title>Zoolander 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZOLNDR2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOLNDR2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6475.jpg</image>
@@ -8209,7 +8209,7 @@ Depois que uma série de celebridades é assassinada, a agente policial e ex-mod
 "<item>
 
 <title>Zoom: Academia de Super-Heróis [COLOR yellow][IMDb 4,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ZOMACDMDSPRHRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOMACDMDSPRHRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6476.jpg</image>
@@ -8228,7 +8228,7 @@ Jack (Tim Allen) é, hoje em dia, um homem comum, mas costumava ser o Capitão Z
 "<item>
 
 <title>Zoombies [COLOR yellow][IMDb 3,3][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZMBIS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBIS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6477.jpg</image>
@@ -8247,7 +8247,7 @@ Quando um estranho vírus se espalha por um Safari Park, todos os animais do zoo
 "<item>
 
 <title>Zoombies 2 [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZMBIS2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBIS2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6478.jpg</image>
@@ -8266,7 +8266,7 @@ Um guarda florestal prendendo caçadores acaba salvando suas vidas quando animai
 "<item>
 
 <title>Zootopia: Essa Cidade é o Bicho [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/ZOTPIA.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ZOTPIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6479.jpg</image>
@@ -8285,7 +8285,7 @@ Judy Hopps é a pequena coelha de uma fazenda isolada, filha de agricultores que
 "<item>
 
 <title>Zumbilândia [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZMBLND.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBLND.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6480.jpg</image>
@@ -8304,7 +8304,7 @@ A população foi infectada com um vírus que faz com que as pessoas se transfor
 "<item>
 
 <title>Zumbilândia: Atire Duas Vezes [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ZMBLNDATRDSVZ.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBLNDATRDSVZ.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6481.jpg</image>
@@ -8323,7 +8323,7 @@ Os guerreiros pós-apocalípticos Tallahassee, Columbus, Wichita e Little Rock d
 "<item>
 
 <title>Zumbilênio: O Parque dos Monstros [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/ZMBLNIOPRQDSMNSTRS.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ZMBLNIOPRQDSMNSTRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6482.jpg</image>
