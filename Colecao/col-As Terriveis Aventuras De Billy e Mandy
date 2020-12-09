@@ -1,0 +1,19 @@
+"<item>
+
+<title>As Terríveis Aventuras De Billy e Mandy - Filme: Contra o Bicho Papão [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/ATADBMFCOBP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1049.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1049.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Animação, Cinema TV
+Lançamento: 2007
+
+Quando o Boogey Man faz com que Grim perca seus poderes, posição e título na Corte do Submundo por usar mal seus poderes, ele planeja procurar a Mão do Horror e dominar o mundo. Cabe a Billy, Mandy, Irwin e Grim chegar ao Horror's Hand antes que o Boogey Man o faça.</info>
+ 
+<genre>Aventura, Comédia, Animação, Cinema TV</genre>
+ 
+<date>03/04/2007</date>
+</item>"
