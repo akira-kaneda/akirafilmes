@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Barraca do Beijo [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ABARCDBJ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/132.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/132.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2018
+
+O primeiro beijo de Elle vira um romance proibido com o cara mais gato da escola, mas acaba colocando em risco a relação com seu melhor amigo.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>11/05/2018</date>
+</item>"
+"<item>
+
+<title>A Barraca do Beijo 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ABARCDBJ2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/133.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/133.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Após o verão mais romântico de sua vida, Elle Evans precisa voltar à realidade enquanto Noah Flynn está em Harvard. No entanto, a distância acaba se provando mais difícil do que se imaginava, quando ela conhece um novo e charmoso amigo e ele se aproxima de uma ""perfeita"" universitária.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>24/07/2020</date>
+</item>"
