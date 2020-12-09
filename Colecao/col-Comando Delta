@@ -1,0 +1,57 @@
+"<item>
+
+<title>Comando Delta [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMDLT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1601.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1601.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1986
+
+Cinco anos depois de o major Scott McCoy demitir-se da Força Delta devido a questões burocráticas, ele retorna com o coronel Alexander para prender terroristas libaneses que sequestraram um Boeing 707. O líder terrorista Abdul Rifi faz de refém a tripulação e redireciona o avião para Beirute. Quando McCoy e Alexander tentam salvar os reféns, eles são forçados a combater um grupo de terroristas que é maior do que o esperado.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>20/03/1986</date>
+</item>"
+"<item>
+
+<title>Comando Delta 2 - Conexão Colômbia [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMDLT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1602.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1602.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1990
+
+O Coronel Scott McCoy (Chuck Norris) tem uma nova missão: enfrentar o maior chefe do tráfico de drogas no mundo, o colombiano Ramon Cota (Billy Drago). O bandido sequestra uma equipe de agentes americanos e os leva em seu esconderijo na América do Sul. Agora, cabe a McCoy e o Comando Delta salvar os prisioneiros e terminar com o império do traficante.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>30/08/1990</date>
+</item>"
+"<item>
+
+<title>Comando Delta 3 - O Jogo da Morte [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMDLT3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1603.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1603.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 1991
+
+Soldados americanos e soviéticos sequestram lider árabe para impedir que uma bomba exploda em Nova York.</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>01/01/1991</date>
+</item>"
