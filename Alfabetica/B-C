@@ -156,6 +156,44 @@ Armando é um assassino de sangue frio com uma natureza cruel e provocadora. Ele
 </item>"
 "<item>
 
+<title>Baile de Formatura 2 - Vestida para a Vingança [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BALDFRMTR2VSTDORVNGC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5749.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5749.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1987
+
+30 anos após sua morte acidental, no baile de formatura de 1957, o espírito torturado de Mary Lou Maloney, retorna e busca por vingança.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>16/10/1987</date>
+</item>"
+"<item>
+
+<title>Baile de Formatura: A Morte Convida para Dançar [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BALDFRMTRAMRTCNDPRDNCAR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5750.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5750.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1980
+
+Um assassino mascarado persegue quatro adolescentes em seu baile de formatura para vingar a morte acidental de uma criança seis anos atrás.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>18/07/1980</date>
+</item>"
+"<item>
+
 <title>Bala Perdida [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/BLAPRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1163,6 +1201,25 @@ Duas-Caras e Charada, dois excêntricos bandidos, decidem descobrir a identidade
 </item>"
 "<item>
 
+<title>Batman Lego: O Filme - Super Heróis Se Unem [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3048.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3048.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família, Baseado em Quadrinho
+Lançamento: 2016
+
+Esta adaptação do videogame apresenta Batman, Flash, Mulher Maravilha, Lanterna Verde, Coringa e mesmo Yoda e Indiana Jones em uma aventura cômica, parodiando os filmes de super-heróis. Esta Liga da Justiça deve combater os vilões Lex Luthor e Coringa, que pretendem destruir a cidade de Gotham.</info>
+ 
+<genre>Animação, Aventura, Família, Baseado em Quadrinho</genre>
+ 
+<date>28/03/2016</date>
+</item>"
+"<item>
+
 <title>Batman Ninja [COLOR yellow][IMDb 5,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/BTMNJA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1885,6 +1942,25 @@ Mark Hogancamp (Steve Carell) é agredido por vários homens em um bar, e entra 
 </item>"
 "<item>
 
+<title>Ben 10 Contra o Universo: O Filme [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BN10CNTROUNVRSOFLME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5726.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5726.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura, Ficção científica, Cinema TV
+Lançamento: 2020
+
+Quando um fantasma do passado de Ben, Vilgax, volta para prejudicar em dobro a Equipe Tennyson e o próprio planeta Terra, Ben deve ir ao espaço para salvar o dia.</info>
+ 
+<genre>Animação, Ação, Aventura, Ficção científica, Cinema TV</genre>
+ 
+<date>11/10/2020</date>
+</item>"
+"<item>
+
 <title>Ben 10 Destroy All Aliens [COLOR yellow][IMDb 5,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCServer05/ondemand/BEN10FILME03.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2457,6 +2533,25 @@ Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programa
 </item>"
 "<item>
 
+<title>Blackout: A Batalha Final [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BLCKOTABTLHFNL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5727.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5727.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Ação
+Lançamento: 2019
+
+Nenhum meteorito atingiu a Terra, nenhum terrorista colocou o mundo em perigo, nenhuma guerra atômica foi iniciada, mas algo deu errado. O contato entre a maioria das cidades da Terra foi cortado. Uma pequena área semelhante a um anel na Europa Oriental ainda tem eletricidade. O que forças militares encontram fora do Anel é chocante. Há cadáveres mortos em todos os lugares: nas lojas, nos carros, nas estradas, nos hospitais e nas estações ferroviárias. Quem ou o que está destruindo toda a vida na Terra? Por quanto tempo o último posto avançado da humanidade sobreviverá?</info>
+ 
+<genre>Thriller, Ficção científica, Ação</genre>
+ 
+<date>21/11/2019</date>
+</item>"
+"<item>
+
 <title>Blackwood [COLOR yellow][IMDb 5,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/BLCKWOD.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2701,6 +2796,25 @@ O pirata Burger Beard rouba a receita secreta do adorado hambúrguer de siri e B
 <genre>Aventura, Comédia, Família, Fantasia, Animação</genre>
  
 <date>05/02/2015</date>
+</item>"
+"<item>
+
+<title>Bob Esponja: O Incrível Resgate [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3952.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3952.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Aventura, Comédia, Família
+Lançamento: 2020
+
+Onde está Gary? Segundo Bob Esponja, Gary foi ""caracolstrado"" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</info>
+ 
+<genre>Fantasia, Animação, Aventura, Comédia, Família</genre>
+ 
+<date>14/08/2020</date>
 </item>"
 "<item>
 
@@ -3176,6 +3290,25 @@ A história do imperdoável do imperdoável mundo da corrida automobilística pr
 <genre>Ação, Drama</genre>
  
 <date>02/10/2018</date>
+</item>"
+"<item>
+
+<title>BÖRÜ: Esquadrão Lobo [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESQDAOLBO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5724.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5724.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra, Thriller
+Lançamento: 2018
+
+Os agentes da unidade de operações especiais da polícia turca têm de enfrentar o perigo em missões arriscadas e a tragédia na vida pessoal.</info>
+ 
+<genre>Ação, Guerra, Thriller</genre>
+ 
+<date>28/02/2018</date>
 </item>"
 "<item>
 
@@ -3730,6 +3863,44 @@ Uma bela policial persegue suspeitos que balearam e mataram seu parceiro e namor
 </item>"
 "<item>
 
+<title>Brinquedos do Terror [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRNQDSTROR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5775.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5775.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2020
+
+Pouco antes do Natal, a jovem Zoe, seu irmão Franklin e sua família se mudam para uma mansão isolada com um passado sombrio. Enquanto os adultos se concentram na renovação do local, as crianças entediadas encontram um baú de brinquedos escondido no sótão e ficam maravilhados quando os brinquedos lá dentro ganham vida. Mas eventos bizarros logo começam a acontecer – eventos que ameaçam a vida da família. Conforme o dia especial amanhece com presentes empilhados sob a árvore, a contagem de corpos aumenta e o sangue começa a fluir. Este “conto assustador” original vai fazer as crianças gritarem pelas férias!</info>
+ 
+<genre>Terror</genre>
+ 
+<date>18/10/2020</date>
+</item>"
+"<item>
+
+<title>Bronco Billy [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRNCBLY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3958.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3958.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Faroeste
+Lançamento: 1980
+
+Ex-vendedor de sapatos compra um circo especializado em números do Velho Oeste e se transforma no caubói Bronco Billy, que faz muito sucesso com as crianças. Mas ele tem uma ajudante muito atrapalhada que provoca grandes confusões.</info>
+ 
+<genre>Comédia, Romance, Faroeste</genre>
+ 
+<date>13/06/1980</date>
+</item>"
+"<item>
+
 <title>Brooklyn - Sem Pai Nem Mãe [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/BKRLNSMPANMAE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3860,6 +4031,25 @@ Malva é uma menina de 10 anos, que leva uma vida tranquila com sua avó e seu b
 <genre>Animação, Família</genre>
  
 <date>15/09/2015</date>
+</item>"
+"<item>
+
+<title>Buffalo Boys [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BFLOBYS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5728.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5728.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação
+Lançamento: 2019
+
+Traído pelas forças coloniais holandesas, Arana consegue escapar junto com seus sobrinhos Jamar e Suwo, os filhos recém-nascidos de Hamza, um dos últimos sultões indonésios lutando contra a tirania estrangeira. Em 1860, depois de vagar por anos nas planícies do Velho Oeste americano, Arana e os dois irmãos retornam à Indonésia para vingar seus entes queridos mortos e punir o homem mau que causou sua desgraça.</info>
+ 
+<genre>Drama, Ação</genre>
+ 
+<date>11/01/2019</date>
 </item>"
 "<item>
 
@@ -4069,6 +4259,25 @@ Richard Walker (Harrison Ford) é um médico que vai com Sondra (Betty Buckley),
 <genre>Thriller</genre>
  
 <date>19/02/1988</date>
+</item>"
+"<item>
+
+<title>Busca Impagável [COLOR yellow][IMDb 3,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TOKNLEG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5964.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5964.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 2015
+
+A trama gira em torno de Bryan Millers (Lee Tergesen), a versão de Bryan Mills (Liam Neeson), um ex-agente da CIA que agora trabalha como segurança de shopping. Ele continua achando que coisas estão sendo tomadas dele: sua esposa, seu cão, a virgindade da filha… Com a ajuda da mãe idosa e também ex-agente da CIA, Bryan descobre que tudo é culpa de sua nêmesis Dedo Marrom (Margaret Cho), que pretende literalmente explodir sua família e uma matilha de cães.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>26/05/2015</date>
 </item>"
 "<item>
 
@@ -4794,6 +5003,25 @@ Luli é uma garota de 13 anos, do Nebraska, cujos pais fugiram, deixando-a sozin
 </item>"
 "<item>
 
+<title>Caixa Preta [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CXAPRTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3730.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3730.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica, Thriller
+Lançamento: 2020
+
+Depois de perder sua esposa e sua memória em um acidente de carro, um pai solteiro passa por um tratamento experimental agonizante que faz com que ele questione quem ele realmente é.</info>
+ 
+<genre>Terror, Ficção científica, Thriller</genre>
+ 
+<date>06/10/2020</date>
+</item>"
+"<item>
+
 <title>Cake - Uma Razão Para Viver [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/CKEUMRZAOPRVR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4810,6 +5038,25 @@ Claire Simmons (Jennifer Aniston) é uma mulher traumatizada e depressiva, que b
 <genre>Drama</genre>
  
 <date>18/03/2015</date>
+</item>"
+"<item>
+
+<title>Calafrios [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CALFRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3761.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3761.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1976
+
+Num condomínio fechado localizado em uma bela ilha canadense, os turistas estão lentamente cedendo à loucura. Um estranho vírus toma conta de seus corpos, infectando a todos. Os sintomas são incontroláveis: homens e mulheres são acometidos de acessos de violência e desejo… Não há como escapar, nem onde se esconder …Enfim, entregam-se a um comportamento sexual animalesco e bizarro. Nonsense, humor penetrante, terror e morte, o filme mais escatológico de Cronenberg. Neste filme a mortal epidemia ganha contornos de uma doença altamente contagiosa, que hoje em dia poderíamos associar com o HIV e a guerra biológica.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>06/07/1976</date>
 </item>"
 "<item>
 
@@ -5458,6 +5705,25 @@ Nova York, final dos anos 1930. A repórter Polly Perkins (Gwyneth Paltrow) desc
 <genre>Mistério, Ação, Thriller, Ficção científica, Aventura</genre>
  
 <date>19/11/2004</date>
+</item>"
+"<item>
+
+<title>Capturado [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CPTRADO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3732.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3732.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2020
+
+Nero (Scott Adkins) é um ex-agente extremamente habilidoso que, da noite para o dia, se vê na missão mais importante de sua carreira: salvar a vida de seu filho. Enclausurado no deserto, o garoto tem cerca de 5 horas de oxigênio. É o tempo que Nero terá para pôr fim a três grandes organizações criminosas caso queira reencontrá-lo.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>12/10/2020</date>
 </item>"
 "<item>
 
@@ -6394,6 +6660,25 @@ Ao receberem um convide de casamento no Rio de Janeiro, quatro francesas que sã
 </item>"
 "<item>
 
+<title>Cavaleiro das Trevas [COLOR yellow][IMDb 2,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CAVLRODSTRVS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3852.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3852.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Terror
+Lançamento: 2013
+
+Ao chegarem a um velho mosteiro, um grupo de cavaleiros mercenários se depara com templários que sucumbiram à praga. Um sobrevivente entrega ao grupo de viajantes um objeto e pede que eles levem ao seu destino. Tal relíquia é nada menos que o Santo Graal. O que os cavaleiros não esperavam era que, além de lidar com o perigo da praga, eles teriam que enfrentar assassinos dispostos a tudo para evitar que eles cheguem ao seu destino.</info>
+ 
+<genre>Fantasia, Ação, Terror</genre>
+ 
+<date>30/06/2013</date>
+</item>"
+"<item>
+
 <title>Cavaleiro de Copas [COLOR yellow][IMDb 5,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/CAVLDCPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6505,6 +6790,25 @@ Dr. Louis Creed (Jason Clarke), que após se mudar com sua esposa Rachel (Amy Se
 <genre>Thriller, Terror</genre>
  
 <date>09/05/2019</date>
+</item>"
+"<item>
+
+<title>Cemitério Maldito [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMTRMLDT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3854.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3854.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1989
+
+Uma série de acontecimentos estranhos se inicia após a morte do gato da família Creed. Aos poucos eles percebem que um antigo cemitério, que fica nos fundos da casa, pode ter ligação com esses eventos.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>21/04/1989</date>
 </item>"
 "<item>
 
@@ -7531,6 +7835,25 @@ Um pai chinês muito pobre não pode comprar um presente para o filho pequeno. P
 <genre>Comédia, Drama, Família, Fantasia, Ficção científica</genre>
  
 <date>07/03/2008</date>
+</item>"
+"<item>
+
+<title>Clemência [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CLMCIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3735.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3735.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Depois de anos sendo a responsável por conduzir diversos presos ao seu destino final no corredor da morte, a guarda Bernadine Williams (Alfre Woodard) se prepara para mais uma execução, quando cria um inesperado laço afetivo. Desorientada e confusa, Bernadine começa a realizar questionamentos morais a respeito do trabalho que vem exercendo.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>27/12/2019</date>
 </item>"
 "<item>
 
@@ -8619,6 +8942,25 @@ Quando o negociador da polícia de Hong Kong, Lee Chung-chi, é informado sobre 
 </item>"
 "<item>
 
+<title>Comando Imbatível [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMANDIMBTVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3759.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3759.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1990
+
+Um time de Seals da Marinha é mandado para resgatar norte-americanos que estão sendo mantidos como reféns por terroristas. Durante o resgate, são descobertos mísseis escondidos, mas o líder decide deixar o local com os reféns em vez de destruir as armas. Agora eles terão que voltar ao covil para finalizar os planos dos criminosos.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>20/07/1990</date>
+</item>"
+"<item>
+
 <title>Comando Justiceiro [COLOR yellow][IMDb 3,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/CMNDJSTCRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8787,6 +9129,25 @@ Kitt Galore é uma ex-agente de elite de uma organização de espiões felinos, 
 <genre>Comédia, Família, Ação, Fantasia</genre>
  
 <date>30/07/2010</date>
+</item>"
+"<item>
+
+<title>Como Cães e Gatos 3: Peludos Unidos! [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMCSEGTS3PLDSUNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3734.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3734.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação
+Lançamento: 2020
+
+Já se passaram dez anos desde a criação da Grande Trégua, um elaborado sistema de vigilância de espécies conjuntas projetado e monitorado por cães e gatos para manter a paz quando surgem conflitos. Mas quando um vilão experiente em tecnologia invade redes sem fio para usar frequências ouvidas apenas por cães e gatos, ele os manipula em conflito e a batalha mundial entre cães e gatos está de volta. Agora, uma equipe de agentes inexperientes e não testados terá que usar seus instintos animais à moda antiga para restaurar a ordem e a paz entre cães e gatos em todos os lugares.</info>
+ 
+<genre>Comédia, Ação</genre>
+ 
+<date>02/10/2020</date>
 </item>"
 "<item>
 
@@ -9197,12 +9558,12 @@ Um prisioneiro recém-libertado se vê no meio de um sequestro de um avião com 
 <thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1637.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Aventura, Fantasia, Ação
+<info>Genero: Aventura, Fantasia, Ação, Baseado em Quadrinho
 Lançamento: 1982
 
 Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. Os anos passam e ele desenvolve uma enorme força física, o que faz Conan se tornar gladiador. Ele ainda se mantém determinado a vingar a morte dos pais e quando é libertado tenta alcançar seu objetivo. Conan descobre que Thulsa Doom lidera o misterioso culto da serpente e, tentando se aproximar do feiticeiro, faz amizade com dois ladrões, Valeria e Subotai. Ao trio é prometida uma vultosa recompensa pelo rei Osric, que quer que o trio de guerreiros resgate sua filha, que se tornou uma seguidora de Thulsa Doom.</info>
  
-<genre>Aventura, Fantasia, Ação</genre>
+<genre>Aventura, Fantasia, Ação, Baseado em Quadrinho</genre>
  
 <date>09/07/1982</date>
 </item>"
@@ -9216,12 +9577,12 @@ Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque po
 <thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1638.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Aventura, Fantasia, Ação
+<info>Genero: Aventura, Fantasia, Ação, Baseado em Quadrinho
 Lançamento: 2011
 
 O maior e mais lendário bárbaro de todos os tempos está de volta. Prosperou e evoluiu para oito décadas consecutivas na imaginação do público - em quadrinhos, jogos, tela grande e pequena - explorar Conan na Era Hiboriana será como nunca, seu mundo ganhou vida em um filme 3D colossal, cheio de ação e aventura. A busca feroz do guerreiro cimério começa como uma vingança pessoal, mas logo se transforma em uma batalha épica contra seus rivais hukking, e situações impossíveis, Conan é única opção para salvar as grandes nações da Hyboria de uma invasão sobrenatural.</info>
  
-<genre>Aventura, Fantasia, Ação</genre>
+<genre>Aventura, Fantasia, Ação, Baseado em Quadrinho</genre>
  
 <date>16/09/2011</date>
 </item>"
@@ -9235,12 +9596,12 @@ O maior e mais lendário bárbaro de todos os tempos está de volta. Prosperou e
 <thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1639.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Aventura, Fantasia, Ação
+<info>Genero: Aventura, Fantasia, Ação, Baseado em Quadrinho
 Lançamento: 1984
 
 Para que a rainha Taramis (Sarah Douglas) cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna (Olivia d'Abo). Mas o que ele desconhece é que Taramis ordenou que, após a missão cumprida, Conan seja morto e a virginal princesa retorne para então ser sacrificada ao deus demônio Dagoth.</info>
  
-<genre>Aventura, Fantasia, Ação</genre>
+<genre>Aventura, Fantasia, Ação, Baseado em Quadrinho</genre>
  
 <date>26/10/1984</date>
 </item>"
@@ -9780,6 +10141,25 @@ Três histórias separadas, ligadas por uma quarta história onde um garoto lê 
 </item>"
 "<item>
 
+<title>Contos do Caçador de Sombras [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNTDCACDRDSMBRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3733.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3733.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia
+Lançamento: 2019
+
+Jackie Chan retorna às telas como um lendário caçador numa fantástica aventura para toda a família. O guerreiro embarcará em uma épica e mágica batalha entre o bem e o mal.</info>
+ 
+<genre>Ação, Fantasia</genre>
+ 
+<date>30/08/2019</date>
+</item>"
+"<item>
+
 <title>Contos do Dia das Bruxas [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/CNTSDIDSBRXS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9834,6 +10214,25 @@ A política e a sociedade são colocadas frente a frente, no que refere-se ao ca
 <genre>Drama, Crime, Thriller</genre>
  
 <date>11/08/2018</date>
+</item>"
+"<item>
+
+<title>Contra Ataque [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RPSLCNTRATQ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5229.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5229.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2018
+
+Jacob (Frank Grillo), um gerente de banco, passa a ser atormentado pela memória de um assalto violento que resultou na morte de uma colega de trabalho. Ao lado de seu vizinho, James (Bruce Willis), um ex-policial com desejo de vingança, a dupla passa tenta prever os próximos alvos de Gabriel (Johnathon Schaech), o criminoso por trás do assalto ao banco.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>13/12/2018</date>
 </item>"
 "<item>
 
@@ -9910,6 +10309,44 @@ Desde Branca de Neve e os Sete Anões até O Mágico de Oz, muitos dos contos cl
 <genre>Aventura, Fantasia, Terror, Família</genre>
  
 <date>24/08/1990</date>
+</item>"
+"<item>
+
+<title>Convenção das Bruxas [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACNVSAPDSBRXS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3763.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3763.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Terror, Família
+Lançamento: 1990
+
+Desde Branca de Neve e os Sete Anões até O Mágico de Oz, muitos dos contos clássicos lembrados através dos séculos não teriam metade do efeito que têm no público sem a presença marcante de uma bruxa e suas maldades. Agora, inclua outro filme à venerável tradição dessas histórias que oferecem à família diversão em todos os sentidos, uma produção que combina os efeitos especiais quase mágicos do produtor executivo Jim Herson e a imaginação do criador de A Fantástica Fábrica de Chocolate, Roald Dahl. A ganhadora do Oscar®, Anjelica Huston, conquistou os prêmios de Melhor Atriz da Los Angeles e National Society of Film Critics Best Actress por seu maravilhoso papel como a grande Bruxa nesta encantadora fábula dirigida por Nicolas Roeg. Jasen Fisher vive Luke, um garoto de nove anos que precisa frustar os planos de uma sociedade de bruxas que pretende transformar todas as crianças do mundo em ratos.</info>
+ 
+<genre>Aventura, Fantasia, Terror, Família</genre>
+ 
+<date>24/08/1990</date>
+</item>"
+"<item>
+
+<title>Convidado Vitalicio [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNVDOVTLCIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3700.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3700.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia, Drama
+Lançamento: 2019
+
+Para sobreviver a um verão cheio de casamentos, os amigos de longa data Ben e Alice concordam em ser o acompanhante um do outro nos casamentos para os quais foram convidados.</info>
+ 
+<genre>Romance, Comédia, Drama</genre>
+ 
+<date>08/08/2019</date>
 </item>"
 "<item>
 
@@ -11624,6 +12061,25 @@ O policial Asger Holm (Jakob Cedergren) está acostumado a trabalhar nas ruas de
 <genre>Drama, Crime, Thriller</genre>
  
 <date>20/12/2018</date>
+</item>"
+"<item>
+
+<title>Cura Fatal [COLOR yellow][IMDb 2,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRAFTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3731.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3731.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2020
+
+Quando descobre que sua esposa está à beira da morte, um cientista corre contra o tempo para salvar sua família e achar uma cura, só que para isso ele ignora qualquer protocolo ou ética. Ao fazer experimentos de DNA em humanos, ele acaba criando algo terrível que poderia ser a extinção da humanidade.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>21/09/2020</date>
 </item>"
 "<item>
 
