@@ -1,0 +1,38 @@
+"<item>
+
+<title>Doutor Estranho [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DOTRESTNHO2007.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2005.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2005.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2007
+
+Descubra o fabuloso mundo escondido além da realidade. Um mundo de magia e encantamento; de maldições antigas, portas secretas e heróis notáveis que nos protegem do mal. É também um mundo de misticismo, forças malévolas e horrores impronunciáveis. E sob as sombras que nos cercam, uma guerra sobrenatural se inicia. O equilíbrio se perde. O mal está vencendo… Mas ainda há esperança… Embarque com Dr. Stephen Strange numa jornada fantástica pelas montanhas do Tibet, em busca pela cura aos pés do misterioso Ancient One. Mas antes de curar suas feridas, Dr. Estranho precisa libertar-se de seu passado doloroso e dar vazão a seu raríssimo dom: o dom da magia. Agora como o novo Mago Supremo, Dr. Estranho testa seus limites, combatendo os monstros que guardam os portões e enfrentando a mais terrível entidade conhecida pela humanidade.</info>
+ 
+<genre>Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>14/08/2007</date>
+</item>"
+"<item>
+
+<title>Doutor Estranho [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DRESTNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2006.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2006.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2016
+
+Da Marvel Studios vem “Doctor Strange”, a história do mundialmente famoso neurocirurgião Dr. Stephen Strange, cuja vida muda para sempre depois de um terrível acidente de carro, que o rouba do uso de suas mãos. Quando a medicina tradicional o falha, ele é forçado a procurar por cura e esperança, em um lugar improvável - um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso não é apenas um centro de cura, mas também a linha de frente de uma batalha contra as forças ocultas invisíveis empenhadas em destruir nossa realidade. Em pouco tempo, Strange - armado com poderes mágicos recém-adquiridos - é forçado a escolher se quer retornar à sua vida de fortuna e status ou deixar tudo para trás para defender o mundo como o mais poderoso feiticeiro existente.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>02/11/2016</date>
+</item>"
