@@ -1,0 +1,59 @@
+"<item>
+
+<title>12 Rounds [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12RNDS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/12/items/11_20200901_20200901/55.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/12/items/11_20200901_20200901/55.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2009
+
+Danny Fisher (John Cena) é um detetive da polícia de Nova Orleans que consegue impedir a fuga de Miles Jackson (Aidan Gillen), um assaltante que acaba de realizar um assalto de milhões de dólares. Só que a namorada de Miles morre, acidentalmente. Após fugir da prisão, Miles passa a elaborar sua vingança contra Fisher. Para tanto cria um verdadeiro quebra-cabeças, composto de 12 passos, onde o detetive precisa cumprir tarefas quase impossíveis.
+</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>27/03/2009</date>
+</item>"
+"<item>
+
+<title>12 Rounds 2: Reloaded [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12RNDS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/16/items/35_20200901/45.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/45.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 2013
+
+O paramédico Nick Malloy (Orton) é arremessado num jogo mortal de gato e rato quando recebe um telefonema aterrorizante de um psicopata vingativo (Brian Markinson) ligado a seu passado. O maníaco ameaça iniciar uma onda de assassinatos a menos que Nick consiga completar uma série de 12 desafios sem envolver os tiras nem perder um único prazo. Sem tempo a perder -- e com a vida de sua própria esposa em perigo -- Nick precisa juntar as pistas e caçar o assassino antes que seja tarde demais!</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>03/06/2013</date>
+</item>"
+"<item>
+
+<title>12 Rounds 3: Caçada Mortal [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12RNDS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/46.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/46.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2015
+
+Shaw, um detetive que volta a ativa após a morte de seu parceiro. Quando ele descobre evidencias ligando seus ex-companheiros de polícia à um assassinato, eles acabam prendendo Shaw por um homicídio que ele não cometeu. Aprisionado em seu próprio distrito, Shaw irá fazer qualquer coisa para expor os policiais corruptos e limpar seu nome. Com doze balas e apenas um tiro para a redenção, nada ficará no caminho de Shaw neste thriller cheio de ação.
+</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>11/09/2015</date>
+</item>"
