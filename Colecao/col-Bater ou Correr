@@ -1,0 +1,38 @@
+"<item>
+
+<title>Bater ou Correr [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BTROUCORER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1187.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1187.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia, Faroeste
+Lançamento: 2000
+
+Em 1800, uma princesa (Lucy Liu) sequestrada na Cidade Proibida, na China, e levada até o Velho Oeste americano. Na tentativa de salvá-la parte Chon Wang (Jackie Chan), que se depara com uma cultura completamente diferente da sua. Ao ser atacado por cowboys armados, Wang responde com acrobáticos golpes de kung fu que deixam os americanos de cabelo em pé.</info>
+ 
+<genre>Aventura, Ação, Comédia, Faroeste</genre>
+ 
+<date>26/05/2000</date>
+</item>"
+"<item>
+
+<title>Bater ou Correr em Londres [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BTROUCORERLNDRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1188.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1188.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Faroeste
+Lançamento: 2003
+
+Dois amigos fazem uma viagem no tempo a Londres, no século 19, para recuperar o Selo Imperial da China, que foi roubado por um lorde inglês demoníaco. No caminho, eles conhecem Jack, o Estripador, Sir Arthur Conan Doyle e Charlie Chaplin ainda jovem. Tudo isso regado a muita ação e kung fu.</info>
+ 
+<genre>Ação, Aventura, Comédia, Faroeste</genre>
+ 
+<date>07/02/2003</date>
+</item>"
