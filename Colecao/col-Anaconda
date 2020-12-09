@@ -1,0 +1,76 @@
+"<item>
+
+<title>Anaconda [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANCNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/859.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/859.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Terror, Thriller
+Lançamento: 1997
+
+Uma equipe de filmagem chega à Amazônia para fazer um documentário sobre a tribo shirishama. Guiados pelo misterioso Paul Sarone, o grupo descobre que está envolvido em uma perigosa caçada à serpente rara e gigantesca conhecida como Anaconda. O jogo vira quando o grupo percebe que o animal é inteligente e tem um plano bem elaborado para devorar um a um.</info>
+ 
+<genre>Aventura, Terror, Thriller</genre>
+ 
+<date>22/08/1997</date>
+</item>"
+"<item>
+
+<title>Anaconda 2 - A Caçada pela Orquídea Sangrenta [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANCNDA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/860.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/860.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Terror, Thriller
+Lançamento: 2004
+
+Na selva de Borneo fica uma rara orquídea vermelha, que desabrocha apenas uma vez a cada 7 anos. Considerada a chave para a produção de um soro da juventude, um grupo de cientistas decide embarcar numa viagem para encontrá-la. Eles acreditam que o soro irá render muito prestígio e dinheiro para suas carreiras, valendo a pena correr os riscos da expedição. Porém logo eles percebem que, além do mau tempo e a densa vegetação, algo mais pretende impedi-los de alcançar a orquídea: um predador mortal que a protege.</info>
+ 
+<genre>Aventura, Ação, Terror, Thriller</genre>
+ 
+<date>17/09/2004</date>
+</item>"
+"<item>
+
+<title>Anaconda 3 [COLOR yellow][IMDb 2,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANCNDA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/861.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/861.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Thriller
+Lançamento: 2008
+
+Em um laboratório de pesquisas secretas no interior da Europa, duas cobras rei e rainha (macho e fêmea) gigantescas são submetidas a testes por um brilhante cientista. Mas o gerente de finanças abusa da experiência, e as serpentes escapam, então uma equipe é contratada para matar a cobra, juntamente com Amanda, que ajudou a criar as cobras, após um momento de terror e sangue, chega mais um para completar a equipe, é Hammett,um caçador. Será que eles conseguirão acabar com a ameaça das anacondas?</info>
+ 
+<genre>Ação, Terror, Thriller</genre>
+ 
+<date>01/01/2008</date>
+</item>"
+"<item>
+
+<title>Anaconda 4 [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANCNDA4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/862.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/862.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2009
+
+Murdoch (John Rhys-Davies) está convencido a alcançar a imortalidade pelos poderes regenerativos de uma rara espécie de orquídea. Para comprovar sua teoria, testa um soro experimental em um filhote de cobra. O que ele não sabe é que a inofensiva serpente sofre uma mutação que a faz crescer muito e a deixa praticamente invencível, já que quando cortada ao meio, ela se regenera, criando duas cobras gigantes e agressivas. A herpetologista Amanda (Crystal Allen) e sua equipe devem investigar o caso e impedir que esta nova espécie se prolifere.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>27/02/2009</date>
+</item>"
