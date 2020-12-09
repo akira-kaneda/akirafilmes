@@ -1,0 +1,76 @@
+"<item>
+
+<title>Corrida Mortal [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRDAMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1710.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1710.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2008
+
+Jensen Ames (Jason Statham) é um ex-piloto profissional condenado por um terrível assassinato. Encarcerado em Terminal Island, uma prisão de segurança máxima com regras próprias, ele se vê obrigado a voltar às pistas e participar de uma competição mortal cujo vencedor pode conquistar a liberdade. O problema é que lá a corrida e os competidores são diferentes, enquanto a vontade de matar e ser livre correm lado a lado.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>22/08/2008</date>
+</item>"
+"<item>
+
+<title>Corrida Mortal 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRDAMRTL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1711.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1711.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2011
+
+Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>18/01/2011</date>
+</item>"
+"<item>
+
+<title>Corrida Mortal 2050 [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRDAMRTL2050.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1712.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1712.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Ficção científica
+Lançamento: 2017
+
+É o ano de 2050 e a América é controlada pelo todo-poderoso governo corporativo, comandado pelo Presidente (Malcolm McDowell). O povo recebeu lavagem cerebral através das diversões violentas da realidade virtual. O evento do ano é a Corrida Mortal, na qual um bando de truculentos motoristas pilotos competem em uma corrida pelo país, marcando pontos quando atropelam pessoas cruelmente e jogando uns aos outros para fora da estrada. O campeão reinante e favorito dos fãs, Frankenstein (Manu Bennett), que é meio homem, meio máquina, quer levar a coroa, mas seu rebelde copiloto espião ameaça sua fama.</info>
+ 
+<genre>Ação, Comédia, Ficção científica</genre>
+ 
+<date>17/01/2017</date>
+</item>"
+"<item>
+
+<title>Corrida Mortal 4 - Além da Anarquia [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRDAMRT4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1713.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1713.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2018
+
+Danny Trejo retorna como o bookie implacável, Goldberg, no mais selvagem e mais sangrento da Death Race. Após um ataque fracassado contra o detentor e motorista lendário, Frankenstein, especialista da Black Ops Connor Gibson (McGowan) infiltra uma prisão federal super-máxima com um objetivo - entre na iminente e ilegal Death Race e tira Frankenstein. Connor recruta a ajuda de Baltimore Bob (Glover) e Lists (Koehler), e inesperadamente se apaixona pela bartending beauty, Jane (Marzano). Connor terá que lutar por mais do que sua vida neste mundo brutal, sem guardas, sem regras, sem trilha e sem medo.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>20/11/2018</date>
+</item>"
