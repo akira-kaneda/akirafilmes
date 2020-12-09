@@ -1,38 +1,38 @@
 "<item>
 
-<title>Angry Birds: O Filme [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/ANGRYBRDSFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Animais Fantásticos e Onde Habitam [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia601403.us.archive.org/27/items/802_20200914/870.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/870.jpg</thumbnail>
+<image>https://ia601403.us.archive.org/27/items/802_20200914/872.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/872.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Animação, Aventura, Comédia
+<info>Genero: Aventura, Família, Fantasia
 Lançamento: 2016
 
-Red, um pássaro com problemas de temperamento, o veloz Chuck, e o volátil Bomba sempre foram excluídos. Mas quando a ilha onde moram é visitada por misteriosos porquinhos verdes, cabe a estes improváveis rejeitados descobrir qual o plano da gangue suína.</info>
+Baseado no livro homônimo de J.K. Rowling. O excêntrico magizoologista Newt Scamander (Eddie Redmayne) chega à cidade de Nova York com sua maleta, um objeto mágico onde ele carrega uma coleção de fantásticos animais do mundo da magia que coletou durante as suas viagens. Em meio a comunidade bruxa norte-americana que teme muito mais a exposição aos trouxas do que os ingleses, Newt precisará usar suas habilidades e conhecimentos para capturar uma variedade de criaturas que acabam saindo da sua maleta.</info>
  
-<genre>Animação, Aventura, Comédia</genre>
+<genre>Aventura, Família, Fantasia</genre>
  
-<date>12/05/2016</date>
+<date>17/11/2016</date>
 </item>"
 "<item>
 
-<title>Angry Birds 2: O Filme [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/ANGRYBRDS2FLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Animais Fantásticos: Os Crimes de Grindelwald [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANMSFNTSTCOSCRMSDGRLWRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia601403.us.archive.org/27/items/802_20200914/869.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/869.jpg</thumbnail>
+<image>https://ia601403.us.archive.org/27/items/802_20200914/873.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/873.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Animação, Comédia, Aventura, Família
-Lançamento: 2019
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 2018
 
-Red e seus amigos dedicam a vida a proteger a Ilha dos Pássaros dos constantes ataques vindos da Ilha dos Porcos. Entretanto, quanto uma terceira ilha surge e começa a atacá-los, Leonardo, o rei dos porcos, decide procurar seu arqui-inimigo em busca de uma trégua para que, juntos, possam enfrentar a ameaça em comum.</info>
+Newt Scamander (Eddie Redmayne) reencontra os queridos amigos Tina Goldstein (Katherine Waterston), Queenie Goldstein (Alison Sudol) e Jacob Kowalski (Dan Fogler). Ele é recrutado pelo seu antigo professor em Hogwarts, Alvo Dumbledore (Jude Law), para enfrentar o terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), que escapou da custódia da MACUSA (Congresso Mágico dos EUA) e reúne seguidores, dividindo o mundo entre seres de magos sangue puro e seres não-mágicos.</info>
  
-<genre>Animação, Comédia, Aventura, Família</genre>
+<genre>Aventura, Fantasia, Família</genre>
  
-<date>03/10/2019</date>
+<date>15/11/2018</date>
 </item>"
