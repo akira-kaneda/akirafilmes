@@ -1,0 +1,61 @@
+"<item>
+
+<title>Bad Ass: Acima da Lei [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BADAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1150.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1150.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama
+Lançamento: 2012
+
+Trejo vive Frank Vega, um condecorado herói do Vietnã que é ignorado pela sociedade, ficando sem emprego e sem mulher.
+
+Quarenta anos depois, quando há um incidente em um ônibus (ele protege um senhor negro de skinheads), faz dele em um herói local e ele passa a ser celebrado novamente.
+
+Mas sua sorte resolve virar quando seu melhor amigo, Klondike, é assassinado e a polícia não pretende fazer nada a respeito.</info>
+ 
+<genre>Ação, Drama</genre>
+ 
+<date>13/04/2012</date>
+</item>"
+"<item>
+
+<title>Bad Ass 2 Ação em Dobro [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BADAS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1148.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1148.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2014
+
+O filme mostra o veterano do Vietname, Frank Vega, interpretado por Danny Trejo, de volta a casa. Agora, ele não está sozinho, ele está com o seu parceiro, Bernie, interpretado por Danny Glover. Os novos parceiros vão fazer justiça com as próprias mãos, como limpar as ruas de bandidos e assassinos.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>08/04/2014</date>
+</item>"
+"<item>
+
+<title>Bad Ass 3 Dois Durões em Bayou [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BADAS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1149.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1149.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação
+Lançamento: 2015
+
+A nova sequência reúne o dueto dinâmico, Frank Vega (Danny Trejo) e Bernie Pope (Danny Glover), quando viajam para Louisiana para assistir ao casamento de sua querida amiga Carmen Gutierrez (Loni Love). O que era retratado como um final de semana de casamento no sul transforma-se violentamente em loucura e caos, fazendo com que nossos velhos heróis, mais uma vez, sirvam à justiça.</info>
+ 
+<genre>Comédia, Ação</genre>
+ 
+<date>06/03/2015</date>
+</item>"
