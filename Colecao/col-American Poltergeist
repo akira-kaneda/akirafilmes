@@ -1,0 +1,57 @@
+"<item>
+
+<title>American Poltergeist 2 - Na Floresta de Borley [COLOR yellow][IMDb 2,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMRCNPLTRGSTNFLRST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/814.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/814.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2013
+
+Em uma noite de festa adolescente na floresta, Paige involuntariamente põe em movimento uma cadeia de eventos que a mergulha em um pesadelo. Atormentada por terríveis e cada vez mais violentas visitas sobrenaturais, Paige começa a cavar no passado e descobrir um segredo sinistro, enterrado por décadas. Por trás da força que agora a assombra está uma entidade malévola do mal indizível. À medida que seu poder cresce e seus amigos são vítimas de sua selvageria, ela (ou qualquer pessoa) pode impedir o Poltergeist da Floresta Borley?</info>
+ 
+<genre>Terror</genre>
+ 
+<date>31/08/2013</date>
+</item>"
+"<item>
+
+<title>American Poltergeist [COLOR yellow][IMDb 2,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AMRCNPLTGST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/813.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/813.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2015
+
+Um grupo de amigos vai para uma casa de férias com um passado e um dono suspeitos. Lá, Taryn começa a sentir uma conexão com a casa, sem saber que se encontra muito próxima a um dos poltergeists mais mortais já conhecidos.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>06/10/2015</date>
+</item>"
+"<item>
+
+<title>American Poltergeist 3 - Possuídos [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMRCNPLTRGST3PSDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/815.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/815.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2016
+
+Ted (Justin Arnold) e Lauren (Andrea Nelson) acabam de se casar e se mudam para o campo, para que assim Ted possa trabalhar no seu projeto, que é um estudo investigativo de fenômenos atmosféricos, conhecidos como ""orbs"". Eles alugam um espaço na fazenda de Jim (Don Scribner) e lá montam câmeras de vídeo em toda a parte. Ao longo do tempo Ted percebe que ele e Lauren estão sendo perseguidos e afetados de maneiras assustadoras pela mesma força que deixou Jim louco.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>04/11/2016</date>
+</item>"
