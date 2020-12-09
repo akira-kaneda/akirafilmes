@@ -1,0 +1,57 @@
+"<item>
+
+<title>As Viagens de Gulliver [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASVGNSDGLVR1939.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5753.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5753.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Família
+Lançamento: 1939
+
+Gulliver chega à costa de Lilliput e tenta evitar a guerra entre aquele minúsculo reino e seu rival igualmente minúsculo, Blefiscu, além de facilitar o romance entre a Princesa e o Príncipe das terras opostas. Nisso ele é alternadamente auxiliado e dificultado pelo pregoeiro liliputiano e pelo agitador geral, Gabby. Uma situação de risco de vida se desenvolve quando o trio trapalhão de espiões Blefiscu, Sneak, Snoop e Snitch, consegue roubar a pistola de Gulliver.</info>
+ 
+<genre>Ação, Aventura, Animação, Família</genre>
+ 
+<date>22/12/1939</date>
+</item>"
+"<item>
+
+<title>As Viagens de Gulliver [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASVGNSDGLVR1960.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5752.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5752.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica, Drama
+Lançamento: 1996
+
+No século XVIII, inglês viaja pelo mundo e conhece terras distantes, tão diferentes e ao mesmo tempo tão parecidas com a sua como Lilliput, terra de belicosos anões, e Brobdingnag, de pacíficos gigantes. Minissérie baseada no clássico satírico de Jonathan Swift.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica, Drama</genre>
+ 
+<date>04/02/1996</date>
+</item>"
+"<item>
+
+<title>As Viagens de Gulliver [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASVGNSDGLVR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1055.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1055.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Aventura, Família, Fantasia
+Lançamento: 2010
+
+Lemuel Gulliver trabalha como entregador de correspondências para um jornal de Nova York. Quando viaja a trabalho para o Triângulo das Bermudas, seu barco é desviado por uma tempestade e vai parar na cidade mágica de Liliput, onde as pessoas são bem pequenas.</info>
+ 
+<genre>Comédia, Aventura, Família, Fantasia</genre>
+ 
+<date>25/12/2010</date>
+</item>"
