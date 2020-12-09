@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Noite dos Mortos Vivos [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANOTDSMRTSVIVO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/16/items/487_20200908/481.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/481.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1990
+
+Sete estranhos ficam presos em uma isolada casa de fazenda enquanto zumbis canibais - despertados da morte por um teste radioativo no espaço - promovem um incansável ataque, matando (e comendo) qualquer um em seu caminho. Remake do clássico de 1968.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>18/10/1990</date>
+</item>"
+"<item>
+
+<title>A Noite dos Mortos Vivos: Re-Animação [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANTDSMTSVIVREANMTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/482.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/482.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2012
+
+Depois de herdar a agência funerária de seu pai, Gerard Tovar Jr. (Andrew Divoff) acidentalmente expõe dezenas de cadáveres a um perigoso lixo radioativo. Os corpos passam a sofrer mutações e ganham vida, logo no momento em que o jovem irmão de Gerard, na esperança de conquistar parte da herança, chega à mansão familiar.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>16/10/2012</date>
+</item>"
