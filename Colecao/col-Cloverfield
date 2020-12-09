@@ -1,0 +1,57 @@
+"<item>
+
+<title>Cloverfield: Monstro [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLVRFLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1556.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1556.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2008
+
+Rob Hawkins mora em Nova York e está prestes a se mudar para o Japão. Ele reúne os amigos em uma festa de despedida, na qual pretende revelar sentimentos mal-resolvidos. Entretanto um forte solavanco assusta os convidados. Todos buscam notícias sobre o ocorrido na TV, que diz que a cidade sofreu um terremoto. Ao chegar ao terraço para ver os estragos o grupo nota uma bola de fogo gigante, seguida pela queda de luz na cidade. O pânico toma conta de todos, o que aumenta ainda mais quando eles enfim conseguem chegar à rua.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>08/02/2008</date>
+</item>"
+"<item>
+
+<title>Rua Cloverfield, 10 [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RUACLVRFLD10.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5315.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5315.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Drama, Terror
+Lançamento: 2016
+
+Uma jovem sofre um grave acidente de carro e acorda no porão de um desconhecido. O homem diz ter salvado sua vida de um ataque químico que deixou o mundo inabitável, motivo pelo qual eles devem permanecer protegidos no local. Desconfiada da história, ela tenta descobrir um modo de se libertar sob o risco de descobrir uma verdade muito mais perigosa do que seguir trancafiada no local.</info>
+ 
+<genre>Thriller, Ficção científica, Drama, Terror</genre>
+ 
+<date>07/04/2016</date>
+</item>"
+"<item>
+
+<title>O Paradoxo Cloverfield [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRDXOCLVRFLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4245.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4245.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Terror, Ficção científica
+Lançamento: 2018
+
+Orbitando um planeta à beira da guerra, cientistas testam um dispositivo para resolver uma crise de energia e acabam cara a cara com uma realidade alternativa obscura.</info>
+ 
+<genre>Mistério, Thriller, Terror, Ficção científica</genre>
+ 
+<date>04/02/2018</date>
+</item>"
