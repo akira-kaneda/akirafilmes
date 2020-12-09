@@ -1,0 +1,57 @@
+"<item>
+
+<title>Os Bad Boys [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BDBYS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4579.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4579.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Crime, Thriller
+Lançamento: 1995
+
+Os policiais Burnett (Martin Lawrence) e Lowrey (Will Smith) são encarregados de encontrar um carregamento de heroína que foi roubado. Uma testemunha liga para a delegacia dizendo ser capaz de identificar o ladrão. O pacato Burnett finge ser Lowrey para não perder o caso e acaba tendo que proteger a mulher, enquanto seu parceiro mulherengo cuida de sua família.</info>
+ 
+<genre>Ação, Comédia, Crime, Thriller</genre>
+ 
+<date>07/07/1995</date>
+</item>"
+"<item>
+
+<title>Bad Boys II [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BDBYS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1151.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1151.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia, Thriller, Crime
+Lançamento: 2003
+
+Os detetives da Narcóticos Marcus Burnett (Martin Lawrence) e Mike Lowrey (Will Smith) foram designados para investigar a proliferação do ecstasy na cidade de Miami. As investigações os levam a um alvo maior, Johnny Tapia (Jordi Mollà), um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra entre quadrilhas. Em meio a esta situação, Lowrey passa a se interessar por Syd (Gabrielle Union), irmã de Burnett, o que põe a amizade deles à prova.</info>
+ 
+<genre>Aventura, Ação, Comédia, Thriller, Crime</genre>
+ 
+<date>19/09/2003</date>
+</item>"
+"<item>
+
+<title>Bad Boys Para Sempre [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BDBYSPRSMPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1152.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1152.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2020
+
+Armando é um assassino de sangue frio com uma natureza cruel e provocadora. Ele está comprometido com o trabalho do cartel e é enviado por sua mãe para matar Mike (Smith). Nuñez assumirá o papel de Rita, psicóloga criminal durona e engraçada que é recém-nomeada chefe da AMMO e é ex-namorada de Mike.</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>30/01/2020</date>
+</item>"
