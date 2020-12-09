@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Forca [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AFRCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/290.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/290.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2015
+
+Há vinte anos o colégio de uma cidadezinha foi palco de uma tragédia. Um acidente grave aconteceu durante uma peça escolar e, agora, os novos estudantes planejam reencenar a peça como forma de homenagear aqueles que perderam suas vidas anos atrás. Mas os alunos logo percebem que essa é uma decisão errada com graves consequências.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>23/07/2015</date>
+</item>"
+"<item>
+
+<title>A Forca 2 - Segundo Ato [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AFRCA2SGNDATO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/291.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/291.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2019
+
+Uma jovem aspirante a atriz se vê presa numa aterrorizante maldição após apresentar uma parte da peça A Forca em uma transmissão ao vivo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>25/10/2019</date>
+</item>"
