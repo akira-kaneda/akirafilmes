@@ -1,0 +1,57 @@
+"<item>
+
+<title>Flicka [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FLCK1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2381.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2381.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 2006
+
+Em FLICKA, uma adaptação contemporânea de Minha Amiga Flicka, famoso livro de Mary O'Hara, Katy McLaughlin (Alison Lohman), uma garota de 16 anos, sonha em continuar a tradição de sua família trabalhando no rancho de seu pai, no Wyoming dos dias de hoje. Mas o pai de Katy (Tim McGraw) deseja uma outra vida para ela: quer que ela vá para a faculdade. Um dia, Katy encontra uma linda égua selvagem, à qual ela dá o nome de Flicka (""linda garota"" em sueco), e decide domá-la. Mas Flicka e Katy são mais parecidas do que ela poderia imaginar. Como Katy, Flicka desdenha a autoridade alheia e não quer abrir mão de sua liberdade sem brigar. Será que Katy conseguirá domar sua amada Flicka e provar que todos estão errados sobre sua égua selvagem? Será que seu pai vai encontrar uma forma de apoiar sua filha, mas ao mesmo tempo mantê-la a salvo nesse momento de mudanças em sua vida? E será que a família McLaughlin conseguirá manter sua vida no rancho que trabalharam tanto para construir?</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>20/10/2006</date>
+</item>"
+"<item>
+
+<title>Flicka 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FLCK2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2382.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2382.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama
+Lançamento: 2011
+
+Carrie é uma adolescente da cidade grande cuja vida é virada de cabeça para baixo quando ela se muda para um rancho em Wyoming para morar com o pai. Mas tudo muda quando Carrie conhece Flicka, um selvagem e negro mustang que é tão livre e forte quanto Carrie. Os dois formam um vínculo especial e Carrie abre seu coração para seu pai e um belo garoto local, mas quando um rival ciumento coloca a vida de Flicka em perigo, Carrie deve fazer o que for preciso para salvar sua melhor amiga.</info>
+ 
+<genre>Aventura, Drama</genre>
+ 
+<date>09/08/2011</date>
+</item>"
+"<item>
+
+<title>Flicka 3 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FLCK3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2383.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2383.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 2012
+
+Flicka e Toby ajudam um dono estável e sua filha adolescente.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>01/05/2012</date>
+</item>"
