@@ -1,0 +1,57 @@
+"<item>
+
+<title>Os Caça-Fantasmas [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSCAFNTSMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4586.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4586.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia
+Lançamento: 1984
+
+Em Nova York Peter Venkman (Bill Murray), Ray Stantz (Dan Aykroyd) e Egon Spengler (Harold Ramis) são três cientistas do departamento de psicologia da Columbia University, que se dedicam ao estudo de casos paranormais. Quando a subvenção termina eles são despedidos e Venkman sugere que abram um negócio próprio, a exterminadora de fantasmas ""Ghostbusters"". Inicialmente eles só têm despesas e nenhum cliente, mas eis que surge Dana Barrett (Sigourney Weaver), uma violoncelista que teve uma experiência assustadora em seu apartamento.</info>
+ 
+<genre>Comédia, Fantasia</genre>
+ 
+<date>21/12/1984</date>
+</item>"
+"<item>
+
+<title>Os Caça-Fantasmas 2 [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CACFNTSM2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4587.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4587.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia
+Lançamento: 1989
+
+Bill Murray, Dan Aykroyd e Harold Ramis pegam mais uma vez o seu kit de prótons para lutar contra as forças do mal em Manhattan! Após uma agitada guerra viscosa que custou milhões à cidade de Nova York, os caça-fantasmas se encontram sem trabalho. Enquanto isso, um antigo tirano prepara sua volta para dominar a Terra, usando seu retrato que está no Museu de Arte de Manhattan e possuindo o bebê de Dana Barrett como lar de sua maligna alma! Com a ajuda do enfeitiçado curador do museu, ele planeja transformar Nova York em um assustador lugar para se viver! Usando seus equipamentos contra pestes paranormais, apenas Os Caça-Fantasmas podem salvar a cidade!</info>
+ 
+<genre>Comédia, Fantasia</genre>
+ 
+<date>14/12/1989</date>
+</item>"
+"<item>
+
+<title>Caça-Fantasmas [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CACFNTSM2016.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1369.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1369.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Comédia
+Lançamento: 2016
+
+Atualmente uma respeitada professora da Universidade de Columbia, Erin Gilbert escreveu anos atrás um livro sobre a existência de fantasmas em parceria com a colega Abby Yates. A obra, que nunca foi levada a sério, é descoberta por seus pares acadêmicos e Erin perde o emprego. Quando Patty Tolan, funcionária do metrô de Nova York, presencia estranhos eventos no subterrâneo, Erin, Abby e Jillian Holtzmann se unem e partem para a ação pela salvação da cidade e do mundo.</info>
+ 
+<genre>Ação, Fantasia, Comédia</genre>
+ 
+<date>14/07/2016</date>
+</item>" 
