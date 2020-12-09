@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Creche do Papai [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ACRCHDPAPI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601401.us.archive.org/10/items/250_20200903/212.jpg</image>
+<thumbnail>https://ia601401.us.archive.org/10/items/250_20200903/212.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2003
+
+Phil (Jeff Garlin) e Charlie (Eddie Murphy) ficaram desempregados recentemente. Como não têm dinheiro para pagar a creche de seus filhos, são obrigados a retirá-los dela e cuidar deles até que arranjem um novo serviço. É quando eles têm uma idéia para ganhar dinheiro: criar uma instituição que cuida de crianças enquanto seus pais trabalham. A dupla coloca o plano em prática e, devido aos métodos pouco convencionais que usam ao cuidar das crianças, acabam ficando famosos e gerando o ódio de seus concorrentes.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>09/05/2003</date>
+</item>"
+"<item>
+
+<title>A Creche do Papai 3 [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ACRCHDPAPI3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/213.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/213.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2019
+
+O escritor Frank Collinses está sofrendo um bloqueio criativo, então decide abrir uma creche para seu sogro e outros idosos como uma forma de ganhar dinheiro rápido.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>05/01/2019</date>
+</item>"
