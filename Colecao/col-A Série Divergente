@@ -1,0 +1,38 @@
+"<item>
+
+<title>Divergente [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DVRGNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1948.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1948.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2014
+
+Na futurística Chicago, quando a adolescente Beatrice (Shailene Woodley) completa 16 anos ela tem que escolher entre as diferentes facções que a cidade está dividida. Elas são cinco e cada uma representa um valor diferente, como honestidade, generosidade e coragem. Beatrice surpreende a todos e até a si mesma quando decide pela facção dos destemidos, diferente da família. Ao entrar para a Audácia ela torna-se Tris e entra numa jornada para afastar seus medos e descobrir quem é de verdade. Além disso conhece Quatro (Theo James), rapaz experiente que consegue intrigá-la e encantá-la ao mesmo tempo.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>18/04/2014</date>
+</item>"
+"<item>
+
+<title>A Série Divergente - Convergente [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/609.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/609.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação, Mistério
+Lançamento: 2016
+
+Tris (Shailene Woodley), Quatro (Theo James) e seus amigos estão prestes a pular a cerca que divide o mundo no qual até hoje viveram e um novo mundo até então por eles desconhecido, após terem descoberto que a distópica e destruída cidade de Chicago não é o último refúgio para a raça humana, mas foi usada como um experimento para Divergentes em desenvolvimento, tais como a nossa heroína. O que ela poderá fazer para salvar o resto do mundo é um mistério, mas ela vai aprender muito mais sobre isso com David, o misterioso diretor do Departamento de Auxílio Genético, (Jeff Daniels).</info>
+ 
+<genre>Aventura, Ficção científica, Ação, Mistério</genre>
+ 
+<date>10/03/2016</date>
+</item>"
