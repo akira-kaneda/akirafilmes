@@ -1,0 +1,38 @@
+"<item>
+
+<title>Dumbo [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DMBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2053.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2053.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 1941
+
+Dumbo é um bebé elefante que nasceu com umas orelhas enormes. Um dia ele conhece Timóteo, um ratinho que mete medo à maioria dos elefantes do circo onde vive Dumbo. Ao contrário do que se podia esperar, o rato e o elefante acabam por se tornar amigos e, juntos, eles tornam-se as maiores atracções do circo. Usando suas orelhas, Dumbo faz o que nenhum outro elefante consegue: voar!</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>22/10/1941</date>
+</item>"
+"<item>
+
+<title>Dumbo [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DMBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2054.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2054.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia
+Lançamento: 2019
+
+1919, Joplin, Estados Unidos. Holt Farrier (Colin Farrell) é uma ex-estrela de circo que retorna da guerra e encontra seu mundo virado de cabeça para baixo. O circo em que trabalhava está passando por grandes dificuldades, e ele fica encarregado de cuidar de um elefante recém-nascido, cujas orelhas gigantes fazem dele motivo de piada. No entanto, seus filhos Milly (Nico Parker) e Joe (Finley Hobbins) descobrem que o pequeno elefante é capaz de uma façanha enorme.</info>
+ 
+<genre>Aventura, Família, Fantasia</genre>
+ 
+<date>28/03/2019</date>
+</item>"
