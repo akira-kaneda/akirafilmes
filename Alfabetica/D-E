@@ -3458,6 +3458,25 @@ Em uma remota estrada no deserto, um improvisado posto de patrulha de fronteira 
 </item>"
 "<item>
 
+<title>Do Outro Lado da Lei [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOUTRLDODLEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3729.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3729.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2020
+
+Quando seu irmão é morto por um fora da lei, três irmãos Dalton se juntam ao departamento do xerife. Quando são enganados pela lei, recorrem ao crime. Tentando superar Jesse James, eles tentam roubar dois bancos de uma vez em 1892. As coisas ficam feias.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>05/05/2020</date>
+</item>"
+"<item>
+
 <title>Do Outro Lado da Porta [COLOR yellow][IMDb 5,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/DOUTRLDODPRTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5567,6 +5586,63 @@ Giulia (Valentina Lodovini) é uma mãe que abandonou a carreira para se dedicar
 </item>"
 "<item>
 
+<title>É Natal de Novo, Charlie Brown [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ENTLDNVCRLBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2076.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2076.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Cinema TV
+Lançamento: 1996
+
+É Natal novamente e a turma de Charlie Brown tem as preocupações típicas da data, seja em decorar seus papeis para a peça da escola, seja em ler um livro como lição de casa.</info>
+ 
+<genre>Animação, Cinema TV</genre>
+ 
+<date>23/01/1996</date>
+</item>"
+"<item>
+
+<title>É o Bicho! [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EOBCHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2077.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2077.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Animação, Aventura
+Lançamento: 2017
+
+Biscoitos mágicos transformam Owen em animais de verdade! Mas para salvar o circo da família, é melhor que eles não caiam nas mãos erradas.</info>
+ 
+<genre>Comédia, Animação, Aventura</genre>
+ 
+<date>12/06/2017</date>
+</item>"
+"<item>
+
+<title>É o Fim [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EOFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2078.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2078.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 2013
+
+Durante uma festa na casa de James Franco, uma série de eventos catastróficos se iniciam e aos poucos destroem Los Angeles. Seis amigos conseguem escapar, porém a falta de suprimentos traz à tona intrigas do passado. Eventualmente, eles são forçados a sair da casa, encarando seu destino e o verdadeiro significado de amizade e redenção.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>27/09/2013</date>
+</item>"
+"<item>
+
 <title>E Se Fosse Verdade [COLOR yellow][IMDb 6,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/ESFSVRDADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5773,6 +5849,25 @@ Em uma das áreas mais pobres de Paris, uma conselheira escolar se dedica a alun
 <genre>Drama, Comédia</genre>
  
 <date>28/08/2019</date>
+</item>"
+"<item>
+
+<title>eHero [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EHRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3758.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3758.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2018
+
+Depois de ser recrutado para entrar nas principais ligas de videogame, Tyler tem que lidar com um mundo diferente do que está acostumado, enfrentando novos oponentes e também seus demônios internos.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>24/05/2018</date>
 </item>"
 "<item>
 
@@ -6576,6 +6671,25 @@ A trama segue uma adolescente (Laura Marano) que é uma aluna exemplar a todos o
 </item>"
 "<item>
 
+<title>Em Busca do Castelo Dourado [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMBSCDCSTLODRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3728.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3728.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura, Ficção científica
+Lançamento: 2019
+
+Quando o Rei e a rainha são envenenados, os irmãos Per e Pål são presos, suspeitos de estar por trás disso. O irmão mais novo Espen ""Ash Lad"" e a princesa Kristin partem em uma busca para encontrar o mítico Castelo Dourado, que se diz ser construído em ouro puro. Em Soria Moria, fica um poço contendo a Água da Vida, a única coisa que pode curar os pais de Kristin. Mas alguns dinamarqueses perversos também estão em busca do Castelo Dourado. Se Espen e Kristin falharem, isso significará o fim dos irmãos, do reino e talvez do mundo inteiro.</info>
+ 
+<genre>Fantasia, Aventura, Ficção científica</genre>
+ 
+<date>23/08/2019</date>
+</item>"
+"<item>
+
 <title>Em Busca do Ouro [COLOR yellow][IMDb 8,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/EMBSCDORO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6592,6 +6706,44 @@ No Alasca, Carlitos (Charles Chaplin) tenta a sorte como garimpeiro em meio a co
 <genre>Aventura, Comédia, Drama</genre>
  
 <date>12/07/1925</date>
+</item>"
+"<item>
+
+<title>Em Busca do Ouro [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GINGFRGLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2745.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2745.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 2018
+
+Emma (Kelli Berglund), americana de dezessete anos, se muda para a Austrália com o pai, ex-oficial da Força Aérea. Lá ela monta uma equipe de cheerleaders com suas novas amigas, mas o time rival fará de tudo para conseguir a vitória do campeonato.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>08/03/2018</date>
+</item>"
+"<item>
+
+<title>Em Busca do Paraíso [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMBSCDPRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3710.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3710.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 2020
+
+Vivendo em um reino de escuridão, um jovem embarca numa épica jornada em busca da Cidade Celestial. Ele precisará enfrentar diversos perigos e provações apenas com a ajuda de um antigo livro. Inspirado no livro O Peregrino, de John Bunyan.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>13/07/2020</date>
 </item>"
 "<item>
 
@@ -8077,6 +8229,25 @@ Um agente da divisão anticorrupção da polícia de Hong Kong se infiltra como 
 </item>"
 "<item>
 
+<title>Equipe Assassina [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/THKLTEM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5885.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5885.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller
+Lançamento: 2019
+
+Preso entre sua consciência e sua sobrevivência, quando membros de seu pelotão executam um plano criminoso no deserto desolado do sul do Afeganistão, Andrew deve enfrentar seus, até então, amigos.</info>
+ 
+<genre>Drama, Ação, Thriller</genre>
+ 
+<date>17/10/2019</date>
+</item>"
+"<item>
+
 <title>Era Só Uma Brincadeira [COLOR yellow][IMDb 5,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/ERSUMBRNCDRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8229,6 +8400,25 @@ Susanna aceita ajuda de um rapaz que estava passando próximo à loja da famíli
 </item>"
 "<item>
 
+<title>Era uma vez um sonho [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ERUMVZUMSNHO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5725.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5725.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+De volta à sua cidade natal nos Apalaches, um estudante de direito reflete sobre a história da família e o próprio futuro.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>11/11/2020</date>
+</item>"
+"<item>
+
 <title>Era uma Vez: Anastasia [COLOR yellow][IMDb 3,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ERUMVZANSTSIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8283,6 +8473,25 @@ Documentário baseado no livro de Erich Von Daniken sobre os antigos mistérios 
 <genre>Documentário, Mistério</genre>
  
 <date>01/01/1970</date>
+</item>"
+"<item>
+
+<title>Ernest - O Bobo e A Fera [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ERNSTOBOBEAFRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3723.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3723.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia
+Lançamento: 1991
+
+Ernest solta um demônio acidentalmente e agora tem que salvar a cidade.</info>
+ 
+<genre>Comédia, Família, Fantasia</genre>
+ 
+<date>11/10/1991</date>
 </item>"
 "<item>
 
@@ -8533,6 +8742,25 @@ A guerra se espalha pelas terras frias do norte! Mercenários sedentos por sangu
 </item>"
 "<item>
 
+<title>Espada de Deus - A Última Cruzada [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESPDDEUSATUTMCRZDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3955.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3955.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Terror, Mistério, Drama
+Lançamento: 2020
+
+Dois cavaleiros cristãos chegam a uma ilha remota com a intenção de converter os aldeões pagãos à sua religião. O primeiro busca conquistá-los com compreensão e humildade, enquanto o segundo confia na intimidação e na violência. À medida que a ruptura se forma, os aldeões devem decidir de que lado estão, e os homens, até onde estão dispostos a ir e quanto sangue será derramado.</info>
+ 
+<genre>História, Terror, Mistério, Drama</genre>
+ 
+<date>23/07/2020</date>
+</item>"
+"<item>
+
 <title>Espantalho [COLOR yellow][IMDb 5,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/ESPTLHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8758,6 +8986,44 @@ O Coronel Hannibal Smith (Liam Neeson) e seus amigos mercenários são acionados
 <genre>Thriller, Ação, Aventura, Comédia, Crime</genre>
  
 <date>11/06/2010</date>
+</item>"
+"<item>
+
+<title>Esquadrão Cobra [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESQDROCBRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5748.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5748.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 1989
+
+Jack Kelly (Lorenzo Lamas) pertenceu ao Esquadrão de Elite da Marinha, onde aprendeu a ser duro e a matar sem compaixão. Briguento, ele tem muitos inimigos. Agora ele está à caça dos homens que mataram seus pais e sequestraram sua irmã Jennifer (Cheryl Jeans). Para isso, ele conta com a ajuda de uma jovem apelidada Kid (Josie Bell).</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>22/02/1989</date>
+</item>"
+"<item>
+
+<title>Esquadrão Cobra III [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESQDROCBRA3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5747.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5747.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1992
+
+O justiceiro Jack Kelly está de volta, desta vez enfrentando uma gangue de cruéis motoqueiros que estupraram uma garota. Para enfrentá-los, ele conta com a ajuda de seu velho amigo Cowboy, um ex-motoqueiro.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>07/10/1992</date>
 </item>"
 "<item>
 
@@ -9027,6 +9293,25 @@ Prestes a encerrar um importante caso, a advogada Jackie planeja passar o Natal 
 </item>"
 "<item>
 
+<title>Estocolmo [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SNDRMDESTCLMP.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5554.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5554.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia
+Lançamento: 2019
+
+Em 1973, um criminoso meia boca assalta o maior banco da capital sueca e faz alguns funcionários reféns e em troca pede para que seu amigo também bandido, preso, seja libertado em troca da libertação das pessoas.</info>
+ 
+<genre>Crime, Comédia</genre>
+ 
+<date>12/04/2019</date>
+</item>"
+"<item>
+
 <title>Estou de Volta [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ESTDVLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9293,6 +9578,25 @@ Em um universo paralelo, Kimberly (Emmy Rossum) e Dell (Justin Long) têm um enc
 </item>"
 "<item>
 
+<title>Eu Fui Um Zumbi Adolescente [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EUFUIUMZMBIADLSCNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3757.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3757.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror
+Lançamento: 1987
+
+Um estudante do ensino médio (Michael Ruben) e um traficante de drogas (Steve McCoy) pousam em um rio com resíduos nucleares e saem zumbis.</info>
+ 
+<genre>Comédia, Terror</genre>
+ 
+<date>01/07/1987</date>
+</item>"
+"<item>
+
 <title>Eu Gosto, Só Que Não [COLOR yellow][IMDb 5,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/EUQSTSQN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9462,7 +9766,20 @@ Após a extinção da humanidade, uma adolescente criada por uma robô encontra 
  
 <date>07/06/2019</date>
 </item>"
-ro de sua raça, porque o inimigo já o localizou. A sua sorte é que a número Seis (Teresa Palmer) também o encontrou e ela pode ajudar na batalha.</info>
+"<item>
+
+<title>Eu Sou o Número Quatro [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EUSONMRQTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2288.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2288.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica, Aventura
+Lançamento: 2011
+
+Nove alienígenas fugiram do planeta Lorien, onde eram conhecidos por números, para se esconder na Terra. O objetivo era se esconder dos Mogadorians, inimigos que precisam eliminar todos eles e na ordem certa para que poderes especiais não possam ser usados contra eles no futuro. A caçada já começou e os números Um, Dois e Três já foram assassinados. O número Quatro vive disfarçado entre os humanos, como John Smith (Alex Pettyfer), ajudado por seu protetor Henri (Timothy Olyphant) na tranquila cidade de Paradise, em Ohio. Enquanto descobre seus novos poderes, Smith conhece a estudante Sarah Hart (Dianna Agron) e se apaixona por ela, colocando em risco a vida de ambos e o futuro de sua raça, porque o inimigo já o localizou. A sua sorte é que a número Seis (Teresa Palmer) também o encontrou e ela pode ajudar na batalha.</info>
  
 <genre>Ação, Thriller, Ficção científica, Aventura</genre>
  
@@ -9471,7 +9788,7 @@ ro de sua raça, porque o inimigo já o localizou. A sua sorte é que a número 
 "<item>
 
 <title>Eu Te Amo, Beth Cooper [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/EUTAMOBTHCPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/EUTAMOBTHCPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2289.jpg</image>
@@ -9489,8 +9806,27 @@ Ao longo de 4 anos, Denis Cooverman (Paul Rust) correu atrás de seu sonho, a ch
 </item>"
 "<item>
 
+<title>Eu Te Matarei, Querida! [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNHPRMRQL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3401.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3401.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2017
+
+Após a misteriosa morte de seu tutor, o jovem órfão Philip (Sam Claflin) se vê em busca de vingança contra sua prima, a bela e cheia de segredos Rachel (Rachel Weisz), por quem ele tem grandes suspeitas do assassinato. Mas seus planos e sua mente ficam confusos já que a jovem usa um grande charme para invalidar as pistas.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>09/06/2017</date>
+</item>"
+"<item>
+
 <title>Eu, Daniel Blake [COLOR yellow][IMDb 7,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EUDNLBLKE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EUDNLBLKE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2290.jpg</image>
@@ -9509,7 +9845,7 @@ Após sofrer um ataque cardíaco e ser desaconselhado pelos médicos a retornar 
 "<item>
 
 <title>Eu, Deus e Bin Laden [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EUDEUSEBNLNDN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EUDEUSEBNLNDN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2291.jpg</image>
@@ -9528,7 +9864,7 @@ Gary Faulkner é um ex-prisioneiro americano que não tira uma coisa da cabeça.
 "<item>
 
 <title>Eu, Robô [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/EURBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EURBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2292.jpg</image>
@@ -9547,7 +9883,7 @@ Em 2035, é comum robôs serem usados como empregados e assistentes dos humanos.
 "<item>
 
 <title>Eu, Tonya [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EUTNYA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EUTNYA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2293.jpg</image>
@@ -9566,7 +9902,7 @@ Desde muito pequena exibindo talento para patinação artística no gelo, Tonya 
 "<item>
 
 <title>Evereste [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/EVRSTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/EVRSTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2294.jpg</image>
@@ -9585,7 +9921,7 @@ Inspirado nos incríveis acontecimentos em torno da montanha mais alta do mundo,
 "<item>
 
 <title>Evocação : A Porta para o Demônio [COLOR yellow][IMDb 3,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ENVCAODPRTPRODEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENVCAODPRTPRODEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2295.jpg</image>
@@ -9604,7 +9940,7 @@ Eva (Nazneen Contractor) sempre se diferenciou dos colegas por possuir habilidad
 "<item>
 
 <title>Evocando Espíritos [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EVCNDESPRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EVCNDESPRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2296.jpg</image>
@@ -9623,7 +9959,7 @@ Uma família é forçada a se mudar para perto de uma clínica, na qual o filho 
 "<item>
 
 <title>Evocando Espíritos 2 [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EVCNDESPRTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EVCNDESPRTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2297.jpg</image>
@@ -9642,7 +9978,7 @@ Uma jovem família muda-se para uma casa história na Geórgia e lá percebem qu
 "<item>
 
 <title>Ex_Machina: Instinto Artificial [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/EXMCHNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/EXMCHNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2298.jpg</image>
@@ -9661,7 +9997,7 @@ Um jovem programador chamado Caleb ganha um concurso e recebe a oportunidade de 
 "<item>
 
 <title>Êxodo: Deuses e Reis [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/EXDDUSERS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/EXDDUSERS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2299.jpg</image>
@@ -9680,7 +10016,7 @@ Exodus é uma adaptação da história bíblica do Êxodo, segundo livro do Anti
 "<item>
 
 <title>Exorcismos e Demônios [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EXRCSMEDEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EXRCSMEDEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2300.jpg</image>
@@ -9699,7 +10035,7 @@ Quando um padre é sentenciado à prisão após a morte de uma freira em que pra
 "<item>
 
 <title>Exorcistas do Vaticano [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/EXRCSTDVTCN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/EXRCSTDVTCN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2301.jpg</image>
@@ -9718,7 +10054,7 @@ Angela Holmes (Olivia Taylor Dudley), de 27 anos, acidentalmente corta seu dedo 
 "<item>
 
 <title>Expresso do Amanhã [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/EXPRSODOAMNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EXPRSODOAMNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2302.jpg</image>
@@ -9737,7 +10073,7 @@ Depois de um experimento fracassado para deter o aquecimento global todo o plane
 "<item>
 
 <title>Exterminador: Cavaleiros e Dragões [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/EXTRMNDRCVLRSEDRGROS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EXTRMNDRCVLRSEDRGROS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2303.jpg</image>
@@ -9756,7 +10092,7 @@ Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Sl
 "<item>
 
 <title>Extermínio [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/EXTRMN1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/EXTRMN1.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2304.jpg</image>
@@ -9775,7 +10111,7 @@ Um poderoso vírus está a solta. Transmitido em uma gota de sangue e com efeito
 "<item>
 
 <title>Extermínio 2 [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/EXTRMN2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/EXTRMN2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2305.jpg</image>
@@ -9794,7 +10130,7 @@ Seis meses depois de um vírus ter destruído um grande número de pessoas na Gr
 "<item>
 
 <title>Extinção [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EXTNCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EXTNCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2306.jpg</image>
@@ -9812,8 +10148,27 @@ Atormentado por sonhos com uma invasão alienígena, um homem vê seu pesadelo s
 </item>"
 "<item>
 
+<title>Extinção Humana [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FMDHMNDADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2369.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2369.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror
+Lançamento: 2011
+
+Como um homem lida com a perda de tudo que é significativo em sua vida, e a perda da humanidade dos homens diante do caos e desespero? Situado no Tenesse de 1870, Exit Humanity é a lenda da terrível e dramática viagem de Edward Young através de um inexplicável surto de mortos-vivos para dar o merecido descanso à coisa mais importante de sua vida, as cinzas de seu filho. O desolador cenário pós-Guerra Civil destaca a grave situação que os EUA estavam enfrentando, e a verdadeira perda de esperança que tantos sentiram durante este período na história.</info>
+ 
+<genre>Drama, Terror</genre>
+ 
+<date>16/10/2011</date>
+</item>"
+"<item>
+
 <title>Extraordinário [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EXTRORDNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EXTRORDNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/7/items/1883_20201001/2307.jpg</image>
@@ -9829,621 +10184,3 @@ Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeir
  
 <date>07/12/2017</date>
 </item>"
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-(vazio)
-"<item>
-
-<title>Hey Arnold! Na Selva – O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EIARNLDNSLVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2090.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2090.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Animação, Aventura, Família
-Lançamento: 2018
-
-Depois de descobrir um mapa de San Lorenzo no diário de seu pai, Arnold e seus colegas, já na quinta série, vão fazer o passeio da escola de suas vidas para San Lorenzo, um país fictício da América Central durante uma viagem escolar. O jovem Arnold deseja resolver o mistério do desaparecimento de seus pais(exploradores que viajaram para San Lorenzo juntos e nunca mais foram vistos), enquanto Helga finalmente liberta seus sentimentos sobre ele.</info>
- 
-<genre>Comédia, Animação, Aventura, Família</genre>
- 
-<date>13/08/2018</date>
-</item>"
-"<item>
-
-<title>John Wick: De Volta ao Jogo [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/DVLTAOJG.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/1808.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1808.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Thriller
-Lançamento: 2014
-
-John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.</info>
- 
-<genre>Ação, Thriller</genre>
- 
-<date>24/10/2014</date>
-</item>"
-"<item>
-
-<title>Junto Com Os Deuses - Os Dois Mundos [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALNGWTTGDTTWRLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/775.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/775.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Fantasia, Ação
-Lançamento: 2017
-
-Após morrer inesperadamente ao realizar um salvamento heróico, o jovem bombeiro Ja-hong é levado por três guardiões ao mundo espiritual, onde deverá passar por 7 julgamentos em um período de 49 dias. Os três guardiões foram designados para ajudá-lo em sua defesa, pois ele apenas terá permissão para reencarnar novamente na Terra se for considerado inocente em todos os julgamentos.</info>
- 
-<genre>Drama, Fantasia, Ação</genre>
- 
-<date>14/12/2017</date>
-</item>"
-"<item>
-
-<title>Meu Pequeno Ladrão [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACLPAFODMCACO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801401.us.archive.org/10/items/250_20200903/219.jpg</image>
-<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/219.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Família
-Lançamento: 1994
-
-A garotinha Eva vive com a mãe e o padrasto e agora está em crise de ciúme do novo irmãozinho. Por seu padrasto ser alérgico a animais, ela não tem nenhum bichinho para levar para escola e apresentar aos colegas. Ao voltar da escola pelo parque Eva se depara com um Macaquinho que ela se encanta e o chama de Dodger! Eva começa agora uma tripla aventura: manter Dodger em casa em segredo; defendê-lo do antigo dono, o cigano Azro e tentar reeducar o Macaquinho que era um ladrão de jóias!</info>
- 
-<genre>Comédia, Família</genre>
- 
-<date>18/03/1994</date>
-</item>"
-"<item>
-
-<title>Missão Dragão - Sua História [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/DRGNQSTYRSTRY.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2041.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2041.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Aventura, Comédia, Fantasia, Ação, Família
-Lançamento: 2019
-
-Luca segue os passos do pai para resgatar a mãe do maligno Ladja. Sua única esperança é encontrar o herói que carrega a espada zenitiana.</info>
- 
-<genre>Animação, Aventura, Comédia, Fantasia, Ação, Família</genre>
- 
-<date>02/08/2019</date>
-</item>"
-"<item>
-
-<title>Monster High: Bem-vindos à Monster High [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/MNSTRHGMSTRCMRAC.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601507.us.archive.org/17/items/1411_20200923/1244.jpg</image>
-<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1244.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Família
-Lançamento: 2016
-
-Já se perguntou como tudo começou? Então, pode entrar que a aula vai começar! Os monstros viviam se escondendo—até mesmo uns dos outros— porque tinham medo de sofrer se os humanos soubessem da existência deles. Mas Draculaura, a filha do Drácula, junto com suas melhores amigas, sonhavam com uma escola onde todos fossem bem-vindos e aceitos. Determinadas a transformarem o sonho em realidade, as monstrinhas viajaram pelo mundo em uma aventura épica para recrutar novos alunos. Mas até mesmo nesse lugar, existem problemas: um zumbi do mal está espalhando a discórdia e todo mundo tem que viver com medo de ter seu segredo revelado. Agora, as monstrinhas tem que salvar a escola para que cada monstro tenha um lugar seguro, onde as diferenças são celebradas!</info>
- 
-<genre>Animação, Família</genre>
- 
-<date>27/08/2016</date>
-</item>"
-"<item>
-
-<title>Montanha Gelada [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLDMNTAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601507.us.archive.org/17/items/1411_20200923/1579.jpg</image>
-<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1579.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Drama, História, Romance
-Lançamento: 2004
-
-Após o término da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar à sua casa, na vila de Cold Mountain. Lá está à sua espera Ada, sua namorada, que luta para administrar uma grande fazenda após a morte de seu pai. Para ajudá-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experiências da guerra.</info>
- 
-<genre>Aventura, Drama, História, Romance</genre>
- 
-<date>13/02/2004</date>
-</item>"
-"<item>
-
-<title>Nós Somos os Campeões 3 [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/D3NSMSCMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/1777.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1777.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Comédia, Drama, Família
-Lançamento: 1996
-
-Os jogadores do ""Ducks"", um time de hoquéi, cuja fama e sucesso só cresce, tem que entrar em uma nova escola preparatória, a Eden Hall Academy. Mas eles não serão bem recebidos pelos esnobes veteranos do colégio. Além disso, o técnico Gordon Bombay (Emilio Estevez) tem uma revelação bombástica a fazer, algo que pode acabar com o grupo de vez.</info>
- 
-<genre>Ação, Comédia, Drama, Família</genre>
- 
-<date>04/10/1996</date>
-</item>"
-"<item>
-
-<title>Nove Canções [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/9CANCOES.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601407.us.archive.org/5/items/112_20200902/108.jpg</image>
-<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/108.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Música, Romance
-Lançamento: 2004
-
-Londres, verão de 2003. Matt (Kieran O'Brien) conhece Lisa (Margo Stilley), uma jovem estudante americana, em meio a um show. Eles logo se apaixonam, vivendo um intenso relacionamento sexual entremeado por vários shows que acompanham.
-</info>
- 
-<genre>Drama, Música, Romance</genre>
- 
-<date>16/05/2004</date>
-</item>"
-"<item>
-
-<title>O Caldeirão do Diabo [COLOR yellow][IMDb 2,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/OCLDRAODIABO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2043.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2043.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação
-Lançamento: 2013
-
-O Caldeirão do Diabo, uma cidade onde a depravação e a violência forjaram uma sociedade na qual somente os letais e insensíveis podem sobreviver, dois jovens que possuem o intelecto e a ferocidade para florescer, criam um nome para si mesmos como os mais eficientes e incontroláveis assassinos. Lado a lado, esses dois irmãos são os assassinos mais mortais, temidos. Mas quando uma mulher de rara beleza entra misteriosamente na vida do irmão, ela as cega com suas doces promessas e os coloca um contra o outro, resultando em uma batalha épica que ameaça levar o Caldeirão do Diabo à destruição.</info>
- 
-<genre>Ação</genre>
- 
-<date>30/10/2013</date>
-</item>"
-"<item>
-
-<title>O Caminho da Morte [COLOR yellow][IMDb 3,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMNHDMRTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601507.us.archive.org/17/items/1411_20200923/1410.jpg</image>
-<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1410.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação
-Lançamento: 2016
-
-Um ônibus escolar tem seu pneu furado, fazendo com que o motorista procure ajuda em um rancho mais próximo. Ele, cinco alunos problemáticos, e uma extravagante professora ginasial encontram em vez disso, um grupo de criminosos e traficantes de drogas que não podem ser descobertos. Os alunos e professores são presas fáceis para esses criminosos, mas, para quem estava no caminho da morte certa, há uma força mais determinada e mais hábil do que qualquer um deles jamais esperava: o motorista do ônibus.</info>
- 
-<genre>Ação</genre>
- 
-<date>04/10/2016</date>
-</item>"
-"<item>
-
-<title>O Cão Branco [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CAOBRNCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601507.us.archive.org/17/items/1411_20200923/1425.jpg</image>
-<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1425.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller
-Lançamento: 1982
-
-A jovem aspirante a atriz Julie Sawyer encontra um cão branco perdido na rua e resolve adotá-lo. No entanto, aos poucos ela começa a notar um comportamento estranho no cachorro e percebe que se trata de um animal treinado a vida toda para atacar pessoas negras. Diante desse comportamento racista do cachorro, Julie resolve entregar o animal aos cuidados de Keys, um adestrador, ele próprio negro, para tentar reeducar o animal.</info>
- 
-<genre>Drama, Thriller</genre>
- 
-<date>07/07/1982</date>
-</item>"
-"<item>
-
-<title>O Céu é de Verdade [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/OCEDVRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601507.us.archive.org/17/items/1411_20200923/1499.jpg</image>
-<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1499.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama
-Lançamento: 2014
-
-A história verdadeira do filho de 4 anos de um pastor de uma cidade pequena que, durante uma cirurgia de emergência, foge da consciência e entra no céu. Quando ele acorda, ele conta suas experiências do outro lado.</info>
- 
-<genre>Drama</genre>
- 
-<date>03/07/2014</date>
-</item>"
-"<item>
-
-<title>O Diário Vigilante [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/DARODUMJSTC.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/1930.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1930.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação
-Lançamento: 2016
-
-O Vigilante é um filme anos 90 inspirada em graphic novel. A trama é repleta de muita ação e espionagem internacional e gira em torno de uma equipe de ex- combatentes, liderados por um anti- herói conhecido apenas como Vigilante.</info>
- 
-<genre>Ação</genre>
- 
-<date>01/09/2016</date>
-</item>"
-"<item>
-
-<title>O Pequeno Spirou [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASAVNTRSDPQNSPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601405.us.archive.org/13/items/974_20200914/992.jpg</image>
-<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/992.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Família
-Lançamento: 2017
-
-Adaptação para o cinema da história em quadrinhos 'Le Petit Spirou'. Petit Spirou está com seu destino traçado por sua família. No próximo ano escolar, ele vai entrar na escola de noivos. Surpreso, Petit Spirou decide, com a ajuda de seus amigos para usar seus últimos dias de aula para finalmente declarar seu amor por Suzette. E não importa como. Ele decide fazer uma incrível aventura em que descobre sua verdadeira vocação: aventureiro! Mas isso não será tão fácil, pois é contra as ambições da família...</info>
- 
-<genre>Comédia, Família</genre>
- 
-<date>27/09/2017</date>
-</item>"
-"<item>
-
-<title>O Prazer de sua Companhia [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/OPRZRDSUACMPNH.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/1979.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1979.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 2008
-
-Depois de perder a mulher de seus sonhos, Anderson (Biggs) está convencido de que nunca irá se apaixonar outra vez. Mas graças a seu melhor amigo ele é encorajado a conhecer uma garçonete chamada Katie (Fisher). Mesmo sendo uma desconhecida, Anderson não leva muito tempo para pedir a moça em casamento. Uma situação desconcertante, mas que irá mostrar que aquele era o tipo de amor que Anderson e Katie sempre estiveram procurando.</info>
- 
-<genre>Comédia</genre>
- 
-<date>15/01/2008</date>
-</item>"
-"<item>
-
-<title>O Rapto Da Modelo [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AMDLKDNPNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801406.us.archive.org/21/items/371_20200905/448.jpg</image>
-<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/448.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Thriller, Cinema
-Lançamento: 2019
-
-Grace, uma modelo aspirante, está emocionada por ter o fotógrafo de moda Hunter Kelly ajuda-la a lançar sua carreira. Mas quando a sessão de fotos se torna um sequestro mostrando verdadeiras intenções de Hunter para usar Grace como sua próxima “ESTRELA” em um site sexy, Grace deve encontrar uma maneira de escapar antes que ela se torne a próxima vítima de assassinato do modelo de Hunter.</info>
- 
-<genre>Thriller, Cinema</genre>
- 
-<date>06/07/2019</date>
-</item>"
-"<item>
-
-<title>Oi Scooby-Doo! [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCServer09/ondemand/SCBDFLM08.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/774.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/774.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Mistério, Família, Animação, Aventura, Comédia
-Lançamento: 2005
-
-Salsicha, Scooby-Doo e toda a turma desembarcam nas belíssimas praias do Havaí para o Concurso de Surfe Big Kahuna de Hanahuna -- apenas para descobrirem que existe um terrível monstro de verdade pronto para mostrar-lhes o verdadeiro significado da palavra medo! Os nativos são convencidos que os espíritos da ilha estão furiosos com a construção de um novo resort em solo sagrado e quando um exército de pequenos demônios ataca os surfistas, as antigas profecias paracem ser verdadeiras. Poderia ser este o primeiros mistério para o qual Daphne finalmente não teria uma explicação antes que os problemas -- na forma de uma erupção vulcânica -- surgissem? Agarrem-se às suas pranchas e saboreiem seus côcos -- a não ser que Scooby-Doo e Salsicha tenham acabado com todos eles -- para uma aventura espetacular, para lá de animada!</info>
- 
-<genre>Mistério, Família, Animação, Aventura, Comédia</genre>
- 
-<date>08/02/2005</date>
-</item>"
-"<item>
-
-<title>Os Edukadores [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/OSEDKDRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2084.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2084.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Comédia
-Lançamento: 2004
-
-Three activists cobble together a kidnapping plot after they encounter a businessman in his home.</info>
- 
-<genre>Drama, Comédia</genre>
- 
-<date>25/11/2004</date>
-</item>"
-"<item>
-
-<title>Os Fantasmas se Divertem [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/OSFNTSMSDVRTM.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601507.us.archive.org/17/items/1411_20200923/1228.jpg</image>
-<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1228.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Comédia
-Lançamento: 1988
-
-O casarão de uma dupla de fantasmas super atrapalhados foi invadido por novaiorquinos sofisticados. Para espantá-los, eles contratam um profissional: um fantasma especialista em assustar humanos (Michael Keaton), que vai tentar de tudo - adotar formas estranhas, armar ciladas e engraçadíssimas armadilhas. Dirigido por Tim Burton, Os Fantasmas se Divertem é uma comédia hilariante, vencedora do OSCAR de melhor maquiagem em 1988 que ainda conta com um elenco de estrelas: Alec Baldwin, Geena Davis e Winona Ryder. Crie coragem e invoque os espíritos. Você terá uma experiência inesquecível!</info>
- 
-<genre>Fantasia, Comédia</genre>
- 
-<date>10/11/1988</date>
-</item>"
-"<item>
-
-<title>Os Piores Anos da Minha Vida [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ESCLOSPRSANSDMNHVD.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2234.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2234.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família, Comédia
-Lançamento: 2016
-
-É o primeiro dia de aula em sua nova escola, mas Rafe khatchadorian já sabe que será o pior ano de sua vida. Como se não bastassem seus problemas em casa, agora ele terá que descobrir como sobreviver ao sexto ano. Por sorte, Rafa bolou o melhor plano de todos os tempos: ele se propôs a quebrar todas as regras do colégio, valendo pontos. Porém, professores, pais e valentões não curtiram essa ideia mirabolante. Será que o plano vai passar de mágico a trágico?</info>
- 
-<genre>Família, Comédia</genre>
- 
-<date>07/10/2016</date>
-</item>"
-"<item>
-
-<title>Primeira Chegada [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APRMRCHGDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/16/items/487_20200908/535.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/535.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Thriller, Ficção científica
-Lançamento: 2019
-
-Alex Lainey (Stefanie Scott) é uma aluna do ensino médio que começa a desenvolver estranhas habilidades após um encontro com luzes misteriosas. Ela rapidamente desenvolve seus poderes e com a ajuda de seu amigo de infância, Sean Terrel (Théodore Pellerin), eles precisam fugir de uma organização secreta do governo e Sean precisa decidir se vale a pena arriscar sua vida para desvendar a verdade sobre a transformação de Alex.</info>
- 
-<genre>Thriller, Ficção científica</genre>
- 
-<date>11/04/2019</date>
-</item>"
-"<item>
-
-<title>Princesa Encantada – Um Mistério Real [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/PRNCSENCTDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/16/items/487_20200908/549.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/549.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família, Animação, Aventura, Comédia
-Lançamento: 2018
-
-A marca da letra Z misteriosamente aparece nos residentes do palácio, a Princesa Odette, Scully e seus amigos trabalham juntos na investigação.</info>
- 
-<genre>Família, Animação, Aventura, Comédia</genre>
- 
-<date>27/03/2018</date>
-</item>"
-
-"<item>
-
-<title>SCOOBY! O Filme [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/SCBYOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801406.us.archive.org/21/items/371_20200905/314.jpg</image>
-<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/314.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família, Animação, Comédia, Aventura
-Lançamento: 2020
-
-Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo. Enquanto eles correm para parar esse caopocalypse, a gangue descobre que Scooby tem um destino épico maior do que se imaginava.</info>
- 
-<genre>Família, Animação, Comédia, Aventura</genre>
- 
-<date>08/07/2020</date>
-</item>"
-"<item>
-
-<title>Sempre de Olho: Uma História Marble Hornet [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AWAMHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/791.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/791.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror
-Lançamento: 2015
-
-A equipe jornalística de uma pequena cidade encontra uma caixa com fitas de vídeo dentro de um armário. Ao assistirem, descobrem que uma família era atormentada por um ser sem rosto que veste um terno escuro. Ao tentarem decifrar a história, percebem que esse ser começa a aparecer em suas vidas reais.</info>
- 
-<genre>Terror</genre>
- 
-<date>07/04/2015</date>
-</item>"
-"<item>
-
-<title>Só Deus Perdoa [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/SODEUSPRDOA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/915.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/915.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller, Crime
-Lançamento: 2013
-
-Um homem (Ryan Gosling) vive um exílio em Bagkok durante dez anos, depois de ter matado um policial. Ele mantém um clube de boxe, que funciona como disfarce para o tráfico de drogas. Quando seu irmão é assassinado depois de matar uma prostituta, o protagonista recebe a visita de sua mãe, que pretende resgatar o cadáver do filho mais novo e vingar-se dos homens que o mataram.</info>
- 
-<genre>Drama, Thriller, Crime</genre>
- 
-<date>23/09/2013</date>
-</item>"
-"<item>
-
-<title>Stealth: Ameaça Invisível [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/STLHAMCINVSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/803.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/803.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação
-Lançamento: 2005
-
-Os tenentes Ben Gannon (Josh Lucas), Kara Wade (Jessica Biel) e Henry Purcell (Jamie Foxx) são pilotos de uma divisão de elite da marinha americana, que testa jatos ultra-secretos. O mais recente jato fabricado conta com uma inteligência artificial, apelidada de EDI, que faz com que o ele não precise ser tripulado. Apesar da reticência de Ben em ter na frota um jato que não conta com o fator humano, o capitão George Cummings (Sam Shepard) autoriza sua utilização.</info>
- 
-<genre>Ação</genre>
- 
-<date>02/09/2005</date>
-</item>"
-"<item>
-
-<title>Stigmata [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ESTGMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2264.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2264.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller
-Lançamento: 1999
-
-Belo Quinto recebe a visita do padre Andrew Kiernan (Gabriel Byrne), que foi mandado pelo Vaticano para investigar uma igreja que tem a estátua de uma santa que verte lágrimas de sangue. Lágrimas estas que começaram no dia em que o padre Paulo Almeida morreu. Enquanto Kiernan fotografava a estátua um garoto furta um rosário que estava junto do corpo do falecido e vende o terço para uma turista, que por sua vez manda de presente para Frankie Paige (Patricia Arquette), sua filha. Em pouco tempo, ela passa a ser vítima de ""estigmas"" e Andrew Kiernan o encarregado de investigar o fenômeno. Inicialmente Kiernan descarta a possibilidade dos ""estigmas"", mas Kiernan vê o suficiente para quebrar os padrões estabelecidos pelo Vaticano, e acredita que se ele não fizer nada, Frankie pode morrer. Gradativamente, ele passa a suspeitar que seu superior, o cardeal Daniel Houseman (Jonathan Pryce), não quer que toda a verdade venha tona.</info>
- 
-<genre>Terror, Thriller</genre>
- 
-<date>10/12/1999</date>
-</item>"
-"<item>
-
-<title>Struggle: A Vida e a Arte de Szukalski [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AVDAEARTDSTNTW.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/655.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/655.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Documentário
-Lançamento: 2018
-
-Pintor e escultor, Stanislav Szukalski reimaginou a arte polonesa, criando uma espécie de mitologia própria através de suas pinturas e desenhos. Ele parecia destinado à grandiosidade, mas com a chegada da Segunda Guerra Mundial, quase todo seu trabalho foi perdido. Através de entrevistas com Szukalski, imagens de arquivo e conforme novos artistas descobrem sua obra, conta-se a extraordinária história de sua vida.</info>
- 
-<genre>Documentário</genre>
- 
-<date>21/12/2018</date>
-</item>"
-"<item>
-
-<title>Transformação [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ATRNSFGRCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/627.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/627.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Drama
-Lançamento: 2016
-
-Milo (Eric Ruffin) é mais um adolescente comum, que vive no bairro do Queens, em Nova Iorque, com o seu irmão. Ele tem os mesmos problemas que a maioria dos adolescentes de sua idade que sofrem bullying, encontrando refúgio em seu pequeno apartamento. A diferença, no entanto, entre Milo e os outros adolescentes é que o rapaz esconde um grande segredo. Exatamente como a cidade onde mora: afinal, um dos segredos de Nova Iorque é que uma parcela de seus habitantes são vampiros.</info>
- 
-<genre>Terror, Drama</genre>
- 
-<date>14/04/2016</date>
-</item>"
-
-"<item>
-
-<title>Vida Após Beth [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AVIDDPSDBTH.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/654.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/654.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Romance, Comédia, Terror
-Lançamento: 2014
-
-Zach (Dane de Haan) está devastado com a morte repentina de sua namorada, B
