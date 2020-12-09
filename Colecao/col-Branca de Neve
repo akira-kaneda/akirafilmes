@@ -1,0 +1,38 @@
+"<item>
+
+<title>Branca de Neve e os Sete Anões [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BRNCDNVEOSTSANS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1321.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1321.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Família
+Lançamento: 1938
+
+A rainha malvada morre de ciúmes da beleza de Branca de Neve e manda mata-la. Logo, descobre que a jovem não morreu e está morando na floresta com sete amiguinhos. A princesa então é envenenada pela rainha e só o beijo de um príncipe pode salvá-la.</info>
+ 
+<genre>Fantasia, Animação, Família</genre>
+ 
+<date>04/02/1938</date>
+</item>"
+"<item>
+
+<title>Branca de Neve e o Caçador [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BRNCDNVEOCACDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1320.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1320.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Drama
+Lançamento: 2012
+
+A Rainha Ravenna quer destruir a Branca de Neve, que é mais bonita do que ela. A rainha contrata um caçador, mas tudo começa a dar errado quando ele ajuda a princesa.</info>
+ 
+<genre>Aventura, Fantasia, Drama</genre>
+ 
+<date>01/06/2012</date>
+</item>"
