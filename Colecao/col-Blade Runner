@@ -1,0 +1,38 @@
+"<item>
+
+<title>Blade Runner: O Caçador de Andróides [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BLDRNER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/26/items/1280_20200923/1277.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/26/items/1280_20200923/1277.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Drama, Thriller
+Lançamento: 1982
+
+No século 21, uma corporação desenvolve clones humanos para serem usados como escravos em colônias fora da Terra, identificados como replicantes. Em 2019, um ex-policial é acionado para caçar um grupo fugitivo vivendo disfarçado em Los Angeles.</info>
+ 
+<genre>Ficção científica, Drama, Thriller</genre>
+ 
+<date>26/07/1982</date>
+</item>"
+"<item>
+
+<title>Blade Runner 2049 [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BLDRNR2049.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1276.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1276.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Drama
+Lançamento: 2017
+
+Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que está desaparecido há 30 anos.</info>
+ 
+<genre>Ficção científica, Drama</genre>
+ 
+<date>05/10/2017</date>
+</item>"
