@@ -1,0 +1,57 @@
+"<item>
+
+<title>Férias Frustradas [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/FERSFRTSDS1983.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2352.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2352.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Aventura
+Lançamento: 1983
+
+A família Griswold está de férias e resolve ir para o ""Walley Park"", um parque temático. O pai Clark (Chevy Chase), sua esposa Ellen (Beverly D'Angelo), e os filhos Audrey (Dana Barron) e Rusty (Anthony Michael Hall) pegam a longa estrada de Chicago até a Costa Oeste. No meio do caminho, encontram com o primo Eddie (Randy Quaid) e a tia Edna (Imogene Coca), e acabam tendo que levá-la até Phoenix. Até os Griswold chegarem ao parque muitas confusões acontecem e, quando eles finalmente chegam, uma surpresa pouco agradável os surpreende.</info>
+ 
+<genre>Comédia, Aventura</genre>
+ 
+<date>28/07/1983</date>
+</item>"
+"<item>
+
+<title>Férias Frustradas na Europa [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FRSFRSTDANAEURPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2356.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2356.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Romance
+Lançamento: 1985
+
+Os Griswald ganham uma viagem de férias para a Europa em um programa de televisão. Eles então arrumam suas malas rapidamente e partem para o velho continente. Juntos eles passam pela Inglaterra, França, Alemanha e Itália. Em todos os países eles só não encontram dificuldades em se meter em confusões. Como aconteceu a Inglaterra, quando Clarck (Chevy Chase) não conseguiu se adaptar a dirigir os carros ingleses ou então na Itália onde Ellen (Beverly D'Angelo) foi simplesmente raptada.</info>
+ 
+<genre>Aventura, Comédia, Romance</genre>
+ 
+<date>25/07/1985</date>
+</item>"
+"<item>
+
+<title>Férias Frustradas em Las Vegas [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FRSFRSTDAEMLSVGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2355.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2355.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1997
+
+Quando as férias chegam, Clark Griswold (Chevy Chase) decide levar sua família para passar um tempo em Las Vegas. Lá, eles encontram os primos Eddie (Randy Quaid) e Catherine (Miriam Flynn), e também a prima Vicky (Shae D'lyn), que eles descobrem ser dançarina de uma gaiola em uma boate. No meio disso tudo, Clark descobre que não pode se controlar em relação ao jogo, e enquanto isso sua esposa passa o tempo ao lado de outro homem.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>13/02/1997</date>
+</item>"
