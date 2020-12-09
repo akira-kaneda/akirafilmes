@@ -1,0 +1,57 @@
+"<item>
+
+<title>As Irmãs Vampiras [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASIRMSVAMPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1021.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1021.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia
+Lançamento: 2012
+
+As gêmeas Dakaria (Laura Antonia Roge) e Silvânia (Marta Martin) preparam-se para deixar Transilvânia, mas não é uma mudança tão simples, já que as duas são vampiras. Elas têm de enfrentar a reladidade de uma vida normal, deixando de lado os super-poderes, dormir no teto e aversão ao dia. Apesar do parentesco, as duas são bem diferentes e, enquanto Daka quer voltar para a antiga cidade, tudo o que Silvânia deseja é uma rotina comum.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia</genre>
+ 
+<date>30/12/2012</date>
+</item>"
+"<item>
+
+<title>As Irmãs Vampiras 2: O Amor Floresce [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASIRMSVAMPS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1022.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1022.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia
+Lançamento: 2014
+
+As irmãs vampiras estão de volta para sua próxima aventura.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia</genre>
+ 
+<date>16/10/2014</date>
+</item>"
+"<item>
+
+<title>As Irmãs Vampiras 3: Viagem para a Transilvânia [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASIRMSVAMPS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1023.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1023.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia
+Lançamento: 2016
+
+akaria e Silvania vão para a sua terra natal, Transilvânia, para resgatar seu irmão sequestrado pela rainha vampira, Antanasia.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia</genre>
+ 
+<date>08/12/2016</date>
+</item>"
