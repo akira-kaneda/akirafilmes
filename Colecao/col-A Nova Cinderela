@@ -1,0 +1,76 @@
+"<item>
+
+<title>A Nova Cinderela [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANVACNRLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/491.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/491.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2004
+
+Sam Montgomery (Hilary Duff) é uma jovem estudante do ensino médio, que vive com sua madrasta Fiona (Jennifer Coolidge) e as filhas dela, que a tratam da pior maneira possível. Sam leva uma vida sem grandes agitações e tem planos de cursar a Universidade de Princeton. Sua vida muda quando ela conhece, através da internet, seu príncipe encantado. Porém logo Sam descobre que ele é na verdade Austin Ames (Chad Michael Murphy), um garoto popular que é também jogador de futebol americano do time de sua escola. Temendo ser rejeitada por Austin, ela passa a tentar despistá-lo de todas as formas, tentando manter em segredo a identidade da garota com quem ele conversou através da internet.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>10/07/2004</date>
+</item>"
+"<item>
+
+<title>A Nova Cinderela: Era Uma Vez Uma Canção [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ANVACNRLAERUMVZUMCNCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/493.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/493.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Romance
+Lançamento: 2011
+
+Rotineiramente a jovem Katie (Lucy Hale) é explorada e maltratada pela madrasta (Missi Pyle), mas não reclama por temer ficar sem lar. Talentosa cantora e compositora, ela quase perde uma grande oportunidade por conta dos caprichos da irmã, Bev Van Ravensway (Megan Park), e, revoltada, decide finalmente correr atrás de seu sonho deixando de lado as complicadas questões familiares.</info>
+ 
+<genre>Comédia, Família, Romance</genre>
+ 
+<date>05/09/2011</date>
+</item>"
+"<item>
+
+<title>A Nova Cinderela: Se O Sapato Encaixar [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANVACNRLASOSPTENXR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/494.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/494.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia, Música
+Lançamento: 2016
+
+Tessa (Sofia Carson) é uma jovem sonhadora que vive uma vida infeliz ao lado de sua madrasta e sua meio-irmãs. Quando a madrasta a obriga a ser sua assistente em um concurso de talentos, ela descobre uma grande oportunidade: seguir seu coração e se inscrever as audições para mostrar o seu talento. Com a ajuda de seus amigos e descobrindo um novo amor, Tessa vai viver uma história digna do clássico Cinderela.</info>
+ 
+<genre>Comédia, Família, Fantasia, Música</genre>
+ 
+<date>02/08/2016</date>
+</item>"
+"<item>
+
+<title>A Nova Cinderela: Milagre de Natal [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANVACNRLAMLGRDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/492.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/492.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance, Fantasia
+Lançamento: 2019
+
+Kat é uma jovem aspirante a cantora, cujos sonhos sempre são esnobados pela cruel madrasta e meia-irmãs fúteis. Trabalhando como elfa na feira natalina, ela se encanta pelo novo Papai Noel da festa. Quando é convidada para um elegante baile que pode ser sua chance de sucesso, a protagonista é vítima da inveja da família, mas contará com o apoio da melhor amiga para comparecer ao evento.</info>
+ 
+<genre>Comédia, Música, Romance, Fantasia</genre>
+ 
+<date>15/10/2019</date>
+</item>"
