@@ -1,0 +1,57 @@
+"<item>
+
+<title>Descendentes [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DSCDNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1859.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1859.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Música, Aventura, Comédia, Fantasia, Cinema TV
+Lançamento: 2015
+
+Os principais vilões dos contos de fadas vivem isolados em uma ilha distante. Entretanto, quando o filho da Bela e da Fera assume o reino de Auradon, ele resolve perdoar os filhos dos vilões, permitindo que convivam e estudem na principal escola do local. É lá que Mal (Dove Cameron), filha de Malévola (Kristen Chenoweth); Evie (Sofia Carson), filha da Rainha Má (Kathy Najimy); Jay (Booboo Stewart), filho de Jafar (Maz Jobrani); e Carlos (Cameron Boyce), filho de Cruela De Vil (Wendy Raquel Robinson), precisarão decidir se seguirão o caminho dos pais ou se tomarão outro rumo.</info>
+ 
+<genre>Família, Música, Aventura, Comédia, Fantasia, Cinema TV</genre>
+ 
+<date>31/07/2015</date>
+</item>"
+"<item>
+
+<title>Descendentes 2 [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DSCDNTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1860.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1860.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Música, Cinema TV, Aventura, Ação, Fantasia, Romance
+Lançamento: 2017
+
+Ben (Mitchell Hope), agora Rei de Auradon, Mal (Dove Cameron), Evie (Sofia Carson), Carlos (Cameron Boyce) e Jay (Booboo Stewart) continuam estudando juntos enquanto vivem grandes aventuras. Entretanto, uma nova ameaça surge quando Uma (China Anne McClain), filha da terrível Ursula, Harry Gancho (Thomas Doherty), filho do Capitão Gancho e Gil (Dylan Playfair), filho de Gastón, decidem arranjar confusão com os amigos.</info>
+ 
+<genre>Família, Música, Cinema TV, Aventura, Ação, Fantasia, Romance</genre>
+ 
+<date>05/09/2017</date>
+</item>"
+"<item>
+
+<title>Descendentes 2.5 - Aqui no Mar [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DSCDNTS2.5.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1861.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1861.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Cinema TV, Fantasia
+Lançamento: 2018
+
+Mal emerge das sombras de uma floresta mística para um litoral escuro, onde ela cruza caminhos com Dizzy.</info>
+ 
+<genre>Música, Cinema TV, Fantasia</genre>
+ 
+<date>28/09/2018</date>
+</item>"
