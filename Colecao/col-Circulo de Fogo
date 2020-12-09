@@ -1,0 +1,38 @@
+"<item>
+
+<title>Círculo de Fogo [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CIRCLODFG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1542.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1542.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura
+Lançamento: 2013
+
+Quando várias criaturas monstruosas, conhecidas como Kaiju, começam a emergir do mar, tem início uma batalha entre estes seres e os humanos. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers, cada um controlado por duas pessoas através de uma conexão neural. Entretanto, mesmo os Jaegers se mostram insuficientes para derrotar os Kaiju. Diante deste cenário, a última esperança é um velho robô, obsoleto, que passa a ser comandado por um antigo piloto (Charlie Hunnam) e uma treinadora (Rinko Kikuchi).</info>
+ 
+<genre>Ação, Ficção científica, Aventura</genre>
+ 
+<date>09/08/2013</date>
+</item>"
+"<item>
+
+<title>Círculo de Fogo: A Revolta [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRLODEFGOARVLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1543.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Ficção científica, Aventura
+Lançamento: 2018
+
+Jake Pentecost, filho de Stacker Pentecost, se junta a Mako Mori para liderar uma nova geração de pilotos Jaeger, incluindo seu rival Lambert e uma hacker de 15 anos, Amara, contra uma nova ameaça Kaiju.</info>
+ 
+<genre>Ação, Fantasia, Ficção científica, Aventura</genre>
+ 
+<date>22/03/2018</date>
+</item>"
