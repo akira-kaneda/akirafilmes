@@ -1,0 +1,38 @@
+"<item>
+
+<title>Cocoon [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/COCON.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1568.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1568.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Ficção científica
+Lançamento: 1985
+
+Extra-terrestres vem a Terra, com a missão de recuperar casulos com seres de outro planeta, sendo que enquanto os casulos vão sendo recuperados eles são colocados em uma piscina, energizada pelos alienígenas. Mas os extraterrenos ignoram o fato desta piscina ser utilizada por três idosos moradores de um asilo, que logo passam a ter uma disposição fantástica. Porém, quando descobrem a origem da sua juventude um dilema surge na vida deles.</info>
+ 
+<genre>Comédia, Drama, Ficção científica</genre>
+ 
+<date>21/06/1985</date>
+</item>"
+"<item>
+
+<title>Cocoon II: O Regresso [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/COCON2ORGRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1569.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1569.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica
+Lançamento: 1988
+
+Os internos do asilo que foram para um outro planeta aproveitam uma oportunidade e pegam uma ""carona"", para poderem rever seus familiares e amigos. Mas quando chegam na Terra começam a questionar se devem continuar no planeta ou retornar a Antares, enquanto seus amigos alienígenas se preocupam em resgatar alguns de seus antepassados.</info>
+ 
+<genre>Comédia, Ficção científica</genre>
+ 
+<date>23/11/1988</date>
+</item>"
