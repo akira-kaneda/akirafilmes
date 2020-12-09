@@ -1,0 +1,61 @@
+"<item>
+
+<title>Anjos Rebeldes [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ANJSRBLDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/890.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/890.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Thriller
+Lançamento: 1995
+
+Um policial, que ia se sagrar padre mas perdeu a fé, se depara com uma guerra entre anjos, pois alguns deles, liderados pelo arcanjo Gabriel, não se conformam de Deus ter dado alma aos seres humanos. Enquanto esta luta acontece as almas não podem deixar seus corpos e irem para o Paraíso, sendo que Gabriel procura na Terra almas que possa usar em seu exército, mas outro anjo tenta detê-lo.</info>
+ 
+<genre>Fantasia, Terror, Thriller</genre>
+ 
+<date>01/09/1995</date>
+</item>"
+"<item>
+
+<title>Anjos Rebeldes 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ANJSRBLDS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/891.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/891.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Thriller
+Lançamento: 1998
+
+O anjo Gabriel (Christopher Walken) retorna à Terra para evitar o nascimento de um nefilim, que é o filho de um anjo com uma mulher, pois a idéia de um humano com poderes angelicais o desagrada imensamente, estando disposto a matar para evitar este nascimento.
+
+Valerie (Jennifer Beals) engravida do anjo Danyael (Russell Wong) e se vê envolvida em fatos que não entende totalmente, mas fica claro que sua vida corre perigo.
+
+Quando Daniel mata membros do exército de anjos de Gabriel, este por sua vez utiliza uma adolescente, que tentou cometer suicídio e a qual vem mantendo viva, para auxiliá-lo a combater Daniel e outros anjos.</info>
+ 
+<genre>Fantasia, Terror, Thriller</genre>
+ 
+<date>20/01/1998</date>
+</item>"
+"<item>
+
+<title>Anjos Rebeldes 3 - O Ascendente [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ANJSRBLDS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/892.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/892.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Thriller
+Lançamento: 2000
+
+O anjo Gabriel (Christopher Walken) tem morado na Terra, onde apreendeu a desfrutar de simples prazeres dos humanos, como dirigir um carro ou saborear um rosquinha. Uma noite ele testemunha Daniel (Dave Buzzotta), um pregador herege, dizer para os seus seguidores que Deus não tem nenhum plano para os que vivem na Terra e o que acontece é obra do acaso. Então um cego, que reivindica ouvir a voz de Deus, atira várias vezes no peito de Daniel. No entanto, várias horas depois dele ser declarado morto, Daniel sai da sua gaveta no necrotério e vai para a rua. A aturdida e inconformada Maggie (Kayren Butler), a namorada de Daniel, conhece Zofael (Vincent Spano), um anjo amaldiçoado que necessita do coração de Daniel, já que só assim morrerá realmente, para seus demoníacos propósitos.</info>
+ 
+<genre>Fantasia, Terror, Thriller</genre>
+ 
+<date>14/03/2000</date>
+</item>"
