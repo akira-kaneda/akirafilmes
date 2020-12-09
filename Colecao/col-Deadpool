@@ -1,0 +1,57 @@
+"<item>
+
+<title>Deadpool [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DEADP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1818.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1818.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Baseado em Quadrinho
+Lançamento: 2016
+
+Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.</info>
+ 
+<genre>Ação, Aventura, Comédia, Baseado em Quadrinho</genre>
+ 
+<date>11/02/2016</date>
+</item>"
+"<item>
+
+<title>Deadpool 2 [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DEADP2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1819.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1819.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Aventura, Baseado em Quadrinho
+Lançamento: 2018
+
+Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.</info>
+ 
+<genre>Ação, Comédia, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>17/05/2018</date>
+</item>"
+"<item>
+
+<title>Era Uma Vez Um Deadpool [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ERUMVZDEDPL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2219.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2219.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação, Baseado em Quadrinho
+Lançamento: 2018
+
+Determinado a provar que ""Deadpool 2"" é um filme para toda a família, Wade Wilson (Ryan Reynolds) limpa todos os palavrões e sangue da narrativa e sequestra o ator e diretor Fred Savage para reencenar A Princesa Prometida. Sem poder se desvencilhar das amarras, Savage é obrigado a ouvir o ""conto de fadas"" do Mercenário Tagarela, incluindo sua luta com Cable (Josh Brolin) e a formação da X-Force.</info>
+ 
+<genre>Comédia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>27/12/2018</date>
+</item>"
