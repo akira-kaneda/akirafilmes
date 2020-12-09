@@ -1,0 +1,38 @@
+"<item>
+
+<title>Caindo na Estrada [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CAINDNESTRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1398.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1398.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Aventura
+Lançamento: 2000
+
+Josh (Breckin Meyer) está em sérios apuros. Uma fita de vídeo que mostra Josh traindo sua namorada foi enviada, por engano, para sua namorada. Agora Josh e mais três amigos precisam partir numa louca viagem, de Nova York até Austin, no Texas, a fim de recuperar a comprometedora fita de vídeo e salvar seu relacionamento.</info>
+ 
+<genre>Comédia, Aventura</genre>
+ 
+<date>19/05/2000</date>
+</item>"
+"<item>
+
+<title>Caindo na Estrada 2: O Jogo da Cerveja [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CAINDNESTRD2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1399.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1399.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2009
+
+Três colegas de quarto vão na viagem das suas vidas quando largam tudo para participar na mais sexy das competições esportivas, o “National Beer Pong Tournament”. No caminho eles vão encontrar as mais incriveis atrações,tais como, o esquadrão de strip da avô-mãe-filha, as adoráveis virgens da puridade até ao casamente e muito mais. Com todos estes desvios será que chegam a tempo da competição e ganhar o título?</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>11/08/2009</date>
+</item>"
