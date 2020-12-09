@@ -1,0 +1,38 @@
+"<item>
+
+<title>Esquadrão Cobra [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESQDROCBRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5748.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5748.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 1989
+
+Jack Kelly (Lorenzo Lamas) pertenceu ao Esquadrão de Elite da Marinha, onde aprendeu a ser duro e a matar sem compaixão. Briguento, ele tem muitos inimigos. Agora ele está à caça dos homens que mataram seus pais e sequestraram sua irmã Jennifer (Cheryl Jeans). Para isso, ele conta com a ajuda de uma jovem apelidada Kid (Josie Bell).</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>22/02/1989</date>
+</item>"
+"<item>
+
+<title>Esquadrão Cobra III [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESQDROCBRA3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5747.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5747.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1992
+
+O justiceiro Jack Kelly está de volta, desta vez enfrentando uma gangue de cruéis motoqueiros que estupraram uma garota. Para enfrentá-los, ele conta com a ajuda de seu velho amigo Cowboy, um ex-motoqueiro.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>07/10/1992</date>
+</item>"
