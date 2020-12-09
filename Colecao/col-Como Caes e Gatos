@@ -1,0 +1,57 @@
+"<item>
+
+<title>Como Cães e Gatos [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMCSEGTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1614.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1614.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2001
+
+Sem o conhecimento dos humanos, os cachorros vêm há centenas de ano combatendo os gatos, que pretendem dominar os homens e tratá-los como verdadeiros tiranos. Porém, quando um gato chamado Sr. Tinkles (Sean Hayes) inicia um plano que irá acabar com a população de cães que protege os humanos, uma equipe de agentes caninos e um leal filhote chamado Lou (Tobey Maguire) decidem proteger a humanidade e livrá-la da escravidão que os gatos desejam impôr a eles.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>04/07/2001</date>
+</item>"
+"<item>
+
+<title>Como Cães e Gatos 2 - A Vingança de Kitty Galore [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMCSEGTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1615.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ação, Fantasia
+Lançamento: 2010
+
+Kitt Galore é uma ex-agente de elite de uma organização de espiões felinos, está cada vez mais pirada e bolou um plano diabólico para, além de derrotar de vez seus inimigos caninos, também derrubar seus ex-companheiros de espionagem e transformar o mundo em seu arranhador de estimação. Diante dessa ameaça sem precedentes, Cães e Gatos serão obrigados a unir forças pela primeira vez na história em uma aliança que poderá salvar suas vidas, e as de seus humanos. Esta divertida aventura conta com a dublagem na versão original de Christina Applegate, Michael Clarke Duncan, Neil Patrick Harris, Sean Hayes, James Marsden, de Bette Midler e Nick Nolte, e as estrelas Chris O'Donnell e Jack McBrayer.</info>
+ 
+<genre>Comédia, Família, Ação, Fantasia</genre>
+ 
+<date>30/07/2010</date>
+</item>"
+"<item>
+
+<title>Como Cães e Gatos 3: Peludos Unidos! [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMCSEGTS3PLDSUNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3734.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3734.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação
+Lançamento: 2020
+
+Já se passaram dez anos desde a criação da Grande Trégua, um elaborado sistema de vigilância de espécies conjuntas projetado e monitorado por cães e gatos para manter a paz quando surgem conflitos. Mas quando um vilão experiente em tecnologia invade redes sem fio para usar frequências ouvidas apenas por cães e gatos, ele os manipula em conflito e a batalha mundial entre cães e gatos está de volta. Agora, uma equipe de agentes inexperientes e não testados terá que usar seus instintos animais à moda antiga para restaurar a ordem e a paz entre cães e gatos em todos os lugares.</info>
+ 
+<genre>Comédia, Ação</genre>
+ 
+<date>02/10/2020</date>
+</item>"
