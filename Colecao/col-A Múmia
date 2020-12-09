@@ -1,0 +1,57 @@
+"<item>
+
+<title>A Múmia [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AMUMIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/470.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/470.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Fantasia
+Lançamento: 1999
+
+Em 1923, um grupo de arqueólogos exploram o egito. Nessa exploração encontram o corpo mumificado de Imhotep. Quando um deles lê o texto do livro de Amon-Dei, acidentalmente traz Imhoptep de volta a vida. Ele ressurge cheio de ódio e só pensa em reencontrar sua amada e destruir todos que cruzem o seu caminho, trazendo consigo as dez pragas do Egito.</info>
+ 
+<genre>Aventura, Ação, Fantasia</genre>
+ 
+<date>18/06/1999</date>
+</item>"
+"<item>
+
+<title>O Retorno da Múmia [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ORTNDAMUMIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4373.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4373.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Fantasia
+Lançamento: 2001
+
+Rick e Evelyn O'Connell estão morando na Londres de 1935, onde criam o filho. Quando uma série de eventos revela o corpo de Imhotep ressuscitado, os O'Connell iniciam uma corrida desesperada para salvar o mundo do mal e resgatar o filho antes que seja tarde demais.</info>
+ 
+<genre>Aventura, Ação, Fantasia</genre>
+ 
+<date>18/05/2001</date>
+</item>"
+"<item>
+
+<title>A Múmia - Tumba do Imperador Dragão [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AMUMIATMBDIMPRDDRG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/472.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/472.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Fantasia
+Lançamento: 2008
+
+O imperador chinês Dragão e seu grande exército são enfeitiçados e enterrados por uma bruxa maldita. Quando o jovem arqueólogo Alex O' Connell é enganado para ressuscitar o imperador, ele e seus famosos parentes devem encontrar uma forma de mandar o mal de volta para a tumba antes que Dragão desperte seu grande exército.</info>
+ 
+<genre>Aventura, Ação, Fantasia</genre>
+ 
+<date>01/08/2008</date>
+</item>"
