@@ -1,0 +1,57 @@
+"<item>
+
+<title>Entrando numa Fria [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ENTRDONUMFRIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2193.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2193.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2001
+
+Completamente apaixonados, Pam (Teri Polo) resolve levar seu namorado Greg (Ben Stiller) para conhecer seus pais. Só que, ao chegar, o pai (Robert De Niro) dela não se impressiona com Greg e decide tornar seu final de semana insuportável, utilizando todos os meios possíveis de intimidação, com apenas um único objetivo: se Greg aguentar até o fim, ele o homem certo para se casar com sua filha.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>12/01/2001</date>
+</item>"
+"<item>
+
+<title>Entrando Numa Fria Maior Ainda [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ENTRDONUMFRIAMRAND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2194.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2194.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2005
+
+Após passar por várias confusões, Greg Focker (Ben Stiller) e Jack Byrnes (Robert De Niro) estão se dando bem. Greg e Pam (Teri Polo) estão animados com os preparativos do casamento, mas há ainda uma pendência a ser resolvida: os futuros sogros precisam passar um fim de semana juntos. Para resolver o problema Greg, Pam, Jack e Dina (Blythe Danner) viajam no moderno trailer de Jack rumo à ilha Focker, em Cocoanut Grove. Ao chegar os Byrnes conhecem Bernie (Dustin Hoffman) e Roz (Barbra Streisand), pais de Greg. Porém o modo liberal como os Fockers levam a vida entra em conflito com os rígidos valores pregados por Jack.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>28/01/2005</date>
+</item>"
+"<item>
+
+<title>Entrando Numa Fria Maior Ainda com a Família [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ENTRDONUMFRIAMRANDCMAFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2195.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2195.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2011
+
+Após 10 anos de convivência, Greg enfim consegue se enturmar com seu sogro, Jack. Agora pai de dois filhos, Greg tenta impressionar a diretora de uma escola particular de prestígio, já que gostaria que as crianças estudassem lá. Ele precisa ainda lidar com as obras na casa, cujo atraso pode prejudicar a festa de aniversário dos filhos. Em meio a tudo isso, Greg aceita um emprego noturno em um laboratório farmacêutico, mas uma sexy colega de trabalho faz com que Jack volte a desconfiar do genro.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>07/01/2011</date>
+</item>"
