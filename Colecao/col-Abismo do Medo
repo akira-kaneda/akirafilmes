@@ -1,0 +1,38 @@
+"<item>
+
+<title>Abismo do Medo [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ABSMDMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/685.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/685.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Terror
+Lançamento: 2006
+
+Um ano após um trágico acidente, algumas amigas vão explorar uma caverna. Uma delas, Juno (Natalie Jackson Mendoza), sem avisar as outras, as levou para uma caverna que nenhuma pessoa tinha explorado. Logo elas descobrem que talvez alguém tenha entrado ali, mas nunca saído vivo. Um acidente faz com que uma rocha se desprenda e as amigas fiquem presas na caverna. Com a saída bloqueada, elas passam a explorar o local, buscando outro meio de sair. Porém elas passam a ser perseguidas por estranhas criaturas, que se escondem na escuridão da caverna.</info>
+ 
+<genre>Aventura, Terror</genre>
+ 
+<date>15/09/2006</date>
+</item>"
+"<item>
+
+<title>Abismo do Medo 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ABSMDMDO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/686.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/686.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Terror, Thriller
+Lançamento: 2010
+
+Sarah Carter (Shauna MacDonald) é encontrada sozinha e abalada pelo terrível episódio que viveu dentro das cavernas dos Apalaches com as amigas. Mas o xerife Redmond Vaines (Gavan O’Herlihy) que procurava por elas há dias nem espera a sua recuperação e quer a sua ajuda para encontrá-las. Ainda traumatizada e sem poder falar, Sarah vai se lembrando na medida em que se aprofunda nas cavernas e as situações ameaçam se repetir. Será que ela conseguirá sobreviver novamente?</info>
+ 
+<genre>Aventura, Terror, Thriller</genre>
+ 
+<date>27/04/2010</date>
+</item>"
