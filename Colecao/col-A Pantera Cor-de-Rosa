@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Pantera Cor-de-Rosa [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/APNTRACRDRSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/512.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/512.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Crime, Mistério, Família
+Lançamento: 2006
+
+Jacques Clouseau (Steve Martin) é um atrapalhado policial francês, que trabalha em uma pequena cidade. Após ser chamado a Paris pelo inspetor-chefe Dreyfus (Kevin Kline), Clouseau é promovido a inspetor e fica encarregado de investigar a morte de Yves Gluant (Jason Statham), técnico de um time de futebol local. Logo após a morte de Gluant foi roubado dele o diamante conhecido como Pantera Cor-de-Rosa, que estava em um anel. O plano de Dreyfus é usar Clouseau para que ele chame a atenção da mídia, enquanto que outros inspetores, mais gabaritados, trabalhem para resolver o caso. Entretanto, juntamente com seu parceiro Gilbert Ponton (Jean Reno) e sua secretária Nicole (Emily Mortimer), Clouseau inesperadamente chega perto do assassino.</info>
+ 
+<genre>Ação, Comédia, Crime, Mistério, Família</genre>
+ 
+<date>17/02/2006</date>
+</item>"
+"<item>
+
+<title>A Pantera Cor de Rosa 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/APNTRACRDRSA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/513.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/513.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Mistério, Família
+Lançamento: 2009
+
+Quando famosos tesouros ao redor do mundo são roubados, entre eles o lendário diamante Pantera Cor-de-Rosa, o inspetor-chefe Dreyfus (John Cleese) é obrigado a convocar o inspetor Jacques Clouseau (Steve Martin) para integrar uma equipe internacional de investigação. Para realizar o trabalho Clouseau conta com a ajuda de seu parceiro Ponton (Jean Reno) e de Nicole (Emily Mortimer), por quem sente-se atraído.</info>
+ 
+<genre>Comédia, Mistério, Família</genre>
+ 
+<date>06/02/2009</date>
+</item>"
