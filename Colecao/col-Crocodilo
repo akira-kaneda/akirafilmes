@@ -1,0 +1,38 @@
+"<item>
+
+<title>Crocodilo [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRDLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1747.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1747.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Thriller
+Lançamento: 2000
+
+Oito adolescentes vão passar as suas férias a bordo de um barco, num lago na Califórnia do sul.O passeio em breve se torna um pesadelo, quando roubam uns ovos de crocodilo…</info>
+ 
+<genre>Terror, Ação, Thriller</genre>
+ 
+<date>26/12/2000</date>
+</item>"
+"<item>
+
+<title>Crocodilo 2 [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRDLO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1748.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1748.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2002
+
+Um criminoso carregando dinheiro e ouro roubados seqüestra um avião que cai em um pântano mexicano, onde os sobreviventes são aterrorizados por um crocodilo gigante.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>01/01/2002</date>
+</item>"
