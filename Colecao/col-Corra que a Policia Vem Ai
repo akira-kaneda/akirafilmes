@@ -1,0 +1,19 @@
+"<item>
+
+<title>Corra que a Polícia Vem Aí! 2½ [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CORQAPLCVMAI2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1700.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1700.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1991
+
+O tenente Frank Drebin precisa descobrir como deter o infame plano de Quentin Hapsburg, que planeja destruir o meio ambiente. Nesta hilariante sequência, estão de volta também Jane, a mulher que consegue derreter um sanduíche de queijo em 20 passos, e o destemido capitão Ed Hocken.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>28/06/1991</date>
+</item>"
