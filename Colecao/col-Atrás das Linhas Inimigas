@@ -1,0 +1,76 @@
+"<item>
+
+<title>Atrás das Linhas Inimigas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ATRSDLNHSINMGS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1120.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1120.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Thriller, Guerra
+Lançamento: 2002
+
+Chris Burnett (Owen Wilson) é um aviador naval experiente que está frustrado por ter sido afastado das missões de combate. Durante uma missão de reconhecimento, Burnett fotografa algo que deveria ser mantido em sigilo e, por isso, tem seu avião abatido. Agora em meio às linhas inimigas, ele receberá ajuda do almirante Reignart (Gene Hackman), um oficial durão e antiquado que acredita que Burnett ainda não aprendeu o real significado de ser um soldado.</info>
+ 
+<genre>Ação, Drama, Thriller, Guerra</genre>
+ 
+<date>18/01/2002</date>
+</item>"
+"<item>
+
+<title>Atrás das Linhas Inimigas 2: O Eixo do Mal [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ATRSDLNHSINMGS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1122.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1122.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 2006
+
+Prepare-se para ação ininterrupta e suspense de tirar o fôlego, pois não há caminho de volta nesta eletrizante seqüência cheia de adrenalina que nos leva para Atrás das Linhas Inimigas! A equipe especial da Marinha americana que tem a missão de destruir um míssil na Coréia do Norte e evitar um possível ataque nuclear não pode nem pensar em falhar. Mas a missão é abortada abruptamente, deixando quatro soldados isolados em território inimigo. Agora, para sobreviver, eles precisam não apenas derrotar as forças rebeldes que os ameaçam, mas também vencer seus aliados e todo o mundo livre.</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>17/10/2006</date>
+</item>"
+"<item>
+
+<title>Atrás das Linhas Inimigas 3: Operação Colômbia [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ATRSDLNHSINMGS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1123.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1123.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Thriller
+Lançamento: 2009
+
+Em uma missão secreta na Colômbia, um grupo de soldados americanos é perseguido por duas facções que acreditam que seus líderes foram mortos por eles. Abandonados pelo seu próprio governo, os soldados lutam para sobreviver ao mesmo tempo em que buscam provar sua inocência e impedir uma guerra entre os dois países.</info>
+ 
+<genre>Guerra, Ação, Thriller</genre>
+ 
+<date>06/01/2009</date>
+</item>"
+"<item>
+
+<title>Atrás das Linhas Inimigas 4: Missão África [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ATRSDLNHSINMGS4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1121.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1121.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra, Drama
+Lançamento: 2014
+
+Em uma missão não sancionada na África, uma equipe dos SEALs é enviada para localizar uma operação secreta de mineração e impedir a venda de urânio para terroristas internacionais.</info>
+ 
+<genre>Ação, Guerra, Drama</genre>
+ 
+<date>01/03/2014</date>
+</item>"
