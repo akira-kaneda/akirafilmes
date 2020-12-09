@@ -1,0 +1,57 @@
+"<item>
+
+<title>Fúria de Titãs [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FURIDTAS1981.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2444.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2444.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Família, Fantasia
+Lançamento: 1981
+
+Deuses no Olimpo, terríveis monstros mitológicos e heróis mortais fazem deste espetáculo de imaginação uma aventura imperdível. Harry Hamlin é Perseu, o filho mortal de Zeus (Laurence Olivier), que luta para salvar a vida da princesa Andrômeda (Judi Bowker) do monstro marinho Kraken. Para tal, ele precisa de uma arma tão letal quanto difícil de conseguir: a cabeça de Medusa! Acompanhado de um grupo de corajosos guerreiros e montado no fabuloso Pegasus, o cavalo alado, Perseu parte em uma aventura sem precedentes pelas terras fantásticas da mitologia grega.</info>
+ 
+<genre>Ação, Aventura, Família, Fantasia</genre>
+ 
+<date>27/07/1981</date>
+</item>"
+"<item>
+
+<title>Fúria de Titãs [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FRIDTTS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2445.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2445.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 2010
+
+Perseu (Sam Worthington) descobre que é o filho mortal de Zeus (Liam Neeson), mas recusa-se a aceitar tal condição. Contudo, para salvar a cidade de Argos da fúria dos deuses do olimpo e da vingança de seu tio Hades (Ralph Fiennes), ele vai ter que enfrentar uma perigosa jornada contra terríveis criaturas como a Medusa para salvar os simples mortais e a bela Andrômeda (Alexa Davalos) do sacrifício para o monstro Kraken.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>16/04/2010</date>
+</item>"
+"<item>
+
+<title>Fúria de Titãs 2 [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FRIDTTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2446.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2446.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura
+Lançamento: 2012
+
+Dez anos depois, o semideus Perseus (Sam Worthington) leva uma vida pacata de pescador enquanto cria seu filho, Hélio (John Bell). Os deuses estão enfraquecidos, já que os humanos não estão mais rezando para eles. Esta situação permite que Hades (Ralph Fiennes) e Ares (Édgar Ramírez) elaborem um plano para libertar Cronos, o pai de Hades, Zeus (Liam Neeson) e Poseidon (Danny Huston), que está aprisionado no tártaro. Para que o plano funcione Hades e Ares capturam Zeus, o que faz com que Perseus parta para salvá-lo.</info>
+ 
+<genre>Fantasia, Aventura</genre>
+ 
+<date>30/03/2012</date>
+</item>"
