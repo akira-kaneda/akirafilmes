@@ -119,7 +119,7 @@ Lançamento: 1940
 "<item>
 
 <title>[REC] [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/REC1.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/REC1.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6483.jpg</image>
@@ -138,7 +138,7 @@ Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bomb
 "<item>
 
 <title>[REC] 2 - Possuídos [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/REC2.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/REC2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6484.jpg</image>
@@ -157,7 +157,7 @@ Há 15 minutos a polícia não tem qualquer contato com as pessoas que estão pr
 "<item>
 
 <title>[REC] 3 - Gênesis [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/REC3.mp4|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/REC3.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/6485.jpg</image>
