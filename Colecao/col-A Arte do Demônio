@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Arte do Demônio [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AARTDEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601405.us.archive.org/13/items/974_20200914/960.jpg</image>
+<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/960.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2005
+
+Uma mulher grávida é abandonada pelo amante. Enfurecida, ela vai a um feiticeiro e usa magia negra para matar seu ex e sua família, apenas para que outra mulher que afirma ser a amante secreta de seu amante reivindique sua herança e se mude para sua casa com seus filhos. Pouco depois, coisas inexplicáveis acontecem àquela família e, uma a uma, elas começam a morrer.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>19/10/2005</date>
+</item>"
+"<item>
+
+<title>A Arte do Demônio 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ARTDDEMO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601405.us.archive.org/13/items/974_20200914/961.jpg</image>
+<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/961.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror
+Lançamento: 2005
+
+Um grupo de amigos do ensino médio se reúne depois de dois anos, quando um de seus pais cometeu suicídio. Todos eles passam a noite na casa de seus amigos. Quando a escuridão cai, coisas estranhas começam a acontecer com eles uma por uma. É como se alguém estivesse usando as artes negras neles em vingança por um ato que esse grupo de amigos cometeu juntos no colégio</info>
+ 
+<genre>Fantasia, Terror</genre>
+ 
+<date>01/12/2005</date>
+</item>"
