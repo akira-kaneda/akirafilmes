@@ -1,0 +1,209 @@
+"<item>
+
+<title>Alien, O 8º Passageiro [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIEN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/761.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/761.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 1979
+
+Durante seu retorno à Terra, uma nave espacial de mineração tem seu rumo alterado devido a uma transmissão, interpretada como pedido de socorro. Sua tripulação ao investigar o local, se depara como uma forma de vida desconhecida.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>20/08/1979</date>
+</item>"
+"<item>
+
+<title>Aliens, O Resgate [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIENORSGT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/764.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/764.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 1986
+
+Depois de dormir por 57 anos, a única sobrevivente de uma tragédia espacial descobre que o local onde tudo aconteceu com sua nave foi colonizado e, apesar das pressões, decide retornar para salvar as 70 famílias lá existentes.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>18/12/1986</date>
+</item>"
+"<item>
+
+<title>Alien 3 [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIEN3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/758.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/758.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Terror
+Lançamento: 1992
+
+Ripley é a única sobrevivente quando sua nave avariada cai em Fiorina 161, um planeta inóspito habitado por ex-condenados de uma prisão de segurança máxima. Mas um Alien estava a bordo de sua espaçonave... e logo o número de cadáveres começa a crescer.</info>
+ 
+<genre>Ficção científica, Ação, Terror</genre>
+ 
+<date>04/09/1992</date>
+</item>"
+"<item>
+
+<title>Alien: A Ressurreição [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIENARSSC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/762.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/762.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Terror, Ação
+Lançamento: 1998
+
+Dois séculos depois de sua morte, a tenente Ripley é clonada por cientistas a bordo de uma espaçonave, a qual é também um laboratório. Porém, o clone vem com um toque de sangue Alien na sua composição.</info>
+ 
+<genre>Ficção científica, Terror, Ação</genre>
+ 
+<date>09/04/1998</date>
+</item>"
+"<item>
+
+<title>Alien vs. Predador [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIENVSPRDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/759.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/759.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação, Terror
+Lançamento: 2004
+
+Uma pirâmide até então desconhecida é encontrada na Antártica através de satélites, fazendo com que uma equipe de cientistas e aventureiros seja enviada para investigar o local. Porém lá eles fazem uma descoberta atra: a pirâmide serve de abrigo para duas raças alienígenas extremamente violentas, que estão em guerra.</info>
+ 
+<genre>Aventura, Ficção científica, Ação, Terror</genre>
+ 
+<date>03/09/2004</date>
+</item>"
+"<item>
+
+<title>Alien vs. Predador 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIENVSPRDR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/760.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/760.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Ficção científica, Thriller, Terror
+Lançamento: 2007
+
+Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.</info>
+ 
+<genre>Fantasia, Ação, Ficção científica, Thriller, Terror</genre>
+ 
+<date>25/12/2007</date>
+</item>"
+"<item>
+
+<title>Monstros vs Alienígenas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRSVSALIEN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3461.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3461.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Ficção científica
+Lançamento: 2009
+
+Susan Murphy (Reese Witherspoon) está prestes a se casar com Derek Dietl (Paul Rudd), um repórter de TV que sonha em ascender profissionalmente. No dia de seu casamento ela é atingida por um meteorito, oriundo de um planeta que explodiu recentemente. A radioatividade do objeto espacial faz com que ela cresça até a altura de 15 metros. Sem saber o que está ocorrendo, Susan é capturada pelo exército e confinada em uma base secreta, onde estão alojados outros monstros: dr. Barata (Hugh Laurie), Elo Perdido (Will Arnett), B.O.B. (Seth Rogen) e Insectossauro. Todos deveriam permanecer isolados da sociedade, mas um súbito ataque alienígena faz com que o presidente dos Estados Unidos, Hathaway (Stephen Colbert), aceite o plano de libertá-los para que possam combater o novo inimigo.</info>
+ 
+<genre>Animação, Família, Aventura, Ficção científica</genre>
+ 
+<date>03/04/2009</date>
+</item>"
+"<item>
+
+<title>A Balada do B.O.B. [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ABLADOBOB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/131.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/131.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Ação, Comédia
+Lançamento: 2009
+
+O suspense não termina para B.O.B., que trama sua fuga da cela secreta do governo sob a guarda do general W.R. Monger.</info>
+ 
+<genre>Animação, Aventura, Ação, Comédia</genre>
+ 
+<date>30/09/2009</date>
+</item>"
+"<item>
+
+<title>A Noite das Cenouras Vivas [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ANTDSCNRSVIVS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/477.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/477.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia
+Lançamento: 2011
+
+Prepare-se para uma aventura mal-assombrada quando B.O.B., o Doutor e Elo Perdido juntam-se no Dia das Bruxas para salvar a cidade das cenouras zumbis.</info>
+ 
+<genre>Animação, Comédia</genre>
+ 
+<date>13/10/2011</date>
+</item>"
+"<item>
+
+<title>Prometheus [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/PROMTHS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5075.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5075.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Mistério
+Lançamento: 2012
+
+Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras.</info>
+ 
+<genre>Ficção científica, Aventura, Mistério</genre>
+ 
+<date>15/06/2012</date>
+</item>"
+"<item>
+
+<title>Alien: Covenant [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIENCVNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/763.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/763.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 2017
+
+Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David como habitante solitário.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>11/05/2017</date>
+</item>"
