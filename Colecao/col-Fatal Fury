@@ -1,0 +1,57 @@
+"<item>
+
+<title>Fatal Fury: Rei dos Lutadores [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FTLFRY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2336.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2336.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação
+Lançamento: 1992
+
+Dez anos após a morte de seu pai adotivo, os irmãos Terry e Andy Bogard voltam para Southtown para fazer vingança ao senhor do crime Geese Howard. Eles se unem ao campeão de muai-thai Joe Higashi e participam do torneio ”The King of Fighters”, na esperança de enfrentar Geese e lhe dar a sua merecida derrota.</info>
+ 
+<genre>Ação, Animação</genre>
+ 
+<date>23/12/1992</date>
+</item>"
+"<item>
+
+<title>Fatal Fury 2: O Desafio de Krauser [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FTLFRY2ODFSDKRSR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2334.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2334.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação
+Lançamento: 1993
+
+Depois de derrotar Geese Howard, o lendário lutador Terry Bogard fica cara a cara com guerreiro alemão Wolfgang Krauser, e sofre uma derrota humilhante. Deprimido por sua derrota, Terry vagueia por todo o país, desperdiçando sua vida em bebedeiras. Apenas um garoto chamado Tony pode convencer Terry a voltar para as suas vitórias, conquistar seus medos, e mais uma vez enfrentar Krauser.</info>
+ 
+<genre>Ação, Animação</genre>
+ 
+<date>30/06/1993</date>
+</item>"
+"<item>
+
+<title>Fatal Fury 3: A Fúria [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FTLFRY3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2335.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2335.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Fantasia
+Lançamento: 1994
+
+O jovem milionário Laocorn Gaudeamus está em uma cruzada para recuperar seis peças de uma armadura, que dizem dar ao usuário o poder de Marte, o lendário Deus da Guerra. Temendo que seu irmão gêmeo está lentamente a perder sua sanidade, com cada peça de armadura que ele recolhe, Sulia corre para Terry, Andy, Joe e Mai para formar a sua própria cruzada global para impedir Laocorn de abrir uma caixa de Pandora potencial e liberar uma forma incontrolável de destruição.</info>
+ 
+<genre>Ação, Animação, Fantasia</genre>
+ 
+<date>16/07/1994</date>
+</item>"
