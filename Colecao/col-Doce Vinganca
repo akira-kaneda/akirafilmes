@@ -1,0 +1,57 @@
+"<item>
+
+<title>Doce Vingança [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DCVNGCA1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1966.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1966.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime, Terror
+Lançamento: 2011
+
+A escritora Jennifer aluga uma cabana isolada para escrever sua mais recente novela. A paz e o silêncio do local são quebrados por uma gangue local que a estupra e tortura, deixando-a como morta. Mas Jennifer retorna para se vingar, capturando os homens um a um e lhes causando muito mais dor do que ela sofreu.</info>
+ 
+<genre>Thriller, Crime, Terror</genre>
+ 
+<date>11/03/2011</date>
+</item>"
+"<item>
+
+<title>Doce Vingança 2 [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DCVNGCA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1967.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1967.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Crime
+Lançamento: 2013
+
+A jovem e bela Katie (Jemma Dallender) sonha em conseguir seguir a carreira de modelo em Nova York. Sem dinheiro para pagar uma sessão com um fotográfo profissional, ela vê um anúncio de um homem que tira fotos de graça. Mas a inocente sessão acaba culminando na jovem sendo estuprada, humilhada, drogada e sequestrada. Ela acorda em outro país, mas, ao tentar escapar, é enterrada viva. Apesar de todas as propabilidades contra ela, a jovem sobrevive. E agora, Katie vai buscar uma brutal vingança contra aqueles que tanto a machucaram.</info>
+ 
+<genre>Thriller, Terror, Crime</genre>
+ 
+<date>25/08/2013</date>
+</item>"
+"<item>
+
+<title>Doce Vingança 3: A Vingança é Minha [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DCVNGCA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1968.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1968.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2015
+
+Jennifer Hills ainda é atormentada pelo estupro brutal que sofrera há vários anos. Ela muda de identidade e de cidade, juntando-se a um grupo de apoio, a fim de juntar as peças de uma vida nova. Porém, quando os assassinos de sua amiga são libertados, e as histórias de estupradores em série começam a assombrá-la, Jennifer vai caçá-los e fazer justiça com as próprias mãos - e fazê-los pagar por seus crimes das piores maneiras imaginadas.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>09/10/2015</date>
+</item>"
