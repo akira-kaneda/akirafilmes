@@ -1,0 +1,38 @@
+"<item>
+
+<title>Caçadores de Emoção [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CACDRSDEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1381.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1381.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 1991
+
+Em uma cidade costeira da Califórnia atua uma gangue de ladrões de banco que se autodenomina ""Os Ex-Presidentes"", pois cometem seus assaltos usando as máscaras de Reagan, Carter, Nixon e Johnson. O F.B.I. acredita que os membros da quadrilha possam ser surfistas e manda para lá um jovem agente disfarçado, Johnny Utah (Keanu Reeves), que tem como missão se infiltrar entre os surfistas e obter informações. Para isto ele precisa aprender a surfar, algo que seu chefe não gosta muito. Com o auxílio de Angelo Pappas (Gary Busey), outro agente, Johnny chega a uma comunidade de surfistas onde os dois se infiltram, desconfiados que o autor dos assaltos está ali. Lá ele conhece Bodhi (Patrick Swayze), um homem místico e muito inteligente, que começa a mostrar a Johnny uma maneira diferente de ver o mundo.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>12/07/1991</date>
+</item>"
+"<item>
+
+<title>Caçadores de Emoção: Além do Limite [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CACDRSDEMCOSALMDLMT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1382.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1382.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2016
+
+Um jovem agente do FBI (Luke Bracey) tem como missão se infiltrar em meio a atletas de esportes radicais, suspeitos de cometerem uma série de roubos nunca vistos até então. Não demora muito para que ele se aproxime de Bodhi (Édgar Ramirez), o líder do grupo, e conquiste sua confiança.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>15/01/2016</date>
+</item>"
