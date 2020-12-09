@@ -1,0 +1,59 @@
+"<item>
+
+<title>Comando Final [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CMNDFINL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1604.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1604.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2006
+
+O Detetive Chan da policia de Hong Kong (Simon Yam) foi quase toda sua carreira devoto em colocar na cadeia o chefe da Triade, Wong Po (Sammo Hung). Depois de Descobrir ter um tumor no Cerebro e que lhe resta poucos anos de vida. Chan e sua equipe decidem colocar Wong Po a qualquer custo na cadeia, antes de sua morte.
+
+Poucos dias antes de sua aposentadoria, Ma Kwun (Donnie Yen)respeitado Detetive que substituira Chan, passa a acompanhar a equipe e compreender suas ações.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>12/09/2006</date>
+</item>"
+"<item>
+
+<title>Comando Final 2: Hora das Consequências [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HRDSCNSQNCIS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1605.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1605.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2015
+
+Um policial disfarçado tem a missão de pegar o Sr. Hung, o mestre de um sindicato do crime. Quando a operação dá errado e seu disfarce é descoberto, ele é levado a uma prisão na Tailânda. Lá, ele contará com a ajuda de um guarda da prisão, para que consiga sair vivo e obter a sua vingança contra aqueles que o enganaram.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>18/06/2015</date>
+</item>"
+"<item>
+
+<title>Comando Final 3: Paradox [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CMNDFINL3PRDX.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1606.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1606.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Drama
+Lançamento: 2017
+
+Quando o negociador da polícia de Hong Kong, Lee Chung-chi, é informado sobre o desaparecimento súbito de sua filha de 16 anos, Lee Wing-chi, durante sua viagem a Pattaya, ele decide viajar à Tailândia para descobrir o paradeiro dela. Lá, ele recebe assistência do detetive chinês Chui Kit e seu colega Tak, e também encontra um gângster americano, Sacha.</info>
+ 
+<genre>Crime, Ação, Drama</genre>
+ 
+<date>25/08/2017</date>
+</item>"
