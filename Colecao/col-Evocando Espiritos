@@ -1,0 +1,38 @@
+"<item>
+
+<title>Evocando Espíritos [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EVCNDESPRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2296.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2296.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2009
+
+Uma família é forçada a se mudar para perto de uma clínica, na qual o filho adolescente recebe tratamento contra o câncer. Porém, eventos sobrenaturais e violentos começam a aterrorizá-los em sua nova casa.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>17/04/2009</date>
+</item>"
+"<item>
+
+<title>Evocando Espíritos 2 [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EVCNDESPRTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2297.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2297.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Thriller
+Lançamento: 2013
+
+Uma jovem família muda-se para uma casa história na Geórgia e lá percebem que não são os únicos habitantes. Logo notam que há um segredo obscuro e ameaçador que derrubará todos no seu caminho...</info>
+ 
+<genre>Terror, Drama, Thriller</genre>
+ 
+<date>13/09/2013</date>
+</item>"
