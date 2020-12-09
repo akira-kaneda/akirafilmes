@@ -1,0 +1,57 @@
+"<item>
+
+<title>De Volta para o Futuro [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DVLTPROFUT1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1811.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1811.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Ficção científica, Família
+Lançamento: 1985
+
+Um jovem (Michael J. Fox) aciona acidentalmente uma máquina do tempo construída por um cientista (Christopher Lloyd) em um Delorean, retornando aos anos 50. Lá conhece sua mãe (Lea Thompson), antes ainda do casamento com seu pai, que fica apaixonada por ele. Tal paixão põe em risco sua própria existência, pois alteraria todo o futuro, forçando-o a servir de cupido entre seus pais.</info>
+ 
+<genre>Aventura, Comédia, Ficção científica, Família</genre>
+ 
+<date>25/12/1985</date>
+</item>"
+"<item>
+
+<title>De Volta para o Futuro 2 [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DVLTPROFUT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1812.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1812.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Ficção científica
+Lançamento: 1989
+
+O cientista Doc Brown (Christopher Lloyd) leva Marty (Michael J. Fox) e sua namorada (Elisabeth Shue) para o ano 2015, com a finalidade de resolver uma questão familiar no futuro deles. Mas Biff (Thomas F. Wilson), velho inimigo da família, obriga-os a correrem contra o tempo (literalmente falando) para não alterarem os acontecimentos.</info>
+ 
+<genre>Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>14/12/1989</date>
+</item>"
+"<item>
+
+<title>De Volta para o Futuro 3 [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DVLTPROFUT3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1813.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1813.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Ficção científica
+Lançamento: 1990
+
+Após de receber uma carta de Doc (Christopher Lloyd) datada de 1885, Marty McFly (Michael J. Fox) decide viajar para o Velho Oeste, no dia 2 de setembro do mesmo ano. Lá ele descobre que o doutor está fugindo de uma gangue de bandidos e se apaixonou por uma professora da época. Agora, Marty tem apenas cinco dias para salvar a si e aos seus amigos e voltar para o futuro.</info>
+ 
+<genre>Aventura, Comédia, Ficção científica</genre>
+ 
+<date>13/07/1990</date>
+</item>"
