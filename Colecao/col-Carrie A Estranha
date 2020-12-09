@@ -1,0 +1,57 @@
+"<item>
+
+<title>Carrie, A Estranha [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRIEAESTNH1976.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1456.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1456.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1976
+
+A quieta e sensível adolescente Carrie White enfrenta insultos dos colegas na escola e abuso em casa de sua mãe, uma fanática religiosa. Quando estranhos acontecimentos começam a acontecer em torno de Carrie, ela começa a suspeitar que tem poderes sobrenaturais.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>03/11/1976</date>
+</item>"
+"<item>
+
+<title>Carrie, A Estranha [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CARIEAESTNH2002.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1454.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1454.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Drama, Terror
+Lançamento: 2002
+
+Carrie White (Angela Bettis) é uma adolescente solitária. Ela sofre constantemente com os abusos da mãe, uma mulher religiosa, e dos colegas da sua escola. Aos poucos, a garota vai perdendo a sanidade mental, até que descobre os seus poderes telecinéticos. A noite da formatura do colégio está chegando e tudo pode acontecer.</info>
+ 
+<genre>Cinema TV, Drama, Terror</genre>
+ 
+<date>04/11/2002</date>
+</item>"
+"<item>
+
+<title>Carrie - A Estranha [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRIEAESTNH2013.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1455.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1455.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror
+Lançamento: 2013
+
+Carietta White (Chloë Grace Moretz) sempre foi oprimida pela sua mãe, Margaret (Julianne Moore), uma fanática religiosa. Além dos maus tratos em casa, Carrie também sofre com o abuso dos colegas de escola, que nunca compreenderam sua aparência nem seu comportamento. Ridicularizada por todos, aos poucos ela descobre que possui estranhos poderes telecinéticos, que se manifestam com força total durante sua festa de formatura.</info>
+ 
+<genre>Drama, Terror</genre>
+ 
+<date>06/12/2013</date>
+</item>"
