@@ -1,0 +1,76 @@
+"<item>
+
+<title>Drácula: O Vampiro da Noite [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DRCLAOVMPDNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2071.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2071.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1958
+
+Jonnathan Harker morre aparentemente vítima de um vampiro. Ao investigar a misteriosa morte do amigo, Van Helsing encontra um diário que incrimina o Conde Drácula. Mas Lucy, a prometida de Harker, também foi atacada por um vampiro. O irmão e a cunhada da moça se unem a Van Helsing para capturar a sanguinária criatura.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>22/05/1958</date>
+</item>"
+"<item>
+
+<title>Drácula de Bram Stoker [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DRCLDBRMSTKR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2017.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2017.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Terror
+Lançamento: 1992
+
+O vampiro Conde Drácula vem à Inglaterra atrás de quem ele acredita ser sua antiga paixão, de quando ainda era um mortal.</info>
+ 
+<genre>Romance, Terror</genre>
+ 
+<date>13/11/1992</date>
+</item>"
+"<item>
+
+<title>Drácula 2000 [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DRCLA2000.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2016.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2016.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2000
+
+Um jovem caçador de vampiros (Jonny Lee Miller), ainda em treinamento, enviado de Londres até Nova Orleans para proteger Mary Van Helsing (Justine Waddell) do vampiro Drácula (Gerard Butler), que pretende capturá-la.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>22/12/2000</date>
+</item>"
+"<item>
+
+<title>Drácula: A História Nunca Contada [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DRCLAHSTRNCNTDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2018.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2018.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Drama, Fantasia, Guerra
+Lançamento: 2014
+
+Os habitantes da Transilvânia sempre foram inimigos dos turcos, com quem tiveram batalhas épicas. Para evitar que sua população fosse massacrada, o rei local aceitou entregar aos turcos centenas de crianças. Entre elas estava seu próprio filho, Vlad Tepes (Luke Evans), que aprendeu com os turcos a arte de guerrear. Logo Vlad ganhou fama pela ferocidade nas batalhas e também por empalar os derrotados. De volta à Transilvânia, onde é nomeado príncipe, ele governa em paz por 10 anos. Só que o rei Mehmed (Dominic Cooper) mais uma vez exige que 100 crianças sejam entregues aos turcos. Vlad se recusa e, com isso, inicia uma nova guerra. Para vencê-la, ele recorre a um ser das trevas (Charles Dance) que vive pela região. Após beber o sangue dele, Vlad se torna um vampiro e ganha poderes sobrehumanos.</info>
+ 
+<genre>Terror, Ação, Drama, Fantasia, Guerra</genre>
+ 
+<date>23/10/2014</date>
+</item>"
