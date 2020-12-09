@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Casa de Vidro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ACSADVDRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/176.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/176.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2001
+
+Após a morte dos pais em um acidente de carro, dois irmãos vão morar com seus novos pais adotivos. Porém, com o passar do tempo, os irmãos acham que seus 'pais' já procuravam adotá-los antes mesmo da morte dos pais verdadeiros, de olho nos quatro milhões de dólares que eles possuem em forma de ações.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>14/09/2001</date>
+</item>"
+"<item>
+
+<title>A Casa de Vidro 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ACSADVDRO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/177.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2006
+
+Após perder os pais em um trágico acidente, a adolescente Abby Snow (Jordan Hinson) e seu irmão mais novo Ethan (Bobby Coleman) encontram um novo lar junto de Eve (Angie Harmon) e Raymond Goode (Joel Gretsch). Ao se mudarem para a remota mansão dos pais adotivos, entretanto, os irmãos ficam chocados ao perceberem que os Goode não são exatamente o que pareciam ser, e o sonho deles de amor e segurança se transforma em um pesadelo de crueldade, ódio e terror.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>03/10/2006</date>
+</item>"
