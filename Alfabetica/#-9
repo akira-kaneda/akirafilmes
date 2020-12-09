@@ -118,6 +118,63 @@ Lançamento: 1940
 </item>"
 "<item>
 
+<title>[REC] [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/REC1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6483.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6483.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2008
+
+Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bombeiros chamados para resgatar uma mulher presa em um edifício, com resultados apavorantes. Antes de se darem conta, moradores, ajudantes e equipe de resgate são trancados dentro do edifício devido a um vírus desconhecido.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>14/11/2008</date>
+</item>"
+"<item>
+
+<title>[REC] 2 - Possuídos [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/REC2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6484.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6484.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2010
+
+Há 15 minutos a polícia não tem qualquer contato com as pessoas que estão presas dentro de um edifício em quarentena. Ninguém sabe o que aconteceu lá dentro. Neste momento, Dr. Owen e uma unidade da SWAT resolvem entrar no prédio para descobrir qual é a situação do local e desenvolver um antídoto através da coleta de sangue da jovem Medeiros.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>03/09/2010</date>
+</item>"
+"<item>
+
+<title>[REC] 3 - Gênesis [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/REC3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6485.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6485.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2012
+
+A infecção agora está oficialmente fora do prédio. E atinge diretamente a festa de casamento de um inocente casal - na qual os convidados começam a mostrar sinais claros de uma terrível doença. Uma doença que os faz perder a consciência e sentir uma incontrolável sede de sangue.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>07/09/2012</date>
+</item>"
+"<item>
+
 <title>+Velozes +Furiosos [COLOR yellow][IMDb 5,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS02.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -675,6 +732,25 @@ Conta a história de uma família de cachorrinhos da raça dálmata que é rapta
 </item>"
 "<item>
 
+<title>101 Dálmatas [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTSFILME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4564.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1996
+
+A designer de moda Anita e o programador de jogos para computador Roger se encontram, se apaixonam e se casam junto com seus dálmatas Perdita e Pongo. Mas os filhotinhos dos orgulhosos Perdita e Pongo são sequestrados pela chefe de Anita, a Cruella De Vil, que está roubando filhotes de dálmatas para fazer o casaco de peles que ela definiu como seu preferido. Com a ajuda do reino animal britânico, Pongo e Perdita partem para encontrar e resgatar seus filhotes de seus temíveis sequestradores, Jasper e Horácio. Acabam encontrando alguns mais.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>14/12/1996</date>
+</item>"
+"<item>
+
 <title>101 Dálmatas 2 - A Aventura de Patch em Londres [COLOR yellow][IMDb 5,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -695,6 +771,25 @@ Antes de se mudar para a nova casa, numa fazenda, Patch, um dos filhotes de dál
 </item>"
 "<item>
 
+<title>102 Dálmatas [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/102DMLTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4565.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4565.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2000
+
+Após uma terapia por hipnose e acreditando estar curada, Cruella de Vil é libertada da prisão e se propõe a começar uma nova vida. As coisas estão indo bem para Cruella que está ocupada ajudando cães desabrigados da rua. Porem, quando o relógio Big Ben bate as horas, as coisas ficam ruins. A cura hipnótica é revertida e Cruella está de volta. E desta vez ela está determinada a fazer seu casaco com pele malhada que ela sempre quis.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>01/12/2000</date>
+</item>"
+"<item>
+
 <title>118 Dias [COLOR yellow][IMDb 6,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/118DAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -712,6 +807,25 @@ Maziar Bahari é um jornalista iraniano que trabalha para a revista americana Ne
 <genre>Drama</genre>
  
 <date>07/11/2014</date>
+</item>"
+"<item>
+
+<title>12 Anos de Escravidão [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/12ANSDESCRVDAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3765.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3765.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 2014
+
+1841, Solomon Northup é um escravo liberto, que vive em paz ao lado da esposa e filhos. Um dia, após aceitar um trabalho que o leva a outra cidade, ele é sequestrado e acorrentado. Vendido como se fosse um escravo, Solomon precisa superar humilhações físicas e emocionais para sobreviver. Ao longo de doze anos ele passa por dois senhores, Ford (Benedict Cumberbatch) e Edwin Epps (Michael Fassbender), que, cada um à sua maneira, exploram seus serviços.</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>21/02/2014</date>
 </item>"
 "<item>
 
@@ -1030,6 +1144,25 @@ Mike foi uma estrela do basquete que tinha um futuro promissor, porém jogou tud
 <genre>Comédia</genre>
  
 <date>17/04/2009</date>
+</item>"
+"<item>
+
+<title>1898 - Os Ultimos das Filipinas [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSULTMDSFLPNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4708.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4708.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, História
+Lançamento: 2017
+
+Baseado em fatos reais o longa conta a história de um grupo de soldados espanhóis que continuavam trancados numa igreja da aldeia de Baler por causa de um cerco. Os militares estavam lá por quase um ano com a convicção de que a guerra nas Filipinas ainda não tinha terminado.</info>
+ 
+<genre>Guerra, Drama, História</genre>
+ 
+<date>03/03/2017</date>
 </item>"
 "<item>
 
