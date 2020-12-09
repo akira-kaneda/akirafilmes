@@ -1,0 +1,76 @@
+"<item>
+
+<title>A Profecia [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/APRFCA1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/555.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/555.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1976
+
+O embaixador americano e a esposa querem muito ter filhos. Quando ela dá à luz um bebê morto e um padre sugere que adotem um recém-nascido saudável e órfão, ele aceita sem contar à mulher. O que ele não sabe é que o bebê é o anticristo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>25/06/1976</date>
+</item>"
+"<item>
+
+<title>A Profecia III - O Conflito Final [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/APRFCA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/557.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/557.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1981
+
+O Anticristo Damien Thorn, agora com 32 anos, é um empresário de sucesso, pronto para cumprir seu destino. Recém-nomeado embaixador dos Estados Unidos na Grã-Bretanha, ele é ameaçado de morte por um grupo liderado pelo padre DeCarlo. Enquanto Damien se prepara para o retorno de Jesus Cristo, ele toma proveito de seu relacionamento com Kate Reynolds para recrutar o filho dela, Peter, como seu seguidor.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>20/03/1981</date>
+</item>"
+"<item>
+
+<title>A Profecia IV - O Despertar [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/APRFCA4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/558.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/558.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1991
+
+Damien Thorn está morto, mas sua profecia renasce através de uma misteriosa garota chamada Delia, que é adotada por dois advogados, Gene e Karen York. Quando Karen percebe que sua nenê nasceu sob circunstâncias suspeitas, ela contrata um investigador particular para encontrar os verdadeiros pais de Delia. Uma série de acidentes bizarros começa a ocorrer, e Karen suspeita que todos estão conspirando contra ela à medida que vai descobrindo a verdade sobre seu bebê.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>19/07/1991</date>
+</item>"
+"<item>
+
+<title>A Profecia [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/APRFCA2006.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/556.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/556.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2006
+
+Robert Thorn (Liev Schreiber) é um diplomata, que está prestes a ter um filho com sua esposa Katherine (Julia Stiles). Porém a criança morre logo após o parto, o que faz com que Robert adote um bebê para colocá-lo no lugar do filho, sem que Katherine soubesse. Seis anos depois Damien (Seamus Davey-Fitzpatrick), o filho de Robert e Katherine, começa a dar sinais de que seja o Anti-Cristo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>06/06/2006</date>
+</item>"
