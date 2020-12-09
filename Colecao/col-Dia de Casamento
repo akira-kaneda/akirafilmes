@@ -1,0 +1,95 @@
+"<item>
+
+<title>Dia de Casamento [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DIADCSMTO1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1910.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1910.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV, Drama
+Lançamento: 2016
+
+Olivia (Josie Bissett) é uma mulher divorciada e viciada em trabalho que está prestes a se casar novamente, com um colega de trabalho igualmente viciado em trabalho. Quando ela decide deixar sua filha, Grace (Emily Tennant), organizar o casamento, sua vida vira de cabeça para baixo, porque o cantor que Grace contratou é um homem com quem ela viveu um grande amor na época da faculdade.</info>
+ 
+<genre>Romance, Cinema TV, Drama</genre>
+ 
+<date>25/06/2016</date>
+</item>"
+"<item>
+
+<title>Dia de Casamento 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DIADCSMTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1911.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1911.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2017
+
+Olivia e Mick viveram um grande amor na época da faculdade e depois de 25 anos acabaram se reencontrando, agora eles são sócios em um resort para casamentos. Enquanto eles desenvolvem seu relacionamento como colegas de trabalho, eles percebem que um romance pode estar em seu destino.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>17/06/2017</date>
+</item>"
+"<item>
+
+<title>Dia de Casamento 3 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DIADCSMTO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1912.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1912.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Romance
+Lançamento: 2018
+
+É fim de semana do Dia dos Namorados e o resort que Olivia (Josie Bissett) e Mick (Jack Wagner) gerenciam juntos está lotado. Tudo vira um caos quando, em uma visita de família, a irmã de Mick decide fazer seu casamento lá naquele fim de semana mesmo e, para completar, sua filha conta que está planejando largar a faculdade.</info>
+ 
+<genre>Cinema TV, Romance</genre>
+ 
+<date>17/02/2018</date>
+</item>"
+"<item>
+
+<title>Dia de Casamento 4 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DIADCSMTO4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1913.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1913.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2018
+
+Com um casamento para planejar, uma festa de noivado para jogar, e uma pousada cheia de convidados surpresa, o caminho para o verdadeiro amor por Olivia e Mick leva algumas reviravoltas inesperadas</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>23/06/2018</date>
+</item>"
+"<item>
+
+<title>Dia de Casamento 5 [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DIADCSMTO5.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1914.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1914.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2019
+
+A cerimonialista Annalise decide abrir um negócio próprio e precisa que seu primeiro casamento seja um sucesso. No entanto, seu ex-namorado é um dos padrinhos e esse reencontro pode causar problemas.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>08/06/2019</date>
+</item>"
