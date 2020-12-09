@@ -1,0 +1,38 @@
+"<item>
+
+<title>Angry Birds: O Filme [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANGRYBRDSFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/870.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/870.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia
+Lançamento: 2016
+
+Red, um pássaro com problemas de temperamento, o veloz Chuck, e o volátil Bomba sempre foram excluídos. Mas quando a ilha onde moram é visitada por misteriosos porquinhos verdes, cabe a estes improváveis rejeitados descobrir qual o plano da gangue suína.</info>
+ 
+<genre>Animação, Aventura, Comédia</genre>
+ 
+<date>12/05/2016</date>
+</item>"
+"<item>
+
+<title>Angry Birds 2: O Filme [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANGRYBRDS2FLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/869.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/869.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Aventura, Família
+Lançamento: 2019
+
+Red e seus amigos dedicam a vida a proteger a Ilha dos Pássaros dos constantes ataques vindos da Ilha dos Porcos. Entretanto, quanto uma terceira ilha surge e começa a atacá-los, Leonardo, o rei dos porcos, decide procurar seu arqui-inimigo em busca de uma trégua para que, juntos, possam enfrentar a ameaça em comum.</info>
+ 
+<genre>Animação, Comédia, Aventura, Família</genre>
+ 
+<date>03/10/2019</date>
+</item>"
