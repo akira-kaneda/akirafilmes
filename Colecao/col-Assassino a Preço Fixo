@@ -1,0 +1,38 @@
+"<item>
+
+<title>Assassino a Preço Fixo [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASASINOAPRCFX.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1069.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1069.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2011
+
+Arthur Bispo faz parte de um grupo de elite de assassinos e é um dos melhores no negócio. Bispo exerce as suas funções com precisão, mas quando Harry, seu amigo e mentor, é assassinado, Bishop jura vingança. O filho de Harry quer vingança e tem o desejo de aprender e fazer parte do negócio.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>18/03/2011</date>
+</item>"
+"<item>
+
+<title>Assassino a Preço Fixo 2 - A Ressurreição [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASASINOAPRCFX2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1070.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1070.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2016
+
+Arthur Bishop (Jason Statham) é obrigado a reativar seu lado criminoso quando o amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>06/10/2016</date>
+</item>"
