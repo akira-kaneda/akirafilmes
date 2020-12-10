@@ -1,0 +1,57 @@
+"<item>
+
+<title>Hotel Transilvânia [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2707.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2707.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia
+Lançamento: 2012
+
+O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula (Adam Sandler), que resolve convidar os amigos para comemorar, ao longo de um fim de semana, o 118º aniversário de sua filha Mavis (Selena Gomez). O que ele não esperava era que Jonathan (Adam Samberg), um humano sem noção, fosse aparecer no local justo quando o hotel está repleto de convidados e, ainda por cima, se apaixonasse por Mavis</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia</genre>
+ 
+<date>05/10/2012</date>
+</item>"
+"<item>
+
+<title>Hotel Transilvânia 2 [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2708.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2708.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia
+Lançamento: 2015
+
+A vampira Mavis (Selena Gomez) e o humano Jonathan (Andy Samberg) se casaram e continuaram morando no Hotel Transilvânia, já que Drácula (Adam Sandler) ofereceu um emprego ao genro. Ele na verdade quer que sua filha permaneça ao seu lado, especialmente quando ela revela estar grávida. Eufórico com a notícia, Drácula torce para que seu neto seja um vampiro de verdade e busca, a todo instante, indícios de que isto acontecerá. Entretanto, o pequeno Dennis (Asher Blinkoff) está prestes a completar cinco anos e, ao menos por enquanto, tudo indica que ele é um humano normal.</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia</genre>
+ 
+<date>01/10/2015</date>
+</item>"
+"<item>
+
+<title>Hotel Transilvânia 3: Férias Monstruosas [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HTLTRNSVN3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2709.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2709.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Comédia, Animação
+Lançamento: 2018
+
+Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável.</info>
+ 
+<genre>Família, Fantasia, Comédia, Animação</genre>
+ 
+<date>12/07/2018</date>
+</item>"
