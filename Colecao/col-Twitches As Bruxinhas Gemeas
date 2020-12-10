@@ -1,0 +1,38 @@
+"<item>
+
+<title>Twitches: As Bruxinhas Gêmeas [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TWTCHSASBRCNHSGMS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6049.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6049.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família, Fantasia, Cinema TV
+Lançamento: 2007
+
+Duas jovens bruxinhas são separadas uma da outra ao nascerem e adotadas por famílias diferentes. As irmãs gêmeas se reencontram no dia em que completam 21 anos e descobrem que seus misteriosos poderes mágicos ficam ainda mais fortes quando estão juntas. O que elas não sabem é que elas têm que usar estes poderes para lutar contra as forças do mal e salvar o lugar onde nasceram, onde vive sua mãe verdadeira.</info>
+ 
+<genre>Comédia, Drama, Família, Fantasia, Cinema TV</genre>
+ 
+<date>28/05/2007</date>
+</item>"
+"<item>
+
+<title>Twitches: As Bruxinhas Gêmeas 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TWTCHSASBRCNHSGMS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6050.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6050.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Fantasia, Cinema TV
+Lançamento: 2007
+
+Alex Fielding e Camryn Barnes, as bruxinhas gêmeas, conseguem vencer as forças do mal e das trevas e agora querem viver as vidas de jovens adultas normais. No entanto, quando elas descobrem que o seu pai biológico pode estar vivo, elas decidem deixar tudo para trás novamente e retornar ao mundo da magia.</info>
+ 
+<genre>Drama, Família, Fantasia, Cinema TV</genre>
+ 
+<date>12/10/2007</date>
+</item>"
