@@ -1,0 +1,76 @@
+"<item>
+
+<title>O Grito [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OGRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4056.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4056.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2005
+
+Uma enfermeira americana que mora e trabalha em Tóquio é exposta a uma maldição misteriosa em que um espírito se apodera da pessoa, desencadeando um violento surto de raiva, antes de clamar sua vida e passar à próxima vítima.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>07/01/2005</date>
+</item>"
+"<item>
+
+<title>O Grito 2 [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OGRTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4058.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4058.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2006
+
+Aubrey vai em busca de sua irmã Karen, que está em um hospital no Japão. Ao chegar lá, é avisada de que Karen está presa a uma maldição, a qual recai sobre ela depois da morte de sua irmã. Livres da casa que os prendia, os espíritos querem vingança.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>13/10/2006</date>
+</item>"
+"<item>
+
+<title>O Grito 3: O Início do Fim [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OGRTO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4059.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4059.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2014
+
+Ju-on: Beginning of the End seguimos uma professora que visita a casa de um aluno que tem faltado às aulas. É lá que ela revive uma tragédia ocorrida há 10 anos atrás e será através de algo escondido num armário que conseguirá chegar à trágica verdade.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>28/06/2014</date>
+</item>"
+"<item>
+
+<title>O Grito [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OGRTO2020.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4057.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4057.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2020
+
+Depois que uma jovem mãe mata sua família em sua própria casa, uma mãe solteira e um jovem detetive tentam investigar e resolver o caso. Mais tarde, ela descobre que a casa é amaldiçoada por um fantasma vingativo que condena aqueles que entram nela com uma morte violenta. Agora, ela corre para salvar a si mesma e a seu filho dos espíritos demoníacos da casa amaldiçoada em seu bairro.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>13/02/2020</date>
+</item>"
