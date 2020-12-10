@@ -1,0 +1,57 @@
+"<item>
+
+<title>Triplo X [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPLX.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6010.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6010.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 2002
+
+O ex-atleta de extremos esportes Xander "" XXX"" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que ele possa ter sucesso onde outros espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Alistado em uma perigosa missão secreta, ele precisa usar todas as suas habilidades extremas para combater o inimigo.</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>06/09/2002</date>
+</item>"
+"<item>
+
+<title>xXx 2: Estado de Emergência [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPLX2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6442.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6442.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime, Drama, Mistério, Thriller
+Lançamento: 2005
+
+O presidente dos Estados Unidos está recebendo ameaças de um grupo de dissidentes radicais engajados no próprio governo. Após sobreviver a um atentado ao quartel-general da Agência de Segurança Nacional, Augustus Gibbons precisa novamente encontrar um pária que possa ajudá-lo. O escolhido é Darius Stone, um condecorado soldado de Operações Especiais que está em uma prisão militar, sob pesada vigilância. Ao ser solto, o novo agente Triplo X precisa se infiltrar para identificar os rebeldes.</info>
+ 
+<genre>Ação, Aventura, Crime, Drama, Mistério, Thriller</genre>
+ 
+<date>29/04/2005</date>
+</item>"
+"<item>
+
+<title>xXx: Reativado [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPLXRATVD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6443.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6443.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime
+Lançamento: 2017
+
+Xander Cage desiste de sua aposentadoria quando Xiang, um guerreiro alfa mortal, coloca suas mãos em uma arma indestrutível chamada de Caixa de Pandora. Xander recruta os melhores soldados do mundo para destruir o vilão e paralelamente tem que enfrentar uma resistência formada por governos corruptos de todo o mundo.</info>
+ 
+<genre>Ação, Aventura, Crime</genre>
+ 
+<date>19/01/2017</date>
+</item>"
