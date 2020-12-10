@@ -1,0 +1,19 @@
+"<item>
+
+<title>T2 Trainspotting: Sem Limites 2 [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SMLMTS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5789.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5789.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 2017
+
+Primeiro foi a oportunidade, depois a traição. Vinte anos se passaram e muita coisa mudou, mas outras tantas não. Mark Renton volta para o único lugar que ele consegue chamar de casa. Spud, Sick Boy e Begbie estão esperando por ele.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>16/02/2017</date>
+</item>"
