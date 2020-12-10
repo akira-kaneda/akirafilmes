@@ -1,0 +1,95 @@
+"<item>
+
+<title>Tropas Estelares [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6018.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6018.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica
+Lançamento: 1998
+
+Em um futuro distante, a Terra está em guerra contra uma raça de insetos gigantes alienígenas. Pouco se sabe sobre eles, exceto que têm a intenção de eliminar toda forma de vida humana. Mas houve um tempo, antes da guerra, em que a Infantaria Móvel viajava para planetas distantes a fim de combater os insetos, inimigos implacáveis, com apenas uma missão: garantir a sobrevivência de sua espécie a qualquer custo.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica</genre>
+ 
+<date>27/02/1998</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares 2 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6019.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6019.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Terror, Ação, Ficção científica
+Lançamento: 2004
+
+Um esquadrão de soldados, está detido em um planeta infestado por insetos gigantes que estão indo para uma região remota. Quando eles chegam, encontram um sobrevivente solitário o qual está trancado por ter matado seu comandante. Os problemas do esquadrão aumentam quando são ameaçados por insetos saqueadores e um novo grupo de estranhos.</info>
+ 
+<genre>Aventura, Terror, Ação, Ficção científica</genre>
+ 
+<date>25/05/2004</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares 3 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6020.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6020.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação
+Lançamento: 2008
+
+Uma nave espacial da Federação cai no distante planeta alienígena OM-1 e acaba ficando encalhada com o líder Sky Marechal Anoke, a piloto Lola Beck e vários outros no local. Agora cabe ao Coronel Johnny Rico, herói relutante da invasão de insetos no Planeta P, liderar uma equipe de soldados em uma ousada missão de resgate.</info>
+ 
+<genre>Aventura, Ficção científica, Ação</genre>
+ 
+<date>19/07/2008</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares: A Invasão [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRINVSAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6021.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6021.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica
+Lançamento: 2012
+
+O distante posto avançado da Federação, Fort Casey, é atacado por insetos. A equipe da nave Alesia recebe a missão de ajudar a nave John A. Warden que está em Fort Casey à evacuar, juntamente com os sobreviventes e trazer a inteligência militar em segurança de volta à Terra. Carl Jenkins, ministro da Paranormal Warfare, leva a nave numa missão clandestina antes de seu encontro com o Alesia e desaparece na nebulosa. Agora, os soldados veteranos são enviados em uma missão de resgate que pode levar a consequências muito mais sinistras do que jamais poderiam ter imaginado.</info>
+ 
+<genre>Animação, Ação, Ficção científica</genre>
+ 
+<date>28/08/2012</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares: Invasores de Marte [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRSINVSRSDMRTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6022.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6022.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 2017
+
+Johnny Rico e enviado para uma pequena estação satélite em Marte, enquanto a Federação ataca o planeta natal dos insetos. Enquanto treina os seus novos recrutas nesta estação remota e silenciosa, os insetos aparecem num ataque surpresa, mas a Frota da Federação está muito longe para ajudar. Cabe a Rico e aos seus soldados salvar o planeta e descobrir como os insetos chegaram tão perto de casa.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>21/09/2017</date>
+</item>"
