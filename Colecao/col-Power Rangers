@@ -1,0 +1,76 @@
+"<item>
+
+<title>Power Rangers: O Filme [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PWRNGRSOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5020.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5020.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Família, Fantasia
+Lançamento: 1995
+
+Depois que uma equipe de construção acidentalmente quebrou um ovo gigante que aprisionou o maníaco Ivan Ooze durante séculos, os Power Rangers preparam-se para enfrentar seu mais formidável inimigo, o vingativo Ooze, o qual mata seu idoso mentor Zordon e, com ele, a fonte de energia dos Rangers. Atordoado pela morte de Zordon, os Rangers lutam para conter Ooze sem a ajuda dos Zords, os robôs gigantes mecânicos com quem eles sempre contaram na batalha.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Família, Fantasia</genre>
+ 
+<date>30/06/1995</date>
+</item>"
+"<item>
+
+<title>Turbo: Power Rangers 2 [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRBOPWRNGRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6047.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6047.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Família, Fantasia, Ficção científica, Thriller
+Lançamento: 1997
+
+Uma nova geração dos Power Rangers, agora ainda mais poderosos, deve deter a perigosa Divatox. A maligna pirata espacial está prestes a libertar Maligore, preso há tempos num vulcão isolado, mas para isso precisa do auxílio do mago Lerigot, que decide buscar a proteção dos nossos heróis.</info>
+ 
+<genre>Ação, Aventura, Família, Fantasia, Ficção científica, Thriller</genre>
+ 
+<date>27/03/1997</date>
+</item>"
+"<item>
+
+<title>Power Rangers Super Megaforce - A Batalha Lendária [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PWRNGRSSPRMGFRABLTHLNDRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5019.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5019.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2015
+
+Quando Orion sai para voltar ao seu planeta natal, Tensou descobre uma frequência de rádio do Imperador Mavro afirmando que ele usará toda a sua armada para invadir a Terra! Os Rangers revidam e não desistem. Mas quando O Imperador e seu exército destruirem todos os Super Mega Zords, os Super Mega Rangers devem se unir e lutar ao lado de todos os Legendary Rangers do passado para derrotar o exército de mais de mil X-Borgs. Na Edição Estendida, contendo 8 minutos de filmagem extra, os Rangers devem usar mais Modos Lendários e Battlizers para garantir que o Imperador Mavro e a Armada tenham ido embora definitivamente.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>11/08/2015</date>
+</item>"
+"<item>
+
+<title>Power Rangers [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PWRNGRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5018.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5018.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2017
+
+A jornada de cinco adolescentes que devem buscar algo extraordinário quando eles tomam consciência que a sua pequena cidade Angel Grove - e o mundo - estão à beira de sofrer um ataque alienígena. Escolhidos pelo destino, eles irão descobrir que são os únicos que poderão salvar o planeta. Mas para isso, eles devem superar seus problemas pessoais e juntarem sua forças, antes que seja tarde demais.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>23/03/2017</date>
+</item>"
