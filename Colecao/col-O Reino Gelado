@@ -1,0 +1,58 @@
+"<item>
+
+<title>O Reino Gelado [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORNOGLDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4359.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4359.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Fantasia, Família
+Lançamento: 2013
+
+Desejando criar um novo mundo no qual o vento polar esfrie as almas humanas, a Rainha da Neve cobriu o planeta com gelo e ordenou a destruição de todas as artes. De acordo com as previsões de um espelho mágico, a última ameaça aos seus planos estaria no mestre-vidreiro Vegard, cujos espelhos refletem não apenas a aparência, mas também as almas das pessoas. Então, o vento polar sequestra Vegard e sua esposa Una, deixando seus filhos Kai e Gerda para trás. O tempo passa e os servos da Rainha acabam capturando também Kai, acreditando que o garoto é o sucessor de seu pai. Mas sua irmã Gerda, agora uma garota muito corajosa, não vai deixar isso barato. Embarcando em uma jornada pelo reino, ela vai encarar todos os obstáculos ao lado de seus novos amigos para salvar o irmão e voltar a aquecer os corações das pessoas.</info>
+ 
+<genre>Animação, Fantasia, Família</genre>
+ 
+<date>22/02/2013</date>
+</item>"
+
+"<item>
+
+<title>O Reino Gelado 3 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORNOGLDO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4362.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4362.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Fantasia, Comédia
+Lançamento: 2017
+
+O raro talento de se meter em problemas é o legado da família de Kai e Gerda. O que mais você poderia esperar de quem foi criado em montanhas nevadas por trolls? Crescidos, os irmãos se metem em um desastre de proporções globais, tudo para encontrar seus pais que estão desaparecidos após serem levados pelo Vento do Norte.</info>
+ 
+<genre>Família, Animação, Fantasia, Comédia</genre>
+ 
+<date>10/08/2017</date>
+</item>"
+"<item>
+
+<title>O Reino Gelado: A Terra dos Espelhos [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ORNOGLDOATRDSESPLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4361.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4361.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Fantasia
+Lançamento: 2018
+
+Para dar uma lição na Rainha da Neve, o Rei Harald encontra uma maneira de acabar com a magia do mundo, banindo todos que possuem poderes mágicos para A Terra dos Espelhos. Quando sua família também cai na armadilha do Rei, Gerda fará de tudo para salvá-los, inclusive contar com a ajuda da própria Rainha da Neve.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Fantasia</genre>
+ 
+<date>21/12/2018</date>
+</item>"
