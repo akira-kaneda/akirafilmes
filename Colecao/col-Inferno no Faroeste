@@ -1,0 +1,38 @@
+"<item>
+
+<title>Inferno no Faroeste [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INFRNOFRSTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2752.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2752.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Ação, Fantasia, Terror, Drama
+Lançamento: 2013
+
+Guerrero Hernandez é líder da Blackwater Gang que é traído por seu meio-irmão Red depois de libertá-lo da prisão. Um ano depois, Guerrero faz um pacto com o diabo e volta dos mortos em busca de vingança.</info>
+ 
+<genre>Faroeste, Ação, Fantasia, Terror, Drama</genre>
+ 
+<date>25/10/2013</date>
+</item>"
+"<item>
+
+<title>Inferno no Faroeste 2 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INFRNOFRSTE2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2753.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2753.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2017
+
+No filme Inferno no Faroeste 2, Guerrero Hernandez volta dos mortos uma vez mais, para que uma relíquia roubada não caia nas mãos de um grupo de soldados, o que poderá causar o inferno na terra.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>30/08/2017</date>
+</item>"
