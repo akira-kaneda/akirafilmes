@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Grande Mentiroso [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OGRNDMENTRSO1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4046.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4046.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Aventura
+Lançamento: 2002
+
+Um jovem estudante e seu melhor amigo viajam a Los Angeles para aplicar uma série de trotes em um produtor de Hollywood que roubou sua história e a transformou em um filme de sucesso.</info>
+ 
+<genre>Comédia, Família, Aventura</genre>
+ 
+<date>08/02/2002</date>
+</item>"
+"<item>
+
+<title>O Grande Mentiroso 2 [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OGRNDMENTRSO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4047.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4047.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Comédia
+Lançamento: 2017
+
+Kevin Shepard é um gênio viciado em tecnologia que utiliza da sua inteligência para se safar! Quando o executivo Alan Wolf pega uma de suas ideias para um video game, Kevin e sua melhor amiga Becca vão à Seattle para atrapalhar o empresário através de muitas peças!</info>
+ 
+<genre>Aventura, Família, Comédia</genre>
+ 
+<date>18/04/2017</date>
+</item>"
