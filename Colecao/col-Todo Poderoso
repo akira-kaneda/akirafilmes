@@ -1,0 +1,38 @@
+"<item>
+
+<title>Todo Poderoso [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TDOPDRSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5947.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5947.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia
+Lançamento: 2003
+
+Bruce Nolan (Jim Carrey) é um jornalista que tem um bom emprego na TV e uma bela namorada, Grace (Jennifer Aniston). Num acesso de fúria ele começa a xingar e questionar Deus e seu modo de fazer tudo funcionar, o que faz com que ele próprio (Morgan Freeman) resolva descer à Terra como um homem comum e lhe entregar o poder de comandar o planeta da forma como desejar durante um dia. É quando Bruce percebe o quão difícil é ser Deus e tomar conta de tudo o que ocorre no planeta.</info>
+ 
+<genre>Fantasia, Comédia</genre>
+ 
+<date>06/06/2003</date>
+</item>"
+"<item>
+
+<title>A Volta do Todo Poderoso [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVLTDTDPDRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/677.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/677.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Família
+Lançamento: 2007
+
+Evan Baxter (Steve Carell) é o âncora de um telejornal de Buffalo, que foi recentemente eleito para seu 1º mandato como congressista. Ele então se muda para Washington com sua esposa Joan (Lauren Graham) e os filhos Dylan (Johnny Simmons), Ryan (Jimmy Bennett) e Jordan (Graham Phillips). Porém, logo após se instalar em sua casa, Evan passa a receber estranhas encomendas, que incluem ferramentas e grandes quantidades de madeira. Logo ele se encontra com Deus (Morgan Freeman), que lhe incumbe a missão de construir uma arca, já que uma inundação está por vir. Evan descarta a idéia, mas uma série de situações ocorre de forma a prejudicar sua vida até que ele aceite a missão.</info>
+ 
+<genre>Fantasia, Comédia, Família</genre>
+ 
+<date>03/08/2007</date>
+</item>"
