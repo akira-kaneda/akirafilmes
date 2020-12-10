@@ -1,0 +1,38 @@
+"<item>
+
+<title>Os Condenados [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OSCNDNS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4599.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4599.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2007
+
+Jack Conrad (Steve Austin), é um prisioneiro no corredor da morte em uma prisão corrupta da América Central que é “comprado” por um grande produtor de Tv para fazer parte de um reality show ilegal. Levado para uma ilha isolada, Conrad se encontra preso em uma luta mortal contra outros nove assassinos condenados de todas as partes do mundo. Sem chance de escapar e om milhões de pessoas assistindo à violência sem censura ao vivo – Conrad precisa usar toda a sua força para ser o último sobrevivente….e ter sua única chance de liberdade..</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>27/04/2007</date>
+</item>"
+"<item>
+
+<title>Os Condenados 2 [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OSCNDNS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4600.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4600.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2015
+
+Um ex-caçador de recompensas encontra-se em fuga após o torneio Condenado ser reestabelecido. Na competição sentenciados são obrigados a lutarem entre si até a morte, como um emocionante jogo transmitido para o público.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>06/11/2015</date>
+</item>"
