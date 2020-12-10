@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Imbatível [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OIMBTVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4102.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4102.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Thriller
+Lançamento: 2002
+
+Campeão mundial peso pesado de boxe é condenado por estupro e mandado para a prisão de segurança máxima, onde deverá enfrentar campeão da prisão em luta épica, defendendo não apenas seu título, mas seu futuro.</info>
+ 
+<genre>Ação, Aventura, Drama, Thriller</genre>
+ 
+<date>23/08/2002</date>
+</item>"
+"<item>
+
+<title>O Imbatível III: Redenção [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OIMBTVL3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4103.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4103.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2010
+
+A cadeia se torna um ringue quando oito prisioneiros disputam um campeonato internacional. O prêmio para o campeão é a liberdade e muitos dólares para o bolso dos organizadores. Scott Adkins (X-Men Origens: Wolverine) volta como Boyka, o furioso russo especialista em artes marciais, pronto para tirar sangue dos adversários.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>22/05/2010</date>
+</item>"
