@@ -1,0 +1,114 @@
+"<item>
+
+<title>Kung Fu Panda [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/KUNGFUPND1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/3001.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/3001.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Comédia
+Lançamento: 2008
+
+Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz.</info>
+ 
+<genre>Aventura, Animação, Família, Comédia</genre>
+ 
+<date>06/06/2008</date>
+</item>"
+"<item>
+
+<title>Kung Fu Panda: Especial de Natal [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/KUNGFUPNDESPCDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/3004.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/3004.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Cinema TV
+Lançamento: 2010
+
+É época de comemorar O Festival de Inverno e o panda Po é convocado pelo Mestre Shifu a sediar uma grande festa no Palácio de Jade para todos os mestres de Kung Fu, já que esta é uma das obrigações do Dragão Guerreiro. Só que todos os anos anteriores, Po havia passado as comemorações com seu pai, ajudando-o no restaurante. Sr. Ping, o pai de Po, fica chateado com a decisão do filho de atender o pedido de Shifu e não cancela o jantar que fará para os habitantes no vilarejo. Po se vê em conflito: cumprir com suas responsabilidades ou seguir a tradição familiar?</info>
+ 
+<genre>Animação, Família, Cinema TV</genre>
+ 
+<date>26/11/2010</date>
+</item>"
+"<item>
+
+<title>Kung Fu Panda 2 [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/KUNGFUPND2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/3002.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/3002.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2011
+
+Po (Jack Black) vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu (Dustin Hoffman), Tigresa (Angelina Jolie), Macaco (Jackie Chan), Víbora (Lucy Liu), Louva-deus (Seth Rogen) e Garça (David Cross). Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen (Gary Oldman), que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>25/05/2011</date>
+</item>"
+"<item>
+
+<title>Kung Fu Panda: Os Segredos dos Mestres [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/KUNGFUPNDOSGRNDMSTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/3005.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/3005.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação
+Lançamento: 2011
+
+Nessas aventuras, Po conta a estória de como os mestres Comandante Vachir, Mestre Boi Toró e Croc se conhecem e enfrentam o maior desafio de Shifu.</info>
+ 
+<genre>Animação, Ação</genre>
+ 
+<date>12/12/2011</date>
+</item>"
+"<item>
+
+<title>Kung Fu Panda: Segredos do Pergaminho [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/KUNGFUPNDSGRDDPRGMH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/3006.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/3006.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 2016
+
+O acaso obriga cinco animais totalmente diferentes a formarem uma equipe e usar suas habilidades de kung fu para proteger os inocentes das garras do mal.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
+ 
+<date>05/01/2016</date>
+</item>"
+"<item>
+
+<title>Kung Fu Panda 3 [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/KUNGFUPND3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/3003.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/3003.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Comédia, Família
+Lançamento: 2016
+
+Desta vez, Mestre Shifu tem como principal ensinamento fazer com que Po aprenda a técnica de dominação do Chi, uma espécie de “energia vital”. Porém, o atrapalhado panda acaba se desconcentrando com a chegada do pai de sangue, o panda Li, que o carrega para a vila secreta dos pandas – aguçando o ciúme do Sr Ping, o “pai” ganso de Po. Em paralelo, o poderoso touro Kai, O Coletor, um centenário inimigo do Mestre Oogway, reúne forças para voltar para o mundo dos vivos e tomar o que ele acha que é dele por direito. Caberá a Po e seus amigos impedir o maléfico plano do vilão.</info>
+ 
+<genre>Ação, Aventura, Animação, Comédia, Família</genre>
+ 
+<date>03/03/2016</date>
+</item>"
