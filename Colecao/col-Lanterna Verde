@@ -1,0 +1,57 @@
+"<item>
+
+<title>Lanterna Verde: Primeiro Vôo [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LNTRNVRDPRMRVO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3028.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3028.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Depois de receber das mãos de uma lienígena um anel eu lhe dá poderes sobre-humanos, o piloto Hal Jordan entra para a Tropa dos Lanternas Verdes, onde é supervisionado pelo respeitado Sinestro, Quando Jordan descobre que seu supervisor é na verdade o cabeça de uma conspiração que ameaça a filosofia e as tradições da Tropa, ele busca dominar rapidamente seus novos poderes para combater os traidores e manter a ordem no universo.</info>
+ 
+<genre>Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>28/07/2009</date>
+</item>"
+"<item>
+
+<title>Lanterna Verde - Cavaleiros Esmeralda [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LNTRNVRDCVLESMRLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3027.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3027.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Ficção científica, Drama, Baseado em Quadrinho
+Lançamento: 2011
+
+Prestes a ganhar seu primeiro longa-metragem live action, o herói Lanterna Verde tem novas aventuras animadas chegando ao mercado de vídeo, sempre em lançamentos com visual de tirar o fôlego. Aqui ele prepara uma jovem pupila para seguir seus passos, relatando a ela as aventuras de diversos outros Lanternas Verdes espalhados pela galáxia, em contos que mostram toda a coragem e honra dos integrantes desta seleta dinastia.</info>
+ 
+<genre>Ação, Aventura, Animação, Ficção científica, Drama, Baseado em Quadrinho</genre>
+ 
+<date>07/06/2011</date>
+</item>"
+"<item>
+
+<title>Lanterna Verde [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LNTRNVRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3026.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3026.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho
+Lançamento: 2011
+
+Hal Jordan, um vaidoso piloto de testes, recebe um poderoso anel e é recrutado por um esquadrão intergaláctico chamado Lanterna Verde para lutar contra um feroz inimigo que ameaça acabar com o equilíbrio do universo.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>16/06/2011</date>
+</item>"
