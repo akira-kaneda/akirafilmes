@@ -1,0 +1,76 @@
+"<item>
+
+<title>Meu Amigo Totoro [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MEUAMGTOTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3338.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3338.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Família
+Lançamento: 1990
+
+Mei é uma jovem que encontra uma pequena passagem em seu quintal, que a leva à um lendário espírito da floresta conhecido como Totoro. Sua mãe está no hospital e seu pai divide o tempo entre dar aulas na faculdade e cuidar de sua mulher doente. Quando Mei tenta visitar a mãe por conta própria, se perde na floresta e só o grande e fofo Totoro pode ajudar a menina a achar o caminho de volta para casa.</info>
+ 
+<genre>Fantasia, Animação, Família</genre>
+ 
+<date>13/07/1990</date>
+</item>"
+"<item>
+
+<title>O Serviço de Entregas da Kiki [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSRVCDESTRGDKIK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4413.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4413.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Drama, Fantasia, Família
+Lançamento: 1998
+
+Kiki, uma bruxinha, está fazendo 13 anos e, segundo os costumes de seu povo, deve aprender a se virar sozinha. Assim, apenas com sua coragem e sua vassoura voadora, vai para a cidade grande e, para conseguir sobreviver, acaba ajudando em um serviço de entregas.</info>
+ 
+<genre>Animação, Aventura, Drama, Fantasia, Família</genre>
+ 
+<date>31/12/1998</date>
+</item>"
+"<item>
+
+<title>Princesa Mononoke [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNSAMONOKE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5049.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5049.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Animação
+Lançamento: 1999
+
+Um príncipe infectado por uma doença sabe que irá morrer, a menos que encontre a cura. Sendo a sua última esperança, segue para o leste e, durante o caminho, encontra animais da floresta lutando contra a sua exploração, liderados pela princesa Mononoke.</info>
+ 
+<genre>Aventura, Fantasia, Animação</genre>
+ 
+<date>25/12/1999</date>
+</item>"
+"<item>
+
+<title>A Viagem de Chihiro [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVGMDCHRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/650.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/650.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia
+Lançamento: 2001
+
+Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los</info>
+ 
+<genre>Animação, Família, Fantasia</genre>
+ 
+<date>20/07/2001</date>
+</item>"
