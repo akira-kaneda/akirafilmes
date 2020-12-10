@@ -1,0 +1,57 @@
+"<item>
+
+<title>O Poderoso Chefão [COLOR yellow][IMDb 9,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4284.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4284.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1972
+
+Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>07/07/1972</date>
+</item>"
+"<item>
+
+<title>O Poderoso Chefão: Parte II [COLOR yellow][IMDb 9,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4285.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4285.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1975
+
+Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>14/02/1975</date>
+</item>"
+"<item>
+
+<title>O Poderoso Chefão: Parte III [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4286.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4286.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 1991
+
+Don Michel Corleone está envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitimação dos interesses da família, em Nova York e na Itália, antes de sua morte. Mas seu protegido não está só interessado em parte do império da família. Ele também deseja a filha de Michael, Mary.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>15/03/1991</date>
+</item>"
