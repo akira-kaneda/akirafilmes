@@ -1,0 +1,114 @@
+"<item>
+
+<title>Sharknado [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHRKND1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5511.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5511.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Cinema TV, Ação, Aventura, Comédia
+Lançamento: 2013
+
+Um furacão estranho atinge Los Angeles, espalhando milhares de tubarões entre a população alagada. Os ventos viram tornados no deserto, levando as mortíferas criaturas pela água, terra e mar.</info>
+ 
+<genre>Ficção científica, Cinema TV, Ação, Aventura, Comédia</genre>
+ 
+<date>11/07/2013</date>
+</item>"
+"<item>
+
+<title>Sharknado 2: A Segunda Onda [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHRKND2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5512.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5512.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica
+Lançamento: 2014
+
+Um sistema meteorológico insano vira sua fúria mortal contra Nova Iorque, desencadeando um Sharknado sobre a população e as suas icônicas e queridas localidades - e somente Fin e April podem salvar a Big Apple.</info>
+ 
+<genre>Thriller, Ficção científica</genre>
+ 
+<date>30/07/2014</date>
+</item>"
+"<item>
+
+<title>Sharknado 3: Oh, Não! [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHRKND3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5513.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5513.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Cinema TV, Ficção científica, Comédia, Aventura
+Lançamento: 2015
+
+Uma massa de tornados infestados de tubarões ameaça Orlando em pleno Spring Break. Com seus filhos na cidade, Fin terá que arriscar sua vida para salvá-los, mas, enquanto ele e sua motosserra lutam para chegar até a Flórida, os sharknados se fundem e ficam com tamanhos monumentais.</info>
+ 
+<genre>Ação, Cinema TV, Ficção científica, Comédia, Aventura</genre>
+ 
+<date>22/07/2015</date>
+</item>"
+"<item>
+
+<title>Sharknado 4: O 4º Despertar [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHRKND4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5515.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5515.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica
+Lançamento: 2016
+
+Cinco anos se passaram desde os acontecimentos do último filme da saga, onde a costa oeste foi devastada pelo ataque de tubarões assassinos. Neste período, nenhum ataque ocorreu. Mas Fin e sua família correrão sério perigo quando uma tempestade anuncia mais um tornado de tubarões.</info>
+ 
+<genre>Comédia, Ficção científica</genre>
+ 
+<date>05/08/2016</date>
+</item>"
+"<item>
+
+<title>Sharknado 5: Voracidade Global [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHRKND5.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5514.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5514.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Ficção científica, Cinema TV, Aventura
+Lançamento: 2017
+
+Após a destruição total do território dos Estados Unidos, Fin Shepard (Ian Ziering), April Wexler (Tara Reid) e a bartender Nova (Cassie Scerbo) precisam unir suas forças mais uma vez para tentar impedir uma catástrofe mundial, causada por um “sharknado” de proporções nunca antes vistas.</info>
+ 
+<genre>Ação, Comédia, Ficção científica, Cinema TV, Aventura</genre>
+ 
+<date>15/08/2017</date>
+</item>"
+"<item>
+
+<title>O Último Sharknado: Já Estava na Hora [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OULTMSRKNDJESTVNHRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4468.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4468.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Comédia, Cinema TV
+Lançamento: 2018
+
+Tudo está perdido... ou não. Fin descobre o poder de viajar no tempo dos Sharknados em busca de salvar o mundo e ressuscitar sua família. Em sua jornada, Fin acaba enfrentando Nazistas, dinossauros, cavaleiros e até pega uma carona na Arca de Noé. Dessa vez, não é sobre como parar os Sharknados, mas sim quando.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Comédia, Cinema TV</genre>
+ 
+<date>19/08/2018</date>
+</item>"
