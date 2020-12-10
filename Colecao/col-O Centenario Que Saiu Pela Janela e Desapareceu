@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Centenário Que Saiu Pela Janela e Desapareceu [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OCNTNRIOQFGIUPLJANLAEDSPRCU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3855.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3855.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Drama
+Lançamento: 2014
+
+No dia de seu centésimo aniversário, um homem foge da casa de repouso. Certo de que nunca é tarde pra recomeçar, ele embarca em uma série de aventuras enquanto conta a história surreal de sua vida.</info>
+ 
+<genre>Aventura, Comédia, Drama</genre>
+ 
+<date>28/05/2014</date>
+</item>"
+"<item>
+
+<title>O Centenário Que Saiu Sem Pagar a Conta e Sumiu [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OCNTNRIOQSAIUSMPGRACNTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3856.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3856.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 2016
+
+Uma vez espião, sempre alerta. Se um idoso achar a receita de um refrigerante da época da Guerra Fria, ele ficará rico. Em “O centenário que saiu sem pagar a conta e sumiu”, um idoso ex-espião de 101 anos sai em busca da fórmula de um refrigerante soviético que perdeu nos anos 70. Ele conta com a ajuda de um amigo octogenário em suas aventuras.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>25/12/2016</date>
+</item>"
