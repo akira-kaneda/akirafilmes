@@ -1,0 +1,76 @@
+"<item>
+
+<title>Piranha [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4915.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4915.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Ficção científica, Comédia
+Lançamento: 1978
+
+Uma investigadora é contratada para descobrir o paradeiro de duas pessoas. Ela viaja pelos locais em que os dois estiveram até chegar em um acampamento. Encontra uma pessoa que lhe ajuda a investigar um militar que mora ao lado do local. Lá eles descobrem um laboratório onde estão diversos animais bizarros. Ao escoar a água do local eles encontram dois esqueletos que podem ser de quem procuravam. Quando descobrem que o local abrigava piranhas mutantes, criadas para serem usadas como arma na Guerra do Vietnã. Agora soltas, elas começam a fazer seguidas vítimas.</info>
+ 
+<genre>Terror, Thriller, Ficção científica, Comédia</genre>
+ 
+<date>30/11/1978</date>
+</item>"
+"<item>
+
+<title>Piranhas 2: Assassinas Voadoras [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNH2ASANSVOADS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4918.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4918.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Romance
+Lançamento: 1982
+
+Clube Elysium, pode parecer um paraíso. Mas a poucos metros da praia, surge uma nova onda de terror que não poupa ninguém de sua fome selvagem e insaciável. Enquanto investigava a morte misteriosa de um mergulhador, a instrutora de mergulho Anne Kimbrough, faz uma descoberta arrepiante: peixes parecidos com piranhas e dotados de asas são os responsáveis pela morte do mergulhador. À medida que o número de cadáveres aumenta, Anne, desesperadamente tenta convencer o gerente do resort a cancelar a celebração anual do peixe frito na praia. Mas ele está determinado a proporcionar aos seus hóspedes um verdadeiro banquete.</info>
+ 
+<genre>Terror, Drama, Romance</genre>
+ 
+<date>05/11/1982</date>
+</item>"
+"<item>
+
+<title>Piranha 3D [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRNH3D.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4917.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4917.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror
+Lançamento: 2010
+
+As férias de primavera se tornam um rio de sangue quando um tremor subterrâneo libera centenas de peixes pré-históricos e carnívoros no lago Victoria. Uma policial local, Julie Forester, junta forças com um grupo de desconhecidos para destruir as criaturas vorazes, no intento de que os visitantes não sejam devorados pelos peixes.</info>
+ 
+<genre>Comédia, Terror</genre>
+ 
+<date>20/08/2010</date>
+</item>"
+"<item>
+
+<title>Piranha 2 [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNH2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4916.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4916.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Comédia
+Lançamento: 2012
+
+O Lago Vitória já abrigou piranhas pré-históricas, mas todos pensavam que elas estavam mortas. Até que um cardume dessas criaturas assassinas ressurge e sai em busca de alimento em um parque aquático próximo ao lago, repleto de visitantes.</info>
+ 
+<genre>Terror, Thriller, Comédia</genre>
+ 
+<date>01/06/2012</date>
+</item>"
