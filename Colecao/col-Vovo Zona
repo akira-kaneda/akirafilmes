@@ -1,0 +1,57 @@
+"<item>
+
+<title>Vovó... Zona [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6401.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6401.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia
+Lançamento: 2000
+
+O agente do FBI Malcolm Turner (Martin Lawrence) é duro, inteligente e um mestre dos disfarces. Não há nada em que ele não possa se disfarçar. A mais recente missão de Malcolm é numa pequena cidade sulista, onde ele deve capturar um perigoso assaltante de banco que fugiu recentemente da prisão. Para tanto, Malcolm arma uma tocaia em frente à casa de uma matriarca conhecida como Vovózona, que está para receber a visita da última namorada do ladrão, Sherry, e seu filho. Só que surge um problema: inesperadamente Vovózona deixa a cidade. Para levar adiante seu plano, Malcolm resolve ele mesmo se disfarçar de Vovó para poder capturar o assaltante.</info>
+ 
+<genre>Crime, Comédia</genre>
+ 
+<date>09/06/2000</date>
+</item>"
+"<item>
+
+<title>Vovó... Zona 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6402.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6402.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 2006
+
+Após prender um famoso ladrão de bancos, o detetive do FBI Malcolm Turner (Martin Lawrence) precisa mais uma vez se disfarçar como uma senhora idosa. Desta vez Malcolm precisa encontrar o suspeito de espalhar um vírus de computador letal, que pode permitir que inimigos do governo tenham acesso a arquivos confidenciais. Em meio às investigações ele se disfarça para trabalhar como babá na casa do criador do vírus, Tom Fuller (Mark Moses), enfrentando problemas com os filhos dele.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>26/01/2006</date>
+</item>"
+"<item>
+
+<title>Vovó... Zona 3: Tal Pai Tal Filho [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6403.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6403.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia, Ação
+Lançamento: 2011
+
+O jovem Trent (Brandon T. Jakcson) só queria saber de se tornar um rapper, mas seu padrasto, o agente do FBI Malcolm (Martin Lawrence) tem planos mais ambiciosos para ele. Só que o rapaz atrapalhou uma investigação e acabou testemunhando um assassinato. Agora, os dois precisam encontrar um importante pen drive para botar o tal criminoso na cadeia, mas o arquivo está escondido numa escola de artes cênicas somente para garotas. Chegou a hora de Vovózona (Lawrence) entrar em cena e, agora, acompanhada de sua sobrinha-neta Charmaine (Jackson).</info>
+ 
+<genre>Crime, Comédia, Ação</genre>
+ 
+<date>04/03/2011</date>
+</item>"
