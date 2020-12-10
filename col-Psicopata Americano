@@ -1,0 +1,38 @@
+"<item>
+
+<title>Psicopata Americano [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PSCPTAMRCNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5084.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5084.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Crime, Terror
+Lançamento: 2000
+
+Em Nova York, em 1987, o belo jovem profissional Patrick Bateman tem uma segunda vida como um horrível assassino em série durante a noite. O elenco é formado pelo detetive, a noiva, a amante, o colega de trabalho e a secretária. Esta é uma comédia de humor seco que examina os elementos que transformam um homem em um monstro.</info>
+ 
+<genre>Thriller, Drama, Crime, Terror</genre>
+ 
+<date>14/04/2000</date>
+</item>"
+"<item>
+
+<title>Psicopata Americano 2 [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PSCPTAMRCNO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5085.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5085.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2002
+
+Estudante universitária, com grande interesse por assassinos em séries, está determinada a eliminar qualquer pessoa que se interponha entre ela e seu objetivo de se tornar professora assistente.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>22/04/2002</date>
+</item>"
