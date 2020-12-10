@@ -1,0 +1,38 @@
+"<item>
+
+<title>Monstros S.A. [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3460.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3460.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2001
+
+Sulley e seu falante assistente Mike trabalham na Monstros S.A., a maior fábrica de processamento de gritos de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Só que os montros acreditam que as crianças são tóxicas e, quando uma menininha invade o mundo deles, começa a maior confusão.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>14/11/2001</date>
+</item>"
+"<item>
+
+<title>Universidade Monstros [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UNIMNSTRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6279.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6279.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2013
+
+Mike e Sulley, alunos promissores da Universidade Monstros, são forçados a se unirem quando sua disputa acirrada pelo posto de aluno mais assustador da turma foge ao controle e eles acabam sendo expulsos da faculdade.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>21/06/2013</date>
+</item>"
