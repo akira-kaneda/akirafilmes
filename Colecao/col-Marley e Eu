@@ -1,0 +1,38 @@
+"<item>
+
+<title>Marley & Eu [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MRLYEU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3248.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3248.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2008
+
+John (Owen Wilson) e Jennifer Grogan (Jennifer Aniston) casaram-se recentemente e decidiram começar nova vida em West Palm Beach, na Flórida. Lá, eles trabalham em jornais concorrentes, compram um imóvel e enfrentam os desafios de uma vida de casal. Indeciso sobre sua capacidade em ser pai, John busca o conselho de seu colega Sebastian (Eric Dane), que sugere que compre um cachorro para a esposa. John aceita a sugestão e adota Marley, um labrador de 5 kg que logo se transforma em um grande cachorro de 45 kg, o que torna a casa deles um caos.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>25/12/2008</date>
+</item>"
+"<item>
+
+<title>Marley & Eu 2 - Filhote Encrenqueiro [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MRLYEU2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3249.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3249.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2011
+
+Marley está de volta em uma nova aventura que fará todos os rabos abanarem! E desta vez, ele fala! É isso mesmo, ""o pior cão do mundo"" tem uma voz brincalhona e um comportamento igual. Junte-se a Marley no tempo em que era um filhote bagunceiro, época em que ele e seu amigo das férias de verão, Bodi Grogan, detonam numa competição canina. Marley supera dobermanns, pastores e collies, sempre conquistando todos os corações com seu jeito adorável.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>01/06/2011</date>
+</item>"
