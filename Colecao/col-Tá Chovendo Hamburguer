@@ -1,0 +1,38 @@
+"<item>
+
+<title>Tá Chovendo Hambúrguer [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TACHVNDHMBRGR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5790.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5790.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2009
+
+Flint Lockwood (Bill Hader) é um jovem cientista que sonha criar algo que faça com que seja reconhecido pela população de Boca Grande, uma pequena ilha no Atlântico. Um dia ele consegue descobrir uma forma de transformar água em comida, só que precisa de bastante eletricidade para colocá-la em funcionamento. Ao tentar usar a energia da geradora local, ele perde o controle da invenção e ela ruma para o céu. Para piorar, a confusão que ele cria destroi um parque de diversões, o grande trunfo do prefeito Shelbourne (Bruce Campbell) para melhorar a economia local. Flint acredita ter perdido a máquina, mas repentinamente começa a chover hambúrgueres em toda a cidade. Com o apoio de Sam Sparks (Anna Farris), uma estagiária de jornalismo que foi enviada à ilha para ser a nova ""garota do tempo"", Flint logo vira uma celebridade local.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>02/10/2009</date>
+</item>"
+"<item>
+
+<title>Tá Chovendo Hambúrguer 2 [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5791.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5791.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 2013
+
+Após a desastrosa tempestade de comida no primeiro filme, Flint (Bill Hader) e seus amigos são obrigados a deixar a cidade de Boca Grande. Sem saída, ele aceita o convite de seu ídolo, Chester V (Will Forte), e junta-se à The Live Corp Company, que reúne os melhores inventores do mundo. Porém, quando descobre que sua máquina ainda funciona e agora cria perigosas comidas animalescas mutantes, Flint decide retornar e tentar salvar o mundo.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
+ 
+<date>04/10/2013</date>
+</item>"
