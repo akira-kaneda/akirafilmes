@@ -1,0 +1,38 @@
+"<item>
+
+<title>Santos Justiceiros [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SNTSJSTCRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5355.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5355.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 1999
+
+Os irmãos MacManus, dois jovens católicos, acreditam que Deus lhes confiou a missão de acabar com a Máfia Russa. Eles perseguem e massacram violentamente os membros do bando e, em vez de irem presos, acabam sendo considerados santos.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>22/01/1999</date>
+</item>"
+"<item>
+
+<title>Santos Justiceiros 2: O Retorno [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SNTSJSTCRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5356.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5356.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2009
+
+De Troy Duffy, escritor e diretor de Santos Justiceiros, chega a aguardada continuação da violenta saga dos irmãos MacManus (Norman Reedus, Sean Patrick Flanery). Os dois estiveram escondidos com o pai, II Duce (Billy Connolly), nos tranquilos vales da Irlanda, longe das suas vidas anteriores de vigilantes. Quando um amado padre é morto no submundo do crime organizado, os irmãos retornam a Boston para montar uma sangrenta e violenta cruzada em busca de justiça. Com um novo parceiro e uma sexy técnica do FBI em seu encalço… Os Saints estão de volta!</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>24/11/2009</date>
+</item>"
