@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Cristal Encantado [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OCRSTLENCNTDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3896.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3896.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura, Família, Animação
+Lançamento: 1983
+
+Há muitos e muitos anos numa terra longínqua, O Cristal Encantado era a fonte da verdade no universo. Mas ele foi partido, gerando o caos e originando duas raças: os terríveis Skeksis e os pacíficos Mystics. Segundo uma velha profecia, tudo voltará ao normal se o Cristal for restaurado por um ser da raça Gelfling, quando os três sóis se alinharem numa grande conjunção. O problema é que os Skeksis se apossaram do poder do cristal, e pretendem reinar para sempre. Para evitar que a profecia seja cumprida, tentaram acabar com os Gelflings. Mas ainda resta Jen, e é a ele que cabe a tarefa de reestabelecer o equilíbrio.</info>
+ 
+<genre>Fantasia, Aventura, Família, Animação</genre>
+ 
+<date>18/02/1983</date>
+</item>"
+"<item>
+
+<title>Por Dentro do Cristal - Os Bastidores de O Cristal Encantado: A Era da Resistência [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PRDNTRDCRSTLOBDOCEARDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4993.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4993.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2019
+
+Conheça os bastidores do mundo mágico de Jim Henson: seus criadores, os bonecos e a tecnologia que devolveu vida ao deslumbrante universo de Thra.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>30/08/2019</date>
+</item>"
