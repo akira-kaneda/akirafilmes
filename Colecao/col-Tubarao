@@ -1,0 +1,76 @@
+"<item>
+
+<title>Tubarão [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TBRAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6028.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6028.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Aventura
+Lançamento: 1975
+
+Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para caçar o animal. Mas a missão vai ser mais complicada do que eles imaginavam.</info>
+ 
+<genre>Terror, Thriller, Aventura</genre>
+ 
+<date>07/07/1975</date>
+</item>"
+"<item>
+
+<title>Tubarão 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TBRAO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6029.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6029.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1978
+
+Passaram-se quatro anos desde que o tubarão branco apavorou a população da, até então, pacífica praia de Amity. Quando tudo parecia mais calmo, uma nova criatura aparece para aterrorizar a região, agora alvo de uma intensa especulação imobiliária. O chefe de polícia Martin Brody (Roy Scheider) vai lutar contra o tempo para salvar toda a população das garras desse animal.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>22/12/1978</date>
+</item>"
+"<item>
+
+<title>Tubarão 3 [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TBRAO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6030.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6030.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 1983
+
+A fera assassina dos mares está de volta, desta vez atacando funcionários e frequentadores de um parque aquático da Flórida.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>23/12/1983</date>
+</item>"
+"<item>
+
+<title>Tubarão 4 - A Vingança [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TBRAO4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6031.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6031.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Thriller
+Lançamento: 1987
+
+Ellen, viúva do chefe policial Martin Brody (papel que pertenceu a Roy Scheider), já está farta de viver sob constante tensão no balneário de Amity. Pensando em descansar e passar o natal com os filhos, noras e netos, arruma as malas e vai para o Caribe. Mas acredite: o grande e temível tubarão branco também está lá, mas não é de férias. Ele está lá em busca de vingança!Considerado por vários críticos de cinema com um dos piores filmes de todos os tempos.</info>
+ 
+<genre>Aventura, Thriller</genre>
+ 
+<date>23/12/1987</date>
+</item>"
