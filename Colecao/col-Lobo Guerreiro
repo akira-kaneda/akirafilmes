@@ -1,0 +1,38 @@
+"<item>
+
+<title>Lobo Guerreiro [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOBGURO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3116.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3116.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 2015
+
+Um soldado da força especial chinesa com pontaria extraordinária é confrontado por um grupo de mercenários estrangeiros perigosos, que foram contratados por um traficante de drogas para assassiná-lo. Agora ele terá que usar todas as suas habilidades para sobreviver.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>02/04/2015</date>
+</item>"
+"<item>
+
+<title>Lobo Guerreiro 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LOBGURO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3117.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3117.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Drama
+Lançamento: 2017
+
+Com sua carreira chegando ao fim, o agente das forças especiais mais mortal da China leva uma vida tranquila no mar. Mas quando cruza o caminho de um bando de mercenários sádicos, ele deve reafirmar seu dever como soldado e salvar o dia mais uma vez. A partir daí, os punhos (e as balas, os tanques, os mísseis e muito mais) voarão em cenas de ação cheias de adrenalina.</info>
+ 
+<genre>Guerra, Ação, Drama</genre>
+ 
+<date>27/07/2017</date>
+</item>"
