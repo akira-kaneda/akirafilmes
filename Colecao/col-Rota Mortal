@@ -1,0 +1,38 @@
+"<item>
+
+<title>Rota Mortal [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RTAMRTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5306.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5306.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2006
+
+Sonhando seguir a carreira artística, Nicole (Jaimie Alexander) abandona sua casa no Texas e segue para Los Angeles com o namorado Jess (Joey Mendicino). Os dois pegam a estrada, mas durante uma parada Jess desaparece misteriosamente. Nicole acaba nas mãos de um sádico e a tortura não terá fim.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>07/10/2006</date>
+</item>"
+"<item>
+
+<title>Rota Mortal 2: Não Olhe Para Trás [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RTAMRTL2NOHPRTRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5307.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5307.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2008
+
+Um ano depois de fugir de casa, Nicole e Jesse ainda estão desaparecidos. Quando o irmão de Jesse, Tom, volta para casa do serviço ativo, ele sai com seus amigos Marilyn e Jared para localizar o casal perdido. Sua busca os leva a um trecho da antiga rodovia com uma misteriosa parada de descanso, onde eles se encontram na mesma situação que Nicole e Jesse: confrontando um louco.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>30/09/2008</date>
+</item>"
