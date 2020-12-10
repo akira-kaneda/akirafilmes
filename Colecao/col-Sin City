@@ -1,0 +1,38 @@
+"<item>
+
+<title>Sin City: A Cidade do Pecado [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SNCTYACDADPCDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5548.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5548.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime, Baseado em Quadrinho
+Lançamento: 2005
+
+Um misterioso vendedor narra uma trágica história de co-dependência enquanto um vigilante mergulha no submundo à procura de seu amor perdido. Em outra parte da cidade, um policial persegue um assassino de crianças e uma ex-prostituta escapa de seu cafetão com a ajuda do novo namorado.</info>
+ 
+<genre>Ação, Thriller, Crime, Baseado em Quadrinho</genre>
+ 
+<date>29/07/2005</date>
+</item>"
+"<item>
+
+<title>Sin City: A Dama Fatal [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SNCTYADMFTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5549.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5549.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Thriller
+Lançamento: 2014
+
+Após a morte de John Hartigan (Bruce Willis), Nancy Callahan (Jessica Alba) só pensa em vingança. Ela passa suas noites dançando no mesmo bar, mas agora na companhia de uma garrafa de bebida, enquanto toma coragem para enfrentar o poderoso Senador Roark (Powers Boothe). Ao mesmo tempo, Dwight (Josh Brolin) tenta ajudar a enigmática Ava (Eva Green) apenas para se ver traído mais uma vez por esta dama fatal. Praticamente destruído, ele buscará a ajuda de Gail (Rosario Dawson) e sua turma para enfrentar a amada, enquanto que Nancy contará com o apoio do gigante Marv (Mickey Rourke).</info>
+ 
+<genre>Crime, Ação, Thriller</genre>
+ 
+<date>11/09/2014</date>
+</item>"
