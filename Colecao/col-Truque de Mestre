@@ -1,0 +1,38 @@
+"<item>
+
+<title>Truque de Mestre [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRQDMSTR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6026.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6026.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime
+Lançamento: 2013
+
+Um agente do F.B.I. e uma detetive da Interpol rastreiam uma equipe de ilusionistas que realizam assaltos a bancos durante suas apresentações e recompensam seu público com o dinheiro.</info>
+ 
+<genre>Thriller, Crime</genre>
+ 
+<date>05/07/2013</date>
+</item>"
+"<item>
+
+<title>Truque de Mestre: O 2º Ato [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRQDMSTR2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6027.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6027.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Thriller
+Lançamento: 2016
+
+Após enganarem o FBI, os cavaleiros Daniel Atlas, Merritt McKinney e Jack Wilder estão foragidos. Eles seguem as ordens de Dylan Rhodes, que segue trabalhando no FBI de forma a impedir os avanços na procura dos próprios cavaleiros. Paralelamente, o grupo planeja seu novo ato: desmascarar um jovem gênio da informática, cujo novo lançamento coleta dados pessoais dos usuários.</info>
+ 
+<genre>Ação, Comédia, Thriller</genre>
+ 
+<date>09/06/2016</date>
+</item>"
