@@ -1,0 +1,38 @@
+"<item>
+
+<title>Madrugada Muito Louca [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDRGDMTLCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3187.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3187.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Aventura
+Lançamento: 2004
+
+Harold e Kumar, obcecados com o hambúrguer da White Castle que viram na TV, partem tarde da noite para Nova Jersey a fim de comprá-lo. Mas tudo sai errado, e eles fogem da polícia e de um ladrão de carros antes de saborear o cobiçado sanduíche.</info>
+ 
+<genre>Comédia, Aventura</genre>
+ 
+<date>30/05/2004</date>
+</item>"
+"<item>
+
+<title>Madrugada Muito Louca 2 [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDRGDMTLCA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3188.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3188.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Aventura
+Lançamento: 2008
+
+Harold (John Cho) não quer esperar mais dez dias para ver Maria (Paula Garces), por isso ele convence o amigo Kumar (Kal Penn) a viajar para Amsterdã. No avião, eles são confundidos com terroristas e acabam sendo enviados para a prisão de Guantánamo. Pouco tempo depois, a dupla escapa da cadeia e parte para o Texas, onde uma ex-namorada de Kumar pode interceder no governo para limpar os seus nomes.</info>
+ 
+<genre>Comédia, Aventura</genre>
+ 
+<date>25/04/2008</date>
+</item>"
