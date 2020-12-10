@@ -1,0 +1,38 @@
+"<item>
+
+<title>Os Supremos - O Filme [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSSPRMS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4701.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4701.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Aventura, Ficção científica
+Lançamento: 2006
+
+O mundo está em crise. Antigos inimigos estão prestes a atacar. Um poderoso time é recrutado e o maior herói do planeta é chamado para liderar o time: Capitão América. Infelizmente, ele ficou congelado por mais de sessenta anos depois de um acidente durante a Segunda Guerra Mundial. Inspirada na HQ de sucesso da Marvel ""Os Supremos"", esta é a extraordinária história de seis heróis que terão de superar suas diferenças e lutar juntos para salvar o mundo. Mas eles não poderiam imaginar que a maior ameaça surgiria de dentro do próprio grupo: o Incrível Hulk!</info>
+ 
+<genre>Ação, Animação, Aventura, Ficção científica</genre>
+ 
+<date>21/02/2006</date>
+</item>"
+"<item>
+
+<title>Os Supremos 2 - Descubra o Poder da Pantera [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSSPRMS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4700.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4700.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Ação, Ficção científica
+Lançamento: 2006
+
+Uma poderosa força alienígena está prestes a invadir a Terra. Ela está em busca de algo escondido na nação secreta de Wakanda, governada pelo príncipe T´Challa (Jeffrey D. Sams), também conhecido como Pantera Negra. Decidido a combater sua nação, ele pede a ajuda dos Supremos, um grupo formado por sete dos maiores super-heróis do planeta: Capitão América (Justin Gross), Hulk (Fred Tatasciore), Vespa (Grey DeLisle), Homem de Ferro (Marc Worden), Viúva Negra (Olivia d´Abo), Thor (David Boat) e Gigante (Nolan North).</info>
+ 
+<genre>Aventura, Animação, Ação, Ficção científica</genre>
+ 
+<date>08/08/2006</date>
+</item>"
