@@ -1,0 +1,95 @@
+"<item>
+
+<title>Mega Shark vs Giant Octopus: Monstros Marinhos [COLOR yellow][IMDb 2,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MGASRKVSGNTOCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3305.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3305.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 2009
+
+A costa da Califórnia é aterrorizada por duas enormes criaturas pré-históricas do mar que lutam entre si pela supremacia do mar.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>19/05/2009</date>
+</item>"
+"<item>
+
+<title>Mega Piranha [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MGAPRNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3304.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3304.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Terror, Ficção científica
+Lançamento: 2010
+
+No Rio Amazonas, um grupo encontra a Megapiranha, uma espécie pré-histórica, que supostamente morreu há milhões de anos e ainda vive isolada num afluente do rio. Mas através da interferência humana no ambiente local, as megapiranhas conseguem escapar de seu local isolado, matando todos que cruzam seu caminho, indo em direção da Flórida, no auge da temporada turística</info>
+ 
+<genre>Ação, Aventura, Terror, Ficção científica</genre>
+ 
+<date>10/04/2010</date>
+</item>"
+"<item>
+
+<title>Mega Shark vs. Crocosaurus [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MGASRKVSCRCSURS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3306.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3306.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2010
+
+When the prehistoric warm-water beast the Crocosaurus crosses paths with that cold-water monster the Mega Shark, all hell breaks loose in the oceans as the world's top scientists explore every option to halt the aquatic frenzy. Swallowing everything in their paths -- including a submarine or two -- Croc and Mega lead an explorer and an oceanographer on a wild chase. Eventually, the desperate men turn to a volcano for aid.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>21/12/2010</date>
+</item>"
+"<item>
+
+<title>Mega Shark vs. Mecha Shark [COLOR yellow][IMDb 2,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MGASRKVSMCHSRK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3307.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3307.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Thriller
+Lançamento: 2014
+
+When another Mega Shark returns from the depths of the sea, world militaries go on high alert. Ocean traffic grinds to a standstill as everyone lives in fear of the insatiable beast. Out of options, the US government unleashes the top secret Mecha Shark project -- a mechanical shark built to have the same exact characteristics as Mega. A pair of scientists pilot the mechanical creature as they fight Mega in a pitched battle to save the planet. But when faulty mechanics cause the Mecha to go after humans, the scientists must somehow guide Mega to Mecha in hopes that the two titans will kill each other - or risk untold worldwide destruction.</info>
+ 
+<genre>Ação, Ficção científica, Thriller</genre>
+ 
+<date>28/01/2014</date>
+</item>"
+"<item>
+
+<title>Mega Crocodile [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MGACRDLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3303.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3303.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 2019
+
+Sarcosuchus tinha simplesmente o dobro do tamanho do maior crocodilo vivente (e também o maior réptil vivente), o crocodilo de água salgada da Austrália, um macho graúdo podendo chegar aos 6 metros. Estimou-se ainda que sarcosuchus pesaria até 8 toneladas, o mesmo que um elefante africano e meio!</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>09/08/2019</date>
+</item>"
