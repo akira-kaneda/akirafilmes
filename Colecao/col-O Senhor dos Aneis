@@ -1,0 +1,76 @@
+"<item>
+
+<title>O Senhor dos Anéis [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSNHRDSANES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4404.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4404.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Fantasia
+Lançamento: 1980
+
+Na terra pacífica do Condado, um Hobbit chamado Frodo Bolseiro recebe do seu tio um Anel mágico, capaz de decidir o futuro da Terra-Média. Assim Frodo terá de embarcar numa jornada épica para destruir o Anel, antes que o senhor do escuro Sauron possa recuperar-la.</info>
+ 
+<genre>Aventura, Animação, Fantasia</genre>
+ 
+<date>04/07/1980</date>
+</item>"
+"<item>
+
+<title>O Senhor dos Anéis: A Sociedade do Anel [COLOR yellow][IMDb 8,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSNHRDSANSASCEDDANL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4405.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4405.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 2002
+
+Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>01/01/2002</date>
+</item>"
+"<item>
+
+<title>O Senhor dos Anéis: As Duas Torres [COLOR yellow][IMDb 8,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSNHRDSANSASDSTRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4406.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4406.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 2002
+
+Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>27/12/2002</date>
+</item>"
+"<item>
+
+<title>O Senhor dos Anéis: O Retorno do Rei [COLOR yellow][IMDb 8,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSNHRDSANSORTNDREI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4407.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4407.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 2003
+
+O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>25/12/2003</date>
+</item>"
