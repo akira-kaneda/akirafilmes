@@ -1,0 +1,38 @@
+"<item>
+
+<title>Professor Aloprado [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRSRAPR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4313.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4313.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Romance, Ficção científica
+Lançamento: 1996
+
+Dois amigos debilóides vão para Aspen, no estado do Colorado para tentar devolver uma maleta esquecida pela passageira da limusine que um deles estava dirigindo para o aeroporto. Sem saber que na mala havia uma quantia enorme de dinheiro, que serviria para pagar o resgate de um sequestro, os dois acabam sendo perseguidos pela polícia e por assassinos profissionais.</info>
+ 
+<genre>Fantasia, Comédia, Romance, Ficção científica</genre>
+ 
+<date>26/06/1996</date>
+</item>"
+"<item>
+
+<title>Professor Aloprado 2 - A Famíla Klump [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRSRAPR2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4314.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4314.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Romance, Ficção científica
+Lançamento: 2000
+
+O Professor Aloprado, que já tinha feito grande sucesso trazendo Eddie Murphy no papel de vários membros da família Klump. O mais certinho é Sherman Klump, professor de química tímido e gordo que descobre uma fórmula para emagrecer e virar Buddy Love, um conquistador irresistível e arrogante. Nesta continuação o professor Sherman e sua namorada, a professora Denise (Janet Jackson), tentam eliminar Buddy Love do DNA do professor, mas o efeito acaba sendo o contrário.</info>
+ 
+<genre>Fantasia, Comédia, Romance, Ficção científica</genre>
+ 
+<date>27/07/2000</date>
+</item>"
