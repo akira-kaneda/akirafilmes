@@ -1,0 +1,57 @@
+"<item>
+
+<title>Honey - No Ritmo dos Seus Sonhos [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HONY1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2686.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2686.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Música, Família
+Lançamento: 2003
+
+Nova York. Honey Daniels (Jessica Alba) é uma sexy dançarina de hip-hop que sonha se tornar uma coreógrafa de videoclips. Ela ensina hip-hop para jovens da sua localidade e os encoraja a ficarem longe das ruas, para evitarem problemas. Um diretor de clipes, Michael Ellis (David Moscow), a vê dançando numa discoteca e a convida para participar de um clip. Ela é encorajada a deixar de ser dançarina e se tornar coreógrafa, mas o sucesso repentino de Honey tem um preço quando Michael se recusa a aceitar um não como resposta para sua tentativa de tentar seduzi-la. Assim ele tenta sabotar a carreira de Honey, para tirá-la do ramo definitivamente.</info>
+ 
+<genre>Romance, Música, Família</genre>
+ 
+<date>24/11/2003</date>
+</item>"
+"<item>
+
+<title>Honey 2: No Ritmo dos Sonhos [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HONY2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2684.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2684.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música
+Lançamento: 2011
+
+Para Maria, viver honestamente significa conviver com a mãe de Honey, Connie (Lonette McKee), e manter um trabalho apenas para sobreviver. Porém, uma rara noite de diversão em um clube de dança local lhe dá a oportunidade de mostrar o que ela tinha quase esquecido: seu talento para dança. Sua habilidade chama a atenção de Brandon (Randy Wayne), um voluntário do Centro Recreativo, que a convida para ajuda-lo a treinar um grupo de bailarinos talentosos, mas indisciplinados, chamado de HD. O talento de Maria também chama a atenção de seu ex-namorado Luis (Christopher ‘War’ Martinez), o carismático líder da premiada equipe de dança 718, que espera atrai-la de volta ao mundo da marginalidade, da qual ela está tentando escapar. Vendo a oportunidade de criar uma nova e significativa vida, Maria se entrega de corpo e alma no mundo da dança e começa a treinara equipe HD para competir no concurso de dança “Dance or Die” – o que significa competir contra o grupo 718 e seu antigo namorado Luis.</info>
+ 
+<genre>Comédia, Drama, Música</genre>
+ 
+<date>01/08/2011</date>
+</item>"
+"<item>
+
+<title>Honey 3: No Ritmo do Amor [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HONY3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2685.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2685.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Música, Romance
+Lançamento: 2016
+
+Melea Martin estuda em Cape Town e se sente incomodada com as politicas da escola e decide fazer as suas próprias regras. Procurando um modo de utilizar seu talento de dançarina e inspirar a comunidade onde vive, Melea aluga um antigo teatro para encenar Romeo e Julieta em ritmo de Hip-Hop. Muito parecido como os Capultes e Montagues, os conflitos entre os membros da peça ameaçam as ideias de Melea.</info>
+ 
+<genre>Drama, Família, Música, Romance</genre>
+ 
+<date>30/11/2016</date>
+</item>"
