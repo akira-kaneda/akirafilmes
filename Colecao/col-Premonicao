@@ -1,0 +1,95 @@
+"<item>
+
+<title>Premonição [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRMNCAO1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5029.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5029.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2000
+
+Quando um adolescente tem uma premonição de que o avião em que está vai explodir, ele e seus amigos resolvem não mais viajar. Para surpresa de todos, o avião realmente explode na viagem em que eles deveriam estar. Mas os integrantes do grupo começam a morrer misteriosamente, um a um, até os sobreviventes resolvem se unir para tentar entender o que está acontecendo, antes que eles mesmos se tornem as próximas vítimas.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>14/07/2000</date>
+</item>"
+"<item>
+
+<title>Premonição 2 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRMNCAO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5030.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5030.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2003
+
+Kimberly tem a premonição de que um horrível acidente na estrada matará muitas pessoas, inclusive ela e seus amigos. Assustada com a visão, ela para o carro e impede os que estão atrás de passar. Logo, um policial rodoviário chega e o acidente realmente acontece. Agora, a morte está perseguindo esse grupo de sobreviventes e, um a um, eles estão morrendo como deveriam: na estrada.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>13/06/2003</date>
+</item>"
+"<item>
+
+<title>Premonição 3 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRMNCAO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5031.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5031.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2006
+
+Seis anos depois que um grupo de estudantes enganam pela primeira vez a morte, uma adolescente tem o pressentimento de que ela e seus amigos vão ter um acidente em uma montanha-russa. Quando a visão prova ser verdadeira, a estudante e os sobreviventes precisarão lidar com as repercussões de enganar a morte.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>07/07/2006</date>
+</item>"
+"<item>
+
+<title>Premonição 4 [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRMNCAO4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5032.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5032.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2009
+
+Uma premonição salva quatro amigos que estavam assistindo a uma corrida de carros quando um trágico acidente acontece, matando dezenas de pessoas no local. Eles pensam que escaparam da morte, mas logo percebem que ela está em seu encalço.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>28/08/2009</date>
+</item>"
+"<item>
+
+<title>Premonição 5 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRMNCAO5.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5033.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5033.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2011
+
+Sam (Nicholas D'Agosto) tem um estranho pressentimento que as pessoas com quem trabalha e viaja com ele irão morrer num grave acidente. O pesadelo acaba acontecendo, mas graças a ele algumas conseguem se salvar do episódio, inclusive a sua namorada (Emma Bell). O que eles não contavam era que o destino de todos já estava traçado e a morte irá ""caçar"" um por um até que estejam definitivamente liquidados.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>23/09/2011</date>
+</item>"
