@@ -1,0 +1,76 @@
+"<item>
+
+<title>Halloweentown: A Cidade do Halloween [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ACDDHLWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2582.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2582.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia, Cinema TV, Terror
+Lançamento: 1998
+
+Aos 13 anos, Marnie descobre que vem de uma longa linhagem de bruxas e deve praticar para não perder seus poderes. Ao visitar a avó, que vive afastada em sua casa de Halloweentown, um misterioso lugar onde feiticeiras, duendes e outros habitantes fantásticos, Marnie descobre que uma força maligna planeja se apoderar do lugar. Ela tem que lutar para salvar o futuro da magia.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia, Cinema TV, Terror</genre>
+ 
+<date>10/11/1998</date>
+</item>"
+"<item>
+
+<title>Halloweentown 2: A Vingança de Kalabar [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/HLOWNTWN2AVNGCDKLABR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2581.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2581.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia, Cinema TV, Terror
+Lançamento: 2001
+
+Um ano depois, ocorre uma festa de Halloween na casa dos Cromwell, aonde estão Marnie, Dylan e Sophie. Então os novos vizinhos chegam, e eles são Carl e Alex, Marnie mostra a casa para Carl e ele pega o livro de feitiços, coisas estranhas estão acontecendo em Halloweentown, que tudo é causado pelo filho de Kalabar, Carl, agora os Cromwells precisam salvar Halloweentown de novo. Quando Marnie volta a Haloweentown com sua avó está tudo diferente Carl o filho de Kalabar havia lançado o feitiço cinza que ele pegou no livro que havia roubado da casa de Marnie só para garantir que ela não conseguiria quebrar o feitiço. Será que Marnie conseguirá salvar Halloweentown e O Mundo Humano?</info>
+ 
+<genre>Aventura, Família, Fantasia, Cinema TV, Terror</genre>
+ 
+<date>12/10/2001</date>
+</item>"
+"<item>
+
+<title>Halloweentown: O Portal [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/HLOWNTWNOPRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2583.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2583.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia, Cinema TV
+Lançamento: 2004
+
+A jovem feiticeira Marnie e seus amigos, um grupo de terríveis adolescentes, querem estudar numa escola para simples mortais. Mas começam os problemas e Marnie está prestes a perder seus poderes mágicos.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia, Cinema TV</genre>
+ 
+<date>08/10/2004</date>
+</item>"
+"<item>
+
+<title>Regresso a Halloweentown [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RTRNAHLOWNTWN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5252.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5252.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Comédia, Cinema TV
+Lançamento: 2006
+
+Marnie está totalmente empolgada com a possibilidade de encontrar a sua identidade como uma verdadeira bruxa. Para realizar seu sonho, ela ganhou uma bolsa integral para a renomada Universidade de Halloweentown. Mas a escola, que agora segue novas regras, irá mostrá-la que ser uma bruxa é um cargo difícil e de muita responsabilidade. Agora, a jovem terá que passar por muitas aventuras para fazer tal descoberta.</info>
+ 
+<genre>Família, Fantasia, Comédia, Cinema TV</genre>
+ 
+<date>20/10/2006</date>
+</item>"
