@@ -1,0 +1,76 @@
+"<item>
+
+<title>Indiana Jones e os Caçadores da Arca Perdida [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INDNAJNSEOSCACDRSDARC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2744.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2744.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação
+Lançamento: 1981
+
+Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria ""Os Dez Mandamentos"" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+ 
+<genre>Aventura, Ação</genre>
+ 
+<date>21/08/1981</date>
+</item>"
+"<item>
+
+<title>Indiana Jones e o Templo da Perdição [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INDNAJNSTMPDPRDCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2743.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2743.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação
+Lançamento: 1984
+
+Em 1935, o professor, arqueólogo e aventureiro Indiana Jones (Harrison Ford) tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
+ 
+<genre>Aventura, Ação</genre>
+ 
+<date>23/05/1984</date>
+</item>"
+"<item>
+
+<title>Indiana Jones e a Última Cruzada [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INDNAJNSEAULTMCRZDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2741.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2741.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação
+Lançamento: 1989
+
+O arqueólogo Indiana Jones (Harrisson Ford) tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones (Sean Connery), é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
+ 
+<genre>Aventura, Ação</genre>
+ 
+<date>22/06/1989</date>
+</item>"
+"<item>
+
+<title>Indiana Jones e o Reino da Caveira de Cristal [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INDNAJNSEOREIDCVNADCRSTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2742.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2742.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação
+Lançamento: 2008
+
+Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele.</info>
+ 
+<genre>Aventura, Ação</genre>
+ 
+<date>21/05/2008</date>
+</item>"
