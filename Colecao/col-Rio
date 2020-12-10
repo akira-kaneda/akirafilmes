@@ -1,0 +1,38 @@
+"<item>
+
+<title>Rio [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5258.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5258.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família
+Lançamento: 2011
+
+Blu (Jesse Eisenberg) é uma arara azul que vive uma vida tranquila no interior dos Estados Unidos. Ele decide largar essa vida para ir viver uma aventura no Rio de Janeiro, e lá, entre uma aula de voo e outra, ele tenta conquistar a única arara de sua espécie ainda existente, que por sorte é uma menina.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família</genre>
+ 
+<date>08/04/2011</date>
+</item>"
+"<item>
+
+<title>Rio 2 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RIO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5259.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5259.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Animação
+Lançamento: 2014
+
+Em Rio 2, encontraremos Blu, Jade e seus três filhos vivendo a perfeita vida doméstica na Cidade Maravilhosa. Quando Jade decide que as crianças precisam aprender a viver como pássaros reais, ela insiste que a família vá para a Amazônia. Conforme Blu tenta se adaptar aos novos vizinhos e à sua nova vida, ele se preocupa com a possibilidade de perder Jade e as crianças para a selva.</info>
+ 
+<genre>Aventura, Comédia, Família, Animação</genre>
+ 
+<date>28/03/2014</date>
+</item>"
