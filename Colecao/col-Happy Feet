@@ -1,0 +1,38 @@
+"<item>
+
+<title>Happy Feet - O Pinguim [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HPYFT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2593.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2593.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2006
+
+Entre os pinguins imperador você apenas é alguém se souber cantar. Isto causa grande preocupação a Mano (Elijah Wood), considerado o pior cantor do mundo e também um grande sapateador. Norma Jean (Nicole Kidman), sua mãe, gosta do sapateado de Mano mas Memphis (Hugh Jackman), seu pai, acha que ""isto não é coisa de pinguim"". Além disto seus pais sabem que caso Mano não encontre sua ""canção do coração"" ele talvez nunca encontre o verdadeiro amor. Título original Happy Fee</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>24/11/2006</date>
+</item>"
+"<item>
+
+<title>Happy Feet 2 - O Pinguim [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HPYFT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2592.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2592.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2011
+
+Mano (Elijah Wood/Daniel Oliveira) é um especialista do sapateado, mas agora ele cresceu e enfrenta problemas com o filho Erik (Elizabeth Daily), um filhote de pinguim Imperador pra lá de fofinho e muito questionador. Estimulado por Ramon (Robin Williams), um pinguim adulto amigo da família, ele acaba conhecendo o idolatrado Sven (Hank Azaria), que defende a ideia de que basta desejar para resolver os problemas, mas uma grande ameaça nunca antes imaginada coloca a vida de todos em perigo e eles precisarão de muito mais do que a força do pensamento para sobreviver.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>25/11/2011</date>
+</item>"
