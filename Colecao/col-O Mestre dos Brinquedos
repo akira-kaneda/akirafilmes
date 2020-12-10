@@ -1,0 +1,76 @@
+"<item>
+
+<title>O Mestre dos Brinquedos [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OMSTRBRQDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4177.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Fantasia, Ficção científica
+Lançamento: 1989
+
+Grupo de paranormais vai a um hotel quando Neil morre, e eles acreditam que nesse hotel está o segredo egípcio de dar vida a objetos inanimados que tanto procuram, mas os bonecos querem proteger esse segredo e seu mestre. Próxima Continuação: ""O Mestre dos Brinquedos""</info>
+ 
+<genre>Terror, Fantasia, Ficção científica</genre>
+ 
+<date>12/10/1989</date>
+</item>"
+"<item>
+
+<title>O Mestre Dos Brinquedos 2: A Volta do Mestre dos Brinquedos [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OMSTRBRQDS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4178.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4178.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1990
+
+Grupo de paranormais vai a um hotel quando Neil morre, e eles acreditam que nesse hotel está o segredo egipcio de dar vida a objetos inanimados que tanto procuram, mas os bonecos querem proteger esse segredo e seu mestre.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>07/02/1990</date>
+</item>"
+"<item>
+
+<title>O Mestre dos Brinquedos 3 : A Vingança de Toulon [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OMSTRBRQDS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4179.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4179.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Fantasia, Ficção científica
+Lançamento: 1991
+
+Em Berlim, durante a Segunda Guerra, o construtor de marionetes André Toulon, depois de perder a esposa,se vinga dos nazistas dando vida a seus bonecos, usando antigo segredo árabe.</info>
+ 
+<genre>Terror, Fantasia, Ficção científica</genre>
+ 
+<date>17/10/1991</date>
+</item>"
+"<item>
+
+<title>O Mestre dos Brinquedos 4: Bonecos em Guerra [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OMSTRBRQDS4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4180.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4180.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1993
+
+No submundo, o demônio Sutekh cria um exército de seres para combater qualquer indivíduo que tenha o poder de dar vida à objetos inanimados. Um jovem cientista e seus amigos estão tentando achar o segredo, o que volta a atenção de Sutekh para eles e agora os bonecos de Toulon terão de fazer de tudo para proteger o grupo de amigos e o segredo do mestre dos brinquedos.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>24/11/1993</date>
+</item>"
