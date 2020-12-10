@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Substituto [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSBSTUTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4431.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4431.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 1996
+
+Em uma escola pobre de Miami, uma professora é agredida pelo líder de uma gangue. Ela é substituída por um novo professor que na verdade é um mercenário do governo americano infiltrado no colégio para combater a criminalidade no local, onde imperam o medo, a violência, as armas e as drogas.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>19/04/1996</date>
+</item>"
+"<item>
+
+<title>O Substituto 2 [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSBSTUTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4432.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4432.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Mistério, Thriller
+Lançamento: 1998
+
+Num violento bairro de Nova Iorque, o professor Randahl Thomasson (Christopher Cousins) é assassinado por jovens que pertencem a uma gangue chamada “A Irmandade” e deixa sozinha a filha Anya (Susan May Pratt). No funeral do professor, reaparece seu irmão Karl (Treat Williams), um mercenário que resolve se passar por professor substituto na escola do irmão para descobrir quem foram os assassinos.</info>
+ 
+<genre>Ação, Mistério, Thriller</genre>
+ 
+<date>01/08/1998</date>
+</item>"
