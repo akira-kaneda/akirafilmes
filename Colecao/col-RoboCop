@@ -1,0 +1,76 @@
+"<item>
+
+<title>RoboCop - O Policial do Futuro [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RBCP1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5277.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5277.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 1987
+
+Policial é morto em combate e transformado por cientistas da empresa que dirige a força policial em um ciborgue ultrassofisticado a fim de ser usado na luta contra o crime na cidade de Detroit. Porém, apesar de ter sua memória apagada, lembranças o assombram e o levam a buscar vingança.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>08/10/1987</date>
+</item>"
+"<item>
+
+<title>RoboCop 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RBCP2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5275.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5275.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime, Ficção científica, Thriller
+Lançamento: 1990
+
+Policial-andróide enfrenta gangue de traficantes de drogas. Ao mesmo tempo, o império corporativo que o criou está lançando um robô aperfeiçoado que torna necessária a eliminação de Robocop.</info>
+ 
+<genre>Ação, Aventura, Crime, Ficção científica, Thriller</genre>
+ 
+<date>31/08/1990</date>
+</item>"
+"<item>
+
+<title>RoboCop 3 [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RBCP3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5276.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5276.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime, Ficção científica, Thriller
+Lançamento: 1994
+
+A corporação OCP estuda desenvolver o projeto Delta City, que vai substituir a abandonada cidade de Detroit. Para atingir este fim, a OCP convoca as forças armadas para intimidar os residentes de fora da cidade, sob o pretexto de que eles estarão contribuindo sua parte para reduzir a criminalidade. Depois de Robocop se unir à resistência civil, ele sustenta vários ferimentos, mas se recupera para lutar contra os robôs-ninja construídos pela OCP.</info>
+ 
+<genre>Ação, Aventura, Crime, Ficção científica, Thriller</genre>
+ 
+<date>08/07/1994</date>
+</item>"
+"<item>
+
+<title>RoboCop: A Origem [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RBCP2014.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5274.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5274.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 2014
+
+Em um futuro não muito distante, no ano de 2028, drones não tripulados e robôs são usados para garantir a segurança mundo afora, mas o combate ao crime nos Estados Unidos não pode ser realizado por eles e a empresa OmniCorp, criadora das máquinas, quer reverter esse cenário. Uma das razões para a proibição seria uma lei apoiada pela maioria dos americanos. Querendo conquistar a população, o dono da companhia Raymond Sellars (Michael Keaton) decide criar um robô que tenha consciência humana e a oportunidade aparece quando o policial Alex Murphy (Joel Kinnaman) sofre um atentado, deixando-o entre a vida e a morte.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>21/02/2014</date>
+</item>"
