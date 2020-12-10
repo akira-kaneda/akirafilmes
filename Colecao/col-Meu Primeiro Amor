@@ -1,0 +1,38 @@
+"<item>
+
+<title>Meu Primeiro Amor [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEUPRMRAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3364.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3364.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1991
+
+Vada Sultenfuss, uma garota de 11 anos, é obcecada com a morte, pois sua mãe morreu quando a garota nasceu e seu pai, Harry Sultenfuss, é um agente funerário que não lhe dá muita atenção. Vada é apaixonada por Jake Bixler, seu professor de inglês, e é muito amiga de Thomas J. Sennett, um garoto que é alérgico a tudo. Quando Harry contrata Shelly DeVoto, uma maquiadora, para os funerais e se apaixona por ela, Vada se sente rejeitada e quer fazer qualquer coisa para separá-los.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>27/11/1991</date>
+</item>"
+"<item>
+
+<title>Meu Primeiro Amor - Parte 2 [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEUPRMRAMRPT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3365.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3365.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2013
+
+O ano agora é 1974, Vada tem 13 anos e seu pai (Dan Aykroyd) se casou com a grávida Shelly (Jamie Lee Curtis). Quando Vada decide escrever sobre sua falecida mãe numa redação da escola, ela convence o pai a deixá-la viajar até Los Angeles para buscar mais informações sobre o passado de sua mãe. Lá, ela visita seu tio Phil (Richard Masur), que recruta o filho da sua namorada, Nick (Austin O'Brien), para ser o guia turístico de Vada. Quando um rastro de pistas dispersas os levam a uma variedade de personagens e Marcos de Los Angeles, Vada começa a formar a imagem de sua mãe, e a aversão inicial entre Vada e Nick é gradualmente substituída por uma amizade ou quem sabe algo mais.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>08/01/2013</date>
+</item>"
