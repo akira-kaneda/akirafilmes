@@ -1,0 +1,57 @@
+"<item>
+
+<title>Mortal Kombat [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MRTLKMBTOLFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3474.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3474.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia
+Lançamento: 1995
+
+Os planetas estão desalinhados. Para deter as forças do mal e salvar a humanidade, Lord Rayden, o protetor da Terra, escolhe as três pessoas capazes de vencer o Mortal Kombat, disputado pelos melhores lutadores do universo.</info>
+ 
+<genre>Ação, Fantasia</genre>
+ 
+<date>29/09/1995</date>
+</item>"
+"<item>
+
+<title>Mortal Kombat: A Aniquilação [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MRTLKMBTAANQLCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3473.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3473.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Ficção científica
+Lançamento: 1997
+
+Shao Kahn, o imperador do Outworld, desrespeita todas as regras de Mortal Kombat e abre ilegalmente as portas entre o seu reino e a Terra. Se elas permanecerem abertas por sete dias será o fim dos humanos, assim, um grupo de guerreiros tem seis dias para fechar as portas e salvar a Terra, mas para isto precisam enfrentar e vencer as demoníacas forças do Outworld.</info>
+ 
+<genre>Ação, Fantasia, Ficção científica</genre>
+ 
+<date>11/11/1997</date>
+</item>"
+"<item>
+
+<title>Mortal Kombat Legends: A Vingança de Scorpion [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3472.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3472.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Aventura, Animação
+Lançamento: 2020
+
+Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
+ 
+<genre>Fantasia, Ação, Aventura, Animação</genre>
+ 
+<date>12/04/2020</date>
+</item>"
