@@ -1,0 +1,95 @@
+"<item>
+
+<title>Hulk vs. Thor [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HLKVSTHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2713.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2713.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+No filme Hulk Vs. Thor, Em Asgard, reino dos deuses, Loki tenta uma maneira de derrotar seu meio-irmão Thor. Mas para superar Thor em um batalha, em todos os nove reinos, só uma criatura pôde se emparelhar com sua força, uma fera mortal de Midgard conhecida como O Incrível Hulk. Sem Odin por perto, já que o rei todo-poderoso dos deuses está em seu sono regenerativo. Loki está finalmente pronto para por em prática seu plano. Ima batalha épica entre deuses e monstros será travada e O Poderoso Thor terá seu mais mortal teste. Quem prevalecerá?</info>
+ 
+<genre>Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>27/01/2009</date>
+</item>"
+"<item>
+
+<title>Thor [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/THOR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5903.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5903.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 2011
+
+Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.</info>
+ 
+<genre>Aventura, Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>29/04/2011</date>
+</item>"
+"<item>
+
+<title>Thor: O Filho de Asgard [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/THROFLHDASGRD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5904.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5904.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Ação, Baseado em Quadrinho
+Lançamento: 2011
+
+Na lendária Asgard, o príncipe Thor é um adolescente impulsivo e arrogante que gosta de exibir ao povo suas habilidades com a espada enquanto treina combater com vários guerreiros. Thor não sabe que os guerreiros o deixam vencer, mas seus amigos zombam dele e da proibição que o pai Odin lhe dera, a de impedir sair dos limites do Reino. Quando Sif abandona Asgard e se une às valquírias lideradas por Brunhilda, Thor e seu irmão Loki resolvem provar suas habilidades e viajam clandestinamente no navio dos Três Guerreiros, em busca da lendária espada mágica do demônio Surtur que se encontra perdida em algum lugar do Reino dos Gigantes de Gelo, conforme lhes ensinara Algrim, conselheiro de Odin. Mas o jovem deus não sabe que seus atos porão em risco a trégua de Odin com aqueles antigos inimigos, e que uma nova guerra poderá ser iniciada.</info>
+ 
+<genre>Aventura, Animação, Ação, Baseado em Quadrinho</genre>
+ 
+<date>17/05/2011</date>
+</item>"
+"<item>
+
+<title>Thor: O Mundo Sombrio [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/THOROMNDSBR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5905.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5905.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2013
+
+Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>01/11/2013</date>
+</item>"
+"<item>
+
+<title>Thor: Ragnarok [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/THORAGORK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5906.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5906.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Fantasia, Baseado em Quadrinho
+Lançamento: 2017
+
+Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.</info>
+ 
+<genre>Ação, Aventura, Comédia, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>26/10/2017</date>
+</item>"
