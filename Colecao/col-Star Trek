@@ -1,0 +1,38 @@
+"<item>
+
+<title>Star Trek [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK11.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5648.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5648.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2009
+
+James Tiberious Kirk (Chris Pine) é um jovem rebelde inconformado com a morte de seu pai. Certo dia, recebe convite para fazer parte da formação de novos cadetes para a Frota Estelar. Uma vez lá conhece Spock (Zachary Quinto), um vulcano que optou por deixar seu planeta porque é metade humano e discordava do preconceito. Durante o treinamento, e também na primeira missão, os dois vivenciam novas experiências provocadas por seus estilos diametralmente opostos. Assim, Spock, o cerebral, e Kirk, o passional, viverão uma grande aventura ao lado de outros tradicionais integrantes da tripulação da U.S.S. Enterprise, a mais avançada nave espacial da época.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>08/05/2009</date>
+</item>"
+"<item>
+
+<title>Star Trek: Sem Fronteiras [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK13.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5649.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5649.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2016
+
+Desta vez, Kirk (Chris Pine), Spock (Zachary Quinto) e a tripulação da Enterprise encontram-se no terceiro ano da missão de exploração do espaço prevista para durar cinco anos. Eles recebem um pedido de socorro que acaba os ligando ao maléfico vilão Krall (Idris Elba), um insurgente Anti-Frota Estelar interessado em um objeto de posse do líder da nave. A Enterprise é atacada, e eles acabam em um planeta desconhecido, onde o grupo acaba sendo dividido em duplas.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>01/09/2016</date>
+</item>"
