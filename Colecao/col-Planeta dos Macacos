@@ -1,0 +1,171 @@
+"<item>
+
+<title>O Planeta dos Macacos [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4274.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4274.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Drama, Ação
+Lançamento: 1968
+
+George Taylor (Charlton Heston), um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.</info>
+ 
+<genre>Ficção científica, Aventura, Drama, Ação</genre>
+ 
+<date>07/02/1968</date>
+</item>"
+"<item>
+
+<title>De Volta ao Planeta dos Macacos [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1809.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1809.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Mistério
+Lançamento: 1970
+
+Tentando resgatar Taylor, que desapareceu na missão anterior, Brent um outro astronauta, atravessa uma fenda do tempo e chega até 3955 D.C. Porém sua nave se espatifa no mesmo planeta em que Taylor desapareceu. Ao ir para a Zona Proibida, Brent gradativamente vê que aquilo são os escombros de Nova York. Paralelamente os símios resolvem atacar a Zona Proibida, que Brent ao explorar descobre uma raça de mutantes, que se comunicam telepaticamente e que adoram uma bomba atômica, que é capaz de destruir a Terra inteira.</info>
+ 
+<genre>Aventura, Ficção científica, Mistério</genre>
+ 
+<date>26/05/1970</date>
+</item>"
+"<item>
+
+<title>A Fuga do Planeta dos Macacos [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2436.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2436.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 1971
+
+Dois cientistas símios, Cornelius (Roddy McDowall) e Zira (Kim Hunter) - na verdade havia mais um, Milo (Sal Mineo), que morreu acidentalmente - retornam no tempo e chegam no século XX, em Los Angeles. Quando eles revelam sua habilidade para falar primeiramente são tratados como curiosidade, mas depois como uma grande ameaça, quando o governo crê na história que a Terra será dominada por chimpanzés e assim tenta evitar o nascimento do bebê de Zira.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>20/05/1971</date>
+</item>"
+"<item>
+
+<title>A Conquista do Planeta dos Macacos [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801401.us.archive.org/10/items/250_20200903/207.jpg</image>
+<thumbnail>https://ia801401.us.archive.org/10/items/250_20200903/207.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 1972
+
+Uma praga exterminou os cães e os gatos da face da Terra, o que fez com que os macacos se tornassem animais de estimação. Eles são tratados como escravos, o que revolta Caesar (Roddy McDowall), o filho de Cornelius e Zira, que perdeu os pais ainda cedo e foi criado pelo dono de um circo. Ele passa a liderar uma rebelião dos macacos contra os humanos.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>29/06/1972</date>
+</item>"
+"<item>
+
+<title>A Batalha do Planeta dos Macacos [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS5.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/137.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/137.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 1974
+
+Após derrotar os humanos opressores, Caesar (Roddy MacDowall) precisa agora manter a paz entre homens e macacos. Só que o general Aldo (Claude Atkins) vê a situação de uma maneira diferente, o que provoca um guerra civil entre os macacos. Paralelamente, alguns humanos sobreviventes descobrem como entrar na cidade dos macacos e elaboram um meio de retomar o controle do planeta.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>04/01/1974</date>
+</item>"
+"<item>
+
+<title>Planeta dos Macacos [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS2001.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4933.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4933.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Ação, Aventura
+Lançamento: 2001
+
+Após sofrer um acidente na espaçonave em que estava, Leo Davidson (Mark Wahlberg) chega em um planeta estranho e primitivo, onde os humanos migalham por sua subsistência, são caçados e escravizados por primatas tiranos, que formam o poder local. Sem concordar com a opressão imposta à raça humana, Leo logo se torna uma séria ameaça ao status quo local e dá início à uma revolução social no planeta.</info>
+ 
+<genre>Thriller, Ficção científica, Ação, Aventura</genre>
+ 
+<date>03/08/2001</date>
+</item>"
+"<item>
+
+<title>Planeta dos Macacos: A Origem [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCSORIGEM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4935.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4935.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Drama, Ficção científica
+Lançamento: 2011
+
+Will Rodman tenta encontrar a cura do Alzheimer. Para isso, ele usa o pai e César, um filhote de macaco, como cobaias. Mas César demonstra uma inteligência fora do comum. Quando o primata é colocado em uma gaiola com outros de sua espécie, ele se revolta e lidera uma rebelião contra os humanos.</info>
+ 
+<genre>Thriller, Ação, Drama, Ficção científica</genre>
+ 
+<date>26/08/2011</date>
+</item>"
+"<item>
+
+<title>Planeta dos Macacos: O Confronto [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCSOCNFRT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4936.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4936.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Drama, Thriller
+Lançamento: 2014
+
+Dez anos após seu último embate, um grupo de humanos sobrevivente de uma praga mortal ameaça a crescente nação de macacos geneticamente evoluídos de César. Ambos os lados são levados a uma guerra que pode determinar definitivamente a espécie dominante da Terra.</info>
+ 
+<genre>Ficção científica, Ação, Drama, Thriller</genre>
+ 
+<date>26/06/2014</date>
+</item>"
+"<item>
+
+<title>Planeta dos Macacos: A Guerra [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PLNTDSMCMCSAGRRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4934.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4934.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ficção científica, Guerra
+Lançamento: 2017
+
+Humanos e macacos cruzam os caminhos novamente. César e seu grupo são forçados a entrar em uma guerra contra um exército de soldados liderados por um impiedoso coronel. Depois que vários macacos perdem suas vidas no conflito, César luta contra seus instintos e parte em busca de vingança. Dessa jornada, o futuro do planeta poderá estar em jogo.</info>
+ 
+<genre>Drama, Ficção científica, Guerra</genre>
+ 
+<date>03/08/2017</date>
+</item>"
