@@ -1,0 +1,57 @@
+"<item>
+
+<title>O Hobbit: Uma Jornada Inesperada [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4075.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4075.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 2012
+
+Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf. Acompanhado por um grupo de anões, ele parte numa jornada até a Montanha Solitária para libertar o Reino de Erebor do dragão Smaug.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>14/12/2012</date>
+</item>"
+"<item>
+
+<title>O Hobbit: A Desolação de Smaug [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OHBTADSLCDSMG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4074.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4074.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação
+Lançamento: 2013
+
+Ao lado de um grupo de anões e de Gandalf, Bilbo segue em direção à Montanha Solitária, onde deverá ajudar seus companheiros a retomar a Pedra de Arken. O problema é que o artefato está perdido em meio a um tesouro protegido pelo temido dragão Smaug.</info>
+ 
+<genre>Aventura, Fantasia, Ação</genre>
+ 
+<date>20/12/2013</date>
+</item>"
+"<item>
+
+<title>O Hobbit: A Batalha dos Cinco Exércitos [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4073.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4073.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia
+Lançamento: 2014
+
+O dragão Smaug lança sua fúria ardente contra a Cidade do Lago que fica próxima da montanha de Erebor. Bard consegue derrotá-lo, mas, rapidamente, sem a ameaça do dragão, inicia-se uma batalha pelo controle de Erebor e sua riqueza. Os anões, liderados por Thorin, adentram a montanha e estão dispostos a impedir a entrada de elfos, anões e orcs. Bilbo Bolseiro e Gandalf tentam impedir a guerra.</info>
+ 
+<genre>Ação, Aventura, Fantasia</genre>
+ 
+<date>10/12/2014</date>
+</item>"
