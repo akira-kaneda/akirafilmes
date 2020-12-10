@@ -1,0 +1,38 @@
+"<item>
+
+<title>Um Herói de Brinquedo [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMHRDBRNQDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6117.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6117.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Aventura
+Lançamento: 1996
+
+Um homem de negócios (Arnold Schwarzenegger) chega atrasado na aula de caratê do seu filho, que recebeu a faixa azul. Para tentar compensar, ele promete ao menino que lhe dará qualquer coisa que ele peça no Natal. O garoto então pede o ""Turbo Man"", o brinquedo sensação do momento e sonho de todas as crianças. Acontece que já véspera de Natal e o brinquedo não existe em lugar nenhum assim, com todos os estoques já estando esgotados. Ele então se propõe a cumprir a promessa, não importando o quanto isto lhe custe, mas, além de se meter em uma série de complicações, ainda tem de ser mais esperto que um carteiro, que tem o mesmo objetivo dele e igualmente obstinado no seu intento.</info>
+ 
+<genre>Comédia, Família, Aventura</genre>
+ 
+<date>06/12/1996</date>
+</item>"
+"<item>
+
+<title>Um Herói de Brinquedo 2 [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMHRDBRNQDO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6118.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6118.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2014
+
+Durante o Natal, a pequena Noel, de oito anos de idade, sonha em ganhar o Harrison Bear, o urso de pelúcia mais popular entre as crianças. Seu pai faz de tudo para encontrar o brinquedo, que está esgotado em todas as lojas. Mas quando o padrasto também conhece os desejos de Noel, os dois homens travam uma verdadeira guerra para encontrarem o presente e se tornarem o pai preferido da garotinha.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>02/12/2014</date>
+</item>"
