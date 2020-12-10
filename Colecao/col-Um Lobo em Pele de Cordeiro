@@ -1,0 +1,38 @@
+"<item>
+
+<title>Um Lobo em Pele de Cordeiro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMLBOEMPLEDCRDRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6133.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6133.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família, Fantasia, Romance
+Lançamento: 2018
+
+Um lobo entre as ovelhas ""nos leva a uma terra mágica agora, em um prado calmo onde ovelhas podem viver sem preocupações"". Mas os problemas começam a aparecer quando um bloco de lobo está instalado nas proximidades.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família, Fantasia, Romance</genre>
+ 
+<date>09/03/2018</date>
+</item>"
+"<item>
+
+<title>Um Lobo em Pele de Cordeiro 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMLBOEMPLEDCRDRO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6134.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6134.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família
+Lançamento: 2019
+
+A cidade unida de ovelhas e lobos leva uma vida tranquila até a chegada de dois convidados inesperados: uma raposa polar e uma pequena ovelha.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família</genre>
+ 
+<date>24/01/2019</date>
+</item>"
