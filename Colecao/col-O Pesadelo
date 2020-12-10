@@ -1,0 +1,228 @@
+"<item>
+
+<title>A Hora do Pesadelo [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/335.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/335.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1984
+
+Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger (Robert Englund), um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger pode retornar para se vingar daqueles que o mataram, através do sono.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>14/11/1984</date>
+</item>"
+"<item>
+
+<title>A Hora do Pesadelo 2: A Vingança de Freddy [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/337.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/337.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1985
+
+Uma nova família se muda para a casa em Elm Street, e logo os garotos estão tendo pesadelos com Freddy Krueger, o falecido assassino de crianças. Desta vez, ele tenta tomar o corpo de um adolescente para continuar matando no mundo real.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>31/10/1985</date>
+</item>"
+"<item>
+
+<title>A Hora do Pesadelo 3: Os Guerreiros dos Sonhos [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/338.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/338.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1987
+
+Adolescentes internados em clínica psiquiátrica, atormentados por pesadelos parecidos, passam por tratamento com uma nova droga e juntam suas forças para tentar se livrar da influência nefasta de Freddy Krueger, o assassino que assombra suas noites.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>27/02/1987</date>
+</item>"
+"<item>
+
+<title>A Hora do Pesadelo 4: O Mestre dos Sonhos [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/21/items/371_20200905/339.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/339.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1988
+
+Freddy Krueger retorna em busca de mais vítimas. Depois de matar todos os sobreviventes da rua Elm, ele usa o poder de Alice para atrair outras pessoas em seus sonhos.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>19/08/1988</date>
+</item>"
+"<item>
+
+<title>A Hora do Pesadelo 5: O Maior Horror de Freddy [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/340.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/340.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1990
+
+Após sobreviver ao último ataque de Freddy Krueger (Robert Englund), Alice Johnson (Lisa Wilcox) tem um período de calmaria até voltar a ter sonhos com o assassino. Desta vez o alvo de Freddy não é Alice, mas o filho que ela carrega na barriga. Seu plano é usá-lo para que possa nascer outra vez.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>01/06/1990</date>
+</item>"
+"<item>
+
+<title>A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL06.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/21/items/371_20200905/341.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/21/items/371_20200905/341.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Comédia
+Lançamento: 1991
+
+Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue para uma nova cidade em busca de novas vítimas. Atrás dele estão a própria filha, que é psicóloga infantil, e uma equipe de jovens decididos a matá-lo de vez.</info>
+ 
+<genre>Terror, Thriller, Comédia</genre>
+ 
+<date>13/09/1991</date>
+</item>"
+"<item>
+
+<title>O Novo Pesadelo - O Retorno de Freddy Krueger [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL07.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4220.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4220.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Fantasia
+Lançamento: 1994
+
+Quase 10 anos após A Hora do Pesadelo (1984), a estrela do filme, Heather Langenkamp, está sendo atormentada por ligações de alguém com a mesma voz de Freddy Krueger. Agora, ela precisará agir novamente como Nancy Thompson para tentar capturar essa força maligna que parece ter invadido o mundo real. Todos achavam que Freddy Krueger estava enfim morto. Mas ele volta mais aterrorizante do que nunca destruindo os sonhos de todos que estão à sua volta. Prepare-se para o terror.</info>
+ 
+<genre>Terror, Mistério, Fantasia</genre>
+ 
+<date>13/10/1994</date>
+</item>"
+"<item>
+
+<title>Freddy X Jason [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FRDVSJSN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2418.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2418.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2003
+
+Imagine que você está tendo um pesadelo tão real e angustiante que a morte seria um alívio... É assim que os jovens de Elm Street e Crystal Lake sentem-se desde que Freddy Krueger ressuscitou Jason Vorhees. Na rua Elm, tudo está tranquilo. Há mais de 10 anos, as vítimas potenciais de Freddy foram isoladas e inibidas de sonhar através do uso de drogas. Assim, a lembrança do maníaco está se apagando e enfraquecendo-o cada vez mais. Desesperado, Freddy decide utilizar-se de outro demônio para reacender sua apavorante memória entre os vivos. Surge entre os dois, então, uma crescente tensão cujo ápice será um verdadeiro Duelo de Titãs!</info>
+ 
+<genre>Terror</genre>
+ 
+<date>31/10/2003</date>
+</item>"
+"<item>
+
+<title>O Pesadelo [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSDLO.mp4?expires=1604974338&token=6236ea0b73cb83d25bfd267949ada36e|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4261.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4261.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Drama, Mistério
+Lançamento: 2005
+
+Tim Jensen (Barry Watson) cresceu em uma casa aparentemente mal-assombrada, o que fez com que crescesse cheio de traumas de sua infância. Em uma tentativa de eliminá-los de uma vez por todas, ele aceita retornar à casa onde cresceu para saber se os seres que tanto o atormentaram no passado são verdadeiros ou apenas fruto de sua imaginação.</info>
+ 
+<genre>Thriller, Terror, Drama, Mistério</genre>
+ 
+<date>04/02/2005</date>
+</item>"
+"<item>
+
+<title>O Pesadelo 2 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSDLO2.mp4?expires=1604974374&token=d022e7954dc089477efcf07a0df6b3e5|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4262.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4262.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2007
+
+Uma jovem mulher tenta curar sua fobia do bicho-papão, verificando-se em uma unidade de saúde mental, apenas para perceber tarde demais que ela agora está preso sem poder fazer nada com ela própria maior medo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>20/10/2007</date>
+</item>"
+"<item>
+
+<title>O Pesadelo 3 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSDLO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4263.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4263.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2008
+
+Quando um estudante universitário testemunhas do alegado suicídio de seu companheiro de quarto, ele põe em movimento uma série de terríveis acontecimentos que causam a temer a entidade sobrenatural. Enquanto ela tenta convencer o resto do seu dormitório que o Boogeyman existir, a força do mal se torna mais forte e seus amigos começam a pagar o preço. Agora ela deve parar este último mal antes de todo o campus cai presa.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>17/10/2008</date>
+</item>"
+"<item>
+
+<title>A Hora do Pesadelo [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AHRDPSDL08.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/336.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/336.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2010
+
+Um grupo de adolescentes de um subúrbio americano tem um sonho em comum, envolvendo Freddy Krueger (Jackie Earle Haley). Ele é um assassino desfigurado, que sempre os persegue em seus sonhos. Enquanto eles estão acordados não há risco algum, mas quando adormecem é a chance que Krueger tem para dominá-los.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>07/05/2010</date>
+</item>"
