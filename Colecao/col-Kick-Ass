@@ -1,0 +1,38 @@
+"<item>
+
+<title>Kick-Ass: Quebrando Tudo [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/KCKASSQBRTD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2961.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2961.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime
+Lançamento: 2010
+
+Usando sua paixão por histórias em quadrinhos, o adolescente Dave Lizewski decide se reinventar como super-herói, apesar da total falta de poderes especiais. O adolescente arruma uma fantasia, batiza-se de ""Kick-Ass"" e começa a combater o crime com a ajuda de amigos justiceiros.</info>
+ 
+<genre>Ação, Crime</genre>
+ 
+<date>16/04/2010</date>
+</item>"
+"<item>
+
+<title>Kick-Ass 2 [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/KCKASS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2962.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2962.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime
+Lançamento: 2013
+
+Kick-Ass se junta a um grupo de pessoas que se fantasia de super heróis para combater o crime. Enquanto isso, seu inimigo Red Mist planeja uma vingança que afetará a todos.</info>
+ 
+<genre>Ação, Aventura, Crime</genre>
+ 
+<date>13/09/2013</date>
+</item>"
