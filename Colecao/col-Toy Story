@@ -1,0 +1,114 @@
+"<item>
+
+<title>Toy Story - Um Mundo de Aventuras [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TYSTRY1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5978.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5978.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família, Comédia
+Lançamento: 1995
+
+Quando um reluzente 'ranger' do espaço chamado Buzz Lightyear invade o mundo de um cowboy de corda chamado Woody, desencadeia uma hilariante briga entre brinquedos. Agora o favoritismo de Woody no coração do seu jovem dono está em perigo... assim como as vidas de Buzz e Woody.</info>
+ 
+<genre>Animação, Aventura, Família, Comédia</genre>
+ 
+<date>30/10/1995</date>
+</item>"
+"<item>
+
+<title>Toy Story 2 [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TYSTRY2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5974.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5974.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 1999
+
+Enquanto Andy está no acampamento de férias, um ganancioso colecionador de brinquedos rapta Woody. Antes que se possa dizer ""ao infinito e além"", Buzz Lightyear, o Sr. Cabeça de Batata, o Porquinho, Rex e Slinky entram em ação, numa missão de resgate.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>30/10/1999</date>
+</item>"
+"<item>
+
+<title>Toy Story 3 [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TYSTRY3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5975.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5975.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 2010
+
+Os brinquedos são entregues por engano em uma creche em vez de no sótão logo antes de Andy partir para a faculdade, e cabe a Woody convencer os outros brinquedos de que eles não foram abandonados e voltar para casa.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
+ 
+<date>18/06/2010</date>
+</item>"
+"<item>
+
+<title>Toy Story - Esquecidos pelo Tempo [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TYSTRYESQDPTEMP.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5977.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5977.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Cinema TV, Aventura, Comédia, Fantasia
+Lançamento: 2014
+
+Durante uma brincadeira de natal, Woody, Buzz e companhia entram em uma nova aventura quando se deparam com um grupo de perigosas e delirantes figuras de ação. Cabe a Trixie ajudar seus amigos a voltarem sãos e salvos para o quarto.</info>
+ 
+<genre>Animação, Família, Cinema TV, Aventura, Comédia, Fantasia</genre>
+ 
+<date>14/12/2014</date>
+</item>"
+"<item>
+
+<title>Toy Story 4 [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TYSTRY4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5976.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5976.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família, Fantasia, Drama
+Lançamento: 2019
+
+Quando um novo brinquedo chamado ""Forky"" se junta a Woody e sua turma, uma viagem ao lado de velhos e novos amigos revela quão grande o mundo pode ser para um brinquedo.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família, Fantasia, Drama</genre>
+ 
+<date>20/06/2019</date>
+</item>"
+"<item>
+
+<title>Aventuras de Betty [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVNTRSDBETY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1139.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1139.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2020
+
+Ambientado no parque de diversões, a pastora de ovelhas aparece no topo da roda gigante com os outros brinquedos narra os acontecimentos de sua vida entre Toy Story 2 e Toy Story 4.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>31/01/2020</date>
+</item>"
