@@ -1,0 +1,57 @@
+"<item>
+
+<title>Monstros vs Alienígenas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRSVSALIEN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3461.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3461.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Ficção científica
+Lançamento: 2009
+
+Susan Murphy (Reese Witherspoon) está prestes a se casar com Derek Dietl (Paul Rudd), um repórter de TV que sonha em ascender profissionalmente. No dia de seu casamento ela é atingida por um meteorito, oriundo de um planeta que explodiu recentemente. A radioatividade do objeto espacial faz com que ela cresça até a altura de 15 metros. Sem saber o que está ocorrendo, Susan é capturada pelo exército e confinada em uma base secreta, onde estão alojados outros monstros: dr. Barata (Hugh Laurie), Elo Perdido (Will Arnett), B.O.B. (Seth Rogen) e Insectossauro. Todos deveriam permanecer isolados da sociedade, mas um súbito ataque alienígena faz com que o presidente dos Estados Unidos, Hathaway (Stephen Colbert), aceite o plano de libertá-los para que possam combater o novo inimigo.</info>
+ 
+<genre>Animação, Família, Aventura, Ficção científica</genre>
+ 
+<date>03/04/2009</date>
+</item>"
+"<item>
+
+<title>A Balada do B.O.B. [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ABLADOBOB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/131.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/131.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Ação, Comédia
+Lançamento: 2009
+
+O suspense não termina para B.O.B., que trama sua fuga da cela secreta do governo sob a guarda do general W.R. Monger.</info>
+ 
+<genre>Animação, Aventura, Ação, Comédia</genre>
+ 
+<date>30/09/2009</date>
+</item>"
+"<item>
+
+<title>A Noite das Cenouras Vivas [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ANTDSCNRSVIVS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/16/items/487_20200908/477.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/477.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia
+Lançamento: 2011
+
+Prepare-se para uma aventura mal-assombrada quando B.O.B., o Doutor e Elo Perdido juntam-se no Dia das Bruxas para salvar a cidade das cenouras zumbis.</info>
+ 
+<genre>Animação, Comédia</genre>
+ 
+<date>13/10/2011</date>
+</item>"
