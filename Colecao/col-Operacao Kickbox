@@ -1,0 +1,76 @@
+"<item>
+
+<title>Operação Kickbox [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCAOKCKBOX.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4542.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4542.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1989
+
+Uma equipe dos Estados Unidos vai competir contra a Coréia em um torneio Tae Kwon Do. A equipe consiste de lutadores de todo o país - eles podem superar sua rivalidade e trabalhar juntos para vencer?</info>
+ 
+<genre>Ação</genre>
+ 
+<date>10/11/1989</date>
+</item>"
+"<item>
+
+<title>Operação Kickbox 2 - Vencer ou Vencer [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCAOKCKBOX2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4543.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 1993
+
+Em um clube de luta clandestina, o cinturão negro Travis Brickley é morto depois de perder para o malvado mestre de artes marciais Brakus. A morte de Travis é testemunhada por Walter Grady, filho de seu melhor amigo Alex Grady. Alex e seu parceiro, Tommy Lee, prometem vingar a morte de seu amigo ao derrotar Brakus e fechar o clube de luta.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>01/01/1993</date>
+</item>"
+"<item>
+
+<title>Operação Kickbox 3 - Sem Retorno [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCAOKCKBOX3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4544.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4544.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1995
+
+Um mestre de artes marciais se empenhará profundamente em defender um professor negro de uma outra academia, que se posicionou contra uma organização local, partidaria da supremacia branca. Tommy Lee esta de volta a sua cidade natal para visitar a irmã, mas está comprometido em sua estadia a encarar o bando de violentos skinheads racistas. Este sensacional filme de arte marcial, e o terceiro da quadrilogia subsequente a ""Operação Kickbox (2) - Vencer ou Vencer"", Este filme foi grande sucesso de bilheteria e locação , na época do seu lançamento mundial.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>17/05/1995</date>
+</item>"
+"<item>
+
+<title>Operação Kickbox 4 - Sem Aviso [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCAOKCKBOX4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4545.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4545.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1998
+
+Um grupo de mafiosos russos roubaram uma grande oferta de papel para impressão de moeda dos EUA, e agora estão inundando o mercado com notas falsas. Quando um dos mafiosos decide se entregar e entregar um CD de dados para a DA, ela é baleado e morto, mas não antes de entregar o disco para um desavisado Tommy Lee. Apesar de trabalhar com a polícia como um instrutor de artes marciais, Lee não vai para os policiais com o disco, mas em vez disso vai para a corrida, dando o tempo da máfia para sequestrar sua filha e manter como refém em troca da devolução do disco.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>10/10/1998</date>
+</item>"
