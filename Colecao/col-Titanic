@@ -1,0 +1,57 @@
+"<item>
+
+<title>Titanic [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TITANC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5929.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5929.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1998
+
+Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>23/01/1998</date>
+</item>"
+"<item>
+
+<title>Titanic: Incêndio Fatal [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TITNCINCDFTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5931.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5931.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2017
+
+Documentário Titanic - Incêndio Fatal. Foi o maior navio alguma vez construído. Considerado impossível de afundar, o Titanic afundou na sua viagem de inauguração, levando 1500 pessoas consigo para o fundo. Levantou então ondas de choque pelo mundo inteiro, criando um debate que continua até hoje. Porque é que, quando o Titanic recebeu vários avisos de icebergs em frente, o capitão avançou a toda a velocidade em vez de mudar o curso? Duas horas depois da colisão, o Titanic está a flutuar antes de, inexplicavelmente, se afundar e levar centenas de passageiros consigo.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>21/01/2017</date>
+</item>"
+"<item>
+
+<title>Titanic: 20 Anos Depois [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TITNC20ANSDPS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5930.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5930.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2017
+
+James Cameron lançou o filme Titanic 20 anos atrás prometendo uma história viva , dizendo que ele devia a verdade àquelas almas perdidas em 1912. Agora, neste especial de 1 hora, Cameron junta especialistas para reabrir o arquivo do caso, perguntando Nós acertamos? Com 33 mergulhos nos escombros do navio e anos de analise forense, ele explora os mitos e mistérios do Titanic, testando o desastre, na esperança de responder perguntas que o perseguiram por anos.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>26/11/2017</date>
+</item>"
