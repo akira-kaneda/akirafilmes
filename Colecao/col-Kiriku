@@ -1,0 +1,38 @@
+"<item>
+
+<title>Kiriku e a Feiticeira [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KRKUEAFTCRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2988.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2988.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura, Animação, Família
+Lançamento: 1998
+
+No filme Kiriku e a Feiticeira, Kiriku é um longa-metragem franco-belga de 1998 dirigido por Miguel Ocelot. Retrata uma lenda africana, em que um recém-nascido superdotado que sabe falar, andar e correr muito rápido se incumbe de salvar a sua aldeia de Karabá, uma feiticeira terrível que deu fim a todos os guerreiros da aldeia, secou a sua fonte d´água e roubou todo o ouro das mulheres. Kiriku é tratado de forma ambígua pelas pessoas de sua aldeia, por ser um bebê, é desprezado pelos mais velhos quando tenta ajudá-los, porém, quando realiza atos heróicos, suas façanhas são muito comemoradas, embora logo em seguida voltem a desprezá-lo. Apenas a sua mãe lhe trata de acordo com sua inteligência</info>
+ 
+<genre>Fantasia, Aventura, Animação, Família</genre>
+ 
+<date>09/12/1998</date>
+</item>"
+"<item>
+
+<title>Kiriku – Os Animais Selvagens [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KRKUOSANIMISLGNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2987.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2987.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Fantasia
+Lançamento: 2006
+
+No filme Kiriku 2 – Os Animais Selvagens, O avô de Kiriku (Pierre-Ndoffé Sarr) conta as desventuras do garoto, cuja altura não alcança nem o joelho de uma pessoa normal. Entre elas o avô conta como Kiriku aprendeu a ser jardineiro, detetive, artesão, doutor, comerciante e viajante, percorrendo os diversos recantos da África.</info>
+ 
+<genre>Aventura, Animação, Família, Fantasia</genre>
+ 
+<date>23/02/2006</date>
+</item>"
