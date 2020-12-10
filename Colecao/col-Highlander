@@ -1,0 +1,95 @@
+"<item>
+
+<title>Highlander, O Guerreiro Imortal [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHLNDR1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2648.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2648.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Fantasia
+Lançamento: 1986
+
+Connor MacLeod (Christopher Lambert), um guerreiro escocês do século XVI, imortal e, após algum tempo, encontra Juan Ramirez (Sean Connery), imortal como ele. Ramirez o ensina a manejar uma espada, pois a única forma de matar um imortal é cortando sua cabeça. Após alguns séculos, surge um inimigo, imortal como ambos, que pretende decapitar Connor, para se tornar o único imortal da face da Terra.</info>
+ 
+<genre>Aventura, Ação, Fantasia</genre>
+ 
+<date>18/07/1986</date>
+</item>"
+"<item>
+
+<title>Highlander 2: A Ressurreição [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHLNDR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2646.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2646.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ficção científica
+Lançamento: 1991
+
+Condenado a envelhecer entre os terráqueos, Connor MacLeod (Christopher Lambert), o último guerreiro highlander, aos 75 anos, ainda é uma esperança para seu povo no planeta Zeist. Por isso, o ditador Katana (Michael Ironside) se lança à Terra para matá-lo, desencadeando uma batalha de vida ou morte.</info>
+ 
+<genre>Fantasia, Ficção científica</genre>
+ 
+<date>01/11/1991</date>
+</item>"
+"<item>
+
+<title>Highlander 3: O Feiticeiro [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHLNDR3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2647.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2647.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia
+Lançamento: 1995
+
+No século XVI, Highlander (Christopher Lambert) visita o feiticeiro Nakano (Mako), que o alerta para o perigo do sanguinário Kane (Mario Van Peebles). O embate entre os dois termina com Kane preso. Quatrocentos anos depois, uma escavação no Japão liberta Kane de sua prisão secular, que ressurge com apenas um desejo: Vingar-se do guerreiro imortal.</info>
+ 
+<genre>Fantasia</genre>
+ 
+<date>27/01/1995</date>
+</item>"
+"<item>
+
+<title>Highlander 4: A Batalha Final [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHLNDR4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2649.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2649.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia
+Lançamento: 2001
+
+Connor (Christopher Lambert) e Duncan MacLeod (Adrian Paul) se encontram e passam a lutar juntos contra uma força maligna que surge como a grande ameaça aos imortais da face da Terra. O poderoso Kell (Bruce Payne) cria um exército de imortais com os mais diversos poderes e pretende ganhar o jogo final a qualquer custo. Para enfrentá-lo, um dos dois terá que fazer um sacrifício final.</info>
+ 
+<genre>Ação, Fantasia</genre>
+ 
+<date>02/05/2001</date>
+</item>"
+"<item>
+
+<title>Highlander: A Origem [COLOR yellow][IMDb 3,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HGHLNDR5.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2650.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2650.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia
+Lançamento: 2007
+
+Duncan MacLeod (Adrian Paul) perambula por uma cidade destruída, lembrando-se de momentos em que sua vida era mais feliz, antes de perder o amor de sua vida. Descrente, Duncan passa a acompanhar um grupo de imortais, entre eles o misterioso Methos (Peter Wingfried) e também o mortal Joe Dawson (Jim Byrnes). Juntos eles iniciam uma jornada em busca da origem do primeiro imortal e da fonte de sua imortalidade.</info>
+ 
+<genre>Ação, Fantasia</genre>
+ 
+<date>06/02/2007</date>
+</item>"
