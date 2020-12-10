@@ -1,0 +1,57 @@
+"<item>
+
+<title>Lenda Urbana [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LNDURBNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3065.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3065.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1998
+
+Série de crimes inspirados em assassinatos do passado assolam uma localidade. Quando Natalie (Alicia Witt) investiga antigo crime, o assassinato de um aluno por professor psicopata, ela inadvertidamente entra na mira do maníaco homicida.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>27/11/1998</date>
+</item>"
+"<item>
+
+<title>Lenda Urbana 2 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LNDURBNA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3066.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3066.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2001
+
+Um grupo de jovens estudantes de cinema estão prestes a se formar e estão ávidos por fazerem sucesso com suas idéias em Hollywood. Mas antes disso eles precisam concluir um filme, como projeto final da faculdade. Só que, no meio da produção, acidentes bizarros começam a acontecer, deixando a equipe cada vez menor e levantando a dúvida sobre quem estaria provocando tais acidentes.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>26/01/2001</date>
+</item>"
+"<item>
+
+<title>Lenda Urbana 3 - A Vingança de Mary [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LNDURBNA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3067.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3067.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2005
+
+Durante uma noite de celebração, três garotas invocam um espírito maligno. O que parecia ser apenas uma brincadeira entre colegiais transforma-se numa trágica sucessão de assassinatos, que precisam ser detidos a qualquer custo. Com o mal à solta, elas precisam evitar o pior e fazer de tudo para controlar essa vingança, nem que para tanto seja preciso colocar a própria vida em perigo. Essa produção é a segunda continuação da série Lenda Urbana, que faz sucesso entre o público adolescente apostando em sustos e numa boa dose de sangue.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>19/07/2005</date>
+</item>"
