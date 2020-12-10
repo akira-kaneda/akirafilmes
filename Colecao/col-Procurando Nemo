@@ -1,0 +1,38 @@
+"<item>
+
+<title>Procurando Nemo [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRCRNDONEM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5061.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5061.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2003
+
+Depois que seu filho é capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palhaço tímido parte em uma jornada para trazê-lo para casa.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>04/07/2003</date>
+</item>"
+"<item>
+
+<title>Procurando Dory [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PRCNDRY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5060.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5060.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2016
+
+Amigável, porém esquecida, Dory começa uma busca por seus pais há muito perdidos, e todo mundo aprende alguma coisa sobre o real significado da família ao longo da jornada.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>30/06/2016</date>
+</item>"
