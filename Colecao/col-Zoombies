@@ -1,0 +1,38 @@
+"<item>
+
+<title>Zoombies [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBIS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6477.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6477.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Terror
+Lançamento: 2016
+
+Quando um estranho vírus se espalha por um Safari Park, todos os animais do zoológico se transformam em zumbis. Agora, aqueles que sobraram devem parar as criaturas antes que elas escapem e contaminem a cidade inteira.</info>
+ 
+<genre>Ficção científica, Ação, Terror</genre>
+ 
+<date>29/04/2016</date>
+</item>"
+"<item>
+
+<title>Zoombies 2 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBIS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6478.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6478.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação, Aventura, Terror
+Lançamento: 2019
+
+Um guarda florestal prendendo caçadores acaba salvando suas vidas quando animais zumbis os atacam na selva. Agora cercado, o guarda florestal e os caçadores forçam uma aliança desconfortável para deter os animais antes que o vírus super-zumbi se espalhe pelo mundo inteiro.</info>
+ 
+<genre>Comédia, Ação, Aventura, Terror</genre>
+ 
+<date>26/03/2019</date>
+</item>"
