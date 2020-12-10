@@ -1,0 +1,57 @@
+"<item>
+
+<title>Um Drink no Inferno [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UDRNKNINFRN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6103.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6103.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Thriller, Crime
+Lançamento: 1996
+
+Os irmãos Seth (George Clooney) e Richard Gecko (Quentin Tarantino) são procurados pela polícia por 16 mortes. Eles sequestram um ex-pastor e seu casal de filhos, para poderem atravessar a fronteira com o México e lá se dirigem à uma casa noturna frequentada por caminhoneiros e motoqueiros, que é uma mistura de cabaré e prostíbulo. Porém, ao chegar lá a dupla se depara com algo totalmente inacreditável.</info>
+ 
+<genre>Terror, Ação, Thriller, Crime</genre>
+ 
+<date>26/04/1996</date>
+</item>"
+"<item>
+
+<title>Um Drink no Inferno 2 - Texas Sangrento [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UDRNKNINFRN2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6104.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6104.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Terror, Thriller
+Lançamento: 1999
+
+Quadrilha de assaltantes de banco planeja um golpe milionário no México. Mas, entram no bar errado, lotado de vampiros, e o plano todo desanda. O chefe do grupo é obrigado, então, a unir suas forças com seu arqui-rival, o xerife, para salvar sua própria pele dos chupadores de sangue. Sequência do sucesso de 1996.</info>
+ 
+<genre>Crime, Ação, Terror, Thriller</genre>
+ 
+<date>16/03/1999</date>
+</item>"
+"<item>
+
+<title>Um Drink no Inferno 3 - A Filha do Carrasco [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UDRNKNINFRN3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6105.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6105.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Terror, Thriller
+Lançamento: 1999
+
+Novamente o céu do México se torna o único observador de um novo massacre, de volta às origens do primeiro filme no covil de vampiros, um grupo de pesquisadores vão fazer baderna lá. Antes que consigam abrir um sorriso, os habitantes do grotesco bar irão abrir com algo mais em seus dentes. Em 1870, no México, perigoso bandido Johnny Madrid (Leonardi) foge da forca, raptando Esmeralda (Ara), a filha do carrasca (Morrison). Junta-se à sua gangue, assalta uma diligência e vai parar num bar cheio de vampiros, liderados por uma sacerdotisa.</info>
+ 
+<genre>Faroeste, Terror, Thriller</genre>
+ 
+<date>30/10/1999</date>
+</item>"
