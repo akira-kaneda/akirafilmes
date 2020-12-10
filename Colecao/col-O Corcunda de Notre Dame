@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Corcunda de Notre Dame [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OCRCNDDNTRDM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3889.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3889.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Animação, Família
+Lançamento: 1996
+
+O 34º desenho animado em longa-metragem Disney conta uma história emocionante e comovente, repleta de ação, humor e músicas encantadoras! Inspirado no romance clássico de Victor Hugo, a Disney traz as heróicas aventuras de Quasídomo, o amável e solitário tocador de sinos da Catedral de Notre Dame, numa obra-prima espetacular. Instigado por seus amigos gárgulas, Quasídomo enfrenta seu malvado guardião e aventura-se a sair da torre para participar do alegre ""Festival de Tolos"", a maior festa do ano realizada nas ruas de Paris. Quando a atenção da multidão volta-se para o bondoso tocador de sinos por causa da sua aparência, ele é salvo por Esmeralda, uma linda cigana. Quasídomo passa a travar duas batalhas: evitar a destruição da cidade que ama e, ao mesmo tempo, convencer todos a enxergar quem são e o que são realmente as outras pessoas, e não apenas as aparências. O Corcunda de Notre Dame é alegria para os ouvidos e um grande prazer para os olhos.</info>
+ 
+<genre>Drama, Animação, Família</genre>
+ 
+<date>21/06/1996</date>
+</item>"
+"<item>
+
+<title>O Corcunda de Notre Dame II – O Segredo do Sino [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OCRCNDDNTRDM2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3890.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3890.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2002
+
+Volte á encantadora Notre Dame com o novíssimo desenho Disney O CORCUNDA DE NOTRE DAME II - uma aventura divertida e romântica, contada com animação vibrante e músicas tão magníficas quanto o cenário. Quasímodo e seus amigos reúnem-se nessa emocionante aventura do adorável e solitário tocador de sinos, que enfrenta o diabólico dono do circo, Sarousch - um feiticeiro que pretende roubar La Fidele, o famoso sino da Catedral - obrigando sua assistente Madellaine, a nova amiga de Quasímodo, a ajudá-lo. Quando Zefir, o filhinho de Esmeralda, tenta deter Sarousch, Quasímodo precisa correr para salvar o amiguinho e o precioso sino. Ele ignora os conselhos hilariantes dos amigos gárgulas e dá ouvidos ao próprio coração valente, descobrindo que também precisa esquecer as aparências para encontrar a verdade. A história fabulosa da Disney continua com essa celebração cômica, mágica e musical da beleza interior de todos nós.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>19/03/2002</date>
+</item>"
