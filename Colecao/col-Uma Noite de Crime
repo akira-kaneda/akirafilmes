@@ -1,0 +1,38 @@
+"<item>
+
+<title>Uma Noite de Crime [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTDCRM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6244.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6244.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Terror, Thriller
+Lançamento: 2013
+
+Nos Estados Unidos, uma lei permite toda e qualquer atividade ilegal por 12 horas. Nesta noite de crime, conhecida como A Purificação, a família de James Sandin, que vive dos lucros das vendas de equipamentos de segurança domiciliar, tenta sobreviver ao ser encurralada em sua própria casa.</info>
+ 
+<genre>Ficção científica, Terror, Thriller</genre>
+ 
+<date>06/06/2013</date>
+</item>"
+"<item>
+
+<title>Uma Noite de Crime: Anarquia [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTDCRM2ARQU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6245.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6245.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2014
+
+O governo dos Estados Unidos sanciona uma lei em que os assassinatos são permitidos durante uma noite, para que os cidadãos liberem seus instintos violentos. Cinco desconhecidos se unem para tentar sobreviver a essa verdadeira noite de terror.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>04/12/2014</date>
+</item>"
