@@ -1,0 +1,171 @@
+"<item>
+
+<title>Resident Evil: O Hóspede Maldito [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REVIL01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5247.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5247.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Ficção científica
+Lançamento: 2002
+
+Alice e Rain Ocampo têm a missão de destruir um laboratório genético operado pela poderosa corporação Umbrella, um dos maiores conglomerados do mundo, onde um vírus foi disseminado, matando seu criador e ressurgindo como uma criatura demoníaca, que sente uma fome incontrolável e transforma todas as suas vítimas em zumbis. O time tem apenas três horas para evitar que o vírus invada a Terra.</info>
+ 
+<genre>Terror, Ação, Ficção científica</genre>
+ 
+<date>30/05/2002</date>
+</item>"
+"<item>
+
+<title>Resident Evil 2: Apocalipse [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REVIL02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5244.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5244.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Ficção científica
+Lançamento: 2004
+
+Desde que foi capturada pela Corporação Umbrella, Alice passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine e Carlos Olivera para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.</info>
+ 
+<genre>Terror, Ação, Ficção científica</genre>
+ 
+<date>08/10/2004</date>
+</item>"
+"<item>
+
+<title>Resident Evil 3: A Extinção [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REVIL03.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5239.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5239.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Ficção científica
+Lançamento: 2007
+
+Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que o vírus que transforma humanos em aterrorizantes zumbis contamine todo o mundo.</info>
+ 
+<genre>Terror, Ação, Ficção científica</genre>
+ 
+<date>05/10/2007</date>
+</item>"
+"<item>
+
+<title>Resident Evil: Degeneração [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REVILDGNRC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5246.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5246.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Terror, Ação, Ficção científica
+Lançamento: 2008
+
+O vírus mortal T foi erradicado. Sete anos depois, um passageiro chega aos EUA com os mesmos sintomas, e zumbis tomam o aeroporto. Surgem dúvidas sobre a erradicação do vírus, e o governo manda seus melhores agentes investigarem.</info>
+ 
+<genre>Animação, Terror, Ação, Ficção científica</genre>
+ 
+<date>30/12/2008</date>
+</item>"
+"<item>
+
+<title>Resident Evil 4: Recomeço [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REVIL04.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5240.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5240.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Terror, Ficção científica
+Lançamento: 2010
+
+Em um mundo dominado por mortos-vivos, Alice continua sua batalha para salvar sobreviventes. Sua batalha se intensifica e ela recebe a ajuda de um velho amigo. Em Los Angeles, pode existir um lugar para salvar-se, mas a cidade foi invadida por mortos-vivos.</info>
+ 
+<genre>Ação, Aventura, Terror, Ficção científica</genre>
+ 
+<date>17/09/2010</date>
+</item>"
+"<item>
+
+<title>Resident Evil 5: Retribuição [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REVIL05.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5241.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5241.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2012
+
+O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>14/09/2012</date>
+</item>"
+"<item>
+
+<title>Resident Evil: Condenação [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REVILCNDNCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5245.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5245.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Terror
+Lançamento: 2012
+
+O agente especial dos Estados Unidos, Leon S. Kennedy, vai a um pequeno país da Europa Oriental investigar rumores de que armas biológicas (B.O.W.s) estão sendo usadas em guerra. Logo após infiltrar-se no local, o governo ordena que Leon se retire imediatamente. Determinado a descobrir a verdade, Leon ignora a ordem e entra no campo de batalha para encerrar a cadeia de tragédias causadas por B.O.W.s.</info>
+ 
+<genre>Animação, Terror</genre>
+ 
+<date>25/09/2012</date>
+</item>"
+"<item>
+
+<title>Resident Evil 6: O Capítulo Final [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/REVIL06.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5242.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5242.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2017
+
+Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>26/01/2017</date>
+</item>"
+"<item>
+
+<title>Resident Evil: A Vingança [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/REVILAVNGNC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5243.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5243.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Aventura, Mistério, Animação, Ação, Ficção científica
+Lançamento: 2017
+
+Um inimigo sem escrúpulos planeja uma vingança brutal e libera um vírus mortal. O capitão Chris Redfield, membro da organização que luta contra o bioterrorismo, terá que responder ao ataque.</info>
+ 
+<genre>Terror, Aventura, Mistério, Animação, Ação, Ficção científica</genre>
+ 
+<date>27/05/2017</date>
+</item>"
