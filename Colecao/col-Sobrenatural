@@ -1,0 +1,76 @@
+"<item>
+
+<title>Sobrenatural [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SBRNTRL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5583.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5583.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1900
+
+Josh e Renai se mudam com a família para uma casa maior. Lá, o filho Dalton sofre um estranho acidente e entra em coma. Enquanto eles tentam salvar o menino, entidades malignas atormentam a família.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>06/01/1900</date>
+</item>"
+"<item>
+
+<title>Sobrenatural: Capítulo 2 [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SBRNTRLCP2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5586.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5586.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2013
+
+Renai e Josh Lambert estão prontos para suas vidas voltarem ao normal, mas não sabem que Josh está possuído. A fim de derrotar as forças malévolas em torno deles, Lorraine Lambert e seus amigos investigam o passado para salvar o futuro da família.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>22/11/2013</date>
+</item>"
+"<item>
+
+<title>Sobrenatural: A Origem [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SBRNTRLAORGM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5584.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5584.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Thriller
+Lançamento: 2015
+
+Vítima de uma entidade sobrenatural perigosa, a adolescente Quinn Brenner busca a ajuda da médium Elise Rainier, que por meio de suas habilidades paranormais descobre a existência de um demônio com sede de almas humanas.</info>
+ 
+<genre>Terror, Drama, Thriller</genre>
+ 
+<date>30/07/2015</date>
+</item>"
+"<item>
+
+<title>Sobrenatural: A Última Chave [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SBNTLAULTMCHV.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5585.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5585.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2018
+
+A Doutora Elise Rainier é chamada para resolver o caso de uma assombração no Novo México, localizada justamente na casa em que ela passou a infância. Enquanto tenta resolver o caso do morador de sua antiga casa, ela será obrigada a confrontar vários fantasmas e demônios de sua infância, alguns literais. Ao lado de Specs e Tucker, Elise se depara com seu caso mais pessoal.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>18/01/2018</date>
+</item>"
