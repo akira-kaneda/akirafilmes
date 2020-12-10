@@ -1,0 +1,76 @@
+"<item>
+
+<title>Mulher Maravilha [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MLHRMRVLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3505.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Mulher Maravilha contará a origem da amazona na mísitca ilha grega de Temíscera e sua inevitável jornada pelo mundo dos homens, onde ela se estabelce como heroína que segue suas próprias regras. Entretanto, o conflito se estabelece quando o deus da guerra, Ares, escapa da sua prisão e jura vingança contra o mundo dos mortais e dos deuses. Cabe à Mulher-Maravilha impedi-lo.</info>
+ 
+<genre>Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>03/03/2009</date>
+</item>"
+"<item>
+
+<title>Mulher-Maravilha [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MLHRMRVLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3508.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2017
+
+Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>01/06/2017</date>
+</item>"
+"<item>
+
+<title>Professor Marston e as Mulheres-Maravilhas [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRFMRSTNEASMLHRSMRV.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5064.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5064.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2017
+
+A não-convencional vida de Wiliam Marston (Luke Evans), psicólogo e inventor de Harvard que ajudou a tornar real o Detector de Mentiras e que também criou a Mulher-Maravilha, personagem dos quadrinhos, em 1941. Marston mantinha uma relação polígama envolvendo sua esposa Elizabeth Marston (Rebecca Hall), psicóloga e inventora, e Olive Byrne (Bella Heathcote), uma ex-aluna que virou acadêmica. Essa relação e os ideais feministas das duas mulheres foram essenciais para a criação da personagem.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>13/10/2017</date>
+</item>"
+"<item>
+
+<title>Mulher-Maravilha - Linhagem de Sangue [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MLHRMRVLHLNHGMDSNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3509.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Fantasia, Baseado em Quadrinho
+Lançamento: 2019
+
+Veja a origem lendária de um dos renomados membros da Liga da Justiça, Mulher Maravilha, conforme ela enfrenta o mal com sua espada e seu laço mágico. Determinada e igualmente forte no corpo e no coração, ela assume a missão de ajudar uma jovem garota problemática que foi recrutada por uma organização mortal conhecida como Corporação Vilania, cujos membros criminosos almejam invadir Themyscira, o lar paradisíaco de nossa heroína. A batalha será épica, porque se há uma coisa que as Amazonas conhecem bem, é a guerra!</info>
+ 
+<genre>Animação, Ação, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>05/10/2019</date>
+</item>"
