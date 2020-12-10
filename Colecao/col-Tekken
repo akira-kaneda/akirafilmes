@@ -1,0 +1,57 @@
+"<item>
+
+<title>Tekken [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TKKN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5824.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5824.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Ação, Thriller, Ficção científica
+Lançamento: 2010
+
+No ano de 2039, o lutador de rua Jin testemunha o assassinato de sua mãe pela Tekken, a mais terrível das corporações que dominam o mundo. Ele parte para a vingança buscando sagrar-se campeão em um mortal torneio de luta.</info>
+ 
+<genre>Crime, Drama, Ação, Thriller, Ficção científica</genre>
+ 
+<date>20/03/2010</date>
+</item>"
+"<item>
+
+<title>Tekken: Vingança de Sangue [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TKNVNGCDSNGLEG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5826.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5826.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 2011
+
+As empresas Mishima Zaibatsu (de Jin Kazama) e a Corporação G (de Kazuya Mishima) estão buscando informações sobre um estudante chamado Shin Kamiya. Kasuya envia Ling Xiaoyu para descobrir informações sobre o estudante. Alisa Bosconovitch (enviada por Jin) tem a mesma missão.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>26/07/2011</date>
+</item>"
+"<item>
+
+<title>Tekken 2 - A Vingança de Kazuya [COLOR yellow][IMDb 2,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TKKN2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5825.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5825.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2014
+
+Um garoto que sofre amnésia tenta encontrar sua identidade e reencontrar sua antiga vida. Ele é sequestrado pela máfia, onde sofre uma transformação. Ele agora é um assassino de primeira.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>12/08/2014</date>
+</item>"
