@@ -1,0 +1,38 @@
+"<item>
+
+<title>Gato de Botas [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/GTDBTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2477.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2477.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Família, Fantasia, Comédia
+Lançamento: 2011
+
+Muito antes de conhecer o ogro Shrek e sua turma, Gato de Botas vai viver uma grande aventura ao lado de Humpty Dumpty e Kitty Pata Mansa. Dipostos a roubar os feijões mágicos do casal fora da lei Jack e Jill, o trio quer mesmo é botar as mãos na famosa gansa que bota ovos de ouro. Mas algumas coisas não estavam nos planos e Gato vai descobrir, meio atrasado, que tem um grande problema pela frente para conseguir limpar o que ficou para trás: a sua honra.</info>
+ 
+<genre>Ação, Aventura, Animação, Família, Fantasia, Comédia</genre>
+ 
+<date>28/10/2011</date>
+</item>"
+"<item>
+
+<title>O Gato de Botas: Os Três Diabos [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/GTDBTSOSTSDABLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2478.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2478.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2012
+
+O Gato de Botas está em uma missão para recuperar o rubi da Princesa, roubado pelo notório ladrão francês, O Sussurrador. Relutantemente acompanhado por três gatinhos, Gato deve domá-los antes que eles põem em perigo a missão.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>07/02/2012</date>
+</item>"
