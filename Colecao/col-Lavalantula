@@ -1,0 +1,38 @@
+"<item>
+
+<title>Lavalantula [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LAVNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3035.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3035.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica, Thriller
+Lançamento: 2015
+
+Tarântulas gigantes que respiram lava - Lavalantulas - emergem de antigos vulcões nas montanhas de Santa Monica, causando morte e destruição em Los Angeles. Com a Cidade dos Anjos à beira da incineração, apenas um ator de herói de ação desbotado dos anos 90 fica no caminho desse monstruoso enxame de criaturas sedentas de sangue que queimam suas vítimas vivas.</info>
+ 
+<genre>Terror, Ficção científica, Thriller</genre>
+ 
+<date>08/08/2015</date>
+</item>"
+"<item>
+
+<title>Lavalantula 2 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LAVNTL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3036.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3036.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica, Thriller
+Lançamento: 2017
+
+Steve Guttenberg repete seu papel como Colton West na sequencia de Lavalântula. Mais uma vez, gigantescas aranhas que vomitam lava estão soltas, desta vez na Flórida, onde a enteada de Colton esta passando suas férias escolares. Somente Colton e um grupo de companheiros, ex-co-estrelas da Academia de Polícia de Guttenberg (Michael Winslow e Marion Ramsey) podem detê-los. Mas será que eles serão capazes de derrotar a maior lavalântula de todas – a Gargantulântula?</info>
+ 
+<genre>Terror, Ficção científica, Thriller</genre>
+ 
+<date>11/07/2017</date>
+</item>"
