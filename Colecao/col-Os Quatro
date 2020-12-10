@@ -1,0 +1,57 @@
+"<item>
+
+<title>Os Quatro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSQTRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4681.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4681.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Crime
+Lançamento: 2012
+
+Na intenção de garantir a parada da circulação de moeda falsa na capital, um departamento do governo escolhe o seu melhor agente para se infiltrar na força especial rivial. Nesse processo, o detetive acaba descobrindo o real plano do falsificador, que é reinar sobre a capital. Tarefa com a qual ele conta com a a juda de um exército de mortos-vivos.</info>
+ 
+<genre>Ação, Drama, Crime</genre>
+ 
+<date>12/07/2012</date>
+</item>"
+"<item>
+
+<title>Os Quatro 2: Reino Sem Lei [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSQTRO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4682.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4682.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2013
+
+Quatro detetives, Sangue Frio, Emoção Zero, Mãos de Ferro e Usurpador de Almas, possuem habilidades únicas e são enviados para investigar um assassinato fora da cidade. Durante a investigação, eles por coincidência acabam encontrando um caso de doze anos atrás que não foi resolvido, envolvendo Emoção Zero. De repente, a investigação se torna pessoal e a confiança entre eles é abalada, ao mesmo tempo em que colocas suas vidas a postos para resolver o crime.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>05/12/2013</date>
+</item>"
+"<item>
+
+<title>Os Quatro 3: A Batalha Final [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSQTRO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4683.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4683.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime
+Lançamento: 2016
+
+A reputação dos quatro policiais sobrevive, mas desde a partida do Emotionless, houve mudanças na Divina Polícia. Os quatro Cold Blood, Iron Hands, Life Snatcher, resgatam Zhuge Zhengwo da fortaleza da montanha de An Yunshan, e depois com os exércitos Emperor e Di, eles atacam. Mas An Yunshan absorve seu poder, o que significa que os policiais e seus aliados agora enfrentam seu oponente mais letal ainda, um mestre de kung fu quase invencível que não vai parar até que ele tenha poder absoluto...</info>
+ 
+<genre>Ação, Crime</genre>
+ 
+<date>06/01/2016</date>
+</item>"
