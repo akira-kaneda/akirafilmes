@@ -1,0 +1,38 @@
+"<item>
+
+<title>Irmão Urso [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/IRMURS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2800.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2800.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família
+Lançamento: 2003
+
+Em busca de vingança por seu pai ter sido morto por um urso, o índio Kenai acaba sendo amaldiçoado pelos espíritos da floresta e é transformado em um urso. Obrigado a viver sob a nova pele, ele começa a ver a realidade sob a ótica dos animais. Logo faz amizade com outro urso, Koda, mas se vê em apuros quando seu próprio irmão começa a caçá-lo.</info>
+ 
+<genre>Aventura, Animação, Família</genre>
+ 
+<date>12/12/2003</date>
+</item>"
+"<item>
+
+<title>Irmão Urso 2 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/IRMURS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2801.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2801.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família
+Lançamento: 2006
+
+A primavera chegou e Kenai acordou de sua primeira hibernação com um apetite voraz. Ele e seu irmão mais novo, Koda, estão animadíssimos para cair na floresta e saborear os melhores frutos. Durante essa jornada, Nita, uma antiga amiga de infância de Kenai, reaparece. Crescida, Nita precisa se casar seguindo as tradições de sua tribo. Mas os Grandes Espíritos tem outros planos para ela e somente Kenai poderá ajudá-la.</info>
+ 
+<genre>Aventura, Animação, Família</genre>
+ 
+<date>13/09/2006</date>
+</item>"
