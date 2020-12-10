@@ -1,0 +1,57 @@
+"<item>
+
+<title>Ong-Bak: Guerreiro Sagrado [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ONGBK1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4525.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2004
+
+Uma valiosa estátua de Buda é roubada do templo de um vilarejo na Tailândia. Para recuperá-la e restabelecer a honra em sua terra natal, um lutador precisa enfrentar a gangue do chefão do crime na capital do país.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>17/10/2004</date>
+</item>"
+"<item>
+
+<title>Ong Bak 2: O Começo [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ONGBK2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4523.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4523.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 2008
+
+Um jovem, no período Ayutthaya, cresce entre os aldeões que preservam o legado da tradicional dança mascarada Khon. Ele se torna um paria quando considera que seu grupo não segue as tradições de seus antepassados. Mas, seguindo o conselho de um misterioso guru, ele começa a desenvolver um novo estilo de luta que mistura a força das artes marciais com a elegância da dança Khon.</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>04/12/2008</date>
+</item>"
+"<item>
+
+<title>Ong-Bak 3 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ONGBK3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4524.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4524.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, História
+Lançamento: 2010
+
+A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte. Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone. Através da meditação Tien está de volta em sua melhor forma para combater o mal.</info>
+ 
+<genre>Ação, Aventura, História</genre>
+ 
+<date>05/05/2010</date>
+</item>"
