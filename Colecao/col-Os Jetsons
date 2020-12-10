@@ -1,0 +1,38 @@
+"<item>
+
+<title>Os Jetsons e os Flintstones se Encontram [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSJTSNSEOSFLTSNSENCTRM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4652.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4652.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Ficção científica, Cinema TV
+Lançamento: 1987
+
+Elroy Jetson inventa uma máquina do tempo que o leva de volta aos tempos pré-históricos, onde ele conhece a família Flintstone.</info>
+ 
+<genre>Animação, Família, Ficção científica, Cinema TV</genre>
+ 
+<date>01/01/1987</date>
+</item>"
+"<item>
+
+<title>Os Jetsons - O Filme [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSJETNSOFLME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4653.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4653.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Ficção científica
+Lançamento: 1990
+
+Pela primeira vez, a família mais louca e divertida de todo o espaço vai viver uma aventura completa e emocionante. Quando George Jetson é promovido, ele se muda com toda família para um asteróide distante, cheio de surpresas e novos amigos. Você vai conhecer um Shopping Center do futuro, vai rolar de rir com os jogos de basquete sem gravidade e descobrir que os Grungies, habitantes do asteróide, já sabem como usar a tecnologia em causar danos à ecologia. O Jetsons – é uma incrível produção de 1990, baseado no desenho originais que se tornaram uma das séries de maior sucesso na televisão de todo o mundo.</info>
+ 
+<genre>Animação, Comédia, Família, Ficção científica</genre>
+ 
+<date>06/06/1990</date>
+</item>"
