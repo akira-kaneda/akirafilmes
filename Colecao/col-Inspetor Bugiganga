@@ -1,0 +1,38 @@
+"<item>
+
+<title>Inspetor Bugiganga [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INSPTRBGNGA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2768.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2768.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Família
+Lançamento: 1999
+
+Após uma tentativa de resgate atrapalhada, o ingênuo segurança John Brown (Matthew Broderick) tem seu corpo dividido em mil pedaços pelo perigoso dr. Claw (Rupert Everett). Vendo a oportunidade como uma chance de demonstrar sua nova criação, a dra. Brenda (Joely Fisher) reconstitui o corpo de John, tornando-o agora um robô. Nasce então o inspetor Bugiganga, que logo se torna a mais importante ferramenta de combate ao crime na cidade.</info>
+ 
+<genre>Ação, Aventura, Comédia, Família</genre>
+ 
+<date>23/07/1999</date>
+</item>"
+"<item>
+
+<title>Inspetor Bugiganga 2 [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INSPTRBGNGA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2769.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2769.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Família
+Lançamento: 2003
+
+As coisas parecem tranquilas em Riverton, mas tudo começa a dar errado para o Inspetor Bugiganga (French Stewart). Claw (Tony Martin) planeja uma fuga fantástica da prisão e um “Novo Crime do Século”. Enquanto isso, o prefeito da cidade revela um novo e melhorado G2 (Elaine Hendrix), uma super-robô de alta tecnologia. Nesta aventura, o Inspetor Bugiganga e sua nova parceira G2 junto com outros amigos, se unem para salvar o mundo.</info>
+ 
+<genre>Ação, Aventura, Comédia, Família</genre>
+ 
+<date>11/03/2003</date>
+</item>"
