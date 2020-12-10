@@ -1,0 +1,76 @@
+"<item>
+
+<title>Os Smurfs e a Flauta Mágica [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSMRFSEAFLTAMGCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4696.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4696.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família, Comédia, Fantasia
+Lançamento: 1983
+
+Um vilão pegou a flauta mágica dos Smurfs, um instrumento que faz as pessoas dançarem sem parar. Ele a usou para roubá-los. O Rei dos Smurfs manda um emissário para localizar o ladrão e recuperar a flauta.</info>
+ 
+<genre>Animação, Aventura, Família, Comédia, Fantasia</genre>
+ 
+<date>25/11/1983</date>
+</item>"
+"<item>
+
+<title>Os Smurfs [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OSMURFS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4694.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4694.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Comédia, Fantasia
+Lançamento: 2011
+
+O filme começa com Gargamel (Hank Azaria) finalmente encontrando a vila dos Smurfs. No desenho seu desejo era transformá-los em ouro; no filme, Gargamel quer capturar os Smurfs para tê-los como amuletos. Assustados, liderados pelo Smurf Desastrado, os pequeninos entram numa gruta proibida. Como é lua cheia, eles acabam transportados por um portal para o Central Park, em Nova York... Lá, Desastrado, Ranzinza, Smurfette, Gênio, Papai Smurf e Valente encontram refúgio com o casal vivido por Neil Patrick Harris e Jayma Mays.</info>
+ 
+<genre>Animação, Família, Aventura, Comédia, Fantasia</genre>
+ 
+<date>29/10/2011</date>
+</item>"
+"<item>
+
+<title>Os Smurfs 2 [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OSMURFS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4695.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4695.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Comédia, Animação
+Lançamento: 2013
+
+Gargamel (Hank Azaria) cria os Naughties Vexy (voz de Christina Ricci) e Hackus (J.B. Smoove) com a esperança de conseguir a essência dos Smurfs. Só um Smurf pode dar o que o feiticeiro quer, porém, e Smurfette conhece uma fórmula capaz de transformar um Naughty em um Smurf azul de verdade. Gargamel então rapta Smurfette e a leva a Paris onde ele é adorado por milhões como o maior mago do mundo e cabe aos outros Smurfs salvar sua companheira.</info>
+ 
+<genre>Fantasia, Família, Comédia, Animação</genre>
+ 
+<date>02/08/2013</date>
+</item>"
+"<item>
+
+<title>Os Smurfs e a Vila Perdida [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4697.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4697.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2017
+
+Smurfette (Demi Lovato) não está contente: ela começa a perceber que todos os homens do vilarejo dos Smurfs têm uma função precisa na comunidade, menos ela. Indignada, ela parte em busca de novas descobertas, e conhece uma Floresta Encantada, com diversas criaturas mágicas. Enquanto isso, o vilão Gargamel segue os seus passos.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>06/04/2017</date>
+</item>"
