@@ -1,0 +1,38 @@
+"<item>
+
+<title>Ip Man: Nasce uma Lenda [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/IPMANSCUMLND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2798.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2798.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, História
+Lançamento: 2010
+
+Em sua infância, Yip Man foi iniciado em Wing Chun sob a tutela do Mestre Chang Wah Shun (Sammo Hung Kam-Bo). Após a morte de Chan, Ip Man segue seu colega sênior Ng Chung So (Biao Yuen) como seu novo mentor ao lado de seu irmão Tin Ip Chi (Siu-Wong Fan) e sua amiga Lee Wai Mei (Rose Chan). Mais tarde, o adolescente Yip Man (Yu Hang) opta por deixar Foshan para prosseguir a educação em Hong Kong, onde ele encontra o seu terceiro professor Leung Bik (Yip Chun), um mestre de uma escola heterodoxa de Wing Chun que aprimora seus fundamentos e ensina novas técnicas para aumentar suas habilidades.</info>
+ 
+<genre>Drama, Ação, História</genre>
+ 
+<date>24/06/2010</date>
+</item>"
+"<item>
+
+<title>Ip Man: A Batalha Final [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/IPMANABTLHFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2797.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2797.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama
+Lançamento: 2013
+
+No pós-guerra, de Hong Kong, o lendário Wing Chun Ip Man mestre é relutantemente posta em ação mais uma vez, quando o que começa como simples desafios de rivais estilos de kung fu logo atraí-lo para o submundo escuro e perigoso das Tríades. Agora, para defender a vida e honra, ele não tem escolha a não ser lutar mais uma vez.</info>
+ 
+<genre>Ação, Drama</genre>
+ 
+<date>20/09/2013</date>
+</item>"
