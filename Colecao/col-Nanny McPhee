@@ -1,0 +1,38 @@
+"<item>
+
+<title>Nanny McPhee: A Babá Encantada [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/NCYEMBSCDSIMSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3558.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3558.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Família
+Lançamento: 2005
+
+Cedric Brown tem 7 filhos que podem ser consideradas as crianças mais malcriadas do planeta. A mãe deles morreu há um ano e a tia Adelaide, que ajuda Cedric complementando seu salário na funerária em que trabalha, ameaça cortar a pensão caso ele não se case dentro de um mês. Cedric não quer contar a verdade aos filhos, pois teme que caso se afunde em dívidas perca a guarda deles e não quer deixá-los preocupados. Porém, quando eles descobrem que em breve terão uma madrasta, pioram ainda mais de comportamento como protesto por achar que o pai não gosta mais deles. Após forçarem o pedido de demissão da 17ª babá, Cedric mais uma vez ouve a sugestão de que contrate a babá McPhee. O problema é que ele não tem a menor idéia de como encontrá-la. Até que, numa noite qualquer, ela de repente surge à porta da casa. Após aceitar o emprego, a babá McPhee fica decidida a pôr os garotos na linha, fazendo com que eles provem um pouco do seu próprio remédio.</info>
+ 
+<genre>Fantasia, Comédia, Família</genre>
+ 
+<date>21/10/2005</date>
+</item>"
+"<item>
+
+<title>Nanny McPhee 2: E as Lições Mágicas [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NANYMCPHEASLCESMGCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3557.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3557.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia, Família
+Lançamento: 2010
+
+Dessa vez, ela se encontra na fazenda de uma família onde a confusão corre solta entre crianças tempestuosas do campo e seus mimados primos da cidade. Lançando mão de tudo, desde uma motocicleta voadora a um porquinho que escala árvores, Nanny McPhee traz a tona a fórmula certa para ensinar cinco novas lições a seus protegidos.</info>
+ 
+<genre>Comédia, Fantasia, Família</genre>
+ 
+<date>20/08/2010</date>
+</item>"
