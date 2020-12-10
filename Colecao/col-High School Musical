@@ -1,0 +1,57 @@
+"<item>
+
+<title>High School Musical [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHSCHLMSCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2643.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2643.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música, Romance
+Lançamento: 2006
+
+Troy, o popular capitão do time de basquete, e a bela Gabriella, quebram todas as regras do East High Society quando resolvem fazer um teste secreto para cantar no evento de música da escola. Em busca dos seus sonhos, eles acabam vivendo um bonito romance durante os ensaios para o musical, e aprendem a importância do trabalho em equipe e de serem eles mesmos.</info>
+ 
+<genre>Comédia, Drama, Música, Romance</genre>
+ 
+<date>20/01/2006</date>
+</item>"
+"<item>
+
+<title>High School Musical 2 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHSCHLMSCL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2644.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2644.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família, Música, Romance, Cinema TV
+Lançamento: 2007
+
+Os Wildcats de East High estão prontos para as melhores férias de suas vidas. Troy fica empolgado ao ser convidado para trabalhar no Country Club, sem desconfiar que isso seja parte do plano de Sharpay de afastá-lo de Gabriella. E agora? Essa e outras perguntas serão respondidas na noite do show de talentos.</info>
+ 
+<genre>Comédia, Drama, Família, Música, Romance, Cinema TV</genre>
+ 
+<date>17/08/2007</date>
+</item>"
+"<item>
+
+<title>High School Musical 3: Ano da Formatura [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHSCHLMSCL3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2645.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2645.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família, Música, Romance
+Lançamento: 2008
+
+O dia da formatura está se aproximando para Troy, Gabriella, Sharpay, Chad, Ryan e Taylor e a ideia de que estão prestes a se separar faz com que eles pensem em fazer alguma coisa da qual eles irão se lembrar para sempre. Junto aos demais Wildcats, eles preparam um musical que reflete suas esperanças e medos sobre o futuro e suas inesquecíveis experiências de crescerem juntos.</info>
+ 
+<genre>Comédia, Drama, Família, Música, Romance</genre>
+ 
+<date>22/10/2008</date>
+</item>"
