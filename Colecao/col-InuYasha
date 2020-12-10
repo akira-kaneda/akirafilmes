@@ -1,0 +1,76 @@
+"<item>
+
+<title>InuYasha 3: A Espada Dominadora do Mundo [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INYSHFLM3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2779.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2779.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Fantasia, Aventura
+Lançamento: 2003
+
+O Grande Youkai Canino deixou duas das três espadas das presas para seus dois filhos, mas agora o poder malévolo da terceira espada foi despertado.</info>
+ 
+<genre>Animação, Fantasia, Aventura</genre>
+ 
+<date>20/12/2003</date>
+</item>"
+"<item>
+
+<title>InuYasha 2: O Castelo das Ilusões Dentro do Espelho [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INYSHFLM2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2778.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2778.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Aventura, Fantasia
+Lançamento: 2004
+
+Com seu maior inimigo supostamente derrotado, InuYasha e seus amigos retornam à rotina do dia-a-dia. Mas a paz é logo abalada pela chegada de um novo adversário.</info>
+ 
+<genre>Ação, Animação, Aventura, Fantasia</genre>
+ 
+<date>28/12/2004</date>
+</item>"
+"<item>
+
+<title>InuYasha 1: Sentimentos que Transcendem o Tempo [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INYSHFLM1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2777.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2777.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Aventura, Fantasia
+Lançamento: 2005
+
+A história é interessante,e conta com três novos personagens: Menomaru e suas ajudantes Hari e Ruri. Ela gira em torno do triângulo Kagome-Inuyasha-Kikyou. No entanto,os traços do filme estão bastante diferentes que os do mangá, fielmente seguido pelo anime-o que pode desagradar a muitos fãs. Já o design do Menomaru, este foi projetado pela própria Rumiko-sensei. A história conta os embates entre Inuyasha-Kagome e Menomaru por causa da insana busca deste por mais poderes.Fortalecimento, seqüestros,batalhas,perseguições e fraquezas permeiam todo este longa metragem.</info>
+ 
+<genre>Ação, Animação, Aventura, Fantasia</genre>
+ 
+<date>21/05/2005</date>
+</item>"
+"<item>
+
+<title>InuYasha 4: Fogo na Ilha Mística [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INYSHFLM4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2780.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2780.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Fantasia
+Lançamento: 2006
+
+Ai, um jovem meio-yōkai que escapou da Ilha Horai para tentar ajudar seu povo, retorna com uma ajuda promissora: InuYasha, Sesshomaru e Kikyo.</info>
+ 
+<genre>Animação, Aventura, Fantasia</genre>
+ 
+<date>01/11/2006</date>
+</item>"
