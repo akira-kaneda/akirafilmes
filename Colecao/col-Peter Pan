@@ -1,0 +1,95 @@
+"<item>
+
+<title>As Aventuras de Peter Pan [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PTRPN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601405.us.archive.org/13/items/974_20200914/979.jpg</image>
+<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/979.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Fantasia
+Lançamento: 1953
+
+Deixando o conforto e segurança de seus lares, Wendy, Miguel e João seguem Peter Pan para um mundo mágico onde a infância dura para sempre, a Terra do Nunca. Mas logo as crianças descobrem que precisarão confrontar o terrível Capitão Gancho, um maquiavélico pirata que quer se livrar de uma vez por todas de Peter.</info>
+ 
+<genre>Animação, Família, Aventura, Fantasia</genre>
+ 
+<date>10/04/1953</date>
+</item>"
+"<item>
+
+<title>Peter Pan [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PTRPN2003.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4902.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4902.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 2004
+
+Peter (Levi Miller) é um garoto de 12 anos que vive em um orfanato em Londres, no período da Segunda Guerra Mundial. Um dia, ele e várias crianças são sequestradas por piratas em um navio voador, que logo é perseguido por caças do exército britânico. O navio escapa e logo ruma para a Terra do Nunca, um lugar mágico e distante onde o capitão Barba Negra (Hugh Jackman) escraviza crianças e adultos para que encontrem pixum, uma pedra preciosa que concentra pó de fada. Em pleno garimpo, Peter conhece James Hook (Garreth Hedlund), que tem planos para fugir do local.</info>
+ 
+<genre>Aventura, Fantasia, Família</genre>
+ 
+<date>08/10/2004</date>
+</item>"
+"<item>
+
+<title>Em Busca da Terra do Nunca [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EMBSCDTRNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2126.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2126.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2005
+
+J.M. Barrie (Johnny Depp) é um bem-sucedido autor de peças teatrais, que apesar da fama que possui está enfrentando problemas com seu trabalho mais recente, que não foi bem recebido pelo público. Em busca de inspiração para uma nova peça, Barrie a encontra ao fazer sua caminhada diária pelos jardins Kensington, em Londres. É lá que ele conhece a família Davies, formada por Sylvia (Kate Winslet), que enviuvou recentemente, e seus quatro filhos. Barrie logo se torna amigo da família, ensinando às crianças alguns truques e criando histórias fantásticas para eles, envolvendo castelos, reis, piratas, vaqueiros e naufrágios. Inspirado por esta convivência, Barrie cria seu trabalho de maior sucesso: Peter Pan.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>04/02/2005</date>
+</item>"
+"<item>
+
+<title>Peter Pan [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PTRPN2015.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4903.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4903.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia
+Lançamento: 2015
+
+Peter (Levi Miller) é um garoto de 12 anos que vive em um orfanato em Londres, no período da Segunda Guerra Mundial. Um dia, ele e várias crianças são sequestradas por piratas em um navio voador, que logo é perseguido por caças do exército britânico. O navio escapa e logo ruma para a Terra do Nunca, um lugar mágico e distante onde o capitão Barba Negra (Hugh Jackman) escraviza crianças e adultos para que encontrem pixum, uma pedra preciosa que concentra pó de fada. Em pleno garimpo, Peter conhece James Hook (Garreth Hedlund), que tem planos para fugir do local.</info>
+ 
+<genre>Aventura, Família, Fantasia</genre>
+ 
+<date>08/10/2015</date>
+</item>"
+"<item>
+
+<title>Peter Pan - À Procura do Livro do Nunca [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PTRPNAPRCDLVRDNCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4904.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4904.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura
+Lançamento: 2018
+
+O terrível Capitão Gancho ataca mais uma vez e rouba o Livro do Nunca, um exemplar muito antigo que contém poderes mágicos, ele deseja usá-lo para despertar terríveis criaturas na Terra do Nunca e destruir Peter Pan e seus amigos. Agora, Peter precisa mais uma vez salvar seu lar, sendo que a única forma de realizar esta tarefa é cumprindo com a profecia escrita no poderoso livro.</info>
+ 
+<genre>Animação, Aventura</genre>
+ 
+<date>19/10/2018</date>
+</item>"
