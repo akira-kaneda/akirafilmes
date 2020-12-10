@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Exótico Hotel Marigold [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OEXTCHTLMRGLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3982.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3982.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia
+Lançamento: 2012
+
+Os aposentados Muriel (Maggie Smith), Douglas (Bill Nighy), Evelyn (Judi Dench), Graham (Tom Wilkinson) e mais três amigos decidem curtir a aposentadoria em lugar diferente e o destino é a Índia. Encantados com o exotismo do local e com imagens do recém restaurado Hotel Marigold, a trupe parte para lá sem pestanejar e são recebidos pelo jovem sonhador Sonny (Dev Patel). O único detalhe é que nada era muito bem como parecia ser, mas as experiências que eles irão viver mudarão para sempre o futuro de todos.</info>
+ 
+<genre>Drama, Comédia</genre>
+ 
+<date>25/05/2012</date>
+</item>"
+"<item>
+
+<title>O Exótico Hotel Marigold 2 [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OEXTCHTLMRGLD2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3983.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3983.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia
+Lançamento: 2015
+
+Sonny Kapoor (Dev Patel) tenta encontrar tempo para expandir os negócios enquanto se preprara para o casamento com Sunaina (Tena Desae). O Hotel Marigold tem lotação praticamente esgotada e ele precisa de uma nova propriedade para receber novos hóspedes.</info>
+ 
+<genre>Drama, Comédia</genre>
+ 
+<date>07/05/2015</date>
+</item>"
