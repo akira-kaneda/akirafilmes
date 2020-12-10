@@ -1,0 +1,38 @@
+"<item>
+
+<title>Zumbilândia [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBLND.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6480.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6480.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror
+Lançamento: 2009
+
+A população foi infectada com um vírus que faz com que as pessoas se transformem em zumbis. Poucos são os humanos não infectados, entre eles Columbus, que deseja voltar para sua cidade natal na esperança de encontrar seus pais ainda vivos. No caminho, Columbus encontra Tallahassee, que está indo para a Flórida para aniquilar zumbis, e pega carona. Ao parar em uma mercearia, a dupla encontra Wichita e Little Rock, que aparenta ter sido mordida por um zumbi, o que divide o grupo sobre o que fazer.</info>
+ 
+<genre>Comédia, Terror</genre>
+ 
+<date>08/10/2009</date>
+</item>"
+"<item>
+
+<title>Zumbilândia: Atire Duas Vezes [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBLNDATRDSVZ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6481.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6481.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Comédia
+Lançamento: 2019
+
+Os guerreiros pós-apocalípticos Tallahassee, Columbus, Wichita e Little Rock devem confiar ainda mais em sua inteligência. Agora, eles se encontram em uma batalha implacável contra zumbis mais inteligentes, rápidos e aparentemente indestrutíveis.</info>
+ 
+<genre>Terror, Ação, Comédia</genre>
+ 
+<date>24/10/2019</date>
+</item>"
