@@ -1,0 +1,38 @@
+"<item>
+
+<title>Os Esquenta Banco [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSESQNTBNCS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4624.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4624.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2006
+
+Após terem visto uns garotos malvados maltratando o filho de um amigo, Rob Schneider, David Spade e Jon Heder decidem formar um time de baseball para desafiar o melhor time de baseball mirim do estado.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>07/04/2006</date>
+</item>"
+"<item>
+
+<title>Os Esquenta-Banco 2 - Quebrando As Bolas [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSESQNTBNCS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4625.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4625.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2019
+
+Ben McGrath (Chris Klein) tinha potencial para liga principal jogando beisebol profissional, mas suas esperanças de jogar bola literalmente são esmagadas. Sem muita sorte, Ben começa outra partida pela redenção como novo advogado para Schmood & Associates. Seu chefe não-ortodoxo, Mel (Jon Lovitz), convence-o a treinar sua eclética equipe de softball cheia de desajustados e descoordenados. Juntos, eles terão espírito suficiente para encarar o jogo e ganhar tudo?</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>29/01/2019</date>
+</item>"
