@@ -1,0 +1,304 @@
+"<item>
+
+<title>Mad Max [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDMX01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3177.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica
+Lançamento: 1980
+
+Num futuro próximo, o combustível que alimenta os motores dos carros é também motivo para crimes perpretados por violentas gangues. Max é um jovem policial e junto com seus companheiros patrulha as estradas a fim de impedir a ação daqueles que insistem em perturbar a paz. A morte de um membro pelas mãos de Max dá início a uma série de crimes cruéis cometidos contra sua família e o melhor amigo. Assim, Max só tem uma escolha: vingança.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica</genre>
+ 
+<date>24/05/1980</date>
+</item>"
+"<item>
+
+<title>Mad Max: A Caçada Continua [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDMX02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3178.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3178.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica
+Lançamento: 1982
+
+No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max (Mel Gibson) resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica</genre>
+ 
+<date>05/04/1982</date>
+</item>"
+"<item>
+
+<title>Mad Max: Além da Cúpula do Trovão [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDMX03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3179.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3179.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1985
+
+Após a destruição da civilização surge Bartertown, uma cidade no deserto com regras primitivas e mortais que tem uma governante que deseja consolidar seu poder a qualquer preço. Até que lá chega Max, que é forçado a participar de uma luta e, por ter se recusado a matar seu oponente, acaba sendo banido no deserto. Até que um grupo de jovens selvagens o salvam e passam a considerá-lo um messias que os levará até uma nova terra.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>06/08/1985</date>
+</item>"
+"<item>
+
+<title>Max Steel: Perigo de Extinção [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELPRGODEXTCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3287.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3287.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2004
+
+</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>01/01/2004</date>
+</item>"
+"<item>
+
+<title>Max Steel: Contagem Regressiva [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELCNTGMRGSVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3285.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3285.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2005
+
+</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>01/01/2005</date>
+</item>"
+"<item>
+
+<title>Max Steel: O Domínio dos Elementos [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELODMNDSELMTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3286.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3286.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2005
+
+</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>01/01/2005</date>
+</item>"
+"<item>
+
+<title>Max Steel vs o Inimigo das Trevas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELVSOINMGDSTRVS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3281.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3281.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2007
+
+Steel descobre que Troy Winter, único membro do circuito de esportes radicais que ele não conseguiu derrotar, está trabalhando para Runter, que pretende roubar um meteorito que poderá dar a ele a capacidade de controlar o mundo.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>04/12/2007</date>
+</item>"
+"<item>
+
+<title>Max Steel: Bio Crisis [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELBIOCRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3284.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3284.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2008
+
+</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>01/01/2008</date>
+</item>"
+"<item>
+
+<title>Max Steel vs a Ameaça Mutante [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELVSAMCMTNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3279.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3279.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2009
+
+Max Steel vs a Ameaça Mutante é o 6º filme da coleção de filmes de Max Steel, cujo filme introduz ao herói um novo vilão: Toxzon e seu grupo de Toxóides que querem transformar a Terra em uma bomba tóxica.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>01/01/2009</date>
+</item>"
+"<item>
+
+<title>Max Steel vs a Legião Tóxica [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELVSALGAOTXCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3280.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3280.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2010
+
+Max e Cytro são mandados para o espaço para impedir que um cometa destrua metade da Terra, quando Max descobre que aquele cometa é o cometa Morfasos. Ao invés de Max detonar o cometa completo, ele decide destruir parte do cometa para desviá-lo.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>15/11/2010</date>
+</item>"
+"<item>
+
+<title>Max Steel: A Vingança de Makino  [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELAVNGDMKN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3282.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3282.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2011
+
+</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>01/01/2011</date>
+</item>"
+"<item>
+
+<title>Max Steel: Aliança Monstruosa [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MXSTELALNCMSTRSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3283.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3283.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2012
+
+</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>01/01/2012</date>
+</item>"
+"<item>
+
+<title>Mad Max: Estrada da Fúria [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MDMXESTDFUR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3180.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3180.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2015
+
+Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>14/05/2015</date>
+</item>"
+"<item>
+
+<title>Max: O Cão Herói [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MAX.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3288.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3288.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama
+Lançamento: 2016
+
+O cachorro Max trabalha junto aos soldados americanos no Afeganistão, ajudando a detectar regiões com minas terrestres. Quando seu dono morre, o animal se torna feroz e não mantém contato com mais ninguém. A situação se transforma quando Justin, irmão do soldado falecido, decide se aproximar de Max e criar uma grande amizade.</info>
+ 
+<genre>Aventura, Drama</genre>
+ 
+<date>14/01/2016</date>
+</item>"
+"<item>
+
+<title>Max Steel [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MXSTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3278.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3278.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2017
+
+O jovem Max McGrath (Ben Winchell) descobre que seu corpo pode gerar uma poderosa energia, e ele deve unir-se com o único ser capaz de conter esta energia: um misterioso extraterrestre tecno-orgânico chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos do seu passado.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>26/01/2017</date>
+</item>"
+"<item>
+
+<title>Max 2: Um Agente Animal [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MAX2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3275.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3275.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família
+Lançamento: 2017
+
+Max, o filme que conta a história de um cachorro que ajudou pessoas no Afeganistão vai ganhar uma continuação, desta vez é dirigido por Brian Levant (Beethoven - O Magnífico) a partir de um roteiro escrito por Steven Altiere (Norm e os Invencíveis). O segundo filme vai se passar na Casa Branca.</info>
+ 
+<genre>Família</genre>
+ 
+<date>12/05/2017</date>
+</item>"
