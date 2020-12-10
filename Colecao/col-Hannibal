@@ -1,0 +1,38 @@
+"<item>
+
+<title>Hannibal [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HNBL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2590.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2590.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller, Terror
+Lançamento: 2001
+
+Sete anos se passaram desde que Dr. Hannibal Lecter escapou da prisão. O brilhante mas perigosíssimo psiquiatra agora está solto pela Europa. Mason Verger se lembra bem do seu contato com Dr. Lecter, pois foi sua sexta vítima. Embora horrivelmente desfigurado, sobreviveu, e agora busca vingança. Verger percebe que, para encontrar Lecter, precisa despertar o interesse dele com uma isca: a agente do FBI Clarice Starling.</info>
+ 
+<genre>Crime, Drama, Thriller, Terror</genre>
+ 
+<date>08/02/2001</date>
+</item>"
+"<item>
+
+<title>Hannibal - A Origem do Mal [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HNBLAORGMDML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2591.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2591.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller, Terror
+Lançamento: 2007
+
+Depois de presenciar a violenta morte de seus pais no final da Segunda Guerra, o jovem Hannibal Lecter vai para a casa de seu tio em Paris. Ao chegar lá, ele descobre que seu tio também já faleceu, porém sua viúva tia o recebe em sua casa. Seu interesse pela ciência o ajuda a entrar para a escola de medicina, onde ele vai aprender tudo que precisa para poder se vingar dos responsáveis pela morte de sua família.</info>
+ 
+<genre>Crime, Drama, Thriller, Terror</genre>
+ 
+<date>06/02/2007</date>
+</item>"
