@@ -1,0 +1,38 @@
+"<item>
+
+<title>Inatividade Paranormal [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/INATVDADPRNRML1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2736.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2736.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror
+Lançamento: 2013
+
+Malcolm (Marlon Wayans) é um cara descolado, que mora sozinho, mas resolve chamar sua namorada Kisha (Essence Atkins) para dividir o lar de seus sonhos. Animado com a novidade, ele resolve registrar tudo com câmeras espalhadas pela casa, mas não imaginava que um hóspede fantasma começaria a aprontar, transformando a vida deles no mais louco dos pesadelos. Para se livrar do mal, eles recorrem a diversas saídas, entre elas chamar um médium (Nick Swardson), um padre exorcista (Cedric The Entertainer), uma dupla de caça-fantasmas e até uma gangue da pesada. Tudo o que eles querem é se livrar do espiríto maligno e voltar a transar em paz. Só que essa missão não será nada fácil.</info>
+ 
+<genre>Comédia, Terror</genre>
+ 
+<date>11/01/2013</date>
+</item>"
+"<item>
+
+<title>Inatividade Paranormal 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/INATVDADPRNRML2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2737.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2737.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror
+Lançamento: 2014
+
+Malcolm (Marlon Wayans) está tentando reiniciar a vida ao lado de outra mulher, Megan (Jaime Pressly), juntamente com os dois filhos dela, Becky (Ashley Rickards) e Wyatt (Steele Stebbins). Juntos, eles se mudam para uma nova casa. Ele, para variar, permanece com a mania de filmar tudo o que acontece à sua volta, com diversas câmeras. Entretanto, não demora muito para que Malcolm volte a ser afetado por acontecimentos sobrenaturais, especialmente quando inicia um caso com uma estranha boneca.</info>
+ 
+<genre>Comédia, Terror</genre>
+ 
+<date>23/04/2014</date>
+</item>"
