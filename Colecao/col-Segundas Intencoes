@@ -1,0 +1,38 @@
+"<item>
+
+<title>Segundas Intenções [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SGNSINTCOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5426.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5426.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1999
+
+Sem querer, Annette passa a ser objeto de um diabólico jogo sexual para os irmãos de criação Sebastian e Kathryn ao escrever um artigo na revista ""Seventeen"" sobre como pretende permanecer virgem até se casar. Porém, Sebastian recebe mais do que esperava quando tenta levar Annette para cama. A incursão do jovem faz parte de uma aposta que ele fez com a irmã manipuladora, que adora passar o tempo tentando arruinar a vida amorosa dos amigos.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>11/06/1999</date>
+</item>"
+"<item>
+
+<title>Segundas Intenções 2 [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SGNSINTCOS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5427.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5427.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2000
+
+Quando se muda para a mansão da nova família de seu pai, Sebastian Valmont percebe que sua meia irmã Kathryn é mais inescrupulosa que ele. Enquanto ela faz planos maquiavélicos, ele se apaixona por Danielle, filha da diretora da escola onde estuda.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>09/11/2000</date>
+</item>"
