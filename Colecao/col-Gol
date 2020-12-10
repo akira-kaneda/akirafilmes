@@ -1,0 +1,38 @@
+"<item>
+
+<title>Gol! - O Sonho Impossível [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GOLSNHOIMPSVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2512.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2512.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2006
+
+Santiago Muñez (Kuno Becker) é um jovem mexicano que possui um grande talento para o futebol e que sonha em se tornar um profissional. Mas morando em Barrios, a leste de Los Angeles, seu sonho é algo quase inalcançável. Até que um dia, uma série de eventos possibilitam que ele seja contratado para jogar no Newcastle United, time que disputa a Premier League, a 1ª divisão do campeonato inglês.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>12/05/2006</date>
+</item>"
+"<item>
+
+<title>Gol! 2 - Vivendo o Sonho [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GOL2VNDSNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2511.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2511.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2007
+
+Santiago Muñez (Kuno Becker) segue jogando no Newcastle United, onde se torna a estrela do time. Roz Harmison (Anna Friel), sua noiva, planeja o casamento deles, quando surge a oportunidade para que Santiago troque de clube, indo para o poderoso Real Madrid. Ele não pensa duas vezes e realiza a transferência, jogando ao lado de craques consagrados como David Beckham, Ronaldo, Raul e Roberto Carlos. Porém, a badalação em torno da equipe faz com que seu relacionamento com Roz seja abalado, especialmente quando Jordana Garcia (Leonor Varela) tenta seduzí-lo.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>09/02/2007</date>
+</item>"
