@@ -1,0 +1,57 @@
+"<item>
+
+<title>Olhos Famintos [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OLHSFAMTS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4508.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2001
+
+Ao voltarem para casa por uma estrada sem movimento, os irmãos Trish e Darry veem um vulto atirando o que parece ser um corpo embrulhado. Parando para investigar, eles descobrem centenas de corpos mutilados, pendurados embaixo de uma antiga igreja.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>09/11/2001</date>
+</item>"
+"<item>
+
+<title>Olhos Famintos 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OLHSFAMTS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4509.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2004
+
+Um ônibus escolar, repleto de jogadores de basquete, cheeleaders e técnicos, fica parado no meio de uma estrada deserta. Lá eles precisam confrontar um perigoso monstro, que ressurge a cada 23 anos. Ao mesmo tempo um fazendeiro e seu filho partem em busca do monstro, na intenção de destruí-lo de uma vez por todas.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>02/01/2004</date>
+</item>"
+"<item>
+
+<title>Olhos Famintos 3 [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OLHSFAMTS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4510.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4510.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2017
+
+Trish Jenner agora é uma mulher rica, bem sucedida e mãe de um filho. Mesmo após 23 anos, ela permanece com os traumas causados pela perseguição de uma criatura do mal, que acabou assassinando o seu irmão. Atormentada por pesadelos que sentenciam o seu filho ao mesmo destino trágico, ela se une a outros sobreviventes para dar um fim à sanguinária entidade.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>16/11/2017</date>
+</item>"
