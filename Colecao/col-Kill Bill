@@ -1,0 +1,38 @@
+"<item>
+
+<title>Kill Bill: Volume 1 [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/KLBILV1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2971.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2971.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime
+Lançamento: 2004
+
+A ex-assassina conhecida apenas como ""A Noiva"" acorda de um coma de quatro anos decidida a se vingar de Bill, seu ex-amante e chefe, que tentou matá-la no dia do casamento. Ela está motivada a acertar as contas com cada uma das pessoas envolvidas com a perda da filha, da festa de casamento e dos quatro anos da sua vida. Na jornada, ""A Noiva"" é submetida a dores físicas agoniantes ao enfrentar a inescrupulosa gangue de Bill, o Esquadrão Assassino de Víboras Mortais.</info>
+ 
+<genre>Ação, Crime</genre>
+ 
+<date>23/04/2004</date>
+</item>"
+"<item>
+
+<title>Kill Bill: Volume 2 [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/KLBILV2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2972.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2972.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2004
+
+Após ser traída por Bill e seu antigo grupo, a Noiva assassina fica à beira da morte por 4 anos. Após despertar do coma, ela vai atrás de cada um dos seus antigos companheiros para matá-los. Na segunda parte dessa busca por vingança, a noiva vai continuar sua procura por Bill, atacando os últimos dois sobreviventes do grupo: Budd e Elle Driver . O confronto com seu antigo mestre, e mandante da sua morte, vai revelar novas surpresas para a assassina.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>08/10/2004</date>
+</item>"
