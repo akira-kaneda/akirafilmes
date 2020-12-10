@@ -1,0 +1,95 @@
+"<item>
+
+<title>My Little Pony: Garotas de Equestria  [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MYLTPNYESQTRAGRIL1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3522.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3522.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia, Música
+Lançamento: 2013
+
+Para recuperar a coroa que foi roubada do Império Cristal, Twilight persegue o ladrão e acaba descobrindo um mundo paralelo. Lá, ela se transforma em uma adolescente e precisa frequentar a escola.</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia, Música</genre>
+ 
+<date>16/06/2013</date>
+</item>"
+"<item>
+
+<title>My Little Pony: Equestria Girls - Rainbow Rocks [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MYLTPNYESQTRAGRIL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3525.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Música
+Lançamento: 2014
+
+Music rules and rainbows rock as Twilight Sparkle and pals compete for the top spot in the Canterlot High ""Mane Event"" talent show. The girls must rock their way to the top, and outshine rival Adagio Dazzle and her band The Dazzlings, to restore harmony back to Canterlot High.</info>
+ 
+<genre>Família, Animação, Música</genre>
+ 
+<date>27/09/2014</date>
+</item>"
+"<item>
+
+<title>My Little Pony: Equestria Girls - Jogos da Amizade [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MYLTPNYESQTRAGRIL3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3524.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3524.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Música, Família
+Lançamento: 2016
+
+Canterlot High meets its rival school, Crystal Prep Academy, in a competition that’s a long-standing tradition – The Friendship Games. Sunset Shimmer is tasked with keeping magic out of the games to avoid the appearance of impropriety while she and her friends compete against Crystal Prep’s top students led by someone with an equal amount of interest in Equestrian magic – this world’s TWILIGHT SPARKLE.</info>
+ 
+<genre>Animação, Música, Família</genre>
+ 
+<date>31/03/2016</date>
+</item>"
+"<item>
+
+<title>My Little Pony: Equestria Girls - A Lenda de Everfree [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MYLTPNYESQTRAGRIL4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3523.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3523.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Música, Fantasia, Comédia
+Lançamento: 2016
+
+O Acampamento Everfree corre o risco de fechar e as Equestria Girls usam seus novos poderes para organizar uma festa para arrecadar fundos e salvar o acampamento.</info>
+ 
+<genre>Aventura, Animação, Música, Fantasia, Comédia</genre>
+ 
+<date>01/10/2016</date>
+</item>"
+"<item>
+
+<title>My Little Pony - O Filme [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3526.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3526.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Aventura, Animação, Família, Fantasia
+Lançamento: 2017
+
+Quando uma força obscura ameaça Ponyville e a Mane 6, os pequenos pôneis embarcar em uma viagem até o fim de Equestria para salvar sua amada casa. Lá eles conhecem novos amigos e passam por desafios perigosos ao longo do caminho.</info>
+ 
+<genre>Música, Aventura, Animação, Família, Fantasia</genre>
+ 
+<date>05/10/2017</date>
+</item>"
