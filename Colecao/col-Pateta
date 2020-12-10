@@ -1,0 +1,38 @@
+"<item>
+
+<title>Pateta - O Filme [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PATEAOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4820.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4820.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Animação, Família, Comédia, Aventura
+Lançamento: 1995
+
+Pateta e seu filho adolescente Max fazem uma viagem muito louca em direção a seu lugar favorito para uma pescaria. Enquanto Pateta luta com o conflito de gerações, Max enfrenta o pior dilema de sua vida: esconder de seu pai um segredo ou perder a garota de seus sonhos.</info>
+ 
+<genre>Romance, Animação, Família, Comédia, Aventura</genre>
+ 
+<date>07/04/1995</date>
+</item>"
+"<item>
+
+<title>Pateta 2 - Radicalmente Pateta [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PTETA2RDCLMTPTETA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4819.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4819.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 2016
+
+Max vai para a faculdade e para seu azar, seu pai perde o emprego e acaba indo parar no campus junto com o filho.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
+ 
+<date>07/03/2016</date>
+</item>"
