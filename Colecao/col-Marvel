@@ -321,44 +321,7 @@ Scott Lang lida com as consequências de suas escolhas tanto como super-herói q
  
 <date>05/07/2018</date>
 </item>"
-"<item>
 
-<title>Marvel Rising: Guerreiros Secretos [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MRVLRSNGGRSCRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3253.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3253.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Ação, Comédia, Ficção científica, Cinema TV, Aventura, Baseado em Quadrinho
-Lançamento: 2018
-
-Quando uma ameaça que ninguém poderia esperar tem impacto sobre o Universo Marvel, esse bando de adolescentes inexperientes não tem escolha a não ser se unir e provar ao mundo que às vezes a diferença entre um herói e um “desajustado” está apenas o nome.</info>
- 
-<genre>Animação, Ação, Comédia, Ficção científica, Cinema TV, Aventura, Baseado em Quadrinho</genre>
- 
-<date>30/09/2018</date>
-</item>"
-"<item>
-
-<title>Marvel Rising: Coração de Ferro [COLOR yellow][IMDb 4,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MRVLRSNGCRCAODFERO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3252.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3252.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Ficção científica, Ação, Baseado em Quadrinho
-Lançamento: 2019
-
-Enquanto tenta se ajustar à sua solitária e isolada rotina escolar, a jovem Riri Williams lida com a inteligência muito acima da média para alguém da sua idade. Quando a vilã Hala destrói o laboratório da sua escola e sequestra a sua melhor amiga, Riri encontra inspiração no seu herói favorito, Homem de Ferro, para virar a salvadora do dia.</info>
- 
-<genre>Animação, Ficção científica, Ação, Baseado em Quadrinho</genre>
- 
-<date>03/04/2019</date>
-</item>"
 "<item>
 
 <title>Vingadores: Ultimato [COLOR yellow][IMDb 8,4][/COLOR]</title>
