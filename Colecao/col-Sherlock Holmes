@@ -1,0 +1,38 @@
+"<item>
+
+<title>Sherlock Holmes [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SHRLCKHLMS01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5519.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime, Mistério
+Lançamento: 2010
+
+O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>
+ 
+<genre>Ação, Aventura, Crime, Mistério</genre>
+ 
+<date>08/08/2010</date>
+</item>"
+"<item>
+
+<title>Sherlock Holmes: O Jogo de Sombras [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SHRLCKHLMS02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5520.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5520.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Crime, Mistério
+Lançamento: 2012
+
+Há um novo mentor criminoso em geral e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
+ 
+<genre>Aventura, Ação, Crime, Mistério</genre>
+ 
+<date>13/01/2012</date>
+</item>"
