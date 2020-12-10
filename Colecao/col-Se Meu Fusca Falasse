@@ -1,0 +1,38 @@
+"<item>
+
+<title>Se Meu Fusca Falasse [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SMEFSCFLSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5404.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5404.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia
+Lançamento: 1968
+
+Herbie, um Fusca com personalidade própria, desprezado por um mau caráter que dono de uma agência de automóveis de luxo e piloto de corridas. Mas o Fusca acolhido por um piloto boa praça (Dean Jones) e, em gratidão, o pequeno carro lhe dá diversas vitórias, acabando com a maré de azar do piloto, que inicialmente não entende que foi o fusquinha quem ganhou as corridas. Porém, ele aos poucos entende que o carrinho o principal responsável pelas vitórias e decide correr sempre com ele. Mas ambos terão que lutar contra um rico rival, que usa toda a espécie de golpes sujos para derrotá-los.</info>
+ 
+<genre>Comédia, Família, Fantasia</genre>
+ 
+<date>23/12/1968</date>
+</item>"
+"<item>
+
+<title>Herbie: Meu Fusca Turbinado [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HRBMEFSCTRB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2627.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2627.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Aventura, Fantasia, Romance
+Lançamento: 2005
+
+Maggie Payton (Lindsay Lohan) é uma jovem que faz parte de uma família de pilotos na Nascar e que adora competir, mas foi proibida de correr por Ray (Michael Keaton), seu pai superprotetor. Por causa desta proibição, Maggie está prestes a iniciar uma carreira no canal ESPN. Querendo presentear a filha com um carro devido a sua formatura, Ray a leva a um ferro-velho para que ela escolha seu presente. Maggie inicialmente está em busca de um carro esportivo, mas um desgastado e enferrujado fusca da década de 60 chama sua atenção. Maggie o escolhe e, para sua surpresa, logo descobre que ele não é um carro comum. Com a ajuda de seus novos amigos Herbie logo fica mais rápido do que nunca, fazendo com que Maggie decida inscrevê-lo para competir na Nascar.</info>
+ 
+<genre>Comédia, Família, Aventura, Fantasia, Romance</genre>
+ 
+<date>15/07/2005</date>
+</item>"
