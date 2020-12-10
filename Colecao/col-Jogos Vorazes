@@ -1,0 +1,76 @@
+"<item>
+
+<title>Jogos Vorazes [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JGSVRZS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2874.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2874.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Fantasia
+Lançamento: 2012
+
+Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual - e mortal - entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen (Jennifer Lawrence) se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark (Josh Hutcherson), desafiando não só o sistema dominante, mas também a força dos outros oponentes.</info>
+ 
+<genre>Ficção científica, Aventura, Fantasia</genre>
+ 
+<date>23/03/2012</date>
+</item>"
+"<item>
+
+<title>Jogos Vorazes: Em Chamas [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JGSVRZSEMCHMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2877.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2877.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 2013
+
+Este é o segundo volume da trilogia Jogos Vorazes, baseada nos romances de Suzanne Collins. A saga relata a aventura de Katniss (Jennifer Lawrence), jovem escolhida para participar aos ""jogos vorazes"", espécie de reality show em que um adolescente de cada distrito de Panem, considerado como ""tributo"", deve lutar com os demais até que apenas um saia vivo. Neste segundo episódio da série, após a afronta de Katniss à organização dos jogos, ela deverá enfrentar a forte represália do governo local, lutando não apenas por sua vida, mas por toda a população de Panem.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>15/11/2013</date>
+</item>"
+"<item>
+
+<title>Jogos Vorazes: A Esperança - Parte 1 [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/JGSVRZSAESPRFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2876.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2876.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Thriller
+Lançamento: 2014
+
+Após ser resgatada do Massacre Quaternário pela resistência ao governo tirânico do presidente Snow (Donald Sutherland), Katniss Everdeen (Jennifer Lawrence) está abalada. Temerosa e sem confiança, ela agora vive no Distrito 13 ao lado da mãe (Paula Malcomson) e da irmã, Prim (Willow Shields). A presidente Alma Coin (Julianne Moore) e Plutarch Heavensbee (Philip Seymour Hoffman) querem que Katniss assuma o papel do tordo, o símbolo que a resistência precisa para mobilizar a população. Após uma certa relutância, Katniss aceita a proposta desde que a resistência se comprometa a resgatar Peeta Mellark (Josh Hutcherson) e os demais Vitoriosos, mantidos prisioneiros pela Capital.</info>
+ 
+<genre>Ficção científica, Aventura, Thriller</genre>
+ 
+<date>19/11/2014</date>
+</item>"
+"<item>
+
+<title>Jogos Vorazes: A Esperança - O Final [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/JGSVRZSAESPRFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2875.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2875.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2015
+
+Ainda se recuperando do choque de ver Peeta (Josh Hutcherson) contra si, Katniss Everdeen (Jennifer Lawrence) é enviada ao Distrito 2 pela presidente Coin (Julianne Moore). Lá ela ajuda a convencer os moradores locais a se rebelarem contra a Capital. Com todos os distritos unidos, tem início o ataque decisivo contra o presidente Snow (Donald Sutherland). Só que Katniss tem seus próprios planos para o combate e, para levá-los adiante, precisa da ajuda de Gale (Liam Hemsworth), Finnick (Sam Claflin), Cressida (Natalie Dormer), Pollux (Elder Henson) e do próprio Peeta, enviado para compôr sua equipe.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>19/11/2015</date>
+</item>"
