@@ -1,0 +1,38 @@
+"<item>
+
+<title>Ghost in the Shell: O Fantasma do Futuro [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OFNTSMADFUTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3996.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3996.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 1996
+
+Major Motoko Kusanagi, uma ciborgue do Setor de Segurança Pública 9, recebe a missão de capturar um hacker que está dominando a mente de humanos aperfeiçoados por computador. Mas ela acaba se envolvendo em uma trama de conspirações, que atinge interesses da alta cópula da política.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>19/07/1996</date>
+</item>"
+"<item>
+
+<title>A Vigilante do Amanhã: Ghost in the Shell [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVGLNTDAMNH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/665.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/665.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Thriller, Drama
+Lançamento: 2017
+
+Num mundo pós 2029, cérebros se fundem facilmente a computadores e a tecnologia está em todos os lugares. Motoko Kusanagi é uma ciborgue com experiência militar que comanda um esquadrão de elite especializado em combater crimes cibernéticos.</info>
+ 
+<genre>Ação, Ficção científica, Thriller, Drama</genre>
+ 
+<date>30/03/2017</date>
+</item>"
