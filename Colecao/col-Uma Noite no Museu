@@ -1,0 +1,57 @@
+"<item>
+
+<title>Uma Noite no Museu [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UNTNMSU1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6252.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6252.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Família, Fantasia
+Lançamento: 2006
+
+Larry Daley (Ben Stiller) é um homem de bom coração, que arranja um emprego como segurança noturno em um museu de história natural. Logo em seu 1º turno coisas estranhas começam a acontecer: esqueletos de dinossauros e estátuas de cera começam a ganhar vida. Em meio ao caos instalado no museu, a única pessoa que pode ajudá-lo é a estátua de cera de Theodore Roosevelt (Robin Williams), que, assim como os demais, também ganhou vida.</info>
+ 
+<genre>Ação, Aventura, Comédia, Família, Fantasia</genre>
+ 
+<date>20/10/2006</date>
+</item>"
+"<item>
+
+<title>Uma Noite no Museu 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UNTNMSU2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6253.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6253.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Comédia, Família
+Lançamento: 2009
+
+O guarda-noturno do Museu de História Natural Larry Daley é agora um empresário bem sucedido. Logo depois de descobrir que seus amigos do museu foram enviados para o Instituto Smithsonian, Larry recebe uma chamada de socorro de Jedediah, avisando que quatro dos maiores vilões da história estão planejando comandar o Smithsonian e em seguida o mundo. Larry junta forças com velhos e novos amigos para acabar com os planos do quarteto.</info>
+ 
+<genre>Aventura, Fantasia, Ação, Comédia, Família</genre>
+ 
+<date>22/05/2009</date>
+</item>"
+"<item>
+
+<title>Uma Noite no Museu 3: O Segredo da Tumba [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UNTNMSU3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6254.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6254.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Fantasia, Família
+Lançamento: 2014
+
+O segurança Larry Daley (Ben Stiller) segue com seu inusitado trabalho no Museu de História Natural de Nova York. Determinado dia, descobre que a peça que faz os objetos do museu ganharem vida está sofrendo um processo de danificação. Com isso, todos dos amigos de Larry correm o risco de não ganharem mais vida. Para tentar salvar a turma, ele vai para Londres pedir a orientação do faraó (Ben Kingsley) que está em exposição no museu local.</info>
+ 
+<genre>Aventura, Comédia, Fantasia, Família</genre>
+ 
+<date>17/12/2014</date>
+</item>"
