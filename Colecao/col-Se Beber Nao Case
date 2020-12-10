@@ -1,0 +1,57 @@
+"<item>
+
+<title>Se Beber, Não Case! [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SEBBRNCSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5398.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5398.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2009
+
+Dois dias antes de seu casamento, Doug e três amigos vão de carro até Las Vegas para uma louca e memorável despedida de solteiro. Quando os três padrinhos acordam na manhã seguinte, eles não conseguem se lembrar de nada e notam que Doug desapareceu. Com pouco tempo de sobra, os amigos tentam refazer a noite anterior e encontrar Doug para que possam levá-lo de volta a Los Angeles a tempo de chegar ao altar.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>21/08/2009</date>
+</item>"
+"<item>
+
+<title>Se Beber, Não Case! Parte II [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SEBBRNCSE2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5399.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5399.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2011
+
+Depois de uma farra inesquecível em Las Vegas, Phil (Bradley Cooper), Stu (Ed Helms), Alan (Zach Galifianakis) e Doug (Justin Bartha) seguiram com suas vidas. Mas o bom e velho Stu está disposto a se casar novamente, desta vez com Lauren (Jamie Chung), e o local escolhido para a cerimônia foi a exótica Tailândia. Entretanto, o que era para ser uma simples despedida de solteiro acabou se transformando em outra aventura muito louca, só que agora num país diferente, com suas proprias regras e a promessa de ser ""marcante"".</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>27/05/2011</date>
+</item>"
+"<item>
+
+<title>Se Beber, Não Case! Parte III [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SEBBRNCSE3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5400.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5400.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2013
+
+Alan (Zach Galifianakis) está deprimido devido à morte de seu pai. Preocupado com o cunhado, Doug (Justin Bartha) sugere que ele vá até um lugar chamado New Horizons, que pode torná-lo um novo homem. Alan apenas aceita a sugestão após Phil (Bradley Cooper) e Stu (Ed Helms) concordarem em levá-lo, juntamente com Doug. É o início de uma nova viagem do quarteto, que acaba sendo interrompida bruscamente pelos capangas de Marshall (John Goodman). O malfeitor está atrás de Chow (Ken Jeong), que lhe aplicou um golpe milionário, e acredita que os amigos ainda possuam contato com ele. Após sequestrar Doug, Marshall dá a Alan, Stu e Phil um prazo para que encontrem Chow e devolvam as barras de ouro por ele roubadas, caso contrário todos morrerão. O que o trio não esperava era que, para reencontrar Chow, teria que ir até Tijuana, no México, e também em Las Vegas.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>31/05/2013</date>
+</item>"
