@@ -1,0 +1,228 @@
+"<item>
+
+<title>X-Men: O Filme [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6432.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6432.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2000
+
+Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>18/08/2000</date>
+</item>"
+"<item>
+
+<title>X-Men 2 [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6433.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6433.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho
+Lançamento: 2003
+
+Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>27/04/2003</date>
+</item>"
+"<item>
+
+<title>X-Men: O Confronto Final [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN03.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6438.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6438.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho
+Lançamento: 2006
+
+A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>26/05/2006</date>
+</item>"
+"<item>
+
+<title>X-Men Origens: Wolverine [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN04.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6434.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6434.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>30/04/2009</date>
+</item>"
+"<item>
+
+<title>X-Men: Primeira Classe [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN05.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6439.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6439.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Baseado em Quadrinho
+Lançamento: 2011
+
+No início dos anos 1960, durante o auge da Guerra Fria, um mutante chamado Charles Xavier conhece um mutante chamado Erik Lehnsherr. Apesar de suas origens muito diferentes - Charles cresceu em uma família rica enquanto Erik perdeu seus pais em Auschwitz -, os dois se tornam grandes amigos. Enquanto o mundo oscila à beira de uma guerra nuclear, Charles e Erik unem forças com outros mutantes para salvar a humanidade. No entanto, um acontecimento separa os dois amigos.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>03/06/2011</date>
+</item>"
+"<item>
+
+<title>Wolverine: Imortal [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN06.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2013
+
+Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>26/07/2013</date>
+</item>"
+"<item>
+
+<title>X-Men: Dias de um Futuro Esquecido [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN07.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6436.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6436.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2014
+
+Convencido de que os mutantes são uma ameaça para a humanidade, o Dr. Bolivar Trask desenvolve os Sentinelas, gigantescos robôs, que os perseguem impiedosamente. Os poucos sobreviventes têm que viver escondidos. Entre eles está Wolverine, que viaja no tempo, rumo aos anos 1970, a fim de impedir que este futuro trágico para os mutantes se torne realidade.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>22/05/2014</date>
+</item>"
+"<item>
+
+<title>X-Men: Apocalipse [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMENAPCLPSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6435.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6435.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Fantasia, Baseado em Quadrinho
+Lançamento: 2016
+
+Apocalipse, o primeiro mutante de todos, consegue retornar à vida após milhares de anos. Agora, ele sai à procura de seguidores para dominar o mundo. Caberá aos X-Men se unirem para impedir os planos do vilão e evitar uma catástofre mundial.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>19/05/2016</date>
+</item>"
+"<item>
+
+<title>Logan [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOGN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3119.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3119.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Ficção científica, Baseado em Quadrinho
+Lançamento: 2017
+
+Em 2029, Logan ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23. Ao mesmo tempo em que se recusa a voltar à ativa, Logan é perseguido pelo mercenário Donald Pierce, interessado na menina.</info>
+ 
+<genre>Ação, Drama, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>02/03/2017</date>
+</item>"
+"<item>
+
+<title>Logan Noir [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOGNNOIR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3121.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3121.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Ficção científica, Baseado em Quadrinho
+Lançamento: 2017
+
+Filme em preto e branco. Em 2029, Logan ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23. Ao mesmo tempo em que se recusa a voltar à ativa, Logan é perseguido pelo mercenário Donald Pierce, interessado na menina.</info>
+ 
+<genre>Ação, Drama, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>02/03/2017</date>
+</item>"
+"<item>
+
+<title>X-Men: Fênix Negra [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/XMENFNXNGRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6437.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6437.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2019
+
+Ambientado em 1992, Charles Xavier (James McAvoy) está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey (Sophie Turner).</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>06/06/2019</date>
+</item>"
+"<item>
+
+<title>Os Novos Mutantes [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSNVSMTANTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5708.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5708.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Terror, Aventura, Baseado em Quadrinho
+Lançamento: 2020
+
+Cinco jovens mutantes descobrem o alcance de seus poderes e lidam com traumas do passado enquanto são mantidos presos contra a vontade num sinistro hospital.</info>
+ 
+<genre>Ação, Ficção científica, Terror, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>08/10/2020</date>
+</item>"
