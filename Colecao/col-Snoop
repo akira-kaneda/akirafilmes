@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Natal do Charlie Brown [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ONTLDCRLBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4213.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4213.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Cinema TV
+Lançamento: 1965
+
+Quando Charlie Brown reclama sobre o sentido materialista que as pessoas dão ao Natal, Lucy sugere que ele se torne o diretor de uma peça teatral. Charlie Brown aceita, mas o que deveria ser uma lição, acaba se tornando uma experiência frustrante. Agora, ele deverá pedir a ajuda de Linus para aprender o verdadeiro sentido do Natal.</info>
+ 
+<genre>Animação, Família, Comédia, Cinema TV</genre>
+ 
+<date>09/12/1965</date>
+</item>"
+"<item>
+
+<title>É Natal de Novo, Charlie Brown [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ENTLDNVCRLBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2076.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2076.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Cinema TV
+Lançamento: 1996
+
+É Natal novamente e a turma de Charlie Brown tem as preocupações típicas da data, seja em decorar seus papeis para a peça da escola, seja em ler um livro como lição de casa.</info>
+ 
+<genre>Animação, Cinema TV</genre>
+ 
+<date>23/01/1996</date>
+</item>"
