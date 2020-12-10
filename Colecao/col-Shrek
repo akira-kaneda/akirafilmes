@@ -1,0 +1,95 @@
+"<item>
+
+<title>Shrek [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SHREK01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5532.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5532.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Fantasia, Aventura
+Lançamento: 2001
+
+Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.</info>
+ 
+<genre>Animação, Família, Comédia, Fantasia, Aventura</genre>
+ 
+<date>22/06/2001</date>
+</item>"
+"<item>
+
+<title>Shrek 2 [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SHREK02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5533.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5533.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Fantasia, Aventura
+Lançamento: 2004
+
+Após se casar com a Princesa Fiona (Cameron Diaz), Shrek (Mike Myers) vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro (Eddie Murphy). Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe (Rupert Everett), a quem havia sido prometida, e enviam o Gato de Botas (Antonio Banderas) para separá-los.</info>
+ 
+<genre>Animação, Família, Comédia, Fantasia, Aventura</genre>
+ 
+<date>18/06/2004</date>
+</item>"
+"<item>
+
+<title>Shrek Terceiro [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SHREK03.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5535.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5535.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura, Animação, Comédia, Família
+Lançamento: 2007
+
+O rei Harold (John Cleese), pai de Fiona (Cameron Diaz), morre repentinamente. Com isto Shrek (Mike Myers) precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro (Eddie Murphy) e o Gato de Botas (Antonio Banderas), ele precisa encontrar alguém que possa substituí-lo no cargo de soberano do Reino de Tão, Tão Distante. O principal candidato é Artie (Justin Timberlake), um jovem desprezado por todos em sua escola, que é primo de Fiona.</info>
+ 
+<genre>Fantasia, Aventura, Animação, Comédia, Família</genre>
+ 
+<date>15/06/2007</date>
+</item>"
+"<item>
+
+<title>Shrek Para Sempre [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SHREKPRSMPR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5534.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5534.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Aventura, Fantasia, Animação, Família
+Lançamento: 2010
+
+Shrek (Mike Myers) está entediado. Sua antiga vida de aventuras foi substituída pela de pacato pai de família. Casado com Fiona (Cameron Diaz) e pai de três filhos, Shrek sente falta da adrenalina e da liberdade que tinha no passado. Para recuperá-los, ele firma um pacto com Rumpelstiltiskin (Walt Dohrm). Imediatamente Shrek é levado a uma versão alternativa do Reino de Tão, Tão Distante, onde Fiona é uma temível ogro e ele não é mais reconhecido pelo Burro (Eddie Murphy) e o Gato de Botas (Antonio Bandera), seus melhores amigos.</info>
+ 
+<genre>Comédia, Aventura, Fantasia, Animação, Família</genre>
+ 
+<date>29/10/2010</date>
+</item>"
+"<item>
+
+<title>Natal Shrektacular do Burro [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/NTLSHRKTCLRDBRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3588.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3588.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Drama, Comédia, Ficção científica, Família
+Lançamento: 2010
+
+As risadas do Burro vão encher os salões, nesta coletânea de Natal totalmente nova. Burro apresenta seu próprio show natalino, com seus amigos de Tão Tão Distante, neste alegre presente musical, com todos os enfeites da época! Entre no SHREKTACULAR espírito natalino, com as festivas canções, a engraçada Decoração do Burro e uma hilariante lareira virtual que é tão cômica, que está pegando fogo!</info>
+ 
+<genre>Fantasia, Animação, Drama, Comédia, Ficção científica, Família</genre>
+ 
+<date>07/12/2010</date>
+</item>"
