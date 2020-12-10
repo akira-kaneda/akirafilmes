@@ -1,0 +1,57 @@
+"<item>
+
+<title>Jumanji [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JUMNJ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2916.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2916.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 1996
+
+Quando duas crianças encontram e jogam um jogo de tabuleiro mágico, elas soltam um homem preso por décadas - e uma série de perigos que só podem ser detidos ao terminar o jogo.</info>
+ 
+<genre>Aventura, Fantasia, Família</genre>
+ 
+<date>29/03/1996</date>
+</item>"
+"<item>
+
+<title>Jumanji: Bem-Vindo à Selva [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/JMNJBMVNDASLV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2917.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2917.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Fantasia
+Lançamento: 2018
+
+Quatro adolescentes estão jogando um videogame cuja ação se passa numa floresta. Eles escolhem avatars para a aventura. Mas um evento inesperado faz com que os jogadores sejam transportados para dentro do universo fictício, transformando-se nos avatars escolhidos.</info>
+ 
+<genre>Ação, Aventura, Comédia, Fantasia</genre>
+ 
+<date>04/01/2018</date>
+</item>"
+"<item>
+
+<title>Jumanji: Próxima Fase [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/JMNJPRXMFASE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2918.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2918.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Fantasia
+Lançamento: 2020
+
+Tentado em revisitar o mundo de Jumanji, Spencer (Alex Wolff) decide consertar o jogo de videogame que permite que os jogadores sejam transportados ao local. Logo o quarteto formado por Smolder Bravestone (Dwayne Johnson), Moose Finbar (Kevin Hart), Shelly Oberon (Jack Black) e Ruby Roundhouse (Karen Gillan) ressurge, agora comandado por outras pessoas: os avôs de Spencer e Fridge (Danny DeVito e Danny Glover) assumem as personas de Bravestone e Finbar, enquanto o próprio Fridge (Ser'Darius Blain) agora está sob a pele de Oberon.</info>
+ 
+<genre>Aventura, Comédia, Fantasia</genre>
+ 
+<date>16/01/2020</date>
+</item>"
