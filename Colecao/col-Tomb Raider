@@ -1,0 +1,57 @@
+"<item>
+
+<title>Lara Croft: Tomb Raider [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LARCRFTTMBRDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3031.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3031.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Thriller
+Lançamento: 2001
+
+Lara Croft é uma aventureira que passa o dia a dia explorando impérios perdidos, descobrindo tesouros preciosos e punindo vilões em combates mortais. Mas, um antigo segredo de seu pai, um célebre arqueólogo desaparecido, está prestes a levar Lara a seu maior desafio: o Triângulo de Luz, uma relíquia lendária com o poder de alterar o tempo e o espaço. Ela precisa encontrar o Triângulo antes que caia nas mãos dos Illuminati, uma sociedade secreta que quer dominar o mundo.</info>
+ 
+<genre>Aventura, Fantasia, Ação, Thriller</genre>
+ 
+<date>11/06/2001</date>
+</item>"
+"<item>
+
+<title>Lara Croft: Tomb Raider - A Origem da Vida [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LARCRFTTMBRDRAORGMDVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3032.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3032.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Thriller
+Lançamento: 2003
+
+A arqueóloga Lara Croft precisa encontrar a Caixa de Pandora, famosa por conter em seu interior todos os males do mundo. O objeto está escondido em um local conhecido como Origem da Vida, localizado no continente africano. Porém em sua jornada, Croft terá que enfrentar o Dr. Jonathan Reiss, um cientista ganhador do Prêmio Nobel que também está atrás do objeto.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Thriller</genre>
+ 
+<date>21/07/2003</date>
+</item>"
+"<item>
+
+<title>Tomb Raider: A Origem [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TMBRDRORGM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5960.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5960.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia
+Lançamento: 2018
+
+Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu há sete anos. Com a esperança de resolver o mistério do desaparecimento de seu pai, Lara embarca em uma perigosa jornada para seu último destino conhecido: Um túmulo lendário em uma ilha mítica que pode estar em algum lugar ao largo da costa do Japão. As apostas não podiam ser maiores, pois Lara deve confiar em sua mente aguçada, fé cega e teimosia para se aventurar no desconhecido.</info>
+ 
+<genre>Ação, Aventura, Fantasia</genre>
+ 
+<date>15/03/2018</date>
+</item>"
