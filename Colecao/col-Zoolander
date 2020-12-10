@@ -1,0 +1,38 @@
+"<item>
+
+<title>Zoolander [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOLNDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6474.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6474.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2002
+
+Derek Zoolander (Ben Stiller) é um supermodelo egocêntrico em crise, já que perdeu recentemente o posto de número 1 na classificação dos modelos para seu rival Hansel (Owen Wilson). Deprimido, ele busca auxílio com Jacobim Mugatu (Will Ferrell), seu ""papa"" no mundo da moda, que tem outros planos para Zoolander. Juntamente com uma falsa agente da CIA, Mugatu realiza uma lavagem cerebral em Zoolander, a fim de transformá-lo em um assassino frio e burro ao seu dispor. O plano de Mugatu é enviar Zoolander para assassinar o Presidente da Malásia quando este estiver em sua visita a Nova York, pois com ele morto Mugaru poderá explorar o trabalho infantil no país, o que resultará em custos mais baixos para sua confecção de roupas. Até que Matilda Jeffries (Christine Taylor), uma jornalista da Time Magazine, desconfia dos planos de Mugaru e decide por evitar que Zoolander complete sua missão.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>11/01/2002</date>
+</item>"
+"<item>
+
+<title>Zoolander 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOLNDR2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6475.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6475.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2016
+
+Depois que uma série de celebridades é assassinada, a agente policial e ex-modelo de biquíni Valentina Valencia (Penélope Cruz) busca o ex-supermodelo Derek Zoolander (Ben Stiller) para ajudá-la a solucionar os casos. Porém, aposentado, assim como o ex-companheiro de passarela Hansel (Owen Wilson), ele está desaparecido – e se ressente por não ter mais contato com o filho, agora adolescente. Até que a convite de Alexanya Atoz (Kristen Wiig) dona da marca mais badalada da atualidade, eles acabam topando fazer um novo desfile. Mal sabem os desmiolados, no entanto, que tudo não passa de um plano maquiavélico comandado por Mugatu (Will Ferrell).</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>11/02/2016</date>
+</item>"
