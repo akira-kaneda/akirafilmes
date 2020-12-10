@@ -1,0 +1,38 @@
+"<item>
+
+<title>Pânico no Deserto [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PNCONDSRTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4773.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4773.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2005
+
+Tudo parecia prometer bastante diversão quando cinco jovens partem para um rave que tem tudo para ser a melhor festa da temporada. Porém,um deles carrega drogas e é forçado por uma das amigas a voltar para o hotel onde estavam. Lá chegando percebem que está tudo modificado e que o local parece abandonado. No meio do deserto, sem ter como se comunicarem com alguém ou sair dali, coisas misteriosas e assustadoras começam a acontecer. Eles estão numa região que funciona como uma espécie de ligação entre o mundo dos mortos e dos vivos. Agora eles estão isolados e apenas uma pessoa poderá ajudá-los a sair dessa. Esse suspense também tem doses certas de ação e terror.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>13/03/2005</date>
+</item>"
+"<item>
+
+<title>Pânico no Deserto 2 [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PNCONDSRTO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4774.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4774.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2008
+
+Um xerife e seu filho perseguem ladrões de cassino, apenas para descobrir que todos eles estão sendo perseguidos por outra coisa.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>01/05/2008</date>
+</item>"
