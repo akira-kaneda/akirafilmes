@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Mestre dos Jogos [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OMSTRDSJGS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4186.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4186.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação
+Lançamento: 2014
+
+O mundialmente famoso Mão Invencível, Ken, que poderia identificar não só os azulejos de Mahjong, mas também as cartas que o tornaram uma lenda, aposentou-se e agora voltou para sua cidade natal, Macau, onde é recebido pelos velhos companheiros. Um de seus principais amigos é Cool que é meio-irmão de Lionel um agente da Interpol que se infiltrou na máfia internacional do jogo; eles planejavam formar uma aliança com todas máfias do jogo ilegal do mundo.</info>
+ 
+<genre>Comédia, Ação</genre>
+ 
+<date>30/01/2014</date>
+</item>"
+"<item>
+
+<title>O Mestre dos Jogos 2 [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OMSTRDSJGS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4187.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4187.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2015
+
+Depois de frustrar os planos criminais de lavagem de dinheiro do sindicato internacional, Ken (Chow Yun Fat) está pronto para sentar e aproveitar a vida. Seu plano para uma existência calma chega a um impasse quando seu protegido, Vincent (Shawn Yue) se junta a Interpol e pede sua ajuda de seu mestre para poder prender o mentor real do sindicato, Sr. Aoi.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>25/10/2015</date>
+</item>"
