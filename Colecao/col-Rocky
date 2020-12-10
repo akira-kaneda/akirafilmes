@@ -1,0 +1,114 @@
+"<item>
+
+<title>Rocky: Um Lutador [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKY1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5291.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5291.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1977
+
+Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filadélfia, é arbitrariamente escolhido para lutar contra o campeão dos pesos pesados, Apollo Creed, quando o adversário do invicto lutador agendado para a luta é ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente começa um relacionamento com Adrian, a invisível irmã de Paulie, seu amigo empacotador de carne.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>06/01/1977</date>
+</item>"
+"<item>
+
+<title>Rocky II - A Revanche [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKY2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5286.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5286.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1979
+
+Após a luta contra Apollo Creed, Rocky promete à sua esposa largar os ringues. Mas os fãs de boxe insistem em uma revanche entre os dois pugilistas. Sem dinheiro, Rocky se vê obrigado a aceitar o desafio e recebe a benção da esposa para lutar. Agora o lutador deve se preparar para o combate do século e decide treinar intensamente, sonhando apenas em terminar a luta sem ser nocauteado pelo campeão.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>15/06/1979</date>
+</item>"
+"<item>
+
+<title>Rocky III: O Desafio Supremo [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKY3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5287.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5287.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1982
+
+Depois de ter sido derrotado pelo arrogante Clubber Lang, Rocky Balboa decide reconquistar o título de campeão de pesos pesados e se prepara para uma revanche. Para treinar, o lutador pede a ajuda de seu antigo adversário, Apollo Creed.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>28/05/1982</date>
+</item>"
+"<item>
+
+<title>Rocky IV [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKY4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5288.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5288.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1985
+
+Apollo (Carl Weathers) morre em uma luta com Drago (Dolph Lundgren), um invencível lutador russo. Assim, Rocky (Sylvester Stallone) decide ir até a União Soviética para enfrentá-lo e vingar o amigo.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>27/11/1985</date>
+</item>"
+"<item>
+
+<title>Rocky V [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKY5.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5289.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5289.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1990
+
+Na luta com Drago, o lutador russo, Rocky (Sylvester Stallone) acabou recebendo uma lesão permanente. Assim é forçado a se retirar do boxe e, para piorar as coisas, descobre que seu contador roubou sua fortuna. Sem dinheiro e não podendo voltar a lutar, ele começa a treinar um jovem (Tommy Morrison) que promete ser um grande lutador. Mas seu trabalhado não é terminado, pois um empresário atrai o jovem pugilista com um alto salário, mas mestre e aluno ainda vão se reencontrar como rivais.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>16/11/1990</date>
+</item>"
+"<item>
+
+<title>Rocky Balboa [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKYBLBOA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5290.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5290.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2007
+
+Rocky, aposentado há muito tempo, trabalha em um restaurante na Filadélfia e lamenta a perda de sua amada mulher, Adrian. Com saudade de seus dias de glória, ele pretende voltar ao ringue e aceita o desafio de lutar contra o atual campeão mundial dos pesos pesados, Mason ""the Line"" Dixon.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>09/02/2007</date>
+</item>"
