@@ -1,0 +1,39 @@
+
+"<item>
+
+<title>Porky's - A Casa do Amor e do Riso [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRKYACSDAMRDRSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5007.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5007.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1984
+
+No sul da Flórida, em 1954, Pee Wee (Dan Monahan), Billy (Mark Herrier), Tommy (Wyatt Knight) e Mickey (Roger Wilson) têm de enfrentar quatro dolorosos anos na Angel Beach High School. Mas as atividades escolares e esportivas estão em segundo plano, pois o principal interesse deles é sexo. Assim, a vida deles consiste principalmente em observar as garotas no chuveiro e transformar em um inferno a vida dos seus professores, mas são sempre perseguidos por Beulah Balbricker (Nancy Parsons), a professora de ginástica. Acabam indo ao Porky's, um misto de cabaré e bordel onde o dono (Chuck Mitchell) arrumará uma prostituta por um preço razoável. Mas Porky pega o dinheiro deles e os joga em um pântano. Nisso, os jovens prometem se vingar. Mas isto não é fácil, pois o xerife Wallace (Alex Karras) é irmão de Porky e só esquecendo suas diferenças pessoais (um deles é judeu, mas não é totalmente aceito) eles poderão derrotar Porky e sua gangue.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>13/04/1984</date>
+</item>"
+"<item>
+
+<title>Porky's Contra-Ataca [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PRKYCNTRATCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5006.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5006.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1985
+
+Na escola secundária Angel Beach, Beulah Balbricker (Nancy Parsons) continua rígida na sua forma de encarar disciplina. Ao flagrar alguns alunos vendo um filme pornográfico, sugere que eles sejam expulsos (e assim não se formarão), se o responsável pela fita não se acusar. Mas o maior problema é ajudar o treinador (Bill Hindman), que está sendo chantageado por Porky (Chuck Mitchell), que reabriu seu misto de prostíbulo, cabaré e cassino em uma antiga barcaça do Mississipi. Foi lá que o treinador perdeu muito dinheiro e agora Porky quer que o time entregue a final do estadual de basquete.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>22/03/1985</date>
+</item>"
