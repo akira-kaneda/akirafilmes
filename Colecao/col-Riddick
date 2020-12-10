@@ -1,0 +1,57 @@
+"<item>
+
+<title>Eclipse Mortal [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ASCRNCDRDCKECLPSMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601405.us.archive.org/13/items/974_20200914/1001.jpg</image>
+<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/1001.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Ação
+Lançamento: 2000
+
+No futuro, as viagens interplanetárias são corriqueiras e o homem conhece boa parte do universo. Durante uma viagem tripulada por centenas de pessoas rumo ao planeta New Mecca, um acidente ocorre e a nave é obrigada a pousar num planeta desconhecido. De toda a tripulação, apenas seis pessoas sobrevivem à queda, que descobrem estar num planeta povoado por milhares de criaturas carnívoras, que hibernam nas cavernas locais, mas que irão caçar em céu aberto com a chegada do próximo eclipse. A única arma que eles têm contra os monstros é a claridade, mas mesmo assim o planeta não possui eletricidade e as baterias de seus trajes estão esgotando.</info>
+ 
+<genre>Thriller, Ficção científica, Ação</genre>
+ 
+<date>02/06/2000</date>
+</item>"
+"<item>
+
+<title>A Batalha de Riddick [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ABTLHDRDCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/136.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/136.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 2004
+
+Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick (Vin Diesel), um homem solitário que vive exilado e fugindo de seus perseguidores.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>23/07/2004</date>
+</item>"
+"<item>
+
+<title>Riddick 3 [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RDCK3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5257.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5257.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller
+Lançamento: 2013
+
+Riddick, o homem mais procurado da galáxia, foi abandonado à própria morte em um planeta habitado apenas por animais selvagens. Ele deseja retornar ao seu planeta natal, mas como não tem uma nave precisa encontrar um jeito de sobreviver neste ambiente inóspito. A situação muda quando dois grupos de mercenários chegam ao planeta separadamente, ambos com o objetivo de capturar Riddick. Conhecendo muito bem os perigos do local, Riddick passa a usá-los a seu favor na tentativa de conseguir uma das naves para si.</info>
+ 
+<genre>Ficção científica, Ação, Thriller</genre>
+ 
+<date>06/09/2013</date>
+</item>"
