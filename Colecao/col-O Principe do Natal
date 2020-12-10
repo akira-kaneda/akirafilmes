@@ -1,0 +1,58 @@
+"<item>
+
+<title>O Príncipe do Natal [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRNCPDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4309.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4309.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2017
+
+Uma jovem jornalista recebe um belo presente de Natal ao ser enviada para cobrir a história de um príncipe prestes a se tornar rei.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>17/11/2017</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal: O Casamento Real [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDNTLOCSMNTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4311.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4311.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2018
+
+Um ano após Amber ajudar Richard a conquistar a coroa, os dois estão prestes a se casar (no Natal), mas seus planos são ameaçados quando ela começa a ter dúvidas sobre ser ou não uma rainha, enquanto Richard enfrenta uma crise política que não só ameaça o período festivo mas o futuro do reino.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>30/11/2018</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal: O Bebê Real [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDNTLOBBREL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4310.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4310.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Família
+Lançamento: 2019
+
+Neste Natal, Aldovia vai ganhar um presente de especial: um bebê real. Mas, antes, a rainha Amber precisa desvendar um mistério para proteger a família e o reino.</info>
+ 
+<genre>Romance, Família</genre>
+ 
+<date>05/12/2019</date>
+</item>"
+
