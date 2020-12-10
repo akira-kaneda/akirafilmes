@@ -1,0 +1,57 @@
+"<item>
+
+<title>Super Monstros - Superamigos para Sempre [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SPRMNSTRSPRMGSPRSMPR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5706.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5706.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação
+Lançamento: 2019
+
+Na primeira noite de primavera, os Super Monstros se divertem no parque e conhecem seus novos amigos, os adoráveis monstros de estimação!</info>
+ 
+<genre>Fantasia, Animação</genre>
+ 
+<date>16/04/2019</date>
+</item>"
+"<item>
+
+<title>Super Monstros Salvam o Natal [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SPRMSNTSLVMONTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5704.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5704.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2019
+
+Na véspera do Natal, os Super Monstros unem forças para fazer as decorações, encontrar a rena desaparecida do Papai Noel e salvar o fim de ano!</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>26/11/2019</date>
+</item>"
+"<item>
+
+<title>Super Monstros Turma Nova [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SPRMNSTRSTRMNVA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5705.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5705.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2020
+
+Uma nova turma de monstrinhos chega à escola, e os Super Monstros aumentam ainda mais seus superpoderes na Sala Roxa!</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>01/08/2020</date>
+</item>"
