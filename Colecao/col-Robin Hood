@@ -1,0 +1,76 @@
+"<item>
+
+<title>Robin Hood – O Invencível [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RBNHODOINCRVL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5273.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5273.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, História
+Lançamento: 1961
+
+O Xerife de Nottingham planeja confiscar a propriedade do Senhor de Bawtry, um nobre que morreu na Cruzada. O Arcebispo de Canterbury, Hubert Walter, é contra este plano e o xerife planeja eliminá-lo. Robin Hood é convidado a realizar o assassinato do arcebispo para os conspiradores, liderados pelo Conde de Newark e Lord Melton, mas, ao perceber quem é o alvo pretendido, resolve ajudar o Arcebispo. Lady Marian também quer conhecer o Arcebispo para que ela possa conceder liberdade à família de um homem assassinado pelos homens do Xerife e ela também está ansiosa para encontrar Robin novamente, pois o conheceu quando achava que ele era um fora da lei comum, mas agora percebe que ele está do lado do bem.</info>
+ 
+<genre>Aventura, Drama, História</genre>
+ 
+<date>25/01/1961</date>
+</item>"
+"<item>
+
+<title>Robin Hood [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RBNHOD1973.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5270.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5270.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 1973
+
+Versão do clássico Robin Hood com animais silvestres. Robin Hood é um fora-da-lei que decide formar uma gangue na floresta de Sherwood para lutar contra as injustiças e tiranias do Príncipe João e do Xerife de Nottingham.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>08/11/1973</date>
+</item>"
+"<item>
+
+<title>Robin Hood [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RBNHOD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5271.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5271.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama
+Lançamento: 2010
+
+Robin Longstride (Russell Crowe) integra o exército do rei Ricardo Coração de Leão (Danny Huston), que está em plenas cruzadas. Após a morte do rei, ele consegue escapar juntamente com alguns companheiros. Em sua tentativa de fuga eles encontram Sir Robert Loxley (Douglas Hodge), que tinha por missão levar a coroa do rei a Londres. Loxley foi atacado por Godfrey (Mark Strong), um inglês que serve secretamente aos interesses do rei Filipe, da França. À beira da morte, Loxley pede a Robin que entregue a seu pai uma espada tradicional da família. Ele aceita a missão e, vestido como se fosse um cavaleiro real, parte para Londres. Após entregar a coroa ao príncipe João (Oscar Isaac), que é nomeado rei, Robin parte para Nottingham. Lá conhece Sir Walter (Max von Sydow) e Marion (Cate Blanchett), respectivamente pai e esposa de Loxley.</info>
+ 
+<genre>Ação, Aventura, Drama</genre>
+ 
+<date>14/05/2010</date>
+</item>"
+"<item>
+
+<title>Robin Hood: A Origem [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/RBNHODAORGM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5272.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5272.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 2018
+
+A origem da famosa lenda sobre o ladrão que rouba dos ricos para dar aos pobres é contada a partir de quando Robin Hood (Taron Egerton) volta das Cruzadas e surpreende-se ao encontrar a Floresta Sherwood infestada de criminosos. Ele não deixará que as coisas permaneçam desse jeito e contará com a ajuda de John (Jamie Foxx) e Marian (Eve Hewson) para trazer justiça à cidade.</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>21/11/2018</date>
+</item>"
