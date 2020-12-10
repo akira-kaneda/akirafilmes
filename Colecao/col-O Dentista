@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Dentista [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ODNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3907.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3907.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1996
+
+Depois de descobrir que sua esposa o trai, um dentista perde progressivamente o equilíbrio, passando a torturar seus pacientes e funcionários de sua clínica, com sua excessiva preocupação com limpeza.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>17/10/1996</date>
+</item>"
+"<item>
+
+<title>O Dentista 2 [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ODNTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3908.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3908.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 1998
+
+O dentista psicótico chega a uma nova cidade. E não demora para que estranhos e sanguinolentos crimes comecem a assolar a localidade.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>11/12/1998</date>
+</item>"
