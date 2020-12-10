@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Outro Lado do Céu [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OOUTRLDODCEU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4232.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4232.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Família
+Lançamento: 2001
+
+John Groberg (Christopher Gorham) é um jovem missionário que, nos anos 50, embarca em uma longa viagem juntamente com os nativos da ilha Tongan, deixando para trás a noiva e sua família. Ao longo de sua viagem ele escreve cartas para sua noiva, relatando suas aventuras para sobreviver em uma terra desconhecida. Ao mesmo tempo Groberg conhece a cultura local e faz amigos nos 3 anos que passa longe de casa.</info>
+ 
+<genre>Ação, Aventura, Drama, Família</genre>
+ 
+<date>12/04/2001</date>
+</item>"
+"<item>
+
+<title>O Outro Lado do Céu 2: Fogo da Fé [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OOUTRLDODCEU2FGDFE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4233.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4233.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Aventura
+Lançamento: 2019
+
+O missionário John H. Groberg (Christopher Gorham) retorna em 1960 ao Reino de Tonga com seus filhos e sua esposa. Quando seu sexto filho nasce com uma grave doença, sua família enfrenta um teste final de fé e encontram apoio na oração das pessoas da região. As barreiras religiosas são destruídas quando todos se unem pela única esperança de um milagre que salve o bebê.</info>
+ 
+<genre>Drama, Aventura</genre>
+ 
+<date>28/06/2019</date>
+</item>"
