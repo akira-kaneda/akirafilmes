@@ -1,0 +1,95 @@
+"<item>
+
+<title>Rambo: Programado Para Matar [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RMBO1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5177.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1982
+
+John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>06/11/1982</date>
+</item>"
+"<item>
+
+<title>Rambo II - A Missão [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RMBO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5173.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5173.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1985
+
+John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>21/05/1985</date>
+</item>"
+"<item>
+
+<title>Rambo III [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RMBO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5174.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5174.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1988
+
+O companheiro e superior de John Rambo no Vietna, o coronel Samuel Trautman, foi designado para liderar uma missão de ajuda aos rebeldes que lutam contra a invasao do Afeganistao pelos sovieticos. Durante, a missa, Trautman e capturado e torturado pelo comandante russo Zaysen. A tensao e aventura aumenta quando Rambo tem um plano de sair ele proprio e os aliados rebeldes numa tentativa corajosa de resgatar o amigo das maos do inimigo.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>24/05/1988</date>
+</item>"
+"<item>
+
+<title>Rambo IV [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RMBO4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5175.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5175.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2008
+
+John Rambo leva uma vida simples e solitária. Até que surgem dois missionários que desejam levar alimentos e remédios às pessoas afetadas pela guerra civil na fronteira com a Birmânia. Rambo aceita a proposta de levá-los pelo rio. Mas 10 dias depois os missionários foram capturados. Agora Rambo deve participar da operação de resgate.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>29/02/2008</date>
+</item>"
+"<item>
+
+<title>Rambo: Até o Fim [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RMBOATOFM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5176.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5176.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Drama
+Lançamento: 2019
+
+O tempo passou para Rambo, agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México.</info>
+ 
+<genre>Ação, Thriller, Drama</genre>
+ 
+<date>19/09/2019</date>
+</item>"
