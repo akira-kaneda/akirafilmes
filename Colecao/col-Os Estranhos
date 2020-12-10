@@ -1,0 +1,38 @@
+"<item>
+
+<title>Os Estranhos [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSESTNHS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4626.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4626.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Mistério
+Lançamento: 2008
+
+Kristen McKay (Liv Tyler) e James Hoyt (Scott Speedman) estão em plena viagem, rumo à remota casa de veraneio dos pais dele. Ao chegar eles apenas querem descansar um pouco, mas seu descanso é interrompido quando três estranhos mascarados invadem o local. Para piorar ainda mais a situação, os estranhos demonstram sentir prazer ao aterrorizá-los cada vez mais.</info>
+ 
+<genre>Thriller, Terror, Mistério</genre>
+ 
+<date>29/05/2008</date>
+</item>"
+"<item>
+
+<title>Os Estranhos: Caçada Noturna [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSESTNHSCACDNTRNA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4627.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4627.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2018
+
+Seguindo os acontecimentos do primeiro filme, uma nova família receberá a terrível visita de três psicopatas - que têm como único objetivo transformar suas vidas em um inferno na Terra.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>09/03/2018</date>
+</item>"
