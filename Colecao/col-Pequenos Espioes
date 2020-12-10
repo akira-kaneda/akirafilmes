@@ -1,0 +1,76 @@
+"<item>
+
+<title>Pequenos Espiões [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/PQNOSESPOS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4852.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4852.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Família, Aventura
+Lançamento: 2001
+
+Quando o famoso casal de espiões Gregorio (Antonio Banderas) e Ingrid Cortez (Carla Gugino) são sequestrados pelo maligno Fegan Floop (Alan Cumming), os dois filhos do casal Cortez, Carmen (Alexa Vega) e Juni (Daryl Sabara), são os únicos que têm conhecimento suficiente para resgatá-los. Deste modo, eles partem em sua primeira missão como espiões, justamente para resgatar seus próprios pais.</info>
+ 
+<genre>Ação, Comédia, Família, Aventura</genre>
+ 
+<date>18/03/2001</date>
+</item>"
+"<item>
+
+<title>Pequenos Espiões 2 - A Ilha dos Sonhos Perdidos [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/PQNOSESPOS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4853.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4853.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Família, Comédia
+Lançamento: 2002
+
+Quando o mundo está com problemas Carmen (Alexa Vega) e Juni (Daryl Sabara), os mais novos agentes secretos da história, são chamados à ação novamente. Agora eles precisam enfrentar o Dr. Romero (Steve Buscemi), um perigoso geneticista que vive em uma misteriosa ilha juntamente com as criaturas por ele criadas. Ao mesmo tempo Carmen e Juni precisam enfrentar jovens espiões rivais, Gary (Matthew O'Leary) e Gerti (Emily Osment), que elaboraram um plano para capturar todos os agentes da família Cortez, incluindo os avós da jovem dupla.</info>
+ 
+<genre>Ação, Aventura, Família, Comédia</genre>
+ 
+<date>07/08/2002</date>
+</item>"
+"<item>
+
+<title>Pequenos Espiões 3 - Game Over [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/PQNOSESPOS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4854.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4854.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Família, Ficção científica
+Lançamento: 2003
+
+Toymaker (Sylvester Stallone) é um criador de brinquedos que deseja dominar os jovens de todo o planeta. Para tanto ele cria um jogo de realidade virtual, que prende seus jogadores dentro dele e os obriga a enfrentar diversos e perigosos estágios. Um dos prisioneiros do novo jogo é Carmen (Alexa Vega), forçando seu irmão Juni (Daryl Sabara) a partir para salvá-la.</info>
+ 
+<genre>Ação, Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>25/07/2003</date>
+</item>"
+"<item>
+
+<title>Pequenos Espiões 4 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/PQNOSESPOS4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4855.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4855.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Comédia, Ação
+Lançamento: 2011
+
+Marisa Cortez Wilson (Jessica Alba) é casada com Wilbur (Joel McHale), um repórter conhecido por desmascarar espiões, e com ele tem um bebê e duas crianças, Rebecca (Rowan Blanchard) e Cecil (Mason Cook). O que o marido não sabe é que a esposa é uma ex-espiã, que decidiu largar a carreira para se dedicar à família. Precisando lidar com os dois filhos maiores, que não querem a mãe por perto, Marisa é forçada a retornar à antiga profissão quando surge Timekeeper (Jeremy Piven), um vilão com o poder de manipular o tempo.</info>
+ 
+<genre>Família, Comédia, Ação</genre>
+ 
+<date>19/08/2011</date>
+</item>"
