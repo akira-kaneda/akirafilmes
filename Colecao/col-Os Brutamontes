@@ -1,0 +1,38 @@
+"<item>
+
+<title>Os Brutamontes [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSBRTMNTS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4584.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4584.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2012
+
+Doug Glatt é a vergonha da família. Fã inveterado de hóquei sobre o gelo, ele sonha participar da liga amadora local enquanto vive a realidade trabalhando como segurança em um bar. Um dia ele consegue participar de um jogo e se destaca ao vencer uma das tradicionais lutas que ocorrem durante a partida. Acreditando em seu potencial, o técnico de uma equipe da liga resolve lhe dar uma chance. Apesar de não ter muita habilidade, Doug se destaca sempre que acontece uma luta. Ele logo se torna uma estrela, ovacionado pela torcida, do jeito como sempre sonhou. Até que, um dia, precisa enfrentar seu grande ídolo no esporte, Ross Rhea.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>24/02/2012</date>
+</item>"
+"<item>
+
+<title>Os Brutamontes 2: Último dos Executores [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSBRTMNTS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4585.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4585.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2017
+
+Ignorando os desejos de sua Mulher Eva, Doug Glatt vai para a pista de hockey, descobrindo um parceiro ideal para treinamento, um aposentando executor e arqui-rival, Ross “The Boss“. Eles vão juntos tentar fazer o que fazem de melhor, em sua última chance defender sua equipe.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>01/09/2017</date>
+</item>"
