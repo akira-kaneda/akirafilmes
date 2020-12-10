@@ -1,0 +1,57 @@
+"<item>
+
+<title>Padrinhos Mágicos, O Filme: Cresça Timmy Turner! [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSPDRNHMGCSCRSCTMYTNR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4673.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4673.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Cinema TV
+Lançamento: 2011
+
+A história vai girar em torno de Timmy que, ao contrário da série, não tem mais 10 anos – ele agora tem 23, mas ainda mora em casa e frequenta a 5ª série. De acordo com “As Regras”, toda criança que cresce deve perder seus padrinhos mágicos. Mas quando Tootie (Daniella Monet), menina que sempre teve uma queda por Timmy, retorna à cidade mais bonita e atraente, ele se vê apaixonado por ela. Agora, ele deve decidir se quer voltar a ser criança e ter seus padrinhos ou viver com a mulher que ama e perder Cosmo e Wanda para sempre.</info>
+ 
+<genre>Família, Fantasia, Cinema TV</genre>
+ 
+<date>09/07/2011</date>
+</item>"
+"<item>
+
+<title>O Natal dos Padrinhos Mágicos [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ONTLDPDRNHSMGCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4214.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4214.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia
+Lançamento: 2013
+
+Timmy Turner andou aprontando, e as crianças acabaram perdendo a fé em Papai Noel. Agora, com a ajuda dos padrinhos, ele terá que fazer o possível para salvar o Natal.</info>
+ 
+<genre>Família, Fantasia</genre>
+ 
+<date>12/11/2013</date>
+</item>"
+"<item>
+
+<title>Os Padrinhos Magicos no Paraiso [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSPDRNHMGCSNPRSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4672.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4672.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia, Cinema TV
+Lançamento: 2014
+
+Timmy que deveria cuidar de uma coisa muito importante para o mundo das fadas só que ele se descuida e perde, e ele tem que recuperar para o mundo das fadas não ser destruido.</info>
+ 
+<genre>Comédia, Família, Fantasia, Cinema TV</genre>
+ 
+<date>02/08/2014</date>
+</item>"
