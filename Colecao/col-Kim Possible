@@ -1,0 +1,57 @@
+"<item>
+
+<title>Kim Possible - Um Passeio Pelo Tempo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/KMPSBLEUMPSEIOPLTMPO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2976.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2976.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Ação, Aventura, Animação, Família
+Lançamento: 2003
+
+Em sua mais emocionante aventura, Kim Possible viajará ao longo dos anos, em uma verdadeira corrida contra o tempo.Quando Shego e seu cruel seguidor capturam o poderoso Macaco do Tempo e começam a modificar a História, um visitante vindo do futuro - Rufus 3000 - alerta Kim sobre os planos do vilão. Kim, seguida por seu companheiro inseparável Ron Stoppable e seu mascote Rufus, terá que vencer no presente e no passado para garantir o futuro do planeta.</info>
+ 
+<genre>Cinema TV, Ação, Aventura, Animação, Família</genre>
+ 
+<date>28/11/2003</date>
+</item>"
+"<item>
+
+<title>Kim Possible: O Drama do Amor [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/KMPSBLEODRMDAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2975.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2975.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Ação, Aventura, Animação, Drama, Família
+Lançamento: 2006
+
+O malvado Dr. Drakken planeja conquistar o mundo usando bonequinhos robôs distribuídos em redes de lanchonete. Além da luta contra o crime e as obrigações escolares e familiares,Kim ocupa boa parte de seu tempo com o novo namorado.</info>
+ 
+<genre>Cinema TV, Ação, Aventura, Animação, Drama, Família</genre>
+ 
+<date>11/05/2006</date>
+</item>"
+"<item>
+
+<title>Kim Possible [COLOR yellow][IMDb 3,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/KMPSBLE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2974.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2974.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Ação, Aventura, Comédia, Cinema TV
+Lançamento: 2019
+
+Kim Possible poderia ser só mais uma garota comum cursando o ensino médio, mas na verdade, o que ela gosta de mesmo de fazer é salvar o mundo das mãos de terríveis vilões. Para isso, Kim conta com a ajuda de seu melhor amigo do colégio, Ron Stoppable, seu animal de estimação, uma toupeira chamada Rufus e Wade, um super gênio do computador.</info>
+ 
+<genre>Família, Ação, Aventura, Comédia, Cinema TV</genre>
+ 
+<date>20/12/2019</date>
+</item>"
