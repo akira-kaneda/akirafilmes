@@ -1,0 +1,76 @@
+"<item>
+
+<title>O Bicho Vai Pegar [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OBCHVAPGR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3818.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3818.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Comédia
+Lançamento: 2006
+
+Boog (Martin Lawrence) é um urso pardo domesticado, que vive na pacata cidade de Timberline. Ele é a grande estrela dos shows ecológicos de sua cidade, sendo que à noite desfruta das acomodações da garagem de Beth (Debra Messing), uma guarda florestal que o criou desde que era filhote. Porém nem todos gostam de Boog. Shaw (Gary Sinise) é um deles, pois acredita que os animais estão conspirando contra os humanos. Em uma de suas caçadas ele traz à cidade Elliot (Ashton Kutcher), um cervo de um único chifre que ainda está vivo. Após vários pedidos, Boog decide ajudá-lo e solta Elliot. Querendo retribuir o favor, Elliot segue Boog até sua casa e decide libertá-lo de sua garagem, a qual considera como sendo seu cativeiro.</info>
+ 
+<genre>Animação, Família, Aventura, Comédia</genre>
+ 
+<date>29/09/2006</date>
+</item>"
+"<item>
+
+<title>O Bicho Vai Pegar 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OBCHVAPGR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3819.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3819.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2008
+
+Animais se juntam para salvar o Sr. Weenie, sequestrado por um grupo de bichos domesticados que quer devolvê-lo aos antigos donos.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>06/11/2008</date>
+</item>"
+"<item>
+
+<title>O Bicho Vai Pegar 3 [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OBCHVAPGR3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3820.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3820.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Comédia
+Lançamento: 2010
+
+Decepcionado com sua turma, que prefere cuidar das obrigações familiares a participar de sua viagem anual, Boog parte sozinho e acaba dentro de um picadeiro de circo. Ao trocar de lugar com um artista e se apaixonar por uma russa, ele aprende que talvez não seja preciso escolher entre a família e os amigos.</info>
+ 
+<genre>Aventura, Animação, Família, Comédia</genre>
+ 
+<date>25/01/2010</date>
+</item>"
+"<item>
+
+<title>O Bicho Vai Pegar 4 [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OBCHVAPGR4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3821.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3821.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Aventura
+Lançamento: 2015
+
+Elliot, Boog e todas as criaturas da sua floresta favorita estão de volta nesta nova comédia cheia de aventura. Quando um caso de confusão de identidade leva tanto os seres humanos quanto os animais acreditarem que existe um Lobisomem na Floresta, todos devem se unir para salvar suas vidas.</info>
+ 
+<genre>Animação, Comédia, Família, Aventura</genre>
+ 
+<date>18/12/2015</date>
+</item>"
