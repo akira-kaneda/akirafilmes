@@ -1,0 +1,76 @@
+"<item>
+
+<title>Pânico [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PNC1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4758.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4758.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Terror, Mistério
+Lançamento: 1997
+
+Sidney Prescott (Neve Campbell) começa a desconfiar que a morte de dois estudantes está relacionada com o falecimento da sua mãe, há cerca de um ano. Enquanto isso, os jovens da pacata cidadezinha começam a receber ligações de um maníaco que faz perguntas sobre filmes de horror. Quem erra, morre. As perguntas seguem uma lógica que será desvendada numa grande festa escolar.</info>
+ 
+<genre>Crime, Terror, Mistério</genre>
+ 
+<date>31/01/1997</date>
+</item>"
+"<item>
+
+<title>Pânico 2 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PNC2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4759.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4759.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 1997
+
+Dois anos pós o massacre em Woodsboro, Sidney Prescott (Neve Campbell) e Randy Meeks estão tentando refazer suas vidas em uma nova cidade. Estudando no colégio de Windsor, eles vão lidar com uma nova onda de assassinatos quando o terrível psicopata retorna para assombrá-los nas vésperas do lançamento do filme baseado nos seus crimes.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>09/12/1997</date>
+</item>"
+"<item>
+
+<title>Pânico 3 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PNC3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4760.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4760.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2000
+
+Um novo filme da série, baseada nos assassinatos de Woodsboro, está sendo produzido e Sidney Prescott (Neve Campbell) percebe que não pode mais fugir de seu passado. Inspirado em vários filmes de terror, o assassino psicopata volta a atacar e desta vez todas as regras foram quebradas e tudo pode acontecer.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>03/02/2000</date>
+</item>"
+"<item>
+
+<title>Pânico 4 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PNC4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4761.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4761.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2011
+
+Faz muitos anos que o assassino ""Ghostface"" deixou um rastro mortal pela cidade de Woodsboro. A fim de superar o trauma desses terríveis acontecimentos, Sidney Prescott escreveu um livro de auto-ajuda. Ela retorna à Woodsboro para lançar seu livro e reencontra os velhos amigos Gale Weathers e o Xerife Dewey. No entanto, a chegada de Sidney também provoca o retorno de ""Ghostface"", colocando Sidney e todos que ama em perigo.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>11/04/2011</date>
+</item>"
