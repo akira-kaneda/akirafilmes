@@ -1,0 +1,76 @@
+"<item>
+
+<title>MIB: Homens de Preto [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MIBHMDPRT01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3373.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3373.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Ficção científica
+Lançamento: 1997
+
+Agência secreta governamental cuida de fiscalizar os alienígenas que já vivem na Terra, sendo que alguns são vigiados em tempo integral. James Edwards (Will Smith), um novato na organização, em parceria de K (Tommy Lee Jones), um veterano agente, tenta impedir um terrorista intergalático, que planeja assassinar dois representantes de galáxias opostas e destruir o planeta Terra.</info>
+ 
+<genre>Ação, Aventura, Comédia, Ficção científica</genre>
+ 
+<date>11/07/1997</date>
+</item>"
+"<item>
+
+<title>MIB: Homens de Preto II [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MIBHMDPRT02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3375.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3375.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Ficção científica
+Lançamento: 2002
+
+Com a Terra sendo ameaçada pela presença de Serleena (Lara Flynn Boyle), uma Kylothian cruel e monstruosa que está disfarçada como uma modelo terráquea, o agente J (Will Smith) resolve por pedir ajuda ao seu antigo companheiro K (Tommy Lee Jones), que teve sua memória apagada e agora trabalha nos Correios sob o nome de Kevin Brown. J precisa então restaurar a memória de K, para que possam combater juntos a ameaça.</info>
+ 
+<genre>Ação, Aventura, Comédia, Ficção científica</genre>
+ 
+<date>12/07/2002</date>
+</item>"
+"<item>
+
+<title>MIB: Homens de Preto III [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MIBHMDPRT03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3376.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3376.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Ficção científica
+Lançamento: 2012
+
+Um extraterrestre planeja voltar no tempo para assassinar o Agente K, mudando o curso da História e colocando a humanidade em risco. Para salvar não apenas a vida do parceiro, mas também o mundo, o Agente J também viaja ao passado para impedir o crime.</info>
+ 
+<genre>Ação, Comédia, Ficção científica</genre>
+ 
+<date>25/05/2012</date>
+</item>"
+"<item>
+
+<title>MIB: Homens de Preto - Internacional [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MIBHMDPRTINTER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3374.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3374.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica
+Lançamento: 2019
+
+Por décadas a agência Homens de Preto protegeu a Terra da escória do universo, mas agora precisa lidar com a maior das ameaças: um traidor, justo quando a agência torna-se internacional. É neste contexto que Em tenta se tornar agente, já que teve uma experiência extraterrestre quando jovem e não teve sua memória apagada. Quem irá auxiliá-la nesta jornada é o atrapalhado agente H.</info>
+ 
+<genre>Comédia, Ficção científica</genre>
+ 
+<date>14/06/2019</date>
+</item>"
