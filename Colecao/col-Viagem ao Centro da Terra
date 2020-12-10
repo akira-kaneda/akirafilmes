@@ -1,0 +1,38 @@
+"<item>
+
+<title>Viagem ao Centro da Terra: O Filme [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGMAOCNTRDTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6336.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6336.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Comédia, Família
+Lançamento: 2008
+
+Trevor Anderson (Brendan Fraser) é um cientista cujas teorias não são bem aceitas pela comunidade científica. Decidido a descobrir o que aconteceu com seu irmão Max (Jean Michel Paré), que simplesmente desapareceu, ele parte para a Islândia juntamente com seu sobrinho Sean (Josh Hutcherson) e a guia Hannah (Anita Briem). Entretanto em meio à expedição eles ficam presos em uma caverna e, na tentativa de deixar o local, alcançam o centro da Terra. Lá eles encontram um exótico e desconhecido mundo perdido.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Comédia, Família</genre>
+ 
+<date>11/07/2008</date>
+</item>"
+"<item>
+
+<title>Viagem 2: A Ilha Misteriosa [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGM2AILHMSTOSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6335.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6335.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 2012
+
+Sean capta uma mensagem codificada vinda de uma ilha misteriosa localizada em um ponto onde não deveria haver nada. Um lugar com formas de vida estranhas, montanhas de ouro, vulcões mortais e diversos segredos surpreendentes. Sem conseguir impedi-lo de ir, o novo padrasto de Sean parte com ele na viagem. Junto ao piloto do helicóptero e de sua linda e determinada filha, eles partem em busca da ilha para resgatar seu único habitante e escapar antes que ondas sísmicas levem a ilha para o fundo do oceano, enterrando seus tesouros para sempre.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>10/02/2012</date>
+</item>"
