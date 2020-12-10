@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Máskara [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OMSKR01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4155.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4155.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia, Crime, Fantasia
+Lançamento: 1994
+
+A vida do tímido e socialmente desajeitado bancário Stanley Ipkiss muda completamente quando ele encontra no mar uma máscara que possui o espírito do deus escandinavo Loki.</info>
+ 
+<genre>Romance, Comédia, Crime, Fantasia</genre>
+ 
+<date>23/12/1994</date>
+</item>"
+"<item>
+
+<title>O Filho do Máskara [COLOR yellow][IMDb 2,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OFLHODMSKRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4009.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4009.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Família, Aventura
+Lançamento: 2005
+
+Tim Avery (Jamie Kennedy) é um cartunista preocupado. Ele descobriu recentemente que seu filho Alvey possui habilidades incríveis, já que de alguma forma possui os poderes da Máscara de Loki, um objeto mitológico que transforma a pessoa que o usa. O problema é que o próprio Loki (Alan Cumming) deseja ter sua máscara de volta.</info>
+ 
+<genre>Fantasia, Comédia, Família, Aventura</genre>
+ 
+<date>18/02/2005</date>
+</item>"
