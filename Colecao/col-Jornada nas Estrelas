@@ -1,0 +1,190 @@
+"<item>
+
+<title>Jornada nas Estrelas: O Filme [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JORNDMSESTRLS01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2899.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2899.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Mistério
+Lançamento: 1980
+
+Um fenômeno alienígena de poder e tamanho descomunal se aproxima da Terra, destruindo tudo em seu caminho. A única nave que pode enfrentar esta força letal que ameaça a Terra é a U.S.S. Enterprise. O lendário comandante James T. Kirk (William Shatner) é convocado para a missão, mas um perigo não previsto pode destruir a U.S.S. Enterprise e toda a sua tripulação.</info>
+ 
+<genre>Ficção científica, Aventura, Mistério</genre>
+ 
+<date>18/01/1980</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas II: A Ira de Khan [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JORNDMSESTRLS02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2891.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2891.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Thriller
+Lançamento: 1982
+
+Sentido que o futuro em nada se parece com o passado que vivemos, o Almirante James T. Kirk começa a acreditar que cavalgar pelo cosmos é um jogo para os jovens. Até que numa viagem de rotina para inspecionar a U.S.S. Enterprise, a carreira de Kirk na Frota Estelar entra em um novo capítulo quando surge um antigo inimigo, Khan Noonien Singh, um conquistador do século 20 geneticamente alterado. Escapando de sua prisão, Khan planeja capturar o Projeto Genesis, um artefato que pode criar e destruir um planeta num piscar de olhos, e destruir seu velho ""amigo"", Kirk.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Thriller</genre>
+ 
+<date>10/09/1982</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas III: A procura de Spock [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2892.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2892.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1984
+
+Ainda sob o pesar do sacrifício final de Spock, a tripulação da U.S.S. Enterprise volta para a Terra do recém-nascido planeta Genesis. Mas nada vai ser fácil: Scott foi destacado para um outro posto; o Dr. McCoy parece estar vivendo um surto psicótico, e a Enterprise A será desativada.Quando Kirk recebe a visita de Sarek, pai de Spock, descobre que o falecido amigo pode ter a chance de ter uma segunda vida. E para isso, deve retornar a Genesis, onde enfrentará o maior dilema de sua carreira.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>05/10/1984</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas IV: A Volta para Casa [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2893.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2893.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura
+Lançamento: 1986
+
+Marcados como fugitivos pela própria Federação que juraram proteger, os tripulantes da Enterprise volta para a Terra para enfrentar a corte marcial por crimes cometidos ao salvar a vida de Spock. Em seu caminho, contudo, descobrem que o planeta está sendo devastado por uma gigantesca sonda alienígena, que exige uma resposta de uma forma de vida há muito extinta da Terra. Dentro da nave klingon capturada, Kirk e sua tripulação devem voltar no tempo para salvar a Terra e redescobrir o sentido da amizade.</info>
+ 
+<genre>Ficção científica, Aventura</genre>
+ 
+<date>13/12/1986</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas V: A Última Fronteira [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2894.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2894.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1989
+
+Data estelar: 8454.130. O capitão Kirk, que está de férias, tem que enfrentar dois desafios: escalar o El Capitan, no Yosemite, e ensinar cantigas de acampamento para Spock. Mas o lazer é bruscamente interrompido quando um vulcaniano renegado rapta a Enterprise e a leva para desvendar os mais profundos segredos do universo.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>06/10/1989</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas VI: A Terra Desconhecida [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK06.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2895.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2895.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1992
+
+Após a explosão da lua Praxis os klingons são obrigados a propor um acordo de paz, para garantir a sobrevivência de sua espécie. A tripulação da Enterprise é convocada a escoltar a missão diplomática klingoniana até o local a reunião, mas a nave klingon é atacada e o seu chanceler acaba sendo morto. E tudo indica que o ataque partiu justamente da Enterprise.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>07/02/1992</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas: Generations [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK07.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2896.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2896.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1995
+
+A viagem inaugural da terceira nave Enterprise está ameaçada pelo cientista louco Soren e apenas uma pessoa pode detê-lo, mas ela está morta há 78 anos.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>08/04/1995</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas: Primeiro Contato [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JORNDMSESTRLS08.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2900.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2900.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1997
+
+O capitão Jean-Luc e a tripulação da Enterprise embarcam em uma nova aventura, a qual é um confronto com os Borgs, criaturas meio orgânicas e meio máquinas que formam uma comunidade que possui um único objetivo: conquistar e assimilar todas as raças. Liderados por sua sedutora e sádica rainha, os Borgs seguem para a Terra com um plano demoníaco para alterar a história. O último encontro entre Picard e os Borgs quase o matou e agora ele quer vingança.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>21/02/1997</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas: Insurreição [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JRNDNESTRLINSRC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2897.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2897.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1999
+
+No planeta Ba'ku, com apenas 600 habitantes, uma estação arqueológica da Federação em conjunto com a raça So'na é atacada pelo tenente-comandante Data, enviado para observações. Mandado para investigar, Picard recebe a ordem de atacar o planeta, mas ele se rebela. O motivo do ataque: os So'na e a Federação querem a fonte da juventude que existe em Ba'ku.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>13/02/1999</date>
+</item>"
+"<item>
+
+<title>Jornada nas Estrelas: Nêmesis [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK10.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2898.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2898.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 2003
+
+O capitão Jean-Luc Picard e a tripulação da Enterprise são enviados em uma missão diplomática de paz rumo ao planeta Romulus. Lá eles precisam deter uma rebelião liderada por Shinzou que ameaça destruir a Terra, bem como enfrentar um perigoso clone do próprio capitão Picard.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>15/02/2003</date>
+</item>"
