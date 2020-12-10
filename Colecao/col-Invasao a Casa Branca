@@ -1,0 +1,38 @@
+"<item>
+
+<title>Invasão à Casa Branca [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INVSACSABRNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2782.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2782.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2013
+
+O Serviço Secreto dos Estados Unidos conta com a ajuda do ex-segurança particular e amigo pessoal do presidente para resgatar o chefe de Estado e sua família de terroristas coreanos, que os fizeram reféns e assumiram o controle da Casa Branca.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>28/06/2013</date>
+</item>"
+"<item>
+
+<title>Invasão ao Serviço Secreto [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INVSAOSRVSCRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2784.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2784.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2019
+
+Dedicado e sempre focado em seu trabalho, o agente do Serviço Secreto, Mike Banning vê sua vida mudar completamente da noite para o dia ao ser acusado de conspirar para o assassinato do presidente dos Estados Unidos. Quando percebe que todos estão atrás dele, Mike corre contra o tempo para descobrir o que realmente aconteceu enquanto foge de outros agentes.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>14/11/2019</date>
+</item>"
