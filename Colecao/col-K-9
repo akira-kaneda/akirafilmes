@@ -1,0 +1,76 @@
+"<item>
+
+<title>K-9 - Um Policial Bom pra Cachorro [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/K9-1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2944.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2944.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Crime
+Lançamento: 1989
+
+Michael Dooley (James Belushi) é um policial extravagante que necessita de alguma ajuda para lutar contra Lyman (Kevin Tighe), um traficante de drogas que tem tentado matá-lo. Um conhecido lhe dá Jerry Lee, um pastor alemão que foi treinado para cheirar drogas. Com sua ajuda Dooley espera colocar seu inimigo atrás das grades, mas Jerry Lee tem uma personalidade bem própria e trabalha apenas quando quer. Por sua vez, o cachorro é ótimo para destruir o carro, a casa e a vida sexual de Dooley. Além disto, Tracy (Mel Harris), a namorada de Michael Dooley, é seqüestrada por Lyman, que assim pretende deter Dooley, pois Lyman está prestes a entregar um carregamento de drogas que vale alguns milhões de dólares.</info>
+ 
+<genre>Ação, Comédia, Crime</genre>
+ 
+<date>28/04/1989</date>
+</item>"
+"<item>
+
+<title>K-911: Um Policial Bom Pra Cachorro 2 [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/K9-2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2945.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2945.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Crime, Mistério
+Lançamento: 1999
+
+Dooley e seu cachorro Jerry Lee ainda atuam como uma equipe policial do LAPD. No entanto, anos começando e contando o Capitão Roger Byers pensa que eles precisam urgentemente fazer algo com sua condição. Ele até os obriga a trabalhar com uma segunda equipe: a do jovem sargento Welles e seu disciplinado Dobermann Zeus. Dooley e Jerry Lee acham que podem trabalhar sem seus novos parceiros, mas um misterioso atirador afiado os força a uma cooperação definitiva</info>
+ 
+<genre>Ação, Comédia, Crime, Mistério</genre>
+ 
+<date>07/12/1999</date>
+</item>"
+"<item>
+
+<title>K-9: D.P.: Um Policial Bom pra Cachorro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/K9-3DP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2942.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2942.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Crime
+Lançamento: 2002
+
+Thomas Dooley (James Belushi) e o seu parceiro de quatro patas, Jerry Lee, regressam para combater o crime, nesta nova comédia recheada de acção. Faltam apenas algumas horas para uma afortunada reforma, quando Dooley se vê envolvido num assalto à mão armada a uma empresa de tecnologia informática. Subitamente ele passa a ser um suspeito, e a sua pensão é suspensa até que os verdadeiros criminosos sejam apanhados! Agora, Dooley e Jerry Lee vêem-se obrigados a tornarem-se detectives privados e a descobrir os verdadeiros criminosos. Trata-se de um caso desconcertante que envolve microprocessadores roubados, impostores e beldades perigosas.</info>
+ 
+<genre>Ação, Comédia, Crime</genre>
+ 
+<date>30/07/2002</date>
+</item>"
+"<item>
+
+<title>K-9: Um Conto de Natal [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/K-9UMCNTDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2943.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2943.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família
+Lançamento: 2013
+
+Kassie resgata um cão policial ferido e organiza um concerto em benefício de crianças carentes. Enquanto isso, dois vigaristas planejam roubar o dinheiro arrecadado, mas o cachorro vai fazer de tudo para evitar que isso aconteça.</info>
+ 
+<genre>Família</genre>
+ 
+<date>05/11/2013</date>
+</item>"
