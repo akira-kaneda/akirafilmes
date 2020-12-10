@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Ursinho Pooh [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OURSNHPOH.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4475.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4475.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2011
+
+A trama se baseia em cinco histórias curtas dos livros de A.A. Milne para formar uma só. Nela, Corujão envia a turma de Pooh – Tigrão, Abel, Leitão, Bisonho, Can & Guru – numa jornada para salvar Cristóvão de um bandido imaginário. O filme em animação tradicional terá sete novas canções escritas por Bobby Lopez e Kristen Lopez. She & Him, a banda da atriz Zooey Deschanel, canta a música-tema.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>14/07/2011</date>
+</item>"
+"<item>
+
+<title>Christopher Robin: Um Reencontro Inesquecível [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CHRSTPHRRBMUMRECNTRINSQCVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1520.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1520.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia
+Lançamento: 2018
+
+Christopher Robin já não é mais aquele jovem garoto que adorava embarcar em aventuras ao lado de Ursinho Pooh e outros adoráveis animais no Bosque dos 100 Acres. Agora um homem de negócios, ele cresceu e perdeu o rumo de sua vida, mas seus amigos de infância decidem entrar no mundo real para ajudá-lo a se lembrar que aquele amável e divertido menino ainda existe em algum lugar.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia</genre>
+ 
+<date>16/08/2018</date>
+</item>"
