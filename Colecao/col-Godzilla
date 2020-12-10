@@ -1,0 +1,114 @@
+"<item>
+
+<title>Godzilla [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GDZLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2505.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller
+Lançamento: 1998
+
+Uma enorme criatura, produto de uma explosão nuclear, dirige-se à ilha de Manhattan, provocando uma destruição profunda e assombrosa. Um cientista, um repórter de TV e um corretor de seguros francês unem suas forças com o exército dos Estados Unidos para desvendar o mistério que está por trás da impressionante criatura.</info>
+ 
+<genre>Ficção científica, Ação, Thriller</genre>
+ 
+<date>17/07/1998</date>
+</item>"
+"<item>
+
+<title>Godzilla [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/GDZLL2014.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2506.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2506.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Ficção científica
+Lançamento: 2014
+
+Joe Brody (Bryan Cranston) criou o filho sozinho após a morte da esposa (Juliette Binoche) em um acidente na usina nuclear em que ambos trabalhavam, no Japão. Ele nunca aceitou a catástrofe e quinze anos depois continua remoendo o acontecido, tentando encontrar alguma explicação. Ford Brody (Aaron Taylor-Johnson), agora adulto, é soldado do exército americano e precisa lutar desesperadamente para salvar a população mundial e em especial sua família do gigantesco, inabalável e incrivelmente assustador monstro Godzilla.</info>
+ 
+<genre>Ação, Drama, Ficção científica</genre>
+ 
+<date>16/05/2014</date>
+</item>"
+"<item>
+
+<title>Godzilla: Planeta dos Monstros [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GDZLPT1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2507.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2507.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Animação
+Lançamento: 2017
+
+No século XX, a humanidade soube da existência do Godzilla e, após diversas derrotas, fez um plano para sair da terra e habitar outro planeta. Porém, os cálculos estavam errados e após uma viagem de 20 anos, os humanos perceberam que o planeta escolhido não tinha condições para a vida. O protagonista da trama é Haruo, que viu seus pais serem mortos pelo Godzilla quando tinha 4 anos e agora só quer voltar para a Terra e derrotar o animal. Ao voltarem, no entanto, já se passaram 20.000 anos na Terra, que agora tem seu ecossistema controlado pelo Godzilla.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Animação</genre>
+ 
+<date>17/11/2017</date>
+</item>"
+"<item>
+
+<title>Godzilla: Cidade no Limiar da Batalha [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GDZLA2CDADNLMRDBTLH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2508.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ficção científica
+Lançamento: 2018
+
+Haruo e seus companheiros fazem contato com uma tribo indígena. Para derrotar Godzilla, o grupo parte rumo ao laboratório do Meca-Godzilla.</info>
+ 
+<genre>Animação, Ficção científica</genre>
+ 
+<date>18/05/2018</date>
+</item>"
+"<item>
+
+<title>Godzilla: O Devorador de Planetas [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/GDZLA3ODVRDRDPLNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2509.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Fantasia, Animação
+Lançamento: 2018
+
+Com o enfraquecimento da aliança com a Terra, Haruo considera se aliar aos Exifs, praticantes de um culto mortal que pode destruir o mundo.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Fantasia, Animação</genre>
+ 
+<date>03/11/2018</date>
+</item>"
+"<item>
+
+<title>Godzilla II: Rei dos Monstros [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2510.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2510.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação
+Lançamento: 2019
+
+Membros da agência Monarch enfrentam monstros gigantescos, incluindo o poderoso Godzilla, que entra em choque com Mothra, Rodan e seu maior inimigo, King Ghidorah, o monstro de três cabeças. Essas antigas superespécies disputam a supremacia, deixando a própria existência da humanidade em risco.</info>
+ 
+<genre>Ficção científica, Ação</genre>
+ 
+<date>30/05/2019</date>
+</item>"
