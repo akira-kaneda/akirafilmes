@@ -1,0 +1,114 @@
+"<item>
+
+<title>Os Novos Vingadores - Os Heróis do Amanhã [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSNVSVGDRSOSHRSDAMNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4667.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4667.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2008
+
+Sempre que as forças do mal ameaçaram a humanidade, os heróis mais poderosos da Terra, os Vingadores estavam lá para detê-los, até que em uma luta final foram derrotados pelo indestrutível robô Ultron. Mas nem tudo está perdido, Tony Stark (O Homem de Ferro) manteve os filhos dos Vingadores em segurança para se tornarem os heróis adolescentes. Agora, James (filho do Capitão América e da Viúva Negra) Torunn (filha de Thor), Azari (filho da Pantera Negra), e Pym (Filho da Vespa e do Homem Gigante) devem terminar a luta que seus pais começaram. Logo o filho de Hawkeye irá se juntar a eles. Mas será que cinco adolescentes serão suficientes para destruir a máquina que derrotou seus pais? Para esta nova batalha eles vão à procura de O Incrível Hulk que terá que se unir aos jovens e então formarem “Os Heróis do Futuro”.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>02/09/2008</date>
+</item>"
+"<item>
+
+<title>Os Vingadores: The Avengers [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSVGDRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4714.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4714.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2012
+
+Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>27/04/2012</date>
+</item>"
+"<item>
+
+<title>Vingadores Confidencial: Viúva Negra & Justiceiro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSVGNDSCNFDCLVIVNGREJSTCRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4713.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4713.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ficção científica, Ação
+Lançamento: 2014
+
+O Justiceiro é levado sob custódia para S.H.I.E.L.D. depois de ter interferido em uma missão secreta. Para se redimir, Nick Fury o envia para combater a organização Leviatã, que roubou uma tecnologia da agência e pretende vende-la, ao lado da Viúva Negra.</info>
+ 
+<genre>Animação, Ficção científica, Ação</genre>
+ 
+<date>30/10/2014</date>
+</item>"
+"<item>
+
+<title>Vingadores: Era de Ultron [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNGDRSEDURON.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6360.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6360.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Baseado em Quadrinho
+Lançamento: 2015
+
+Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>23/04/2015</date>
+</item>"
+"<item>
+
+<title>Vingadores: Guerra Infinita [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6361.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6361.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2018
+
+Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>26/04/2018</date>
+</item>"
+"<item>
+
+<title>Vingadores: Ultimato [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VNGDRSULTMTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6362.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6362.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação, Baseado em Quadrinho
+Lançamento: 2019
+
+Após os eventos devastadores de ""Vingadores: Guerra Infinita"", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
+ 
+<genre>Aventura, Ficção científica, Ação, Baseado em Quadrinho</genre>
+ 
+<date>25/04/2019</date>
+</item>"
