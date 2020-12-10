@@ -1,0 +1,38 @@
+"<item>
+
+<title>Mudança de Hábito [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MDNCDHBTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3492.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3492.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia
+Lançamento: 1992
+
+Em Reno, Nevada, Deloris Van Cartier (Whoopi Goldberg) é uma cantora que acidentalmente testemunha um brutal assassinato cometido pelo seu namorado, Vince LaRocca (Harvey Keitel), um gângster. Enquanto tentam capturar Vince, um detetive, Eddie Souther (Bill Nunn), é encarregado de protegê-la. Deloris é colocada no programa de proteção às testemunhas e é mandada para um convento em São Francisco disfarçada de freira, usando o nome de irmã Mary Clarence. Mas seu jeito extrovertido, que não é aprovado pela Madre Superiora (Maggie Smith), acaba fazendo ela dar uma nova vida ao coral, chamando a atenção das pessoas e de Vince.</info>
+ 
+<genre>Música, Comédia</genre>
+ 
+<date>28/05/1992</date>
+</item>"
+"<item>
+
+<title>Mudança de Hábito 2: Mais Loucuras no Convento [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MDNCDHBTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3493.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3493.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia
+Lançamento: 1993
+
+Deloris Van Cartier (Whoopi Goldberg) agora é uma cantora famosa e retorna a São Francisco para ajudar suas amigas freiras. Sua missão é dar aulas de música para adolescentes rebeldes que estudam em um colégio barra-pesada da vizinhança. Para piorar, o local corre o risco de ser fechado.</info>
+ 
+<genre>Música, Comédia</genre>
+ 
+<date>09/12/1993</date>
+</item>"
