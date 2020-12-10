@@ -1,0 +1,57 @@
+"<item>
+
+<title>Um Salão do Barulho 2 – Barbeiragem Total [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMSLAODBRLHO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6181.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6181.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2004
+
+Calvin continua mantendo a barbearia que herdou de seu pai e o legado que ele construiu. Mas a chegada de uma concorrente moderna acaba se tornando um problema, já que eles planejam ser mais que apenas um concorrente.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>20/01/2004</date>
+</item>"
+"<item>
+
+<title>Um Salão do Barulho [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://d$doregex[RC]/RCFServer1/ondemand/UMSLAODBRLHO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6180.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6180.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2005
+
+Atlanta. Gina Norris (Queen Latifah) é uma excelente cabeleireira que trabalha no salão do afetado Jorge (Kevin Bacon), que tem mais empáfia do que profissionalismo. Gina sempre sonhou ter seu salão. Um dia, após ser insultada por Jorge, que ainda ficou com o crédito do seu trabalho, ela decide que era hora de pedir demissão e transformar seu sonho em realidade. Gina abre seu salão de beleza com a ajuda de Lynn (Alicia Silverstone), uma ótima cabeleireira que nunca teve chance com o Jorge, que só permitia que ela lavasse os cabelos. Logo o salão da Gina vai ficando conhecido, no entanto quando ela começa a pegar as clientes de Jorge ele planeja se vingar. Mas ele não tem idéia do que Gina e as outras cabeleireiras são capazes de fazer.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>02/06/2005</date>
+</item>"
+"<item>
+
+<title>Um Salão do Barulho 3 [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMSLAODBRLHO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6182.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6182.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2016
+
+Dez anos se passaram após a última ida a barbearia de Calvin (Ice Cube). Seus amigos de longa data, como Eddie (Cedric the Entertainer) e J.D. (Anthony Anderson) continuam os mesmos. No entanto, uma onda de violência começa a tomar conta do bairro, fazendo com que os moradores se juntem novamente para salvar a comunidade.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>15/04/2016</date>
+</item>"
