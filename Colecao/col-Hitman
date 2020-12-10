@@ -1,0 +1,38 @@
+"<item>
+
+<title>Hitman: Assassino 47 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HTMNASO47.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2660.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2660.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2007
+
+Assassino profissional, conhecido como Agente 47, se envolve em uma perigosa conspiração política. Ele foge pela Europa oriental, com a esperança de descobrir quem o traiu, mas, antes, têm que fugir de militares russos e da Interpol.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>14/12/2007</date>
+</item>"
+"<item>
+
+<title>Hitman: Agente 47 [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HTMNAGT47.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2659.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2659.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2015
+
+Agente 47 é um assassino de elite geneticamente modificado criado para ser a máquina de matar perfeita. Ele precisa caçar uma mega operação que pretende usar o segredo de sua criação para a formação de um exército imbátivel. Ao juntar forças com uma misteriosa jovem, que pode ser o diferencial para o sucesso da missão, ele vai descobrir segredos de sua origem em uma batalha épica contra seu maior inimigo.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>27/08/2015</date>
+</item>"
