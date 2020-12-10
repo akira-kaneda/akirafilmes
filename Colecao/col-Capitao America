@@ -1,0 +1,95 @@
+"<item>
+
+<title>Capitão América [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CAPTAMRC1990.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1431.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1431.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Guerra
+Lançamento: 1991
+
+Durante a 2ª Guerra Mundial o americano Steve Rogers (Matt Salinger) se submete a uma experiência comandada por Therese Vaselli (Carla Cassola), uma cientista que fugiu da Itália por não aceitar os ""métodos"" utilizados. Steve se torna um super soldado, surgindo o Capitão América. Entretanto Vaselli é morta e o segredo de transformar um simples humano num soldado excepcional morre com ela, o que frustra o plano de criar vários super soldados. Ao se defrontar com o Caveira Vermelha (Scott Paulin), um hiper soldado criado pelos nazistas, o Capitão América é preso num foguete, que tem como alvo a Casa Branca. O herói desvia a trajetória, no entanto vai parar no Alasca, onde fica congelado. Nos anos 90 ele acorda e descobre que o Caveira é Tadzio de Santis, que quer seqüestrar o presidente Tom Kimball (Ronny Cox) e usar uma técnica revolucionária para tomar o lugar de Kimball e se tornar o novo presidente dos Estados Unidos.</info>
+ 
+<genre>Ação, Ficção científica, Guerra</genre>
+ 
+<date>05/07/1991</date>
+</item>"
+"<item>
+
+<title>Capitão América: O Primeiro Vingador [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CAPTAMRC1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1432.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1432.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2011
+
+Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>29/11/2011</date>
+</item>"
+"<item>
+
+<title>Capitão América 2: O Soldado Invernal [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CAPTAMRC2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1429.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1429.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2014
+
+Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>10/04/2014</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro e o Capitão América Super-Heróis Unidos [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HMEMDFROECPTAOMRCSPRHRSUNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2666.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2666.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Ação, Baseado em Quadrinho
+Lançamento: 2015
+
+O Homem de Ferro e o Capitão América lutam contra o Treinador e o Caveira Vermelha, a fim de impedir que eles destruam a Terra. Os super-heróis precisam colocar as diferenças de lado para enfrentar as ameaças que estes vilões representam.</info>
+ 
+<genre>Aventura, Animação, Ação, Baseado em Quadrinho</genre>
+ 
+<date>01/02/2015</date>
+</item>"
+"<item>
+
+<title>Capitão América: Guerra Civil [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CAPTAMRC3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1430.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1430.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 2016
+
+O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>05/05/2016</date>
+</item>"
