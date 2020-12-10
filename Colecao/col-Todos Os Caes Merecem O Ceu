@@ -1,0 +1,38 @@
+"<item>
+
+<title>Todos Os Cães Merecem O Céu [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TDOSCASMRCMOCEU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5949.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5949.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Animação, Família, Comédia, Fantasia
+Lançamento: 1989
+
+Essa animação conta a história de Charlie um cão pastor alemão que, após fugir da carrocinha, sai em busca de seu parceiro Malone. Com ele, Charlie pretende dividir os lucros dos golpes. Mas Malone não está disposto a repartir o dinheiro e arma uma cilada para o amigo. No paraíso, os anjos dizem a Charlie que ele somente poderá entrar no céu, quando realizar, na Terra, algumas boas ações.</info>
+ 
+<genre>Drama, Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>17/11/1989</date>
+</item>"
+"<item>
+
+<title>Todos os Cães Merecem o Céu 2 [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TDOSCASMRCMOCEU2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5950.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5950.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Animação, Família, Aventura, Fantasia
+Lançamento: 1996
+
+Prepare-se para muita alegria de abanar o rabo, pois os cãezinhos favoritos de todo o público espalham seu charme canino nesta adorável aventura musical para divertir toda a família. Com músicas inesquecíveis dos vencedores do Grammy, Barry Mann e Cynthia Weil (Fievel - Um Conto Americano), esta é uma vivida lenda de coragem, amor e amizade que garante ""patadas"" de diversão! Todos os cães merecem o céu... e alguns sortudos voltam à Terra. É isso que acontece quando o matreiro vira-lata Charlie Barkin (Charlie Sheen) e seus amigos Itchy (Dom DeLuise) e Sasha (Sheena Easton) recebem a missão de recuperar a trombeta de Gabriel após ela ter sido roubada do céu. Se esses peludos quiserem ter sucesso, Charlie terá que provar que é digno de suas asas vencendo dois malignos vilões em uma tresloucada corrida contra o tempo!</info>
+ 
+<genre>Romance, Animação, Família, Aventura, Fantasia</genre>
+ 
+<date>29/03/1996</date>
+</item>"
