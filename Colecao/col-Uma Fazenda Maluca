@@ -1,0 +1,38 @@
+"<item>
+
+<title>Uma Fazenda Maluca [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMFZNDMLCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6222.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6222.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia
+Lançamento: 2008
+
+Baseado em um clássico conto da literatura checa. Esta história fala sobre a amizade do relojoeiro Jemmy, um pequeno rapaz de uma vila que chega a Praga Medieval com sua cabra. Lá, Jemmy acaba se apaixonando por Katy, uma jovem de Praga. A cabra acaba ficando com ciúmes e passa a odiar Katy. A dupla, porém, tem como missão salvar o relógio Astronômico de Praga dos gananciosos vereadores que estão impedindo a criação de outros relógios.</info>
+ 
+<genre>Animação, Comédia</genre>
+ 
+<date>16/10/2008</date>
+</item>"
+"<item>
+
+<title>Uma Fazenda Maluca 2: Queijo de Cabra [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMFZNDMLCA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6223.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6223.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Música
+Lançamento: 2012
+
+O jovem Zuzanka, Honzik e Goat procuram os pais das crianças, que o diabo aparentemente sequestrou para puni-los por produzirem queijo de cabra diabolicamente bom. No entanto, as crianças encontram seus pais não no inferno, mas no castelo, onde devem fazer queijo para Kobyl, o conselheiro do rei. Kobyl ganhou as boas graças do rei graças ao queijo. Após uma aventura perigosa e cafona, Kobyl acaba no inferno e os membros da família se reencontram.</info>
+ 
+<genre>Animação, Família, Comédia, Música</genre>
+ 
+<date>25/10/2012</date>
+</item>"
