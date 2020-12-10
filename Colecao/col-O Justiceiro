@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Justiceiro [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OJSTC1989.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4131.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4131.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Baseado em Quadrinho
+Lançamento: 1989
+
+A polícia está em polvorosa devido a uma série de 125 assassinatos realizados. Decidido a acabar com a onda de crimes, Frank Castle (Dolph Lundgren) toma a dianteira e passa a investigar o caso. Castle é um ex-policial que está em busca de vingança desde que sua esposa e filho foram assassinados, tendo a partir de então se dedicado a combater o crime nas ruas por conta própria. Quando Castle acredita estar com a organização quase destruída, ele passa a enfrentar um novo grupo criminoso, que pretende ocupar o lugar vago.</info>
+ 
+<genre>Ação, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>05/10/1989</date>
+</item>"
+"<item>
+
+<title>O Justiceiro [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OJSTC2004.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4132.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4132.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Baseado em Quadrinho
+Lançamento: 2004
+
+Após ter sua esposa e filho assassinados, Frank Castle decidiu por dedicar sua vida a eliminar o crime das ruas da cidade em que vive. Para tanto Castle não apenas persegue os bandidos como também os elimina, usando para tanto sua experiência como agente secreto do FBI. Seu novo alvo é Howard Saint, um homem ligado ao submundo do crime que decide se vingar da sociedade após ter seu filho morto.</info>
+ 
+<genre>Ação, Crime, Drama, Baseado em Quadrinho</genre>
+ 
+<date>22/10/2004</date>
+</item>"
