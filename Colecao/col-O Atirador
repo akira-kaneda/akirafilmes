@@ -1,0 +1,133 @@
+"<item>
+
+<title>O Atirador [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDR1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3801.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3801.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Thriller
+Lançamento: 1993
+
+Um tiro uma morte. Essa é a regra existencial que o lendário franco atirador da marinha Tom Beckett segue, e pela qual muitos de seus alvos morreram, enquanto ele continua solitário em sua profissão. Sua última missão é eliminar o líder de um poderoso grupo rebelde e seu financista, um traficante colombiano, nas profundezas da hostil selva do Panamá.</info>
+ 
+<genre>Ação, Drama, Thriller</genre>
+ 
+<date>29/01/1993</date>
+</item>"
+"<item>
+
+<title>O Atirador 2 [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3802.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3802.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2002
+
+O sargento Thomas Beckett embarca em uma missão perigosa ao lado de um prisioneiro condenado à morte. Juntos, eles devem eliminar um general desajustado. Logo, Beckett descobre que está sendo usado pelo governo para uma missão muito maior.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>28/12/2002</date>
+</item>"
+"<item>
+
+<title>O Atirador 3 [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDR3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3803.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3803.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller
+Lançamento: 2004
+
+Especialista em eliminar traficantes de drogas e assassinos internacionais, o atirador de elite da marinha americana agora se vê frente a frente com o seu maior desafio: localizar e exterminar o seu melhor amigo. Terceiro filme com o personagem Thomas J. Beckett, feito por Tom Berenger.</info>
+ 
+<genre>Drama, Ação, Thriller</genre>
+ 
+<date>19/10/2004</date>
+</item>"
+"<item>
+
+<title>O Atirador 4 [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDR4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3804.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3804.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Thriller, Drama
+Lançamento: 2011
+
+Militar americano filho de renomado atirador é enviado ao Congo em guerra para resgatar fazendeiro branco. Ao chegar, sofre armadilha em que é ferido e seu esquadrão é dizimado. Só lhe resta lutar pela vida, ameaçada por um misterioso atirador.</info>
+ 
+<genre>Guerra, Ação, Thriller, Drama</genre>
+ 
+<date>26/04/2011</date>
+</item>"
+"<item>
+
+<title>O Atirador: Legado [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDRLGDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3806.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3806.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação
+Lançamento: 2014
+
+Brandon, filho do famoso atirador da marinha Thomas Beckett e seu mentor Capitão Miller, devem formar um esquadrão para localizar o atirador corrupto, veterano da guerra do Iraque que sofre de um transtorno estresse pós-traumático usando armamentos controlados a distância para assassinar militares e civis nos Estados Unidos e na América Central.</info>
+ 
+<genre>Thriller, Ação</genre>
+ 
+<date>30/09/2014</date>
+</item>"
+"<item>
+
+<title>O Atirador: Fantasma [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDRFNTSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3805.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3805.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra
+Lançamento: 2016
+
+Brandon Beckett e Richard Miller são dois atiradores de elite encarregados de proteger um oleoduto contra um ataque terrorista. A situação se complica e os dois soldados deverão usar toda a sua habilidade para salvar suas próprias vidas.</info>
+ 
+<genre>Ação, Drama, Guerra</genre>
+ 
+<date>02/08/2016</date>
+</item>"
+"<item>
+
+<title>O Atirador: O Extermínio Final [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDROEXTMFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3807.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3807.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Thriller
+Lançamento: 2017
+
+Um chefão do tráfico colombiano assume o controle das rotas para os EUA. Agora, cabe a um atirador de elite e a uma policial a missão de acabar com ele e seu cartel.</info>
+ 
+<genre>Ação, Drama, Thriller</genre>
+ 
+<date>14/11/2017</date>
+</item>"
