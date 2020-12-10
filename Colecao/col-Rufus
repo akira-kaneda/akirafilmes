@@ -1,0 +1,38 @@
+"<item>
+
+<title>Rufus [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RFUS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5319.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5319.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Cinema TV
+Lançamento: 2016
+
+Manny se mudou para uma nova escola, e não é fácil se encaixar. Depois de desejar ter mais amigos, Manny encontra uma coleira misteriosa e a coloca em Rufus, o cachorro da família. De repente, Rufus se transforma em um menino! Manny não tem certeza do que fazer, então ele matricula Rufus na escola. Quando os outros alunos notam as palhaçadas de cachorro de Rufus - perseguindo esquilos, comendo sem utensílios, pedindo para esfregar a barriga e pegando uma bola de futebol com a boca - ele imediatamente se torna o garoto mais popular das redondezas. Manny tem ciúme de seu novo melhor amigo, mas acaba descobrindo que a lealdade de um cachorro para com seu dono sempre vem em primeiro lugar.</info>
+ 
+<genre>Comédia, Família, Cinema TV</genre>
+ 
+<date>18/01/2016</date>
+</item>"
+"<item>
+
+<title>Rufus 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RUFS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5320.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5320.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Comédia, Cinema TV
+Lançamento: 2017
+
+Rufus is a dog but turns into a human with a pendant. He meets a girl named Kat who asks him to go out. Kat is a cat who can also turn into a human as well.</info>
+ 
+<genre>Família, Fantasia, Comédia, Cinema TV</genre>
+ 
+<date>16/01/2017</date>
+</item>"
