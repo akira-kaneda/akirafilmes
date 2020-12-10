@@ -1,0 +1,38 @@
+"<item>
+
+<title>A Marca do Zorro [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Ação, Aventura, Cinema TV
+Lançamento: 1974
+
+Nos tempos de vitoria, Don Diego de La Vega retornou da Espanha para sua família na Califórnia achando que seu pai está mau pelas regras impostas pelo cruel Governador Don Luis Quintero. Apesar de ser muito bom nas habilidades com a espada, Diego não a mostra na frente da maldade do Capitão Esteban, e também esconde isso para sua família. Como sempre, Diego secretamente veste sua capa e sua espada da justiça própria, para ajudar seu povo.</info>
+ 
+<genre>Faroeste, Ação, Aventura, Cinema TV</genre>
+ 
+<date>29/10/1974</date>
+</item>"
+"<item>
+
+<title>A Lenda do Zorro [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALNDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/388.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/388.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 2005
+
+Don Alejandro de la Vega divide seu tempo agindo como o lendário justiceiro Zorro e cuidando da mulher e do filho. Dessa vez, o espadachim mascarado precisa enfrentar um conde europeu que está intimidando os moradores da Califórnia.</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>25/10/2005</date>
+</item>"
