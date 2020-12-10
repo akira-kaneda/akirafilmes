@@ -1,0 +1,38 @@
+"<item>
+
+<title>Terror no Pântano [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TROTNPTNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5862.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5862.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror
+Lançamento: 2006
+
+Ben levou um fora da namorada e junto com seu amigo Marcus vai para New Orleans comemorar o Mardi Gras, uma espécie de carnaval da cidade. Lá resolvem fazer um tour pelo “Pântano Assombrado” e conhecem Misty e Jenna, duas dançarinas exóticas, e a doce Marybeth. Durante o passeio, ficam sabendo da lenda de Victor Crowley, um garoto deformado que morreu tragicamente assassinado pelo próprio pai. Ben e Marcus não levam a história a sério, mas não demora muito para que eles tenham certeza de que Victor está de volta. Uma nova história sangrenta, no melhor estilo Jason e Freddy, que fará você sentir calafrios de terror.</info>
+ 
+<genre>Comédia, Terror</genre>
+ 
+<date>27/04/2006</date>
+</item>"
+"<item>
+
+<title>Terror no Pântano 2 [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TROTNPTNO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5863.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5863.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Comédia, Thriller
+Lançamento: 2010
+
+Marybeth consegue escapar das garras de Victor Crowley e descobre a verdade sobre sua maldição. Assim, decide retornar para o assombrado pântano de New Orleans em busca de vingança pela sua família para matar de uma vez por todas o terrível assassino.</info>
+ 
+<genre>Terror, Comédia, Thriller</genre>
+ 
+<date>01/10/2010</date>
+</item>"
