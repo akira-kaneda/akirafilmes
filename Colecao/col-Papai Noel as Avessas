@@ -1,0 +1,38 @@
+"<item>
+
+<title>Papai Noel às Avessas [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANOLASAVS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4785.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4785.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Crime
+Lançamento: 2003
+
+O vigarista Willie ganha a vida disfarçado de Papai Noel para assaltar lojas em pleno Natal, mas desta vez ele e seu parceiro --um anão que se disfarça de elfo-- encontram um menino que vai lhes mostrar o verdadeiro espírito natalino.</info>
+ 
+<genre>Drama, Comédia, Crime</genre>
+ 
+<date>26/11/2003</date>
+</item>"
+"<item>
+
+<title>Papai Noel às Avessas 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANOLASAVS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4786.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4786.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime, Drama, Mistério
+Lançamento: 2016
+
+O ganancioso Willie (Billy Bob Thornton) vive com ódio e à base de whisky barato. Ele se junta, mais uma vez, com seu companheiro, o irritado Marcus (Tony Cox), para tentar acabar com uma instituição de caridade que fica em Chicago, na véspera de Natal.</info>
+ 
+<genre>Comédia, Crime, Drama, Mistério</genre>
+ 
+<date>23/11/2016</date>
+</item>"
