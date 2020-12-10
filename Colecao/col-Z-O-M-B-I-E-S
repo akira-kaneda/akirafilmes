@@ -1,0 +1,38 @@
+"<item>
+
+<title>Z-O-M-B-I-E-S [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZMBS2018.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6453.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6453.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Cinema TV, Fantasia, Música
+Lançamento: 2018
+
+Um zumbi e uma líder de torcida trabalham juntos para mostrar à cidade o que podem alcançar quando todos abraçam suas diferenças e celebram o que pode ser feito para a comunidade.</info>
+ 
+<genre>Comédia, Romance, Cinema TV, Fantasia, Música</genre>
+ 
+<date>17/12/2018</date>
+</item>"
+"<item>
+
+<title>Z-O-M-B-I-E-S 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZMBS20202.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6454.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6454.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Romance, Cinema TV
+Lançamento: 2020
+
+Zed e Addison estão de volta à Seabrook High, onde, após um semestre inovador, continuam a orientar a escola e a comunidade em direção à unidade. Mas a chegada de um novo grupo de estranhos - lobisomens misteriosos - ameaça abalar a paz recém-descoberta e causa uma fenda no romance de Zed e Addison.</info>
+ 
+<genre>Música, Romance, Cinema TV</genre>
+ 
+<date>14/02/2020</date>
+</item>"
