@@ -1,0 +1,95 @@
+"<item>
+
+<title>Jogos Mortais [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JGSMRTS01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2865.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2865.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Crime
+Lançamento: 2005
+
+Dois homens acordam acorrentados em um banheiro como prisioneiros de um assassino em série que leva suas vítimas a situações limítrofes em um jogo macabro. Para sobreviver, eles terão de desvendar juntos as peças desse quebra-cabeças doentio.</info>
+ 
+<genre>Terror, Mistério, Crime</genre>
+ 
+<date>04/02/2005</date>
+</item>"
+"<item>
+
+<title>Jogos Mortais II [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JGSMRTAS02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2866.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2866.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2005
+
+O detetive Eric Matthews consegue prender Jigsaw, o qual está morrendo. O que ele desconhece é que isso faz parte de um plano ainda maior do assassino sádico, que agora mantém o filho do policial como refém e pretende torná-lo uma de suas vítimas.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>04/11/2005</date>
+</item>"
+"<item>
+
+<title>Jogos Mortais III [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JGSMRTAS03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2867.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2867.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Crime
+Lançamento: 2006
+
+Dr. Lynn Denlon se torna uma peça no último jogo sangrento do assassino Jigsaw. Raptada e levada para um armazém abandonado, ela encontra Jigsaw acamado e morrendo. Sua tarefa é manter o maníaco vivo, dando o tempo suficiente para Jeff, uma vítima, completar uma tarefa. Eles não sabem que Jigsaw, na verdade, tem um plano muito maior e mortal.</info>
+ 
+<genre>Terror, Thriller, Crime</genre>
+ 
+<date>02/11/2006</date>
+</item>"
+"<item>
+
+<title>Jogos Mortais IV [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JGSMRTAS04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2868.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2868.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Crime
+Lançamento: 2007
+
+Um oficial tem apenas noventa minutos para salvar seu amigo, um comandante da SWAT, de uma série de armadilhas mortais.</info>
+ 
+<genre>Terror, Thriller, Crime</genre>
+ 
+<date>26/10/2007</date>
+</item>"
+"<item>
+
+<title>Jogos Mortais V [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JGSMRTAS05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2869.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2869.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Crime
+Lançamento: 2009
+
+Mark Hoffman é, aparentemente, a última pessoa viva disposta a seguir o legado deixado por Jigsaw. Porém, quando seu segredo é ameaçado, usando uma série de armadilhas, cada vez mais bizarras e terríveis, ele precisa iniciar uma caçada para eliminar todos os envolvidos.</info>
+ 
+<genre>Terror, Thriller, Crime</genre>
+ 
+<date>20/01/2009</date>
+</item>"
