@@ -1,0 +1,38 @@
+"<item>
+
+<title>Trolls [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6014.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6014.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Comédia, Fantasia, Música, Animação
+Lançamento: 2016
+
+Tronco (Justin Timberlake) parte para uma jornada de descobertas e aventuras ao lado de Poppy (Anna Kendrick), líder dos Trolls. Inicialmente inimigos, conforme os desafios são superados eles descobrem que no fundo combinam.</info>
+ 
+<genre>Aventura, Família, Comédia, Fantasia, Música, Animação</genre>
+ 
+<date>27/10/2016</date>
+</item>"
+"<item>
+
+<title>Trolls: Vamos Festejar [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRLSVMSFSTJR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6015.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6015.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família, Cinema TV, Fantasia, Música
+Lançamento: 2017
+
+Quando descobre que os Bergens não têm mais feriados em seu calendário, a eternamente otimista Poppy, rainha dos Trolls, procura o auxílio de Branch e de toda a turma em uma missão deliciosamente estranha de consertar algo que os Bergens nem acham que está ruim! A música não para nunca com Trolls Dias de Festa da DreamWorks!</info>
+ 
+<genre>Aventura, Animação, Comédia, Família, Cinema TV, Fantasia, Música</genre>
+ 
+<date>02/12/2017</date>
+</item>"
