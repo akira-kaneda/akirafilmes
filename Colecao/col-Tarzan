@@ -1,0 +1,57 @@
+"<item>
+
+<title>Tarzan [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRZN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5803.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5803.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Drama, Família
+Lançamento: 1999
+
+Um bebê perde os pais na selva. Órfão e sozinho, ele é encontrado por uma macaca que o cria como se fosse seu próprio filho. Tarzan cresce pensando ser um gorila, agindo e vivendo como tal. Quando uma equipe de pesquisadores chega à floresta, o rapaz percebe que é igual a eles. Tarzan encontra a bela Jane correndo perigo e a salva, apaixonando-se por ela. Ele se vê dividido entre o desejo de estar com gente da sua espécie e a lealdade com a família de gorilas que o criou.</info>
+ 
+<genre>Aventura, Animação, Drama, Família</genre>
+ 
+<date>02/07/1999</date>
+</item>"
+"<item>
+
+<title>Tarzan e Jane [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRZNEJNE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5802.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5802.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2002
+
+Tarzan e Jane comemoram seu primeiro ano de vida juntos na floresta. Jane procura o presente perfeito para Tarzan. Enquanto o grupo relembra as muitas aventuras vividas até então, Jane percebe como aquele ano na selva foi divertido: os encontros com velhos amigos, novos adversários, a vitória sobre as panteras ferozes e o surfe na lava dentro de um vulcão em erupção. Embora venham de mundos diferentes, Tarzan e Jane descobrem que, juntos, são invencíveis.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>22/07/2002</date>
+</item>"
+"<item>
+
+<title>Tarzan 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRZN2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5804.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5804.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família
+Lançamento: 2005
+
+Antes de se tornar o rei da selva, Tarzan era um garotinho estranho, que vivia tentando acertar o passo. Quando um de seus tropeços coloca sua família em risco, ele passa a acreditar que é uma fonte de problemas e decide fugir. Em sua emocionante viagem, Tarzan acaba frente a frente com Zugor, o ser mais poderoso da floresta. Juntos, Tarzan e Zugor descobrem que ser diferente não é uma fraqueza, e que os amigos e a família são o segredo de nossa força e felicidade.</info>
+ 
+<genre>Aventura, Animação, Família</genre>
+ 
+<date>13/06/2005</date>
+</item>"
