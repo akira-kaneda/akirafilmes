@@ -1,0 +1,57 @@
+"<item>
+
+<title>Onze Homens e um Segredo [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ONZHOMNSEUMSGRDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4526.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4526.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime
+Lançamento: 2002
+
+Danny Ocean é um homem de ação. Apenas 24 horas após deixar a penitenciária de Nova Jersey ele já está pondo em prática seu novo plano: assaltar três cassinos de Las Vegas em apenas uma noite, em meio à realização de uma luta que vale o título mundial dos pesos-pesados. Ocean reúne uma equipe de 11 especialistas a fim de ajudá-lo em seu plano, seguindo sempre três regras básicas: não ferir ninguém, não roubar alguém que realmente não mereça e seguir o plano como se não tivesse nada a perder.</info>
+ 
+<genre>Thriller, Crime</genre>
+ 
+<date>22/02/2002</date>
+</item>"
+"<item>
+
+<title>Doze Homens e Outro Segredo [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DZHMNSEOUTRSGRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2009.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2009.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime
+Lançamento: 2004
+
+Após o sucesso do roubo e de conseguir de volta sua esposa, Danny Ocean reparte o dinheiro e cada um da equipe vai viver de forma discreta. No entanto, Terry Benedict, o dono do cassino assaltado, reaparece e exige a quantia roubada de volta com juros, mas os membros da gangue já gastaram grande parte do dinheiro. Danny e seu melhor amigo, Rusty Ryan, concluem que a melhor opção é roubar uma raríssima obra que está sendo exibido em um museu de Roma, no valor que eles precisam.</info>
+ 
+<genre>Thriller, Crime</genre>
+ 
+<date>24/12/2004</date>
+</item>"
+"<item>
+
+<title>Treze Homens e um Novo Segredo [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRZHMNSEUMNVSGDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6005.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6005.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller
+Lançamento: 2007
+
+Reuben Tishkoff, o homem que bancou financeiramente o assalto triplo aos cassinos de Terry Benedict, foi traído por Willy Bank, um inescrupuloso dono de cassinos. Com Reuben no hospital, Danny Ocean, Rusty Ryan e sua trupe mais uma vez se reúnem para iniciar um plano de vingança. O objetivo é derrotar Bank na noite de inauguração de seu mais luxuoso cassino, afundando-o financeiramente ao fazer com que os jogadores ganhem dinheiro a cada nove minutos, e também atingindo sua reputação.</info>
+ 
+<genre>Crime, Thriller</genre>
+ 
+<date>07/06/2007</date>
+</item>"
