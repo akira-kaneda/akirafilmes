@@ -1,0 +1,76 @@
+"<item>
+
+<title>O Predador [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4297.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4297.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1987
+
+O major Alan ""Dutch"" Schaefer lidera uma equipe de resgate em uma selva da América Central, para tentar encontrar um ministro estrangeiro e funcionários do governo que saíram da rota e se perderam. O exército acredita que eles estejam nas mãos de guerrilheiros, mas o que eles não imaginam é que a floresta esconde uma ameaça mortal, um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>30/07/1987</date>
+</item>"
+"<item>
+
+<title>O Predador 2: A Caçada Continua [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRDRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5025.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5025.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller
+Lançamento: 1990
+
+Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.</info>
+ 
+<genre>Ficção científica, Ação, Thriller</genre>
+ 
+<date>20/11/1990</date>
+</item>"
+"<item>
+
+<title>Predadores [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRDRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5026.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5026.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller
+Lançamento: 2010
+
+Em um planeta misterioso, um mercenário e um grupo de assassinos a sangue a frio agora são presas. Uma nova raça de alienígenas persegue os humanos pela floresta densa e o grupo precisa se unir se não quiser virar troféu dos caçadores intergalácticos.</info>
+ 
+<genre>Ficção científica, Ação, Thriller</genre>
+ 
+<date>22/07/2010</date>
+</item>"
+"<item>
+
+<title>O Predador [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4298.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4298.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller, Aventura, Terror, Comédia
+Lançamento: 2018
+
+Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett é chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido em cativeiro.</info>
+ 
+<genre>Ficção científica, Ação, Thriller, Aventura, Terror, Comédia</genre>
+ 
+<date>14/09/2018</date>
+</item>"
