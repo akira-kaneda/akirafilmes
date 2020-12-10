@@ -1,0 +1,38 @@
+"<item>
+
+<title>Uma Prova De Fé [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMPVRDFE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6262.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6262.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 2016
+
+John e Alexa Taylor são um casal quase perfeito, a ponto de dar inveja a seus vizinhos. Seu filho Beau é a estrela de futebol da escola e sua filha Ravyn é a estudante número um. Entretanto, uma série de desventuras em suas vidas vai colocar em risco não somente sua reputação, mas também a própria alegria da casa. Eles vão precisar de forças para se restabelecer, procurando principalmente apoio em sua fé em Deus.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>27/09/2016</date>
+</item>"
+"<item>
+
+<title>Uma Prova de Fé 2: Voltando para Casa [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMPVRDFE2VLTDPRCSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6263.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6263.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 2019
+
+Tudo parece estar dando errado para a família Taylor agora. No momento em que Alexa está começando a trabalhar no emprego dos seus sonhos, ela fica impressionada ao cuidar da mãe que sofre da doença de Alzheimer. Seu filho, Beau, acabou de perder sua carreira profissional no futebol devido a uma lesão e sua filha Ravyn precisa de ajuda para planejar seu casamento de última hora. Somente com o apoio de amigos e a graça orientadora de sua fé os Taylors podem encontrar forças para lidar com a onda de drama e tragédia que está rolando sobre suas vidas.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>03/09/2019</date>
+</item>"
