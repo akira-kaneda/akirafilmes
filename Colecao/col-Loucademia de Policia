@@ -1,0 +1,133 @@
+"<item>
+
+<title>Loucademia de Polícia [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LCDMDPLC01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3136.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3136.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1984
+
+O prefeito resolve mudar a lei, afirmando que fatores como sexo, peso e inteligência não devem influenciar nas aplicações para a força policial. Liderado por Carey Mahoney, um grupo de jovens incompetentes, mas de bom coração, ingressa na Academia de Polícia para o desespero dos instrutores, que buscarão impedir de toda as formas as brincadeiras da turma.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>16/04/1984</date>
+</item>"
+"<item>
+
+<title>Loucademia de Polícia 2: A Primeira Missão [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LCDMDPLC02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3137.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3137.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1985
+
+Mahoney (Steve Guttenberg) e os companheiros acabaram de se graduar na Academia de Polícia, e como cadetes iniciantes têm que sair em uma missão. O grupo de desajustados vai ter que enfrentar uma gangue de vândalos que estão trasnformando a cidade em um verdadeiro caos, e só assim conseguirão baixar as taxas de criminalidade da cidade, mas não conseguirão diminuir as confusões.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>10/04/1985</date>
+</item>"
+"<item>
+
+<title>Loucademia de Polícia 3: De Volta ao Treinamento [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LCDMDPLC03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3138.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3138.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1986
+
+A cidade tem duas academias de polícia, uma está sob o comando de Eric Lassard e a outra de Mauser. Este último soube que o estado, por falta de verbas, fechará uma das duas. Para se proteger, fala com Kyle Banks e Chad Copeland e os suborna, para que ter certeza que os cadetes de Lassard fracassarão. Lassard, por sua vez, chama seus formandos prediletos: Mahoney, Hightower, Jones, Tackleberry e Hooks que, junto Callahan, tentam treinar os cadetes na esperança de salvar a Academia.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>10/04/1986</date>
+</item>"
+"<item>
+
+<title>Loucademia de Polícia 4: O Cidadão se Defende [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LCDMDPLC04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3139.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3139.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1987
+
+Um novo grupo de recrutas chega à Academia de Polícia e desta vez eles são voluntários civis, que aderiram ao plano ""O cidadão se defende"", do Comandante Lassard. Mas apesar de ter apoio governamental, o Capitão Harris está determinado em ver o plano fracassar, pois crê que os policiais podem perder seus empregos depois de algum tempo.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>09/04/1987</date>
+</item>"
+"<item>
+
+<title>Loucademia de Polícia 5: Missão Miami Beach  [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LCDMDPLC05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3140.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3140.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1988
+
+Os recrutas estão em Miami para uma convenção de academias, na qual o comandante Lassard, que se aposentou recentemente, será homenageado com o título de policial da década. Acidentalmente Lassard fica de posse de jóias roubadas, o que faz com que seja sequestrado por uma quadrilha. Ao saber do ocorrido seus comandados mais uma vez se reúnem, para resgatá-lo.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>31/03/1988</date>
+</item>"
+"<item>
+
+<title>Loucademia de Polícia 6: Cidade em Estado de Sítio [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LCDMDPLC06.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3141.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3141.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1989
+
+Esse louco grupo de policiais é chamado para uma missão: Acabar com uma gangue que rouba bancos e joalherias. Usando o talento para trapalhadas de cada um deles, eles enfrentarão o bando de criminosos. Sob a falsa suspeita de que algum espião esteja infiltrado em seu Distrito Policial, o capitão Harris contribui para que a situação se agrave ainda mais.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>21/06/1989</date>
+</item>"
+"<item>
+
+<title>Loucademia de Polícia 7: Missão Moscou [COLOR yellow][IMDb 3,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LCDMDPLC07.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3142.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3142.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 1994
+
+O Comandante Lassard tem um novo plano para acabar com a criminalidade nas ruas, permitir que voluntários participem de um treinamento especial na Academia, onde aprenderão técnicas de salvamento e combate ao crime. Com Steve Guttenberg e Sharon Stone.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>26/08/1994</date>
+</item>"
