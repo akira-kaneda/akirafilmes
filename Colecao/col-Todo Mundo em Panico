@@ -1,0 +1,95 @@
+"<item>
+
+<title>Todo Mundo em Pânico [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TDMNDEMPNC1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5940.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5940.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2000
+
+Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que há um assassino entre eles. A heroína Cindy Campbell e a sua turma de amigos tentam se proteger do perigo, mas Gail Hailstorm, uma repórter irritante, simplesmente não os deixa em paz.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>06/10/2000</date>
+</item>"
+"<item>
+
+<title>Todo Mundo em Pânico 2 [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TDMNDEMPNC2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5941.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5941.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2001
+
+Dois padres, um grupo de estudantes e um professor são seduzidos e atormentados por um fantasma que vive numa mansão assombrada.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>14/09/2001</date>
+</item>"
+"<item>
+
+<title>Todo Mundo em Pânico 3 [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TDMNDEMPNC3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5942.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5942.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2004
+
+Depois de a repórter de jornal Cindy assistir acidentalmente uma estranha fita de vídeo que faz com que o espectador morra dentro de uma semana, ela descobre que a fita é apenas um dos muitos acontecimentos estranhos recentes. Os agricultores locais Tom e George relataram círculos enormes que aparecem durante a noite em seus campos. Cindy encontra uma ligação entre a fita e os círculos nas plantações com a ajuda do presidente dos Estados Unidos e uma tia gentil.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>09/01/2004</date>
+</item>"
+"<item>
+
+<title>Todo Mundo em Pânico 4 [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TDMNDEMPNC4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5943.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5943.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2006
+
+Mais uma continuação da franquia de filmes que faz sátiras das produções mais recentes de terror, como Jogos Mortais e O Grito. Desta vez, duas jovens tentam salvar o mundo de uma invasão alienígena.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>02/06/2006</date>
+</item>"
+"<item>
+
+<title>Todo Mundo em Pânico 5 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TDMNDEMPNC5.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5944.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5944.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2013
+
+Após noite juntos, Charlie é morto por Lindsay, que foi possuída por um demônio, com isso, os três filhos dele desaparecem, sendo encontrados por dois amigos em uma cabana abandonada. Lá duas das crianças passaram a agir de forma estranha, obedecendo as ordens de um ser invisível quem chamam de Mama. Após serem levados para orfanato, os três passam a viver com os tios Dan e Jody. Entretanto, é lá que estranhos eventos acontecem tendo Mama como responsável.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>12/04/2013</date>
+</item>"
