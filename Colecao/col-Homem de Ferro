@@ -1,0 +1,133 @@
+"<item>
+
+<title>O Invencível Homem de Ferro [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OINCRVLHMNDFRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4119.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4119.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2007
+
+Ao escavar as ruínas de um antigo reino chinês, o inventor bilionário Tony Stark (Marc Worden) liberta uma antiga profecia. Ela prevê a ressurreição do Mandarim (Fred Tatasciore), o imperador da dinastia mais violenta da China. Para enfrentar este perigo Stark constrói a armadura do Homem de Ferro, a qual decide usar. Entretanto o herói precisará ainda enfrentar os Elementals, guerreiros mágicos que controlam o poder dos 4 elementos, que se aliaram ao Mandarim.</info>
+ 
+<genre>Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>23/01/2007</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2663.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2663.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Baseado em Quadrinho
+Lançamento: 2008
+
+Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>30/04/2008</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro 2 [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNDEFRO02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2664.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2664.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2010
+
+Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>30/04/2010</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro 3 [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNDEFRO03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2665.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2665.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Baseado em Quadrinho
+Lançamento: 2013
+
+Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>26/04/2013</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro: A Batalha Contra Ezekiel Stane [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HMEMDFROABTLHCNTEZKLSTNE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2668.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2668.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Animação, Ação, Baseado em Quadrinho
+Lançamento: 2013
+
+Com história de Brandon Auman (Os Vingadores: maiores heróis da Terra, Homem de Ferro: Armored Adventures), o filme explora um confronto entre o Homem de Ferro e o vilão Ezequiel Stane, que desenvolve uma nova bio-tecnologia que deixa a armadura do Homem de Ferro ultrapassada. Após Stane desencadear um ataque terrorista e focar na queda de Tony Stark, o Homem de Ferro deve ir em busca uma maneira de limpar seu nome.</info>
+ 
+<genre>Ficção científica, Animação, Ação, Baseado em Quadrinho</genre>
+ 
+<date>03/05/2013</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro e Hulk - Super-Heróis Unidos [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HMEMDFROHLKSPTUNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2667.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2667.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Família, Baseado em Quadrinho
+Lançamento: 2013
+
+Os super-heróis Homem de Ferro e Hulk deverão unir suas forças para salvar a Terra de sua maior ameaça.</info>
+ 
+<genre>Ação, Aventura, Animação, Família, Baseado em Quadrinho</genre>
+ 
+<date>03/12/2013</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro e o Capitão América Super-Heróis Unidos [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HMEMDFROECPTAOMRCSPRHRSUNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2666.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2666.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Ação, Baseado em Quadrinho
+Lançamento: 2015
+
+O Homem de Ferro e o Capitão América lutam contra o Treinador e o Caveira Vermelha, a fim de impedir que eles destruam a Terra. Os super-heróis precisam colocar as diferenças de lado para enfrentar as ameaças que estes vilões representam.</info>
+ 
+<genre>Aventura, Animação, Ação, Baseado em Quadrinho</genre>
+ 
+<date>01/02/2015</date>
+</item>"
