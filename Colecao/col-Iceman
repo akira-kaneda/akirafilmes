@@ -1,0 +1,38 @@
+"<item>
+
+<title>Iceman - A Roda do Tempo [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ICMAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2723.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2723.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, História, Ação, Ficção científica, Comédia, Fantasia, História
+Lançamento: 2014
+
+A Dinastia Ming guarda do palácio - acusado injustamente de assassinato - está sendo caçado por seus três irmãos jurados e todos os quatro são acidentalmente enterrados e mantidos congelados no tempo durante a batalha. 400 anos depois, eles são descongelados e continuam a batalha, enquanto se adaptam à vida moderna.</info>
+ 
+<genre>Aventura, História, Ação, Ficção científica, Comédia, Fantasia, História</genre>
+ 
+<date>19/09/2014</date>
+</item>"
+"<item>
+
+<title>Iceman 2 - O Viajante do Tempo [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ICMAN2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2722.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2722.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, História
+Lançamento: 2018
+
+A guarda imperial e seus três amigos de infância traidores ordenados a caçá-lo são acidentalmente enterrados e mantidos congelados no tempo. 400 anos depois passam e são descongelados continuando a batalha que deixaram para trás.</info>
+ 
+<genre>Ação, Comédia, História</genre>
+ 
+<date>02/11/2018</date>
+</item>"
