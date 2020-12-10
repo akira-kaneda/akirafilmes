@@ -1,0 +1,38 @@
+"<item>
+
+<title>Gremlins [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GMLNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2535.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2535.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Comédia
+Lançamento: 1984
+
+O jovem Billy ganhou um novo bichinho de estimação e com ele três conselhos que nunca... nunca poderia esquecer. 1) não deixe que ele se molhe 2) mantenha-o afastado da luz forte 3) não importa o quanto ele chore, o quanto ele suplique, nunca lhe dê comida após a meia-noite. Prepare-se para muita confusão pois alguma coisa vai dar muito errado.</info>
+ 
+<genre>Fantasia, Terror, Comédia</genre>
+ 
+<date>07/06/1984</date>
+</item>"
+"<item>
+
+<title>Gremlins 2: A Nova Geração [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GMLNS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2536.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2536.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror, Fantasia
+Lançamento: 1990
+
+Se passaram cinco anos desde o incidente dos Gremlins em Kingston Falls. Agora Billy e Kate se mudaram para Nova York. Com o falecimento do velho chinês, Gizmo foge da loja e é pego e levado para o mesmo prédio onde Billy trabalha, quando um funcionário da empresa, ao tentar consertar um bebedouro, acaba molhando Gizmo. Logo uma nova espécie de Gremlins é criada e eles logo aprisionam Gizmo. Kate leva para casa um destes novos Gremlins, pensando que é Gizmo. Quando Billy chega em casa e vê que aquele Mogwai não é Gizmo, conclui logo que algo grave aconteceu e algo infinitamente mais grave acontecerá se os Gremlins se alimentarem após a meia-noite.</info>
+ 
+<genre>Comédia, Terror, Fantasia</genre>
+ 
+<date>15/06/1990</date>
+</item>"
