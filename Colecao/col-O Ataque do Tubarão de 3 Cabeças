@@ -1,0 +1,57 @@
+"<item>
+
+<title>O Ataque do Tubarão de 3 Cabeças [COLOR yellow][IMDb 2,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OATQDTBRAO3CABCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3791.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3791.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Terror
+Lançamento: 2015
+
+Um tuburão branco é três vezes mais mortal quanto sofre uma mutação e se transforma em uma máquina de matar de três cabeças. Ele ameaça a todos a sua volta, inclusive um navio que está em seu caminho. Os passageiros terão de lutar contra esse predador mortal pela sua sobrevivência, usando qualquer coisa que eles podem encontrar pela frente.</info>
+ 
+<genre>Ficção científica, Ação, Terror</genre>
+ 
+<date>09/10/2015</date>
+</item>"
+"<item>
+
+<title>O Ataque do Tubarão de 5 Cabeças [COLOR yellow][IMDb 3,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OATQDTBRAO5CABCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3792.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3792.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 2017
+
+Uma bela ilha é o lar de mil espécies de vidas aquáticas. Agora existe uma nova espécie: o tubarão de 5 cabeças. Marcado como starfish demente, esse monstro aterroriza o oceano aberto antes invadindo as praias de Porto Fico, colocando em perigo o paraíso da ilha pacífica.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>05/09/2017</date>
+</item>"
+"<item>
+
+<title>O Ataque do Tubarão de 6 Cabeças [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OATQEDTBRAOD6CBCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3793.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3793.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica, Cinema TV
+Lançamento: 2018
+
+O que é suposto ser um acampamento de casamento em uma ilha remota se transforma no teste final para a sobrevivência quando um tubarão de 6 cabeças começa a atacar a praia. Presos com armas mínimas, eles tentam combater o tubarão, mas descobrem rapidamente que ninguém está seguro na água ou em terra.</info>
+ 
+<genre>Ação, Terror, Ficção científica, Cinema TV</genre>
+ 
+<date>18/08/2018</date>
+</item>"
