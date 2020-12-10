@@ -1,0 +1,57 @@
+"<item>
+
+<title>O Pequeno Stuart Little [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNSTRTLTLE.mp4?expires=1604974123&token=940e2e4fd5e7031b4be107773edd6975|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4255.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4255.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Comédia, Animação
+Lançamento: 2000
+
+Stuart era um rato abandonado que vivia num orfanato, junto com outras crianças. Até que a família Little decide adotar um irmão para seu filho George (Jonathan Lipnicki) e se apaixona pelo carisma do pequeno ratinho. Stuart é então adotado e passa a lidar com divergências com Snowbell, o gato da família, e o próprio irmão, que não o aceita.</info>
+ 
+<genre>Fantasia, Família, Comédia, Animação</genre>
+ 
+<date>14/01/2000</date>
+</item>"
+"<item>
+
+<title>O Pequeno Stuart Little 2 [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNSTRTLTLE2.mp4?expires=1604974172&token=4794c0b87ddd0ef9d0d142ff6feb260d|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4256.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4256.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Animação, Comédia
+Lançamento: 2002
+
+Num belo dia, ao retornar da escola, Stuart Little salva Margalo, um passarinho fêmea machucado, das garras de um falcão traiçoeiro. Stuart a leva para morar com sua família, onde Margalo se recupera rapidamente e cria uma grande amizade com o pequeno rato falante. Até que, repentinamente, Margalo desaparece junto com uma valiosa antiguidade da familia. É quando Stuart precisa reunir todas as suas forças para reencontrar Margalo e trazer de volta a antiguidade à sua casa.</info>
+ 
+<genre>Família, Aventura, Animação, Comédia</genre>
+ 
+<date>06/12/2002</date>
+</item>"
+"<item>
+
+<title>O Pequeno Stuart Little 3 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNSTRTLTLE3.mp4?expires=1604974193&token=9f496feff5b168e53504759dc024df37|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4257.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4257.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Comédia, Família
+Lançamento: 2005
+
+Faz as malas e agarra a tua tenda de campismo, está na hora de embarcares com STUART LITTLE, numa grande aventura no bosque! Neste excitante filme de animação, os Little mergulham na vida selvagem ao decidir acampar longe da cidade. Só há um detalhe para o qual não estão preparados: a enorme e malvada fera que vive no bosque. Enquanto Stuart aprende as aptidões básicas de sobrevivência com a destemida doninha Reeko, o medroso Snowbell prefere proteger-se com o expedito gato vadio Monty. A melhor aventura de Stuart!</info>
+ 
+<genre>Fantasia, Animação, Comédia, Família</genre>
+ 
+<date>11/10/2005</date>
+</item>"
