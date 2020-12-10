@@ -1,0 +1,76 @@
+"<item>
+
+<title>Tom & Jerry: O Filme [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TOMEJRYOFLME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5956.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5956.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 1992
+
+Tom e Jerry devem salvar uma menina de sua tia malvada.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>01/10/1992</date>
+</item>"
+"<item>
+
+<title>Tom e Jerry - Velozes e Ferozes [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TOMEJRYVLZSEFRZS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5958.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5958.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Família, Animação, Comédia, Aventura
+Lançamento: 2005
+
+Tom e Jerry entram em uma competição de carros chamada de Super Corrida em busca do grande prêmio: uma maravilhosa mansão de sonhos. Pilotando carros envenenados que se adaptam a qualquer superfície (terra, mar ou ar) eles competirão pelo mundo, passando por cidades e locais famosos, deixando caos pelo caminho</info>
+ 
+<genre>Ação, Família, Animação, Comédia, Aventura</genre>
+ 
+<date>11/10/2005</date>
+</item>"
+"<item>
+
+<title>Tom e Jerry - Uma Aventura com Sherlock Holmes [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TOMEJRYENTRSHLCKHMLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5957.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5957.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Comédia
+Lançamento: 2010
+
+Na cidade de Londres, um bandido rouba jóias em torno da Scotland Yard, e Rubra, uma bela cantora, está sendo acusado do crime. Tom e Jerry, como assistentes, devem ajudar Sherlock Holmes a procurar por pistas e rastrear o verdadeiro ladrão para resolver este caso.</info>
+ 
+<genre>Aventura, Animação, Família, Comédia</genre>
+ 
+<date>07/10/2010</date>
+</item>"
+"<item>
+
+<title>Tom e Jerry - A Fantástica Fábrica de Chocolates [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TOMEJRYAFNTSTFBRDCHLT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5955.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5955.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2017
+
+Tom e Jerry ajudam Charlie Bucket a conseguir o bilhete dourado e o acompanham secretamente para a fábrica de chocolates de Willy Wonka, com o objetivo de impedir um dos rivais de Wonka de roubar a fórmula do seu novo doce.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>28/06/2017</date>
+</item>"
