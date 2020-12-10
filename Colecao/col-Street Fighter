@@ -1,0 +1,95 @@
+"<item>
+
+<title>Street Fighter II: O Filme [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/STRTFGTRIIOFLIME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5677.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5677.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação
+Lançamento: 1994
+
+Bison, o lider da organização criminosa Shadaloo quer conquistar o mundo. Assim ele manda seus capangas atrás de lutadores que possam servi-lo como escravos. Bison captura o grande lutador americano Ken Masters, onde Bison faz uma lavagem cerebral em Ken, obrigando-o a ser seu servo, enfrentando até mesmo seu amigo Ryu, um dos maiores artistas marciais do planeta.</info>
+ 
+<genre>Animação, Ação</genre>
+ 
+<date>06/08/1994</date>
+</item>"
+"<item>
+
+<title>Street Fighter: A Última Batalha [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRTFGTRAULTMBTLH.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5679.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5679.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Drama, Ficção científica
+Lançamento: 1995
+
+No Sudeste Asiático, um general sequestra 63 delegados da ONU e exige um resgate milionário. O coronel Guile e a agente da Inteligência Britânica Cammy tentam resolver a situação, mas seus planos são ameaçados por uma repórter atrás de vingança.</info>
+ 
+<genre>Ação, Aventura, Thriller, Drama, Ficção científica</genre>
+ 
+<date>19/09/1995</date>
+</item>"
+"<item>
+
+<title>Street Fighter Alpha: Generations [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/STRTFGTRALPGNRTORLEG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5676.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5676.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação
+Lançamento: 2005
+
+Street Fighter Alpha: Generations (também creditado como Street Fighter Zero: Generations) é um filme de animação japonês de 2005 dirigido por Ikuo Kuwana e produzido pela Capcom. O filme é uma OVA baseado em alguns personagens da série de jogos Street Fighter Alpha. Diferentemente dos outros dois animes lançados anteriormente pela Capcom, esse fora produzido nos EUA e Japão por uma equipe japonesa, nos estúdios da A.P.P.P.[1], porém a distribuição ficou a cargo novamente da Manga Entertainment.</info>
+ 
+<genre>Ação, Animação</genre>
+ 
+<date>25/10/2005</date>
+</item>"
+"<item>
+
+<title>Street Fighter - A Lenda de Chun-Li [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/STRTFGTRCHULIN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5678.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5678.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Thriller
+Lançamento: 2009
+
+Em Bangkok, na Tailândia, um chefão do crime e seus capangas iniciam uma guerra pelo poder nas favelas da cidade, acabando com todos que cruzam seu caminho. A violência aumenta e um mestre em artes marciais e agentes da Interpol entram em ação.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Thriller</genre>
+ 
+<date>27/02/2009</date>
+</item>"
+"<item>
+
+<title>Street Fighter: Punho Assassino [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRTFGTRPNHASINO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5680.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5680.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama
+Lançamento: 2014
+
+A trama de Street Fighter – Punho Assassino gira em torno de Ryu e Ken e seu treinamento de guerreiro em um local deserto no Japão. Como eles se tornaram rivais e como descobriram o misterioso passado de seu mestre, Göken.</info>
+ 
+<genre>Ação, Aventura, Drama</genre>
+ 
+<date>23/05/2014</date>
+</item>"
