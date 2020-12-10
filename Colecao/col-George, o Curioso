@@ -1,0 +1,76 @@
+"<item>
+
+<title>George, o Curioso [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/GEORGOCURSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2489.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2489.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2006
+
+No filme online George, o Curioso, George, o macaquinho mais curioso do mundo, estrela mais uma história divertida e educativa. Nesta nova aventura, George e O Homem do Chapéu Amarelo estão contando os dias para o Natal.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>10/02/2006</date>
+</item>"
+"<item>
+
+<title>George, O Curioso 2: Siga Aquele Macaco! [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GEORGOCURSO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2490.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2490.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2009
+
+O filme narra as aventuras de George quando ele faz amizade com Kayla, um elefante bebê, em um show mágico de circo e a ajuda a viajar pelo país para se reunir com sua família. Acompanhado por seu amigo, o Homem do Chapéu Amarelo, George viaja a pé, trem e caminhão para chegar ao irmão e irmã de Kayla na Califórnia, apenas para ser acusado de tirar uma soneca de elefante e trazido de volta para Nova York.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>27/10/2009</date>
+</item>"
+"<item>
+
+<title>George, O Curioso: Um Natal Cheio de Macacadas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GEORGOCURSOUMNTLCHDMCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2492.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2492.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Cinema TV
+Lançamento: 2009
+
+George, o macaquinho mais curioso do mundo, estrela mais uma história divertida e educativa. Nesta nova aventura, George e O Homem do Chapéu Amarelo estão contando os dias para o Natal.</info>
+ 
+<genre>Animação, Família, Cinema TV</genre>
+ 
+<date>10/11/2009</date>
+</item>"
+"<item>
+
+<title>George, o Curioso 3: De Volta para a Selva [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GEORGOCURSO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2491.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2491.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura
+Lançamento: 2015
+
+No filme online George o Curioso 3, George é convidado a participar de uma missão espacial muito importante, só que acidentalmente, faz aterrissar na África. Enquanto um homem preocupado com o chapéu amarelo procura por ele, George explora corajosamente explora a selva e faz novos amigos animais ao longo do caminho.</info>
+ 
+<genre>Animação, Família, Aventura</genre>
+ 
+<date>26/01/2015</date>
+</item>"
