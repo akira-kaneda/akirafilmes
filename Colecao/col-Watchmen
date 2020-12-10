@@ -1,0 +1,38 @@
+"<item>
+
+<title>Watchmen: O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WTCHMNOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6411.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6411.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Mistério, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Um de seus antigos colegas é assassinado, e o vigilante mascarado Rorschach decide investigar um plano para matar e desacreditar todos os super-heróis do passado e do presente. À medida que ele se reconecta com sua antiga legião de combate ao crime, um grupo desorganizado de super-heróis aposentados, dentre os quais somente um possui verdadeiros poderes, Rorschach vislumbra uma ampla e perturbadora conspiração que está ligada ao passado deles e a catastróficas consequências para o futuro.</info>
+ 
+<genre>Ação, Mistério, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>06/03/2009</date>
+</item>"
+"<item>
+
+<title>Watchmen: Contos do Cargueiro Negro [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6412.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6412.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Terror, Ação, Baseado em Quadrinho
+Lançamento: 2009
+
+Os temidos piratas do Cargueiro Negro fazem um ataque, deixando somente um sobrevivente. O único marinheiro restante agora precisa lutar para sobreviver. Mas além dos perigos do alto mar, ele deve enfrentar as ameaças de sua própria mente, beirando a loucura e buscando vingança, em meio a solidão e a ansiedade para voltar para casa.</info>
+ 
+<genre>Animação, Terror, Ação, Baseado em Quadrinho</genre>
+ 
+<date>24/03/2009</date>
+</item>"
