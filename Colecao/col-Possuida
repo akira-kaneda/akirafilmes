@@ -1,0 +1,57 @@
+"<item>
+
+<title>Possuída [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/POSIDA1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5011.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5011.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2001
+
+Entediadas com as coisas da adolescência, as irmãs Ginger (Katharine Isabelle) e Brigitte (Emily Perkins) procuram algo que provoque um pouco de agito em suas vidas. Só que elas conseguem muito mais do que esperavam quando Ginger é atacada por uma fera selvagem, que lhe causa uma incrível metamorfose. Uma força terrível rapidamente se apodera de Ginger, ameaçando destruir o laço que une as irmãs e todas as pessoas em torno delas. Na medida em que Ginger se transforma numa horrível fera sedenta por sangue, Brigitte luta para libertá-la das garras do demônio, mas seu comportamento selvagem se torna cada vez mais incontrolável.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>23/10/2001</date>
+</item>"
+"<item>
+
+<title>Possuída 2: Força Incontrolável [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/POSIDA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5013.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5013.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror
+Lançamento: 2004
+
+Brigitte conta com uma droga para controlar sua licantropia. Confundida com uma viciada, ela é internada numa clínica de reabilitação para adolescentes e precisa garantir o fornecimento da droga. Para piorar a situação, outro lobisomem a persegue.</info>
+ 
+<genre>Drama, Terror</genre>
+ 
+<date>30/01/2004</date>
+</item>"
+"<item>
+
+<title>Possuída 3: O Início [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/POSIDA3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5014.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5014.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror
+Lançamento: 2004
+
+No começo do século XIX, no Canadá, as irmãs órfãs Ginger e Brigitte perdem-se na floresta e são resgatadas por um misterioso índio que as leva de volta a Fort Bailey. O gesto é mal visto pelos colonos, e elas logo descobrirão o motivo.</info>
+ 
+<genre>Drama, Terror</genre>
+ 
+<date>10/07/2004</date>
+</item>"
