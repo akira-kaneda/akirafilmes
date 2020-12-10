@@ -1,0 +1,152 @@
+"<item>
+
+<title>Homem-Aranha [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNARNH01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2671.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2671.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 2002
+
+Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.</info>
+ 
+<genre>Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>17/05/2002</date>
+</item>"
+"<item>
+
+<title>Homem-Aranha 2 [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNARNH02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2672.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2672.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2004
+
+Após derrotar o Duende Verde a vida de Peter Parker (Tobey Maguire) muda por completo. Temendo que Mary Jane (Kirsten Dunst) sofra algum risco por ser ele o Homem-Aranha, Peter continua escondendo o amor que sente e se mantém longe dela. Ao mesmo tempo precisa lidar com Harry (James Franco), seu melhor amigo, cuja raiva pelo Homem-Aranha aumenta cada vez mais por considerá-lo como sendo o assassino de seu pai.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>02/07/2004</date>
+</item>"
+"<item>
+
+<title>Homem-Aranha 3 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNARNH03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2673.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2673.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2007
+
+O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.</info>
+ 
+<genre>Fantasia, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>03/05/2007</date>
+</item>"
+"<item>
+
+<title>O Espetacular Homem-Aranha [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3967.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3967.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2012
+
+Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>06/07/2012</date>
+</item>"
+"<item>
+
+<title>O Espetacular Homem-Aranha 2: A Ameaça de Electro [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3968.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3968.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2014
+
+Peter Parker está fascinado com as habilidades de Homem-Aranha. Porém, ele tem que lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>02/05/2014</date>
+</item>"
+"<item>
+
+<title>Homem-Aranha: De Volta ao Lar [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HOMARNHDVLTALR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2675.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2675.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Drama, Baseado em Quadrinho
+Lançamento: 2017
+
+Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Drama, Baseado em Quadrinho</genre>
+ 
+<date>06/07/2017</date>
+</item>"
+"<item>
+
+<title>Homem-Aranha no Aranhaverso [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HOMARNHNARNVRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2674.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2674.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Ficção científica, Comédia, Baseado em Quadrinho
+Lançamento: 2019
+
+Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.</info>
+ 
+<genre>Ação, Aventura, Animação, Ficção científica, Comédia, Baseado em Quadrinho</genre>
+ 
+<date>10/01/2019</date>
+</item>"
+"<item>
+
+<title>Homem-Aranha: Longe de Casa [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2676.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2676.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Baseado em Quadrinho
+Lançamento: 2019
+
+Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>04/07/2019</date>
+</item>"
