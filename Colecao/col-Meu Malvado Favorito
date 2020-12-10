@@ -1,0 +1,95 @@
+"<item>
+
+<title>Meu Malvado Favorito [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEMLVDFAV1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3349.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3349.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 2010
+
+Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
+ 
+<date>06/08/2010</date>
+</item>"
+"<item>
+
+<title>Meu Malvado Favorito 2 [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEMLVDFAV2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3350.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3350.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2013
+
+Gru mudou radicalmente sua vida e se dedica às filhotas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado fosse responsável pelo seu recrutamento pela Liga Antivilões para salvar o mundo na companhia da agente Lucy. Juntos, eles precisam localizar o criminoso que roubou a fórmula PX41 e Gru desconfia que seu antigo concorrente El Macho possa ser o responsável.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>05/07/2013</date>
+</item>"
+"<item>
+
+<title>Minions: O Filme [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MINIONS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3408.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3408.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura, Comédia
+Lançamento: 2015
+
+Seres amarelos milenares, os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenção de vilões nos Estados Unidos e lá se encantam com Scarlet Overkill (Sandra Bullock), que ambiciona ser a primeira mulher a dominar o mundo.</info>
+ 
+<genre>Família, Animação, Aventura, Comédia</genre>
+ 
+<date>25/06/2015</date>
+</item>"
+"<item>
+
+<title>Meu Malvado Favorito 3 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEMLVDFAV3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3351.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3351.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Comédia, Família, Aventura
+Lançamento: 2017
+
+O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Drew.</info>
+ 
+<genre>Ação, Animação, Comédia, Família, Aventura</genre>
+ 
+<date>29/06/2017</date>
+</item>"
+"<item>
+
+<title>Amarelo é o Novo Preto [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MINAMRLEONVOPRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3409.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3409.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Crime
+Lançamento: 2018
+
+Uma aventura sobre dois minions que tentam fugir da cadeia. CURTA-METRAGEM.</info>
+ 
+<genre>Animação, Comédia, Família, Crime</genre>
+ 
+<date>11/09/2018</date>
+</item>"
