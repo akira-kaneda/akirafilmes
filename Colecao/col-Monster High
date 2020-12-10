@@ -1,0 +1,76 @@
+"<item>
+
+<title>Monster High: Monstros, Câmera, Ação! [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRHGBEMVNDMNSTRHG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3453.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3453.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Fantasia
+Lançamento: 2014
+
+Quando é levada a acreditar que é a herdeira do trono vampiro, Draculaura e suas melhores amigas viajam para a Transilvânia para uma coroação real de arrasar. Mas logo elas descobrem que a caçada pela rainha ainda não acabou. Para descobrir a identidade da verdadeira Rainha Vampira as monstrinhas embarcam em uma viagem repleta de aventura que as levará da nebulosa Londoom aos pântanos de Nova Goreleans e finalmente aos glamorosos estúdios de Hauntlywood. Será esse o momento em que Draculaura finalmente recebe seus poderes vampiros e descobre que os seus sonhos podem mesmo se tornar reais?</info>
+ 
+<genre>Família, Animação, Fantasia</genre>
+ 
+<date>25/03/2014</date>
+</item>"
+"<item>
+
+<title>Monster High : Monster Fusion [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRHGUMFSMTLC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3454.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3454.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação
+Lançamento: 2014
+
+Ao tentar ajudar Frankie a aprender mais sobre seus antepassados, as monstrinhas por descuido voltam no tempo para 1814, no primeiro dia de Monster High. Lá, elas encontram Sparky, um jovem cientista com uma obsessão por criar vida. Buscando descobrir o segredo que trouxe Frankie a vida, Sparky realiza uma série de experimentos no laboratório da escola, resultando na fusão de oito monstrinhas em quatro monstras misturadas. Sem saber controlar seus novos corpos, as monstrinhas precisam da ajuda de uma nova turma de monstros, os híbridos. Será que elas resolveram tudo a tempo de se apresentar no grande Show do Bicentenário?</info>
+ 
+<genre>Animação</genre>
+ 
+<date>06/10/2014</date>
+</item>"
+"<item>
+
+<title>Monster High: A Assustadora Barreira de Coral [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRHGAASTDRBRDCRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3451.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3451.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação
+Lançamento: 2016
+
+Junte-se as suas monstrinhas preferidas em uma nova aventura aquática! Quando as monstrinhas são empurradas e caem na piscina da escola, elas são transportadas para um mundo submarino: a Assustadora Barreira de Coral. A Lagoona vê que está em casa em uma missão de arrepiar onde decide enfrentar os próprios medos de uma vez por todas. É claro que ela vai precisar da ajuda das melhores amigas ao combater um inimigo do passado, competir em um campeonato de dança e lutar com um assustador monstro marino!</info>
+ 
+<genre>Família, Animação</genre>
+ 
+<date>14/03/2016</date>
+</item>"
+"<item>
+
+<title>Monster High: Eletrizante [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRHGELTRZNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3452.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3452.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação
+Lançamento: 2017
+
+Quando Clawdeen sonha em abrir um salão para monstros e normais, Frankie tem o lugar perfeito: uma estação elétrica abandonada, fora da cidade. Mas a ideia leva uma voltagem negativa, quando Moanica planeja arruinar tudo e mudar a festa para algo um pouco mais… chocante! Por sorte, as monstrinhas têm uma arma secreta a seu favor: Twyla, a filha do Bicho-Papão, e o monstro perfeito para desenterrar qualquer mistério. Juntas, as amigas monstrinhas precisam apagar o plano de Moanica, acender suas roupas, salvar a cidade dos normais da escuridão… e abrir o salão mais eletrizante de todos! Então fiquem atentos a todas as idas, vindas, voltas e reviravoltas…porque as monstrinhas de Monster High estão ficando elétricas!</info>
+ 
+<genre>Família, Animação</genre>
+ 
+<date>04/04/2017</date>
+</item>"
