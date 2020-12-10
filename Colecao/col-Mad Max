@@ -1,0 +1,76 @@
+"<item>
+
+<title>Mad Max [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDMX01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3177.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica
+Lançamento: 1980
+
+Num futuro próximo, o combustível que alimenta os motores dos carros é também motivo para crimes perpretados por violentas gangues. Max é um jovem policial e junto com seus companheiros patrulha as estradas a fim de impedir a ação daqueles que insistem em perturbar a paz. A morte de um membro pelas mãos de Max dá início a uma série de crimes cruéis cometidos contra sua família e o melhor amigo. Assim, Max só tem uma escolha: vingança.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica</genre>
+ 
+<date>24/05/1980</date>
+</item>"
+"<item>
+
+<title>Mad Max: A Caçada Continua [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDMX02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3178.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3178.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica
+Lançamento: 1982
+
+No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max (Mel Gibson) resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica</genre>
+ 
+<date>05/04/1982</date>
+</item>"
+"<item>
+
+<title>Mad Max: Além da Cúpula do Trovão [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MDMX03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3179.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3179.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1985
+
+Após a destruição da civilização surge Bartertown, uma cidade no deserto com regras primitivas e mortais que tem uma governante que deseja consolidar seu poder a qualquer preço. Até que lá chega Max, que é forçado a participar de uma luta e, por ter se recusado a matar seu oponente, acaba sendo banido no deserto. Até que um grupo de jovens selvagens o salvam e passam a considerá-lo um messias que os levará até uma nova terra.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>06/08/1985</date>
+</item>"
+"<item>
+
+<title>Mad Max: Estrada da Fúria [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MDMXESTDFUR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3180.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3180.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2015
+
+Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>14/05/2015</date>
+</item>"
