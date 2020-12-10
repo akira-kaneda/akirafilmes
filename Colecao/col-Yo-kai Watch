@@ -1,0 +1,38 @@
+"<item>
+
+<title>Yo-kai Watch o Filme: O Segredo do Nascimento Nyan! [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YOKWTCHOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6446.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6446.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia, Aventura
+Lançamento: 2014
+
+Quando os malvados Yo-Kai Kin, Gin e Bronzlow fazem o Yo-Kai Watch desaparecer com o tempo para que possam ajudar Dame Dedtime a impedir que humanos e Yo-Kai sejam amigos, Nate Adams encontra ajuda em Yo-Kai Hovernyan, que leva Nate , Sussurro e Jibanyan 60 anos atrás, quando o Relógio Yo-Kai foi inventado pelo avô de Nate, Nathaniel Adams, quando ele era um menino. Juntos, os dois meninos lutam contra Dame Dedtime e seus malvados asseclas Wicked Yo-Kai para salvar o mundo de seus planos malignos.</info>
+ 
+<genre>Animação, Família, Fantasia, Aventura</genre>
+ 
+<date>20/12/2014</date>
+</item>"
+"<item>
+
+<title>Yo-kai Watch o Filme: Enma Daioh e os Cinco Contos Nyan!  [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YOKWTCHOGREEA5A.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6447.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6447.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura, Comédia, Fantasia
+Lançamento: 2015
+
+Nate, Whisper, Jibanyan, Hailey, USApyon e todos os seus amigos Yo-kai embarcam em cinco aventuras únicas que acabam amarradas no final.</info>
+ 
+<genre>Família, Animação, Aventura, Comédia, Fantasia</genre>
+ 
+<date>19/12/2015</date>
+</item>"
