@@ -1,0 +1,76 @@
+"<item>
+
+<title>O Rei Leão [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REILAO01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4354.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4354.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Drama
+Lançamento: 1994
+
+Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.</info>
+ 
+<genre>Família, Animação, Drama</genre>
+ 
+<date>08/07/1994</date>
+</item>"
+"<item>
+
+<title>O Rei Leão II: O Reino de Simba [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REILAO02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4356.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4356.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família
+Lançamento: 1998
+
+Kiara é a filhote de Simba e Nala. A pequena leoa tem um espírito livre e aventureiro. Um dia, ela resolve passear para além dos limites do território de seu pai e encontra os descendentes do maléfico Scar. Um dos descendentes do algoz de Mufasa é Kovu, que se torna um grande amigo de Kiara. Entretanto, o amor entre os dois leõezinhos irá reacender uma rivalidade histórica.</info>
+ 
+<genre>Aventura, Animação, Família</genre>
+ 
+<date>29/10/1998</date>
+</item>"
+"<item>
+
+<title>O Rei Leão 3: Hakuna Matata [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REILAO03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4357.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4357.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2004
+
+Timão e Pumba começam a assistir o primeiro filme do Rei Leão, e Timão fica insistindo para que Pumba avance até a parte em que eles aparecem, porque eles não estão no início do filme. A partir daí, Pumba resolve contar um pouco da história dos dois, que começa antes da jornada de Simba. Contam sobre a mãe de Timão e sobre o Tio Max, descobrem porque Timão deixou a colônia, e onde ele aprendeu o Hakuna Matata. Também relatam como os dois se conheceram, e os perigos que enfrentaram enquanto procuravam pelo lar dos sonhos.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>28/10/2004</date>
+</item>"
+"<item>
+
+<title>O Rei Leão [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OREILEO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4355.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4355.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Música, Animação
+Lançamento: 2019
+
+Simba é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar faz com que Mufasa, o atual rei, morra ao tentar salvar o filhote. Consumido pela culpa, Simba deixa o reino rumo a um local distante, onde encontra amigos que o ensinam a mais uma vez ter prazer pela vida.</info>
+ 
+<genre>Aventura, Família, Música, Animação</genre>
+ 
+<date>18/07/2019</date>
+</item>"
