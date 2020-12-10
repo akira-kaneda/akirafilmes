@@ -1,0 +1,38 @@
+"<item>
+
+<title>Jack Reacher: O Último Tiro [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/JCKRCHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2816.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2816.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller, Ação
+Lançamento: 2013
+
+Um crime brutal foi cometido contra cinco pessoas ao mesmo tempo e um atirador de elite, veterano de guerra, foi acusado pelos assassinatos sem muita chance de defesa. Durante o interrogatório, ele cita apenas o nome de Jack Reacher (Tom Cruise), um ex-combatente com inúmeras condecorações, dado como desaparecido para o governo e autoridades. Só que ele aparece do nada e resolve investigar por conta própria o tal mistério. Sua teoria é que existe uma ligação entre as mortes e o verdadeiro responsável tem outros interesses, procurando desviar a atenção. Só que Jack não desiste da verdade e tem um jeito especial de fazer a sua justiça, doa a quem doer.</info>
+ 
+<genre>Crime, Drama, Thriller, Ação</genre>
+ 
+<date>11/01/2013</date>
+</item>"
+"<item>
+
+<title>Jack Reacher: Sem Retorno [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JCKRCHSRTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2817.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2817.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2016
+
+Jack Reacher (Tom Cruise) retorna à base militar onde serviu na Virgínia, onde pretende levar uma comandante local para jantar. Só que, logo ao chegar, descobre que ela foi presa por traição. Não demora muito para que ele assuma a responsabilidade de salvá-la.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>24/11/2016</date>
+</item>"
