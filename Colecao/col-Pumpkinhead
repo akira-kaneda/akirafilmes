@@ -1,0 +1,76 @@
+"<item>
+
+<title>Pumpkinhead A Vingança do Diabo [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PUMPKHD1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5097.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5097.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror
+Lançamento: 1988
+
+Um homem evoca um demônio de vingança gigante chamado Pumpkinhead para destruir os adolescentes que acidentalmente mataram seu filho.</info>
+ 
+<genre>Fantasia, Terror</genre>
+ 
+<date>14/10/1988</date>
+</item>"
+"<item>
+
+<title>Pumpkinhead - O Retorno [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PUMPKHD2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5095.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5095.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Fantasia, Thriller
+Lançamento: 1994
+
+Estranhos assassinatos aterrorizam a cidade de Ferren Woods. O xerife local investiga e descobre que o responsável é o espírito de criatura assassinada no local há anos, que busca vingança. Continuação de 'A Vingança do Diabo'.</info>
+ 
+<genre>Terror, Fantasia, Thriller</genre>
+ 
+<date>19/10/1994</date>
+</item>"
+"<item>
+
+<title>Pumpkinhead 4 - Maldição Sangrenta [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PUMPKHD4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5096.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5096.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Fantasia, Cinema TV
+Lançamento: 2007
+
+Durante uma amarga disputa familiar, Jodie Hatfield e seu namorado Ricky McCoy decidem deixar a cidade para evitar serem descobertos, mas logo são pegos em flagrante. Querendo vingança, ele procura o monstro Pumpkinhead, e o ressuscita em busca de vingança contra a família. Apesar de ser avisado pelo fantasma de Ed Harley, seu plano de vingança começa, e a família Hatfield logo está sob o cerco do poderoso demônio. Não aceitando a lenda da criatura e acreditando que seus arquirrivais são a verdadeira causa, as duas famílias tentam ir para a guerra, apenas para serem interrompidas quando Pumpkinhead ataca a casa de Hatfield. Pondo de lado suas diferenças, eles se unem para afastar a criatura antes que seu pacto de vingança seja concluído.</info>
+ 
+<genre>Terror, Fantasia, Cinema TV</genre>
+ 
+<date>10/02/2007</date>
+</item>"
+"<item>
+
+<title>Pumpkinhead de Volta das Cinzas [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PUMPKHD3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5098.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5098.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Fantasia, Cinema TV
+Lançamento: 2007
+
+Ele jogou seus entes queridos em um pântano. Agora eles querem vingança ... Mas quando um demônio faz seu trabalho sujo, isso tem um preço.</info>
+ 
+<genre>Terror, Fantasia, Cinema TV</genre>
+ 
+<date>08/05/2007</date>
+</item>"
