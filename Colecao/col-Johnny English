@@ -1,0 +1,57 @@
+"<item>
+
+<title>Johnny English [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JHNYENGLSH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2885.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2885.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia
+Lançamento: 2003
+
+Pascal Sauvage (John Malkovich) é um perigoso ladrão que consegue roubar as jóias da Coroa britânica, sendo que está em seus planos roubar futuramente também o trono real. Para recuperar as jóias roubadas é convocado Johnny English (Rowan Atkinson), que terá como parceira em sua missão a bela Lorna Campbell (Natalie Imbruglia).</info>
+ 
+<genre>Aventura, Ação, Comédia</genre>
+ 
+<date>25/04/2003</date>
+</item>"
+"<item>
+
+<title>O Retorno de Johnny English [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ORTNODJHNYENGLSH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4375.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4375.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Aventura, Ação, Comédia, Thriller
+Lançamento: 2011
+
+Desde que o agente de topo do MI7 desapareceu do mapa, ele esteve a aprumar as suas capacidades únicas numa remota região da Ásia. Mas quando os seus superiores da agência são informados de uma tentativa de assassinato do primeiro-ministro chinês, eles têm de recuperar o pouco ortodoxo agente. Agora que o mundo precisa dele outra vez, Johnny English regressa à acção. Sem margem para falhas, ele terá de utilizar os mais recentes equipamentos de alta tecnologia para desmascarar uma conspiração que envolve o KGB, a CIA e até o MI7. Com poucos dias até uma conferência de líderes de estado, um homem deve usar todos os truques que tem na manga para nos proteger. Para Johnny English o desastre pode ser uma opção, mas o fracasso nunca.</info>
+ 
+<genre>Crime, Aventura, Ação, Comédia, Thriller</genre>
+ 
+<date>21/10/2011</date>
+</item>"
+"<item>
+
+<title>Johnny English 3.0 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JHNYENGLSH3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2886.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2886.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2018
+
+Em sua nova aventura, Johnny English (Rowan Atkinson) é a última salvação do serviço secreto, quando um ataque cibernético revela as identidades de todos os agentes do país. Tirado de sua aposentadoria, ele volta à ativa com a missão de achar o hacker por trás do ataque. Com poucas habilidades e métodos analógicos, Johnny English precisa superar os desafios do mundo tecnológico para fazer da missão um sucesso.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>01/11/2018</date>
+</item>"
