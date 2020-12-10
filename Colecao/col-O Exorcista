@@ -1,0 +1,171 @@
+"<item>
+
+<title>O Exorcista [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OEXRCSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3979.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3979.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1974
+
+Em Georgetown, Washington, uma atriz vai gradativamente tomando consciência que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que também um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>11/11/1974</date>
+</item>"
+"<item>
+
+<title>O Exorcista II - O Herege [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OEXRCSTA2OHRGE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3981.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3981.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Fantasia, Drama
+Lançamento: 1977
+
+Anos depois de ter sido libertada pelas forças do mal, a jovem Regan (Linda Blair) volta a ouvir vozes e ter delírios. Com a ajuda de uma psicanalista, ela tenta se curar, mas só mesmo com uma sessão de exorcismo que poderá afastar de vez o demônio. Ao mesmo tempo, um padre investiga a morte do exorcista que ajudou a menina durante o seu primeiro surto.</info>
+ 
+<genre>Terror, Thriller, Fantasia, Drama</genre>
+ 
+<date>17/06/1977</date>
+</item>"
+"<item>
+
+<title>O Exorcista: O Início  [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OEXCSTOINC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3980.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3980.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2004
+
+Padre Merrin é assombrado por suas experiências na Segunda Guerra Mundial quando tropas nazistas o forçam a cometer atrocidades. Na sequência, ele renuncia à fé e começa a trabalhar como um arqueólogo. Ele viaja ao Quênia, onde uma igreja bizantina do século V mantém relíquias antigas e encontra Sarah, uma médica e sobrevivente de um campo de concentração. As ocorrências estranhas que se sucedem o reúnem com o mal do qual tentou escapar.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>20/08/2004</date>
+</item>"
+"<item>
+
+<title>Domínio: Prequela do Exorcista [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DOMNOPRQLDOEXCRTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1991.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1991.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2005
+
+Padre Merrin aceita participar de uma escavação arqueológica e, resistindo à presença de forças sobrenaturais, tem seu primeiro encontro com o demônio Pazuzu, presenciando sinais de possessão demoníaca.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>20/05/2005</date>
+</item>"
+"<item>
+
+<title>O Exorcismo de Emily Rose [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OEXRCSMDEMLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3978.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3978.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Terror, Thriller
+Lançamento: 2005
+
+A jovem estudante Emily Rose começa a alucinar e ter surtos cada vez mais frequentes, que causam perda de memória. Católica praticante, ela aceita ser submetida a uma sessão de exorcismo. Quem a realiza é o sacerdote de sua paróquia, o padre Richard Moore. Porém, Emily morre durante o exorcismo, o que faz com que o padre seja acusado de assassinato. A advogada Erin Bruner aceita pegar a defesa do padre e argumenta que a condição de Emily não pode ser explicada somente pela ciência.</info>
+ 
+<genre>Crime, Drama, Terror, Thriller</genre>
+ 
+<date>02/12/2005</date>
+</item>"
+"<item>
+
+<title>O Último Exorcismo [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OULTMEXCSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4457.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4457.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Thriller
+Lançamento: 2010
+
+Numa fazenda no estado de Louisiana, nos Estados Unidos, Louis Sweetzer (Louis Herthum) acredita que sua filha Nell (Ashley Bell) está possuída por um demônio. Ele chama o reverendo Cotton Marcus (Patrick Fabian), com dezenas de exorcismos realizados, para salvar a jovem. Marcus decide filmar este seu último exorcismo, mas o que encontra no local é diferente de tudo que já tinha visto antes.</info>
+ 
+<genre>Terror, Drama, Thriller</genre>
+ 
+<date>03/10/2010</date>
+</item>"
+"<item>
+
+<title>O Último Exorcismo: Parte II [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OULTMEXCSMPT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4458.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4458.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Drama
+Lançamento: 2013
+
+Após escapar do ritual realizado por um culto, que desejava que ela desse a luz a um filho demoníaco, a jovem Nell Sweetzer (Ashley Bell) é encontrada suja e completamente aterrorizada na floresta. Apesar de ser examinada por uma equipe médica, Nell não se lembra bem do que lhe aconteceu. Ela decide se mudar para a pequena cidade de Davreaux, onde tenta recomeçar a vida em um lar para garotas abandonadas. Entretanto, não demora muito para que o demônio Abalam volte a atormentá-la. Desta vez, Nell poderá contar com uma poderosa equipe de exorcistas, que conhecem as técnicas mais avançadas para livrá-la de uma vez por todas desse mal.</info>
+ 
+<genre>Terror, Thriller, Drama</genre>
+ 
+<date>08/03/2013</date>
+</item>"
+"<item>
+
+<title>O Exorcismo [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OEXRCSMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3976.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3976.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2015
+
+Após uma série de assassinatos, um jovem de 18 anos chamado Jesse é presso. Considerado culpado, ele recebe como pena uma injeção letal. Três anos depois, Kate (Lisa Mackel Smith), a mãe de Jesse, contrata uma equipe de documentário para provar que o filho só cometeu os crimes pois estava possuído por um demônio. Kate será filmada pela equipe enquanto ela mesma é possuída por um demônio.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>10/02/2015</date>
+</item>"
+"<item>
+
+<title>O Exorcismo de Anna Ecklund [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OEXCSMDANECKLN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3977.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3977.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2016
+
+Nesta história real terrível, algo além da compreensão está acontecendo com a esposa e mãe Anna Ecklund. Uma vez uma paroquiana calma e educada, ela agora está propensa a ataques de raiva, com um ódio particularmente violento contra imagens religiosas. Desesperado para encontrar uma cura para o comportamento perturbador de Anna, sua família convida médicos e psiquiatras para fornecer um diagnóstico. Mas quando nenhuma explicação racional pode ser encontrada, o sacerdote local Padre Riesinger se une ao investigador do Vaticano Padre Lamont para avaliar o caso. Percebendo que Anna está possuída por uma entidade malévola, os sacerdotes a levam para um convento nas proximidades para realizar um exorcismo. Mas todo o inferno é libertado e uma batalha brutal começa entre o bem e o mal.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>07/03/2016</date>
+</item>"
