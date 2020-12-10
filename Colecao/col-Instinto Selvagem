@@ -1,0 +1,38 @@
+"<item>
+
+<title>Instinto Selvagem [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INSTOSLVGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2771.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2771.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério
+Lançamento: 1992
+
+Ao investigar um assassinato, o detetive Nick Curran (Michael Douglas) se vê diante de um mistério: a principal suspeita é a namorada da vítima. Catherine Tramell (Sharon Stone), uma escritora de sucesso, descreve em seu último livro uma cena exatamente igual à do crime. A situação se complica porque Nick se vê envolvido com a insinuante escritora, numa trama de intrigas e sexo que pode acabar com a sua carreira e mesmo com a sua vida.</info>
+ 
+<genre>Thriller, Mistério</genre>
+ 
+<date>12/06/1992</date>
+</item>"
+"<item>
+
+<title>Instinto Selvagem 2 [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INSTOSLVGM2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2772.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2772.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Mistério, Thriller
+Lançamento: 2006
+
+Catherine Tramell (Sharon Stone) é uma escritora de suspenses que se mudou há pouco de São Francisco para Londres. A misteriosa morte de um astro do esporte, em que Tramell esteve envolvida, faz com que o respeitado psicanalista Michael Glass (David Morrissey) seja designado pela Scotland Yard para fazer uma avaliação psiquiátrica da escritora. Glass logo se sente fisicamente atraído por Tramell e ao mesmo tempo intrigado com ela. Contrariando os conselhos de sua mentora, a dra. Milena Gardosh (Charlotte Rampling), Glass se envolve com Tramell, dando início a um jogo de mentiras e sedução.</info>
+ 
+<genre>Crime, Mistério, Thriller</genre>
+ 
+<date>21/04/2006</date>
+</item>"
