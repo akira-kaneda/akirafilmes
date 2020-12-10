@@ -1,0 +1,57 @@
+"<item>
+
+<title>O Pestinha [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPESTNH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4267.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4267.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1990
+
+Ben Healy (John Ritter) é um simpático mas batido yuppie, que trabalha para seu pai, Big Ben (Jack Warden), um autoritário negociante de materiais esportivo. Ben amaria ter um filho, mas Flo (Amy Yasbeck), sua esposa, não pode concebê-lo. Ben vai até uma agência de adoção pouco escrupulosa e fala de seu dilema com o agente Igor Peabody (Gilbert Gottfried), que apresenta a Ben e a Flo um atraente menino de sete anos, Junior (Michael Oliver), que na verdade não é uma criança modelo, pois é malévolo e incorrigível. Já adotado, Junior deixa um rastro de destruição no seu caminho e mostra um método efetivo, mas pouco ético, de ganhar na Liga Infantil. Ben está tendo dúvidas sérias sobre Junior quando Martin Beck (Michael Richards), um serial killer, escapa da prisão e seqüestra Junior e sua nova mãe.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>27/07/1990</date>
+</item>"
+"<item>
+
+<title>O Pestinha 2 [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPESTNH2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4268.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4268.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1991
+
+Recém divorciado, Ben e seu filho Junior mudam-se para uma nova cidade onde existem muitas mulheres separadas disponíveis. Logo elas tratam de fazer fila na porta de Ben, enquanto Junior tortura seus vizinhos e colegas de classe com suas travessuras cruéis. Uma divorciada persistente consegue colocar suas garras no novo solteirão da cidade, apesar do amor dele por uma bela enfermeira, e os dois concordam em se casar. Agora Junior e sua amiga Trixie, filha da enfermeira, precisam impedir o casamento a qualquer custo.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>03/07/1991</date>
+</item>"
+"<item>
+
+<title>O Pestinha 3 [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPESTNH3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4269.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4269.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2005
+
+A terceira parte da trilogia O Pestinha traz o endiabrado Junior em sua fase pré-adolescente. Ele está apaixonado por Tiffany, a garota mais popular e bonita da escola, que nem ao menos sabe que ele existe. O que ela sabe é que outros três garotos estão interessados nela e para Junior, endiabrado como sempre, eles não passam de rivais. Está armada a cena para uma verdadeira guerra! E para conquistar o coração da bela Tiffany e se livrar dos concorrentes ele vai precisar contar com a ajuda de seu avô, o velho Big Ben.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>13/10/2005</date>
+</item>"
