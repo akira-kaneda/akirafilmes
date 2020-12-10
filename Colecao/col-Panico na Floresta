@@ -1,0 +1,114 @@
+"<item>
+
+<title>Pânico na Floresta [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANCNFLRST1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4764.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4764.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2004
+
+Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado devido a diversas gerações cosanguíneas terem nascido. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>05/03/2004</date>
+</item>"
+"<item>
+
+<title>Pânico na Floresta 2 [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANCNFLRST2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4765.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4765.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2007
+
+Quando Mike leva a namorada para um acampamento nas montanhas, ela desaparece misteriosamente. Procurando por conta própria, ele encontra uma pequena cabana - e entre as velas e crucifixos de um culto de degenerados, o horror vai começar.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>07/12/2007</date>
+</item>"
+"<item>
+
+<title>Pânico na Floresta 3 [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANCNFLRST3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2386.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2386.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2009
+
+Enquanto faziam rafting em um rio, quatro amigos da faculdade são atacados por um grupo de canibais mutantes. Apenas a estudante Alex (Janet Montgomery) consegue escapar pelas florestas. Ao mesmo tempo, um grupo de criminosos é transportado em um ônibus, quando são atingidos por um caminhão dirigido pelos canibais. O perigoso criminoso Carlo Chavez domina os guardas e prisioneiros restantes. Acidentalmente eles encontram Alex que conta sobre os canibais, que logo os sobreviventes descobrirão que são reais.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>20/10/2009</date>
+</item>"
+"<item>
+
+<title>Pânico na Floresta 4: Origens Sangrentas [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANCNFLRST4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4766.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4766.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2011
+
+Um grupo de jovens esquiadores consegue encontrar abrigo durante uma violenta nevasca. O que eles não sabem é que o lugar em que estão se refugiando é um antigo hospital psiquiátrico que não está tão abandonado quanto parece.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>17/10/2011</date>
+</item>"
+"<item>
+
+<title>Pânico na Floresta 5: Linha de Sangue [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANCNFLRST5.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4767.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4767.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2012
+
+Uma pequena cidade do West da Virginia hospeda o famoso festival intitulado “O Homem da Montanha” na data do dia das bruxas, em que uma multidão de foliões fantasiados se reúnem para festejar a noite com músicas e travessuras típicas da data. Mas uma família de canibais está prestes a acabar com a festa.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>23/10/2012</date>
+</item>"
+"<item>
+
+<title>Pânico na Floresta 6: Último Resort [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PANCNFLRST6.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4768.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4768.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2014
+
+Uma misteriosa herança leva Danny e seus amigos para um resort abandonado em Hobb Springs, que está sobre os cuidades de Jackson e Sally, um estranho casal que introduz Danny à família que nunca conheceu. Mas aos poucos, ele percebe que há esquisitas tradições, como canibalismo, uma das práticas que mantém a família unida. Agora, Danny terá de escolher entre seus amigos e sua linhagem de sangue.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>14/10/2014</date>
+</item>"
