@@ -1,0 +1,38 @@
+"<item>
+
+<title>Um Robô em Curto Circuito [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMRBEMCRTCTO1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6176.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6176.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ficção científica
+Lançamento: 1986
+
+Atingido por um raio, o robô conhecido apenas como ""Número 5"" escapa de uma empresa de eletrônica experimental. Newton Crosby (Steve Guttenberg) e seu assistente Ben Jabituya (Fisher Stevens) são convocados para tentar localizá-lo. Nº 5 encontra a ecologista Stephanie Speck (Ally Sheedy), esperando ensinar tudo para o ""alienígena"", ela preenche o banco de memória de Nº 5 com cultura pop e é aí que começa a confusão. Filme também conhecido pelo título, O Incrível Robô.</info>
+ 
+<genre>Comédia, Família, Ficção científica</genre>
+ 
+<date>09/05/1986</date>
+</item>"
+"<item>
+
+<title>Um Robô em Curto Circuito 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMRBEMCRTCTO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6177.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ficção científica, Drama
+Lançamento: 1988
+
+""Número 5"", também chamado ""Johnny 5"", o incrível e adorável robô em curto circuito, está de volta nesta acelerada comédia de ação que vai deixar a cidade de cabeça para baixo. O curioso Johnny 5 sai para um reconhecimento da cidade, mas alguns vadios de rua, um banqueiro ganancioso e uma gangue de pilantras percebem sua inocência e vêem sua passagem de alta tecnologia para faturar. Será que Johnny 5 vai sobreviver à grande cidade e esses escroques? Fique conectado neste filme de alta voltagem para saber a resposta.</info>
+ 
+<genre>Comédia, Família, Ficção científica, Drama</genre>
+ 
+<date>06/07/1988</date>
+</item>"
