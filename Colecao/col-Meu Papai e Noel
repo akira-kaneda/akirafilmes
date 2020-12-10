@@ -1,0 +1,57 @@
+"<item>
+
+<title>Meu Papai é Noel [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MEUPAPENOEL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3361.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3361.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Drama, Comédia, Família
+Lançamento: 1994
+
+Papai Noel sofre um acidente no telhado da casa de Allen, um bem-sucedido vendedor de brinquedos (Tim Allen). Como não pode continuar seu trabalho, Noel pede para que o vendedor entregue os presentes para as crianças naquela data e explica como fazê-lo. Ele começa a ajudar, mas percebe que está engordando e sua barba crescendo. E com o tempo, Allen transforma-se no próprio Papai Noel.</info>
+ 
+<genre>Fantasia, Drama, Comédia, Família</genre>
+ 
+<date>11/11/1994</date>
+</item>"
+"<item>
+
+<title>Meu Papai é Noel 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MEUPAPENOEL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3362.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3362.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Família
+Lançamento: 2002
+
+Após 8 anos ocupando o posto de Papai Noel, Scott Calvin (Tim Allen) é considerado a pessoa mais indicada para o cargo. Entretanto, Scott enfrenta problemas. Além de estar perdendo peso inexplicavelmente, seu filho Charlie (Eric Lloyd) entrou neste ano para a lista dos meninos maus, que não receberão presente no próximo Natal. Preocupado, Scott decide voltar para casa para saber o que está acontecendo com Charlie, deixando em seu lugar um substituto. Porém, logo após a viagem de Scott o Papai Noel temporário começa a tomar medidas arbitrárias, que modificam com as definições de bom e mau para os garotos e pode acabar estragando o próprio Natal.</info>
+ 
+<genre>Fantasia, Comédia, Família</genre>
+ 
+<date>01/11/2002</date>
+</item>"
+"<item>
+
+<title>Meu Papai é Noel 3: A Fuga do Papai Noel [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MEUPAPENOEL3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3363.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3363.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Aventura
+Lançamento: 2006
+
+Scott Calvin, aliás Santa, precisa manter sua nova família feliz e impedir que Jack Frost acabe com o Natal. Apesar dos riscos, Scott leva seus sogros e sua ex-esposa ao Pólo Norte para destruir o plano maléfico de Jack Frost.</info>
+ 
+<genre>Comédia, Família, Aventura</genre>
+ 
+<date>03/11/2006</date>
+</item>"
