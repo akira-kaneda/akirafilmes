@@ -1,5 +1,24 @@
 "<item>
 
+<title>Trainspotting - Sem Limites [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRNSPTSMLMTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5985.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5985.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1996
+
+Em Edimburgo, na Escócia, vive Renton (Ewan McGregor), um jovem usuário de heroína que leva uma vida despreocupada, dividindo-se entre seu romance com a estudante colegial Diane (Kelly Macdonald) e os encontros com seus quatro amigos viciados: Sick Boy, (Jonny Lee Miller), um imoral desenhista de HQs fanático por Sean Connery; Tommy (Kevin McKidd), um atleta responsável; Spud (Ewen Bremner), um bobalhão de bom coração e Begbie (Robert Carlyle), um violento sociopata.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>16/08/1996</date>
+</item>"
+"<item>
+
 <title>T2 Trainspotting: Sem Limites 2 [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/SMLMTS2.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
