@@ -1,0 +1,57 @@
+"<item>
+
+<title>Muppets - O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MUPTSOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Aventura, Comédia, Família
+Lançamento: 1979
+
+Após um encontro casual com um agente, Caco decide ir para Hollywood buscar espaço no show business. Fozzie, Gonzo e Miss Piggy juntam-se a ele, na esperança de também se tornarem grandes astros. No caminho, porém, Caco acaba nas mãos do Doutor Hopper, perigoso dono de uma rede de restaurantes.</info>
+ 
+<genre>Música, Aventura, Comédia, Família</genre>
+ 
+<date>05/10/1979</date>
+</item>"
+"<item>
+
+<title>Os Muppets [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSMPTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4666.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4666.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Música
+Lançamento: 2011
+
+De férias em Los Angeles, Walter, o maior fã dos Muppets em todo o mundo, seu irmão Gary e sua amiga Mary descobrem um nefasto plano de um ganancioso explorador de petróleo para destruir o teatro Muppet. Agora, o trio precisa reunir Kermit, Miss Piggy, Fozzie e seus amigos para o maior telethon Muppet de todos os tempos e salvar o adorado teatro. A gangue está reunida novamente em um filme recheado de músicas irresistíveis e diversão para toda a família.</info>
+ 
+<genre>Comédia, Família, Música</genre>
+ 
+<date>23/11/2011</date>
+</item>"
+"<item>
+
+<title>Muppets 2: Procurados e Amados [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSMPTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3518.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3518.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Aventura, Crime, Família
+Lançamento: 2014
+
+Um empresário convida os Muppets para uma turnê mundial. Kermit desconfia de suas intenções, hesita, mas o grupo acaba aceitando a proposta. Entretanto, tudo não passa de uma armadilha e eles se veem envolvidos em uma trama criminosa internacional chefiada pelo perigoso sósia de Kermit, o sapo Constantine. Kermit acaba preso na Sibéria e, enquanto tenta provar sua verdadeira identidade, Constantine está livre para realizar um grande roubo.</info>
+ 
+<genre>Comédia, Aventura, Crime, Família</genre>
+ 
+<date>27/03/2014</date>
+</item>"
