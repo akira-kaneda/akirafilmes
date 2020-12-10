@@ -1,0 +1,38 @@
+"<item>
+
+<title>Quarentena [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/QRTNA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5112.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5112.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 2009
+
+Angela Vidal (Jennifer Carpenter) é uma repórter de TV que, juntamente com seu operador de câmera Scott Percival (Steve Harris), são enviados para cobrir o turno noturno de dois bombeiros. Após uma noite tranqüila, um chamado de emergência os leva a um pequeno prédio no centro da cidade. Ao chegarem alguns policiais já estão no local, devido aos gritos horripilantes que vêm de um apartamento do 3º andar. Ansiosos por um furo de reportagem, Angela e Scott decidem filmar tudo o que acontece no local.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>16/01/2009</date>
+</item>"
+"<item>
+
+<title>Quarentena 2 [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/QRTNA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5113.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5113.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Ficção científica
+Lançamento: 2011
+
+Um avião é tomado por um misterioso vírus. Após fazer um pouso de emergência, o avião é colocado em quarentena. Com alguns sobreviventes, o grupo vai precisar se unir para superar esse período de observação que não tem escapatória.</info>
+ 
+<genre>Terror, Mistério, Ficção científica</genre>
+ 
+<date>16/06/2011</date>
+</item>"
