@@ -1,0 +1,57 @@
+"<item>
+
+<title>Monty Python em Busca do Cálice Sagrado [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MNTYPTHEMBSCDCLCESGDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Fantasia
+Lançamento: 1975
+
+O Rei Artur sai à procura de cavaleiros que o acompanhe em uma atabalhoada jornada histórica: a busca do Santo Graal. Aparecem então Sir Lancelot, o Bravo; Sir Robin, o Não-Tão-Bravo-Quanto-Sir-Lancelot; Sir Galahad, o Puro, entre outros personagens surreais. Escrita pelo genial grupo de comédia britânico Monty Python, a trama do longa satiriza diversos eventos históricos ocorridos na Idade Média.</info>
+ 
+<genre>Aventura, Comédia, Fantasia</genre>
+ 
+<date>13/08/1975</date>
+</item>"
+"<item>
+
+<title>Monty Python A Vida de Brian [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MNTYPTHAVDADBRN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3465.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3465.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1980
+
+A produção é uma sátira aos filmes bíblicos e à intolerância religiosa. Na Palestina do ano 1 d.C., três reis magos trazem presentes à mãe de Brian, confundindo-o com Jesus que nasceu no mesmo dia, na manjedoura ao lado. Brian, depois de crescido, engaja-se em um dos muitos grupos revolucionários que se opõem ao domínio romano. Após tentar seqüestrar a mulher de Pôncio Pilatos com seu grupo, ele é visto como Messias pela uma multidão, ávida por lideranças religiosas.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>30/05/1980</date>
+</item>"
+"<item>
+
+<title>Monty Python - O Sentido da Vida [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MNTYPTHOSNDODVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3466.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3466.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1983
+
+O terceiro longa-metragem do grupo de humor Monty Python apresenta uma série de esquetes sobre os estágios da vida, do milagre do nascimento até a morte. A ironia, a crítica social e o bom humor, é claro, marcam presença em cada segmento do filme.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>12/05/1983</date>
+</item>"
