@@ -1,0 +1,95 @@
+"<item>
+
+<title>Hellboy [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HLBOY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2611.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2611.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Baseado em Quadrinho
+Lançamento: 2004
+
+Já perto do fim da 2ª Guerra Mundial, os nazistas tentam eliminar seus inimigos usando magia negra. Uma das experiências feitas é a tentativa de invocar forças ocultas. Um deste rituais é interrompido pelas forças aliadas, que encontram um garoto com aparência de demônio e a mão direita feita de pedra, apesar do ritual não ter sido concluído. O garoto passa a ser chamado de Hellboy e é levado pelos Aliados. Sessenta anos depois, Hellboy agora luta pelo bem e é chamado quando um estranho fenômeno, possivelmente sobrenatural, acontece.</info>
+ 
+<genre>Fantasia, Ação, Baseado em Quadrinho</genre>
+ 
+<date>30/07/2004</date>
+</item>"
+"<item>
+
+<title>Hellboy: A Espada das Tempestades [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HLBOYESPDSTMPSTD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2614.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2614.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Fantasia, Animação, Ação, Thriller, Ficção científica, Terror, Baseado em Quadrinho
+Lançamento: 2006
+
+Um professor universitário lê um documento proibido e é possuído por dois demônios, o do trovão e o da luz. Agora, os demônios querem invadir o mundo humano e despertar seus irmãos, os dragões. Hellboy e seus companheiros viajam para o Japão para investigar o caso. Ao chegar lá, o herói encontra a espada das tempestades que o fará conhecer e viajar bem de perto pela mitologia japonesa.</info>
+ 
+<genre>Cinema TV, Fantasia, Animação, Ação, Thriller, Ficção científica, Terror, Baseado em Quadrinho</genre>
+ 
+<date>28/10/2006</date>
+</item>"
+"<item>
+
+<title>Hellboy: Sangue e Ferro [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HLBOYSNGEFRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2615.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Fantasia, Animação, Terror, Ação, Thriller, Ficção científica, Baseado em Quadrinho
+Lançamento: 2007
+
+Em 1939, um jovem professor destruiu Erzebet Ondrunsko, uma vampira que atacou muitos inocentes com o intuito de se manter jovem. Agora, alguém do interior de Nova York está tentando trazê-la de volta à vida, e o velho professor decide investigar e proteger sua cidade. Junto com ele estarão Hellboy e a equipe do Bureau contra vampiros, monstros, lobisomens, fantasmas, harpias e bruxas - enfim, a velha guarda do horror.</info>
+ 
+<genre>Cinema TV, Fantasia, Animação, Terror, Ação, Thriller, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>10/03/2007</date>
+</item>"
+"<item>
+
+<title>Hellboy II: O Exército Dourado [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HLBOY2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2613.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2613.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Baseado em Quadrinho
+Lançamento: 2008
+
+Hellboy, sua namorada Liz e Abe Sapien enfrentam uma grande batalha quando um príncipe do submundo tenta recuperar a Terra. Cansado de viver à sombra dos seres humanos, o Príncipe Nuada tenta despertar um exército de máquinas assassinas para libertar as criaturas de fantasia na Terra. Apenas Hellboy pode deter o príncipe sombrio e impedir a aniquilação da humanidade.</info>
+ 
+<genre>Fantasia, Terror, Baseado em Quadrinho</genre>
+ 
+<date>05/09/2008</date>
+</item>"
+"<item>
+
+<title>Hellboy [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HLBOY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2612.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2612.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2019
+
+Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>16/05/2019</date>
+</item>"
