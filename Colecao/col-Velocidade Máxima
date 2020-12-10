@@ -1,0 +1,38 @@
+"<item>
+
+<title>Velocidade Máxima [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VLCDMXMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6302.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6302.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime
+Lançamento: 1994
+
+Howard Payne é um psicopata que está ameaçando Los Angeles com explosivos. Jack Traven é o agente que está perto de capturá-lo. Quando Payne instala bombas em um ônibus, Jack precisa evacuar os passageiros sem reduzir a velocidade do veículo para menos de 80 km por hora. Para complicar, a motorista, Annie, nunca dirigiu um ônibus antes</info>
+ 
+<genre>Ação, Aventura, Crime</genre>
+ 
+<date>09/06/1994</date>
+</item>"
+"<item>
+
+<title>Velocidade Máxima 2 [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VLCDMXMA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6303.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6303.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 1997
+
+O cruzeiro que Annie (Sandra Bullock) faz ao Caribe com Alex Shaw (Jason Patric), seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger (Willem Dafoe), um gênio em informática, seqüestra a embarcação. Alex precisa rapidamente anular os planos de Geiger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado.</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>08/08/1997</date>
+</item>"
