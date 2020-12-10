@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Agente Teen [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OAGNTEN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3689.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3689.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Família
+Lançamento: 2003
+
+À primeira vista Cody Banks (Frankie Muniz) é um adolescente comum, que odeia matemática, adora andar de skate e tem problemas para se aproximar de garotas. Porém ele na verdade é um agente mirim da CIA, tendo que realizar arriscadas missões em nome da segurança nacional. Numa delas Banks precisa se aproximar de Natalie (Hilary Duff), uma estudante que é filha do Dr. Connors (Martin Donovan), um cientista que está desenvolvendo uma perigosa arma de destruição para uma organização terrorista.</info>
+ 
+<genre>Ação, Aventura, Comédia, Família</genre>
+ 
+<date>14/03/2003</date>
+</item>"
+"<item>
+
+<title>O Agente Teen 2: Missão Londres [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OAGNTEN2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3690.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3690.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação, Aventura, Família
+Lançamento: 2004
+
+Após um agente renegado da CIA roubar do governo um aparelho controlador de mentes, o jovem agente Cody Banks (Frankie Muniz) é designado para o caso. O agente renegado foi também o instrutor de Cody no início de sua carreira na CIA, estando agora em Londres. Para capturá-lo Cody também viaja para a Inglaterra, se disfarçando como estudante em uma escola de música de elite. Ele terá a ajuda de Derek (Anthony Anderson), um agente rejeitado pela CIA que busca recuperar o prestígio dentro da agência, que se disfarça como chefe da cozinha da escola de música onde Cody está inscrito. A dupla terá ainda o apoio de Emily (Hannah Spearritt), uma agente do Serviço Secreto Britânico que também está infiltrada na escola.</info>
+ 
+<genre>Comédia, Ação, Aventura, Família</genre>
+ 
+<date>12/03/2004</date>
+</item>"
