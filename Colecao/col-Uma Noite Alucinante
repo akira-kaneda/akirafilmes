@@ -1,0 +1,57 @@
+"<item>
+
+<title>Uma Noite Alucinante: A Morte do Demônio [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTALCNTE1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6241.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6241.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1982
+
+Ashley e um grupo de amigos vão para uma casa na floresta para uma noite de diversão. Lá, encontram um velho livro que, quando lido em voz alta, desperta a morte. Os amigos acabam libertando uma corrente de demônios e agora terão que lutar por suas vidas ou acabarão como um deles.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>25/05/1982</date>
+</item>"
+"<item>
+
+<title>Uma Noite Alucinante 2 [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTALCNTE2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6239.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6239.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Comédia, Fantasia
+Lançamento: 1987
+
+Ash (Bruce Campbell) leva sua namorada Linda (Denise Bixler) até uma casa abandonada, onde encontra uma fita de áudio abandonada por um professor. Ash coloca a fita para tocar, ouvindo citações do livro dos mortos. Os encantamentos despertam as forças do mal na floresta ao lado, que transformam Linda em um monstruoso Deadite. O objetivo é fazer o mesmo com Ash, mas ele recebe a ajuda da filha do professor, de um mecânico que trabalhava com ele e sua namorada.</info>
+ 
+<genre>Terror, Comédia, Fantasia</genre>
+ 
+<date>29/10/1987</date>
+</item>"
+"<item>
+
+<title>Uma Noite Alucinante 3 [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMNTALCNTE3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6240.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6240.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Comédia
+Lançamento: 1993
+
+Ash é transportado acidentalmente para os tempos medievais. Preso no passado, ele precisa enfrentar um exército de mortos-vivos, para poder voltar para casa.</info>
+ 
+<genre>Fantasia, Terror, Comédia</genre>
+ 
+<date>15/12/1993</date>
+</item>"
