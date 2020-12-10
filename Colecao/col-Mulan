@@ -1,0 +1,57 @@
+"<item>
+
+<title>Mulan [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MULAN01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3502.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3502.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura
+Lançamento: 1998
+
+Na antiga China, durante a guerra, todos os homens são convocados para lutar. Mas, um pobre velho, que pela idade não poderia mais lutar, descobre que sua filha Mulan toma o seu lugar, vestindo-se como homem e permanecendo em segredo. Se isso for descoberto, o castigo será severo. Agora, durante a guerra, Mulan ganha a proteção de um pequeno dragão, cuja missão é cuidar para que ela volte a salvo</info>
+ 
+<genre>Animação, Família, Aventura</genre>
+ 
+<date>18/06/1998</date>
+</item>"
+"<item>
+
+<title>Mulan 2: A Lenda Continua [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MULAN02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3504.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3504.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Ação
+Lançamento: 2004
+
+O casamento entre Shang e Mulan está para acontecer, quando subitamente são enviados a uma missão secreta: escoltar três princesas chinesas até a Mongólia, com a finalidade de se casarem com príncipes mongóis e selarem a paz entre os dois reinos. Filme produzido diretamente para o mercado caseiro.</info>
+ 
+<genre>Animação, Comédia, Família, Ação</genre>
+ 
+<date>13/11/2004</date>
+</item>"
+"<item>
+
+<title>Mulan [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MULAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3503.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3503.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Fantasia
+Lançamento: 2020
+
+Hua Mulan é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.</info>
+ 
+<genre>Ação, Aventura, Drama, Fantasia</genre>
+ 
+<date>04/09/2020</date>
+</item>"
