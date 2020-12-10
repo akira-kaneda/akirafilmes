@@ -1,0 +1,38 @@
+"<item>
+
+<title>Pai em Dose Dupla [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PAIEMDSDLP1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4740.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4740.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2016
+
+Brad é executivo em uma rádio e se esforça para ser o melhor padrasto possível para os dois filhos de sua namorada, Sarah. Mas eis que Dusty, o desbocado pai das crianças, reaparece e começa a disputar com ele a atenção e o amor dos pimpolhos.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>28/01/2016</date>
+</item>"
+"<item>
+
+<title>Pai em Dose Dupla 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PAIEMDSDLP2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4741.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4741.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2017
+
+Após resolverem suas diferenças, Brad e Dusty precisam agora lidar com uma nova situação complicada: a súbita aparição de seus pais, que possuem comportamentos bem diferentes.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>23/11/2017</date>
+</item>"
