@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Plano Perfeito [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPLNOPRFTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4278.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4278.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 2006
+
+Assaltantes vestidos com uniformes de pintor invadem um movimentado banco em Nova York e fazem reféns. A polícia chega ao local esperando resolver a situação rapidamente, mas os detetives Frazier e Mitchell se surpreendem com a inteligência e a frieza do líder dos bandidos, Dalton Russell, que parece estar sempre um passo à frente das ações da polícia.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>24/03/2006</date>
+</item>"
+"<item>
+
+<title>O Plano Perfeito 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPLNOPRFTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4279.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4279.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2020
+
+Um negociador de reféns da NYPD se junta a um agente federal para resgatar dezenas de turistas mantidos reféns durante um sequestro de 10 horas no U.S. Federal Reserve.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>08/03/2020</date>
+</item>"
