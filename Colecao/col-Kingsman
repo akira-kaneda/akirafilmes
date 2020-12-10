@@ -1,0 +1,76 @@
+"<item>
+
+<title>King Kong [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KINGKONG1933.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2978.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2978.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Terror
+Lançamento: 1933
+
+Em Nova York um famoso diretor de cinema não consegue uma atriz para sua próxima produção, pois ninguém quer ir filmar em um lugar não revelado. Assim ele mesmo começa a vagar pelas ruas até que encontra uma jovem pobre, mas muito bonita, a quem imediatamente dá o emprego. A equipe viaja e vai parar em uma ilha desconhecida, na qual os nativos oferecem ""noivas"" para Kong, um gigantesco macaco. Após muitos perigos a equipe de filmagens conseguem capturar o macaco, pois pretendem levá-lo para Nova York para ser exibido. Paralelamente o símio se apaixona pela atriz.</info>
+ 
+<genre>Aventura, Drama, Terror</genre>
+ 
+<date>07/04/1933</date>
+</item>"
+"<item>
+
+<title>King Kong [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KNKONG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2979.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2979.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama
+Lançamento: 1976
+
+Uma expedição de exploração de petróleo chega a uma ilha isolada e encontra um colossal gorila gigante.</info>
+ 
+<genre>Aventura, Drama</genre>
+ 
+<date>17/12/1976</date>
+</item>"
+"<item>
+
+<title>King Kong [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KNKONG2005.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2980.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2980.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Ação
+Lançamento: 2005
+
+Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenco e contrata a tripulação de um navio cargueiro para viajar até a misteriosa Ilha da Caveira, onde encontram Kong, um gorila gigante, além de outros animais misteriosos.</info>
+ 
+<genre>Aventura, Drama, Ação</genre>
+ 
+<date>16/12/2005</date>
+</item>"
+"<item>
+
+<title>Kong: A Ilha da Caveira [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KONGAILHCVR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2995.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2995.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia
+Lançamento: 2017
+
+Um ex-militar viaja com um grupo de desbravadores até a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o Titan, soro que teria o poder de curar todas as doenças. Além de resgatar o irmão, o homem irá enfrentar as criaturas que habitam o local. A equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pacífico, que é tão bonita quanto traiçoeira, sem saber que estão atravessando para o domínio do mítico Kong.</info>
+ 
+<genre>Ação, Aventura, Fantasia</genre>
+ 
+<date>09/03/2017</date>
+</item>"
