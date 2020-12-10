@@ -1,0 +1,38 @@
+"<item>
+
+<title>Ted [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TED.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5819.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5819.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia
+Lançamento: 2012
+
+Quando criança, John desejou que seu ursinho Ted ganhasse vida e, surpreendentemente, foi atendido. Porém, agora que é adulto, ele precisa lidar com as consequências de seu pedido, já que Ted não vai parar de atormentar a sua vida.</info>
+ 
+<genre>Comédia, Fantasia</genre>
+ 
+<date>05/10/2012</date>
+</item>"
+"<item>
+
+<title>Ted 2 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TED2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5820.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5820.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2015
+
+O urso de pelúcia Ted casa-se com Tami-Lynn. O casal pretende ter um bebê, mas para terem direito à inseminação artificial, Ted tem que provar na justiça que é um ser humano. Para alcançar o seu sonho, ele conta com a ajuda da advogada Samantha e do seu grande amigo John.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>27/08/2015</date>
+</item>"
