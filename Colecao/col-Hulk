@@ -1,0 +1,133 @@
+"<item>
+
+<title>Hulk [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HULK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2712.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2712.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2003
+
+Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.</info>
+ 
+<genre>Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>27/06/2003</date>
+</item>"
+"<item>
+
+<title>O Incrível Hulk [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4110.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4110.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2008
+
+Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>13/06/2008</date>
+</item>"
+"<item>
+
+<title>Hulk vs. Thor [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HLKVSTHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2713.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2713.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+No filme Hulk Vs. Thor, Em Asgard, reino dos deuses, Loki tenta uma maneira de derrotar seu meio-irmão Thor. Mas para superar Thor em um batalha, em todos os nove reinos, só uma criatura pôde se emparelhar com sua força, uma fera mortal de Midgard conhecida como O Incrível Hulk. Sem Odin por perto, já que o rei todo-poderoso dos deuses está em seu sono regenerativo. Loki está finalmente pronto para por em prática seu plano. Ima batalha épica entre deuses e monstros será travada e O Poderoso Thor terá seu mais mortal teste. Quem prevalecerá?</info>
+ 
+<genre>Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>27/01/2009</date>
+</item>"
+"<item>
+
+<title>Hulk vs. Wolverine [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HLKVSWVN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2714.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2714.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2009
+
+No filme Hulk Vs. Wolverine, O incrível tem deixado um rastro de destruição na zona rural canadense. Ele tem que ser detido, e só existe um homem para o trabalho. Ele é o melhor no que faz, mas o que ele não é muito agradável. Ele é Wolverine, agente de elite do Departamento Secreto H do Canadá, Wolverine irá segui o rastro de Hulk com um único objetivo: parar o Monstro Verde a todo custo. Hulk e Wolveriene estão prestes a entrar na mais feroz batalha de suas vidas.</info>
+ 
+<genre>Animação, Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>27/01/2009</date>
+</item>"
+"<item>
+
+<title>Planeta Hulk [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PLNTHLK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4937.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4937.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica
+Lançamento: 2010
+
+Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</info>
+ 
+<genre>Animação, Ação, Ficção científica</genre>
+ 
+<date>02/02/2010</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro e Hulk - Super-Heróis Unidos [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HMEMDFROHLKSPTUNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2667.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2667.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Família, Baseado em Quadrinho
+Lançamento: 2013
+
+Os super-heróis Homem de Ferro e Hulk deverão unir suas forças para salvar a Terra de sua maior ameaça.</info>
+ 
+<genre>Ação, Aventura, Animação, Família, Baseado em Quadrinho</genre>
+ 
+<date>03/12/2013</date>
+</item>"
+"<item>
+
+<title>Hulk: Onde os Monstros Habitam [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HLKONDOSMNSTRHTBM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2715.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2715.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2016
+
+Contando com a ajuda do Doutor Estranho e do Comando Selvagem, um curioso esquadrão da S.H.I.E.L.D., Hulk terá pela frente uma das missões mais difíceis de sua vida: interromper toda a destruição que está sendo causada pelo temido Pesadelo. Após ultrapassar a Dimensão dos Sonhos, o vilão colocou em prática seu plano de transformar todos os sonhadores em monstros e dominar o mundo através dos sonhos.</info>
+ 
+<genre>Ação, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>21/10/2016</date>
+</item>"
