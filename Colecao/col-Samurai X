@@ -1,0 +1,57 @@
+"<item>
+
+<title>Samurai X - O Filme [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SMRIXOFILME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5342.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5342.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História
+Lançamento: 2012
+
+Kenshin Himura (Takeru Satô) era um samurai, que trabalhava a serviço do Império, mas com o fim do xogunato e instauração do governo Meiji, ele faz a promessa de nunca mais voltar a matar. Quando ele se vê envolvido com uma série de assassinatos e negócios ilícitos relcionados a comercialização de ópio, seu compromisso é posto a prova, assim como a vida das pessoas que ele gosta.</info>
+ 
+<genre>Ação, Drama, História</genre>
+ 
+<date>25/08/2012</date>
+</item>"
+"<item>
+
+<title>Samurai X: O Inferno de Kyoto [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SMRIXOINFRNDKOTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5343.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5343.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama
+Lançamento: 2014
+
+O passado de Kenshin (Takeru Satoh) ainda consegue atormentar os seus pesadelos, mas ele começa a reencontrar a felicidade perdida junto de seus novos amigos, mas agora ele terá de reencontrar suas forças do passado para enfrentar um novo e terrível inimigo: Shishio Makoto (Tatsuya Fujiwara).</info>
+ 
+<genre>Ação, Aventura, Drama</genre>
+ 
+<date>01/08/2014</date>
+</item>"
+"<item>
+
+<title>Samurai X: O Fim de Uma Lenda [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5344.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5344.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama
+Lançamento: 2015
+
+Shishio e seu grupo partem para acabar com o novo governo. Kenshin, tentando salvar Kaoru, se perde em alto-mar e é resgatado por seu antigo mentor, Seijuro Hiko. Incapaz de vencer seu adversário, Kenshin pede a seu mestre que lhe ensine sua técnica suprema.</info>
+ 
+<genre>Ação, Aventura, Drama</genre>
+ 
+<date>07/02/2015</date>
+</item>"
