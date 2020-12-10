@@ -1,0 +1,399 @@
+"<item>
+
+<title>Superman: O Filme [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5764.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5764.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 1978
+
+Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>13/12/1978</date>
+</item>"
+"<item>
+
+<title>Superman II: A Aventura Continua [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5766.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5766.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 1981
+
+Três perigosos prisioneiros do extinto planeta Krypton, que estavam confinados na Zona Fantasma, se libertam graças à uma explosão. O trio parte então para a Terra, onde passam a ter os mesmos poderes do Super-Homem, mas o objetivo deles é dominar o planeta.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>01/06/1981</date>
+</item>"
+"<item>
+
+<title>Superman III [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5767.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5767.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica, Ação, Aventura
+Lançamento: 1983
+
+Superman (Christopher Reeve) enfrenta agora um computador diabólico, programado por um gênio da informática que pretende dominar o mundo.</info>
+ 
+<genre>Comédia, Ficção científica, Ação, Aventura</genre>
+ 
+<date>17/06/1983</date>
+</item>"
+"<item>
+
+<title>Supergirl [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SPRGRL1984.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5760.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5760.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 1984
+
+Supergirl (Helen Slater) parte rumo à Terra para tentar recuperar o Omegahedron, a fonte de energia necessária para salvar seu planeta Krypton. O objeto cai em mãos inimigas, em posse de bruxa Selena (Faye Dunaway), que deseja conquistar o mundo. Para complicar as coisas, Selena usa um feitiço para fazer um jardineiro se apaixonar por ela, porém a magia não dá certo e o rapaz se apaixona pela Supergirl, disfarçada pela identidade secreta de Linda Lee. A missão da Supergirl fica mais difícil…</info>
+ 
+<genre>Aventura, Fantasia, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>19/11/1984</date>
+</item>"
+"<item>
+
+<title>Superman IV: Em Busca da Paz [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5768.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5768.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1987
+
+Lex Luthor (Gene Hackman) fabrica um homem (Mark Pillow) com a mesma estrutura molecular de Superman (Christopher Reeve), portanto, com os mesmos poderes. A criatura está programada para destruir o Homem de Aço e, quando o duelo tem início, o confronto se torna uma grande ameaça à paz mundial.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>24/07/1987</date>
+</item>"
+"<item>
+
+<title>Superman: Brainiac Ataca [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMNFILME01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5763.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5763.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Família, Ficção científica, Baseado em Quadrinho
+Lançamento: 2006
+
+Superman, prestes a revelar sua identidade e seus sentimentos por Lois Lane, de repente é interrompido pela ameaça de Brainiac, um poderoso computador programado para dominar o mundo, que usa armamento de Lex Luthor (projetado para defender a Terra de meteoros) para atacar os humanos. Derrotado pelo herói numa primeira luta, Brainiac é revivido por Luthor que faz um acordo com ele e lhe dá um fragmento de kryptonita. Na nova luta entre Superman e Brainiac, Lois Lane é mortalmente ferida por um raio de força que a contamina com a radiação de kryptonita. Superman vai à Fortaleza da Solidão e descobre que o mineral que poderá salvá-la encontra-se na letal Zona Fantasma.</info>
+ 
+<genre>Animação, Ação, Família, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>20/06/2006</date>
+</item>"
+"<item>
+
+<title>Superman - O Retorno [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMNORTN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5779.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5779.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2006
+
+Após alguns anos de um misterioso desaparecimento, Superman (Brandon Routh) retorna ao planeta Terra. Porém a situação em Metrópolis está bastante mudada desde que o Homem de Aço deixou o planeta, pois a cidade se acostumou a viver sem ele. Além disto Lois Lane (Kate Bosworth), sua grande paixão, seguiu sua vida após o sumiço do herói. Ao mesmo tempo em que precisa se adaptar à nova realidade, Superman precisa enfrentar um antigo inimigo, que planeja um meio de acabar com ele de uma vez por todas.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>14/07/2006</date>
+</item>"
+"<item>
+
+<title>A Morte do Superman [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AMRTDSPNM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/7/items/457_20200905/453.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/453.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica, Família
+Lançamento: 2007
+
+Quando a Lexcorp acidentalmente liberta o assassino serial intergaláctico Doomsday, Superman enfrenta a criatura mano a mano na batalha de sua vida… literalmente. O mundo inteiro lamenta a queda do herói; a humanidade percebe que nunca mais se sentirá segura novamente. Os inimigos do Superman regozijam de felicidade – todos eles menos Lex Luthor, que lamenta a perda a sua maneira, desencadeando uma seqüência de fatos marcantes que nem mesmo ele poderia prever.</info>
+ 
+<genre>Ação, Animação, Ficção científica, Família</genre>
+ 
+<date>18/09/2007</date>
+</item>"
+"<item>
+
+<title>Superman/Batman: Inimigos Públicos [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SPRMNEBTMNINMGSPBLCS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5765.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5765.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura, Família
+Lançamento: 2009
+
+Em Metropólis, enquanto Superman enfrenta o super-vilão Metallo, que havia acabado de invadir os Laboratórios S.T.A.R., Lex Luthor, o então Presidente dos Estados Unidos, anuncia à imprensa a sua vontade de candidatar-se à reeleição. Metallo consegue escapar, e Superman questiona uma das cientistas do S.T.A.R. sobre qual teria sido o motivo para Metallo invadir o local. Ao descobrir que os restos mortais de Metallo estariam enterrados no Cemitério de Gotham City, e que o vilão os procurava, Superman dirige-se ao local, onde encontra com Batman, que ali investigava a violação de uma série de túmulos.</info>
+ 
+<genre>Animação, Ação, Aventura, Família</genre>
+ 
+<date>29/09/2009</date>
+</item>"
+"<item>
+
+<title>Superman/Batman: Apocalipse [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SPRMEBTMNAPCLPSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5770.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5770.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Família, Ficção científica
+Lançamento: 2010
+
+Semanas depois dos eventos que levaram à prisão de Lex Luthor após o Impeachment na presidência dos Estados Unidos, e do sucesso de Batman em salvar o mundo do impacto de um meteoro, uma nave espacial cai na Baía de Gotham City. Estava a bordo uma jovem de aparência adolescente e que manifesta super-poderes idênticos ao do Superman ao ser perseguida por policiais e assustar a população.</info>
+ 
+<genre>Ação, Aventura, Animação, Família, Ficção científica</genre>
+ 
+<date>28/09/2010</date>
+</item>"
+"<item>
+
+<title>Superman/Shazam!: O Retorno do Adão Negro [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SPRMNESHZMORTNDADNGRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5762.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5762.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica, Fantasia, Baseado em Quadrinho
+Lançamento: 2010
+
+Neste encontro entre Superman e Shazam, Clark Kent conhece a história de Billy Batson, que foi escolhido por um antigo mago para representar o bem invocando o nome de um poderoso bruxo: Shazam. Seus poderes logo aparecem, e ele descobre que está sendo perseguido por um maligno vilão chamado Adão Negro, cujos poderes são tão fortes que nem o Superman é capaz de detê-lo.</info>
+ 
+<genre>Animação, Ação, Ficção científica, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>09/11/2010</date>
+</item>"
+"<item>
+
+<title>Grandes Astros Superman [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/GRNDSASTRSPRMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2530.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2530.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura
+Lançamento: 2011
+
+Lex Luthor da inicio mais uma vez de livrar o mundo do Superman, com um tipo de radiação solar Lex Luthor consegue envenenar Superman que está morrendo lentamente. Com pouco tempo restando o ultimo filho de Krypton precisa revelar sua identidade secreta a Lois Lane e combater Lex Luthor pela ultima vez.</info>
+ 
+<genre>Animação, Ação, Aventura</genre>
+ 
+<date>22/02/2011</date>
+</item>"
+"<item>
+
+<title>Superman Contra a Elite [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SPRMNVSAELTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5769.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5769.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação
+Lançamento: 2012
+
+A eficiência de Superman como um super-herói é questionada quando um novo grupo de superpoderosos combatentes do crime, conhecidos como A Elite, entra em cena. Infelizmente, como super-heróis, A Elite não conhece limites e combatem seus inimigos com força letal, mesmo em escala maciça, entrando em curso de colisão com o Homem-de-aço, que sempre jurou nunca tirar uma vida humana em sua missão. A rivalidade entre eles culmina em uma luta até o fim, na qual o Superman encara probabilidades impossíveis.</info>
+ 
+<genre>Animação, Ação</genre>
+ 
+<date>12/06/2012</date>
+</item>"
+"<item>
+
+<title>Superman: Sem Limites [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SPRMNSLMTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5780.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5780.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura
+Lançamento: 2013
+
+O Homem de Aço luta contra Brainiac, um cientista ciborgue alienígena do planeta Colu, que ataca e destrói planetas, responsável pelo sequestro da cidade kriptoniana de Kandor. Seu romance com Lois passa por dificuldades pois ela reclama dele manter segredo do relacionamento amoroso dos dois, inclusive de sua prima Supergirl (Kara Zor-El).</info>
+ 
+<genre>Animação, Ação, Aventura</genre>
+ 
+<date>23/04/2013</date>
+</item>"
+"<item>
+
+<title>O Homem de Aço [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OHMNDACO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4084.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4084.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2013
+
+Um jovem menino aprende que tem poderes extraordinários e não é desta Terra. Quando jovem, ele viaja para descobrir de onde veio e para o quê foi enviado a fazer. Mas o herói nele deve emergir se quiser salvar o mundo da aniquilação e se tornar o símbolo de esperança para toda a humanidade.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>12/07/2013</date>
+</item>"
+"<item>
+
+<title>Batman vs Superman: A Origem da Justiça [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1201.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1201.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2016
+
+Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um com o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>24/03/2016</date>
+</item>"
+"<item>
+
+<title>A Morte do Superman [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMRTDSPRMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/7/items/457_20200905/454.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/454.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Drama, Ficção científica
+Lançamento: 2018
+
+Um monstro gigantesco batizado de Doomsday surge do mundo subterrâneo para começar uma destruição em massa na cidade de Metropolis. A Liga da Justiça precisa intervir imediatamente, mas parece que só os poderes do Superman são compatíveis com o do terrível monstro. Em uma luta mortal, o destino do super-herói torna-se incerto.</info>
+ 
+<genre>Animação, Ação, Drama, Ficção científica</genre>
+ 
+<date>24/07/2018</date>
+</item>"
+"<item>
+
+<title>Reino do Superman [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RNODSPRMN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5217.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5217.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2019
+
+Adaptando a história lendária da batalha fatal do Superman com o Apocalypse, esse será o segundo filme original do DC Universe à adaptar o material. O primeiro – de 2007 – Superman: Doomsday, foi muito condensado e trouxe o evento dos quadrinhos para dentro de 75 minutos de duração. A próxima adaptação será mais fiel ao material de origem, muito menos condensada e incluirá muitos dos momentos de fãs da história que foram deixados de fora do Apocalypse.</info>
+ 
+<genre>Animação, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>13/01/2019</date>
+</item>"
+"<item>
+
+<title>A Morte e o Retorno do Superman [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AMRTEORTRNODSPRMAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601409.us.archive.org/7/items/457_20200905/455.jpg</image>
+<thumbnail>https://ia601409.us.archive.org/7/items/457_20200905/455.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Ação, Fantasia
+Lançamento: 2019
+
+A Morte do Superman e Reino do Superman agora apresentados como um filme de animação de mais de duas horas, de forma contínua sem cortes. Presencie a batalha sem limites entre a Liga da Justiça e uma força alienígena implacável conhecida somente pela alcunha de Apocalypse, batalha essa que somente o Superman é capaz de dar um basta e que mudará Metrópolis para sempre.</info>
+ 
+<genre>Aventura, Animação, Ação, Fantasia</genre>
+ 
+<date>01/10/2019</date>
+</item>"
+"<item>
+
+<title>Superman: Entre a Foice e o Martelo [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SPRMNENTRFCEOMRTLO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5771.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5771.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 2020
+
+Quando o último filho de Krypton cai na Rússia, na época da Guerra Fria, em vez do bucólico Kansas, uma realidade alternativa se desdobra nesta aventura da DC Elseworlds. Aqui, nós encontramos o Superman liderando uma campanha comunista para avançar as ideologias do estado soviético. Enquanto isso, do outro lado do Atlântico, Lex Luthor, um brilhante cientista americano, cria um plano para dominar e, por fim, destruir a ameaça alienígena soviética. O que vem a seguir é uma perseguição emocionante que colocará em risco toda a humanidade.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>25/02/2020</date>
+</item>"
+"<item>
+
+<title>Superman: O Homem do Amanhã [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SPRMNOHMEMDAMNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5772.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5772.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica
+Lançamento: 2020
+
+É o início de uma nova era de heróis, e Metrópolis acaba de conhecer o primeiro. Mas como o estagiário do Daily Planet Clark Kent – trabalhando ao lado da repórter Lois Lane – secretamente exerce seus poderes alienígenas de voo, super-força e visão de raio-x na batalha para sempre, há problemas ainda maiores no horizonte.</info>
+ 
+<genre>Animação, Ação, Ficção científica</genre>
+ 
+<date>23/08/2020</date>
+</item>"
