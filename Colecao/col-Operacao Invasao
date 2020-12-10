@@ -1,0 +1,38 @@
+"<item>
+
+<title>Operação Invasão [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPRCINVSAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4540.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4540.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2012
+
+Em Jacarta, na Indonésia, o Tenente Wahyu (Pierre Gruno) organiza a invasão de um prédio que, depois de ser abandonado, se tornou o porto seguro do poderoso e cruel traficante Tama (Ray Sahetapy). Para desmontar esse ninho do crime, um time da SWAT invade o local, mas acaba preso numa armadilha no sexto andar. Surpreendidos pela notícia que o tenente Wahyu não informou seus superiores sobre a operação, os agentes resistem sozinhos e com munição limitada.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>27/04/2012</date>
+</item>"
+"<item>
+
+<title>Operação Invasão 2 [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPRCINVSAO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4541.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4541.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2014
+
+A continuação começa horas após o primeiro filme, com Rama (Uwais) assumindo uma missão de infiltração em um sindicato do crime local para proteger sua família e revelar a corrupção na força policial de sua própria unidade.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>31/05/2014</date>
+</item>"
