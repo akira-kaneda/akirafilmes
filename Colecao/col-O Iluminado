@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Iluminado [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OILMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4100.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4100.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1980
+
+Durante o inverno, um homem é contratado para ficar como vigia em um hotel no Colorado e vai para lá com a mulher e seu filho. Porém, o contínuo isolamento começa a lhe causar sérios problemas mentais e ele vai se tornado cada vez mais agressivo e perigoso, ao mesmo tempo que seu filho passa a ter visões de acontecimentos ocorridos no passado, que também foram causados pelo isolamento excessivo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>25/12/1980</date>
+</item>"
+"<item>
+
+<title>Doutor Sono [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DTRSNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2007.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2007.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Fantasia, Thriller
+Lançamento: 2019
+
+Na infância, Danny Torrance conseguiu sobreviver a uma tentativa de homicídio por parte do pai, um escritor perturbado por espíritos malignos. Danny cresceu, agora ele é um adulto traumatizado e alcoólatra. Sem residência fixa, ele se estabelece em uma pequena cidade, onde consegue um emprego no hospício local e cria um vínculo telepático com uma menina, paciente da instituição.</info>
+ 
+<genre>Terror, Drama, Fantasia, Thriller</genre>
+ 
+<date>07/11/2019</date>
+</item>"
