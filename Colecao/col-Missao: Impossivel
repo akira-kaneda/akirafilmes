@@ -1,0 +1,38 @@
+"<item>
+
+<title>Millennium: Os Homens Que Não Amavam as Mulheres [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MLNUMOSHMNSQNAMVMASMLHRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3391.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3391.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime, Mistério, Drama
+Lançamento: 2012
+
+Um jornalista investigativo e uma hacker de computador são contratados para desvendar o desaparecimento de uma jovem há 36 anos. À medida que avançam na investigação crescem os riscos, pois a família da jovem não quer ter seus segredos revelados.</info>
+ 
+<genre>Thriller, Crime, Mistério, Drama</genre>
+ 
+<date>27/01/2012</date>
+</item>"
+"<item>
+
+<title>Millennium: A Garota na Teia de Aranha [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MLNUMAGRTNTEIADARNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3390.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3390.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller, Drama
+Lançamento: 2018
+
+Adaptação do quarto livro da saga ""Millennium"". Após os eventos de ""Os Homens que Não Amavam as Mulheres"", o jornalista Mikael Blomkvist e a hacker Lisbeth Salander se veem em meio à uma teia de corrupção, espionagem e intriga internacional.</info>
+ 
+<genre>Ação, Crime, Thriller, Drama</genre>
+ 
+<date>08/11/2018</date>
+</item>"
