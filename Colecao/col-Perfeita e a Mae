@@ -1,0 +1,38 @@
+"<item>
+
+<title>Perfeita é a Mãe! [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PRFTEAMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4869.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4869.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2016
+
+Uma mulher (Mila Kunis), com vida aparentemente perfeita acaba ficando estressada além do ponto com as obrigações domésticas. Cansada da situação, ela se une a duas outras mulheres (Kathryn Hahn e Kristen Bell) que passam pelos mesmos problemas e juntas iniciam uma intensa jornada de libertação.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>29/07/2016</date>
+</item>"
+"<item>
+
+<title>Perfeita é a Mãe 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRFTEAMA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4870.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4870.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2017
+
+Três mulheres sobrecarregadas com as responsabilidades e desafios do Natal decidem se rebelar contra a obrigação e o pouco reconhecimento de garantir a festa perfeita para a família, ao mesmo tempo em que precisam fazer sala para suas próprias mães.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>07/12/2017</date>
+</item>"
