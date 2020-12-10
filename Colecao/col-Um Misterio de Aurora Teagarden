@@ -1,0 +1,57 @@
+"<item>
+
+<title>O Segredo da Caveira: Um Mistério de Aurora Teagarden [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSGRDACVRAUMSTRODAURTEGRN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4391.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4391.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Crime, Drama, Cinema TV
+Lançamento: 2015
+
+Quando sua amiga Jane inesperadamente morre e deixa tudo para Aurora, em seu testamento, ela também deixa um mistério de assassinato assombrando seu bairro. Cabe a Aurora juntar as pistas, incluindo um crânio - parte de seu esqueleto está em falta - um grupo suspeito de vizinhos e resolver o assassinato antes que ela se torne a próxima vítima. Baseada na série de livros 'Aurora Teagarden Mysteries', da autora Charlaine Harris, acompanha uma bibliotecária com uma mente afiada para assassinatos, Aurora Teagarden é conhecida ao redor de sua pequena cidade como uma detetive mestre.</info>
+ 
+<genre>Mistério, Crime, Drama, Cinema TV</genre>
+ 
+<date>04/04/2015</date>
+</item>"
+"<item>
+
+<title>Um Mistério de Aurora Teagarden: Jogo de Enganação [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMSTRDAURATEGNJGDENGCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6144.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6144.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Cinema TV, Crime
+Lançamento: 2019
+
+Quando alguém começa a atormentar Aurora Teagarden com pistas enigmáticas deixadas em cenas de crime, ela tenta descobrir quem está por trás do assustador “jogo”. Mas quando as pessoas mais próximas de Aurora tornar-se alvos, o jogo assume uma vantagem muito mais perigosa, uma vez que aponta para um assassinato planejado. E uma vez descoberto que o florescente relacionamento de Aurora com o professor Nick Miller pode ser a fonte do ciúme que está levando à matança do crime, Aurora deve ter um cuidado especial para não se tornar a próxima vítima.</info>
+ 
+<genre>Mistério, Cinema TV, Crime</genre>
+ 
+<date>04/08/2019</date>
+</item>"
+"<item>
+
+<title>Um Mistério de Aurora Teagarden: Uma Herança de Matar [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMSTRDAURATEGNUMHRNCDMTR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6145.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6145.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Cinema TV
+Lançamento: 2019
+
+Aurora precisa entrar em cena para investigar a misteriosa morte de uma senhora durante um casamento em que está sendo madrinha.</info>
+ 
+<genre>Mistério, Cinema TV</genre>
+ 
+<date>11/08/2019</date>
+</item>"
