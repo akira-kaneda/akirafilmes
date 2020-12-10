@@ -1,0 +1,38 @@
+"<item>
+
+<title>Mamma Mia! O Filme [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MAMMIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3215.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3215.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2008
+
+1999, na ilha grega de Kalokairi. Sophie (Amanda Seyfried) está prestes a se casar e, sem saber quem é seu pai, envia convites para Sam Carmichael (Pierce Brosnan), Harry Bright (Colin Firth) e Bill Anderson (Stellan Skarsgard). Eles vêm de diferentes partes do mundo, dispostos a reencontrar a mulher de suas vidas: Donna (Meryl Streep), mãe de Sophie. Ao chegarem Donna é surpreendida, tendo que inventar desculpas para não revelar quem é o pai de Sophie.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>02/07/2008</date>
+</item>"
+"<item>
+
+<title>Mamma Mia! Lá Vamos Nós de Novo [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MAMMIALAVMSNSDNVO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3214.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3214.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2018
+
+Um ano após a morte de Donna (Meryl Streep), sua filha Sophie (Amanda Seyfried) está prestes a reinaugurar o hotel da mãe, agora totalmente reformado. Para tanto convida seus três ""pais"", Harry (Colin Firth), Sam (Pierce Brosnan) e Bill (Stellan Skarsgard) e as eternas amigas da mãe, Rosie (Julie Walters) e Tanya (Christine Baranski), ao mesmo tempo em que precisa lidar com a distância do marido Sky (Dominic Cooper), que está fazendo um curso de hotelaria em Nova York. O reencontro serve para desenterrar memórias sobre a juventude de Donna (Lily James), no final dos anos 70, quando ela resolve se estabelecer na Grécia.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>02/08/2018</date>
+</item>"
