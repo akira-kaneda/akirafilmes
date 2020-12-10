@@ -1,0 +1,57 @@
+"<item>
+
+<title>Os Mercenários [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OMRCNRS01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4658.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4658.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Aventura, Ação
+Lançamento: 2010
+
+Um grupo de mercenários, liderado por Barney Ross, e seus homens de confiança aceitam uma missão que parece ser rotineira: uma operação secreta, a mando da Igreja, para invadir o país sul-americano de Vilena e derrubar seu ditador. Não demora muito para o grupo perceber que a missão é uma operação suicida. Presos em uma perigosa teia de traições, mas sabendo que um inocente está em perigo, Barney e seus homens decidem finalizar o trabalho.</info>
+ 
+<genre>Thriller, Aventura, Ação</genre>
+ 
+<date>13/08/2010</date>
+</item>"
+"<item>
+
+<title>Os Mercenários 2 [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OMRCNRS02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4659.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4659.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 2012
+
+O grupo de mercenários se unem para evitar que um criminoso roube uma grande quantidade de plutônio, que possibilitaria a produção de armas nucleares. Após o assassinato de um amigo e o sumiço do mapa que leva ao plutônio, o grupo sai em busca de vingança.</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>31/08/2012</date>
+</item>"
+"<item>
+
+<title>Os Mercenários 3 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OMRCNRS03.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4660.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4660.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 2014
+
+Barney e sua trupe de mercenários resgatam Doc, um dos integrantes do grupo, que estava preso há oito anos. Ao participarem de uma missão, os mercenários são surpreendidos quando reencontram Conrad, um comerciante de armas impiedoso, que Barney pensava ter matado. Novos membros, mais jovens e mais rápidos, entram para equipe e um novo duelo começa.</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>21/08/2014</date>
+</item>"
