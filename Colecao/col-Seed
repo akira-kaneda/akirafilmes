@@ -1,0 +1,38 @@
+"<item>
+
+<title>Seed: Assassino em Série [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SEDASANEMSRE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5416.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5416.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2007
+
+Depois de sobreviver à cadeira elétrica, o assassino em série condenado Max Seed é enterrado vivo. Ele sai da cova e parte para uma matança. Vingando-se dos homens que o colocaram lá e também de infelizes aleatórios.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>27/04/2007</date>
+</item>"
+"<item>
+
+<title>Seed 2 - A Nova Geração [COLOR yellow][IMDb 2,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SED2ANVGRCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5415.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5415.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2014
+
+Christine está celebrando sua despedida de solteira em Las Vegas junto de suas amigas Olivia, Barbara e Claire. Durante a viagem de volta, as garotas encaram a quente estrada através do deserto de Nevada em uma longa e cansativa viagem de carro para casa. O que elas não esperavam era encontrar pelo caminho um serial killer faminto por novas vítimas – ele é Max Seed e desta vez não está sozinho. Seed está acompanhado de sua mulher, seu filho e de um policial brutal. Esta família de assassinos está reunida por um objetivo e as quatro jovens desavisadas se encaixam perfeitamente no plano de Seed. O tempo está passando e as vidas dessas moças está em jogo!</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>28/10/2014</date>
+</item>"
