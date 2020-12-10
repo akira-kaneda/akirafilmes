@@ -1,0 +1,57 @@
+"<item>
+
+<title>Querida! Encolhi as Crianças [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/QRDESCLHACRNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5154.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5154.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Ficção científica
+Lançamento: 1989
+
+Wayne Szalinski (Rick Moranis) é o típico cientista louco e atrapalhado. Ultimamente, gasta quase todo seu tempo desenvolvendo uma máquina capaz de reduzir o tamanho das coisas. Porém, um acidente em casa muda totalmente sua vida: Seus filhos acionam a máquina de encolhimento e ficam reduzidos a poucos centímetros.</info>
+ 
+<genre>Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>23/06/1989</date>
+</item>"
+"<item>
+
+<title>Querida! Estiquei o Bebê [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/QRDESTQOBB.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5155.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5155.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Ficção científica
+Lançamento: 1993
+
+Aproveitando uma viagem de sua esposa, o cientista Wayne Szalinsky resolve levar seus filhos ao laboratório onde trabalha. Descuidado, não percebe que seu filho mais novo, o bebê Adam, recebe toda energia desprendida pelo complexo sistema inventado por ele. O resultado não poderia ser mais desastroso: o pequeno Adam acaba transformando-se em um bebê gigante, que não pára de crescer. Nada poderia detê-lo, nem mesmo o exército americano. Só uma brilhante idéia do cientista mais maluco que se tem notícia poderia salvar a cidade.</info>
+ 
+<genre>Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>20/02/1993</date>
+</item>"
+"<item>
+
+<title>Querida, Encolhi a Gente [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/QRDENCLAGNT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5153.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5153.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Ficção científica, Ação
+Lançamento: 1997
+
+O inventor aloprado consegue encolher a si mesmo, ao irmão e às respectivas esposas. Os quatro adultos vivem aventuras em miniatura, enquanto tentam chamar a atenção dos filhos, em busca de ajuda.</info>
+ 
+<genre>Aventura, Comédia, Família, Ficção científica, Ação</genre>
+ 
+<date>18/03/1997</date>
+</item>"
