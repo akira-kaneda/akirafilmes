@@ -1,0 +1,76 @@
+"<item>
+
+<title>Mogli - O Menino Lobo [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MGLIOMENIOLBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3443.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3443.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura
+Lançamento: 1967
+
+Mogli, um garoto criado por lobos e que vive na selva, é convencido pelo seu amigo Baguera, uma velha e esperta pantera, a buscar segurança no mundo dos homens. Mas Mogli, resistindo à ideia de seu amigo, resolve seguir a filosofia do urso Balu, que gosta de curtir a vida e ser feliz, fazendo o que gosta. Juntos, dão início a uma grande jornada em direção à civilização e encontram no meio do caminho um orangotango maluco, uma cobra com poder de hipnotizar e Shere Khan, um tigre ameaçador.</info>
+ 
+<genre>Família, Animação, Aventura</genre>
+ 
+<date>18/10/1967</date>
+</item>"
+"<item>
+
+<title>Mogli: O Menino Lobo 2 [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MGLIOMENIOLBO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3445.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3445.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura
+Lançamento: 2003
+
+Mogli, uma criança selvagem, cresceu em uma vila rural. Ele foge e volta à selva para ficar com seus amigos animais, como o amável urso Balu. O desaparecimento de Mogli preocupa sua família. Por isso, sua meia-irmã, Shanti, viaja para a selva para encontrá-lo. Mas nem tudo por lá está bem. O velho inimigo de Mogli, o feroz tigre Shere Khan, captura Mogli, Shanti e Balu em um templo antigo.</info>
+ 
+<genre>Família, Animação, Aventura</genre>
+ 
+<date>14/02/2003</date>
+</item>"
+"<item>
+
+<title>Mogli - O Menino Lobo [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MGLOMENLB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3444.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3444.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Família, Fantasia
+Lançamento: 2016
+
+Mogli é um menino criado por uma família de lobos. Mas Mogli sente que não é mais bem-vindo na floresta quando o temido tigre Shere Khan, que carrega cicatrizes causadas por caçadores, promete eliminar o que ele considera uma ameaça. Forçado a abandonar o único lar que conhece, Mogli embarca em uma cativante jornada de autoconhecimento, guiado pela pantera e mentora Bagheera e pelo alegre urso Baloo. Pelo caminho, Mogli encontra criaturas da selva que não são exatamente bondosas, incluindo Kaa, uma cobra cuja voz sedutora e olhar penetrante hipnotizam o menino-lobo, e Rei Loiue, o nobre de fala mansa que tenta convencer Mogli a contar o segredo da ilusória flor vermelha mortal: o fogo.</info>
+ 
+<genre>Aventura, Drama, Família, Fantasia</genre>
+ 
+<date>14/04/2016</date>
+</item>"
+"<item>
+
+<title>Mogli: Entre Dois Mundos [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MGLENTDSMNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3442.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3442.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama
+Lançamento: 2018
+
+Criado por uma alcatéia em meio às florestas da Índia, Mogli (Rohan Chand) vive com os animais da selva e conta com a amizade do urso Baloo (Andy Serkis) e da pantera Bagheera (Christian Bale). Ele é aceito por todos os animais, exceto pelo temido tigre Shere Khan (Benedict Cumberbach). Quando Mogli se defronta com suas origens humanas, perigos maiores do que a rixa com Shere Khan podem surgir.</info>
+ 
+<genre>Aventura, Drama</genre>
+ 
+<date>29/11/2018</date>
+</item>"
