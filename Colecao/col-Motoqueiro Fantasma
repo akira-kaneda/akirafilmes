@@ -1,0 +1,38 @@
+"<item>
+
+<title>Motoqueiro Fantasma [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MTQRFNTSM01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3485.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3485.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Fantasia, Baseado em Quadrinho
+Lançamento: 2007
+
+Johnny Blaze (Nicolas Cage) trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto (Peter Fonda) para proteger as duas pessoas que mais amava: seu pai, Barton (Brett Cullen), e sua namorada de adolescência, Roxanne Simpson (Eva Mendes). Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.</info>
+ 
+<genre>Thriller, Ação, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>16/02/2007</date>
+</item>"
+"<item>
+
+<title>Motoqueiro Fantasma: Espírito de Vingança [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MTQRFNTSM02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3486.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3486.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Thriller, Baseado em Quadrinho
+Lançamento: 2012
+
+Depois de um período recluso na Europa, Johnny Blaze embarca em uma nova missão para se livrar da maldição de ser um motoqueiro fantasma. Desta vez, ele precisa impedir que o próprio demônio encarnado sequestre um garoto de dez anos que pode ser a única esperança da humanidade contra as trevas.</info>
+ 
+<genre>Ação, Fantasia, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>22/02/2012</date>
+</item>"
