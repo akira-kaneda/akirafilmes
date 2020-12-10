@@ -1,0 +1,95 @@
+"<item>
+
+<title>A Identidade Bourne [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AIDBOURN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/347.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/347.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Mistério, Thriller
+Lançamento: 2002
+
+Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele só sabe que tem talento para matar e um chip implantado no quadril. Enquanto busca sua história, tenta escapar de pessoas que, inexplicavelmente, querem matá-lo.</info>
+ 
+<genre>Ação, Drama, Mistério, Thriller</genre>
+ 
+<date>11/10/2002</date>
+</item>"
+"<item>
+
+<title>A Supremacia Bourne [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ASPBOURN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/620.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/620.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Thriller
+Lançamento: 2004
+
+Jason Bourne está vivendo na Índia quando é enquadrado por um agente russo, Kirill, pelo roubo de milhões da CIA. Kirill começa a perseguir Bourne com a intenção de assassiná-lo, mas, por engano, mata a namorada de Bourne, Marie. Jurando vingança, Bourne se propõe a provar sua inocência e trazer os culpados à justiça.</info>
+ 
+<genre>Ação, Drama, Thriller</genre>
+ 
+<date>24/09/2004</date>
+</item>"
+"<item>
+
+<title>O Ultimato Bourne [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OULBOURN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4446.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4446.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Mistério, Thriller
+Lançamento: 2007
+
+Jason Bourne ainda está tentando descobrir sua identidade. Percorrendo a Rússia, países da Europa, o norte da África e os Estados Unidos, Bourne precisa manter-se um passo à frente daqueles que querem matá-lo antes que ele descubra toda a verdade sobre seu passado.</info>
+ 
+<genre>Ação, Drama, Mistério, Thriller</genre>
+ 
+<date>28/08/2007</date>
+</item>"
+"<item>
+
+<title>O Legado Bourne [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OLGBOURN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4138.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4138.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2012
+
+Eric Byer é encarregado de apagar os rastros que possam incriminar o governo em projetos sigilosos. Um deles é o Outcome, projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força dos agentes por meio de remédios. Com o fim do Outcome, os agente passam a ser eliminados a mando do próprio governo. No entanto, Aaron Cross consegue escapar e vai à casa da Dra. Martha Shearing atrás de respostas. Juntos, eles precisam sobreviver enquanto Aaron sofre da abstinência forçada.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>07/09/2012</date>
+</item>"
+"<item>
+
+<title>Jason Bourne [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JSONBRNE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2826.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2826.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2016
+
+Afastado da CIA há 10 anos, o agente Jason Bourne retorna ao campo de batalha para enfrentar uma rede sinistra que utiliza tecnologia e terror para se manter no poder.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>28/07/2016</date>
+</item>"
