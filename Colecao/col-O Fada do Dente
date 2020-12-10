@@ -1,0 +1,38 @@
+"<item>
+
+<title>O Fada do Dente [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OFADSDNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3992.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3992.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia
+Lançamento: 2010
+
+Derek Thompson (Dwayne Johnson) é um jogador de hóquei frustrado que só faz sucesso por causa de suas violentas faltas que, invariavelmente, arrancam um dente do adversário. Daí vem o apelido, dado pelo fãs, de Fada dos Dentes. Ele, porém, não acredita em lendas e quase conta para a pequena Tess (Destiny Whittlock), filha de sua namorada (Ashley Judd), que esse negócio de fada trocar dente por moeda é uma grande mentira. Como punição por ser um ""destruidor de sonhos"", Derek é transformado em uma fada do dente.</info>
+ 
+<genre>Comédia, Família, Fantasia</genre>
+ 
+<date>22/01/2010</date>
+</item>"
+"<item>
+
+<title>O Fada do Dente 2 [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OFADSDNTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3993.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3993.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2012
+
+Triste após ter sido abandonado pela namorada, Larry Guthrie (Larry the Cable Guy) decide impressioná-la inscrevendo-se em um programa voluntário organizado por ela. No entanto, após dizer a uma criança que fadas não existem, ele recebe um puxão de orelha dos seres mágicos e é transformado em fada do dente.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>06/03/2012</date>
+</item>"
