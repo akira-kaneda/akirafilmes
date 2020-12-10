@@ -1,0 +1,38 @@
+"<item>
+
+<title>Os Embalos de Sábado à Noite [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSEMBLDSBDANT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4615.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Comédia
+Lançamento: 1978
+
+Tony Manero (John Travolta), um jovem do Brooklyn e um excelente dançarino de disco music, só encontra significado na vida quando dança, pois passar a semana trabalhando em uma loja de tintas não o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influência de seu irmão, um padre frustrado, e de Stephanie (Karen Lynn Gorney), sua parceira de dança, começa a questionar a maneira como encara a vida e a limitação de suas perspectivas. Paralelamente Tony vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca.</info>
+ 
+<genre>Drama, Música, Comédia</genre>
+ 
+<date>03/07/1978</date>
+</item>"
+"<item>
+
+<title>Os Embalos de Sábado Continuam [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSEMBLDSBDANTCNT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4616.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4616.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 1983
+
+Tony Manero (John Travolta) trabalha agora em uma academia de ginástica e anseia ser o dançarino principal de um grande show da Broadway. Em sua vida particular ele se vê dividido entre duas mulheres: Jackie (Cynthia Rhodes), uma professora de dança que trabalha no mesmo lugar de Tony, e Laura (Finola Hughes), a dançarina principal do show da Broadway. Enquanto Tony se apaixona por Laura ela só o vê como alguém atraente que serve para fazer sexo, o que gera uma rivalidade entre eles na vida profissional.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>13/10/1983</date>
+</item>"
