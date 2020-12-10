@@ -1,0 +1,38 @@
+"<item>
+
+<title>Noite do Terror [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NTDTROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3646.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3646.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2006
+
+A group of delinquents are sent to clean the Blackwell Hotel. Little do they know reclusive psychopath Jacob Goodnight has holed away in the rotting hotel. When one of the teens is captured, those who remain -- a group that includes the cop who put a bullet in Goodnight's head four years ago -- band together to survive against the brutal killer.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>19/05/2006</date>
+</item>"
+"<item>
+
+<title>Noite de Terror 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NTDTROR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3647.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3647.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2014
+
+Jacob Goodnight levanta entre os mortos do necrotério da cidade após a carnificina do Hotel Blackwell. Sobram alguns estudantes de medicina, que precisam lutar pela sobrevivência contra um psicopata decidido a matá-los.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>21/10/2014</date>
+</item>"
