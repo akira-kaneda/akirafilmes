@@ -1,0 +1,38 @@
+"<item>
+
+<title>Percy Jackson e o Ladrão de Raios [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PERCYJCKSNEOLDRDRAIOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4859.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4859.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 2010
+
+Ambientado no mundo atual, onde os doze deuses do Olimpo (instalados 600 andares acima do planeta, no edifício Empire State Building, em Nova York) estão vivos e criando uma nova raça de jovens heróis mitológicos que são semideuses metade mortais, metade imortais, Zeus suspeita que Percy, filho adolescente de Poseidon, tenha roubado seu raio, a arma mais poderosa do universo. Para provar sua inocência e evitar uma guerra devastadora entre os deuses, Percy embarca numa odisséia transcontinental com o objetivo de encontrar o verdadeiro ladrão. Ao longo do caminho, ele enfrenta inimigos cruéis decididos a detê-lo, e salva sua mãe das garras assassinas de outro deus grego, Hades.</info>
+ 
+<genre>Aventura, Fantasia, Família</genre>
+ 
+<date>12/02/2010</date>
+</item>"
+"<item>
+
+<title>Percy Jackson e o Mar de Monstros [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PERCYJCKSNEOMRDMNSTROS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4860.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4860.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia
+Lançamento: 2013
+
+Percy e seus amigos estão na busca pelo Velocino de Ouro, o único artefato mágico capaz de proteger o Acampamento Meio-Sangue da destruição. É com essa missão que ele e outros campistas partem para uma eletrizante viagem pelo Mar de Monstros, onde deparam com seres fantásticos, perigos e situações inusitadas, que põem à prova seu heroísmo e sua herança. Está em jogo a existência de seu refúgio predileto e, até então, o lugar mais seguro do mundo para eles.</info>
+ 
+<genre>Aventura, Família, Fantasia</genre>
+ 
+<date>16/08/2013</date>
+</item>"
