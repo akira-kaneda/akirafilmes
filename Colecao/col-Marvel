@@ -1,0 +1,399 @@
+"<item>
+
+<title>Hulk [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HULK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2712.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2712.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2003
+
+Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.</info>
+ 
+<genre>Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>27/06/2003</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2663.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2663.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Baseado em Quadrinho
+Lançamento: 2008
+
+Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>30/04/2008</date>
+</item>"
+"<item>
+
+<title>O Incrível Hulk [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4110.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4110.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2008
+
+Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>13/06/2008</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro 2 [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNDEFRO02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2664.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2664.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2010
+
+Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>30/04/2010</date>
+</item>"
+"<item>
+
+<title>Capitão América: O Primeiro Vingador [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CAPTAMRC1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1432.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1432.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2011
+
+Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>29/11/2011</date>
+</item>"
+"<item>
+
+<title>Os Vingadores: The Avengers [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OSVGDRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4714.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4714.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2012
+
+Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>27/04/2012</date>
+</item>"
+"<item>
+
+<title>Homem de Ferro 3 [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMNDEFRO03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2665.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2665.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Baseado em Quadrinho
+Lançamento: 2013
+
+Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>26/04/2013</date>
+</item>"
+"<item>
+
+<title>Capitão América 2: O Soldado Invernal [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CAPTAMRC2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1429.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1429.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2014
+
+Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>10/04/2014</date>
+</item>"
+"<item>
+
+<title>Guardiões da Galáxia [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/GRDOESDGLXIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2542.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2542.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura
+Lançamento: 2014
+
+O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.</info>
+ 
+<genre>Ação, Ficção científica, Aventura</genre>
+ 
+<date>31/07/2014</date>
+</item>"
+"<item>
+
+<title>Vingadores: Era de Ultron [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNGDRSEDURON.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6360.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6360.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Baseado em Quadrinho
+Lançamento: 2015
+
+Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>23/04/2015</date>
+</item>"
+"<item>
+
+<title>Homem-Formiga [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HMNFRMGA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2677.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2677.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2015
+
+Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>16/07/2015</date>
+</item>"
+"<item>
+
+<title>Capitão América: Guerra Civil [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CAPTAMRC3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1430.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1430.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 2016
+
+O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>05/05/2016</date>
+</item>"
+"<item>
+
+<title>Guardiões da Galáxia Vol. 2 [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2543.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Ficção científica
+Lançamento: 2017
+
+Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill.</info>
+ 
+<genre>Ação, Aventura, Comédia, Ficção científica</genre>
+ 
+<date>27/04/2017</date>
+</item>"
+"<item>
+
+<title>Homem-Aranha: De Volta ao Lar [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HOMARNHDVLTALR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2675.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2675.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Drama, Baseado em Quadrinho
+Lançamento: 2017
+
+Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Drama, Baseado em Quadrinho</genre>
+ 
+<date>06/07/2017</date>
+</item>"
+"<item>
+
+<title>Pantera Negra [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PNTRNGR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4781.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4781.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica
+Lançamento: 2018
+
+O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica</genre>
+ 
+<date>15/02/2018</date>
+</item>"
+"<item>
+
+<title>Vingadores: Guerra Infinita [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6361.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6361.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2018
+
+Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>26/04/2018</date>
+</item>"
+"<item>
+
+<title>Homem-Formiga e a Vespa [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HMNFRMGEVSPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2678.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2678.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Comédia, Baseado em Quadrinho
+Lançamento: 2018
+
+Scott Lang lida com as consequências de suas escolhas tanto como super-herói quanto como pai. Enquanto tenta reequilibrar sua vida com suas responsabilidades como o Homem-Formiga, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente. Scott deve mais uma vez vestir o uniforme e aprender a lutar ao lado da Vespa, trabalhando em conjunto para descobrir segredos do passado.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Comédia, Baseado em Quadrinho</genre>
+ 
+<date>05/07/2018</date>
+</item>"
+"<item>
+
+<title>Marvel Rising: Guerreiros Secretos [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MRVLRSNGGRSCRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3253.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3253.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Comédia, Ficção científica, Cinema TV, Aventura, Baseado em Quadrinho
+Lançamento: 2018
+
+Quando uma ameaça que ninguém poderia esperar tem impacto sobre o Universo Marvel, esse bando de adolescentes inexperientes não tem escolha a não ser se unir e provar ao mundo que às vezes a diferença entre um herói e um “desajustado” está apenas o nome.</info>
+ 
+<genre>Animação, Ação, Comédia, Ficção científica, Cinema TV, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>30/09/2018</date>
+</item>"
+"<item>
+
+<title>Marvel Rising: Coração de Ferro [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MRVLRSNGCRCAODFERO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3252.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3252.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ficção científica, Ação, Baseado em Quadrinho
+Lançamento: 2019
+
+Enquanto tenta se ajustar à sua solitária e isolada rotina escolar, a jovem Riri Williams lida com a inteligência muito acima da média para alguém da sua idade. Quando a vilã Hala destrói o laboratório da sua escola e sequestra a sua melhor amiga, Riri encontra inspiração no seu herói favorito, Homem de Ferro, para virar a salvadora do dia.</info>
+ 
+<genre>Animação, Ficção científica, Ação, Baseado em Quadrinho</genre>
+ 
+<date>03/04/2019</date>
+</item>"
+"<item>
+
+<title>Vingadores: Ultimato [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VNGDRSULTMTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6362.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6362.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação, Baseado em Quadrinho
+Lançamento: 2019
+
+Após os eventos devastadores de ""Vingadores: Guerra Infinita"", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
+ 
+<genre>Aventura, Ficção científica, Ação, Baseado em Quadrinho</genre>
+ 
+<date>25/04/2019</date>
+</item>"
+"<item>
+
+<title>Homem-Aranha: Longe de Casa [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2676.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2676.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Baseado em Quadrinho
+Lançamento: 2019
+
+Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>04/07/2019</date>
+</item>"
