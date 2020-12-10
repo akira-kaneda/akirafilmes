@@ -1,0 +1,266 @@
+"<item>
+
+<title>Star Wars: Episódio IV - Uma Nova Esperança [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRWRSIV.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5653.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5653.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 1977
+
+A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>17/11/1977</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio V - O Império Contra-ataca [COLOR yellow][IMDb 8,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRWRSV.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5655.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5655.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 1980
+
+As forças imperais comandadas por Darth Vader (David Prowse) lançam um ataque contra os membros da resistência, que são obrigados a fugir. Enquanto isso Luke Skywalker (Mark Hamill) tenta encontrar o Mestre Yoda, que poderá ensiná-lo a dominar a ""Força"" e torná-lo um cavaleiro jedi. No entanto, Darth Vader planeja levá-lo para o lado negro da ""Força"".</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>21/05/1980</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio VI - O Retorno de Jedi [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRWRSVI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5656.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5656.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 1983
+
+O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>06/10/1983</date>
+</item>"
+"<item>
+
+<title>Caravana da Coragem - Uma Aventura Ewok [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRVNDCRGMUMAVTEWK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1443.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1443.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Fantasia, Ficção científica, Cinema TV
+Lançamento: 1985
+
+Em Caravana da Coragem, a família Towani, foi separada quando sua nave espacial caiu em Endor. Os pais, são logo capturados por um gigante conhecido como Gorax, e Mace e Cindel, o filho e a filha, estão desaparecidos. Quando os Ewoks, encontram as crianças Towani, nos destroços da nave, logo fica claro que será necessária confiança mútua para embarcar em uma aventura para resgatar os pais Towani.</info>
+ 
+<genre>Aventura, Família, Fantasia, Ficção científica, Cinema TV</genre>
+ 
+<date>15/02/1985</date>
+</item>"
+"<item>
+
+<title>Caravana da Coragem 2 - A Batalha de Endor [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRVNDCRGMABTLHENDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1442.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1442.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Cinema TV
+Lançamento: 1985
+
+Em A Batalha de Endor, um exército de Marauders, liderados pelo Rei Terak e a bruxa Charal, ataca a vida dos Ewoks. Cindel e Wicket, escapam floresta a dentro e lá encontram Teek e Noa. Eles precisam ficar amigos de Noa, para aliarem-se na tentativa de derrotar os Marauders.</info>
+ 
+<genre>Aventura, Família, Cinema TV</genre>
+ 
+<date>24/11/1985</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio I - A Ameaça Fantasma [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRWRSI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5650.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5650.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 1999
+
+Enquanto resgatam a Rainha Amidala, governante de um planeta pacífico invadido por forças ameaçadoras, os Cavaleiros Jedi Obi-Wan Kenobi e Qui-Gon Jinn descobrem Anakin Skywalker, uma criança prodígio de 9 anos excepcionalmente poderosa na Força.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>24/06/1999</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio II - Ataque dos Clones [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRWRSII.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5651.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5651.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 2002
+
+Com a missão de proteger a Senadora Amidala, Anakin Skywalker descobre o seu amor por ela, do mesmo modo que vai conhecendo seu lado sombrio. Obi-Wan Kenobi descobre um exército de clones à medida que a Galáxia caminha para uma grande guerra.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>01/07/2002</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio III - A Vingança dos Sith [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRWRSIII.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5652.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5652.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Ação
+Lançamento: 2005
+
+As Guerras Clônicas estão em pleno andamento e Anakin Skywalker mantém um elo de lealdade com Palpatine, ao mesmo tempo em que luta para que seu casamento com Padmé Amidala não seja afetado por esta situação. Seduzido por promessas de poder, Anakin se aproxima cada vez mais de Darth Sidious até se tornar o temível Darth Vader. Juntos eles tramam um plano para aniquilar de uma vez por todas com os cavaleiros jedi.</info>
+ 
+<genre>Ficção científica, Aventura, Ação</genre>
+ 
+<date>19/05/2005</date>
+</item>"
+"<item>
+
+<title>Star Wars: A Guerra dos Clones [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/STRWRSUMGLXDIVDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5659.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5659.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica, Aventura
+Lançamento: 2008
+
+A animação ""Star Wars - The Clone Wars"" dá continuidade à epopéia espacial criada por George Lucas nos anos 1970. A galáxia é consumida pelas Guerras Clônicas, uma massiva guerra civil que entrincheirou os malvados Separatistas e seus exércitos andróides contra a República e seus protetores, os Jedis. Para ganhar uma vantagem no crescente conflito, o Cavaleiro Jedi Anakin Skywalker e sua aprendiz Padawan Ahsoka Tano são enviados em uma missão com vastas consequências, uma que os coloca face a face com o notório lorde do crime Jabba, o Hutt. Adicionando mais ameaças que aguardam os dois em Tatooine, Anakin e Ahsoka são perseguidos por Conde Dookan e seus sinistros asseclas - incluindo a misteriosa Asajj Ventress -, que não vão parar até que os Jedis tenham sido derrotados. Enquanto isso, na frente de batalha, Obi-Wan Kenobi e Mestre Yoda lideram as forças clônicas em um esforço para resistir às forças do Lado Negro...</info>
+ 
+<genre>Animação, Ação, Ficção científica, Aventura</genre>
+ 
+<date>15/08/2008</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio VII - O Despertar da Força [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/STRWRSVII.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5657.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5657.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Fantasia
+Lançamento: 2015
+
+A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem. Eles procuram o jedi Luke Skywalker, desaparecido. A resistência tenta desesperadamente encontrá-lo antes para salvar a galáxia.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Fantasia</genre>
+ 
+<date>18/12/2015</date>
+</item>"
+"<item>
+
+<title>Rogue One: Uma História Star Wars [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RGONUHSTRWRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5294.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5294.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2016
+
+Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma arriscada missão: roubar os planos que revelam uma falha na construção da Estrela da Morte. Para isso, eles contam com a ajuda de Jyn Erso, filha do criador da arma mais poderosa do império.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>15/12/2016</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio VIII - Os Últimos Jedi [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/STRWRSOSULTMSJD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5658.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5658.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2017
+
+A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>14/12/2017</date>
+</item>"
+"<item>
+
+<title>Han Solo: Uma História Star Wars [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HANSLOUHSTSTRWRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2585.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2585.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica
+Lançamento: 2018
+
+Embarque na Millennium Falcon e viaje para uma galáxia distante em uma nova aventura com o mais amado canalha da galáxia. Através de uma série de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis da saga Star Wars.</info>
+ 
+<genre>Aventura, Ficção científica</genre>
+ 
+<date>24/05/2018</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio IX - A Ascensão Skywalker [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/STRWRSAASCNSAODSKWLKR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5654.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5654.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2019
+
+Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>19/12/2019</date>
+</item>"
