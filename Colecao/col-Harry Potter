@@ -1,5 +1,24 @@
 "<item>
 
+<title>Harry Potter e a Pedra Filosofal [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2600.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2600.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 2001
+
+Harry Potter é um garoto órfão de 10 anos que vive infeliz com seus tios, os Dursley. Até que, repentinamente, ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente Harry é impedido de ler a carta por seu tio Válter, mas logo ele recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega em sua casa para levá-lo até a escola. A partir de então Harry passa a conhecer um mundo mágico que jamais imaginara, vivendo as mais diversas aventuras com seus mais novos amigos, Rony Weasley e Hermione Granger.</info>
+ 
+<genre>Aventura, Fantasia, Família</genre>
+ 
+<date>23/11/2001</date>
+</item>"
+"<item>
+
 <title>Harry Potter e a Câmara Secreta [COLOR yellow][IMDb 7,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR02.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -16,4 +35,118 @@ Após as sofríveis férias na casa dos tios, Harry Potter se prepara para volta
 <genre>Aventura, Fantasia</genre>
  
 <date>22/11/2002</date>
+</item>"
+"<item>
+
+<title>Harry Potter e o Prisioneiro de Azkaban [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR03.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2605.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2605.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 2004
+
+O 3º ano de ensino na Escola de Magia e Bruxaria de Hogwarts se aproxima. Porém um grande perigo ronda a escola: o assassino Sirius Black fugiu da prisão de Azkaban, considerada até então como à prova de fugas. Para proteger a escola são enviados os Dementadores, estranhos seres que sugam a energia vital de quem se aproxima deles, que tanto podem defender a escola como piorar ainda mais a situação.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>04/06/2004</date>
+</item>"
+"<item>
+
+<title>Harry Potter e o Cálice de Fogo [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR04.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2603.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2603.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 2005
+
+Em seu 4º ano na Escola de Magia e Bruxaria de Hogwarts, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwarts e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa do Mundo de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.</info>
+ 
+<genre>Aventura, Fantasia, Família</genre>
+ 
+<date>25/11/2005</date>
+</item>"
+"<item>
+
+<title>Harry Potter e a Ordem da Fênix [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR05.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2599.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2599.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Mistério
+Lançamento: 2007
+
+Harry Potter está em seu quinto ano em Hogwarts e acaba ouvindo que muitos não sabem a verdade sobre seu encontro com Lord Voldemort. O Ministro de Mágica, Cornelius Fudge, indica Dolores Umbridge para ser a nova professora de Defesa Contra as Artes das Trevas, por acreditar que Dumbledore planeja tomar seu lugar. Porém, os métodos que ela usa são totalmente inapropriados. Harry, então, se reúne com um grupo de alunos para defender sua escola.</info>
+ 
+<genre>Aventura, Fantasia, Mistério</genre>
+ 
+<date>11/07/2007</date>
+</item>"
+"<item>
+
+<title>Harry Potter e o Enigma do Príncipe [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR06.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2604.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2604.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 2009
+
+No sexto ano de Harry em Hogwarts, Lord Voldemort e seus Comensais da Morte estão criando o terror nos mundos bruxo e trouxa. Dumbledore convence seu velho amigo Horácio Slughorn para retornar a Hogwarts como professor de poções após Harry encontrar um estranho livro escolar. Draco Malfoy se esforça para realizar uma ação destinada por Voldemort, enquanto Dumbledore e Harry secretamente trabalham juntos a fim de descobrir o método para destruir o Lorde das Trevas uma vez por todas.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>17/07/2009</date>
+</item>"
+"<item>
+
+<title>Harry Potter e as Relíquias da Morte - Parte 1 [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR07.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2601.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2601.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 2010
+
+Sem a orientação e proteção de seus professores, Harry, Rony e Hermione iniciam uma missão para destruir as horcruxes, que são as fontes da imortalidade de Voldemort. Embora devam confiar um no outro mais do que nunca, forças das trevas ameaçam separá-los. Os Comensais da Morte de Voldemort tomaram o controle do Ministério da Magia e de Hogwarts, e eles estão procurando por Harry enquanto ele e seus amigos se preparam para o confronto final.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>18/11/2010</date>
+</item>"
+"<item>
+
+<title>Harry Potter e as Relíquias da Morte - Parte 2 [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/HRYPTR08.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2602.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2602.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura
+Lançamento: 2011
+
+Harry Potter e seus amigos Rony Weasley e Hermione Granger seguem à procura das horcruxes. O objetivo do trio é encontrá-las e, em seguida, destruí-las, de forma a eliminar lorde Voldemort de uma vez por todas. Com a ajuda do duende Grampo, eles entram no banco Gringotes de forma a invadir o cofre de Bellatrix Lestrange. De lá retornam ao castelo de Hogwarts, onde precisam encontrar mais uma horcrux. Paralelamente, Voldemort prepara o ataque definitivo ao castelo.</info>
+ 
+<genre>Fantasia, Aventura</genre>
+ 
+<date>15/07/2011</date>
 </item>"
