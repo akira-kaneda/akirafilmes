@@ -1,0 +1,57 @@
+"<item>
+
+<title>Rota de Fuga [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RTADFGA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5303.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5303.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2013
+
+Ray Breslin (Sylvester Stallone) é a maior autoridade existente ao se falar em segurança. Após analisar diversas prisões de segurança máxima, ele desenvolve um modelo à prova de fugas. Quando é preso, Ray é enviado justamente para a prisão que criou. Lá ele precisa encontrar uma brecha não imaginada até então, que permita sua fuga.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>12/10/2013</date>
+</item>"
+"<item>
+
+<title>Rota de Fuga 2: Hades [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RTADFGA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5304.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5304.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2018
+
+Anos depois de ter conseguido escapar de uma prisão à prova de fuga, Ray Breslin (Sylvester Stallone) organizou uma nova força de segurança de elite. Mas quando um dos seus elementos desaparece, Breslin vê-se obrigado a regressar ao inferno de onde já fugiu uma vez para salvar o amigo da brutal arena de combate conhecida como Hades.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>29/06/2018</date>
+</item>"
+"<item>
+
+<title>Rota de Fuga 3: O Resgate [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/RTADFGA3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5305.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5305.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2019
+
+O especialista em segurança Ray Breslin e sua equipe devem realizar uma missão de resgate mortal para salvar sua namorada e a filha sequestrada de um magnata da tecnologia de Hong Kong de uma formidável prisão letã.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>20/06/2019</date>
+</item>"
