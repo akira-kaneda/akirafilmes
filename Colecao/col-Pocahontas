@@ -1,0 +1,38 @@
+"<item>
+
+<title>Pocahontas - O Encontro de Dois Mundos [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PCOHNTSOENTRDISMDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4945.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4945.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Romance
+Lançamento: 1995
+
+Pocahontas encontra um misterioso navio com trabalhadores ingleses e,rapidamente se torna amiga do corajoso capitão John Smith. Quando o clima fica pesado entre seus povos, ela tenta encontrar uma maneira de fazer com que todos vivam em paz juntos.</info>
+ 
+<genre>Aventura, Animação, Família, Romance</genre>
+ 
+<date>14/06/1995</date>
+</item>"
+"<item>
+
+<title>Pocahontas 2 - Uma Jornada para o Novo Mundo [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PCOHNTS2UMJRNDPRONVMDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4944.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4944.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Romance, Família
+Lançamento: 1998
+
+A indiazinha americana Pocahontas viaja através do mar para convencer os ingleses a não declararem guerra contra seu povo. Com seu guia John Rolfe, a heroína entra em um estranho novo mundo.</info>
+ 
+<genre>Aventura, Animação, Romance, Família</genre>
+ 
+<date>04/08/1998</date>
+</item>"
