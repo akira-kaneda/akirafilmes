@@ -1,0 +1,57 @@
+"<item>
+
+<title>Quebrando Regras [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/QBRNDRGRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5138.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5138.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação
+Lançamento: 2008
+
+O adolescente Jake Tyler (Sean Faris) é um rebelde por natureza. Sua vida muda completamente quando ele se envolve com o clube de luta secreto de sua escola, tendo como mentor um veterano das artes marciais. Após perceber que sua família e amigos estão com a segurança sob ameaça ele decide se concentrar na luta contra seu principal algoz Ryan McCarthy (Cam Gigandet)</info>
+ 
+<genre>Drama, Ação</genre>
+ 
+<date>04/03/2008</date>
+</item>"
+"<item>
+
+<title>Quebrando Regras 2 [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/QBRNDRGRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5139.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5139.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação
+Lançamento: 2011
+
+Quatro jovens de origens diversas são treinados em MMA pelo experiente – e nada ortodoxo – Case (Michael Jai White) para a competição “The Beatdown”. Antes do grande evento, no entanto, Case cai numa armadilha e os rapazes se unem para vingar o mestre e acabar com o traidor.</info>
+ 
+<genre>Drama, Ação</genre>
+ 
+<date>13/09/2011</date>
+</item>"
+"<item>
+
+<title>Quebrando Regras 3: Não Se Renda [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/QBRNDRGRS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5140.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5140.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação
+Lançamento: 2016
+
+Ex-campeão do MMA, Case Walker (Michael Jai White) se manteve fora dos holofotes, vencendo pequenas competições regionais, após se recusar a entrar em uma poderosa nova liga que é a favor do uso de anabolizantes. Seu antigo amigo e famoso lutador Brody James (Josh Barnett) convence Walker a ir à Tailândia e treiná-lo para uma grande luta contra o mortal e invicto Caesar Braga (Nathan Jones). Durante o treinamento, Brody sofre uma lesão. Sob a pressão de um inescrupuloso e poderoso promotor (Esai Morales), Walker aceita substituir James e lutar contra seu mais desafiador oponente, mas apenas de acordo com suas próprias condições.</info>
+ 
+<genre>Drama, Ação</genre>
+ 
+<date>07/06/2016</date>
+</item>"
