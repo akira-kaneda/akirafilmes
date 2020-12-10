@@ -1,0 +1,38 @@
+"<item>
+
+<title>Malévola [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MALVLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3205.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3205.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura, Ação, Família, Romance
+Lançamento: 2014
+
+Malévola, uma jovem de coração puro, vive em um pacífico reino na floresta, até o dia em que um exército invasor ameaça a harmonia da região, fazendo com que ela se torne a mais feroz protetora do reino. No entanto, uma terrível traição a transforma em uma mulher amarga e vingativa. Como consequência, amaldiçoa Aurora, sua filha recém-nascida. Mas, aos poucos, Malévola percebe que a criança é a chave para a paz no reino e para sua verdadeira felicidade também.</info>
+ 
+<genre>Fantasia, Aventura, Ação, Família, Romance</genre>
+ 
+<date>30/05/2014</date>
+</item>"
+"<item>
+
+<title>Malévola: Dona do Mal [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MALVLADNADML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3206.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3206.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Aventura
+Lançamento: 2019
+
+Após aceitar se casar com o Príncipe Phillip (Harris Dickinson), Aurora (Elle Fanning) é imediatamente acolhida pela rainha, sua futura sogra (Michelle Pfeiffer), como se fosse sua própria filha. Revoltada, Malévola (Angelina Jolie) se opõe ao reino e reúne novos aliados para proteger as terras mágicas que compartilham.</info>
+ 
+<genre>Fantasia, Família, Aventura</genre>
+ 
+<date>17/10/2019</date>
+</item>"
