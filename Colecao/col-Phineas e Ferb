@@ -1,0 +1,57 @@
+"<item>
+
+<title>Phineas e Ferb, O Filme: Através da 2ª Dimensão [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PHNASEFRBATRSVD2DMSAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4909.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4909.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Cinema TV, Música
+Lançamento: 2011
+
+Phineas e Ferb descobrem que seu amado animal de estimação Perry,o Onitorrinco é um agente secreto que luta contra as forças do mal quase todos os dias. Os meninos, com Perry vão entrar em uma grande aventura através de um universo paralelo onde eles devem, em última instância contrariar uma versão mais malvada do Dr. Doofenshmirtz. Enquanto isso Candace tenta equilibrar amigos com seu namorado.</info>
+ 
+<genre>Animação, Comédia, Família, Cinema TV, Música</genre>
+ 
+<date>05/08/2011</date>
+</item>"
+"<item>
+
+<title>Phineas e Ferb: Star Wars [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PHNSEFRBSSTRWRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4910.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4910.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Comédia, Família, Ficção científica, Música
+Lançamento: 2014
+
+Há muitos anos, numa galáxia muito, muito distante, Phineas e Ferb estão vivendo a uma fazenda de distância de Luke Skywalker, no planeta Tatooine. De repente, R2-D2 e os planos da Estrela da Morte caem acidentalmente em suas mãos. Com o destino da galáxia nas costas, eles contratam Isabella, piloto e rival de Han Solo, para ajudá-los a devolver os planos à Aliança Rebelde. Para complicar a situação, Candace, uma Stormtrooper de baixo escalão, planeja atacar os Rebeldes e persegui-los pela galáxia para recuperar os planos da Estrela da Morte.</info>
+ 
+<genre>Ação, Animação, Comédia, Família, Ficção científica, Música</genre>
+ 
+<date>19/11/2014</date>
+</item>"
+"<item>
+
+<title>Phineas e Ferb, O Filme: Candace Contra o Universo [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PHNSEFRBOFLMCNCTROUNVSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4908.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4908.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ficção científica, Comédia, Música, Família, Aventura
+Lançamento: 2020
+
+Phineas e Ferb atravessam o universo para resgatar a irmã mais velha, Candance, que foi sequestrada por alienígenas e acabou achando um planeta livre dos irmãos irritantes.</info>
+ 
+<genre>Animação, Ficção científica, Comédia, Música, Família, Aventura</genre>
+ 
+<date>17/11/2020</date>
+</item>"
