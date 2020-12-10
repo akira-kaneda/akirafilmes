@@ -1,0 +1,57 @@
+"<item>
+
+<title>Perseguição: A Estrada da Morte [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAOAESTRDMRTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4895.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4895.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Drama
+Lançamento: 2001
+
+As férias de verão têm início e apenas uma idéia ronda a mente de Lewis Thomas (Paul Walker): partir com a garota dos seus sonhos, Venna (Leelee Sobieski), em uma viagem de carro pelos Estados Unidos. Mas seus planos são alterados quando ele é obrigado a salvar Fuller (Steve Zahn), seu irmão mais velho, que é conhecido por sempre causar problemas. Em uma de suas brincadeiras Fuller acaba envolvendo um motorista de caminhão solitário, que decide se vingar dele e de todas as pessoas que estiverem juntas de qualquer maneira.</info>
+ 
+<genre>Mistério, Thriller, Drama</genre>
+ 
+<date>27/12/2001</date>
+</item>"
+"<item>
+
+<title>Perseguição 2: O Resgate [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4886.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4886.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller
+Lançamento: 2009
+
+Kayla e suas amigas estão viajando para Las Vegas, onde ocorrerá a despedida de solteira de Melissa. A jovem para em um posto para encontrar Nik, um rapaz que conheceu na internet, e pouco tempo depois pega uma estrada secundária, passando por uma região praticamente deserta. Após um problema com o carro, elas vão enfrentar o caminhoneiro Rusty Nail, um homem sádico que vai infernizar as suas vidas.</info>
+ 
+<genre>Crime, Thriller</genre>
+ 
+<date>23/01/2009</date>
+</item>"
+"<item>
+
+<title>Perseguição 3: Correndo para a Morte [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4887.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4887.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2014
+
+Um grupo de corredores precisa enfrentar um enorme perigo para chegar à reta final de uma competição importante.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>03/06/2014</date>
+</item>"
