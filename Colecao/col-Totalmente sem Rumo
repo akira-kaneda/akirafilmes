@@ -1,0 +1,38 @@
+"<item>
+
+<title>Totalmente sem Rumo [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TOTLMNTSEMRUM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5970.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5970.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Thriller
+Lançamento: 2004
+
+Três jovens rapazes partem numa viagem para a selva do Oregon em busca de um tesouro. Para chegar lá, eles embarcam numa canoa, mas tudo dá errado. Caçados por fazendeiros, eles encontram animais ameaçadores, hippies e um homem maluco que vive nas montanhas.</info>
+ 
+<genre>Ação, Aventura, Comédia, Thriller</genre>
+ 
+<date>19/11/2004</date>
+</item>"
+"<item>
+
+<title>Totalmente Sem Rumo 2: Defensores da Natureza [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TOTLMNTSEMRUM2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5971.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5971.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2009
+
+Aventurar-se na floresta não causa nada além de problemas e hilaridade para três homens equivocados neste vídeo direto de ""Without A Paddle"" de 2004.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>13/01/2009</date>
+</item>"
