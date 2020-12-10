@@ -1,0 +1,38 @@
+"<item>
+
+<title>Shiloh [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHLOH1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5523.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5523.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 1996
+
+Marty Preston tem 11 anos e sua maior diversão é brincar nas colinas que ficam atrás da casa onde mora, em uma pacata cidade do interior dos Estados Unidos. Até que um dia, o garoto encontra um novo amigo que irá mudar sua vida para sempre: um pequeno cachorro, perdido a beira da estrada. Brincando com o animalzinho percebe-se que ele está sendo mal tratado. O pequenino segue Marty até sua casa, as os pais do menino decidem que ele deve devolve-lo ao verdadeiro...e cruel...dono. Só que Marty não vai desistir tão fácil e fará qualquer coisa para salvar seu companheiro Shiloh. Agora os dois estão prestes a enfrentar uma grande aventura.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>30/11/1996</date>
+</item>"
+"<item>
+
+<title>Shiloh 3 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHLOH3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5522.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5522.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Drama
+Lançamento: 2006
+
+Neste terceiro filme sobre Shiloh, Judd Travers é acusado de matar um homem com quem ele lutou em um bar. Todos na cidade consideram Judd culpado, exceto Marty Preston, mas até ele tem algumas dúvidas. Tentando limpar o nome de Judd, Marty e seu amigo vasculham a floresta para encontrar o criminoso.</info>
+ 
+<genre>Família, Drama</genre>
+ 
+<date>05/04/2006</date>
+</item>"
