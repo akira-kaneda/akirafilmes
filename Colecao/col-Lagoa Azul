@@ -1,0 +1,57 @@
+"<item>
+
+<title>A Lagoa Azul [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ALGOAZL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/370.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/370.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Aventura, Drama
+Lançamento: 1980
+
+Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no ""lado proibido"" da ilha.</info>
+ 
+<genre>Romance, Aventura, Drama</genre>
+ 
+<date>05/07/1980</date>
+</item>"
+"<item>
+
+<title>De Volta à Lagoa Azul [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DVLTALGOAZL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1806.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1806.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama
+Lançamento: 1991
+
+Em virtude da cólera, Sarah, uma viúva, é deixada em um barco com um marinheiro e dois bebês: Lilli, sua filha, e Richard, filho de Emmeline, que tinha sido resgatado há poucos dias de um barco à deriva, onde seus pais foram encontrados mortos. Depois de vários dias o marinheiro pensa em matar os bebês para economizar água, mas Sarah não aceita tal atitude e mata o marujo. Depois de muitos dias ela chega com os bebês em uma bela ilha. Ela educa as crianças e quando elas têm quase 8 anos, ela morre. Quando Lilli e Richard se tornam jovens, se apaixonam e se ""casam"". Quando um navio chega na ilha alguns problemas acontecem, mas o principal é que um dos marujos tenta estuprar Lilli. O casal então questiona se quer ou não voltar para a civilização.</info>
+ 
+<genre>Aventura, Drama</genre>
+ 
+<date>02/08/1991</date>
+</item>"
+"<item>
+
+<title>Lagoa Azul: O Despertar [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LGOAZLODSPRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3022.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3022.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Aventura, Romance, Cinema TV
+Lançamento: 2012
+
+Dois adolescentes se conhecem durante uma festa num barco, em uma viagem de férias pelo litoral caribenho. Depois de um pequeno acidente, os dois ficam presos numa ilha deserta. Dean é um garoto solitário e Emma um menina popular e perfeita. Enquanto esperam por resgate, eles aprendem mais sobre si mesmos e as dificuldades do outro, e acabam se apaixonando.</info>
+ 
+<genre>Drama, Aventura, Romance, Cinema TV</genre>
+ 
+<date>16/06/2012</date>
+</item>"
