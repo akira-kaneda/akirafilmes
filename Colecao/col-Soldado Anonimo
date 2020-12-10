@@ -1,0 +1,76 @@
+"<item>
+
+<title>Soldado Anônimo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SLDSANONMOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5598.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5598.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2006
+
+Swoff (Jake Gyllenhaal) é a terceira geração de sua família a servir ao exército. Ele passa pelo campo de treinamento antes de ser designado para lutar no Iraque, onde precisa carregar seu fuzil e cerca de 50 quilos de equipamento nas costas através de desertos escaldantes. Estando em local que não entende, lutando contra um inimigo que não consegue ver e sem entender direito o porquê de estar ali, Swoff e seus companheiros de batalhão sobrevivem à adversidade local usando o humor negro e o sarcasmo.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>06/01/2006</date>
+</item>"
+"<item>
+
+<title>Soldado Anônimo: Campo em Chamas [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SLDSANONMOS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5600.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5600.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2014
+
+Traumatizado e desiludido pela guerra, o soldado Chris Merrimette (Josh Kelly) está no comando de uma unidade de fuzileiros que tem a missão ajudar uma Annosh (Cassie Layton), uma mulher afegã famosa por desafiar os Talibãs, a escapar do país. Sem tanques ou apoio aéreo, o grupo terá que contar somente com sua coragem para enfrentar o ataque de fundamentalistas islâmicos fortemente armados.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>14/08/2014</date>
+</item>"
+"<item>
+
+<title>Soldado Anônimo 3: O Cerco [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SLDSANONMOS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5599.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5599.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra
+Lançamento: 2016
+
+Evan Albright (Charlie Weber) se junta ao grupo de elite do Corpo de Guardas de Segurança da Marinha em busca de salvar o mundo e ver um pouco mais de ação. Porém, sua primeira missão é proteger uma embaixada norte-america em uma capital do Oriente Médio que aparentemente é segura, fazendo a unidade passar tempo com pequenos grupos de revolta e jogos de mira. Albright e seu time são pegos de surpresa quando militares bem armados e treinados fazem um ataque surpresa.</info>
+ 
+<genre>Ação, Drama, Guerra</genre>
+ 
+<date>14/04/2016</date>
+</item>"
+"<item>
+
+<title>Soldado Anônimo: Lei do Retorno [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SLDSANONMOSALEIDRTRNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5601.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5601.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra
+Lançamento: 2020
+
+Um grupo de fuzileiros navais devem proteger uma embaixada dos EUA no Oriente Médio quando, de repente, foram atacados por forças inimigas.</info>
+ 
+<genre>Guerra</genre>
+ 
+<date>19/04/2020</date>
+</item>"
