@@ -1,0 +1,38 @@
+"<item>
+
+<title>Independence Day [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/INDPNDAY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2739.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2739.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1996
+
+Perto do Dia da Independência dos EUA, o país fica em pânico com uma invasão alienígena. Preparados para um ataque iminente dos extra-terrestres, a humanidade precisa se unir antes que uma catástrofe mundial ocorra.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>15/08/1996</date>
+</item>"
+"<item>
+
+<title>Independence Day: O Ressurgimento [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2740.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2740.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2016
+
+Duas décadas depois do devastador ataque alienígena do Dia da Independência, a Terra enfrenta uma nova ameaça que vem diretamente do espaço. Uma nova geração de pilotos é convocada para combater os inimigos e garantir a liberdade da humanidade.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>23/06/2016</date>
+</item>"
