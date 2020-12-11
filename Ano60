@@ -1,7 +1,7 @@
 "<item>
 
 <title>Ben-Hur [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BENHUR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BENHUR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1249.jpg</image>
@@ -19,8 +19,27 @@ Em Jerusalém no início do século I vive Judah Ben-Hur (Charlton Heston), um r
 </item>"
 "<item>
 
+<title>Essa Loira Vale Um Milhão [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ESALOIRVLUMLHAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2259.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2259.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1960
+
+Ella Peterson é uma operadora de serviço de atendimento telefônico do Brooklyn, uma espécie de ""Secretária Eletrônica"" analógica, que tenta melhorar a vida de seus clientes, passando algumas dicas de informação que ela ouve de outros clientes. Ela se apaixona por um de seus clientes, o dramaturgo Jeffrey Moss, e está determinada a conhecê-lo. O problema é que, ao telefone com ele, ela sempre finge ser uma mulher velha que ele chama de ""mãe"". e Livre (estimado Livre)</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>23/06/1960</date>
+</item>"
+"<item>
+
 <title>Circo dos Horrores [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CRCODSHRORS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRCODSHRORS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1540.jpg</image>
@@ -38,8 +57,46 @@ Em 1947, na Inglaterra, um cirurgião plástico deve bater em retirada para a Fr
 </item>"
 "<item>
 
+<title>Spartacus [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SPRTCUS1960.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5629.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5629.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, História, Guerra
+Lançamento: 1960
+
+Spartacus, um homem que nasceu escravo, labuta para o Império Romano enquanto sonha com o fim da escravidão. Ele foi condenado à morte por morder um guarda em uma mina na Líbia. Mas seu destino foi mudado por um lanista (negociante e treinador de gladiadores), que o comprou para ser treinado nas artes de combate e se tornar um gladiador. Até que um dia, dois poderosos patrícios chegam de Roma, um com a esposa e o outro com a noiva. As mulheres pedem para serem entretidas com dois combates até à morte e Spartacus, é escolhido para enfrentar um gladiador negro, que vence a luta mas se recusa a matar seu opositor, atirando seu tridente contra a tribuna onde estavam os romanos. Este nobre gesto custa a vida do gladiador negro e enfurece Spartacus, de tal maneira que ele acaba liderando uma revolta de escravos, que atinge metade da Itália.</info>
+ 
+<genre>Ação, Aventura, Drama, História, Guerra</genre>
+ 
+<date>17/11/1960</date>
+</item>"
+"<item>
+
+<title>Saudades de um Pracinha [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SAUDSDUMPRCNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5359.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5359.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 1960
+
+Tulsa McLean é um soldado cujo maior sonho é ser dono de um Night Club. Para conseguir o valor em dinheiro para que ele possa abrir o seu empreendimento, ele aceita participar de uma aposta, onde, na qual, ele deve passar uma noite com uma bailarina famosa no local, porém, os dois acabam se apaixonando.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>23/11/1960</date>
+</item>"
+"<item>
+
 <title>A Bela Adormecida [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABLADRMCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ABLADRMCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/141.jpg</image>
@@ -57,8 +114,27 @@ Ciumenta e vingativa a fada Malévola lança um feitiço cruel sobre a princesa 
 </item>"
 "<item>
 
+<title>Robin Hood – O Invencível [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RBNHODOINCRVL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5273.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5273.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, História
+Lançamento: 1961
+
+O Xerife de Nottingham planeja confiscar a propriedade do Senhor de Bawtry, um nobre que morreu na Cruzada. O Arcebispo de Canterbury, Hubert Walter, é contra este plano e o xerife planeja eliminá-lo. Robin Hood é convidado a realizar o assassinato do arcebispo para os conspiradores, liderados pelo Conde de Newark e Lord Melton, mas, ao perceber quem é o alvo pretendido, resolve ajudar o Arcebispo. Lady Marian também quer conhecer o Arcebispo para que ela possa conceder liberdade à família de um homem assassinado pelos homens do Xerife e ela também está ansiosa para encontrar Robin novamente, pois o conheceu quando achava que ele era um fora da lei comum, mas agora percebe que ele está do lado do bem.</info>
+ 
+<genre>Aventura, Drama, História</genre>
+ 
+<date>25/01/1961</date>
+</item>"
+"<item>
+
 <title>101 Dálmatas [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/101DMLTS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/40.jpg</image>
@@ -77,8 +153,46 @@ Conta a história de uma família de cachorrinhos da raça dálmata que é rapta
 </item>"
 "<item>
 
+<title>Psicose [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PSCSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5086.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5086.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Thriller
+Lançamento: 1961
+
+Marion Crane é uma secretária (Janet Leigh) que rouba 40 mil dólares da imobiliária onde trabalha para se casar e começar uma nova vida. Durante a fuga à carro, ela enfrenta uma forte tempestade, erra o caminho e chega em um velho hotel. O estabelecimento é administrado por um sujeito atencioso chamado Norman Bates (Anthony Perkins), que nutre um forte respeito e temor por sua mãe. Marion decide passar a noite no local, sem saber o perigo que a cerca.</info>
+ 
+<genre>Terror, Drama, Thriller</genre>
+ 
+<date>01/11/1961</date>
+</item>"
+"<item>
+
+<title>El Cid [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ELCID.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2093.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2093.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História, Romance, Guerra
+Lançamento: 1961
+
+Filme épico sobre o lendário herói espanhol Rodrigo Diaz, ""El Cid"" para os seus seguidores, que, sem comprometer o seu rigoroso sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.</info>
+ 
+<genre>Ação, Drama, História, Romance, Guerra</genre>
+ 
+<date>24/12/1961</date>
+</item>"
+"<item>
+
 <title>A Face Oculta [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/272.jpg</image>
@@ -96,8 +210,141 @@ Em fuga após o roubo de um banco no México um dos assaltantes, Dad Longworth (
 </item>"
 "<item>
 
+<title>Hatari! [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HATR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2606.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2606.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 1962
+
+Sean Mercer lidera um grupo internacional de caçadores que se encontra na África no período de três meses em que essa prática está liberada. Sua intenção é capturar um grande número de animais selvagens para atender encomendas de zoológicos do mundo todo. Além do risco que corre, Sean fica contrariado quando chega uma mulher no acampamento contratada pelo zoológico de Los Angeles para documentar a captura dos animais. Dallas se mostra à vontade no lugar, e se torna conhecida dos nativos por ""Momma Tembo"" (Mãe dos Elefantes), por acolher alguns filhotes elefantes órfãos, que tumultam ainda mais a vida no acampamento.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>19/06/1962</date>
+</item>"
+"<item>
+
+<title>Os 300 de Esparta [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OS300DESPRTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4569.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4569.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História
+Lançamento: 1962
+
+Xerxes, o rei persa, colocou seu enorme império de escravos para esmagar um pequeno grupo de estados independentes gregos. O rei contava com a desunião da Grécia para vencer a guerra, mas o famoso guerreiro Leonidas, o rei de Esparta, e o grande orador Themistocles de Atenas viram que a união era a única força capaz de derrotar o exército persa.</info>
+ 
+<genre>Ação, Drama, História</genre>
+ 
+<date>01/08/1962</date>
+</item>"
+"<item>
+
+<title>Garotas, Garotas e Mais Garotas [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GRTSGRTSEMASGRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2471.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2471.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1962
+
+O guia de pesca Ross Carpenter (Elvis Presley) tem duas paixões... o mar e Garotas! Garotas! Garotas! Sonhando em ter seu próprio barco algum dia, o carismático pescador trabalha também como cantor de um hotel para ganhar dinheiro. No placo ele atrai a atenção de todos e os olhares de mais de uma garota. Dividido entre a festiva atração principal da boate (Stella Stevens) e a charmosa socialite, que posa de moça trabalhadora (Laurel Goodwin), Ross tem que decidir qual será a garota de sorte que vai fazer seu coração cantar.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>21/11/1962</date>
+</item>"
+"<item>
+
+<title>O seresteiro de Acapulco [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSERSTRODACPLCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4411.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4411.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 1963
+
+Comédia, Romance</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>01/01/1963</date>
+</item>"
+"<item>
+
+<title>O Corvo [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OCRVO1963.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3892.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3892.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia, Terror
+Lançamento: 1963
+
+O poderoso feiticeiro Dr. Erasmus Craven vive recluso em seu castelo, de luto pela morte de sua esposa Lenore há dois anos, para tristeza da filha dele Estelle. Numa noite, entra pela janela um corvo que se revela como o feiticeiro Dr. Bedlo, transformado na ave após um duelo de magia com o maligno Dr. Scarabus. Craven o ajuda a voltar ao normal e Bedlo quer retornar ao castelo de Scarabus para a revanche. O doutor Craven vai junto pois Bedlo lhe contara que vira o fantasma de Lenore no lugar. Acompanha a dupla de feiticeiros Estelle e Rexford, filho de Bedlo. No castelo de Scarabus ocorre o novo duelo de magia dele com Bedlo e depois, a luta final com Craven.</info>
+ 
+<genre>Comédia, Fantasia, Terror</genre>
+ 
+<date>25/01/1963</date>
+</item>"
+"<item>
+
+<title>Os Pássaros [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSPSRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4674.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4674.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1963
+
+Melanie Daniels, uma jovem da cidade de São Francisco, vai até uma pequena cidade isolada da Califórnia, chamada Bodega Bay, atrás de um potencial namorado: Mitch Brenner. Mas na cidade começa de repente a acontecer fatos estranhos: pássaros de todas as espécies passam a atacar a população, em número cada vez maior e com mais violência, deixando todos aterrorizados.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>28/03/1963</date>
+</item>"
+"<item>
+
+<title>Os Três Desafios De Tarzan [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSTRSDSFSDTRZN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4705.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4705.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 1963
+
+O Filme mostra a vida de um grande líder de uma tribo formada por homens cruéis e impiedosos que tentam capturar Tarzan. Este, com a ajuda dos animais, consegue numa luta corpo a corpo para matar o chefe da tribo.Mas para conseguir vencer o chefe da tribo , terá que enfrentar três desafios,os piores de sua vida.</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>01/06/1963</date>
+</item>"
+"<item>
+
 <title>Cleópatra [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLEOPDTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLEOPDTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1549.jpg</image>
@@ -116,7 +363,7 @@ O filme narra a ascensão e o declínio de Cleópatra, rainha do Egito, sua luta
 "<item>
 
 <title>007 Contra o Satânico Dr. No [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071962CNTROSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071962CNTROSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/18.jpg</image>
@@ -135,8 +382,65 @@ James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. E
 </item>"
 "<item>
 
+<title>Fugindo do Inferno [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FGNDOINFNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2438.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2438.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, História, Thriller, Guerra
+Lançamento: 1963
+
+Em 1943 os nazistas decidem transferir os prisioneiros de guerra militares, que têm maior incidência em tentativas de fugas, para o mesmo campo, que foi projetado para impedir qualquer tipo de evasão. Mas isto foi um erro, pois apesar dos prisioneiros gozarem de certos privilégios, cada um era o melhor na sua ""especialidade"" e não pretendiam ficar presos até o final da guerra. Logo idealizam um audacioso plano de fuga, que previa a construção de três túneis, mas a idéia não era retirar do campo alguns prisioneiros mas sim duzentos e cinqüenta.</info>
+ 
+<genre>Aventura, Drama, História, Thriller, Guerra</genre>
+ 
+<date>11/10/1963</date>
+</item>"
+"<item>
+
+<title>Por um Punhado de Dólares [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRUMPNHDDOLRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5001.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5001.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1964
+
+Joe (Clint Eastwood) é um pistoleiro barra pesada que chega a uma cidade que está em guerra. Quando percebem o potencial de Joe, ambas as partes se interessam por contratá-lo; é quando ele percebe que pode ganhar um dinheiro com a situação aceitando a proposta dos dois lados.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>18/01/1964</date>
+</item>"
+"<item>
+
+<title>Moscou Contra 007 [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071963MSCCNT007.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3482.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3482.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1964
+
+James Bond (Sean Connery) é incumbido de ajudar uma bela agente soviética a fugir de seu país, para então tentar recuperar uma leitora de códigos na embaixada russa, em Londres. Porém, Bond não sabe que a temível organização criminosa Spectre organizou esta armadilha no intuito de executá-lo.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>24/04/1964</date>
+</item>"
+"<item>
+
 <title>Carrossel de Emoções [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRSLDEMCES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRSLDEMCES.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</image>
@@ -154,8 +458,46 @@ Charlie Rogers (Elvis Presley) dirige sua motocicleta e se apresenta em pequenos
 </item>"
 "<item>
 
+<title>Deu a Louca no Mundo [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DEUALUCNMND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1896.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1896.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Crime
+Lançamento: 1965
+
+Após um longo tempo na prisão, homem cai de carro num precipício. Antes de morrer, ele conta às pessoas que tentam socorrê-lo onde escondera uma grande fortuna. Inicia-se então uma louca corrida ao tesouro. Oscar de Efeitos Sonoros.</info>
+ 
+<genre>Ação, Aventura, Comédia, Crime</genre>
+ 
+<date>01/01/1965</date>
+</item>"
+"<item>
+
+<title>Dr. Fantástico [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DRFNTSCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2015.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2015.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Guerra
+Lançamento: 1965
+
+Um general americano meio louco, Jack D. Ripper, acredita que os soviéticos estão sabotando os reservatórios de água dos Estados Unidos e resolve fazer um ataque anticomunista, bombardeando a União Soviética para se livrar dos ""vermelhos"". Com as comunicações interrompidas, ele é o único que possui os códigos para parar os bombardeiros e evitar o que provavelmente seria o início da Terceira Guerra Mundial.</info>
+ 
+<genre>Drama, Comédia, Guerra</genre>
+ 
+<date>01/01/1965</date>
+</item>"
+"<item>
+
 <title>007 Contra Goldfinger [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/15.jpg</image>
@@ -175,7 +517,7 @@ James Bond é (Sean Connery) encarregado de espionar Goldfinger (Gert Fröbe), u
 "<item>
 
 <title>A Maior História de Todos os Tempos [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMIORHSTRDTDSOSTMPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMIORHSTRDTDSOSTMPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/403.jpg</image>
@@ -194,7 +536,7 @@ A vida de Jesus de Nazaré (Max von Sydow). Seu nascimento, as pregações, mila
 "<item>
 
 <title>A Noviça Rebelde [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</image>
@@ -213,7 +555,7 @@ No final da década de 1930, na Áustria, quando o pesadelo nazista estava prest
 "<item>
 
 <title>A Espada Era a Lei [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESPDERALEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AESPDERALEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/251.jpg</image>
@@ -231,8 +573,65 @@ Humor, espetáculo e magia imperam neste conto clássico legendário de Walt Dis
 </item>"
 "<item>
 
+<title>O Bandido de Kandahar [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OBNDODKNDHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3812.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3812.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura
+Lançamento: 1965
+
+Em 1850, uma guarnição britânica defende o Forte Kandahar na fronteira noroeste da Índia britânica. O tenente Case é um oficial britânico de raça mista, sob o comando do coronel Drewe. Case é desprezado por seu coronel e alguns colegas ciumentos por serem nativos em parte</info>
+ 
+<genre>Aventura</genre>
+ 
+<date>01/11/1965</date>
+</item>"
+"<item>
+
+<title>O Natal do Charlie Brown [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ONTLDCRLBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4213.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4213.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Cinema TV
+Lançamento: 1965
+
+Quando Charlie Brown reclama sobre o sentido materialista que as pessoas dão ao Natal, Lucy sugere que ele se torne o diretor de uma peça teatral. Charlie Brown aceita, mas o que deveria ser uma lição, acaba se tornando uma experiência frustrante. Agora, ele deverá pedir a ajuda de Linus para aprender o verdadeiro sentido do Natal.</info>
+ 
+<genre>Animação, Família, Comédia, Cinema TV</genre>
+ 
+<date>09/12/1965</date>
+</item>"
+"<item>
+
+<title>Mary Poppins [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MRYPOPNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3255.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3255.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia
+Lançamento: 1965
+
+Em 1910, em Londres, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, não consegue contratar uma babá, pois elas desistem facilmente do emprego. Numa noite, enquanto redige com sua esposa um anúncio de jornal procurando uma babá, sua filha Jane aparece com uma carta mostrando como seria uma babá perfeita. Esta carta acaba chegando nas mãos de Mary Poppins, que é tudo aquilo que está descrito na carta. Mary Poppins possui poderes mágicos e, com seu amigo faz-tudo Bert, transforma a vida daquela família, com muita música, magia e diversão.</info>
+ 
+<genre>Comédia, Família, Fantasia</genre>
+ 
+<date>15/12/1965</date>
+</item>"
+"<item>
+
 <title>007 Contra a Chantagem Atômica [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601508.us.archive.org/16/items/35_20200901/13.jpg</image>
@@ -251,8 +650,46 @@ James Bond (Sean Connery) tenta evitar a destruição de Miami por meio de uma s
 </item>"
 "<item>
 
+<title>Por uns Dólares a Mais [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRUNSDLRSAMS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5004.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5004.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1966
+
+Monco (Clint Eastwood) é um astuto caçador de recompensas, que perambula pelas cidades do velho oeste americano em busca de um novo alvo. Ele o encontra quando vê o cartaz de procurado de Índio (Gian Maria Volonté), um perigoso bandido que também está sendo procurado pelo coronel Douglas Mortimer (Lee Van Cleef), outro caçador de recompensas. Os dois partem no encalço de Índio mas, sem conseguir capturar o bandido nem eliminar o rival, eles precisam decidir entre unir forças ou serem eliminados pela gangue de Índio.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>25/03/1966</date>
+</item>"
+"<item>
+
+<title>No Paraíso do Havaí [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NOPRISODHVAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3633.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3633.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia, Romance
+Lançamento: 1966
+
+Após ser demitido de empresas aéreas por ser muito namorador, um jovem piloto (Elvis Presley) se associa a um amigo inaugurando um serviço de charter no Havaí, para levar os turistas aos lugares mais belos. Lá ele aproveita para namorar algumas das beldades locais, que passam a lhe fornecer uma boa clientela. Mas tudo pode ir por água abaixo quando ele, ao transportar os cães de uma milionária, acaba quase provocando um acidente com o chefe da Agência de Aviação Federal.</info>
+ 
+<genre>Música, Comédia, Romance</genre>
+ 
+<date>15/06/1966</date>
+</item>"
+"<item>
+
 <title>Batman - O Homem Morcego [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BTMNOHMNMORCG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BTMNOHMNMORCG.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1205.jpg</image>
@@ -270,8 +707,27 @@ Em Gotham City, Charada (Frank Gorshin), Pinguim (Burgess Meredith), Coringa (Ce
 </item>"
 "<item>
 
+<title>O Homem Chamado Flintstone [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OHMEMCHMDFLSTNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3687.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3687.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Aventura, Animação, Família, Romance, Mistério, Comédia
+Lançamento: 1966
+
+Conheça Fed Flintstone, o superespião. Ele é o típico cara que analisa cada história detalhadamente, mesmo vivendo na ´Pré-História´. O quê?! Você não o conhece? Não se preocupe, esse longa-metragem de animação é um verdadeiro dossiê sobre O Homem Chamado Flintstone. Nosso homem em Bedrock aceita uma perigosa missão substituindo um superagente machucado muito parecido com Fred. Sua tarefa: encontrar o vilão Ganso Verde e impedi-lo de completar seu plano de dominar o mundo. Assim, fingindo estar em uma viagem de férias familiares ao lado de Wilma, Barney e Betty, Fred voa até Eurock para se envolver em uma intriga selvagem maior que um mamute. Esta é a cruzada de um espião, que não estará terminada até ouvirmos o famoso yabba-dabba-doo!</info>
+ 
+<genre>Música, Aventura, Animação, Família, Romance, Mistério, Comédia</genre>
+ 
+<date>03/08/1966</date>
+</item>"
+"<item>
+
 <title>Cyborg 009: Contra o Monstro do Mar [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/C009CNTROMNTROMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/C009CNTROMNTROMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1768.jpg</image>
@@ -290,7 +746,7 @@ A organização do mal Black Ghost está atacando em todo o mundo, usando robôs
 "<item>
 
 <title>Casino Royale [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CSNOROYALE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CSNOROYALE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1480.jpg</image>
@@ -308,8 +764,30 @@ Uma organização criminosa conhecida como Smersh está eliminando os agentes de
 </item>"
 "<item>
 
+<title>El Dorado [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ELDORDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2094.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2094.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Aventura, Ação
+Lançamento: 1967
+
+Na cidade de El Dorado, xerife bêbado e sem dignidade é ajudado por um pistoleiro, um jovem que prefere facas a revólveres e um veterano combatente da guerra contra os índios, a se recuperar na luta contra um fazendeiro inescrupuloso.
+
+El Dorado é o segundo filme da trilogia do diretor Howard Hawks que enfoca xerifes enfrentando situações de grande perigo. Os outros são Rio Bravo (1959) e Rio Lobo (1970), todos estrelados por John Wayne.</info>
+ 
+<genre>Faroeste, Aventura, Ação</genre>
+ 
+<date>07/06/1967</date>
+</item>"
+
+"<item>
+
 <title>Bonnie e Clyde - Uma Rajada de Balas [COLOR yellow][IMDb 7,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BNECLYDUMRJDADBLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BNECLYDUMRJDADBLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1303.jpg</image>
@@ -328,7 +806,7 @@ Bonnie Parker se apaixona por um ex-presidiário, Clyde Barrow e decide acompanh
 "<item>
 
 <title>Com 007 Só Se Vive Duas Vezes [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071967CM007SSVDV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071967CM007SSVDV.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1592.jpg</image>
@@ -346,8 +824,27 @@ Durante uma missão de rotina no espaço, uma nave americana desaparece misterio
 </item>"
 "<item>
 
+<title>Mogli - O Menino Lobo [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MGLIOMENIOLBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3443.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3443.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura
+Lançamento: 1967
+
+Mogli, um garoto criado por lobos e que vive na selva, é convencido pelo seu amigo Baguera, uma velha e esperta pantera, a buscar segurança no mundo dos homens. Mas Mogli, resistindo à ideia de seu amigo, resolve seguir a filosofia do urso Balu, que gosta de curtir a vida e ser feliz, fazendo o que gosta. Juntos, dão início a uma grande jornada em direção à civilização e encontram no meio do caminho um orangotango maluco, uma cobra com poder de hipnotizar e Shere Khan, um tigre ameaçador.</info>
+ 
+<genre>Família, Animação, Aventura</genre>
+ 
+<date>18/10/1967</date>
+</item>"
+"<item>
+
 <title>Asterix, o Gaulês [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASTRXOGLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASTRXOGLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1085.jpg</image>
@@ -365,8 +862,84 @@ No ano 50 a.C. a Gália é ocupada pelos romanos. Mas, a pequena vila de Asterix
 </item>"
 "<item>
 
+<title>Desbravando o Oeste [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DSBRVNDOSTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1858.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1858.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Faroeste
+Lançamento: 1968
+
+Em meados do século 19, o senador William J. Tadlock lidera um grupo de colonos de fronteira numa jornada de 2.500 km em busca de terras no Oregon para iniciar um novo assentamento no Oeste Americano. Tadlock é um tirano com rígidos princípios e exigente, e é tão duro consigo mesmo como com aqueles que se juntaram à sua caravana. Ele se choca com um dos novos colonos, Lije Evans, que não gosta dos métodos de Tadlock. Ao longo do caminho, as famílias devem enfrentar morte e desgosto e também um exemplo de justiça da fronteira quando um deles acidentalmente mata um menino índio. Em 1843, um ex-senador dos EUA leva uma caravana de colonos para o Oregon, mas sua megalomania leva a crescente insatisfação com sua liderança.</info>
+ 
+<genre>Ação, Aventura, Drama, Faroeste</genre>
+ 
+<date>01/01/1968</date>
+</item>"
+"<item>
+
+<title>Os Doze Condenados [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSDZCNDNDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4613.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4613.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Guerra
+Lançamento: 1968
+
+Um major rebelde e uma fama de resolver as coisas recebe a ordem de entrevistar prisioneiros militares, condenados à morte ou à prazo longo, para uma perigosa missão em troca de perdão. O objetivo é saltar de paraquedas atrás das linhas inimigas e causar estragos para os generais alemães que estarão em uma casa de repouso, na véspera do Dia D.</info>
+ 
+<genre>Ação, Aventura, Guerra</genre>
+ 
+<date>01/01/1968</date>
+</item>"
+"<item>
+
+<title>Três Homens em Conflito [COLOR yellow][IMDb 8,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TSHMNSEMCFLT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6002.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6002.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1968
+
+Três homens que ganham a vida de forma questionável no velho oeste norte-americano sabem da existência de um magnífico tesouro enterrado; o problema é que cada um conhece apenas uma parte do segredo para encontrá-lo e nenhum deles está disposto a fazer um acordo para dividi-lo. Nesse cenário conflituoso os três tentarão encontrar uma forma de, ao mesmo tempo, descobrir o que os outros sabem e ser o primeiro a chegar ao prêmio.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>11/01/1968</date>
+</item>"
+"<item>
+
+<title>O Planeta dos Macacos [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4274.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4274.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Drama, Ação
+Lançamento: 1968
+
+George Taylor (Charlton Heston), um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.</info>
+ 
+<genre>Ficção científica, Aventura, Drama, Ação</genre>
+ 
+<date>07/02/1968</date>
+</item>"
+"<item>
+
 <title>2001: Uma Odisséia no Espaço [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/2001UMODSIANESPCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/2001UMODSIANESPCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/67.jpg</image>
@@ -385,8 +958,28 @@ Desde a ""Aurora do Homem"" (a pré-história), um misterioso monolito negro par
 </item>"
 "<item>
 
+<title>Os Violentos Vão para o Inferno [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSVOLNTSVAOPRINFRNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4715.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4715.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Faroeste, Guerra
+Lançamento: 1968
+
+Franco Nero, Jack Palance e Tony Musante estrelam este clássico dos filmes de western, dirigido pelo especialista no gênero Sergio Corbuci. O mercenário Kowalski (Nero) é especialista em armas e usa suas habilidades como assassino profissional. As coisas se complicam quando ele bate de frente com o malfeitor Ricciolo (Palance).</info>
+ 
+<genre>Ação, Comédia, Faroeste, Guerra</genre>
+ 
+<date>28/08/1968</date>
+</item>"
+
+"<item>
+
 <title>Asterix & Cleópatra [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASTRXECLEOPTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASTRXECLEOPTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1081.jpg</image>
@@ -404,8 +997,84 @@ Nessa grande aventura que ocorre no tempo do Egito, Asterix e sua turma ajudarã
 </item>"
 "<item>
 
+<title>Se Meu Fusca Falasse [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SMEFSCFLSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5404.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5404.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Fantasia
+Lançamento: 1968
+
+Herbie, um Fusca com personalidade própria, desprezado por um mau caráter que dono de uma agência de automóveis de luxo e piloto de corridas. Mas o Fusca acolhido por um piloto boa praça (Dean Jones) e, em gratidão, o pequeno carro lhe dá diversas vitórias, acabando com a maré de azar do piloto, que inicialmente não entende que foi o fusquinha quem ganhou as corridas. Porém, ele aos poucos entende que o carrinho o principal responsável pelas vitórias e decide correr sempre com ele. Mas ambos terão que lutar contra um rico rival, que usa toda a espécie de golpes sujos para derrotá-los.</info>
+ 
+<genre>Comédia, Família, Fantasia</genre>
+ 
+<date>23/12/1968</date>
+</item>"
+"<item>
+
+<title>O Ouro de Mackenna [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OORODMCKNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4230.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4230.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Faroeste
+Lançamento: 1969
+
+Ao cavalgar pelo deserto o delegado Mackenna (Gregory Peck), é alvo de tiros dados por um velho chefe Apache. Ao responder aos tiros, MacKenna acaba ferindo mortalmente o velho índio. Antes de morrer, o chefe lhe dá um antigo mapa que, segundo ele, traz o segredo da localização do vale do ouro. Mas o alerta que, ao encontrar o veio de ouro, despertará a fúria de antigos deuses... Ele não acredita no velho e joga o mapa no fogo. Mas grava o desenho na memória... O bandido Colorado (Omar Sharif) sequestra McKenna, pois acredita que ele é a única pessoa viva que conhece o tortuoso caminho para o vale do ouro... Ao longo da jornada, novos personagens se juntam a esta busca...</info>
+ 
+<genre>Aventura, Ação, Faroeste</genre>
+ 
+<date>09/05/1969</date>
+</item>"
+"<item>
+
+<title>Meu Ódio Será Sua Herança [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEUODIOSRSUAHRNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3360.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3360.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Faroeste
+Lançamento: 1969
+
+Eles já foram os mais perigosos ""fora da lei"" da fronteira, seguindo seus próprios códigos de honra e lealdade. Realizaram diversos assaltos pelas planícies do oeste, sempre colocando suas cabeças a prêmio. Mas os tempos mudaram. O lucro estava cada vez menor e o risco cada vez maior. Era hora de parar, mas a ganância falou mais alto. Dez mil dólares para roubar o carregamento de armas de um trem para um poderoso bandoleiro mexicano. Nada poderia detê-los, a não ser a morte. William Holden (Inferno na Torre), Ernest Borgnine (Os Doze Condenados) e grande elenco atuam na versão original do diretor Sam Peckinpah.</info>
+ 
+<genre>Aventura, Faroeste</genre>
+ 
+<date>17/06/1969</date>
+</item>"
+"<item>
+
+<title>Era uma Vez no Oeste [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ERAUMAVZNOST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2217.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2217.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1969
+
+Em virtude das terras que possuía serem futuramente a rota da estrada de ferro, um pai e todos os filhos são brutalmente assassinados por um matador profissional. Entretanto, ninguém sabia que ele, viúvo há seis anos, tinha se casado com um prostituta de Nova Orleans, que passa ser a dona do local e recebe a proteção de um hábil atirador, que tem contas a ajustar com o frio matador.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>10/08/1969</date>
+</item>"
+"<item>
+
 <title>A Ponte de Remagen [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/APNTDRMGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/APNTDRMGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601409.us.archive.org/16/items/487_20200908/530.jpg</image>
