@@ -1,7 +1,7 @@
 "<item>
 
 <title>...E o Vento Levou [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</image>
@@ -19,8 +19,65 @@ Lançamento: 1940
 </item>"
 "<item>
 
+<title>O Grande Ditador [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OGRNDTDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4042.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4042.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1941
+
+Um barbeiro judeu passa anos em um hospital do exército se recuperando de suas feridas após ter servido na guerra, sem saber do crescimento de poder do ditador fascista Adenóide Hynkel e suas políticas antissemitas. Quando o barbeiro retorna ao seu bairro tranquilo, ele fica atordoado com as mudanças brutais e, de forma imprudente, se une a uma menina bonita e seus vizinhos para se rebelar.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>07/03/1941</date>
+</item>"
+"<item>
+
+<title>Fantasia [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/FNTSIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2322.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2322.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 1941
+
+A integração das grandes obras da música clássica com visuais extremamente criativos e originais da animação. São as seguintes composições que fazem parte do filme: ""Toccata e Fuga em Ré Menor"", de Johann Sebastian Bach; ""Suíte Quebra-Nozes"", de Peter Llich Tchaikovsky; ""O Aprendiz de Feiticeiro"", de Paul Dukas; ""Sagração da Primavera"", de Igor Stravinsky; ""Sinfonia Pastoral"", de Ludwing Van Beethoven; ""Dança das Horas"", de Almicare Ponchielli; ""Noite no Monte Calvo"", de Modest Mussorgsky; e ""Ave Maria"", de Franz Schubert.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>20/06/1941</date>
+</item>"
+"<item>
+
+<title>Dumbo [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DMBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2053.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2053.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 1941
+
+Dumbo é um bebé elefante que nasceu com umas orelhas enormes. Um dia ele conhece Timóteo, um ratinho que mete medo à maioria dos elefantes do circo onde vive Dumbo. Ao contrário do que se podia esperar, o rato e o elefante acabam por se tornar amigos e, juntos, eles tornam-se as maiores atracções do circo. Usando suas orelhas, Dumbo faz o que nenhum outro elefante consegue: voar!</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>22/10/1941</date>
+</item>"
+"<item>
+
 <title>Bambi [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BMBI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BMBI.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1157.jpg</image>
@@ -39,7 +96,7 @@ A história animada de Bambi, um jovem cervo saudado como o ""Príncipe da Flore
 "<item>
 
 <title>Alô, Amigos [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALOMGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ALOMGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/773.jpg</image>
@@ -57,8 +114,46 @@ Apresentando personagens como Zé Carioca, Pedro, um avião mirim do correio e o
 </item>"
 "<item>
 
+<title>O Fantasma da Ópera [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OFNSTMDOPRA1943.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3995.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3995.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Romance, Drama
+Lançamento: 1943
+
+Este imortal e espetacular conto de terror de Gaston Leroux é estrelado por Claude Rains como o mascarado fantasma da Ópera de Paris, um compositor enlouquecido que planeja fazer de uma linda jovem soprano (Susanna Foster) a estrela da companhia de ópera e saciar sua vingança contra os que roubaram sua música. Nelson Eddy, o heróico barítono, tenta obter o afeto da garota enguanto persegue os passos do monstro que começa a matar aqueles que resiste a suas loucas exigências.</info>
+ 
+<genre>Terror, Romance, Drama</genre>
+ 
+<date>27/08/1943</date>
+</item>"
+"<item>
+
+<title>Você Já Foi à Bahia? [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VCJFOABHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6394.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6394.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Música
+Lançamento: 1945
+
+Pato Donald recebe uma grande caixa no dia de seu aniversário, trazendo três presentes. O primeiro traz um projetor de cinema, contendo um filme sobre aves da América do Sul. O segundo contém um livro sobre o Brasil, que o leva à Bahia ao lado de Zé Carioca. O terceiro tem uma piñata, acompanhada de Panchito. Com os amigos, Donald vive aventuras no Brasil e no México.</info>
+ 
+<genre>Animação, Família, Música</genre>
+ 
+<date>04/02/1945</date>
+</item>"
+"<item>
+
 <title>A Canção do Sul [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/167.jpg</image>
@@ -77,7 +172,7 @@ Morando com os avós, depois que os pais se separaram, garoto só encontra a ale
 "<item>
 
 <title>A Felicidade Não se Compra [COLOR yellow][IMDb 8,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AFLCDNSCMPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFLCDNSCMPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/282.jpg</image>
@@ -96,7 +191,7 @@ Em Bedford Falls, no Natal, George Bailey, que sempre ajudou a todos, pensa em s
 "<item>
 
 <title>Califórnia [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CLFNIA1947.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CLFNIA1947.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1404.jpg</image>
@@ -112,10 +207,49 @@ Uma caravana dirige-se para o Oeste, guiada pelo ex-tenente Jonathan Trumbo e se
  
 <date>21/02/1947</date>
 </item>"
+
+"<item>
+
+<title>Tempo de Melodia [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TMPDMLDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5834.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5834.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Família, Animação
+Lançamento: 1948
+
+Tempo de Melodia é uma animação produzida por Walt Disney e lançada nos cinemas pela RKO Radio Pictures. São várias sequências de músicas populares e folclóricas. Como a anterior Música Maestro! (Make Mine Music), é uma versão contemporânea de Fantasia.</info>
+ 
+<genre>Música, Família, Animação</genre>
+ 
+<date>02/07/1948</date>
+</item>"
+"<item>
+
+<title>Fúria Sanguinária [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FRASGRNTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2448.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2448.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 1949
+
+Um criminoso psicopata com um complexo-mãe (Complexo de Édipo) faz uma fuga ousada da prisão e depois lidera a sua antiga quadrilha num assalto à folha de pagamento de uma fábrica de produtos químicos. Após o assalto, os eventos tomam um rumo louco.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>02/09/1949</date>
+</item>"
 "<item>
 
 <title>Como é Bom se Divertir [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMEBMSDVRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMEBMSDVRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1617.jpg</image>
@@ -134,7 +268,7 @@ Jiminy Cricket apresenta dois curtas de animação da Disney: ""Bongo"", sobre u
 "<item>
 
 <title>As Aventuras de Ichabod e Sr. Sapo [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASAVNTRSDICHBDESRSPO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASAVNTRSDICHBDESRSPO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601405.us.archive.org/13/items/974_20200914/975.jpg</image>
