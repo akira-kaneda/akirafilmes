@@ -1,7 +1,26 @@
 "<item>
 
+<title>A Batida Perfeita [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ABTDAPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3746.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3746.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia, Música, Drama
+Lançamento: 2020
+
+Uma cantora superstar e seu assistente pessoal recebem uma proposta que pode alterar o curso de suas respectivas carreiras.</info>
+ 
+<genre>Romance, Comédia, Música, Drama</genre>
+ 
+<date>10/06/2020</date>
+</item>"
+"<item>
+
 <title>A Canção do Sul [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACANCDSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/167.jpg</image>
@@ -20,7 +39,7 @@ Morando com os avós, depois que os pais se separaram, garoto só encontra a ale
 "<item>
 
 <title>A Encruzilhada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AENCRZLHDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/231.jpg</image>
@@ -39,7 +58,7 @@ Eugene Martone (Ralph Macchio) é um jovem e talentoso guitarrista que está bus
 "<item>
 
 <title>A Escolha Perfeita [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/247.jpg</image>
@@ -58,7 +77,7 @@ O The Barden Bellas é um grupo formado apenas por garotas, que apostam no visua
 "<item>
 
 <title>A Escolha Perfeita 2 [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHPRFTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601401.us.archive.org/10/items/250_20200903/248.jpg</image>
@@ -77,7 +96,7 @@ Após conquistarem o sucesso, as Barden Bellas ganham a oportunidade de se apres
 "<item>
 
 <title>A Escolha Perfeita 3 [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AESCLHPRFTA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/249.jpg</image>
@@ -96,7 +115,7 @@ Agora formadas, Beca (Anna Kendrick), Fat Amy (Rebel Wilson), Chloe (Brittany Sn
 "<item>
 
 <title>A Fábrica de Nada [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AFBRCDNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AFBRCDNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/267.jpg</image>
@@ -115,7 +134,7 @@ Uma noite, os trabalhadores de uma fábrica de elevadores em Portugal veem as m�
 "<item>
 
 <title>A Fabulosa Aventura da Sharpay [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFBLSANTURASHRP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AFBLSANTURASHRP.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/268.jpg</image>
@@ -134,7 +153,7 @@ Um caça-talentos de Nova York descobre Sharpay Evans, aspirante a atriz dramát
 "<item>
 
 <title>A Família Bélier [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AFMLBLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AFMLBLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/276.jpg</image>
@@ -153,7 +172,7 @@ Paula é uma adolescente francesa que enfrenta todas as questões comuns de sua 
 "<item>
 
 <title>A Grande Farra dos Muppets [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601406.us.archive.org/21/items/371_20200905/312.jpg</image>
@@ -172,7 +191,7 @@ Nessa história, Caco e Fozzie são irmãos gêmeos (apesar de um ser um sapo e 
 "<item>
 
 <title>A Lenda de Oz [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALNDEOZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ALNDEOZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/380.jpg</image>
@@ -191,7 +210,7 @@ Na história, Dorothy volta para casa e descobre que o Kansas foi devastado pelo
 "<item>
 
 <title>A Menina e o Porquinho [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMNAEOPRQNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMNAEOPRQNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/441.jpg</image>
@@ -210,7 +229,7 @@ Charlotte, é uma pequena aranha que tenta salvar a vida do porquinho Wilbur, te
 "<item>
 
 <title>A Nova Cinderela: Milagre de Natal [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANVACNRLAMLGRDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANVACNRLAMLGRDNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/492.jpg</image>
@@ -229,7 +248,7 @@ Kat é uma jovem aspirante a cantora, cujos sonhos sempre são esnobados pela cr
 "<item>
 
 <title>A Nova Cinderela: Se O Sapato Encaixar [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ANVACNRLASOSPTENXR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ANVACNRLASOSPTENXR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/494.jpg</image>
@@ -248,7 +267,7 @@ Tessa (Sofia Carson) é uma jovem sonhadora que vive uma vida infeliz ao lado de
 "<item>
 
 <title>A Noviça Rebelde [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ANVCRBLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/496.jpg</image>
@@ -267,7 +286,7 @@ No final da década de 1930, na Áustria, quando o pesadelo nazista estava prest
 "<item>
 
 <title>A Pequena Sereia II - O Retorno Para o Mar [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/APQNSRAFILME02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/APQNSRAFILME02.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/524.jpg</image>
@@ -286,7 +305,7 @@ Ariel e seu príncipe encantado Eric, vivem felizes, após a sereia filha do Rei
 "<item>
 
 <title>A Princesa Encantada - O Reino da Música [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/APRNCSENCTDAORNDMSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/APRNCSENCTDAORNDMSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/548.jpg</image>
@@ -305,7 +324,7 @@ A princesa Odette (Nina Herzog) está apresentando uma competição de música e
 "<item>
 
 <title>À Procura da Liberdade [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APRCURDLBRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/APRCURDLBRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/552.jpg</image>
@@ -324,7 +343,7 @@ Em 1856, o escravo Samuel Woodward e sua família escapam da plantação Monroe,
 "<item>
 
 <title>Acertando o Passo [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACRTDOPASO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACRTDOPASO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/697.jpg</image>
@@ -343,7 +362,7 @@ Casada há 40 anos, Lady Sandra Abbott (Imelda Staunton) descobre que seu marido
 "<item>
 
 <title>All Eyez on Me: A História de Tupac [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALLEYZONMAHSTDTPC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALLEYZONMAHSTDTPC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/766.jpg</image>
@@ -362,7 +381,7 @@ Cinebiografia do rapper americano Tupac Shakur, desde o início da carreira até
 "<item>
 
 <title>Alta Fidelidade [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALTFDLDADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALTFDLDADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/776.jpg</image>
@@ -381,7 +400,7 @@ Rob Gordon (John Cusack) é o dono de uma loja de música beira da falência, po
 "<item>
 
 <title>Alvin e os Esquilos 2 [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ALVNEOSESQULS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ALVNEOSESQULS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/787.jpg</image>
@@ -400,7 +419,7 @@ Alvin, Simon e Theodore são astros mundialmente conhecidos. Apesar disto, conti
 "<item>
 
 <title>Alvin e os Esquilos 3 [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ALVNEOSESQULS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ALVNEOSESQULS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/788.jpg</image>
@@ -419,7 +438,7 @@ Os irmãos Alvin, Simon e Theodore partem em uma viagem de cruzeiro juntamente c
 "<item>
 
 <title>Amadeus [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMDEUS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMDEUS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/792.jpg</image>
@@ -438,7 +457,7 @@ Após tentar se suicidar, Salieri (F. Murray Abraham) confessa a um padre que fo
 "<item>
 
 <title>Ardida como Pimenta [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/943.jpg</image>
@@ -457,7 +476,7 @@ Deadwood, no território de Dakota, é em grande parte terra de homens, onde a R
 "<item>
 
 <title>As Loucuras de Rose [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASLCRSDROSE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASLCRSDROSE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1027.jpg</image>
@@ -476,7 +495,7 @@ Rose-Lynn Harlan é uma cantora de Glasgow, na Escócia, que sonha em se tornar 
 "<item>
 
 <title>Barbie: Rainhas do Rock [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BARBRANHDRCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BARBRANHDRCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1171.jpg</image>
@@ -495,7 +514,7 @@ Prepare-se para arrasar! No musical Barbie Rock’n Royals, Barbie estrela como 
 "<item>
 
 <title>Batalhas [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BTLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BTLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1185.jpg</image>
@@ -514,7 +533,7 @@ Com a falência do pai, a jovem bailarina Amalie vê seu estilo de vida luxuoso 
 "<item>
 
 <title>Beijar e Chorar [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BJRECHRAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BJRECHRAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1229.jpg</image>
@@ -533,7 +552,7 @@ Diagnosticada com um tipo raro de câncer, a jovem patinadora Carley Allison enc
 "<item>
 
 <title>Bob Esponja - O Filme [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BOBOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BOBOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1286.jpg</image>
@@ -552,7 +571,7 @@ Após a coroa do Rei Netuno ser roubada, Bob Esponja e seu melhor amigo Patrick 
 "<item>
 
 <title>Bohemian Rhapsody [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1288.jpg</image>
@@ -571,7 +590,7 @@ Freddie Mercury (Rami Malek) e seus companheiros Brian May (Gwilyn Lee), Roger T
 "<item>
 
 <title>Bolden - A Sensação do Jazz [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLNDASNSDJZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BLNDASNSDJZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1292.jpg</image>
@@ -590,7 +609,7 @@ Cinebiografia de Buddy Bolden, o primeiro Cornet King de Nova Orleans. A histór
 "<item>
 
 <title>Bravetown [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/BRVTWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/BRVTWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1323.jpg</image>
@@ -609,7 +628,7 @@ Josh Harvest (Lucas Till) é um jovem DJ que, acidentalmente, entra na vida de A
 "<item>
 
 <title>Cantando na Chuva [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTNDNCHVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNTNDNCHVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</image>
@@ -628,7 +647,7 @@ Don Lockwood (Gene Kelly) e Lina Lamont (Jean Hagen) são dois dos astros mais f
 "<item>
 
 <title>Carrossel de Emoções [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRSLDEMCES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRSLDEMCES.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1460.jpg</image>
@@ -647,7 +666,7 @@ Charlie Rogers (Elvis Presley) dirige sua motocicleta e se apresenta em pequenos
 "<item>
 
 <title>Chet Baker: A Lenda do Jazz [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CHTBKRALNDJZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CHTBKRALNDJZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1515.jpg</image>
@@ -666,7 +685,7 @@ Cinebiografia contando a história da lenda do jazz, o trompetista Chet Baker (E
 "<item>
 
 <title>Cirque du Soleil: Outros Mundos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CRQDSLELOTRSMNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRQDSLELOTRSMNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1545.jpg</image>
@@ -685,7 +704,7 @@ O mais famoso circo acrobático do mundo traz Worlds Away, um espetáculo inédi
 "<item>
 
 <title>Como é Bom se Divertir [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CMEBMSDVRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMEBMSDVRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1617.jpg</image>
@@ -704,7 +723,7 @@ Jiminy Cricket apresenta dois curtas de animação da Disney: ""Bongo"", sobre u
 "<item>
 
 <title>Corações Batendo Alto [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CRCOSBTNDOALTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRCOSBTNDOALTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1684.jpg</image>
@@ -723,7 +742,7 @@ Frank (Nick Offerman) é um pai solteiro que não está preparado para se desped
 "<item>
 
 <title>Cry-Baby [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CRYBABY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRYBABY.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1757.jpg</image>
@@ -741,8 +760,1304 @@ Na década de 1950 em Baltimore, um garoto delinquente com um coração de ouro 
 </item>"
 "<item>
 
+<title>Dançarina Imperfeita [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DNCRNIMPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1783.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1783.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2020
+
+Para ser aceita na Universidade de Duke, a inteligente e desajeitada Quin decide vencer uma competição de dança. Com Sabrina Carpenter.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>07/08/2020</date>
+</item>"
+"<item>
+
+<title>Descendentes [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DSCDNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1859.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1859.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Música, Aventura, Comédia, Fantasia, Cinema TV
+Lançamento: 2015
+
+Os principais vilões dos contos de fadas vivem isolados em uma ilha distante. Entretanto, quando o filho da Bela e da Fera assume o reino de Auradon, ele resolve perdoar os filhos dos vilões, permitindo que convivam e estudem na principal escola do local. É lá que Mal (Dove Cameron), filha de Malévola (Kristen Chenoweth); Evie (Sofia Carson), filha da Rainha Má (Kathy Najimy); Jay (Booboo Stewart), filho de Jafar (Maz Jobrani); e Carlos (Cameron Boyce), filho de Cruela De Vil (Wendy Raquel Robinson), precisarão decidir se seguirão o caminho dos pais ou se tomarão outro rumo.</info>
+ 
+<genre>Família, Música, Aventura, Comédia, Fantasia, Cinema TV</genre>
+ 
+<date>31/07/2015</date>
+</item>"
+"<item>
+
+<title>Descendentes 2 [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DSCDNTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1860.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1860.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Música, Cinema TV, Aventura, Ação, Fantasia, Romance
+Lançamento: 2017
+
+Ben (Mitchell Hope), agora Rei de Auradon, Mal (Dove Cameron), Evie (Sofia Carson), Carlos (Cameron Boyce) e Jay (Booboo Stewart) continuam estudando juntos enquanto vivem grandes aventuras. Entretanto, uma nova ameaça surge quando Uma (China Anne McClain), filha da terrível Ursula, Harry Gancho (Thomas Doherty), filho do Capitão Gancho e Gil (Dylan Playfair), filho de Gastón, decidem arranjar confusão com os amigos.</info>
+ 
+<genre>Família, Música, Cinema TV, Aventura, Ação, Fantasia, Romance</genre>
+ 
+<date>05/09/2017</date>
+</item>"
+"<item>
+
+<title>Descendentes 2.5 - Aqui no Mar [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DSCDNTS2.5.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1861.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1861.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Cinema TV, Fantasia
+Lançamento: 2018
+
+Mal emerge das sombras de uma floresta mística para um litoral escuro, onde ela cruza caminhos com Dizzy.</info>
+ 
+<genre>Música, Cinema TV, Fantasia</genre>
+ 
+<date>28/09/2018</date>
+</item>"
+"<item>
+
+<title>Descendentes 3 [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DSCDNT3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1862.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1862.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Cinema TV, Música, Aventura, Fantasia
+Lançamento: 2019
+
+Mal, Evie, Carlos e Jay voltam à Ilha Proibida com o intuito de convidar novos descendentes para viverem em Auradon. Quando a barreira mágica que protege a ilha é rompida, eles devem impedir que o local seja destruído.</info>
+ 
+<genre>Família, Cinema TV, Música, Aventura, Fantasia</genre>
+ 
+<date>09/08/2019</date>
+</item>"
+"<item>
+
+<title>Descobrindo a Vida [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DSCBRNDAVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1863.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1863.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2018
+
+Quando a namorada de Nick o deixa na formatura, ele tem um colapso colossal na frente de toda a universidade. Ele está convencido de que sua vida acabou, mas seu melhor amigo Shane tem a solução perfeita: três dias em um festival de música épico. Com a ajuda de Amy, Shane tenta convencer Nick a abraçar a música, o caos e a lama.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>14/08/2018</date>
+</item>"
+"<item>
+
+<title>Detroit a Cidade do Rock [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DTRIDACDADRCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1888.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1888.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 1999
+
+Em 1978, quatro adolescentes embarcam numa louca aventura pelas estradas americanas rumo ao show de sua banda favorita, o KISS, na cidade de Detroit. Levados pela paixão pelo grupo de rock, nada poderá impedir o grupo de assistir o grandioso espetáculo.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>13/08/1999</date>
+</item>"
+"<item>
+
+<title>Dirty Dancing: Ritmo Quente [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DRTYDNCG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1944.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1944.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Romance
+Lançamento: 1987
+
+Na esperança de curtir sua juventude, uma jovem fica decepcionada ao descobrir que seus pais passarão o verão de 1963 com ela em um resort na sonolenta região de Catskills. Mas sua sorte muda quando ela conhece o instrutor de dança do resort, Johnny, um rapaz com um passado bem diferente do dela. Quando ele a coloca como sua nova parceira, os dois acabam se apaixonando. Apesar do pai proibi-la de ver Johnny, ela não dá a mínima.</info>
+ 
+<genre>Drama, Música, Romance</genre>
+ 
+<date>25/09/1987</date>
+</item>"
+"<item>
+
+<title>Ela Dança, Eu Danço [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ELDNCEUDNC1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2095.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2095.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Romance, Crime
+Lançamento: 2006
+
+Após depredar um colégio, Tyler Gage (Channing Tatum) é enviado para fazer serviços comunitários em uma escola de artes. Lá ele conhece Nora Clark (Jenna Dewan), uma bela aluna de dança moderna que precisa urgentemente de um novo parceiro. Tyler está acostumado com as danças de rua, mas reluta à idéia de ser o novo parceiro de Nora. Aos poucos ele aceita a idéia e passa a se envolver com Nora.</info>
+ 
+<genre>Música, Drama, Romance, Crime</genre>
+ 
+<date>11/08/2006</date>
+</item>"
+"<item>
+
+<title>Ela Dança, Eu Danço 2 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ELDNCEUDNC2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2096.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2096.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Romance
+Lançamento: 2008
+
+Andie (Briana Evigan) é uma dançarina de rua rebelde, que entrou para a conceituada Maryland School of the Arts. O local é frequentado pela elite da sociedade local, ou seja, o tipo de pessoa bem diferente das quais Andie costuma lidar. Precisando enfrentar barreiras para se ambientar com os novos colegas, ela inicia fora da escola um projeto ousado: formar um grupo de dança de rua. Para tanto conta com a ajuda de Chase (Robert Hoffman), o dono da escola de dança mais quente da região.</info>
+ 
+<genre>Música, Drama, Romance</genre>
+ 
+<date>14/02/2008</date>
+</item>"
+"<item>
+
+<title>Ela Dança, Eu Danço 4 [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ELDNCEUDNC4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2098.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2098.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Romance
+Lançamento: 2012
+
+Emily (Kathryn McCormick) é a filha de uma ocupada empresária que chega a Miami com o sonho de se tornar dançarina profissional. Logo ela se apaixona por Sean (Ryan Guzman), o responsável por criar elaboradas danças para a realização de flash mobs, aglomerações instantâneas de pessoas em um lugar público para realizar uma ação previamente combinada. Líder de um grupo chamado MOB, Sean resolve participar de uma disputa que pode render uma oportunidade de patrocínio.</info>
+ 
+<genre>Música, Drama, Romance</genre>
+ 
+<date>09/11/2012</date>
+</item>"
+"<item>
+
+<title>Ela Dança, Eu Danço 5: Tudo ou Nada [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ELDNCEUDNC5.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2099.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2099.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama, Música
+Lançamento: 2014
+
+Quinto filme da franquia Ela Dança, Eu Danço. Na nova trama, um grupo de dançarinos deve participar de uma importante competição de dança em Las Vegas. capaz de determinar o rumo de suas carreiras</info>
+ 
+<genre>Romance, Drama, Música</genre>
+ 
+<date>25/07/2014</date>
+</item>"
+"<item>
+
+<title>Ela Dança, Eu Danço 6 [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ELDNCEUDNC6.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2100.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2100.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2019
+
+Jovens de diferentes classes sociais em Pequim se juntam para formar o melhor grupo de dança da China e aprender o verdadeiro significado de família.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>25/07/2019</date>
+</item>"
+"<item>
+
+<title>Elvis É Assim [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ELVSEASSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2123.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2123.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Música
+Lançamento: 1970
+
+É noite de estréia. Elvis Presley vestindo sua radiante jaqueta nova, aguarda com ansiedade sua entrada no palco. Se as músicas não funcionarem, ironiza, a gente pode fazer um desfile de moda. As músicas funcionam demais. Nesta Edição Especial do lendário Show filmado no verão de 1970 em Las Vegas. Rick Schmidlin, montador e restaurador , conseguiu recuperar mais de 30 minutos das músicas originais do filme, que permaneciam guardado nos cofres do estúdio à espera de sua renovação. As cenas adicionais mostram entre outras, performances das músicas Get Back, One Night e Suspicius Mind, em diferentes versões ao show original.</info>
+ 
+<genre>Documentário, Música</genre>
+ 
+<date>11/11/1970</date>
+</item>"
+"<item>
+
+<title>Encantado [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ENCTDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2170.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2170.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Família, Animação
+Lançamento: 2018
+
+Três princesas de contos de fadas se veem noivas do mesmo homem: o Príncipe Encantado</info>
+ 
+<genre>Comédia, Música, Família, Animação</genre>
+ 
+<date>20/04/2018</date>
+</item>"
+"<item>
+
+<title>Escola de Rock [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ESCLDRCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2232.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2232.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2004
+
+Dewey Finn (Jack Black) é um músico que acaba de ser demitido de sua banda. Cheio de dívidas para pagar e sem ter o que fazer, ele aceita dar aulas como professor substituto em uma escola particular de discilipla rígida. Logo Dewey se torna um exemplo para seus alunos, sendo que alguns deles se juntam ao professor para montar uma banda local, sem o conhecimento de seus pais.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>13/02/2004</date>
+</item>"
+"<item>
+
+<title>Espírito Jovem [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ESPRTJVM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2243.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2243.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama
+Lançamento: 2019
+
+Violet (Elle Fanning) é uma garota adolescente que sonha em ser popstar e escapar no vilarejo rural onde mora junto da mãe desajustada. Quando o concurso Teen Spirit passa por sua cidade, ela decide se arriscar, entre centenas de garotas. Aos poucos, Violet recebe a ajuda de Vlad (Zlatko Buric), cantor de ópera bósnio e decadente, e começa a superar as etapas do concurso. Mas conforme a fama se aproxima, a garota deve pensar suas prioridades e enfrentar os perigos da fama.</info>
+ 
+<genre>Música, Drama</genre>
+ 
+<date>19/04/2019</date>
+</item>"
+"<item>
+
+<title>Essa Loira Vale Um Milhão [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ESALOIRVLUMLHAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2259.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2259.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1960
+
+Ella Peterson é uma operadora de serviço de atendimento telefônico do Brooklyn, uma espécie de ""Secretária Eletrônica"" analógica, que tenta melhorar a vida de seus clientes, passando algumas dicas de informação que ela ouve de outros clientes. Ela se apaixona por um de seus clientes, o dramaturgo Jeffrey Moss, e está determinada a conhecê-lo. O problema é que, ao telefone com ele, ela sempre finge ser uma mulher velha que ele chama de ""mãe"". e Livre (estimado Livre)</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>23/06/1960</date>
+</item>"
+"<item>
+
+<title>Eu Só Posso Imaginar [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EUSOPSOIMGNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2284.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2284.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama
+Lançamento: 2018
+
+Baseado na história por trás da famosa canção I Can Only Imagine, da banda cristã norte-americana MercyMe, o filme gira em torno da vida de Bart Millard, o vocalista, e de seu relacionamento conturbado com seu pai, que sempre o tratou de maneira dura e nunca entendeu o amor do filho pela música. Conseguindo suas forças através de Deus, Bart resolveu eternizar a relação em uma canção.</info>
+ 
+<genre>Música, Drama</genre>
+ 
+<date>08/03/2018</date>
+</item>"
+"<item>
+
+<title>Fantasia 2000 [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/FNTSIA2000.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2323.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2323.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Música
+Lançamento: 1999
+
+O clássico de 1940 da Walt Disney Pictures, Fantasia, retorna com um um toque a mais de magia tecnológica. Combinando animação tradicional com gerada por computador, este musical de gala apresenta seis novos segmentos, cada um criado por diretores e equipes criativas diferentes.</info>
+ 
+<genre>Animação, Família, Música</genre>
+ 
+<date>17/12/1999</date>
+</item>"
+"<item>
+
+<title>Feel the Beat [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FELTHBEAT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2339.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2339.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Drama
+Lançamento: 2020
+
+Depois de fracassar em um teste da Broadway, ela volta à cidade natal e aceita preparar um grupo de crianças desajeitadas para uma competição de dança.</info>
+ 
+<genre>Comédia, Música, Drama</genre>
+ 
+<date>19/06/2020</date>
+</item>"
+"<item>
+
+<title>Festival Eurovision da Canção: A Saga de Sigrit e Lars [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FSTVLERVSNDCNCASGDSGRTELRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2360.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2360.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2020
+
+O sonho deles é participar da maior competição de música do mundo. Mas intrigas de rivais e acidentes no palco vão testar a relação entre esses dois.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>26/06/2020</date>
+</item>"
+"<item>
+
+<title>Fievel – Um Conto Americano [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FIVLUMCNTAMRCNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2362.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2362.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Animação, Aventura, Música
+Lançamento: 1987
+
+Na virada do século 19, a família Ratowitz emigra da Rússia para os Estados Unidos em busca de uma vida melhor. Não há gatos na América e as ruas são pavimentadas com queijo, acreditam eles. Chegando em Nova York, o pequeno ratinho Fievel fica maravilhado com a cidade e se perde dos pais. Começa uma incrível saga de encontros, desencontros, novas amizades e velhas ameaças através das perigosas ruas.</info>
+ 
+<genre>Drama, Família, Animação, Aventura, Música</genre>
+ 
+<date>12/11/1987</date>
+</item>"
+"<item>
+
+<title>Footloose [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/FOTLOSRTMCNTGANTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2392.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2392.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Romance
+Lançamento: 2011
+
+Ren MacCormack vai morar com os tios em uma cidade do interior, após a morte da mãe. Apaixonado pela dança, ele enfrenta problemas com o reverendo Shawn Moore, que baniu a dança da cidade devido a um grave acidente.</info>
+ 
+<genre>Drama, Música, Romance</genre>
+ 
+<date>09/12/2011</date>
+</item>"
+"<item>
+
+<title>Força para Viver [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FRCPRVIV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2402.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2402.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Comédia
+Lançamento: 2015
+
+Depois da morte do filho adolescente, um pai (Billy Crudup) tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma série letras de músicas e gravações originais. Para honrar a memória do filho, ele decide montar uma banda para tocar estas canções.</info>
+ 
+<genre>Música, Drama, Comédia</genre>
+ 
+<date>01/01/2015</date>
+</item>"
+"<item>
+
+<title>Frozen II [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/FRZN2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2428.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2428.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Comédia, Fantasia, Música
+Lançamento: 2020
+
+De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
+ 
+<genre>Animação, Família, Aventura, Comédia, Fantasia, Música</genre>
+ 
+<date>02/01/2020</date>
+</item>"
+"<item>
+
+<title>Garotas, Garotas e Mais Garotas [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GRTSGRTSEMASGRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2471.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2471.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 1962
+
+O guia de pesca Ross Carpenter (Elvis Presley) tem duas paixões... o mar e Garotas! Garotas! Garotas! Sonhando em ter seu próprio barco algum dia, o carismático pescador trabalha também como cantor de um hotel para ganhar dinheiro. No placo ele atrai a atenção de todos e os olhares de mais de uma garota. Dividido entre a festiva atração principal da boate (Stella Stevens) e a charmosa socialite, que posa de moça trabalhadora (Laurel Goodwin), Ross tem que decidir qual será a garota de sorte que vai fazer seu coração cantar.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>21/11/1962</date>
+</item>"
+"<item>
+
+<title>Get Duked! [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/GTDKED.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2495.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2495.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Ação, Terror
+Lançamento: 2020
+
+Quatro estudantes acostumados com a vida da cidade embarcam em uma tradicional viagem para acampar no meio das florestas escocesas, levando-os a serem perseguidos por um casal mascarado.</info>
+ 
+<genre>Comédia, Música, Ação, Terror</genre>
+ 
+<date>28/08/2020</date>
+</item>"
+"<item>
+
+<title>Glee 3D - O Filme [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/GLEEFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2501.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2501.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Música, Família
+Lançamento: 2011
+
+O seriado Glee vai ganhar um filme 3-D. A 20th Century Fox anunciou o Glee! Live! 3D!, versão para o cinema da turnê Glee Live! In Concert!, que tem rodado a América do Norte.
+
+A ideia é contemplar os fãs que não conseguiram ingressos para os shows - com lotação esgotada até a última apresenta, em 18 de junho - e lançar o filme por apenas duas semanas nos EUA, a partir de 12 de agosto. Kevin Tancharoen (Fama, Mortal Kombat: Legacy) será o diretor.</info>
+ 
+<genre>Documentário, Música, Família</genre>
+ 
+<date>12/08/2011</date>
+</item>"
+"<item>
+
+<title>Go! Festa Inesquecível [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/GOFSTINSQCVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2504.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2504.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Família
+Lançamento: 2019
+
+As férias de Mía com seu pai são interrompidas pela inesperada chegada de Lupe, Mercedes, Juanma e Álvaro.</info>
+ 
+<genre>Música, Família</genre>
+ 
+<date>15/11/2019</date>
+</item>"
+"<item>
+
+<title>Guy [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/GUY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2562.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2562.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música
+Lançamento: 2018
+
+Gauthier, um jovem jornalista, descobre de sua mãe que ele é o filho ilegítimo de Guy Jamet, um artista francês que teve seu momento de glória entre os anos 60 e 90. Gauthier decide segui-lo, com a câmera na mão, em sua vida cotidiana e concertos, para fazer um retrato documental.</info>
+ 
+<genre>Comédia, Drama, Música</genre>
+ 
+<date>29/08/2018</date>
+</item>"
+"<item>
+
+<title>Hair [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/HAIR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2566.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2566.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Música, Romance, Guerra
+Lançamento: 1979
+
+""Hair"" é uma adaptação cômico-dramática-musical do musical da Broadway de 1968 ""Hair: An American Tribal Love-Rock Musical"". Claude (John Savage), um jovem do Oklahoma que foi recrutado para a guerra do Vietnã, está indo se apresentar no campo de treinamento do exército. No meio do caminho ele passa por Nova York onde conhece e é ""adotado"" por um grupo de hippies comandados por Berger (Treat Williams), que como seus amigos tem conceitos nada convencionais sobre o comportamento social e tenta convencê-lo dos absurdos da atual sociedade. Acaba sendo rapidamente conquistado pela subcultura juvenil do Paz e Amor. Lá Claude também se apaixona por Sheila (Beverly D'Angelo), uma jovem proveniente de uma rica família.</info>
+ 
+<genre>Drama, Comédia, Música, Romance, Guerra</genre>
+ 
+<date>08/04/1979</date>
+</item>"
+"<item>
+
+<title>Hannah Montana: O Filme [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HANHMTNAOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2589.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2589.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família, Música, Romance
+Lançamento: 2009
+
+Quando Miley Stewart (também conhecida como a pop star Hannah Montana) está preparada para se lançar no mundo das grandes celebridades, seu pai também decide que é hora de uma mudança total em suas vidas. Então Miley terá que se dividir entre o brilho e o glamour de Hollywood e o velho jeans na fazenda da família no Tennessee.</info>
+ 
+<genre>Comédia, Drama, Família, Música, Romance</genre>
+ 
+<date>10/04/2009</date>
+</item>"
+"<item>
+
+<title>High School Musical [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHSCHLMSCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2643.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2643.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música, Romance
+Lançamento: 2006
+
+Troy, o popular capitão do time de basquete, e a bela Gabriella, quebram todas as regras do East High Society quando resolvem fazer um teste secreto para cantar no evento de música da escola. Em busca dos seus sonhos, eles acabam vivendo um bonito romance durante os ensaios para o musical, e aprendem a importância do trabalho em equipe e de serem eles mesmos.</info>
+ 
+<genre>Comédia, Drama, Música, Romance</genre>
+ 
+<date>20/01/2006</date>
+</item>"
+"<item>
+
+<title>High School Musical 2 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHSCHLMSCL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2644.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2644.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família, Música, Romance, Cinema TV
+Lançamento: 2007
+
+Os Wildcats de East High estão prontos para as melhores férias de suas vidas. Troy fica empolgado ao ser convidado para trabalhar no Country Club, sem desconfiar que isso seja parte do plano de Sharpay de afastá-lo de Gabriella. E agora? Essa e outras perguntas serão respondidas na noite do show de talentos.</info>
+ 
+<genre>Comédia, Drama, Família, Música, Romance, Cinema TV</genre>
+ 
+<date>17/08/2007</date>
+</item>"
+"<item>
+
+<title>High School Musical 3: Ano da Formatura [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HGHSCHLMSCL3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2645.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2645.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família, Música, Romance
+Lançamento: 2008
+
+O dia da formatura está se aproximando para Troy, Gabriella, Sharpay, Chad, Ryan e Taylor e a ideia de que estão prestes a se separar faz com que eles pensem em fazer alguma coisa da qual eles irão se lembrar para sempre. Junto aos demais Wildcats, eles preparam um musical que reflete suas esperanças e medos sobre o futuro e suas inesquecíveis experiências de crescerem juntos.</info>
+ 
+<genre>Comédia, Drama, Família, Música, Romance</genre>
+ 
+<date>22/10/2008</date>
+</item>"
+"<item>
+
+<title>Hip-Hop Beats [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/HPHOPBETS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2651.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2651.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2019
+
+No berço da black music de Chicago, o prodígio do hip-hop August Monroe conta com um mentor improvável para lidar com a ansiedade e com os limites da criatividade.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>19/06/2019</date>
+</item>"
+"<item>
+
+<title>Honey - No Ritmo dos Seus Sonhos [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HONY1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2686.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2686.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Música, Família
+Lançamento: 2003
+
+Nova York. Honey Daniels (Jessica Alba) é uma sexy dançarina de hip-hop que sonha se tornar uma coreógrafa de videoclips. Ela ensina hip-hop para jovens da sua localidade e os encoraja a ficarem longe das ruas, para evitarem problemas. Um diretor de clipes, Michael Ellis (David Moscow), a vê dançando numa discoteca e a convida para participar de um clip. Ela é encorajada a deixar de ser dançarina e se tornar coreógrafa, mas o sucesso repentino de Honey tem um preço quando Michael se recusa a aceitar um não como resposta para sua tentativa de tentar seduzi-la. Assim ele tenta sabotar a carreira de Honey, para tirá-la do ramo definitivamente.</info>
+ 
+<genre>Romance, Música, Família</genre>
+ 
+<date>24/11/2003</date>
+</item>"
+"<item>
+
+<title>Honey 2: No Ritmo dos Sonhos [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HONY2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2684.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2684.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música
+Lançamento: 2011
+
+Para Maria, viver honestamente significa conviver com a mãe de Honey, Connie (Lonette McKee), e manter um trabalho apenas para sobreviver. Porém, uma rara noite de diversão em um clube de dança local lhe dá a oportunidade de mostrar o que ela tinha quase esquecido: seu talento para dança. Sua habilidade chama a atenção de Brandon (Randy Wayne), um voluntário do Centro Recreativo, que a convida para ajuda-lo a treinar um grupo de bailarinos talentosos, mas indisciplinados, chamado de HD. O talento de Maria também chama a atenção de seu ex-namorado Luis (Christopher ‘War’ Martinez), o carismático líder da premiada equipe de dança 718, que espera atrai-la de volta ao mundo da marginalidade, da qual ela está tentando escapar. Vendo a oportunidade de criar uma nova e significativa vida, Maria se entrega de corpo e alma no mundo da dança e começa a treinara equipe HD para competir no concurso de dança “Dance or Die” – o que significa competir contra o grupo 718 e seu antigo namorado Luis.</info>
+ 
+<genre>Comédia, Drama, Música</genre>
+ 
+<date>01/08/2011</date>
+</item>"
+"<item>
+
+<title>Honey 3: No Ritmo do Amor [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HONY3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2685.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2685.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Música, Romance
+Lançamento: 2016
+
+Melea Martin estuda em Cape Town e se sente incomodada com as politicas da escola e decide fazer as suas próprias regras. Procurando um modo de utilizar seu talento de dançarina e inspirar a comunidade onde vive, Melea aluga um antigo teatro para encenar Romeo e Julieta em ritmo de Hip-Hop. Muito parecido como os Capultes e Montagues, os conflitos entre os membros da peça ameaçam as ideias de Melea.</info>
+ 
+<genre>Drama, Família, Música, Romance</genre>
+ 
+<date>30/11/2016</date>
+</item>"
+"<item>
+
+<title>Jem e as Hologramas [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/JMEASHLFRMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2830.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2830.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Fantasia, Música
+Lançamento: 2016
+
+A adolescente Jerrica Benton (Aubrey Peeples), conhecida como Jem, torna-se uma celebridade instantânea na internet e forma com as irmãs a banda Jem e as Hologramas. Quando não estão se dedicando à música, elas buscam mais informações sobre a misteriosa última mensagem deixada pelo pai.</info>
+ 
+<genre>Drama, Fantasia, Música</genre>
+ 
+<date>22/03/2016</date>
+</item>"
+"<item>
+
+<title>Jimi: Tudo a Meu Favor [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JMTDAMUFVR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2839.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2839.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2013
+
+O filme foca no período em que Jimi Hendrix (Andre Benjamin) iniciou sua carreira como guitarrista de apoio em clubes de Nova York. Ele é descoberto por Linda Keith (Imogen Poots), uma modelo apaixonada por música que na época namorava o guitarrista Keith Richards (Ashley Charles). Ela acredita no potencial de Hendrix e o convence a se mudar para Londres e gravar um disco, que seria o clássico ""Are you Experienced"", com a banda Jimi Hendrix Experience. O filme termina um pouco antes da clássica apresentação de Hendrix no Monterey Pop Festival, onde a uma apresentação flamejante e uma guitarra em chamas entrariam para a história do rock & roll.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>07/09/2013</date>
+</item>"
+"<item>
+
+<title>Johnny & June [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JOHNTEJNE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2882.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2882.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Romance
+Lançamento: 2005
+
+A história do cantor Johnny Cash (Joaquin Phoenix), desde sua juventude em uma fazenda de algodão até o início do sucesso em Memphis, onde gravou com Elvis Presley, Johnny Lee Lewis e Carl Perkins. Sua personalidade marginal e a infância tumultuada fazem com que Johnny entre em um caminho de auto-destruição, do qual apenas June Carter (Reese Whiterspoon), o grande amor de sua vida, pode salvar.</info>
+ 
+<genre>Drama, Música, Romance</genre>
+ 
+<date>18/11/2005</date>
+</item>"
+"<item>
+
+<title>José O Rei dos Sonhos [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/JOSORIDSNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2902.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2902.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Família, Animação
+Lançamento: 2000
+
+No filme José: O Rei dos Sonhos, Dos criadores do grande sucesso vencedor do Oscar, O Príncipe do Egito, chega este novíssimo clássico épico da animação. José: O Rei dos Sonhos. Um dos filmes mais elogiados pela crítica, esta inspiradora aventura musical reconta a clássica história de um garoto com um dom extraordinário de prever o futuro através de seus sonhos. Vencedor do Film Advisory Board Award of Excellence, José: O Rei dos Sonhos é um tesouro atemporal para todas as gerações, com cinco inesquecíveis novas canções, animação estupenda e “uma história contada maravilhosamente” (Alice O’Neill, Los Angeles Features Syndicate). Este é um filme indicado a todas as famílias e está “destinado a se tornar, como O Príncipe do Egito e O Rei Leão, um clássico instantâneo” (Bruce Kluger, Us Weekly).</info>
+ 
+<genre>Música, Família, Animação</genre>
+ 
+<date>07/11/2000</date>
+</item>"
+"<item>
+
+<title>La Bamba [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LABMBA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3012.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3012.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 1987
+
+Richard Stephen Valenzuela, mais conhecido como Ritchie Valens (Lou Diamond Phillips), marcou o final dos anos 50 com uma carreira meteórica, recheada de sucessos e pontuada por uma das canções mais famosas de todos os tempos: ""La Bamba"".</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>24/09/1987</date>
+</item>"
+"<item>
+
+<title>La La Land: Cantando Estações [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LALNDCTNDESTC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3014.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3014.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance, Música
+Lançamento: 2017
+
+O pianista Sebastian conhece a atriz Mia, e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva Los Angeles, os jovens tentam fazer o relacionamento amoroso dar certo, enquanto perseguem fama e sucesso.</info>
+ 
+<genre>Comédia, Drama, Romance, Música</genre>
+ 
+<date>19/01/2017</date>
+</item>"
+"<item>
+
+<title>Mayhem: Senhores Do Caos [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MYHMSNHRSDCOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3290.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3290.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Terror
+Lançamento: 2019
+
+Na Noruega do fim dos anos 1980, surgia a primeira banda de black metal do país: Mayhem. Em Oslo, o fundador Euronymous (Rory Culkin), de apenas 17 anos, planejava ações violentas para divulgar seu trabalho. Quando se junta a Varg Vikernes (Emory Cohen), a situação fica caótica e culmina numa tragédia irreversível. Inspirado em uma história real.</info>
+ 
+<genre>Drama, Música, Terror</genre>
+ 
+<date>08/02/2019</date>
+</item>"
+"<item>
+
+<title>Meia-irmã [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BARCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3312.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3312.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Thriller, Drama
+Lançamento: 2017
+
+Sinaloa (Sophie Reid) é uma jovem britânica que ruma em direção ao Texas para encontrar Merle (Allison Tolman), sua meio-irmã por parte do seu falecido pai, que era músico do ritmo country. Não demora para que Sinaloa se insira na vida de Merle. Sua música acorda algo na vida da sua nova meio-irmã, apagando as dúvidas do parentesco entre as duas. Enquanto o legado musical da família trouxe esta estranha para a cidade, motivos mais obscuros estão entrelaçados na música que Sinaloa canta, mostrando sinais de uma violenta raiva construída há anos.</info>
+ 
+<genre>Música, Thriller, Drama</genre>
+ 
+<date>10/06/2017</date>
+</item>"
+"<item>
+
+<title>Meu Amante é de Outro Mundo [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MEUAMNTEDOTRMNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3703.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3703.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia, Ficção científica
+Lançamento: 1988
+
+Após uma pane em uma astronave, três extra-terrestres caem em uma piscina na Califórnia. Mac (Jeff Goldblum), o líder deles, se vê inesperadamente envolvido romanticamente com uma manicure, Valerie (Geena Davis), a dona da piscina.</info>
+ 
+<genre>Música, Comédia, Ficção científica</genre>
+ 
+<date>12/05/1988</date>
+</item>"
+"<item>
+
+<title>Meus Dois Carinhos [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEUSDOSCRNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3370.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3370.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Romance
+Lançamento: 1957
+
+Joey Evans (Frank Sinatra) é charmoso, bonito, engraçado, talentoso, de primeira classe, o maior dos malandros. Quando Joey encontra a ex corista e agora rica viúva Vera Simpson (Rita Hayworth), os dois desregrados parecem feitos um para o outro. Isto é, até surgir Linda English (Kim Novak). Linda é uma ""mouse on the line"" e vive como se não houvesse amanhã. Mas ela é a típica boa menina de uma boa família - exatamente o ingrediente certo para bagunçar a confortável situação do Joey.</info>
+ 
+<genre>Drama, Música, Romance</genre>
+ 
+<date>15/12/1957</date>
+</item>"
+"<item>
+
+<title>Modern Life Is Rubbish [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MDRNLFISRBSH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3440.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3440.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Música
+Lançamento: 2018
+
+O amor pela música uniu Liam (Josh Whitehouse), um artista batalhador e colecionador de vinis, e Natalie (Freya Mavor), que abandonou seu sonho de criar capas de álbuns e se tornou uma publicitária bem sucedida. Com os acontecimentos da vida afastando cada vez mais o casal, a trilha sonora do seu relacionamento continua os mantendo juntos.</info>
+ 
+<genre>Romance, Música</genre>
+ 
+<date>27/04/2018</date>
+</item>"
+"<item>
+
+<title>Moonwalker [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MCHLJCKSMNWLKR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3377.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3377.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Música
+Lançamento: 1988
+
+O filme começa com o vídeo de ""Man in the Mirror"" e depois parte para uma edição de videoclipes da careira de Michael. Depois vem uma paródia de ""Bad"" interpretada por crianças e então em uma seqüência Michael é perseguido por fãs. Então mais dois vídeos são mostrados e o filme mostra Michael como um herói com mágicos poderes, que é perseguido por Mr. Big (Joe Pesci), um traficante de drogas, mas mesmo assim Michael salva três crianças. Entre os vídeos estão ""Smooth Criminal"" e ""Come Together"".</info>
+ 
+<genre>Fantasia, Música</genre>
+ 
+<date>29/10/1988</date>
+</item>"
+"<item>
+
+<title>Mudança de Hábito [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MDNCDHBTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3492.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3492.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia
+Lançamento: 1992
+
+Em Reno, Nevada, Deloris Van Cartier (Whoopi Goldberg) é uma cantora que acidentalmente testemunha um brutal assassinato cometido pelo seu namorado, Vince LaRocca (Harvey Keitel), um gângster. Enquanto tentam capturar Vince, um detetive, Eddie Souther (Bill Nunn), é encarregado de protegê-la. Deloris é colocada no programa de proteção às testemunhas e é mandada para um convento em São Francisco disfarçada de freira, usando o nome de irmã Mary Clarence. Mas seu jeito extrovertido, que não é aprovado pela Madre Superiora (Maggie Smith), acaba fazendo ela dar uma nova vida ao coral, chamando a atenção das pessoas e de Vince.</info>
+ 
+<genre>Música, Comédia</genre>
+ 
+<date>28/05/1992</date>
+</item>"
+"<item>
+
+<title>Mudança de Hábito 2: Mais Loucuras no Convento [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MDNCDHBTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3493.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3493.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia
+Lançamento: 1993
+
+Deloris Van Cartier (Whoopi Goldberg) agora é uma cantora famosa e retorna a São Francisco para ajudar suas amigas freiras. Sua missão é dar aulas de música para adolescentes rebeldes que estudam em um colégio barra-pesada da vizinhança. Para piorar, o local corre o risco de ser fechado.</info>
+ 
+<genre>Música, Comédia</genre>
+ 
+<date>09/12/1993</date>
+</item>"
+"<item>
+
+<title>Muppets - O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MUPTSOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Aventura, Comédia, Família
+Lançamento: 1979
+
+Após um encontro casual com um agente, Caco decide ir para Hollywood buscar espaço no show business. Fozzie, Gonzo e Miss Piggy juntam-se a ele, na esperança de também se tornarem grandes astros. No caminho, porém, Caco acaba nas mãos do Doutor Hopper, perigoso dono de uma rede de restaurantes.</info>
+ 
+<genre>Música, Aventura, Comédia, Família</genre>
+ 
+<date>05/10/1979</date>
+</item>"
+
+"<item>
+
+<title>My Little Pony - O Filme [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3526.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3526.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Aventura, Animação, Família, Fantasia
+Lançamento: 2017
+
+Quando uma força obscura ameaça Ponyville e a Mane 6, os pequenos pôneis embarcar em uma viagem até o fim de Equestria para salvar sua amada casa. Lá eles conhecem novos amigos e passam por desafios perigosos ao longo do caminho.</info>
+ 
+<genre>Música, Aventura, Animação, Família, Fantasia</genre>
+ 
+<date>05/10/2017</date>
+</item>"
+"<item>
+
+<title>My Little Pony: Equestria Girls - A Lenda de Everfree [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MYLTPNYESQTRAGRIL4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3523.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3523.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Música, Fantasia, Comédia
+Lançamento: 2016
+
+O Acampamento Everfree corre o risco de fechar e as Equestria Girls usam seus novos poderes para organizar uma festa para arrecadar fundos e salvar o acampamento.</info>
+ 
+<genre>Aventura, Animação, Música, Fantasia, Comédia</genre>
+ 
+<date>01/10/2016</date>
+</item>"
+"<item>
+
+<title>My Little Pony: Equestria Girls - Jogos da Amizade [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MYLTPNYESQTRAGRIL3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3524.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3524.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Música, Família
+Lançamento: 2016
+
+Canterlot High meets its rival school, Crystal Prep Academy, in a competition that’s a long-standing tradition – The Friendship Games. Sunset Shimmer is tasked with keeping magic out of the games to avoid the appearance of impropriety while she and her friends compete against Crystal Prep’s top students led by someone with an equal amount of interest in Equestrian magic – this world’s TWILIGHT SPARKLE.</info>
+ 
+<genre>Animação, Música, Família</genre>
+ 
+<date>31/03/2016</date>
+</item>"
+"<item>
+
+<title>My Little Pony: Equestria Girls - Rainbow Rocks [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MYLTPNYESQTRAGRIL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3525.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Música
+Lançamento: 2014
+
+Music rules and rainbows rock as Twilight Sparkle and pals compete for the top spot in the Canterlot High ""Mane Event"" talent show. The girls must rock their way to the top, and outshine rival Adagio Dazzle and her band The Dazzlings, to restore harmony back to Canterlot High.</info>
+ 
+<genre>Família, Animação, Música</genre>
+ 
+<date>27/09/2014</date>
+</item>"
+"<item>
+
+<title>My Little Pony: Garotas de Equestria  [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MYLTPNYESQTRAGRIL1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3522.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3522.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia, Música
+Lançamento: 2013
+
+Para recuperar a coroa que foi roubada do Império Cristal, Twilight persegue o ladrão e acaba descobrindo um mundo paralelo. Lá, ela se transforma em uma adolescente e precisa frequentar a escola.</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia, Música</genre>
+ 
+<date>16/06/2013</date>
+</item>"
+"<item>
+
+<title>Na Batida do Amor [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NABTDADAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3529.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3529.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama
+Lançamento: 2017
+
+Uma aspirante a rapper busca no mundo da poesia inspiração para as letras de suas músicas.</info>
+ 
+<genre>Música, Drama</genre>
+ 
+<date>01/12/2017</date>
+</item>"
+"<item>
+
+<title>Na Batida do Coração [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/NABTDCRCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3530.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3530.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Música, Cinema TV
+Lançamento: 2012
+
+Cyrus (Tyler James Williams) é um talentoso jovem compositor que ambiciona fazer carreira no rap e conquistar seu amor, Roxanne (Coco Jones). Tímido, não tem coragem de subir num palco, tampouco de declarar seus sentimentos. Ele cede ao amigo Kris (Trevor Jackson) uma balada que escreveu para Roxanne e a garota fica encantada com as palavras, sem imaginar que elas vieram na verdade de Cyrus.</info>
+ 
+<genre>Família, Música, Cinema TV</genre>
+ 
+<date>13/11/2012</date>
+</item>"
+"<item>
+
+<title>Nasce Uma Estrela [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/NSCUMAESTLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3576.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3576.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Música
+Lançamento: 2018
+
+Um músico ajuda uma jovem cantora a encontrar fama quando a idade e o alcoolismo enviam sua própria carreira para uma espiral descendente.</info>
+ 
+<genre>Drama, Romance, Música</genre>
+ 
+<date>11/10/2018</date>
+</item>"
+"<item>
+
+<title>Natal com os Storybots [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NATLCMSTRBTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3583.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3583.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Fantasia, Música
+Lançamento: 2017
+
+Quando Bo pensa erroneamente que seus amigos não gostam de seus presentes, ela dirige para o Pólo Norte para pedir ajuda a Santa para fazer melhores presentes. Ela aprende ao longo do caminho que o Natal é muito mais do que apenas os brinquedos.</info>
+ 
+<genre>Animação, Fantasia, Música</genre>
+ 
+<date>01/12/2017</date>
+</item>"
+"<item>
+
+<title>No Paraíso do Havaí [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NOPRISODHVAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3633.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3633.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia, Romance
+Lançamento: 1966
+
+Após ser demitido de empresas aéreas por ser muito namorador, um jovem piloto (Elvis Presley) se associa a um amigo inaugurando um serviço de charter no Havaí, para levar os turistas aos lugares mais belos. Lá ele aproveita para namorar algumas das beldades locais, que passam a lhe fornecer uma boa clientela. Mas tudo pode ir por água abaixo quando ele, ao transportar os cães de uma milionária, acaba quase provocando um acidente com o chefe da Agência de Aviação Federal.</info>
+ 
+<genre>Música, Comédia, Romance</genre>
+ 
+<date>15/06/1966</date>
+</item>"
+
+"<item>
+
+<title>No Ritmo Indiano [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/NRTMOIDANO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3637.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3637.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Romance
+Lançamento: 2018
+
+Kelli é uma americana que sonha em ser uma dançarina profissional. Ela vai a um casamento com sua família na Índia, onde conhece Aseem, um dançarino local que mostra a cultura de seu país para ela. Eles se conectam profundamente através da dança, ponto de partida de uma linda história de amor.</info>
+ 
+<genre>Música, Romance</genre>
+ 
+<date>20/03/2018</date>
+</item>"
+"<item>
+
+<title>Noite de Abertura [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NOTDABRTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3643.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3643.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2016
+
+Uma cantora fracassada da Broadway que agora trabalha como gerente de produção precisa salvar a noite de abertura de sua nova produção tendo de cantar no espetáculo devido as disputas do elenco excêntrico que briga o tempo inteiro. Cabe a ela ou salvar o espetáculo ou afundá-lo de vez.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>03/06/2016</date>
+</item>"
+"<item>
+
+<title>Notorious B.I.G. - Nenhum Sonho é Grande Demais [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NTROUSBIGNHENSNHEGNDMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3665.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3665.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, História
+Lançamento: 2009
+
+Conta a história de Christopher Wallace (Jamal Woolard), mais conhecido como Notorius B.I.G., que saiu do Brooklyn para se tornar um dos maiores rappers de todos os tempos. Através do seu talento e dedicação, vemos sua chegada à fama após ter sido traficante pelas ruas do Brooklyn, em Nova York.</info>
+ 
+<genre>Drama, Música, História</genre>
+ 
+<date>16/01/2009</date>
+</item>"
+"<item>
+
 <title>Nove Canções [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/9CANCOES.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/9CANCOES.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/108.jpg</image>
@@ -758,4 +2073,1145 @@ Londres, verão de 2003. Matt (Kieran O'Brien) conhece Lisa (Margo Stilley), uma
 <genre>Drama, Música, Romance</genre>
  
 <date>16/05/2004</date>
+</item>"
+"<item>
+
+<title>O Brilho de Uma Comunidade [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OBLHDUMCOMNDAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3827.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3827.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2018
+
+Dois irmãos porto-riquenhos, Ralphi Matas (Jorge Burgos) e Junior (Gilbert Saldivar), do Harlem espanhol de Nova York e os melhores dançarinos de salsa da rua, são separados após uma tragédia e voltam a se reunir anos depois em lados opostos da gentrificação.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>05/10/2018</date>
+</item>"
+"<item>
+
+<title>O Guarda-Costas [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OGRDCSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4062.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4062.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Drama, Música, Romance
+Lançamento: 1992
+
+Frank Farmer (Kevin Costner), um guarda-costas altamente eficiente e caro, é contratado para proteger Rachel Marron (Whitney Houston), uma grande cantora e atriz, que está recebendo cartas anônimas e ameaçadoras. Frank é um ex-agente do Serviço Secreto que ainda não se perdoou do sentimento de culpa em relação à sua inabilidade de proteger o presidente Reagan, que quase foi assassinado por John Hinckley. Frank e Rachel se apaixonam mas ele não deixa este amor evoluir, pois quando estão juntos Rachel fica vulnerável. Paralelamente, novos atentados acontecem.</info>
+ 
+<genre>Thriller, Ação, Drama, Música, Romance</genre>
+ 
+<date>25/11/1992</date>
+</item>"
+"<item>
+
+<title>O Homem Chamado Flintstone [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OHMEMCHMDFLSTNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3687.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3687.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Aventura, Animação, Família, Romance, Mistério, Comédia
+Lançamento: 1966
+
+Conheça Fed Flintstone, o superespião. Ele é o típico cara que analisa cada história detalhadamente, mesmo vivendo na ´Pré-História´. O quê?! Você não o conhece? Não se preocupe, esse longa-metragem de animação é um verdadeiro dossiê sobre O Homem Chamado Flintstone. Nosso homem em Bedrock aceita uma perigosa missão substituindo um superagente machucado muito parecido com Fred. Sua tarefa: encontrar o vilão Ganso Verde e impedi-lo de completar seu plano de dominar o mundo. Assim, fingindo estar em uma viagem de férias familiares ao lado de Wilma, Barney e Betty, Fred voa até Eurock para se envolver em uma intriga selvagem maior que um mamute. Esta é a cruzada de um espião, que não estará terminada até ouvirmos o famoso yabba-dabba-doo!</info>
+ 
+<genre>Música, Aventura, Animação, Família, Romance, Mistério, Comédia</genre>
+ 
+<date>03/08/1966</date>
+</item>"
+"<item>
+
+<title>O Natal dos Muppets [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OCNTDNTLDOSMPTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3888.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3888.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia, Família, Fantasia, Drama
+Lançamento: 1992
+
+Na véspera de Natal, o velho avarento Ebenezer Scrooge (Michael Caine) recebe uma visita inesperada: o fantasma de Jacob Marley. O espírito avisa para Scrooge que se ele continuar com suas ações, vai enfrentar as consequências após a morte. Com as visitas dos fantasmas do passado, do presente e do futuro, ele tem a chance de transformar a sua vida. Versão dos Muppets do clássico livro “A Christmas Carol”, de Charles Dickens.</info>
+ 
+<genre>Música, Comédia, Família, Fantasia, Drama</genre>
+ 
+<date>10/12/1992</date>
+</item>"
+"<item>
+
+<title>O Rei Leão [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OREILEO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4355.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4355.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Música, Animação
+Lançamento: 2019
+
+Simba é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar faz com que Mufasa, o atual rei, morra ao tentar salvar o filhote. Consumido pela culpa, Simba deixa o reino rumo a um local distante, onde encontra amigos que o ensinam a mais uma vez ter prazer pela vida.</info>
+ 
+<genre>Aventura, Família, Música, Animação</genre>
+ 
+<date>18/07/2019</date>
+</item>"
+"<item>
+
+<title>O Rio das Almas Perdidas [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORIDSAMLSPRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4383.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4383.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Música, Romance, Faroeste
+Lançamento: 1955
+
+Em 1875, durante a corrida do ouro nos Estados Unidos, Matt Calder (Robert Mitchum), um ex-presidiário que recentemente saiu da cadeia, reencontra Mark Calder (Tommy Retting), seu jovem filho que nada sabe do seu passado. Com ele planeja se estabelecer como fazendeiro. Algum tempo depois os dois socorrem Kay Weston (Marilyn Monroe), uma cantora de saloon que conheciam, e Harry Westo (Rory Calhoun), seu namorado, quando tentavam atravessar um perigoso rio em uma balsa. Mas Harry está tão ansioso em registrar uma concessão de ouro que ele diz que ganhou em um jogo e fere Matt, que o salvou, pois quer um cavalo e uma arma a qualquer custo. Kay fica então no rancho cuidando de Matt e Mark, enquanto Harry vai embora sozinho, mas prometendo voltar. Entretanto, os índios chegam no local e os três são obrigados a fugir por um rio com perigosas corredeiras. Mas o rancheiro está determinado em chegar ao seu destino, para se vingar.</info>
+ 
+<genre>Ação, Aventura, Drama, Música, Romance, Faroeste</genre>
+ 
+<date>01/01/1955</date>
+</item>"
+"<item>
+
+<title>Olaf em Uma Nova Aventura Congelante de Frozen [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OLFEMUMNVAVNTRCNGLDFRZN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4505.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família, Fantasia, Música
+Lançamento: 2017
+
+É a primeira temporada de festas de fim de ano desde a reabertura dos portões e Anna (Kristen Bell) e Elsa (Idina Menzel) organizam uma festa para toda a Arendelle. Porém, quando as pessoas da cidade saem cedo da comemoração para desfrutar seus costumes prórprios, as irmãs percebem que não possuem tradições familiares. No entanto, Olaf quer tentar mudar essa situação e trazer um Natal feliz para as meninas. Ele decide viajar pelo reino para trazer para o castelo as melhores tradições locais.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família, Fantasia, Música</genre>
+ 
+<date>08/12/2017</date>
+</item>"
+"<item>
+
+<title>Os Embalos de Sábado à Noite [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSEMBLDSBDANT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4615.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Comédia
+Lançamento: 1978
+
+Tony Manero (John Travolta), um jovem do Brooklyn e um excelente dançarino de disco music, só encontra significado na vida quando dança, pois passar a semana trabalhando em uma loja de tintas não o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influência de seu irmão, um padre frustrado, e de Stephanie (Karen Lynn Gorney), sua parceira de dança, começa a questionar a maneira como encara a vida e a limitação de suas perspectivas. Paralelamente Tony vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca.</info>
+ 
+<genre>Drama, Música, Comédia</genre>
+ 
+<date>03/07/1978</date>
+</item>"
+"<item>
+
+<title>Os Embalos de Sábado Continuam [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSEMBLDSBDANTCNT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4616.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4616.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 1983
+
+Tony Manero (John Travolta) trabalha agora em uma academia de ginástica e anseia ser o dançarino principal de um grande show da Broadway. Em sua vida particular ele se vê dividido entre duas mulheres: Jackie (Cynthia Rhodes), uma professora de dança que trabalha no mesmo lugar de Tony, e Laura (Finola Hughes), a dançarina principal do show da Broadway. Enquanto Tony se apaixona por Laura ela só o vê como alguém atraente que serve para fazer sexo, o que gera uma rivalidade entre eles na vida profissional.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>13/10/1983</date>
+</item>"
+"<item>
+
+<title>Os Muppets [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSMPTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4666.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4666.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Música
+Lançamento: 2011
+
+De férias em Los Angeles, Walter, o maior fã dos Muppets em todo o mundo, seu irmão Gary e sua amiga Mary descobrem um nefasto plano de um ganancioso explorador de petróleo para destruir o teatro Muppet. Agora, o trio precisa reunir Kermit, Miss Piggy, Fozzie e seus amigos para o maior telethon Muppet de todos os tempos e salvar o adorado teatro. A gangue está reunida novamente em um filme recheado de músicas irresistíveis e diversão para toda a família.</info>
+ 
+<genre>Comédia, Família, Música</genre>
+ 
+<date>23/11/2011</date>
+</item>"
+"<item>
+
+<title>Os Últimos Rebeldes [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSULTMSRBLDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4711.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4711.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama
+Lançamento: 1993
+
+The story of a close-knit group of young kids in Nazi Germany who listen to banned swing music from the US. Soon dancing and fun leads to more difficult choices as the Nazi's begin tightening the grip on Germany. Each member of the group is forced to face some tough choices about right, wrong, and survival.</info>
+ 
+<genre>Música, Drama</genre>
+ 
+<date>05/03/1993</date>
+</item>"
+"<item>
+
+<title>Outro Conto da Nova Cinderela [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OTRCNTDANVACNRLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4728.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4728.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Comédia
+Lançamento: 2008
+
+A jovem Mary (Selena Gomez) perdeu os pais durante a infância e sua vida está mudando de cabeça pra baixo. Ela é adotada por uma cantora pop, que está com a carreira musical em decadência, e ganha duas irmãs postiças. Quando conhece o astro adolescente Joey Parker (Drew Seeley), Mary acredita que pode mudar o seu futuro. Joey faz um concurso de dança para encontrar uma nova bailarina e a jovem encanta o rapaz, mas ela foge antes de ter a chance de se apresentar, deixando como única pista de sua identidade um aparelho de música.</info>
+ 
+<genre>Música, Comédia</genre>
+ 
+<date>16/09/2008</date>
+</item>"
+"<item>
+
+<title>Para Sempre Minha Garota [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PRSMPRMNHGRTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4793.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4793.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama, Música
+Lançamento: 2018
+
+Astro do futebol americano, o quarterback Liam (Alex Roe) estava pronto para se casar com Josie (Jessica Rothe), sua namorada da escola, mas acabou deixando-a no altar para seguir carreira de cantor country. Depois de muitos anos, ele retorna à cidade como um cantor famoso.</info>
+ 
+<genre>Romance, Drama, Música</genre>
+ 
+<date>26/01/2018</date>
+</item>"
+"<item>
+
+<title>Patti Cake$ [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PATCK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4825.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4825.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2017
+
+Diretamente de Nova Jersey, Patricia Dombrowski (Danielle Macdonald), também conhecida como Killa P ou ainda Patti Cake$, é uma aspirante a rapper. Com suas comoventes músicas originais, ela luta busca pela improvável glória no cenário do hip hop. Aplaudida pela avó (Cathy Moriarty) e amigos, Jheri (Siddharth Dhananjay) e Basterd (Mamoudou Athie), Patti precisa apoiar a mãe (Bridget Everett), que está passando por dificuldades.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>30/08/2017</date>
+</item>"
+"<item>
+
+<title>Phineas e Ferb, O Filme: Através da 2ª Dimensão [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PHNASEFRBATRSVD2DMSAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4909.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4909.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Cinema TV, Música
+Lançamento: 2011
+
+Phineas e Ferb descobrem que seu amado animal de estimação Perry,o Onitorrinco é um agente secreto que luta contra as forças do mal quase todos os dias. Os meninos, com Perry vão entrar em uma grande aventura através de um universo paralelo onde eles devem, em última instância contrariar uma versão mais malvada do Dr. Doofenshmirtz. Enquanto isso Candace tenta equilibrar amigos com seu namorado.</info>
+ 
+<genre>Animação, Comédia, Família, Cinema TV, Música</genre>
+ 
+<date>05/08/2011</date>
+</item>"
+"<item>
+
+<title>Phineas e Ferb, O Filme: Candace Contra o Universo [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PHNSEFRBOFLMCNCTROUNVSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4908.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4908.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ficção científica, Comédia, Música, Família, Aventura
+Lançamento: 2020
+
+Phineas e Ferb atravessam o universo para resgatar a irmã mais velha, Candance, que foi sequestrada por alienígenas e acabou achando um planeta livre dos irmãos irritantes.</info>
+ 
+<genre>Animação, Ficção científica, Comédia, Música, Família, Aventura</genre>
+ 
+<date>17/11/2020</date>
+</item>"
+"<item>
+
+<title>Phineas e Ferb: Star Wars [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PHNSEFRBSSTRWRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4910.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4910.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Comédia, Família, Ficção científica, Música
+Lançamento: 2014
+
+Há muitos anos, numa galáxia muito, muito distante, Phineas e Ferb estão vivendo a uma fazenda de distância de Luke Skywalker, no planeta Tatooine. De repente, R2-D2 e os planos da Estrela da Morte caem acidentalmente em suas mãos. Com o destino da galáxia nas costas, eles contratam Isabella, piloto e rival de Han Solo, para ajudá-los a devolver os planos à Aliança Rebelde. Para complicar a situação, Candace, uma Stormtrooper de baixo escalão, planeja atacar os Rebeldes e persegui-los pela galáxia para recuperar os planos da Estrela da Morte.</info>
+ 
+<genre>Ação, Animação, Comédia, Família, Ficção científica, Música</genre>
+ 
+<date>19/11/2014</date>
+</item>"
+"<item>
+
+<title>Popstar: Sem Parar Sem Limite [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/POPSTSMPRSMLMT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4987.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4987.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2016
+
+Quando seu álbum solo fracassa em número de vendas, o superstar Conner4real vê sua vida de celebridade decair e entrar em colapso. Decidido a manter seu status, ele fará de tudo para voltar ao topo, menos voltar para seu antigo grupo de rap, The Style Boyz.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>04/08/2016</date>
+</item>"
+"<item>
+
+<title>Quase Famosos [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/QSEFMOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5122.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5122.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2000
+
+Um fã ávido por rock'n'roll consegue um trabalho na revista americana Rolling Stone, para acompanhar a banda Stillwater em sua primeira excursão pelos Estados Unidos. Porém, quanto mais ele vai se envolvendo com a banda, mais vai perdendo a objetividade de seu trabalho e logo estará fazendo parte do cenário rock dos anos 70.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>22/09/2000</date>
+</item>"
+"<item>
+
+<title>Quem Cantará as suas Canções? [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/QMCNTRASASCNOES.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5144.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5144.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Mistério
+Lançamento: 2018
+
+Lila (Najwa Nimri) é cantora famosa aposentada precisa retomar a carreira por questões financeiras. Um pouco antes do grande retorno aos palcos, ela sofre um grave acidente e acorda com amnésia. Para controlar a situação, surge Violeta (Eva Llorach), uma imitadora anônima, que recebe a função de garantir o regresso triunfal da ex Diva.</info>
+ 
+<genre>Música, Drama, Mistério</genre>
+ 
+<date>24/10/2018</date>
+</item>"
+"<item>
+
+<title>Rags: O Poder da Música [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RGSOPDRDMSC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5165.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5165.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Comédia, Drama, Música
+Lançamento: 2012
+
+Um talentoso aspirante a músico tem uma família que não o deixa correr atrás de seu sonho. Até que ele conhece a estrela pop Kadee Worth, que está cansada de ter sua carreira controlada por outras pessoas. Juntos, eles alcançarão seus objetivos.</info>
+ 
+<genre>Cinema TV, Comédia, Drama, Música</genre>
+ 
+<date>28/05/2012</date>
+</item>"
+"<item>
+
+<title>Ritmo Total [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RTMTOTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5268.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5268.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Comédia, Música
+Lançamento: 2002
+
+Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
+ 
+<genre>Drama, Romance, Comédia, Música</genre>
+ 
+<date>13/12/2002</date>
+</item>"
+"<item>
+
+<title>Rock Dog - No Faro do Sucesso [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RCKDGNFRDSCSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5280.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5280.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família, Música
+Lançamento: 2017
+
+Quando um rádio cai do céu, diretamente nas mãos de um atônito Tibetan Mastiff, ele sai de casa em busca da realização de seu maior sonho: tornar-se músico. Sendo assim, Mastiff passará por diversos acontecimentos inesperados.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família, Música</genre>
+ 
+<date>04/05/2017</date>
+</item>"
+"<item>
+
+<title>Rock of Ages: O Filme [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RCKOFAGESOFILM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5282.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5282.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música, Romance
+Lançamento: 2012
+
+Sherrie (Julianne Hough) é uma jovem que chega em Los Angeles vinda de uma cidade pequena. Ela sonha se tornar uma cantora de sucesso, mas pouco após desembarcar do ônibus tem sua mala roubada. Quem a ajuda é Drew (Diego Boneta), que consegue para ela uma vaga como garçonete na famosa casa de shows Bourbon, ícone do cenário rock da cidade. Drew também trabalha no lugar e não demora muito para que eles engatem o namoro. Só que o Bourbon enfrenta problemas financeiros e seu dono, Dennis Dupree (Alec Baldwin), acredita que possa salvar o local com a renda do último show de Stacee Jaxx (Tom Cruise) com a banda Arsenal, já que ele pretende seguir carreira solo. Entretanto, a esposa do prefeito (Bryan Cranston), Patricia Whitmore (Catherine Zeta-Jones), pretende fazer o que estiver ao seu alcance para fechar o Bourbon, já que o considera um antro de perdição para os jovens.</info>
+ 
+<genre>Comédia, Drama, Música, Romance</genre>
+ 
+<date>15/06/2012</date>
+</item>"
+"<item>
+
+<title>Rock Star [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RCKSTR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5283.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5283.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Comédia
+Lançamento: 2001
+
+Em meio aos anos 80, Chris Coles (Mark Wahlberg) trabalha como vendedor em uma loja ao mesmo tempo em que é vocalista de uma banda cover de seu grupo de heavy metal predileto, o Steel Dragons.</info>
+ 
+<genre>Música, Drama, Comédia</genre>
+ 
+<date>04/09/2001</date>
+</item>"
+"<item>
+
+<title>Rocketman [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKMAN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5284.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5284.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2019
+
+A trajetória de como o tímido Reginald Dwight (Taron Egerton) se transformou em Elton John, ícone da música pop. Desde a infância complicada, fruto do descaso do pai pela família, sua história de vida é contada através da releitura das músicas do superstar, incluindo a relação do cantor com o compositor e parceiro profissional Bernie Taupin (Jamie Bell) e o empresário e o ex-amante John Reid (Richard Madden).</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>30/05/2019</date>
+</item>"
+"<item>
+
+<title>Saudades de um Pracinha [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SAUDSDUMPRCNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5359.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5359.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 1960
+
+Tulsa McLean é um soldado cujo maior sonho é ser dono de um Night Club. Para conseguir o valor em dinheiro para que ele possa abrir o seu empreendimento, ele aceita participar de uma aposta, onde, na qual, ele deve passar uma noite com uma bailarina famosa no local, porém, os dois acabam se apaixonando.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>23/11/1960</date>
+</item>"
+"<item>
+
+<title>Scooby-Doo e o Rei dos Duendes [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/SCBDFLM12.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5370.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5370.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Animação, Comédia, Família, Aventura, Fantasia, Música
+Lançamento: 2008
+
+Neste Filme Scooby Doo e o Rei Dos Duendes,Que Apuro! O incrível Krudsky, um mágico decadente, roubou a luz mágica da princesa Fairy Willow e Scooby-Doo e Salsicha precisam detê-lo ou todo mundo será transformado em horríveis monstros de Halloween!</info>
+ 
+<genre>Mistério, Animação, Comédia, Família, Aventura, Fantasia, Música</genre>
+ 
+<date>23/09/2008</date>
+</item>"
+"<item>
+
+<title>Scooby-Doo! E a Lenda do Vampiro [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/SCBDFLM05.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5367.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5367.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Fantasia, Música, Mistério
+Lançamento: 2003
+
+Dessa vez, durante suas férias na Austrália, Scooby e a gangue vão a um show em Vampire Rock, onde um malvado vampiro está seqüestrando os músicos. Para solucionar esse mistério, toda turma precisa se disfarçar de músicos de uma banda de heavy metal!</info>
+ 
+<genre>Animação, Comédia, Família, Fantasia, Música, Mistério</genre>
+ 
+<date>04/03/2003</date>
+</item>"
+"<item>
+
+<title>Scooby-Doo! Música de Vampiro [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/SCBDFLM17.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5391.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5391.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Mistério, Aventura, Comédia, Fantasia, Música
+Lançamento: 2012
+
+Quando Daphne se torna a estrela de um filme de vampiro, a produção é transformado em caos por um vampiro real, forçando a gangue Scooby-Doo para investigar quem está por trás desse caos monstruoso.</info>
+ 
+<genre>Animação, Família, Mistério, Aventura, Comédia, Fantasia, Música</genre>
+ 
+<date>13/03/2012</date>
+</item>"
+"<item>
+
+<title>Scott Pilgrim Contra o Mundo [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SCTPLGMCNTOMNDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5396.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5396.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ação, Romance, Música, Fantasia, Baseado em Quadrinho
+Lançamento: 2010
+
+Scott Pilgrim (Michael Cera) tem 23 anos, integra uma banda de colégio, vive trocando de emprego e tem um namoro firme. Sua vida está maravilhosa, até conhecer Ramona V. Flowers (Mary Elizabeth Winestead). Ele logo se apaixona perdidamente por ela, só que não será fácil conquistar seu amor. Para tanto ele precisa enfrentar os sete ex-namorados dela, que estão dispostos a tudo para impedir sua felicidade com outra pessoa.</info>
+ 
+<genre>Comédia, Ação, Romance, Música, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>13/08/2010</date>
+</item>"
+"<item>
+
+<title>Sexo, Música e Amor [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SXOMSCEAMR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5493.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5493.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música
+Lançamento: 2018
+
+Ignorada pelos pais, Joy (Charlene deGuzman) é viciada em sexo e amor e decide procurar ajuda para mudar de vida. No grupo de apoio ela conhece Maddie (Melissa Leo), que se torna sua madrinha em um momento crítico e permite que ela more na casa de hóspedes da sua avó desde que fique 30 dias longe das tentações, lista que inclui o ex, masturbação e qualquer contato com homens.</info>
+ 
+<genre>Comédia, Drama, Música</genre>
+ 
+<date>01/11/2018</date>
+</item>"
+"<item>
+
+<title>Sexta-Feira Muito Louca [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FRKFRDSXTFRMTLCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5505.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Família, Fantasia, Cinema TV, Comédia
+Lançamento: 2018
+
+Quando Katherine e sua filha adolescente rebelde, Ellie, vivem estressadas uma com a outra. Quando uma ampulheta mágica que pertencia ao falecido pai da família faz com que elas troquem de corpo, elas experimentam o que é viver a vida uma da outra.</info>
+ 
+<genre>Música, Família, Fantasia, Cinema TV, Comédia</genre>
+ 
+<date>29/10/2018</date>
+</item>"
+"<item>
+
+<title>Show Bar [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SHWBAR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5528.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5528.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música, Romance
+Lançamento: 2000
+
+Violet Sanford (Piper Perabo), uma jovem de 21 anos, segue para Nova York com um sonho: tornar-se uma grande compositora de sucesso. Mas ela deixa suas aspirações profissionais de lado quando recebe uma proposta para trabalhar num show bar chamado Coyote Ugly, localizado em Manhattan. Até que, juntamente com um grupo de jovens mulheres sensuais, irá atormentar os clientes do local, com suas artimanhas e brincadeiras.</info>
+ 
+<genre>Comédia, Drama, Música, Romance</genre>
+ 
+<date>30/07/2000</date>
+</item>"
+"<item>
+
+<title>Sing - Quem Canta Seus Males Espanta [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SNGQCSME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5555.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5555.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Drama, Família, Música
+Lançamento: 2016
+
+Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro. A disputa movimenta o mundo animal e promove a revelação de diversos talentos da cidade, todos de olho nos 15 minutos de fama e US$ 100 mil dólares de prêmio.</info>
+ 
+<genre>Animação, Comédia, Drama, Família, Música</genre>
+ 
+<date>22/12/2016</date>
+</item>"
+"<item>
+
+<title>Steven Universo - O Filme [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STVNUNVSOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5669.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5669.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Fantasia, Música, Ação, Drama
+Lançamento: 2019
+
+Steven acha que seu tempo de defesa da Terra acabou, mas quando uma nova ameaça chega a Beach City, Steven enfrenta seu maior desafio.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Fantasia, Música, Ação, Drama</genre>
+ 
+<date>02/09/2019</date>
+</item>"
+"<item>
+
+<title>Straight Outta Compton - A História do NWA [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AHSTRDNWA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5674.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5674.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2015
+
+Califórnia, década de 1980. Cinco jovens usam suas experiências pessoais na produção de músicas honestas, rebeldes, diferentes e totalmente contra o sistema. Surge o N.W.A. (Niggaz Wit Attitudes), que dá voz a uma geração e promove a explosão do gangsta rap.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>14/08/2015</date>
+</item>"
+"<item>
+
+<title>Stuck [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/STCK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5684.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5684.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama
+Lançamento: 2019
+
+Um filme musical pop original sobre seis passageiros que ficam presos em um metrô de Nova York. Através do poder da música, eles aprendem sobre a vida um do outro e, por sua vez, têm um efeito profundo sobre o outro. Conectando-se através de linhas de raça, cultura e classe de uma maneira que apenas situações de circunstâncias ou acontecimentos podem criar, este será um dia que nenhum deles jamais esquecerá.</info>
+ 
+<genre>Música, Drama</genre>
+ 
+<date>29/08/2019</date>
+</item>"
+
+"<item>
+
+<title>Teen Beach Movie [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TNBCH.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5821.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5821.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Música, Cinema TV, Comédia
+Lançamento: 2013
+
+Brady e McKenie são dois jovens surfistas que magicamente se tornam parte de um filme musical. Ao perceber que sua presença está alterando o roteiro original do filme, eles se esforçam para fazer tudo voltar ao normal e acabam se apaixonando.</info>
+ 
+<genre>Família, Música, Cinema TV, Comédia</genre>
+ 
+<date>07/08/2013</date>
+</item>"
+"<item>
+
+<title>Tempo de Melodia [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TMPDMLDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5834.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5834.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Família, Animação
+Lançamento: 1948
+
+Tempo de Melodia é uma animação produzida por Walt Disney e lançada nos cinemas pela RKO Radio Pictures. São várias sequências de músicas populares e folclóricas. Como a anterior Música Maestro! (Make Mine Music), é uma versão contemporânea de Fantasia.</info>
+ 
+<genre>Música, Família, Animação</genre>
+ 
+<date>02/07/1948</date>
+</item>"
+"<item>
+
+<title>Tenacious D: Uma Dupla Infernal [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TNCSDUDI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5837.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5837.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2006
+
+Esta é a história de uma amizade que mudou o curso da história do Rock n' Roll para sempre. O ingênuo JB (Jack Black) se une ao relaxado KG (Kyle Gass) para formar a banda Tenacious D. Eles pretendem escrever seus nomes na história da música, mas logo percebem que isso não é tão simples assim. A dupla irá armar um plano infalível para roubar uma palheta mágica capaz de solucionar qualquer problema.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>22/11/2006</date>
+</item>"
+"<item>
+
+<title>The After Party [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/THAFTRPRTY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5873.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5873.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música
+Lançamento: 2018
+
+Após um incidente constrangedor, um rapper e seu empresário e melhor amigo têm apenas uma noite para dar a volta por cima e realizar o sonho do estrelato.</info>
+ 
+<genre>Comédia, Música</genre>
+ 
+<date>24/08/2018</date>
+</item>"
+"<item>
+
+<title>The Beach Boys - Uma História de Sucesso [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/THBCHBYSUHDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5877.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5877.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2015
+
+Brian Wilson fundou os Beach Boys, uma das bandas mais populares do Estados Unidos nos anos 1960. A trama foca a degeneração mental de Wilson e os problemas que seus diversos tratamentos trouxeram ao grupo, resultando em sua saída da banda. O filme também mostrará a relação de Wilson com sua esposa Melinda e como o astro foi manipulado pelo Dr. Eugene Landy.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>05/06/2015</date>
+</item>"
+"<item>
+
+<title>The Dirt: Confissões do Mötley Crüe [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/THRDRTCONFSOMTLYCRUE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5881.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5881.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, História
+Lançamento: 2019
+
+Acompanhe a ascensão meteórica e os tombos homéricos do Mötley Crüe nessa biografia dos quatro desajustados de Los Angeles que conquistaram o topo do heavy metal.</info>
+ 
+<genre>Drama, Música, História</genre>
+ 
+<date>22/03/2019</date>
+</item>"
+"<item>
+
+<title>The Doors [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/THRDRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5882.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5882.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 1991
+
+Jim Morrison, a voz e a alma dos Doors, um homem que marcou várias gerações e que ainda hoje nos faz interrogar se algum dia alguém o conheceu realmente. Oliver Stone, realizador pródigo em filmar polêmicas americanas, realizou em 1991 um filme sobre a ascensão dos Doors, terminando o filme com a morte de Jim Morrison, cuja frase do epílogo deixa a certeza das causas em aberto - dizem que Jim morreu de uma parada cardíaca. É, em seus certos exageros, a biografia de Jim Morrison e da banda The Doors, uma das mais influentes dos anos 1960. Mostra sua passagem pelo conturbado mundo do rock´n roll, onde as drogas e o sexo reinavam.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>01/03/1991</date>
+</item>"
+"<item>
+
+<title>The Wonders: O Sonho Não Acabou [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/THEWNDRSOSNHNACBOU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5900.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5900.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance, Música
+Lançamento: 1996
+
+Em 1964, logo após os Estados Unidos serem ""tomados"" pelos Beatles, surge em uma pequena cidade da Pensilvânia os 'Oneders', mais tarde rebatizado pelo empresário como 'Wonders'. Porém, às vésperas de uma apresentação de calouros, o baterista do grupo quebra o braço, o que faz com que, em cima da hora, um jovem infeliz (Tom Everett Scott), que trabalhava na loja de eletrodomésticos da família, seja convidado para substituí-lo. O jovem baterista, um aficionado de jazz, imprime durante a apresentação uma batida mais ritmada no que deveria ser uma balada, causando o descontentamento do vocalista e compositor do grupo (Johnathon Schaech). Mas seu instinto funcionou e a música se torna sucesso nacional, levando o grupo aos primeiros lugares da Billboard.</info>
+ 
+<genre>Comédia, Drama, Romance, Música</genre>
+ 
+<date>04/10/1996</date>
+</item>"
+"<item>
+
+<title>Tina - A Verdadeira História de Tina Turner [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TNAVRDHISTDTNTNR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5913.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5913.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 1993
+
+A verdadeira história da lenda viva do rock´n roll, Tina Turner, com Angela Bassette e Laurence Fishburne. Tina é Anna Mae Bullock, uma garota do interior com uma voz especial que se apaixona pelo carismático Ike Turner. Juntos, conquistam o sucesso no mundo da música. Mas quando perdem o controle de suas vidas, a volta à realidade provoca um choque inevitável. Do fundo do poço ao mais alto nível, Tina viveu, sobreviveu e triunfou. Cheio de energia e performances eletrizantes, um filme que vai fazer você cantar, dançar e aplaudir.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>09/06/1993</date>
+</item>"
+"<item>
+
+<title>Tini: Depois de Violetta [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TNDPSDVLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5915.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5915.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Música
+Lançamento: 2016
+
+Inspirado na aclamada série do Disney Channel, o filme narra o crescimento de Tini e seu amadurecimento profissional após os acontecimentos do fenômeno televisivo ""Violetta"".</info>
+ 
+<genre>Comédia, Drama, Música</genre>
+ 
+<date>16/06/2016</date>
+</item>"
+"<item>
+
+<title>Trolls [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6014.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6014.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Comédia, Fantasia, Música, Animação
+Lançamento: 2016
+
+Tronco (Justin Timberlake) parte para uma jornada de descobertas e aventuras ao lado de Poppy (Anna Kendrick), líder dos Trolls. Inicialmente inimigos, conforme os desafios são superados eles descobrem que no fundo combinam.</info>
+ 
+<genre>Aventura, Família, Comédia, Fantasia, Música, Animação</genre>
+ 
+<date>27/10/2016</date>
+</item>"
+"<item>
+
+<title>Trolls: Vamos Festejar [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRLSVMSFSTJR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6015.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6015.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família, Cinema TV, Fantasia, Música
+Lançamento: 2017
+
+Quando descobre que os Bergens não têm mais feriados em seu calendário, a eternamente otimista Poppy, rainha dos Trolls, procura o auxílio de Branch e de toda a turma em uma missão deliciosamente estranha de consertar algo que os Bergens nem acham que está ruim! A música não para nunca com Trolls Dias de Festa da DreamWorks!</info>
+ 
+<genre>Aventura, Animação, Comédia, Família, Cinema TV, Fantasia, Música</genre>
+ 
+<date>02/12/2017</date>
+</item>"
+"<item>
+
+<title>UglyDolls: Altamente Imperfeitos [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UGLSDLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6053.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6053.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Aventura, Fantasia, Música
+Lançamento: 2019
+
+Os UglyDolls Moxy, Wage, Babo, Ice-Bat e Wedgehead rumam ao Instituto da Perfeição com o desejo de serem amados mesmo sendo diferentes. Subvertendo a ideia do feio como um adjetivo negativo, a animação mostra que não é preciso ser perfeito para ser incrível.</info>
+ 
+<genre>Animação, Comédia, Família, Aventura, Fantasia, Música</genre>
+ 
+<date>16/05/2019</date>
+</item>"
+"<item>
+
+<title>Uma Fazenda Maluca 2: Queijo de Cabra [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMFZNDMLCA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6223.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6223.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Música
+Lançamento: 2012
+
+O jovem Zuzanka, Honzik e Goat procuram os pais das crianças, que o diabo aparentemente sequestrou para puni-los por produzirem queijo de cabra diabolicamente bom. No entanto, as crianças encontram seus pais não no inferno, mas no castelo, onde devem fazer queijo para Kobyl, o conselheiro do rei. Kobyl ganhou as boas graças do rei graças ao queijo. Após uma aventura perigosa e cafona, Kobyl acaba no inferno e os membros da família se reencontram.</info>
+ 
+<genre>Animação, Família, Comédia, Música</genre>
+ 
+<date>25/10/2012</date>
+</item>"
+"<item>
+
+<title>Uma Invenção de Natal [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMAINVCAODNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6230.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6230.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Música
+Lançamento: 2020
+
+Desde que foi traído por seu aprendiz, a vida perdeu a graça para este fabricante de brinquedos. Mas a chegada de sua neta está prestes a mudar seu destino.</info>
+ 
+<genre>Família, Fantasia, Música</genre>
+ 
+<date>06/11/2020</date>
+</item>"
+"<item>
+
+<title>Viva - A Vida é uma Festa [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIVAAVDEUMFST.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6385.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6385.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Aventura, Fantasia, Música
+Lançamento: 2018
+
+O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.</info>
+ 
+<genre>Animação, Família, Comédia, Aventura, Fantasia, Música</genre>
+ 
+<date>04/01/2018</date>
+</item>"
+"<item>
+
+<title>Você Já Foi à Bahia? [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VCJFOABHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6394.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6394.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Música
+Lançamento: 1945
+
+Pato Donald recebe uma grande caixa no dia de seu aniversário, trazendo três presentes. O primeiro traz um projetor de cinema, contendo um filme sobre aves da América do Sul. O segundo contém um livro sobre o Brasil, que o leva à Bahia ao lado de Zé Carioca. O terceiro tem uma piñata, acompanhada de Panchito. Com os amigos, Donald vive aventuras no Brasil e no México.</info>
+ 
+<genre>Animação, Família, Música</genre>
+ 
+<date>04/02/1945</date>
+</item>"
+"<item>
+
+<title>Vox Lux: O Preço da Fama [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VXLXOPRCDFMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6404.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6404.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2019
+
+Celeste é uma menina que sobrevive após uma grande tragédia, o que a torna conhecida nacionalmente. Após um tempo, ela se lança como cantora e alcança o estrelato.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>28/03/2019</date>
+</item>"
+"<item>
+
+<title>Whiplash: Em Busca da Perfeição [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WHPSHEBSCDPFC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6419.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6419.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2015
+
+Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>08/01/2015</date>
+</item>"
+"<item>
+
+<title>Yesterday [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/YESRTDY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6445.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6445.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Fantasia, Música
+Lançamento: 2019
+
+Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.</info>
+ 
+<genre>Comédia, Romance, Fantasia, Música</genre>
+ 
+<date>29/08/2019</date>
+</item>"
+"<item>
+
+<title>Z-O-M-B-I-E-S [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZMBS2018.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6453.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6453.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Cinema TV, Fantasia, Música
+Lançamento: 2018
+
+Um zumbi e uma líder de torcida trabalham juntos para mostrar à cidade o que podem alcançar quando todos abraçam suas diferenças e celebram o que pode ser feito para a comunidade.</info>
+ 
+<genre>Comédia, Romance, Cinema TV, Fantasia, Música</genre>
+ 
+<date>17/12/2018</date>
+</item>"
+"<item>
+
+<title>Z-O-M-B-I-E-S 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZMBS20202.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6454.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6454.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Romance, Cinema TV
+Lançamento: 2020
+
+Zed e Addison estão de volta à Seabrook High, onde, após um semestre inovador, continuam a orientar a escola e a comunidade em direção à unidade. Mas a chegada de um novo grupo de estranhos - lobisomens misteriosos - ameaça abalar a paz recém-descoberta e causa uma fenda no romance de Zed e Addison.</info>
+ 
+<genre>Música, Romance, Cinema TV</genre>
+ 
+<date>14/02/2020</date>
 </item>"
