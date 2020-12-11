@@ -1,7 +1,26 @@
 "<item>
 
+<title>Eram Os Deuses Astronautas? [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ERMOSDESASTRNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2223.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2223.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Mistério
+Lançamento: 1970
+
+Documentário baseado no livro de Erich Von Daniken sobre os antigos mistérios do mundo, como as pirâmides do Egito e do México, os antigos desenhos de cavernas, os monumentos da Ilha de Páscoa, etc., e o fato de que essas coisas e a civilização moderna poderiam ter sido influenciado por visitas extraterrestres, centenas (ou talvez milhares) de anos atrás.</info>
+ 
+<genre>Documentário, Mistério</genre>
+ 
+<date>01/01/1970</date>
+</item>"
+"<item>
+
 <title>007 A Serviço Secreto de Sua Majestade [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071969ASVCSCRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071969ASVCSCRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/21.jpg</image>
@@ -20,8 +39,27 @@ Em uma praia 007 (George Lazenby) evita que uma jovem mulher cometa suicídio. O
 </item>"
 "<item>
 
+<title>De Volta ao Planeta dos Macacos [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1809.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1809.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Mistério
+Lançamento: 1970
+
+Tentando resgatar Taylor, que desapareceu na missão anterior, Brent um outro astronauta, atravessa uma fenda do tempo e chega até 3955 D.C. Porém sua nave se espatifa no mesmo planeta em que Taylor desapareceu. Ao ir para a Zona Proibida, Brent gradativamente vê que aquilo são os escombros de Nova York. Paralelamente os símios resolvem atacar a Zona Proibida, que Brent ao explorar descobre uma raça de mutantes, que se comunicam telepaticamente e que adoram uma bomba atômica, que é capaz de destruir a Terra inteira.</info>
+ 
+<genre>Aventura, Ficção científica, Mistério</genre>
+ 
+<date>26/05/1970</date>
+</item>"
+"<item>
+
 <title>Cidade Violenta [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CIDAVIOLNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CIDAVIOLNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1527.jpg</image>
@@ -39,8 +77,46 @@ Em uma cidade preparada para explodir, um homem precisa apenas acender o estopim
 </item>"
 "<item>
 
+<title>Tora! Tora! Tora! [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TORTORTOR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5968.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5968.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 1970
+
+Retrata de forma realista, quase documental, tanto do ponto de vista japonês como do norte americano, mostrando a preparação, os eventos e os erros que possibilitaram o ataque a Pearl Harbor em 7 de Dezembro de 1941, fato que forçou a entrada dos Estados Unidos da América na Segunda Guerra Mundial. O título do filme é o código utilizado em caso de sucesso do ataque japonês, que traduzido para o português significa 'Tigre! Tigre! Tigre!'. A versão Americana tem 02:25. A versão Japonesa é mais longa, com 02:29.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>23/09/1970</date>
+</item>"
+"<item>
+
+<title>Elvis É Assim [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ELVSEASSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2123.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2123.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Música
+Lançamento: 1970
+
+É noite de estréia. Elvis Presley vestindo sua radiante jaqueta nova, aguarda com ansiedade sua entrada no palco. Se as músicas não funcionarem, ironiza, a gente pode fazer um desfile de moda. As músicas funcionam demais. Nesta Edição Especial do lendário Show filmado no verão de 1970 em Las Vegas. Rick Schmidlin, montador e restaurador , conseguiu recuperar mais de 30 minutos das músicas originais do filme, que permaneciam guardado nos cofres do estúdio à espera de sua renovação. As cenas adicionais mostram entre outras, performances das músicas Get Back, One Night e Suspicius Mind, em diferentes versões ao show original.</info>
+ 
+<genre>Documentário, Música</genre>
+ 
+<date>11/11/1970</date>
+</item>"
+"<item>
+
 <title>Aristogatas [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ARSTGTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ARSTGTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/947.jpg</image>
@@ -58,8 +134,46 @@ Uma milionária excêntrica pretende deixar toda sua fortuna para sua gata e os 
 </item>"
 "<item>
 
+<title>Verão de 42: Houve uma Vez um Verão  [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRAOD42.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6325.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6325.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 1971
+
+Aos quinze anos de idade, Hermie (Gary Grimes) vai passar as férias na praia. Durante esta viagem, ele procura respostas para suas dúvidas sobre a vida, a guerra, o amor e o sexo. Com a cabeça repleta de interrogações e sonhos, Hermie conhece uma mulher mais velha (Jennifer ONeal) e fica apaixonado. Começa assim, uma intensa relação onde Hermie busca aprofundar seu conhecimento sobre o mundo. E ela, por sua vez, busca no jovem adolescente o amor ausente de seu marido que partiu para a Guerra. Dentro de uma atmosfera romântica e sensível, Houve uma Vez um Verão se transforma numa apaixonante história de amor, onde desejos, sonhos e descobertas se misturam em um verão mágico e inesquecível.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>26/04/1971</date>
+</item>"
+"<item>
+
+<title>A Fuga do Planeta dos Macacos [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2436.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2436.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 1971
+
+Dois cientistas símios, Cornelius (Roddy McDowall) e Zira (Kim Hunter) - na verdade havia mais um, Milo (Sal Mineo), que morreu acidentalmente - retornam no tempo e chegam no século XX, em Los Angeles. Quando eles revelam sua habilidade para falar primeiramente são tratados como curiosidade, mas depois como uma grande ameaça, quando o governo crê na história que a Terra será dominada por chimpanzés e assim tenta evitar o nascimento do bebê de Zira.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>20/05/1971</date>
+</item>"
+"<item>
+
 <title>A Fantástica Fábrica de Chocolate [COLOR yellow][IMDb 7,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AFNTSCFBRCDCHCLT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AFNTSCFBRCDCHCLT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/279.jpg</image>
@@ -77,8 +191,46 @@ Um garoto pobre ganha o direito de visitar a fábrica de chocolates do excêntri
 </item>"
 "<item>
 
+<title>O Enigma de Andrômeda [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OENGMDANRMDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3946.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3946.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller
+Lançamento: 1971
+
+Quando praticamente todos os moradores de Piedmont, no Novo México, são encontrados mortos após a queda de um satélite espacial, o chefe do Projeto Scoop da Força Aérea dos EUA declara uma emergência. Então um grupo de cientistas, liderados pelo Dr. Jeremy Stone (Arthur Hill), vão para uma instalação ultra segura conhecida como Wildfire para tentar descobrir e isolar uma possível forma de vida extraterrestre.</info>
+ 
+<genre>Ficção científica, Thriller</genre>
+ 
+<date>10/11/1971</date>
+</item>"
+"<item>
+
+<title>Ensina-me a Viver [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESNMEAVIVR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2189.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2189.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 1971
+
+O relacionamento entre um rapaz de 20 anos com obsessão pela morte, que passa seu tempo indo a funerais ou simulando suicídios, e uma senhora de 79 anos encantada com a vida. Eles passam muito tempo juntos e, durante esta convivência, ela expõe a beleza da vida.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>20/12/1971</date>
+</item>"
+"<item>
+
 <title>007 Os Diamantes São Eternos [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071971OSDAMTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071971OSDAMTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601508.us.archive.org/12/items/11_20200901_20200901/30.jpg</image>
@@ -97,8 +249,46 @@ Quando o governo britânico suspeita da existência de uma rede mundial de contr
 </item>"
 "<item>
 
+<title>Operação França [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRCFRNC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4538.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4538.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 1972
+
+Baseado em uma história real, os detetives Doyle e Buddy Russo tentam desmascarar uma rede de tráfico de narcóticos e acabam descobrindo a Operação França. Quando um dos criminosos tenta matar Doyle, se inicia uma perseguição mortal que o leva muito além dos limites da cidade.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>07/01/1972</date>
+</item>"
+"<item>
+
+<title>Sexy e Marginal [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SXYEMRGNL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5506.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5506.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Romance, Thriller
+Lançamento: 1972
+
+Inspirado na vida da criminosa Bertha Thompson, que viveu na época da Grande Depressão, o filme conta a história de três homens e uma mulher que cometem vários crimes, incluindo prostituição e sequestro.</info>
+ 
+<genre>Crime, Drama, Romance, Thriller</genre>
+ 
+<date>14/06/1972</date>
+</item>"
+"<item>
+
 <title>A Conquista do Planeta dos Macacos [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/PLNTDSMCMCS4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS4.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/207.jpg</image>
@@ -116,8 +306,65 @@ Uma praga exterminou os cães e os gatos da face da Terra, o que fez com que os 
 </item>"
 "<item>
 
+<title>O Poderoso Chefão [COLOR yellow][IMDb 9,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4284.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4284.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1972
+
+Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>07/07/1972</date>
+</item>"
+"<item>
+
+<title>Loucuras Invisíveis [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOCRSINVSIVL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4646.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4646.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1972
+
+Garotos descobrem fórmula capaz de tornar as pessoas ou objetos invisíveis, mas nem tudo é alegria na vida deles. Bandidos tentam pegar a fórmula com objetivos nada corretos, levando a resultados desastrosos.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>12/07/1972</date>
+</item>"
+"<item>
+
+<title>Joe Kidd [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/JOEKD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2848.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2848.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1972
+
+Um bando de mexicanos acha que as reivindicações de terra dos EUA foram negadas e que todos os registros foram destruídos em um incêndio no tribunal. Seu líder, Louis Chama, encoraja-os a usar a força para recuperar suas terras. Um rico proprietário de terras que deseja o mesmo decide contratar uma gangue de assassinos com Joe Kidd para rastrear Chama.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>19/07/1972</date>
+</item>"
+"<item>
+
 <title>Corrida Silenciosa [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CORDSLNCSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CORDSLNCSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1715.jpg</image>
@@ -135,8 +382,27 @@ O tripulante de uma nave espacial que abriga as últimas reservas botânicas da 
 </item>"
 "<item>
 
+<title>Último Tango em Paris [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ULTMTNGOEMPRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6056.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6056.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1972
+
+Enquanto procura um apartamento em Paris, uma bela jovem (Maria Schneider) conhece um americano (Marlon Brando), cuja esposa cometeu suicídio recentemente. Instantaneamente um deseja o outro ardentemente e iniciam naquele momento um tórrido affair. Eles combinam que não revelariam nada de suas vidas, nem mesmo seus nomes, sendo que o objetivo dos encontros seria basicamente sexo. Mas, gradativamente, os acontecimentos vão fugindo do controle de ambos.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>14/10/1972</date>
+</item>"
+"<item>
+
 <title>A Fúria do Dragão [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AFRDRGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AFRDRGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/302.jpg</image>
@@ -154,8 +420,27 @@ Quando Chen Zhen descobre que seu venerado mestre foi morto em circunstâncias m
 </item>"
 "<item>
 
+<title>O Dragão Chinês [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ODRGOCHNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3937.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3937.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller
+Lançamento: 1972
+
+Quando Chen Zhen descobre que seu venerado mestre foi morto em circunstâncias misteriosas, decide viajar para Xangai para participar do funeral. Em seguida, ele começa a investigar as causas da morte e se depara com uma intriga envolvendo escolas de artes marciais. Exposta a conspiração, Chen precisa lutar violentamente para vingar-se dos assassinos.</info>
+ 
+<genre>Drama, Ação, Thriller</genre>
+ 
+<date>07/11/1972</date>
+</item>"
+"<item>
+
 <title>Brincadeira de Criança [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/BRNCDRDCRACA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRNCDRDCRACA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1333.jpg</image>
@@ -174,7 +459,7 @@ Jovem professor Paul Reis (Beau Bridges) ingressa em escola tradicional e se sur
 "<item>
 
 <title>A Menina e o Porquinho [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMNAEOPRQNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMNAEOPRQNHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/441.jpg</image>
@@ -192,8 +477,65 @@ Charlotte, é uma pequena aranha que tenta salvar a vida do porquinho Wilbur, te
 </item>"
 "<item>
 
+<title>No Mundo de 2020 [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NMUND2020.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3630.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3630.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Mistério, Ficção científica, Thriller
+Lançamento: 1973
+
+Em uma Terra futurista superpopulosa, um detetive da polícia de Nova York se vê marcado por assassinatos pelos agentes do governo quando ele fica muito perto de um estranho segredo de estado envolvendo as origens de um revolucionário e necessário novo alimento.</info>
+ 
+<genre>Crime, Mistério, Ficção científica, Thriller</genre>
+ 
+<date>27/07/1973</date>
+</item>"
+"<item>
+
+<title>Westworld - Onde Ninguém Tem Alma [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WSTWLDONDNGMTMALMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste
+Lançamento: 1973
+
+Num resort futurista, visitantes ricos podem visitar recriações de diferentes períodos da história e realizar suas fantasias mais selvagens com androides super realistas. Mas quando Richard Benjamin opta pelo velho oeste, acaba recebendo mais do que esperava quando um androide pistoleiro enlouquece.</info>
+ 
+<genre>Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste</genre>
+ 
+<date>15/08/1973</date>
+</item>"
+"<item>
+
+<title>Operação Dragão [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRCDRGO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4535.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4535.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1973
+
+O chefão chinês Han realiza um torneio de artes marciais em sua ilha-fortaleza, mas o evento serve apenas de desculpa para o recrutamento de novos distribuidores de ópio.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>17/08/1973</date>
+</item>"
+"<item>
+
 <title>Caminhos Perigosos [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CMNHSPRGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMNHSPRGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1413.jpg</image>
@@ -212,7 +554,7 @@ Harvey Keitel é Charlie, um homem que trabalha para crescer no submundo dos gue
 "<item>
 
 <title>Com 007 Viva e Deixe Morrer [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071973VIVADXMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071973VIVADXMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1593.jpg</image>
@@ -230,8 +572,65 @@ Três agentes britânicos são mortos no mesmo dia, ao investigarem o contraband
 </item>"
 "<item>
 
+<title>Robin Hood [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RBNHOD1973.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5270.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5270.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 1973
+
+Versão do clássico Robin Hood com animais silvestres. Robin Hood é um fora-da-lei que decide formar uma gangue na floresta de Sherwood para lutar contra as injustiças e tiranias do Príncipe João e do Xerife de Nottingham.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>08/11/1973</date>
+</item>"
+"<item>
+
+<title>Loucuras de Verão [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOCRSDVRAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3145.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3145.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1973
+
+Em 1962, na pequena cidade de Modesto, os jovens Curt (Richard Dreyfuss) e Steve (Ron Howard) passam sua última noite de verão antes de irem para a universidade, no leste. Nesta noite agitada vários acontecimentos ocorrem ao mesmo tempo. Laurie (Cindy Williams), irmã de Curt e namorada de Steve, briga com ele e acaba saindo de carro com o forasteiro Bob Falfa (Harrison Ford), que depois disputa um racha com o campeão da cidade. O desajeitado Teddy (Charles Martin Smith) pega o carro de Steve e consegue conquistar a destrambelhada Debbie (Candy Clark), enquanto Curt se junta à gangue dos Faraós e pratica pequenos crimes. Tudo isso ao som de uma trilha sonora ininterrupta com todos os grandes sucessos musicais da época.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>22/11/1973</date>
+</item>"
+"<item>
+
+<title>Inverno de Sangue em Veneza [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INVRNDSNGEMVENZA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2792.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2792.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Terror
+Lançamento: 1973
+
+Após um trágico acidente que matou sua filha, o casal Laura (Julie Christie) e John Baxter (Donald Sutherland) muda-se para Veneza, afim de esquecer a tragédia. Porém, quando chegam lá, uma estranha mulher começa a dizer que sua filha está enviando mensagens do mundo dos mortos, e os dois iniciam uma perigosa relação de curiosidade sobre o outro lado da vida.</info>
+ 
+<genre>Thriller, Drama, Terror</genre>
+ 
+<date>25/12/1973</date>
+</item>"
+"<item>
+
 <title>A Batalha do Planeta dos Macacos [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/PLNTDSMCMCS5.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS5.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/137.jpg</image>
@@ -249,8 +648,84 @@ Após derrotar os humanos opressores, Caesar (Roddy MacDowall) precisa agora man
 </item>"
 "<item>
 
+<title>Desafiando o Assassino [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DSFANDOASASNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1854.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1854.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 1974
+
+Bronson interpreta Majestyk, um ex-presidiário e veterano da Guerra do Vietnã, cujo esforço para tocar uma fazenda é perturbado por alguns cidadãos de mente estreita e por policiais corruptos. Mas quando um capanga da Máfia (Al Lettieri) destrói a colheita de Majestyk, o pavio do fazendeiro finalmente se incendeia. Com o rifle na mão e a namorada a tiracolo (Linda Cristal), ele parte em busca do bando de assassinos. Em caçadas em alta velocidade pelas estradas vicinais e explosivos confrontos, os bandidos e o rebelde se enfrentam em uma luta de igual para igual: inimigos até à morte.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>17/07/1974</date>
+</item>"
+"<item>
+
+<title>O Vôo do Dragão [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OVODRGO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4488.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4488.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime
+Lançamento: 1974
+
+Tang Lung viaja até a Itália para proteger sua amiga e dona de restaurante Cheng Ching Hua, que está sofrendo a extorsão de uma quadrilha para vender o local. Quando o chefe do bando vê o jovem lutador vencert todos os seus capangas, manda vir dos EUA um respeitado campeão mundial de karatê, Colt, para uma violenta luta final em pleno Coliseu.</info>
+ 
+<genre>Ação, Crime</genre>
+ 
+<date>07/08/1974</date>
+</item>"
+"<item>
+
+<title>O Massacre da Serra Elétrica [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OMSCRDSRELTRC1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4156.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4156.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1974
+
+Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. Só que dessa vez, o único sobrevivente do massacre vai contar em detalhes o que realmente aconteceu na deserta estrada do Texas, quando ele e mais 4 amigos estavam indo visitar o seu avô.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>01/10/1974</date>
+</item>"
+"<item>
+
+<title>O Sequestro do Metrô [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSQSTRDMTRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5740.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5740.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 1974
+
+Em um dia aparentemente comum, o policial Zach Garber, responsável pela segurança no metrô de Nova York, é surpreendido pelo sequestro da composição Pelham 1:23 PM por um bando misterioso. Os quatro criminosos, liderados por Blue e fortemente armados, exigem US$ 1 milhão para libertar os dezessete reféns com vida. Comandando a negociação, Garber tem uma hora para encontrar uma solução para o impasse. (e 14 - Estimado 14 Anos)</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>02/10/1974</date>
+</item>"
+"<item>
+
 <title>A Marca do Zorro [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</image>
@@ -268,8 +743,65 @@ Nos tempos de vitoria, Don Diego de La Vega retornou da Espanha para sua famíli
 </item>"
 "<item>
 
+<title>O Homem de Palha [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OHMNDPLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4085.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4085.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1974
+
+Uma jovem desaparece misteriosamente. Para investigar o desaparecimento, o Sargento Howie viaja para uma remota ilha escocesa onde conhece o esquisito Lord Summerisle, um líder religioso da pequena comunidade que realiza estranhos rituais pagãos.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>31/10/1974</date>
+</item>"
+"<item>
+
+<title>O Exorcista [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OEXRCSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3979.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3979.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1974
+
+Em Georgetown, Washington, uma atriz vai gradativamente tomando consciência que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que também um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>11/11/1974</date>
+</item>"
+"<item>
+
+<title>Emmanuelle [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EMANELE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2161.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2161.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1974
+
+Uma modelo, Emmanuelle (Sylvia Kristel), vai de Paris até Bangcoc, na Tailândia, para se encontrar com o marido, Jean (Daniel Sarky), que atua no corpo diplomático. Lá Emmanuelle tem aventuras amorosas com homens e mulheres do novo círculo de amizades, apesar de amar Jean. Ele também tem casos extraconjugais, no entanto ambos aceitam este comportamento, que Emmanuelle se recusa a rotular de traição, pois não há mentiras entre eles.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>03/12/1974</date>
+</item>"
+"<item>
+
 <title>007 Contra o Homem com a Pistola de Ouro [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071974CNTROHMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071974CNTROHMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/17.jpg</image>
@@ -288,8 +820,198 @@ Quando uma bala de ouro chega ao quartel-general da inteligência britânica com
 </item>"
 "<item>
 
+<title>O Poderoso Chefão: Parte II [COLOR yellow][IMDb 9,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4285.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4285.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1975
+
+Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>14/02/1975</date>
+</item>"
+"<item>
+
+<title>Rollerball: Os Gladiadores do Futuro [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ROLRBLOGLDRDFTRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5295.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5295.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 1975
+
+Em uma sociedade futurista, as corporações têm substituído países e existe um jogo recreativo e violento conhecido como""Rollerball"", o qual é controlado pelas organizações e jogado em todo o mundo. Em um determinado momento, Jonathan E., um dos jogadores, decide lutar por sua liberdade e deixa o controle da corporação em perigo.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>25/06/1975</date>
+</item>"
+"<item>
+
+<title>Tubarão [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TBRAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6028.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6028.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Aventura
+Lançamento: 1975
+
+Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para caçar o animal. Mas a missão vai ser mais complicada do que eles imaginavam.</info>
+ 
+<genre>Terror, Thriller, Aventura</genre>
+ 
+<date>07/07/1975</date>
+</item>"
+"<item>
+
+<title>Monty Python em Busca do Cálice Sagrado [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MNTYPTHEMBSCDCLCESGDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Fantasia
+Lançamento: 1975
+
+O Rei Artur sai à procura de cavaleiros que o acompanhe em uma atabalhoada jornada histórica: a busca do Santo Graal. Aparecem então Sir Lancelot, o Bravo; Sir Robin, o Não-Tão-Bravo-Quanto-Sir-Lancelot; Sir Galahad, o Puro, entre outros personagens surreais. Escrita pelo genial grupo de comédia britânico Monty Python, a trama do longa satiriza diversos eventos históricos ocorridos na Idade Média.</info>
+ 
+<genre>Aventura, Comédia, Fantasia</genre>
+ 
+<date>13/08/1975</date>
+</item>"
+"<item>
+
+<title>Um Dia de Cão [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMDIADCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6099.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6099.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 1975
+
+Um homem rouba um banco; o assalto se torna uma situação de reféns e um circo midiático.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>21/09/1975</date>
+</item>"
+"<item>
+
+<title>Lutador de Rua [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LTDRSRUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3161.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3161.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1975
+
+Durante a Grande Depressão, um desempregado se une a um promotor de lutas de rua para poder sobreviver. Falando pouco e lutando muito, ele consegue vitórias expressivas e uma razoável quantia. Porém seu empresário, que ganhou tanto quanto ele, se encontra em sérias dificuldades financeiras. Os dois acabam se desentendendo e se separando, mas a única chance do seu antigo promotor se salvar desta situação é convencê-lo a participar de uma grande luta sem público, com um lutador de Chicago.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>08/10/1975</date>
+</item>"
+"<item>
+
+<title>Emmanuelle 2 - Antivirgem [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EMANELE2ANTVRGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2162.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2162.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1975
+
+Deixando a Tailândia, Emmanuelle (Sylvia Kristel) navega para Hong Kong para ir ao encontro de seu marido, Jean (Umberto Orsini), com quem mantêm um casamento aberto. Ao chegar descobre que ele convidara Christopher (Frédéric Lagache) para ficar hospedado na casa deles. Ela tenta seduzir o hóspede mas não obtém sucesso, pois ele prefere a companhia de asiáticas, o que o faz estar sempre no Jardim de Jade, um prostíbulo. Emmanuelle conhece Laura (Florence L. Afuma), com quem Jean teve um caso. Paralelamente ela tem suas aventuras amorosas, mas o futuro lhes reserva a mesma pessoa.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>15/12/1975</date>
+</item>"
+"<item>
+
+<title>O Anjo e o Marginal [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OANJEOMRGNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3777.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3777.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Crime
+Lançamento: 1976
+
+Bela jovem se mete com fora-da-lei e sua gangue, participando de ações criminosas.</info>
+ 
+<genre>Ação, Drama, Crime</genre>
+ 
+<date>01/03/1976</date>
+</item>"
+"<item>
+
+<title>Taxi Driver: Motorista de Táxi [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TXDRVRMTRSTDTX.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5810.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5810.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 1976
+
+O motorista de táxi de Nova York Travis Bickle, veterano da Guerra do Vietnã, reflete constantemente sobre a corrupção da vida ao seu redor e sente-se cada vez mais perturbado com a própria solidão e alienação. Apesar de não conseguir fazer contato emocional com ninguém e viver uma vida questionável em busca de diversão, ele se torna obcecado em ajudar uma prostituta de 12 anos que entra em seu táxi para fugir de um cafetão.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>22/03/1976</date>
+</item>"
+"<item>
+
+<title>Os Últimos Machões [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OULTMSMCHOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4709.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4709.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1976
+
+No início do século XX, alguns presos realizam uma fuga e criam uma gangue que cruza o deserto. Um desses homens é Zach Provo (Coburn), um meio índio que foi capturado por Sam Burgade (Heston) e enviado para a prisão durante a última parte do século XIX.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>22/04/1976</date>
+</item>"
+"<item>
+
 <title>A Dupla Explosiva [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADPLEXPL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ADPLEXPL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/230.jpg</image>
@@ -307,8 +1029,27 @@ O mecânico Ben (Bud Spencer) mora e trabalha numa oficina com o velhinho Jeremi
 </item>"
 "<item>
 
+<title>O Trem do Inferno [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OTRMDINFRNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4440.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4440.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Faroeste, Mistério
+Lançamento: 1976
+
+Um trem carregando medicamentos e suplementos para o Exército norte-americano precisa atravessar montanhas rochosas através do Forte Humboldt. Entre os passageiros, está o governador, um padre, médicos e um prisioneiro, Jonh Deaking (Charles Bronson). Porém, nada neste trem é o que parece ser.</info>
+ 
+<genre>Thriller, Faroeste, Mistério</genre>
+ 
+<date>05/05/1976</date>
+</item>"
+"<item>
+
 <title>A Profecia [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APRFCA1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/APRFCA1.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/555.jpg</image>
@@ -326,8 +1067,65 @@ O embaixador americano e a esposa querem muito ter filhos. Quando ela dá à luz
 </item>"
 "<item>
 
+<title>Os 12 Trabalhos de Asterix [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OS12TRBLHSDASTRX.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4567.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4567.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Comédia, Aventura
+Lançamento: 1976
+
+Depois de mais uma tentativa de conquistar a vila gaulesa, alguns dos senadores romanos começam a suspeitar de que os moradores dali são, na verdade, uma espécie de deuses. César, para manter seu trono, envia à vila uma lista com doze tarefas que só poderiam ser realizadas por seres superiores. Se os gauleses vencerem o desafio, ele admitiria sua derrota. Caso contrário, se tornariam seus escravos. A proposta é aceita. Asterix, por ser o mais esperto, e Obelix, por ser o mais forte, são escolhidos para representar a vila. Com o peso de não falhar em uma só tarefa, os dois saem para cumprir os doze trabalhos e manter a dignidade gaulesa.</info>
+ 
+<genre>Família, Animação, Comédia, Aventura</genre>
+ 
+<date>26/06/1976</date>
+</item>"
+"<item>
+
+<title>Calafrios [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CALFRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3761.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3761.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1976
+
+Num condomínio fechado localizado em uma bela ilha canadense, os turistas estão lentamente cedendo à loucura. Um estranho vírus toma conta de seus corpos, infectando a todos. Os sintomas são incontroláveis: homens e mulheres são acometidos de acessos de violência e desejo… Não há como escapar, nem onde se esconder …Enfim, entregam-se a um comportamento sexual animalesco e bizarro. Nonsense, humor penetrante, terror e morte, o filme mais escatológico de Cronenberg. Neste filme a mortal epidemia ganha contornos de uma doença altamente contagiosa, que hoje em dia poderíamos associar com o HIV e a guerra biológica.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>06/07/1976</date>
+</item>"
+"<item>
+
+<title>Verão de Ilusões [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRAODILSOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6326.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6326.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1976
+
+Rick está com 30 anos, mas ainda trabalha em tempo integral como salva-vidas nas praias de Los Angeles, na Califórnia. Ele gosta de se divertir, mas ainda mais dos momentos de silêncio. No entanto, quando ele encontra sua namorada de faculdade divorciada e seu filho de 5 anos, ele considera a mudança para uma forma mais 'séria' de trabalho '.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>23/07/1976</date>
+</item>"
+"<item>
+
 <title>Carrie, A Estranha [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CRIEAESTNH1976.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRIEAESTNH1976.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1456.jpg</image>
@@ -345,8 +1143,65 @@ A quieta e sensível adolescente Carrie White enfrenta insultos dos colegas na e
 </item>"
 "<item>
 
+<title>King Kong [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KNKONG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2979.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2979.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama
+Lançamento: 1976
+
+Uma expedição de exploração de petróleo chega a uma ilha isolada e encontra um colossal gorila gigante.</info>
+ 
+<genre>Aventura, Drama</genre>
+ 
+<date>17/12/1976</date>
+</item>"
+"<item>
+
+<title>Rocky: Um Lutador [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKY1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5291.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5291.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1977
+
+Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filadélfia, é arbitrariamente escolhido para lutar contra o campeão dos pesos pesados, Apollo Creed, quando o adversário do invicto lutador agendado para a luta é ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente começa um relacionamento com Adrian, a invisível irmã de Paulie, seu amigo empacotador de carne.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>06/01/1977</date>
+</item>"
+"<item>
+
+<title>Keoma [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KEOMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2958.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2958.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste
+Lançamento: 1977
+
+Ao final da Guerra Civil Americana, um pistoleiro mestiço, cansado de fazer da morte um meio de vida, retorna para aquilo que um dia costumava ser seu lar. Seu nome é Keoma. Porém, agora sua cidade natal está totalmente destruída pela peste e sob o comando de um homem chamado Capitão Caldwell. Seus meio-irmãos Butch, Sam e Lenny trabalham para o Capitão e Keoma se vê sozinho contra todos eles. Agora ele está preso no meio de uma batalha selvagem entre inocentes colonos, bandidos sádicos e seus meio-irmãos. Em uma terra de ninguém, o grito de um homem ecoa clamando por justiça... a qualquer custo, um preço que será pago a balas!</info>
+ 
+<genre>Ação, Faroeste</genre>
+ 
+<date>27/01/1977</date>
+</item>"
+"<item>
+
 <title>As Aventuras do Ursinho Puff [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ASMTSAVNTRSDUSRNPF.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASMTSAVNTRSDUSRNPF.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1030.jpg</image>
@@ -365,7 +1220,7 @@ Em três deliciosas aventuras, Puff e seus amigos enfrentam uma enchente, se env
 "<item>
 
 <title>As Duas Vidas de Audrey Rose [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASDSVDSDAUDRYRSE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASDSVDSDAUDRYRSE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1007.jpg</image>
@@ -383,8 +1238,46 @@ Um estranho tenta convencer um feliz casal de que a filha deles é na verdade a 
 </item>"
 "<item>
 
+<title>Snowbeast: O Monstro Da Neve [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OMONSTRNVE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5570.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5570.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Cinema TV
+Lançamento: 1977
+
+Violentos ataques ocorrem em uma estação de ski no Colorado durante um festival de inverno, onde vários esquiadores são devorados por algum animal da floresta. O que a princípio, todos pensam ser um urso logo se revela uma abominável e perigosa criatura.</info>
+ 
+<genre>Terror, Cinema TV</genre>
+ 
+<date>28/04/1977</date>
+</item>"
+"<item>
+
+<title>O Exorcista II - O Herege [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OEXRCSTA2OHRGE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3981.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3981.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Fantasia, Drama
+Lançamento: 1977
+
+Anos depois de ter sido libertada pelas forças do mal, a jovem Regan (Linda Blair) volta a ouvir vozes e ter delírios. Com a ajuda de uma psicanalista, ela tenta se curar, mas só mesmo com uma sessão de exorcismo que poderá afastar de vez o demônio. Ao mesmo tempo, um padre investiga a morte do exorcista que ajudou a menina durante o seu primeiro surto.</info>
+ 
+<genre>Terror, Thriller, Fantasia, Drama</genre>
+ 
+<date>17/06/1977</date>
+</item>"
+"<item>
+
 <title>Bernardo e Bianca [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BRNDEBINCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BRNDEBINCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1253.jpg</image>
@@ -403,7 +1296,7 @@ A Sociedade de Proteção e Ajuda, formada por camundongos de diversos países, 
 "<item>
 
 <title>Alguém Lá em Cima Gosta de Mim [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALGMLEMCMGSTDMIN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALGMLEMCMGSTDMIN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/749.jpg</image>
@@ -421,8 +1314,27 @@ Tarzana, Califórnia. Jerry Landers (John Denver), o subgerente de um supermerca
 </item>"
 "<item>
 
+<title>Na Trilha do Inferno Nuclear [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/NTRLHDINFRNCLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3545.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3545.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1977
+
+Depois da Terra ser destruída num conflito nuclear, cinco sobreviventes enfrentam perigos percorrendo os EUA à procura de outras pessoas.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>21/10/1977</date>
+</item>"
+"<item>
+
 <title>007 O Espião Que Me Amava [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071977OESPNHQMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071977OESPNHQMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/27.jpg</image>
@@ -440,8 +1352,103 @@ A Inglaterra descobre que alguém sabe como rastrear um submarino submerso e est
 </item>"
 "<item>
 
+<title>Star Wars: Episódio IV - Uma Nova Esperança [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRWRSIV.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5653.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5653.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 1977
+
+A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>17/11/1977</date>
+</item>"
+"<item>
+
+<title>O Incrível Homem que Derreteu [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OINCVLHMNQDRTEU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4109.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4109.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 1977
+
+Como único sobrevivente da missão e com o corpo todo coberto de feridas pútridas, ele acorda no leito de um hospital do exército todo enfaixado, com o governo mantendo em sigilo o fracasso da expedição e a morte dos outros dois astronautas, isolando a imprensa e a população dos fatos reais.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>01/12/1977</date>
+</item>"
+"<item>
+
+<title>O Natal dos Flinstones [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/NTLDSFLSTNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6151.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6151.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Cinema TV, Comédia, Família
+Lançamento: 1977
+
+O Natal dos Flinstones é um especial de televisão animado de Natal de 1977, com personagens da franquia Os Flintstones. Foi produzido por Hanna-Barbera e é o segundo trabalho animado de Natal da franquia, depois do episódio de 1964 ""Natal dos Flinstones""</info>
+ 
+<genre>Animação, Cinema TV, Comédia, Família</genre>
+ 
+<date>07/12/1977</date>
+</item>"
+"<item>
+
+<title>Adeus, Emmanuelle [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EMANELE3ADSEMANELE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2163.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2163.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1977
+
+Na derradeira aparição de Sylvia Kristel no papel principal, Emmanuelle leva uma vida liberal e alegre nas ilhas Seychelles com o seu marido, até a chegada de um jovem cineasta, cheio de idéias para o seu novo filme. É quando o ciúme se interpõe na relação. Emmanuelle agora procura emoções ainda mais fortes.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>15/12/1977</date>
+</item>"
+"<item>
+
+<title>Orca: A Baleia Assassina [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORCABLEASASNA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4559.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4559.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Terror
+Lançamento: 1977
+
+Orca, uma baleia assassina, testemunhou a trágica morte de sua companheira prenha por Nolan, capitão de um navio pescador. A intenção era capturar um tubarão branco, mas o arpão acabou atingindo com tudo o animal. Inconformado, o macho levará toda a sua fúria e poder de morte para o porto de pescadores. Sob a pressão dos aldeões, Nolan terá que fazer alguma coisa para expulsar o animal das redondezas.</info>
+ 
+<genre>Aventura, Terror</genre>
+ 
+<date>15/12/1977</date>
+</item>"
+"<item>
+
 <title>Contatos Imediatos do Terceiro Grau [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTSIMDATSDTRCROGRU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNTSIMDATSDTRCROGRU.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801400.us.archive.org/20/items/1681_20200924/1665.jpg</image>
@@ -459,8 +1466,65 @@ Em uma pequena cidade americana vive Roy Neary (Richard Dreyfuss), um chefe de f
 </item>"
 "<item>
 
+<title>Queimando Tudo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/QUMANDTDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5142.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5142.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1978
+
+Cheech e Chong se conheceram e logo são presos e eventualmente deportados para o México. Para conseguirem regressar aos Estados Unidos, a dupla recebe inadvertidamente uma van feita de maconha, que ao longo do trajeto deixa todos os que seguem chapados e acabam parando em um festival de rock.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>01/01/1978</date>
+</item>"
+"<item>
+
+<title>Se Não Me Mato, Morro! [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SENMEMTOMRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5405.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5405.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1978
+
+Burt Reynolds está aqui no papel de um homem que, ao saber que tem pouco tempo de vida, procura antecipar-se ao talvez, doloroso fim. Mas tanto fracassa em todas as suas tentativas que resolve desistir. Porém, um maníaco de origem polonesa cisma de ajudá-lo a dar fim à própria vida.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>10/05/1978</date>
+</item>"
+"<item>
+
+<title>Damien: A Profecia II [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/APRFCA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1781.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1781.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1978
+
+Um casal manda seu sobrinho órfão para a escola militar, onde ele descobre que é o anticristo. Depois de alguma relutância em aceitar o fato, ele passa a usar seus poderes satânicos para matar qualquer um que suspeite de sua herança demoníaca.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>09/06/1978</date>
+</item>"
+"<item>
+
 <title>Comboio [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CMBIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMBIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1610.jpg</image>
@@ -478,8 +1542,46 @@ Baseado na música de C.W. McCall, Comboio narra a história de um lendário cam
 </item>"
 "<item>
 
+<title>Os Embalos de Sábado à Noite [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSEMBLDSBDANT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4615.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Comédia
+Lançamento: 1978
+
+Tony Manero (John Travolta), um jovem do Brooklyn e um excelente dançarino de disco music, só encontra significado na vida quando dança, pois passar a semana trabalhando em uma loja de tintas não o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influência de seu irmão, um padre frustrado, e de Stephanie (Karen Lynn Gorney), sua parceira de dança, começa a questionar a maneira como encara a vida e a limitação de suas perspectivas. Paralelamente Tony vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca.</info>
+ 
+<genre>Drama, Música, Comédia</genre>
+ 
+<date>03/07/1978</date>
+</item>"
+"<item>
+
+<title>Golpe Sujo [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GLPSJO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2516.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2516.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Mistério, Thriller
+Lançamento: 1978
+
+Goldie Hawn no papel de uma bibliotecária que acidentalmente descobre um complô para assassinar o Papa Pio XIII, quando de sua visita à Cidade de São Francisco, por um esquisito grupo de vilões. Uma caçada selvagem se sucede na busca dos perigosos assassinos. Ao lado de Goldie Hawn, está o grande comediante americano Chevy Chase (Tomy), que interpreta um oficial de polícia. Entre investigações e buscas, o oficial da polícia local se apaixona pela moça.</info>
+ 
+<genre>Comédia, Mistério, Thriller</genre>
+ 
+<date>14/07/1978</date>
+</item>"
+"<item>
+
 <title>Clube dos Cafajestes [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CLBEDSCFJSTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLBEDSCFJSTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1561.jpg</image>
@@ -497,8 +1599,103 @@ Uma das comédias de universidade mais famosas de todos os tempos. Uma briga ent
 </item>"
 "<item>
 
+<title>Laranja Mecânica [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LRNJMCNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3033.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3033.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Drama
+Lançamento: 1978
+
+No futuro, o violento Alex (Malcolm McDowell), líder de uma gangue de delinquentes que matam, roubam e estupram, cai nas mãos da polícia. Preso, ele recebe a opção de participar em um programa que pode reduzir o seu tempo na cadeia. Alex vira cobaia de experimentos destinados a refrear os impulsos destrutivos do ser humano, mas acaba se tornando impotente para lidar com a violência que o cerca.</info>
+ 
+<genre>Ficção científica, Drama</genre>
+ 
+<date>04/09/1978</date>
+</item>"
+"<item>
+
+<title>O Mestre Invencível [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OMSTRINVCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4188.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4188.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 1978
+
+Ao retornar para casa após uma viagem, o lendário herói das artes marciais Wong Fei-Hung (Jackie Chan), é acidentalmente preso em meio a uma batalha entre estrangeiros que desejam exportar valiosas antiguidades chinesas, e pessoas que não querem que essas relíquias deixem o país. Wong Fei Hong aprendeu um letal estilo de arte marcial conhecida como ""a luta do bêbado"", o que o torna uma pessoa mortal. Infelizmente, seu pai é contra qualquer tipo de luta, principalmente um estilo em que seja necessário ficar bêbado. E assim, o proíbe de beber novamente, mas felizmente para Wong, sua mãe (Anita Mui) pretende quebrar a regra e jogar uma garrafa após outra para seu filho durante seus combates. Agora, Wong não só precisa lutar contra os gananciosos estrangeiros, como também precisa dominar o antagonismo de seu pai. Extraordinárias seqüências de lutas, cheias de ação maravilhosamente coreografadas e muita emoção, fazem deste filme um verdadeiro clássico do espetacular Jackie Chan.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>05/10/1978</date>
+</item>"
+"<item>
+
+<title>O Expresso da Meia-Noite [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OEXPRSDMENT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3984.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3984.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1978
+
+Billy Hayes (Brad Davis), um estudante americano, ao visitar a Turquia decide traficar alguns pacotes de haxixe, prendendo-os debaixo de suas roupas. Seu plano acaba não dando certo e ele é preso, com sua vida se transformando em um pesadelo a partir de então, pois é brutalmente espancado e jogado em uma imunda prisão. Quando espera ser libertado é levado a um novo julgamento com efeito retroativo, que o condena a uma longa pena.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>06/10/1978</date>
+</item>"
+"<item>
+
+<title>O Cão do Diabo [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCAODODIBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3840.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3840.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Cinema TV
+Lançamento: 1978
+
+Um cão que é servo do demônio aterroriza e possui os membros de uma família suburbana.</info>
+ 
+<genre>Terror, Cinema TV</genre>
+ 
+<date>31/10/1978</date>
+</item>"
+"<item>
+
+<title>Piranha [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4915.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4915.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Ficção científica, Comédia
+Lançamento: 1978
+
+Uma investigadora é contratada para descobrir o paradeiro de duas pessoas. Ela viaja pelos locais em que os dois estiveram até chegar em um acampamento. Encontra uma pessoa que lhe ajuda a investigar um militar que mora ao lado do local. Lá eles descobrem um laboratório onde estão diversos animais bizarros. Ao escoar a água do local eles encontram dois esqueletos que podem ser de quem procuravam. Quando descobrem que o local abrigava piranhas mutantes, criadas para serem usadas como arma na Guerra do Vietnã. Agora soltas, elas começam a fazer seguidas vítimas.</info>
+ 
+<genre>Terror, Thriller, Ficção científica, Comédia</genre>
+ 
+<date>30/11/1978</date>
+</item>"
+"<item>
+
 <title>As Condenadas [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASCNADSCLGLRECRNDCMHTLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASCNADSCLGLRECRNDCMHTLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601405.us.archive.org/13/items/974_20200914/996.jpg</image>
@@ -516,8 +1713,160 @@ Um sobrevivente judeu da Segunda Guerra Mundial revisita as ruínas de um campo 
 </item>"
 "<item>
 
+<title>Superman: O Filme [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5764.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5764.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 1978
+
+Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>13/12/1978</date>
+</item>"
+"<item>
+
+<title>Tubarão 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TBRAO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6029.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6029.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1978
+
+Passaram-se quatro anos desde que o tubarão branco apavorou a população da, até então, pacífica praia de Amity. Quando tudo parecia mais calmo, uma nova criatura aparece para aterrorizar a região, agora alvo de uma intensa especulação imobiliária. O chefe de polícia Martin Brody (Roy Scheider) vai lutar contra o tempo para salvar toda a população das garras desse animal.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>22/12/1978</date>
+</item>"
+"<item>
+
+<title>Os Flintstones Encontram Pedrácula e Frankenstone [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSFLSTNSENCRTMPDRCEFRNKSTNE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4631.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4631.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Comédia, Animação
+Lançamento: 1979
+
+Ao participarem de um concurso, os Flintstones e os Rubbles ganham uma viagem para um castelo na Rocksilvânia e acabam tendo um desagradável encontro com o Conde Pedrácula e seu criado Frankenstone.</info>
+ 
+<genre>Família, Comédia, Animação</genre>
+ 
+<date>01/01/1979</date>
+</item>"
+"<item>
+
+<title>S.O.S. - Submarino Nuclear [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SOSBMRDNCLR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5324.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5324.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Aventura, História, Drama
+Lançamento: 1979
+
+O USS Neptune, um submarino nuclear, acabou de afundar ao largo da costa de Connecticut após uma colisão com um navio de carga norueguês. A Marinha deve tentar um resgate potencialmente perigoso, na esperança de salvar a vida da tripulação. Um capitão da marinha usa o seu ""Snark"" experimental para chegar até o submarino.</info>
+ 
+<genre>Thriller, Aventura, História, Drama</genre>
+ 
+<date>01/01/1979</date>
+</item>"
+"<item>
+
+<title>Hardcore: No Submundo do Sexo [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/HRDCRNSBMNDSXO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3751.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3751.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 1979
+
+A conservative Midwest businessman ventures into the sordid underworld of pornography in California to look for his runaway teenage daughter who is making porno films in the porno pits of Los Angeles.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>09/02/1979</date>
+</item>"
+"<item>
+
+<title>Hair [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/HAIR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2566.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2566.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Música, Romance, Guerra
+Lançamento: 1979
+
+""Hair"" é uma adaptação cômico-dramática-musical do musical da Broadway de 1968 ""Hair: An American Tribal Love-Rock Musical"". Claude (John Savage), um jovem do Oklahoma que foi recrutado para a guerra do Vietnã, está indo se apresentar no campo de treinamento do exército. No meio do caminho ele passa por Nova York onde conhece e é ""adotado"" por um grupo de hippies comandados por Berger (Treat Williams), que como seus amigos tem conceitos nada convencionais sobre o comportamento social e tenta convencê-lo dos absurdos da atual sociedade. Acaba sendo rapidamente conquistado pela subcultura juvenil do Paz e Amor. Lá Claude também se apaixona por Sheila (Beverly D'Angelo), uma jovem proveniente de uma rica família.</info>
+ 
+<genre>Drama, Comédia, Música, Romance, Guerra</genre>
+ 
+<date>08/04/1979</date>
+</item>"
+"<item>
+
+<title>O Jogo da Morte [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/JOGDMRT1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2854.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2854.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller, Crime
+Lançamento: 1979
+
+Bruce Lee é um famoso mestre de artes marciais que estrela em muitos filmes. Depois de uma mal sucedida tentativa de homicídio, finge estar morto, mas ele está apenas se escondendo, preparando sua vingança ...</info>
+ 
+<genre>Drama, Ação, Thriller, Crime</genre>
+ 
+<date>08/06/1979</date>
+</item>"
+"<item>
+
+<title>Rocky II - A Revanche [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RCKY2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5286.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5286.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1979
+
+Após a luta contra Apollo Creed, Rocky promete à sua esposa largar os ringues. Mas os fãs de boxe insistem em uma revanche entre os dois pugilistas. Sem dinheiro, Rocky se vê obrigado a aceitar o desafio e recebe a benção da esposa para lutar. Agora o lutador deve se preparar para o combate do século e decide treinar intensamente, sonhando apenas em terminar a luta sem ser nocauteado pelo campeão.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>15/06/1979</date>
+</item>"
+"<item>
+
 <title>A Gangue da Pesada [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AGANGDPSDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AGANGDPSDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/304.jpg</image>
@@ -536,7 +1885,7 @@ Sexo, álcool e brigas são tudo na vida dos membros de algumas gangues, o filme
 "<item>
 
 <title>Cactus Jack, o Vilão [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CACTSJCKOVLAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CACTSJCKOVLAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1387.jpg</image>
@@ -555,7 +1904,7 @@ Um atraente desconhecido (Arnold Schwarzenegger) concorda em acompanhar a jovem 
 "<item>
 
 <title>A Cidade do Horror [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ACIDHNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACIDHNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/198.jpg</image>
@@ -574,7 +1923,7 @@ Horror em Amityville: Após se mudarem para uma casa onde aconteceram terríveis
 "<item>
 
 <title>Alien, O 8º Passageiro [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALIEN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALIEN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/761.jpg</image>
@@ -593,7 +1942,7 @@ Durante seu retorno à Terra, uma nave espacial de mineração tem seu rumo alte
 "<item>
 
 <title>007 Contra o Foguete da Morte [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/0071979CNTROFGUT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071979CNTROFGUT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/16.jpg</image>
@@ -612,8 +1961,27 @@ Um avião carregando um foguete espacial sofre um acidente, mas quando o Serviç
 </item>"
 "<item>
 
+<title>Muppets - O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MUPTSOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Aventura, Comédia, Família
+Lançamento: 1979
+
+Após um encontro casual com um agente, Caco decide ir para Hollywood buscar espaço no show business. Fozzie, Gonzo e Miss Piggy juntam-se a ele, na esperança de também se tornarem grandes astros. No caminho, porém, Caco acaba nas mãos do Doutor Hopper, perigoso dono de uma rede de restaurantes.</info>
+ 
+<genre>Música, Aventura, Comédia, Família</genre>
+ 
+<date>05/10/1979</date>
+</item>"
+"<item>
+
 <title>A Mansão Marsten [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMNSAOMRSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMNSAOMRSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/425.jpg</image>
@@ -632,7 +2000,7 @@ Adaptação de 1979 da televisão americana do romance ""Salem's Lot"" de Stephe
 "<item>
 
 <title>1941 - Uma Guerra Muito Louca [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/1941UGML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/1941UGML.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/62.jpg</image>
@@ -652,7 +2020,7 @@ Após o ataque japonês à Pearl Harbor, os residentes da Califórnia entram em 
 "<item>
 
 <title>Apocalypse Now [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/APCLPSNW.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/APCLPSNW.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/921.jpg</image>
@@ -667,4 +2035,23 @@ Durante a guerra do Vietnã, o Capitão Willard recebe como missão ir ao Camboj
 <genre>Drama, Guerra</genre>
  
 <date>16/12/1979</date>
+</item>"
+"<item>
+
+<title>O Franco Atirador [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OFRNCATRDR1978.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4019.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4019.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 1979
+
+Três amigos recrutados para a guerra do Vietnã são capturados pelos vietcongues. Além de maltratados fisicamente, é a tortura psicológica e um jogo de roleta russa entre eles que os fará repensar o motivo de tudo aquilo.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>25/12/1979</date>
 </item>"
