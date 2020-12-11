@@ -1,7 +1,7 @@
 "<item>
 
 <title>Cinderela [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNDRLA1950.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNDRLA1950.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1529.jpg</image>
@@ -20,7 +20,7 @@ Cinderela vive com sua madrasta, Lady Tremaine, e as duas filhas dela. Obrigada 
 "<item>
 
 <title>A Malvada [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMLVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/422.jpg</image>
@@ -38,8 +38,46 @@ Margo Channing é uma reconhecida atriz da Broadway que está envelhecendo e Eve
 </item>"
 "<item>
 
+<title>Sansão e Dalila [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SNSOEDLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5352.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5352.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Aventura
+Lançamento: 1951
+
+Sansão, um forte homem de uma tribo escravizado pelos filisteus, se apaixona por Semadar, uma devota ao reino dominante que se envolve com Ahtur, o que leva a uma guerra entre os dois povos. Na briga, Semadar acaba morta e sua irmã Dalila, que sempre amou Sansão secretamente, jura vingança. Ela planeja seduzi-lo para que ele revele seu segredo para entregá-lo ao seu líder, Saran de Gaza.</info>
+ 
+<genre>Drama, Romance, Aventura</genre>
+ 
+<date>16/02/1951</date>
+</item>"
+"<item>
+
+<title>Um Lugar ao Sol [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMLGRAOSOL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6135.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6135.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1951
+
+O jovem e pobre George Eastman (Montgomery Clift) deixa sua mãe religiosa em Chicago e vai para a Califórnia esperando encontrar um emprego melhor nos negócios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que há muitas mulheres na fábrica e a regra básica é que ele não deve paquerar qualquer uma delas. George encontra a operária Alice Tripp no cinema e eles começam a namorar. No entanto o marginalizado George é promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta à alta sociedade local e eles se apaixonam. Mas Alice está grávida e ela quer se casar com George.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>28/08/1951</date>
+</item>"
+"<item>
+
 <title>Alice no País das Maravilhas [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ALCNPASDSMARLVHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALCNPASDSMARLVHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/756.jpg</image>
@@ -58,7 +96,7 @@ Alice é uma garota curiosa e cansada da monotonia de sua vida. Um dia, ao segui
 "<item>
 
 <title>Cantando na Chuva [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/CNTNDNCHVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNTNDNCHVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1424.jpg</image>
@@ -77,7 +115,7 @@ Don Lockwood (Gene Kelly) e Lina Lamont (Jean Hagen) são dois dos astros mais f
 "<item>
 
 <title>As Aventuras de Peter Pan [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/PTRPN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PTRPN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601405.us.archive.org/13/items/974_20200914/979.jpg</image>
@@ -93,10 +131,11 @@ Deixando o conforto e segurança de seus lares, Wendy, Miguel e João seguem Pet
  
 <date>10/04/1953</date>
 </item>"
+
 "<item>
 
 <title>A Última Vez Que Vi Paris [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AULTMVZQVIPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AULTMVZQVIPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/647.jpg</image>
@@ -114,8 +153,122 @@ Charles Wills (Van Johnson) é um escritor que volta a Paris para reencontrar a 
 </item>"
 "<item>
 
+<title>O Rio das Almas Perdidas [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORIDSAMLSPRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4383.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4383.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Música, Romance, Faroeste
+Lançamento: 1955
+
+Em 1875, durante a corrida do ouro nos Estados Unidos, Matt Calder (Robert Mitchum), um ex-presidiário que recentemente saiu da cadeia, reencontra Mark Calder (Tommy Retting), seu jovem filho que nada sabe do seu passado. Com ele planeja se estabelecer como fazendeiro. Algum tempo depois os dois socorrem Kay Weston (Marilyn Monroe), uma cantora de saloon que conheciam, e Harry Westo (Rory Calhoun), seu namorado, quando tentavam atravessar um perigoso rio em uma balsa. Mas Harry está tão ansioso em registrar uma concessão de ouro que ele diz que ganhou em um jogo e fere Matt, que o salvou, pois quer um cavalo e uma arma a qualquer custo. Kay fica então no rancho cuidando de Matt e Mark, enquanto Harry vai embora sozinho, mas prometendo voltar. Entretanto, os índios chegam no local e os três são obrigados a fugir por um rio com perigosas corredeiras. Mas o rancheiro está determinado em chegar ao seu destino, para se vingar.</info>
+ 
+<genre>Ação, Aventura, Drama, Música, Romance, Faroeste</genre>
+ 
+<date>01/01/1955</date>
+</item>"
+"<item>
+
+<title>A Condessa Descalça [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACNDSADSLCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5755.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5755.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1955
+
+No funeral de Maria Vargas, várias pessoas se lembram de quem ela era e o impacto que ela causou sobre eles. Harry Dawes era um não muito bem sucedido escritor/diretor quando ele e produtor de cinema Kirk Edwards descobriram ela em uma boate de segunda, onde ela trabalhava como dançarina de flamenco. Ele a convenceu a aceitar a chance de atuação e seu primeiro filme foi um enorme sucesso. O Relações Públicas Oscar Muldoon se lembra de quando Maria estava no tribunal apoiando seu pai, que foi acusado de assassinar sua mãe. Foi o testemunho de Maria que o livrou e ela foi uma estrela maior do que nunca. Alberto Bravano, um dos homens mais ricos da América do Sul, lança seu olhar sobre Maria e ela sai com ele - mais para irritar Edwards do que outra coisa - mas ele a trata mal. Quando ela conhece o Conde Vincenzo Torlato-Favrini ficam profundamente apaixonados. Eles se casam, mas eles não têm uma vida feliz.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>01/01/1955</date>
+</item>"
+"<item>
+
+<title>Vera Cruz [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VERCRZ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6322.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6322.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste, Romance
+Lançamento: 1955
+
+Cooper e Lancaster interpretam Benjamin Trane e Joe Erin, dois perigosos mercenários que viajam ao México em busca de aventura - e dinheiro - durante a Guerra Civil de 1866. Mas eles conseguem mais do que haviam negociado quando foram contratados pela bela e rica Condessa Duvarre (Denise Darcel) para escoltá-la e a uma fortuna em ouro até as forças militares do Imperador Maximiliano em Vera Cruz. O caminho é cheio de perigos, traição e assassinato... e quando Bem é apanhado pelo fervor dos revolucionários, ele e Joe vêem-se em confronto com o Exército Mexicano - e um com o outro!</info>
+ 
+<genre>Ação, Faroeste, Romance</genre>
+ 
+<date>12/10/1955</date>
+</item>"
+"<item>
+
+<title>Sangue de Bárbaros [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SNGDBRABROS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5347.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5347.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 1956
+
+Do bilionário produtor Howard Hugues, Sangue de bárbaros tem um elenco com grandes estrelas, John Wayne e Suzan Hayard marcaram com grandes atuações esta mega produção épica sobre Genghis Khan. Seqüestrada por Temujin, a princesa tártara Bortai, o engana, fazendo-o desconfiar do seu irmão de sangue, Jamuga interpretado por Pedro Armendariz. Mas, após tantas desventuras, a princesa acaba se apaixonando pelo chefe mongol. Agnes Moorehead interpreta a mãe de Temujin e Thomas Gomes como Hunlun. Sangue de bárbaros foi filmado numa locação perto de Utah, perto de um local de testes atônicos, e teve um resultado trágico. Muitos atores do filme e pessoal da produção contraíram câncer e o primeiro a ficar doente foi o diretor Dick Powel. Apesar da tragédia no elenco, este é um filme marcante na história dos grandes épicos. Ação do começo ao fim.</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>28/03/1956</date>
+</item>"
+"<item>
+
+<title>Punido Pelo Próprio Sangue [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PUNDPLPRPSNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5101.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5101.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1956
+
+O pai de Jim Slater morreu na emboscada Apache em Gila Valley, e o rapaz nunca o conheceu. Ele agora está buscando o único sobrevivente do massacre, que supostamente despareceu com um monte de ouro. No caminho, ele acaba com várias pessoas à sua caça, e encontra repetidamente a liberal Karyl Orton, que parece estar um uma missão semelhante à sua. Mas um novo rompante Apache e uma iminente guerra poderão atrapalhar seus planos.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>11/04/1956</date>
+</item>"
+"<item>
+
+<title>Rastros de Ódio [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RSTRSDODIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5185.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5185.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1956
+
+O veterano da Guerra Civil Ethan Edwards (John Wayne) chega ao Texas em 1868 e encontra o seu irmão e a família dele. Entretanto, no dia seguinte, comanches invadem o rancho e matam o seu irmão e Martha (Dorothy Jordan), a esposa dele. Além disso, raptam as duas filhas do casal. Ethan parte então em uma busca vingativa pelas meninas junto com o companheiro Martin (Jeffrey Hunter), um mestiço que logo percebe que Ethan está obcecado por matar os índios e cheio de ódio racista. Eles encontram o corpo da mais velha, e saem em busca da caçula, que procuram por mais 5 anos no deserto.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>07/05/1956</date>
+</item>"
+"<item>
+
 <title>A Dama e o Vagabundo [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ADMAEOVAGNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ADMAEOVAGNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/223.jpg</image>
@@ -133,8 +286,46 @@ A história de uma cachorrinha de classe chamada Lady que se sente abandonada pe
 </item>"
 "<item>
 
+<title>Nunca Fui Santa [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NUNFUISNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3676.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3676.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Comédia
+Lançamento: 1957
+
+Bo, um caubói de rodeio ingênuo, se apaixona em Phoenix pela Cherie, uma sensual cantora de cafés. Ela tenta fugir para Los Angeles, mas ele a encontra e a força a embarcar no ônibus rumo a sua casa em Montana. Quando o ônibus para no restaurante de beira de estrada Diner da Grace os passageiros descobrem que o caminho adiante está bloqueado pela neve. Nessas alturas dos acontecimentos todos já sabem do seqüestro, mas Bo continua determinado a ficar com Cherie, a sua paixão.</info>
+ 
+<genre>Drama, Romance, Comédia</genre>
+ 
+<date>01/01/1957</date>
+</item>"
+"<item>
+
+<title>Os Dez Mandamentos [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSDZMNDMTOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4609.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4609.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 1957
+
+A épica vida de Moisés (Charlton Heston), desde recém-nascido, quando foi colocado nas águas em um cesto e acabou sendo adotado por uma princesa egípcia, até quando descobre sua real condição e decide liderar seu povo que, escravizado pelos egípcios, anseia pela liberdade.</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>04/01/1957</date>
+</item>"
+"<item>
+
 <title>A 20 Milhões de Milhas da Terra [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/A20MLHSDMLSDTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/A20MLHSDMLSDTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/112.jpg</image>
@@ -153,8 +344,27 @@ Quando uma espaçonave americana cai na costa da Sicília, o time de resgate des
 </item>"
 "<item>
 
+<title>Sem Lei e Sem Alma [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SMLEIESMALM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5450.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5450.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1957
+
+Earp (burt Lancaster) é um homem da lei que chega a tombstone para limpar a cidade dos bandidos. Holliday (Kirk Douglas) é um dentista de formação, famoso pela rapidez no gatilho e pelo gosto pelos jogos de carta. Eles se unem para enfrentar Ike Clanton (Lyle Bettger) e seu perverso bando.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>30/05/1957</date>
+</item>"
+"<item>
+
 <title>A Maldição de Frankenstein [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/AMLDCAODFRNKSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMLDCAODFRNKSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/415.jpg</image>
@@ -172,8 +382,46 @@ O Barão Frankenstein (Peter Cushing) descobre uma maneira de enganar a morte. P
 </item>"
 "<item>
 
+<title>Um Rei em Nova York [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMREIEMNVYRK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6174.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6174.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1957
+
+Devido a uma revolução em seu país, o rei Shahdov vem para Nova York - quase falido. Para conseguir algum dinheiro vai à TV, faz comerciais e conhece o filho de pais comunistas. Devido a isso, ele é repentinamente suspeito de ser comunista e terá que enfrentar uma das audiências de McCarthy.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>25/10/1957</date>
+</item>"
+"<item>
+
+<title>Meus Dois Carinhos [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEUSDOSCRNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3370.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3370.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música, Romance
+Lançamento: 1957
+
+Joey Evans (Frank Sinatra) é charmoso, bonito, engraçado, talentoso, de primeira classe, o maior dos malandros. Quando Joey encontra a ex corista e agora rica viúva Vera Simpson (Rita Hayworth), os dois desregrados parecem feitos um para o outro. Isto é, até surgir Linda English (Kim Novak). Linda é uma ""mouse on the line"" e vive como se não houvesse amanhã. Mas ela é a típica boa menina de uma boa família - exatamente o ingrediente certo para bagunçar a confortável situação do Joey.</info>
+ 
+<genre>Drama, Música, Romance</genre>
+ 
+<date>15/12/1957</date>
+</item>"
+"<item>
+
 <title>A Ponte do Rio Kwai [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APNTDRIOKWAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/APNTDRIOKWAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/531.jpg</image>
@@ -191,8 +439,46 @@ Depois de liquidar suas diferenças com o comandante de um campo de prisioneiros
 </item>"
 "<item>
 
+<title>Drácula: O Vampiro da Noite [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DRCLAOVMPDNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2071.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2071.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1958
+
+Jonnathan Harker morre aparentemente vítima de um vampiro. Ao investigar a misteriosa morte do amigo, Van Helsing encontra um diário que incrimina o Conde Drácula. Mas Lucy, a prometida de Harker, também foi atacada por um vampiro. O irmão e a cunhada da moça se unem a Van Helsing para capturar a sanguinária criatura.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>22/05/1958</date>
+</item>"
+"<item>
+
+<title>A Vingança de Frankenstein [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVNGACDFRNKSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3762.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3762.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 1958
+
+O Barão Frankenstein foge da execução na guilhotina e usa o pseudônimo Dr. Stein para abrir sua clínica na Alemanha. Lá, recomeça seus experimentos com cadáveres, mas um de seus pacientes tem um destino diferente do que Stein planejou.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>01/06/1958</date>
+</item>"
+"<item>
+
 <title>12 Homens e Uma Sentença [COLOR yellow][IMDb 8,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/12HMNSEUMSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12HMNSEUMSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/16/items/35_20200901/43.jpg</image>
@@ -208,4 +494,42 @@ Um jovem porto-riquenho é acusado do brutal crime de ter matado o próprio pai.
 <genre>Drama</genre>
  
 <date>10/10/1958</date>
+</item>"
+"<item>
+
+<title>O Cão dos Baskervilles [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCAODSBRSVLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3841.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3841.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Terror
+Lançamento: 1959
+
+Peter Cushing é um perfeito Sherlock Holmes e André Morell um perfeito Dr Watson, neste clássico de mistério e terror, que conta também com a interpretação da lenda do horror Christopher Lee. Com envolventes interpretações e cinematografia assustadora, este excelente filme de grande qualidade, vai mantê-lo na expectativa - e ofegante - até à última imagem! Um mal demoníaco esconde-se num manto de névoa nos pântanos que povoam as lendas inglesas. Na forma de um cão infernal, ele alimenta-se da carne dos herdeiros do Palácio dos Baskervilles. Mas antes desta besta selvagem poder ferrar os dentes no novo dono da mansão, tem que colocar as suas malévolas mandíbulas no astuto intelecto do mais poderoso inimigo que alguma vez encontrou - o incomparável Sherlock Holmes.</info>
+ 
+<genre>Mistério, Thriller, Terror</genre>
+ 
+<date>03/07/1959</date>
+</item>"
+"<item>
+
+<title>Imitação da Vida [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/IMTCAODVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2730.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2730.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 1959
+
+O ano é 1947 e Lora Meredith (Lana Turner) é uma aspirante a atriz, viúva, que mora com sua sua única filha, Susie (Sandra Dee), e vive ignorando-a, enquanto busca construir uma carreira. Quando ela conhece Annie Johnson (Juanita Moore), uma afrodescendente também viúva e mãe solteira, convida-a a trabalhar na sua casa e criar as filhas das duas juntas. No momento em que Annie e sua filha Sarah Jane (Susan Kohner) se mudam para a casa de Lora, a menina passa a renegar as suas origens: por ter a pele bem mais clara que sua mãe, ela se declara branca para todos. Já Susie se sente rejeitada pela mãe e acaba encontrando conforto nos braços de um homem mais velho (John Gavin).</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>02/10/1959</date>
 </item>"
