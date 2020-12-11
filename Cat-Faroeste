@@ -1,7 +1,7 @@
 "<item>
 
 <title>A Balada de Buster Scruggs [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ABLDADBSTRSCRG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ABLDADBSTRSCRG.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601407.us.archive.org/5/items/112_20200902/130.jpg</image>
@@ -20,7 +20,7 @@ Os aclamados irmãos Joel e Ethan Coen idealizam uma antologia faroeste em seis 
 "<item>
 
 <title>A Difícil Vingança [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ADFCLVNGCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ADFCLVNGCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601401.us.archive.org/10/items/250_20200903/229.jpg</image>
@@ -39,7 +39,7 @@ Christian Slater, Jill Hennessy e Donald Sutherland estrelam esta envolvente his
 "<item>
 
 <title>A Face Oculta [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AFCEOCLTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801401.us.archive.org/10/items/250_20200903/272.jpg</image>
@@ -58,7 +58,7 @@ Em fuga após o roubo de um banco no México um dos assaltantes, Dad Longworth (
 "<item>
 
 <title>A Lenda de Wild Bill Hickok [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/ALNDWLDBIL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ALNDWLDBIL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/382.jpg</image>
@@ -77,7 +77,7 @@ O lendário homem da lei e pistoleiro, Wild Bill Hickok, é encarregado de domar
 "<item>
 
 <title>A Marca do Zorro [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMSCRDZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801406.us.archive.org/21/items/371_20200905/436.jpg</image>
@@ -96,7 +96,7 @@ Nos tempos de vitoria, Don Diego de La Vega retornou da Espanha para sua famíli
 "<item>
 
 <title>À Procura da Vingança [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/APRCRDVNGC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/APRCRDVNGC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/553.jpg</image>
@@ -115,7 +115,7 @@ Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX
 "<item>
 
 <title>A Qualquer Custo [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/AQLQRCSTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AQLQRCSTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801409.us.archive.org/16/items/487_20200908/569.jpg</image>
@@ -134,7 +134,7 @@ Quando a fazenda da família é penhorada pelo banco no Oeste do Texas, dois irm
 "<item>
 
 <title>A Salvação [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/ASLVCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASLVCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/602.jpg</image>
@@ -153,7 +153,7 @@ Na América de 1870, um pacífico colono americano mata o culpado por assassinar
 "<item>
 
 <title>A Vingança de Lefty Brown [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/AVNGCDLTYBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVNGCDLTYBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</image>
@@ -172,7 +172,7 @@ Lefty Brown (Bill Pullman) é um ajudante de 63 anos que toda a sua vida ficou a
 "<item>
 
 <title>Amaldiçoada [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMLDODA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMLDODA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/794.jpg</image>
@@ -191,7 +191,7 @@ Liz (Dakota Fanning) é uma corajosa mulher que tenta fugir de seu passado, mas 
 "<item>
 
 <title>Amigos, Sempre Amigos [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/AMGSMPRAMGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMGSMPRAMGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/823.jpg</image>
@@ -210,7 +210,7 @@ Três empresários de Nova York decidem tirar férias no ""Velho Oeste"", que n�
 "<item>
 
 <title>Appaloosa - Uma Cidade sem Lei [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/APLOSAUMCDADSMLEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/APLOSAUMCDADSMLEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/929.jpg</image>
@@ -229,7 +229,7 @@ Virgil Cole (Ed Harris) e Everett Hitch (Viggo Mortensen) são pistoleiros contr
 "<item>
 
 <title>Ardida como Pimenta [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ARDACMPMTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601403.us.archive.org/27/items/802_20200914/943.jpg</image>
@@ -248,7 +248,7 @@ Deadwood, no território de Dakota, é em grande parte terra de homens, onde a R
 "<item>
 
 <title>Armados e Perigosos [COLOR yellow][IMDb 3,5][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ARMDSEPRGSOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ARMDSEPRGSOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601405.us.archive.org/13/items/974_20200914/952.jpg</image>
@@ -267,7 +267,7 @@ Passado em 1882, John Slaughter e sua ajudante Savannah Starr retornam a uma cid
 "<item>
 
 <title>As Loucas Aventuras de James West [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/ASLCSAVNTSDJMSWST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASLCSAVNTSDJMSWST.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1026.jpg</image>
@@ -286,7 +286,7 @@ James West (Will Smith), um herói da Guerra Civil americana, e Artemus Gordon (
 "<item>
 
 <title>Bandidas [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer4/ondemand/BNDAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BNDAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1159.jpg</image>
@@ -305,7 +305,7 @@ México, 1880. Sara Sandoval (Salma Hayek) é a bela filha de um rico banqueiro.
 "<item>
 
 <title>Bater ou Correr [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTROUCORER.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BTROUCORER.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1187.jpg</image>
@@ -324,7 +324,7 @@ Em 1800, uma princesa (Lucy Liu) sequestrada na Cidade Proibida, na China, e lev
 "<item>
 
 <title>Bater ou Correr em Londres [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BTROUCORERLNDRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BTROUCORERLNDRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1188.jpg</image>
@@ -343,7 +343,7 @@ Dois amigos fazem uma viagem no tempo a Londres, no século 19, para recuperar o
 "<item>
 
 <title>Big Kill - A Cidade do Medo [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BIGKILACDADMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BIGKILACDADMDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1262.jpg</image>
@@ -362,7 +362,7 @@ O destino leva um almofadinha da Filadélfia, dois jogadores desajustados em fug
 "<item>
 
 <title>Black '47 [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BLCK47.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BLCK47.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1271.jpg</image>
@@ -381,7 +381,7 @@ Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que 
 "<item>
 
 <title>Bravura Indômita [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/BRVRINDMT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/BRVRINDMT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1324.jpg</image>
@@ -399,8 +399,27 @@ Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 ano
 </item>"
 "<item>
 
+<title>Bronco Billy [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRNCBLY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3958.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3958.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Faroeste
+Lançamento: 1980
+
+Ex-vendedor de sapatos compra um circo especializado em números do Velho Oeste e se transforma no caubói Bronco Billy, que faz muito sucesso com as crianças. Mas ele tem uma ajudante muito atrapalhada que provoca grandes confusões.</info>
+ 
+<genre>Comédia, Romance, Faroeste</genre>
+ 
+<date>13/06/1980</date>
+</item>"
+"<item>
+
 <title>Caçador de Almas [COLOR yellow][IMDb 3,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer1/ondemand/CACDRDALMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CACDRDALMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1375.jpg</image>
@@ -419,7 +438,7 @@ Quando uma freira quebrou seu pacto com Deus para salvar a vida de Aman, seu fil
 "<item>
 
 <title>Cactus Jack, o Vilão [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/CACTSJCKOVLAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CACTSJCKOVLAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1387.jpg</image>
@@ -438,7 +457,7 @@ Um atraente desconhecido (Arnold Schwarzenegger) concorda em acompanhar a jovem 
 "<item>
 
 <title>Califórnia [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CLFNIA1947.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CLFNIA1947.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1404.jpg</image>
@@ -453,4 +472,1317 @@ Uma caravana dirige-se para o Oeste, guiada pelo ex-tenente Jonathan Trumbo e se
 <genre>Faroeste</genre>
  
 <date>21/02/1947</date>
+</item>"
+"<item>
+
+<title>Deadwood [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DEDWDOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1820.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1820.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Faroeste
+Lançamento: 2004
+
+A cidade de Deadwood, na Dakota do Sul, é um antro de crime e corrupção, principalmente nas semanas após um massacre que aterrorizou a população. O desiludido e amargo ex-xerife, Wild Bill Hickok, e Seth Bullock, um homem na esperança de encontrar um novo início para sua vida, se encontram em lados opostos politicamente, e vários altos e baixos irão entrelaçar suas vidas em Deadwood de 1876.</info>
+ 
+<genre>Crime, Drama, Faroeste</genre>
+ 
+<date>21/03/2004</date>
+</item>"
+"<item>
+
+<title>Desaparecidas [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DESPRCDAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1857.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1857.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Faroeste, Aventura
+Lançamento: 2003
+
+Em pleno século XIX Samuel Jones (Tommy Lee Jones) decide voltar para casa, após muitos anos ausente, numa tentativa de fazer as pazes com sua filha Maggie (Cate Blanchett). Maggie não vê o pai desde quando era criança, mas precisa de sua ajuda quando sua filha mais velha é sequestrada por Chidin (Eric Schweig), um psicopata que possui poderes místicos. Chidin já sequestrou outras crianças, sendo o responsável por uma grande quantidade de mortos no Novo México. Juntos, Samuel e Maggie precisam encontrá-la antes que Chidin atravesse a fronteira com o México.</info>
+ 
+<genre>Thriller, Faroeste, Aventura</genre>
+ 
+<date>26/11/2003</date>
+</item>"
+"<item>
+
+<title>Desbravando o Oeste [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DSBRVNDOSTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1858.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1858.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Faroeste
+Lançamento: 1968
+
+Em meados do século 19, o senador William J. Tadlock lidera um grupo de colonos de fronteira numa jornada de 2.500 km em busca de terras no Oregon para iniciar um novo assentamento no Oeste Americano. Tadlock é um tirano com rígidos princípios e exigente, e é tão duro consigo mesmo como com aqueles que se juntaram à sua caravana. Ele se choca com um dos novos colonos, Lije Evans, que não gosta dos métodos de Tadlock. Ao longo do caminho, as famílias devem enfrentar morte e desgosto e também um exemplo de justiça da fronteira quando um deles acidentalmente mata um menino índio. Em 1843, um ex-senador dos EUA leva uma caravana de colonos para o Oregon, mas sua megalomania leva a crescente insatisfação com sua liderança.</info>
+ 
+<genre>Ação, Aventura, Drama, Faroeste</genre>
+ 
+<date>01/01/1968</date>
+</item>"
+"<item>
+
+<title>Diablo [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DIABLODUB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1920.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1920.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Faroeste
+Lançamento: 2016
+
+Nos anos que seguiram à Guerra Civil americana, o país ficou em pedaços até começar a reconstruir sua sociedade e a nação como um todo, aos poucos. Em meio à essa situação, um homem, jovem veterano da Guerra Civil, precisará embarcar em uma jornada repleta de desespero com o objetivo de resgatar sua mulher, que foi raptada.</info>
+ 
+<genre>Ação, Aventura, Thriller, Faroeste</genre>
+ 
+<date>08/01/2016</date>
+</item>"
+"<item>
+
+<title>Dívida de Honra [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DVDADHNRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1950.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1950.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Drama
+Lançamento: 2015
+
+Em 1854, três loucas são confiadas à guarda de Mary Bee Cuddy, uma pioneira forte e independente, natural do Nebraska. A caminho do Iowa, onde as mulheres poderão encontrar refúgio, o caminho de Mary cruza-se com o de Georges Briggs, um vagabundo que ela salva de uma morte eminente. Os dois decidem então unir forças para enfrentarem juntos a dureza e os perigos que rondam as vastas extensões da fronteira americana.</info>
+ 
+<genre>Faroeste, Drama</genre>
+ 
+<date>19/03/2015</date>
+</item>"
+"<item>
+
+<title>Django Livre [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DJNGLVR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1953.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1953.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Faroeste
+Lançamento: 2013
+
+Django é um escravo, comprado pelo caçador de recompensas alemão Dr. King Schultz para auxiliá-lo em uma missão. A dupla acaba fazendo amizade e, após resolver os problemas do caçador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vilão Calvin Candie, proprietário da escrava.</info>
+ 
+<genre>Drama, Faroeste</genre>
+ 
+<date>18/01/2013</date>
+</item>"
+"<item>
+
+<title>Do Outro Lado da Lei [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOUTRLDODLEI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3729.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3729.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2020
+
+Quando seu irmão é morto por um fora da lei, três irmãos Dalton se juntam ao departamento do xerife. Quando são enganados pela lei, recorrem ao crime. Tentando superar Jesse James, eles tentam roubar dois bancos de uma vez em 1892. As coisas ficam feias.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>05/05/2020</date>
+</item>"
+"<item>
+
+<title>Domando o Destino [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/DMNDODSTNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1988.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1988.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Faroeste
+Lançamento: 2018
+
+Depois de um acidente quase fatal na cabeça durante um rodeiro, um jovem cowboy passa a procurar uma nova identidade enquanto descobre o significado de ser um homem no coração da América do norte.</info>
+ 
+<genre>Drama, Faroeste</genre>
+ 
+<date>13/04/2018</date>
+</item>"
+"<item>
+
+<title>El Dorado [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ELDORDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2094.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2094.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Aventura, Ação
+Lançamento: 1967
+
+Na cidade de El Dorado, xerife bêbado e sem dignidade é ajudado por um pistoleiro, um jovem que prefere facas a revólveres e um veterano combatente da guerra contra os índios, a se recuperar na luta contra um fazendeiro inescrupuloso.
+
+El Dorado é o segundo filme da trilogia do diretor Howard Hawks que enfoca xerifes enfrentando situações de grande perigo. Os outros são Rio Bravo (1959) e Rio Lobo (1970), todos estrelados por John Wayne.</info>
+ 
+<genre>Faroeste, Aventura, Ação</genre>
+ 
+<date>07/06/1967</date>
+</item>"
+"<item>
+
+<title>Era uma Vez no Oeste [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ERAUMAVZNOST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2217.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2217.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1969
+
+Em virtude das terras que possuía serem futuramente a rota da estrada de ferro, um pai e todos os filhos são brutalmente assassinados por um matador profissional. Entretanto, ninguém sabia que ele, viúvo há seis anos, tinha se casado com um prostituta de Nova Orleans, que passa ser a dona do local e recebe a proteção de um hábil atirador, que tem contas a ajustar com o frio matador.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>10/08/1969</date>
+</item>"
+"<item>
+
+<title>Frontera [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FRNTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2427.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2427.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Drama
+Lançamento: 2014
+
+Um homem mexicano decide atravessar ilegalmente a fronteira dos Estados Unidos, para conseguir melhores condições de vida à sua família. No momento de sua travessia, ele percebe tiros em sua direção. O homem consegue escapar, mas uma mulher que passava pelo local é morta. O imigrante é considerado o principal suspeito do assassinato, mas o marido da vítima e o xerife investigam os verdadeiros responsáveis pelo crime.</info>
+ 
+<genre>Faroeste, Drama</genre>
+ 
+<date>26/10/2014</date>
+</item>"
+"<item>
+
+<title>Homens Da Montanha [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSHMNSDMNTNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4638.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4638.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Faroeste
+Lançamento: 1980
+
+No Velho Oeste Bill Tyler (Charlton Heston), um comerciante de peles, tenta achar com seu melhor amigo, Henry Frapp (Brian Keith), o lendário vale conhecido pela enorme quantidade de animais para caçar. Mas acaba encontrando uma jovem de origem indígena, que está fugindo de um casamento indesejado, e resolve protegê-la a todo custo.</info>
+ 
+<genre>Aventura, Faroeste</genre>
+ 
+<date>01/06/1980</date>
+</item>"
+"<item>
+
+<title>Hostis [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HSTIS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2702.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2702.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Faroeste, História
+Lançamento: 2018
+
+Em 1892, um lendário capitão do exército americano (Christian Bale) aceita relutantemente escoltar um chefe de guerra Cheyenne moribundo (Wes Studi), assim como a sua família, na viagem de regresso às suas terras tribais. Fazendo a perigosa travessia do Novo México até às planícies do Montana, os antigos inimigos encontram uma jovem viúva (Rosamund Pike), cuja família foi assassinada. Juntos, eles terão de unir forças para sobreviverem às provações da tortuosa viagem, a comanches hostis, e outros contratempos que vão encontrando pelo caminho.</info>
+ 
+<genre>Drama, Faroeste, História</genre>
+ 
+<date>26/01/2018</date>
+</item>"
+"<item>
+
+<title>Inferno na Fronteira [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/INFNNFNTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2751.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2751.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Aventura
+Lançamento: 2019
+
+Baseado na vida real de Bass Reeves, lendário cowboy afro-americano. Ele foi o primeiro vice-marechal negro dos EUA a oeste do rio Mississippi. Ele trabalhou principalmente no Arkansas e no Território de Oklahoma. Durante sua longa carreira, Bass foi creditado com a prisão de mais de 3.000 criminosos.</info>
+ 
+<genre>Faroeste, Aventura</genre>
+ 
+<date>17/12/2019</date>
+</item>"
+"<item>
+
+<title>Inferno no Faroeste [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INFRNOFRSTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2752.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2752.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Ação, Fantasia, Terror, Drama
+Lançamento: 2013
+
+Guerrero Hernandez é líder da Blackwater Gang que é traído por seu meio-irmão Red depois de libertá-lo da prisão. Um ano depois, Guerrero faz um pacto com o diabo e volta dos mortos em busca de vingança.</info>
+ 
+<genre>Faroeste, Ação, Fantasia, Terror, Drama</genre>
+ 
+<date>25/10/2013</date>
+</item>"
+"<item>
+
+<title>Inferno no Faroeste 2 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INFRNOFRSTE2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2753.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2753.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2017
+
+No filme Inferno no Faroeste 2, Guerrero Hernandez volta dos mortos uma vez mais, para que uma relíquia roubada não caia nas mãos de um grupo de soldados, o que poderá causar o inferno na terra.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>30/08/2017</date>
+</item>"
+"<item>
+
+<title>Jesse James - O Roubo do Trem Negro [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JSEJMSORBODTRM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2836.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2836.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2018
+
+Jesse James é um famoso fora-da-lei. Quanto muitos bandidos desejam assaltar o Trem Negro, ele se sente tentado a fazer o mesmo, apesar de receber conselhos contrários.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>01/05/2018</date>
+</item>"
+"<item>
+
+<title>Joe Kidd [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/JOEKD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2848.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2848.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1972
+
+Um bando de mexicanos acha que as reivindicações de terra dos EUA foram negadas e que todos os registros foram destruídos em um incêndio no tribunal. Seu líder, Louis Chama, encoraja-os a usar a força para recuperar suas terras. Um rico proprietário de terras que deseja o mesmo decide contratar uma gangue de assassinos com Joe Kidd para rastrear Chama.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>19/07/1972</date>
+</item>"
+"<item>
+
+<title>Justiça - Entre a Lei e a Vingança [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/JSTCENTLEIEAVNGCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2936.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2936.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2017
+
+Um agente federal americano (U.S. Marshal) em busca de justiça para o assassinato de seu irmão, defende uma pequena cidade contra o seu prefeito corrupto e seus homens com intenções de reviver a guerra civil.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>15/09/2017</date>
+</item>"
+"<item>
+
+<title>Keoma [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KEOMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2958.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2958.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste
+Lançamento: 1977
+
+Ao final da Guerra Civil Americana, um pistoleiro mestiço, cansado de fazer da morte um meio de vida, retorna para aquilo que um dia costumava ser seu lar. Seu nome é Keoma. Porém, agora sua cidade natal está totalmente destruída pela peste e sob o comando de um homem chamado Capitão Caldwell. Seus meio-irmãos Butch, Sam e Lenny trabalham para o Capitão e Keoma se vê sozinho contra todos eles. Agora ele está preso no meio de uma batalha selvagem entre inocentes colonos, bandidos sádicos e seus meio-irmãos. Em uma terra de ninguém, o grito de um homem ecoa clamando por justiça... a qualquer custo, um preço que será pago a balas!</info>
+ 
+<genre>Ação, Faroeste</genre>
+ 
+<date>27/01/1977</date>
+</item>"
+"<item>
+
+<title>Maverick [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MVRCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3274.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3274.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Drama, Faroeste
+Lançamento: 1994
+
+Em meio à uma série de aventuras, o inveterado jogador de pôquer Bret Maverick (Mel Gibson) tenta arrumar os três mil dólares que lhe faltam para participar de um jogo milionário em uma barca do Mississipi, no qual o vencedor vai receber meio milhão de dólares. Para entrar neste jogo poderoso, ele vai juntar forças com uma interessante e misteriosa jogadora.</info>
+ 
+<genre>Ação, Aventura, Comédia, Drama, Faroeste</genre>
+ 
+<date>20/05/1994</date>
+</item>"
+"<item>
+
+<title>McQuade: O Lobo Solitário [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MCQDOLBSLTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3296.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3296.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste, Crime
+Lançamento: 1983
+
+O lendário Ranger do Texas renegado J.J. McQuade (Norris) é terrível com a arma - mas letal com o seu cinturão negro! Quando a vida da sua filha adolescente é ameaçada por ladrões de estrada na tentativa de roubarem um camião cheio de armas e munições, o serviço torna-se pessoal para McQuade. Pondo a descoberto uma operação de tráfico e venda ilegal de armas a terroristas um pouco por todo o mundo, McQuade fica frente a frente com o rei desta rede gigantesca, Rawley (Carradine) - um nome afamado mundialmente nas artes marciais, por nunca ter perdido um combate! Terá o Ranger o que é necessário para salvar a filha e a honra - ou será que finalmente encontrou um adversário à altura, e consequentemente... a sua própria derrota?</info>
+ 
+<genre>Ação, Faroeste, Crime</genre>
+ 
+<date>15/04/1983</date>
+</item>"
+"<item>
+
+<title>Meu Ódio Será Sua Herança [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEUODIOSRSUAHRNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3360.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3360.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Faroeste
+Lançamento: 1969
+
+Eles já foram os mais perigosos ""fora da lei"" da fronteira, seguindo seus próprios códigos de honra e lealdade. Realizaram diversos assaltos pelas planícies do oeste, sempre colocando suas cabeças a prêmio. Mas os tempos mudaram. O lucro estava cada vez menor e o risco cada vez maior. Era hora de parar, mas a ganância falou mais alto. Dez mil dólares para roubar o carregamento de armas de um trem para um poderoso bandoleiro mexicano. Nada poderia detê-los, a não ser a morte. William Holden (Inferno na Torre), Ernest Borgnine (Os Doze Condenados) e grande elenco atuam na versão original do diretor Sam Peckinpah.</info>
+ 
+<genre>Aventura, Faroeste</genre>
+ 
+<date>17/06/1969</date>
+</item>"
+"<item>
+
+<title>Mortos de Fome [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MRTSDFME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3481.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3481.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Faroeste, Comédia, História
+Lançamento: 1999
+
+Em 1847, um oficial da Cavalaria americana é enviado para um forte numa região remota da Califórnia, na Sierra Nevada, onde aparece um estranho com uma história misteriosa sobre canibais. A situação se complica ainda mais quando eles saem para investigar o local onde teria acontecido a tragédia.</info>
+ 
+<genre>Terror, Faroeste, Comédia, História</genre>
+ 
+<date>16/03/1999</date>
+</item>"
+"<item>
+
+<title>O Ataque dos Vermes Malditos 4: O Começo da Lenda [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATQDSVRMSMLDTS4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3797.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3797.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Terror, Faroeste
+Lançamento: 2004
+
+Depois dos três primeiros aterrorizantes ataques dos vermes malditos, finalmente saberemos agora como tudo começou. A ação começa no século 19, quando 17 trabalhadores morrem misteriosamente em uma mina. Apavorados, os habitantes de Rejection abandonam a cidade. Com a mina fechada, quem perdeu tudo e não tem para onde ir discute o futuro de suas vidas. É neste cenário de medo e desolação que Juan Perrila (Brent Roam), um dos sobreviventes, negocia com Hiram Gummer (Michael Gross), o proprietário da mina. Ele aceita voltar ao trabalho, desde que o seu salário seja dobrado. Porém, Juan não sabe que pode estar negociando a própria vida: os vermes malditos continuam à solta, esperando para devorar mais e mais mineiros.</info>
+ 
+<genre>Ação, Comédia, Terror, Faroeste</genre>
+ 
+<date>02/01/2004</date>
+</item>"
+"<item>
+
+<title>O Cavaleiro Solitário [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OCVLRSLTRIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3853.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3853.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Faroeste
+Lançamento: 2013
+
+Depois de ser salvo pelo índio guerreiro Tonto de uma emboscada que matou seu irmão, o homem da lei John Reid decide usar uma máscara para se vingar dos assassinos, se transformando no lendário Cavaleiro Solitário.</info>
+ 
+<genre>Ação, Aventura, Faroeste</genre>
+ 
+<date>03/07/2013</date>
+</item>"
+"<item>
+
+<title>O Duelo [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ODUELO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3941.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3941.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Drama
+Lançamento: 2016
+
+Um Texas Ranger, membro da força policial do estado do Texas, investiga uma sucessão de mortes inexplicáveis em uma cidade chamada Helena.</info>
+ 
+<genre>Faroeste, Drama</genre>
+ 
+<date>24/06/2016</date>
+</item>"
+"<item>
+
+<title>O Matador [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OMTDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4164.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4164.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste
+Lançamento: 2017
+
+Cabeleira foi criado na mata por Sete Orelhas, um cangaceiro. Quando adulto, foi à cidade em busca do pai desaparecido e descobriu que ele era um matador que trabalhava para um francês que comandava o comércio de pedras preciosas na região. Nesse território sangrento, segue seu instinto como bicho feroz em uma cidade sem lei.</info>
+ 
+<genre>Ação, Faroeste</genre>
+ 
+<date>13/09/2017</date>
+</item>"
+"<item>
+
+<title>O Ouro de Mackenna [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OORODMCKNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4230.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4230.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Faroeste
+Lançamento: 1969
+
+Ao cavalgar pelo deserto o delegado Mackenna (Gregory Peck), é alvo de tiros dados por um velho chefe Apache. Ao responder aos tiros, MacKenna acaba ferindo mortalmente o velho índio. Antes de morrer, o chefe lhe dá um antigo mapa que, segundo ele, traz o segredo da localização do vale do ouro. Mas o alerta que, ao encontrar o veio de ouro, despertará a fúria de antigos deuses... Ele não acredita no velho e joga o mapa no fogo. Mas grava o desenho na memória... O bandido Colorado (Omar Sharif) sequestra McKenna, pois acredita que ele é a única pessoa viva que conhece o tortuoso caminho para o vale do ouro... Ao longo da jornada, novos personagens se juntam a esta busca...</info>
+ 
+<genre>Aventura, Ação, Faroeste</genre>
+ 
+<date>09/05/1969</date>
+</item>"
+"<item>
+
+<title>O Rapto [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ORPTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4339.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4339.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Faroeste
+Lançamento: 2017
+
+Recém chegada a zona rural da Nova Zelândia, Charlotte sente que sua felicidade está completa ao dar a luz a seu primeiro filho. Porém, quando seu bebê tem apenas alguns meses, sua casa é invadida, seu marido é assassinado e a criança raptada. Perdida em uma terra estrangeira, ela atravessa um selvagem e indisciplinado mundo de traficantes, prostitutas e guerreiros, à beira do perigo em busca de seu filho e determinada a encontrá-lo custe o que custar.</info>
+ 
+<genre>Ação, Aventura, Drama, Faroeste</genre>
+ 
+<date>29/10/2017</date>
+</item>"
+"<item>
+
+<title>O Regresso [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ORGRSODUB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4345.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4345.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Drama, Aventura
+Lançamento: 2016
+
+Em uma expedição pelo desconhecido deserto americano, o lendário explorador Hugh Glass é brutalmente atacado por um urso e deixado como morto pelos membros de sua própria equipe de caça. Em uma luta para sobreviver, Glass resiste à dor inimaginável, bem como à traição de seu confidente, John Fitzgerald. Guiado pela força de vontade e pelo amor de sua família, Glass deve navegar um inverno brutal em uma incessante busca por sobrevivência e redenção.</info>
+ 
+<genre>Faroeste, Drama, Aventura</genre>
+ 
+<date>04/02/2016</date>
+</item>"
+"<item>
+
+<title>O Rio das Almas Perdidas [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORIDSAMLSPRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4383.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4383.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Música, Romance, Faroeste
+Lançamento: 1955
+
+Em 1875, durante a corrida do ouro nos Estados Unidos, Matt Calder (Robert Mitchum), um ex-presidiário que recentemente saiu da cadeia, reencontra Mark Calder (Tommy Retting), seu jovem filho que nada sabe do seu passado. Com ele planeja se estabelecer como fazendeiro. Algum tempo depois os dois socorrem Kay Weston (Marilyn Monroe), uma cantora de saloon que conheciam, e Harry Westo (Rory Calhoun), seu namorado, quando tentavam atravessar um perigoso rio em uma balsa. Mas Harry está tão ansioso em registrar uma concessão de ouro que ele diz que ganhou em um jogo e fere Matt, que o salvou, pois quer um cavalo e uma arma a qualquer custo. Kay fica então no rancho cuidando de Matt e Mark, enquanto Harry vai embora sozinho, mas prometendo voltar. Entretanto, os índios chegam no local e os três são obrigados a fugir por um rio com perigosas corredeiras. Mas o rancheiro está determinado em chegar ao seu destino, para se vingar.</info>
+ 
+<genre>Ação, Aventura, Drama, Música, Romance, Faroeste</genre>
+ 
+<date>01/01/1955</date>
+</item>"
+"<item>
+
+<title>O Trem do Inferno [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OTRMDINFRNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4440.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4440.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Faroeste, Mistério
+Lançamento: 1976
+
+Um trem carregando medicamentos e suplementos para o Exército norte-americano precisa atravessar montanhas rochosas através do Forte Humboldt. Entre os passageiros, está o governador, um padre, médicos e um prisioneiro, Jonh Deaking (Charles Bronson). Porém, nada neste trem é o que parece ser.</info>
+ 
+<genre>Thriller, Faroeste, Mistério</genre>
+ 
+<date>05/05/1976</date>
+</item>"
+"<item>
+
+<title>O Último Duelo [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OULTMDUEL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4456.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4456.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2019
+
+Montana, 1876. A Guerra Civil norte-americana chega ao seu fim. Depois de participar de batalhas violentas, o veterano Hollis Ransom ainda possui disposição para caçar seu irmão, de quem deseja se vingar por ter sido seu inimigo nos combates. Obstinado a encontrá-lo, o homem conta ainda com a ajuda de um caçador de peles para completar a missão.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>19/12/2019</date>
+</item>"
+"<item>
+
+<title>Oeste Sem Lei [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSTSMLEI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4498.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4498.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Thriller, Faroeste, Drama, Ação
+Lançamento: 2015
+
+No século XIX o jovem Jay Cavendish (Kodi Smit-McPhee) cruza os Estados Unidos em busca de sua amada, que fugiu para terras distantes após ser acusada de cometer um crime. Nesta imprevisível jornada ele conta com a companhia de Silas Selleck (Michael Fassbender), um misterioso caubói.</info>
+ 
+<genre>Romance, Thriller, Faroeste, Drama, Ação</genre>
+ 
+<date>16/04/2015</date>
+</item>"
+"<item>
+
+<title>Os 6 Ridículos [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/THRDCULOS6.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4571.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4571.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Faroeste
+Lançamento: 2015
+
+A viagem do pai fora-da-lei leva Tommy ""Faca Branca"" e os seus cinco irmãos a saírem de casa e vaguear pelo Velho Oeste. The Ridiculous 6 é um filme de comédia de faroeste de 2015, dirigido por Frank Coraci e escrito por Tim Herlihy e Adam Sandler. O filme é uma sátira aos filmes de faroeste como o clássico de 1960, Sete Homens e um Destino.</info>
+ 
+<genre>Comédia, Faroeste</genre>
+ 
+<date>11/12/2015</date>
+</item>"
+"<item>
+
+<title>Os Imperdoáveis [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSIMPRDAVS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4639.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4639.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1992
+
+Bill Munny (Clint Eastwood), um pistoleiro aposentado, volta à ativa quando lhe oferecem 1000 dólares para matar os homens que cortaram o rosto de uma prostituta. Neste serviço dois outros pistoleiros o acompanham e eles precisam se confrontar com um inglês (Richard Harris), que também deseja a recompensa e um xerife (Gene Hackman), que não deseja tumulto em sua cidade.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>07/08/1992</date>
+</item>"
+"<item>
+
+<title>Os Indomáveis [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSINDMVS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4642.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4642.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2007
+
+Dan Evans (Christian Bale) é um jovem rancheiro, que enfrenta dificuldades financeiras e está prestes a perder as terras onde vive com sua família. Após realizar mais um assalto a diligência, o perigoso Ben Wade (Russell Crowe) segue para uma pequena cidade do velho oeste. Lá ele é preso e logo é organizado um grupo para levá-lo até uma cidade distante, onde poderá ser enviado à prisão de Yuma através de um trem. Evans se oferece para integrar o grupo, desde que receba uma recompensa financeira que resolva seus problemas. A proposta é aceita, mas fazer com que Wade embarque no trem não será uma tarefa fácil, já que os demais integrantes de seu bando estão vindo em seu resgate.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>07/09/2007</date>
+</item>"
+"<item>
+
+<title>Os Irmãos Sisters [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSIRMSISRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4650.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4650.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Drama, Aventura
+Lançamento: 2018
+
+Eli e Charlie Sisters são dois pistoleiros que recebem uma missão complicada: capturar e eliminar Hermann Kermit Warm, um explorador de minas de ouro. Os assassinos perseguem o explorador através do deserto do Oregon, no entanto, Eli começa a ter uma crise de consciência sobre a carreira que leva. Para se salvar, Hermann pode se aproveitar dessa fraqueza momentânea e oferecer um acordo melhor para os irmãos.</info>
+ 
+<genre>Faroeste, Drama, Aventura</genre>
+ 
+<date>19/10/2018</date>
+</item>"
+"<item>
+
+<title>Os Oito Odiados [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSOTSODIADS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4668.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4668.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Mistério, Faroeste
+Lançamento: 2016
+
+Durante uma nevasca, um carrasco, uma prisioneira, um caçador de recompensas e um homem que alega ser xerife buscam abrigo no Armazém da Minnie, onde quatro outros desconhecidos estão abrigados. Aos poucos, os oito viajantes no local começam a descobrir os segredos sangrentos uns dos outros, levando a um inevitável confronto entre eles.</info>
+ 
+<genre>Crime, Drama, Mistério, Faroeste</genre>
+ 
+<date>07/01/2016</date>
+</item>"
+"<item>
+
+<title>Os Últimos Machões [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OULTMSMCHOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4709.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4709.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1976
+
+No início do século XX, alguns presos realizam uma fuga e criam uma gangue que cruza o deserto. Um desses homens é Zach Provo (Coburn), um meio índio que foi capturado por Sam Burgade (Heston) e enviado para a prisão durante a última parte do século XIX.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>22/04/1976</date>
+</item>"
+"<item>
+
+<title>Os Violentos Vão para o Inferno [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSVOLNTSVAOPRINFRNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4715.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4715.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Faroeste, Guerra
+Lançamento: 1968
+
+Franco Nero, Jack Palance e Tony Musante estrelam este clássico dos filmes de western, dirigido pelo especialista no gênero Sergio Corbuci. O mercenário Kowalski (Nero) é especialista em armas e usa suas habilidades como assassino profissional. As coisas se complicam quando ele bate de frente com o malfeitor Ricciolo (Palance).</info>
+ 
+<genre>Ação, Comédia, Faroeste, Guerra</genre>
+ 
+<date>28/08/1968</date>
+</item>"
+"<item>
+
+<title>Perseguição Mortal [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRSGCAOMRTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4891.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4891.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste, Aventura
+Lançamento: 1981
+
+Albert Johnson (Charles Bronson, da série Desejo de Matar) é um homem estranho e solitário, que gosta dos animais e se comporta como um fugitivo da lei. Certo dia ele impede que um cão seja morto durante uma briga, coisa comum nos anos 1930, nas gélidas montanhas do Canadá. Depois de comprar o animal ferido, Johnson desagrada a um bando de homens que, para se livrarem dele, inventam a história de um roubo num posto policial. O chefe da Polícia Montada, Edgar Millen (Lee Marvin, de os 12 Condenados), é obrigado a investigar o fato. Instigado pelos homens, o policial acusa Johnson em sua própria cabana. Mas Johnson acaba matando alguns agressores no confronto e foge. A partir daí, uma grande caçada humana é empreendida na neve para prende-lo. Esta história foi baseada num fato real.</info>
+ 
+<genre>Ação, Faroeste, Aventura</genre>
+ 
+<date>22/05/1981</date>
+</item>"
+"<item>
+
+<title>Pistoleiros: Vingança Sem Perdão [COLOR yellow][IMDb 1,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PSTLRSVNGSMPRDAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4929.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4929.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2018
+
+Depois da Guerra Civil Norte-Americana, Charles Holley volta para casa e descobre que sua família foi assassinada. Deste momento em diante, a missão de vida de Charles é executar sua vingança.Ao longo de sua jornada, ele encontra dois guias, o Reverendo MacKenzie, que está em busca de redenção enquanto peregrina pelo país, e o misterioso Carlo, que o leva até Animus Smite, o homem que controla, na base da violência, a cidade. Smite é dono de um rentável negócio de apostas que acontece no saloon de propriedade de Miss Lorena.Holley chega ao local e entra no jogo, já suspeitando que Smite tenha algo a ver com o assassinato. As cartas estão na mesa e é hora da vingança!</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>01/07/2018</date>
+</item>"
+"<item>
+
+<title>Por um Punhado de Dólares [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRUMPNHDDOLRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5001.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5001.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1964
+
+Joe (Clint Eastwood) é um pistoleiro barra pesada que chega a uma cidade que está em guerra. Quando percebem o potencial de Joe, ambas as partes se interessam por contratá-lo; é quando ele percebe que pode ganhar um dinheiro com a situação aceitando a proposta dos dois lados.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>18/01/1964</date>
+</item>"
+"<item>
+
+<title>Por uns Dólares a Mais [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRUNSDLRSAMS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5004.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5004.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1966
+
+Monco (Clint Eastwood) é um astuto caçador de recompensas, que perambula pelas cidades do velho oeste americano em busca de um novo alvo. Ele o encontra quando vê o cartaz de procurado de Índio (Gian Maria Volonté), um perigoso bandido que também está sendo procurado pelo coronel Douglas Mortimer (Lee Van Cleef), outro caçador de recompensas. Os dois partem no encalço de Índio mas, sem conseguir capturar o bandido nem eliminar o rival, eles precisam decidir entre unir forças ou serem eliminados pela gangue de Índio.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>25/03/1966</date>
+</item>"
+"<item>
+
+<title>Punido Pelo Próprio Sangue [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PUNDPLPRPSNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5101.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5101.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1956
+
+O pai de Jim Slater morreu na emboscada Apache em Gila Valley, e o rapaz nunca o conheceu. Ele agora está buscando o único sobrevivente do massacre, que supostamente despareceu com um monte de ouro. No caminho, ele acaba com várias pessoas à sua caça, e encontra repetidamente a liberal Karyl Orton, que parece estar um uma missão semelhante à sua. Mas um novo rompante Apache e uma iminente guerra poderão atrapalhar seus planos.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>11/04/1956</date>
+</item>"
+"<item>
+
+<title>Quatro Mulheres e Um Destino [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/QTRMLHRSEUMDSTNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5130.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5130.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Faroeste
+Lançamento: 1994
+
+Cody Zamora (Madeleine Stowe), Anita Crown (Mary Stuart Masterson), Eileen Spenser (Andie MacDowell) e Lilly Laronette (Drew Barrymore) são quatro prostitutas que trabalham no velho oeste. Um dia, Anita é quase molestada por um coronel rude e bêbado. Para impedir o estupro, Cody atira no homem, o que desperta a fúria da comunidade local, que quer enforcar moça. Porém, as outras três entram em ação e salvam a amiga, iniciando uma aventura que envolve: fugir do xerife, roubar bancos e muitas balas.</info>
+ 
+<genre>Romance, Faroeste</genre>
+ 
+<date>22/04/1994</date>
+</item>"
+"<item>
+
+<title>Rango [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RANGO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5180.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5180.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família, Faroeste, Aventura
+Lançamento: 2011
+
+Rango (Johnny Depp) é um camaleão da cidade grande que vai parar, após um acidente, em pleno velho oeste, na cidade de Poeira no deserto do Mojave, na Califórnia. De uma hora para outra, sua rotina de animal de estimação mudou radicalmente e agora ele precisa deixar a vida ""camuflada"" para enfrentar os perigos existentes no mundo real, fazendo com que ele vivencie a experiência de fazer amigos, conhecer inimigos e até, quem sabe, se tornar um herói.</info>
+ 
+<genre>Animação, Comédia, Família, Faroeste, Aventura</genre>
+ 
+<date>28/10/2011</date>
+</item>"
+"<item>
+
+<title>Rápida e Mortal [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RPDEMRTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5181.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5181.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1995
+
+O vilarejo de Redemption recebe, todos os anos, um concurso de pistoleiros organizado por John Herod. Ellen vai ao evento disposta a enfrentar Herod, que destruiu sua vida no passado. Assim que chega à vila, ela conhece o pastor Cort, que decidiu nunca mais apontar uma arma para ninguém. Porém, Herod sabe que Cort é um dos principais pistoleiros da região e tenta convencê-lo a também participar do concurso.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>10/02/1995</date>
+</item>"
+"<item>
+
+<title>Rastros de Ódio [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/RSTRSDODIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5185.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5185.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1956
+
+O veterano da Guerra Civil Ethan Edwards (John Wayne) chega ao Texas em 1868 e encontra o seu irmão e a família dele. Entretanto, no dia seguinte, comanches invadem o rancho e matam o seu irmão e Martha (Dorothy Jordan), a esposa dele. Além disso, raptam as duas filhas do casal. Ethan parte então em uma busca vingativa pelas meninas junto com o companheiro Martin (Jeffrey Hunter), um mestiço que logo percebe que Ethan está obcecado por matar os índios e cheio de ódio racista. Eles encontram o corpo da mais velha, e saem em busca da caçula, que procuram por mais 5 anos no deserto.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>07/05/1956</date>
+</item>"
+"<item>
+
+<title>Rastros de Vingança [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RSTRSDVNGCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5187.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5187.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Thriller, Faroeste, Ação, Cinema TV
+Lançamento: 2001
+
+Rafe Covington é tão bom quanto sua palavra, e ele está determinado a manter sua promessa a um moribundo de que ele cuidará da viúva do homem e do rancho de Wyoming. Mas a viúva duvida da integridade do vagabundo Covington. E um criminoso sem escrúpulos e seus pistoleiros estão cobiçando a fazenda da mesma maneira que uma aranha vê uma mosca.</info>
+ 
+<genre>Drama, Romance, Thriller, Faroeste, Ação, Cinema TV</genre>
+ 
+<date>21/01/2001</date>
+</item>"
+"<item>
+
+<title>Resgate no Oeste [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/RSGTNOSTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5237.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5237.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2016
+
+Kansas, 1880. O rancheiro Clay Travis vê sua vida pacata como pai de família, feliz, casado e pai, desmoronar num piscar de olhos: seu filho morre tragicamente e sua filha desaparece. Determinado a encontrar e trazer de volta sua filha e proteger o que restou de sua família, Clay se vê forçado a reviver seus dias de pistoleiro e pegar a estrada rumo a Dodge City, onde há rumores de um bordel cujo dono rapta jovens para oferecer a seus clientes. Em seu caminho, Clay une forças com um misterioso aliado e, juntos, eles não hesitarão em puxar o gatilho para acabar com seu inimigo em comum.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>10/06/2016</date>
+</item>"
+"<item>
+
+<title>Scooby-Doo! E o Combate do Salsicha [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/SCBDFLM28.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5384.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5384.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Mistério, Comédia, Faroeste
+Lançamento: 2017
+
+Quando a turma do Scooby-Doo visita um rancho, eles descobrem que ele e a cidade vizinha foram assombrados por um vaqueiro fantasmagórico, Dapper Jack. O mistério se aprofunda quando descobrem que o fantasma é também parente do Salsicha.</info>
+ 
+<genre>Animação, Família, Mistério, Comédia, Faroeste</genre>
+ 
+<date>14/02/2017</date>
+</item>"
+"<item>
+
+<title>Sem Lei e Sem Alma [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SMLEIESMALM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5450.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5450.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1957
+
+Earp (burt Lancaster) é um homem da lei que chega a tombstone para limpar a cidade dos bandidos. Holliday (Kirk Douglas) é um dentista de formação, famoso pela rapidez no gatilho e pelo gosto pelos jogos de carta. Eles se unem para enfrentar Ike Clanton (Lyle Bettger) e seu perverso bando.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>30/05/1957</date>
+</item>"
+"<item>
+
+<title>Sete Homens e Um Destino [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5482.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5482.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Faroeste
+Lançamento: 2016
+
+Os habitantes de um pequeno vilarejo sofrem com os constantes ataques de um bando de pistoleiros. Revoltada com os saques, Emma Cullen deseja justiça e pede auxílio ao pistoleiro Sam Chisolm, que reúne um grupo de especialistas para contra-atacar os bandidos.</info>
+ 
+<genre>Aventura, Ação, Faroeste</genre>
+ 
+<date>22/09/2016</date>
+</item>"
+"<item>
+
+<title>Sob o Sol do Oeste [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SBOSLDOST.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5578.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5578.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Faroeste
+Lançamento: 2018
+
+Samuel Alabaster (Robert Pattinson) faz uma jornada no velho oeste selvagem até a fronteira americana para se casar com o amor da sua vida, Penélope (Mia Wasikowska). Ao lado do bêbado Parson Henry (David Zellner) e do bastardo Rufus Cornell (Nathan Zellner), sua simples viagem fica cada dia mais perigosa e as distinções entre heróis, donzelas e vilões logo se confundem.</info>
+ 
+<genre>Comédia, Faroeste</genre>
+ 
+<date>22/06/2018</date>
+</item>"
+"<item>
+
+<title>Spirit - O Corcel Indomável [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SPRTOCRCLINDMVL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5635.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5635.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Animação, Aventura, Comédia, Família, Drama
+Lançamento: 2002
+
+No final do século XVII em pleno Oeste norte-americano vive Spirit, um cavalo que resiste a ser domado pelo homem. Ele se apaixona por uma égua local, chamada Chuva, e desenvolve uma grande amizade com um jovem índio Lakota chamado Pequeno Rio. Juntos eles acompanham a colonização do local onde vivem, percebendo as mudanças que a chegada da civilização fazem em seu dia-a-dia.</info>
+ 
+<genre>Faroeste, Animação, Aventura, Comédia, Família, Drama</genre>
+ 
+<date>05/07/2002</date>
+</item>"
+"<item>
+
+<title>Terra Violenta / No Vale da Violência [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRAVLNTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5851.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5851.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller, Faroeste, Ação
+Lançamento: 2016
+
+Ambientado nos Estados Unidos do final do Século 19, um homem misterioso chega em uma pequena cidade em busca de vingança pelo assassinato do seu amigo. O ato de violência arrasta toda a cidade em uma batalha sangrenta.</info>
+ 
+<genre>Crime, Thriller, Faroeste, Ação</genre>
+ 
+<date>21/10/2016</date>
+</item>"
+"<item>
+
+<title>Tombstone - A Justiça Está Chegando [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TOMBTNEAJSTESTCGAND.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5961.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5961.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Ação
+Lançamento: 1994
+
+Após acabar com o crime em Dodge City, Wyatt Earp (Kurt Russell) se muda para a cidade de Tombstone, onde pretende enriquecer anonimamente. Lá ele encontra seus irmãos e também Doc Holliday (Val Kilmer), seu velho amigo. Eles levam a vida sem problemas, até o aparecimento de um grupo de bandoleiros que começa a causar confusão pelas redondezas. Para resolver a situação os integrantes da família Earp e Doc Holliday decidem combatê-los.</info>
+ 
+<genre>Faroeste, Ação</genre>
+ 
+<date>16/02/1994</date>
+</item>"
+"<item>
+
+<title>Três Homens em Conflito [COLOR yellow][IMDb 8,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TSHMNSEMCFLT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6002.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6002.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 1968
+
+Três homens que ganham a vida de forma questionável no velho oeste norte-americano sabem da existência de um magnífico tesouro enterrado; o problema é que cada um conhece apenas uma parte do segredo para encontrá-lo e nenhum deles está disposto a fazer um acordo para dividi-lo. Nesse cenário conflituoso os três tentarão encontrar uma forma de, ao mesmo tempo, descobrir o que os outros sabem e ser o primeiro a chegar ao prêmio.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>11/01/1968</date>
+</item>"
+"<item>
+
+<title>Um Drink no Inferno 3 - A Filha do Carrasco [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UDRNKNINFRN3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6105.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6105.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Terror, Thriller
+Lançamento: 1999
+
+Novamente o céu do México se torna o único observador de um novo massacre, de volta às origens do primeiro filme no covil de vampiros, um grupo de pesquisadores vão fazer baderna lá. Antes que consigam abrir um sorriso, os habitantes do grotesco bar irão abrir com algo mais em seus dentes. Em 1870, no México, perigoso bandido Johnny Madrid (Leonardi) foge da forca, raptando Esmeralda (Ara), a filha do carrasca (Morrison). Junta-se à sua gangue, assalta uma diligência e vai parar num bar cheio de vampiros, liderados por uma sacerdotisa.</info>
+ 
+<genre>Faroeste, Terror, Thriller</genre>
+ 
+<date>30/10/1999</date>
+</item>"
+"<item>
+
+<title>Um Milhão de Maneiras de Pegar na Pistola [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/UMLHDMNRSDPGRNPSTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6143.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6143.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Faroeste
+Lançamento: 2014
+
+Um criador de ovelhas, Albert, se apaixona por Anna, uma forasteira que o ajuda a descobrir a coragem que havia em si. Porém, ele é desafiado quando o marido fora da lei dela, Clinch, volta para se vingar.</info>
+ 
+<genre>Comédia, Faroeste</genre>
+ 
+<date>18/09/2014</date>
+</item>"
+"<item>
+
+<title>Um Refúgio [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMRFG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6173.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6173.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Faroeste
+Lançamento: 2014
+
+No fim da Guerra Civil Americana, Augusta (Brit Marling), sua irmã Louise (Hailee Steinfeld), e sua escrava Mad (Muna Otaru) estão sozinhas na fazenda. Todos os homens da propriedade foram lutar na guerra. Augusta adoece e precisa ir à cidade. Ela é perseguida por dois Yankees. Eles vão até a fazenda atrás dela. As mulheres precisam lutar com todas suas forças para sobreviver.</info>
+ 
+<genre>Drama, Faroeste</genre>
+ 
+<date>25/09/2014</date>
+</item>"
+"<item>
+
+<title>Um Sonho Distante [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMSNHODSTNTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6188.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6188.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Romance, Faroeste
+Lançamento: 1992
+
+A trama se passa em 1892 e tem início na Irlanda. Joseph Donnelly é um jovem analfabeto que se revolta contra um poderoso proprietário de terras, por considerá-lo responsável pela morte de seu pai. Durante um duelo, uma jovem passa com uma carroça e salva a sua vida. Insatisfeitos com a vida que levavam, eles decidem partir para os Estados Unidos, atrás do sonho americano.</info>
+ 
+<genre>Aventura, Drama, Romance, Faroeste</genre>
+ 
+<date>22/05/1992</date>
+</item>"
+"<item>
+
+<title>Vampiros de John Carpenter [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VMPRSDJHNCRPTER.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6294.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6294.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Fantasia, Terror, Thriller, Faroeste
+Lançamento: 1998
+
+Jack Crow (James Woods) é o líder de uma equipa de mercenários contratados secretamente pelo Vaticano e cujo objectivo é caçar vampiros. Após a destruição de um ""ninho"" de vampiros no Novo México, a equipa é subitamente surpreendida por uma emboscada, durante a festa de celebração da vitória. Valek (Thomas Ian Griffith), um poderoso vampiro com 600 anos, torna-se então o principal inimigo de Crow. Acompanhado por um padre muito novo (Tim Guinee) e pelo único sobrevivente da equipa, Montoya (Daniel Baldwin), Crow inicia uma intensa perseguição a Valek que culmina no ""fatídico confronto entre a fé e a imortalidade"".</info>
+ 
+<genre>Ação, Drama, Fantasia, Terror, Thriller, Faroeste</genre>
+ 
+<date>30/10/1998</date>
+</item>"
+"<item>
+
+<title>Vera Cruz [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VERCRZ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6322.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6322.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Faroeste, Romance
+Lançamento: 1955
+
+Cooper e Lancaster interpretam Benjamin Trane e Joe Erin, dois perigosos mercenários que viajam ao México em busca de aventura - e dinheiro - durante a Guerra Civil de 1866. Mas eles conseguem mais do que haviam negociado quando foram contratados pela bela e rica Condessa Duvarre (Denise Darcel) para escoltá-la e a uma fortuna em ouro até as forças militares do Imperador Maximiliano em Vera Cruz. O caminho é cheio de perigos, traição e assassinato... e quando Bem é apanhado pelo fervor dos revolucionários, ele e Joe vêem-se em confronto com o Exército Mexicano - e um com o outro!</info>
+ 
+<genre>Ação, Faroeste, Romance</genre>
+ 
+<date>12/10/1955</date>
+</item>"
+"<item>
+
+<title>Vingança Mesmo Que Tardia [COLOR yellow][IMDb 2,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNCGMSMQTRDIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6372.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6372.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2015
+
+Um western que tem um olhar diferente, com vingança que Calamity Jane assume, ao perseguir os homens que mataram Wild Bill Hickok. Enquanto Jane está a caça, tendo a lei em suas mãos, um homem da lei pede ajuda de Colorado Charlie Utter, amigo de Jane, para tentar acompanhá-la e impedir que ela vá, longe demais.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>25/09/2015</date>
+</item>"
+"<item>
+
+<title>Westworld - Onde Ninguém Tem Alma [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WSTWLDONDNGMTMALMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste
+Lançamento: 1973
+
+Num resort futurista, visitantes ricos podem visitar recriações de diferentes períodos da história e realizar suas fantasias mais selvagens com androides super realistas. Mas quando Richard Benjamin opta pelo velho oeste, acaba recebendo mais do que esperava quando um androide pistoleiro enlouquece.</info>
+ 
+<genre>Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste</genre>
+ 
+<date>15/08/1973</date>
 </item>"
