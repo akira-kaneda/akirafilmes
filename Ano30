@@ -1,7 +1,64 @@
 "<item>
 
+<title>Luzes da Cidade [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LZSDCIDE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3167.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3167.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 1931
+
+A paixão de um vagabundo por uma pobre florista cega, que acredita que ele é um milionário, o motiva a tentar conseguir o dinheiro necessário da cirurgia para restaurar sua visão.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>01/02/1931</date>
+</item>"
+"<item>
+
+<title>King Kong [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/KINGKONG1933.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2978.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2978.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Terror
+Lançamento: 1933
+
+Em Nova York um famoso diretor de cinema não consegue uma atriz para sua próxima produção, pois ninguém quer ir filmar em um lugar não revelado. Assim ele mesmo começa a vagar pelas ruas até que encontra uma jovem pobre, mas muito bonita, a quem imediatamente dá o emprego. A equipe viaja e vai parar em uma ilha desconhecida, na qual os nativos oferecem ""noivas"" para Kong, um gigantesco macaco. Após muitos perigos a equipe de filmagens conseguem capturar o macaco, pois pretendem levá-lo para Nova York para ser exibido. Paralelamente o símio se apaixona pela atriz.</info>
+ 
+<genre>Aventura, Drama, Terror</genre>
+ 
+<date>07/04/1933</date>
+</item>"
+"<item>
+
+<title>Tempos Modernos [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TMPSMDRNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5836.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5836.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1936
+
+O icónico Vagabundo está empregado em uma fábrica, onde as máquinas inevitável e completamente o dominam e vários percalços o levam para a prisão. Entre suas passagens pela prisão, ele conhece e faz amizade com uma garota órfã. Ambos, juntos e separados, tentam lidar com as dificuldades da vida moderna, o Vagabundo trabalhando como garçom e, eventualmente, um artista.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>30/03/1936</date>
+</item>"
+"<item>
+
 <title>Branca de Neve e os Sete Anões [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer3/ondemand/BRNCDNVEOSTSANS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BRNCDNVEOSTSANS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1321.jpg</image>
@@ -16,4 +73,42 @@ A rainha malvada morre de ciúmes da beleza de Branca de Neve e manda mata-la. L
 <genre>Fantasia, Animação, Família</genre>
  
 <date>04/02/1938</date>
+</item>"
+"<item>
+
+<title>O Mágico de Oz [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OMGCODOZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4149.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4149.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Família
+Lançamento: 1939
+
+Em Kansas, Dorothy (Judy Garland) vive em uma fazenda com seus tios. Quando um tornado ataca a região, ela se abriga dentro de casa. A menina e seu cachorro são carregados pelo ciclone e aterrisam na terra de Oz, caindo em cima da Bruxa Má do Leste e a matando. Dorothy é vista como uma heroína, mas o que ela quer é voltar para Kansas. Para isso, precisará da ajuda do Poderoso Mágico de Oz que mora na Cidade das Esmeraldas. No caminho, ela será ameaçada pela Bruxa Má do Oeste (Margaret Hamilton), que culpa Dorothy pela morte de sua irmã, e encontrará três companheiros: um Espantalho (Ray Bolger) que quer ter um cérebro, um Homem de Lata (Jack Haley) que anseia por um coração e um Leão covarde (Bert Lahr) que precisa de coragem. Será que o Mágico de Oz conseguirá ajudar todos eles?</info>
+ 
+<genre>Aventura, Fantasia, Família</genre>
+ 
+<date>18/09/1939</date>
+</item>"
+"<item>
+
+<title>As Viagens de Gulliver [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASVGNSDGLVR1939.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5753.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5753.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Família
+Lançamento: 1939
+
+Gulliver chega à costa de Lilliput e tenta evitar a guerra entre aquele minúsculo reino e seu rival igualmente minúsculo, Blefiscu, além de facilitar o romance entre a Princesa e o Príncipe das terras opostas. Nisso ele é alternadamente auxiliado e dificultado pelo pregoeiro liliputiano e pelo agitador geral, Gabby. Uma situação de risco de vida se desenvolve quando o trio trapalhão de espiões Blefiscu, Sneak, Snoop e Snitch, consegue roubar a pistola de Gulliver.</info>
+ 
+<genre>Ação, Aventura, Animação, Família</genre>
+ 
+<date>22/12/1939</date>
 </item>"
