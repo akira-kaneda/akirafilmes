@@ -1,7 +1,26 @@
 "<item>
 
+<title>O Garoto [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OGRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4024.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4024.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1921
+
+Uma mãe abandona seu filho com um bilhete em uma limusine, mas o carro acaba sendo roubado e a criança é deixada em uma lata de lixo. Um vagabundo encontra o bebê e passa a cuidar dele. Cinco anos depois, a mulher tenta encontrar o filho perdido.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>05/05/1921</date>
+</item>"
+"<item>
+
 <title>Casamento ou Luxo [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC].azureedge.net/RCFServer5/ondemand/CSMTOULXOLEG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CSMTOULXOLEG.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601507.us.archive.org/17/items/1411_20200923/1475.jpg</image>
@@ -16,4 +35,23 @@ Quando Marie St. Clair acredita que foi rejeitada por seu namorado artista Jean,
 <genre>Drama, Romance</genre>
  
 <date>01/10/1923</date>
+</item>"
+"<item>
+
+<title>Em Busca do Ouro [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/EMBSCDORO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2133.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2133.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Drama
+Lançamento: 1925
+
+No Alasca, Carlitos (Charles Chaplin) tenta a sorte como garimpeiro em meio a corrida do ouro de 1898. Lá ele conhece o gordo McKay (Mack Swaim), com quem cria bastante confusão após uma tempestade de neve, e se apaixona por uma dançarina (Georgia Hale).</info>
+ 
+<genre>Aventura, Comédia, Drama</genre>
+ 
+<date>12/07/1925</date>
 </item>"
