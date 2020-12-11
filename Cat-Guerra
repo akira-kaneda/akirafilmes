@@ -1,7 +1,9 @@
 "<item>
 
 <title>...E o Vento Levou [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -18,7 +20,9 @@ Lançamento: 1940
 "<item>
 
 <title>12 Heróis [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/12HERS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12HERS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/42.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/42.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -36,7 +40,9 @@ Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hem
 "<item>
 
 <title>15 Minutos de Guerra [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/15MNTSDGRA.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/15MNTSDGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801508.us.archive.org/16/items/35_20200901/54.jpg</image>
 <thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/54.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -53,8 +59,29 @@ Baseado nos eventos reais ocorridos em Djibouti no ano de 1976, quando terrorist
 </item>"
 "<item>
 
+<title>1898 - Os Ultimos das Filipinas [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSULTMDSFLPNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4708.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4708.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, História
+Lançamento: 2017
+
+Baseado em fatos reais o longa conta a história de um grupo de soldados espanhóis que continuavam trancados numa igreja da aldeia de Baler por causa de um cerco. Os militares estavam lá por quase um ano com a convicção de que a guerra nas Filipinas ainda não tinha terminado.</info>
+ 
+<genre>Guerra, Drama, História</genre>
+ 
+<date>03/03/2017</date>
+</item>"
+"<item>
+
 <title>1911 - A Revolução [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/1911ARVLCAO.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/1911ARVLCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/58.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/58.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -71,7 +98,9 @@ O centésimo filme do ator Jackie Chan, 1911, é um tributo aos 100 anos de aniv
 "<item>
 
 <title>1917 [COLOR yellow][IMDb 8,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/1917.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/1917.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/59.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/59.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -89,7 +118,9 @@ Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens so
 "<item>
 
 <title>1918 – A Batalha de Kruty [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/1918ABTLHDKRT.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/1918ABTLHDKRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/60.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/60.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -107,7 +138,9 @@ Enquanto um exército bolchevique de cerca de 4.000 homens, comandado pelo gener
 "<item>
 
 <title>300 [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/300.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/300.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -125,7 +158,9 @@ Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e se
 "<item>
 
 <title>300: A Ascensão do Império [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -143,7 +178,9 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 "<item>
 
 <title>5 Dias de Guerra [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/5DIASDGRA.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/5DIASDGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801407.us.archive.org/5/items/112_20200902/94.jpg</image>
 <thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/94.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -161,7 +198,9 @@ Baseado em fatos reais, o filme conta a história de um jornalista americano, se
 "<item>
 
 <title>72 Horas: Mártir Que Nunca Morreu [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/72HRSMRTQNCMRE.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/72HRSMRTQNCMRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/105.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/105.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -178,7 +217,9 @@ Lançamento: 2019
 "<item>
 
 <title>A Batalha das Ardenas - A Última Ofensiva de Hitler [COLOR yellow][IMDb 3,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ABTLHDSARDNS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/ABTLHDSARDNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/134.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/134.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -195,7 +236,9 @@ No natal de 1944 os alemães decidiram arriscar tudo para realizar um último at
 "<item>
 
 <title>A Batalha na Montanha do Tigre [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ABTLHNMNTNHDTRG.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ABTLHNMNTNHDTRG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601407.us.archive.org/5/items/112_20200902/138.jpg</image>
 <thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/138.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -212,7 +255,9 @@ Uma história centrada em torno de um conflito entre um pelotão do Exército Po
 "<item>
 
 <title>A Guerra de Hart [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AGRADHRT.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AGRADHRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/322.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/322.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -229,7 +274,9 @@ Tommy Hart (Colin Farrell) é um estudante do 2º ano de Direito que se alista n
 "<item>
 
 <title>A Lista de Schindler [COLOR yellow][IMDb 8,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALSTDSCHDLR.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALSTDSCHDLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801406.us.archive.org/21/items/371_20200905/396.jpg</image>
 <thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/396.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -246,7 +293,9 @@ A inusitada história de Oskar Schindler, um sujeito oportunista, sedutor, armad
 "<item>
 
 <title>A Ponte de Remagen [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/APNTDRMGM.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/APNTDRMGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601409.us.archive.org/16/items/487_20200908/530.jpg</image>
 <thumbnail>https://ia601409.us.archive.org/16/items/487_20200908/530.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -265,7 +314,9 @@ Em março de 1945, quando a Guerra na Europa está chegando ao fim, o Exército 
 "<item>
 
 <title>A Ponte do Rio Kwai [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/APNTDRIOKWAI.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/APNTDRIOKWAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia801409.us.archive.org/16/items/487_20200908/531.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/16/items/487_20200908/531.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -282,7 +333,9 @@ Depois de liquidar suas diferenças com o comandante de um campo de prisioneiros
 "<item>
 
 <title>A Queda! As Últimas Horas de Hitler [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AQDAASULTMSHRSDHTLR.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AQDAASULTMSHRSDHTLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/573.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/573.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -299,7 +352,9 @@ Traudl Junge (Alexandra Maria Lara) trabalhava como secretária de Adolf Hitler 
 "<item>
 
 <title>A Reconquista [COLOR yellow][IMDb 2,5][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ARCNQSTA.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ARCNQSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/582.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/582.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -315,8 +370,29 @@ Mil anos no futuro, quando uma raça alienígena, os Psyclos, conquistam o plane
 </item>"
 "<item>
 
+<title>A Resistência [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ARSTNCIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3707.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3707.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, História, Ação
+Lançamento: 2010
+
+Brestskaya Krepost é um drama de guerra único, uma vez que foca nos primeiros dias da guerra para os soviéticos, assim como Pearl Harbor focou no primeiro dia da guerra para os americanos, com a diferença de que seu desfecho tem um sentido muito mais profundo, assim como o filme como um todo, a julgar pelo realismo de suas cenas, de sua história e a brilhante atuação dos atores, com pouquíssima fantasia. Sem dúvidas um filme que marcará o cinema e tem seu lugar dentre os melhores filmes de guerra já feito nos últimos 20 anos.</info>
+ 
+<genre>Guerra, Drama, História, Ação</genre>
+ 
+<date>11/11/2010</date>
+</item>"
+"<item>
+
 <title>A Última Jornada [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AULTMJRND.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AULTMJRND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/639.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/639.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -333,7 +409,9 @@ Nas trincheiras da Primeira Guerra Mundial o tenente Raleigh (Asa Butterfield) f
 "<item>
 
 <title>A Última Resistência [COLOR yellow][IMDb 7,9][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/AULTMRSTNC.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AULTMRSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/643.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/643.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -350,7 +428,9 @@ Esta é a história de uma missão militar que durou semanas em setembro de 2014
 "<item>
 
 <title>Além da Linha Vermelha [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer1/ondemand/ALMDLNHVRMLH.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ALMDLNHVRMLH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/739.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/739.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -367,7 +447,9 @@ Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guada
 "<item>
 
 <title>Além das Águas [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALMDSAGUA.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALMDSAGUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/743.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/743.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -384,7 +466,9 @@ Lançamento: 2016
 "<item>
 
 <title>Aliados [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/ALDOS.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ALDOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/752.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/752.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -401,7 +485,9 @@ Em uma missão para eliminar um embaixador nazista em Casablanca, no Marrocos, o
 "<item>
 
 <title>Amanhecer Violento [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/AMNHCRVLNTO1984.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMNHCRVLNTO1984.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/797.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/797.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -418,7 +504,9 @@ Quando a cidade de 8 jovens é invadida por soldados soviéticos e cubanos, e gr
 "<item>
 
 <title>Amor em Tempos de Guerra [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer4/ondemand/AMREMTMPSDGRRA.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AMREMTMPSDGRRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/848.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/848.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -435,7 +523,9 @@ Em 1914, uma mulher deixa seu país quando conhece um médico norte-americano qu
 "<item>
 
 <title>Apocalypse Now [COLOR yellow][IMDb 8,4][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/APCLPSNW.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer3/ondemand/APCLPSNW.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/921.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/921.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -452,7 +542,9 @@ Durante a guerra do Vietnã, o Capitão Willard recebe como missão ir ao Camboj
 "<item>
 
 <title>Arma Secreta [COLOR yellow][IMDb 3,8][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ARMSCRTA.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ARMSCRTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601403.us.archive.org/27/items/802_20200914/950.jpg</image>
 <thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/950.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -469,7 +561,9 @@ Baseado em uma história verdadeira, o filme conta sobre o famoso lançador de f
 "<item>
 
 <title>As Condenadas [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/ASCNADSCLGLRECRNDCMHTLR.mp4?attachment=true</link>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASCNADSCLGLRECRNDCMHTLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
 <image>https://ia601405.us.archive.org/13/items/974_20200914/996.jpg</image>
 <thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/996.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
@@ -483,4 +577,2513 @@ Um sobrevivente judeu da Segunda Guerra Mundial revisita as ruínas de um campo 
  
 <date>10/12/1978</date>
 </item>"
+"<item>
+
+<title>As Incríveis Histórias de Max e Léon [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ASINCRVSHSTRDMXELEN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1020.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1020.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Comédia
+Lançamento: 2016
+
+Max (David Marsais) e Léon (Grégoire Ludig), os dois preguiçosos e festeiros, são melhores amigos desde a infância. Durante a Segunda Guerra Mundial, eles lutam como soldados, mas a verdadeira aventura é o que eles fazem para tentar fugir da batalha.</info>
  
+<genre>Guerra, Comédia</genre>
+ 
+<date>01/11/2016</date>
+</item>"
+"<item>
+
+<title>Assassinos de Guerra [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ASASNSDGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1075.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1075.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra
+Lançamento: 2019
+
+Em 1944, um grupo de soldados americanos conhecido como ""Assassinos de Guerra"" estão se tornando um problema crescente para seus superiores - desobedecendo ordens, banhando-se com pouca freqüência e muitas vezes indo AWOL de seus quartéis. Mas os homens rebeldes têm a oportunidade de expiar seu comportamento quando são selecionados para serem a primeira unidade a saltar de pára-quedas atrás das linhas alemãs durante a invasão da Normandia. Seu objetivo é percorrer o território inimigo a pé e destruir linhas de suprimento nazistas e rotas de fuga. Alguns chamam isso de uma missão suicida. Mas eles não contaram com a ferocidade e determinação deste grupo desorganizado de Assassinos do Dia D, que não vai parar em nada para derrubar o inimigo. Esta é a história da vida real brutal e emocionante que inspirou ""The Dirty Dozen""</info>
+ 
+<genre>Guerra</genre>
+ 
+<date>15/04/2019</date>
+</item>"
+"<item>
+
+<title>Até o Limite [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ATOLMTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1091.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1091.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Guerra
+Lançamento: 2019
+
+Dez anos depois de servir no Afeganistão de onde voltou ferido, um fuzileiro lida com suas limitações. O abrigo de cães que mantém é a força fundamental em sua recuperação. Quando um incêndio criminoso destrói o canil, ele perde o controle.</info>
+ 
+<genre>Drama, Família, Guerra</genre>
+ 
+<date>28/10/2019</date>
+</item>"
+"<item>
+
+<title>Até o Último Homem [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ATOULHMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1093.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1093.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 2017
+
+Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>26/01/2017</date>
+</item>"
+"<item>
+
+<title>Atrás da Linha: Fuga para Dunkirk [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ATRSDLNHDFGAPRDNKNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5730.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5730.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra
+Lançamento: 2020
+
+França, II Guerra Mundial. Um grupo de soldados britânicos é capturado pelo alemães. Quando um comandante nazista começa a forçar lutas de boxe para entreter a companhia, os presos percebem que podem usá-las para tentar escapar.</info>
+ 
+<genre>Guerra</genre>
+ 
+<date>20/08/2020</date>
+</item>"
+"<item>
+
+<title>Atrás das Linhas Inimigas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ATRSDLNHSINMGS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1120.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1120.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Thriller, Guerra
+Lançamento: 2002
+
+Chris Burnett (Owen Wilson) é um aviador naval experiente que está frustrado por ter sido afastado das missões de combate. Durante uma missão de reconhecimento, Burnett fotografa algo que deveria ser mantido em sigilo e, por isso, tem seu avião abatido. Agora em meio às linhas inimigas, ele receberá ajuda do almirante Reignart (Gene Hackman), um oficial durão e antiquado que acredita que Burnett ainda não aprendeu o real significado de ser um soldado.</info>
+ 
+<genre>Ação, Drama, Thriller, Guerra</genre>
+ 
+<date>18/01/2002</date>
+</item>"
+"<item>
+
+<title>Atrás das Linhas Inimigas 3: Operação Colômbia [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ATRSDLNHSINMGS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1123.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1123.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Thriller
+Lançamento: 2009
+
+Em uma missão secreta na Colômbia, um grupo de soldados americanos é perseguido por duas facções que acreditam que seus líderes foram mortos por eles. Abandonados pelo seu próprio governo, os soldados lutam para sobreviver ao mesmo tempo em que buscam provar sua inocência e impedir uma guerra entre os dois países.</info>
+ 
+<genre>Guerra, Ação, Thriller</genre>
+ 
+<date>06/01/2009</date>
+</item>"
+"<item>
+
+<title>Atrás das Linhas Inimigas 4: Missão África [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ATRSDLNHSINMGS4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1121.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1121.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra, Drama
+Lançamento: 2014
+
+Em uma missão não sancionada na África, uma equipe dos SEALs é enviada para localizar uma operação secreta de mineração e impedir a venda de urânio para terroristas internacionais.</info>
+ 
+<genre>Ação, Guerra, Drama</genre>
+ 
+<date>01/03/2014</date>
+</item>"
+"<item>
+
+<title>Bastardos Inglórios [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BSTRDSINGLRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1180.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1180.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller, Guerra
+Lançamento: 2009
+
+Durante a Segunda Guerra Mundial, na França, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido.</info>
+ 
+<genre>Drama, Ação, Thriller, Guerra</genre>
+ 
+<date>09/10/2009</date>
+</item>"
+"<item>
+
+<title>Bom Dia, Vietnã [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BMDIAVTNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1296.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1296.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Guerra
+Lançamento: 1987
+
+Convocado pelo exército para transmitir um programa de rádio, Cronauer acaba com a caretice das ondas pasteurizadas da rádio, com suas piadas e os últimos sucessos musicais da América. Os soldados o veneram enquanto as altas patentes o consideram um ultraje.</info>
+ 
+<genre>Comédia, Drama, Guerra</genre>
+ 
+<date>23/12/1987</date>
+</item>"
+"<item>
+
+<title>BÖRÜ: Esquadrão Lobo [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESQDAOLBO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5724.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5724.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra, Thriller
+Lançamento: 2018
+
+Os agentes da unidade de operações especiais da polícia turca têm de enfrentar o perigo em missões arriscadas e a tragédia na vida pessoal.</info>
+ 
+<genre>Ação, Guerra, Thriller</genre>
+ 
+<date>28/02/2018</date>
+</item>"
+"<item>
+
+<title>Braddock - O Super Comando [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BRDCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1319.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1319.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1984
+
+O coronel das Forças Especiais, James Braddock, precisa trazer de volta soldados norte-americanos que ainda estão sendo mantidos como prisioneiros no Vietnã. Contando com a ajuda da funcionária do Departamento de Estado e de um ex-colega de Exército, Braddock, reúne informação altamente confidencial e armamento de última geração. Braddock, forma então, um exército de um homem só, disposto a invadir o Vietnã, para localizar e salvar seus companheiros restantes desaparecidos em combate.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>16/11/1984</date>
+</item>"
+"<item>
+
+<title>Braddock 2 - O Início da Missão [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/brdck2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1317.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1317.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 1985
+
+Em 1972, no Vietnã, o Coronel Braddock, e alguns de seus soldados são capturados e mantidos prisioneiros, sob intensa tortura, por um militar corrupto, traficante de drogas. Os anos se passam, Braddock, é dado como desaparecido pelo governo americano, e cria um plano para escapar com seus homens.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>01/03/1985</date>
+</item>"
+"<item>
+
+<title>Braddock 3 - O Resgate [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/BRDCK3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1318.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1318.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 1988
+
+Saigon, 1975 O Coronel James Braddock deixou para trás mais do que recordações: seu filho. E está vivo ! Agora... 12 anos depois, não é só um soldado perseguindo o inimigo, é um pai procurando pelo filho. Até que descobre uma geração ignorada. Os órfãos de uma guerra esquecisa. Agora Braddock está numa heróica missão de clemência. Está lutando por todo mundo que não pode revidas. E que ninguém se ponha em seu caminho. Eu tiro do caminho! Fechando com chave de ouro a trilogia Braddock.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>22/01/1988</date>
+</item>"
+"<item>
+
+<title>Capitão América [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CAPTAMRC1990.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1431.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1431.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Guerra
+Lançamento: 1991
+
+Durante a 2ª Guerra Mundial o americano Steve Rogers (Matt Salinger) se submete a uma experiência comandada por Therese Vaselli (Carla Cassola), uma cientista que fugiu da Itália por não aceitar os ""métodos"" utilizados. Steve se torna um super soldado, surgindo o Capitão América. Entretanto Vaselli é morta e o segredo de transformar um simples humano num soldado excepcional morre com ela, o que frustra o plano de criar vários super soldados. Ao se defrontar com o Caveira Vermelha (Scott Paulin), um hiper soldado criado pelos nazistas, o Capitão América é preso num foguete, que tem como alvo a Casa Branca. O herói desvia a trajetória, no entanto vai parar no Alasca, onde fica congelado. Nos anos 90 ele acorda e descobre que o Caveira é Tadzio de Santis, que quer seqüestrar o presidente Tom Kimball (Ronny Cox) e usar uma técnica revolucionária para tomar o lugar de Kimball e se tornar o novo presidente dos Estados Unidos.</info>
+ 
+<genre>Ação, Ficção científica, Guerra</genre>
+ 
+<date>05/07/1991</date>
+</item>"
+"<item>
+
+<title>Castelo de Areia [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CSTLDAREA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1481.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1481.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra
+Lançamento: 2017
+
+Um pequeno vilarejo chamada Baquba é colocado em perigo durante a invasão americana no Iraque. A única esperança da cidadezinha é uma tropa de soldados americanos, alocada anteriormente em Bagdá, que fará de tudo para proteger o local, encarando, pela primeira vez, os verdadeiros horrores de uma grande guerra e de uma difícil e longa batalha.</info>
+ 
+<genre>Ação, Drama, Guerra</genre>
+ 
+<date>21/04/2017</date>
+</item>"
+"<item>
+
+<title>Cavalo de Guerra [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CVLDGUR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1490.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1490.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra, Ação
+Lançamento: 2012
+
+Albert vive com o pai e a mãe no campo e tem uma intensa ligação com seu cavalo. Depois de ser vendido para a cavalaria inglesa durante a Primeira Guerra Mundial, Albert se alista para recuperar o animal e acaba conhecendo o major.</info>
+ 
+<genre>Drama, Guerra, Ação</genre>
+ 
+<date>06/01/2012</date>
+</item>"
+"<item>
+
+<title>Círculo de Fogo [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CIRCLODFG2001.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1541.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1541.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra, História
+Lançamento: 2001
+
+Vasily Zaitsev (Jude Law) é um jovem atirador russo que, convencido por um companheiro político (Joseph Fiennes), torna-se o ícone da propaganda russa em plena 2ª Guerra Mundial. A fama de Vasily o torna uma lenda viva para o exército russo e desperta também a atenção do exército nazista, que envia seu melhor atirador de elite (Ed Harris) com o objetivo de matar aquele que se tornou a esperança de toda a Rússia.</info>
+ 
+<genre>Drama, Guerra, História</genre>
+ 
+<date>06/04/2001</date>
+</item>"
+"<item>
+
+<title>Companhia de Heróis [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/COMPNYOHROS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1633.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1633.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2013
+
+Ambientado na segunda guerra mundial o filme retrata a busca incessante dos soldados americanos por cientistas, oficiais do exército alemão, que estariam desenvolvendo bombas com alto poder de destruição.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>26/02/2013</date>
+</item>"
+"<item>
+
+<title>Consequências [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CNSQNCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1652.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1652.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Guerra
+Lançamento: 2019
+
+Recém-chegada em Hamburgo, Rachel Morgan é afetada de imediato pelo clima sombrio que a cidade conserva depois de ter sido inteiramente destruída durante a Segunda Guerra Mundial. Seu marido, o coronel britânico Lewis , foi encarregado de coordenar a reconstrução da região por tempo indeterminado. Em uma decisão unilateral, Lewis estabelece que o casal ficará hospedado na casa de um viúvo alemão, provocando sentimentos conflituosos em sua esposa.</info>
+ 
+<genre>Drama, Romance, Guerra</genre>
+ 
+<date>01/03/2019</date>
+</item>"
+"<item>
+
+<title>Coração Valente [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRCAOVLNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1683.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1683.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História, Guerra
+Lançamento: 1995
+
+No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.</info>
+ 
+<genre>Ação, Drama, História, Guerra</genre>
+ 
+<date>14/07/1995</date>
+</item>"
+"<item>
+
+<title>Corações de Ferro [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRCAODFRRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1685.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1685.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, Ação
+Lançamento: 2015
+
+Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy (Brad Pitt), sargento que pretende levá-los à vitória, enquanto ensina o novato Norman (Logan Lerman) a lutar.</info>
+ 
+<genre>Guerra, Drama, Ação</genre>
+ 
+<date>05/02/2015</date>
+</item>"
+"<item>
+
+<title>Destacamento Blood [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DSTCMNTBLND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1883.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1883.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2020
+
+Spike Lee conta a história de quatro veteranos de guerra afro-americanos que voltam ao Vietnã à procura dos restos mortais de seu comandante e de um tesouro enterrado.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>12/06/2020</date>
+</item>"
+"<item>
+
+<title>Dr. Fantástico [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DRFNTSCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2015.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2015.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Guerra
+Lançamento: 1965
+
+Um general americano meio louco, Jack D. Ripper, acredita que os soviéticos estão sabotando os reservatórios de água dos Estados Unidos e resolve fazer um ataque anticomunista, bombardeando a União Soviética para se livrar dos ""vermelhos"". Com as comunicações interrompidas, ele é o único que possui os códigos para parar os bombardeiros e evitar o que provavelmente seria o início da Terceira Guerra Mundial.</info>
+ 
+<genre>Drama, Comédia, Guerra</genre>
+ 
+<date>01/01/1965</date>
+</item>"
+"<item>
+
+<title>Drácula: A História Nunca Contada [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DRCLAHSTRNCNTDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2018.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2018.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Drama, Fantasia, Guerra
+Lançamento: 2014
+
+Os habitantes da Transilvânia sempre foram inimigos dos turcos, com quem tiveram batalhas épicas. Para evitar que sua população fosse massacrada, o rei local aceitou entregar aos turcos centenas de crianças. Entre elas estava seu próprio filho, Vlad Tepes (Luke Evans), que aprendeu com os turcos a arte de guerrear. Logo Vlad ganhou fama pela ferocidade nas batalhas e também por empalar os derrotados. De volta à Transilvânia, onde é nomeado príncipe, ele governa em paz por 10 anos. Só que o rei Mehmed (Dominic Cooper) mais uma vez exige que 100 crianças sejam entregues aos turcos. Vlad se recusa e, com isso, inicia uma nova guerra. Para vencê-la, ele recorre a um ser das trevas (Charles Dance) que vive pela região. Após beber o sangue dele, Vlad se torna um vampiro e ganha poderes sobrehumanos.</info>
+ 
+<genre>Terror, Ação, Drama, Fantasia, Guerra</genre>
+ 
+<date>23/10/2014</date>
+</item>"
+"<item>
+
+<title>Dunkirk [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DUKRK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2061.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2061.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Drama
+Lançamento: 2017
+
+Durante a Segunda Guerra Mundial, a Alemanha avança rumo à França e cerca as tropas aliadas nas praias de Dunkirk. Sob cobertura aérea e terrestre das forças britânicas e francesas, as tropas são lentamente evacuadas da praia.</info>
+ 
+<genre>Guerra, Ação, Drama</genre>
+ 
+<date>27/07/2017</date>
+</item>"
+"<item>
+
+<title>El Cid [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ELCID.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2093.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2093.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História, Romance, Guerra
+Lançamento: 1961
+
+Filme épico sobre o lendário herói espanhol Rodrigo Diaz, ""El Cid"" para os seus seguidores, que, sem comprometer o seu rigoroso sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.</info>
+ 
+<genre>Ação, Drama, História, Romance, Guerra</genre>
+ 
+<date>24/12/1961</date>
+</item>"
+"<item>
+
+<title>Enigma [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ENGMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2183.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2183.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Drama, Thriller, Romance, Guerra
+Lançamento: 2001
+
+Em março de 1943, a equipe de elite dos decodificadores da Inglaterra tem uma responsabilidade monumental: decifrar o Enigma, um código ultraseguro utilizado pelos nazistas para enviar mensagens aos seus submarinos. O desafio fica ainda maior quando se sabe que uma grande esquadra de navios mercantis está prestes a cruzar o Atlântico e cerca de dez mil homens correrão perigo caso a localização dos submarinos alemães não seja logo descoberta, o que apenas poderá ocorrer quando o Enigma for decifrado. Para liderar este trabalho é chamado Tom Jericho (Dougray Scott), um gênio da matemática que consegue realizar tarefas consideradas impossíveis pelos especialistas. Porém, ao mesmo tempo em que Jericho se envolve cada vez mais com a decodificação do Enigma ele precisa estar atento à sua namorada Claire (Saffron Burrows), uma sedutora e misteriosa mulher que pode estar trabalhando como espiã para os alemães.</info>
+ 
+<genre>Mistério, Drama, Thriller, Romance, Guerra</genre>
+ 
+<date>22/01/2001</date>
+</item>"
+"<item>
+
+<title>Entre Irmãos [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ENTIRMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2201.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2201.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Guerra
+Lançamento: 2009
+
+Sam Cahill tem tudo sob controle: uma carreira militar de sucesso, uma bela esposa e duas filhas. Seu irmão mais novo, é um vagabundo que vive no limite da lei. Quando Sam é enviado ao Afeganistão, em uma missão da ONU, a harmonia entre os dois irmãos muda para sempre. Sam some e sua esposa é consolada por seu irmão que, apesar de tudo, mostra que é capaz de assumir a responsabilidade por si próprio e pela família. Quando Sam volta para casa, traumatizado por ter ficado prisioneiro nas montanhas do Afeganistão, nada está como antes.</info>
+ 
+<genre>Drama, Thriller, Guerra</genre>
+ 
+<date>02/12/2009</date>
+</item>"
+"<item>
+
+<title>Esquadrão 303 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESQDRAO303.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2247.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2247.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2019
+
+Esta é a história do esquadrão de caça conceituado, no qual serviu principalmente aviadores da Polônia, na história do combate aéreo e na defesa heroica da Inglaterra durante a Segunda Guerra Mundial, a Batalha da Grã-Bretanha contra ataques nazistas. O Esquadrão 303 disparou três vezes mais aviões da Luftwaffe do que qualquer outro esquadrão aliado.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>17/07/2019</date>
+</item>"
+"<item>
+
+<title>Essa É Minha Vida [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ESAEMNHVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2258.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2258.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller, Guerra
+Lançamento: 2013
+
+Daisy (Saoirse Ronan) é uma garota americana, que visita o interior da Inglaterra com a sua família, durante o período de férias. Mas quando a guerra eclode, ela deve se esconder e aprender a sobreviver sozinha.</info>
+ 
+<genre>Drama, Ação, Thriller, Guerra</genre>
+ 
+<date>08/11/2013</date>
+</item>"
+"<item>
+
+<title>Ethel & Ernest [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ETHLERNST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2273.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2273.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Drama, Guerra
+Lançamento: 2016
+
+Este filme animado desenhado à mão, baseado no romance gráfico do vencedor do Prêmio Raymond Briggs, é uma representação íntima e afetuosa da vida e dos tempos dos pais dele, dois londrinos normais vivendo através de eventos extraordinários, como a II guerra mundial!</info>
+ 
+<genre>Animação, Drama, Guerra</genre>
+ 
+<date>28/10/2016</date>
+</item>"
+"<item>
+
+<title>Falcão Negro em Perigo [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/FLCNGROEMPRGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2315.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2315.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, História, Guerra
+Lançamento: 2002
+
+Em outubro de 1993, durante a guerra civil da Somália, uma força de elite americana é enviada para capturar generais locais. Porém, após dois helicópteros serem derrubados, o que deveria ser uma operação simples se torna uma extensa batalha.</info>
+ 
+<genre>Ação, História, Guerra</genre>
+ 
+<date>08/03/2002</date>
+</item>"
+"<item>
+
+<title>Filhas do Sol [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FLHSDSL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2366.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2366.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2018
+
+Bahar é a comandante das Filhas do Sol, um batalhão composto apenas por mulheres curdas que atua ofensivamente na guerra do país. Ela e as suas soldadas estão prestes a entrar na cidade de Gordyene, local onde Bahar foi capturada uma vez no passado. Mathilde é uma jornalista francesa que está acompanhando o batalhão durante o ataque. O encontro entre as duas mulheres, dentro do cenário caótico que as cercam, irá mudar a vida de ambas permanentemente.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>21/11/2018</date>
+</item>"
+"<item>
+
+<title>Flyboys [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/FLBYS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2387.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2387.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, História, Romance, Guerra
+Lançamento: 2006
+
+O filme segue no alistamento, treinamento e experiências de combate de um grupo de jovens americanos que se voluntariaram para se tornarem pilotos de caça da Esquadrilha Lafayette, o 124 º esquadrão aéreo, formada pelos franceses em 1916. O esquadrão foi composta por 5 oficiais franceses e 38 voluntários americanos que queria voar e combater na I Guerra Mundial, durante os anos do conflito principal, 1914-1917, antes dos Estados Unidos se juntar à guerra contra as Potências Centrais</info>
+ 
+<genre>Ação, Aventura, Drama, História, Romance, Guerra</genre>
+ 
+<date>22/09/2006</date>
+</item>"
+"<item>
+
+<title>Fomos Heróis [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FMSHRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801908.us.archive.org/33/items/2334_20201015/2391.jpg</image>
+<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2391.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, História, Guerra
+Lançamento: 2002
+
+Em plena Guerra do Vietnã, o tenente-coronel Hal Moore e mais 400 integrantes do exército norte-americano, todos da elite de combate, são cercados por 2000 soldados vietnamitas. A batalha que se segue a partir de então se torna uma das mais sangrentas da história militar norte-americana, fazendo com que posteriormente o lugar onde ela ocorreu seja conhecido como o Vale da Morte.</info>
+ 
+<genre>Ação, História, Guerra</genre>
+ 
+<date>01/03/2002</date>
+</item>"
+"<item>
+
+<title>Forças Especiais [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/FRCSESPCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2403.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2403.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra
+Lançamento: 2011
+
+Elsa (Diane Kruger) é uma jornalista francesa que foi sequestrada por um líder do Talibã. Logo um vídeo com ela surge na internet, onde é anunciada sua data de execução. Investigações indicam que o cativeiro de Elsa fica em um vilarejo no Paquistão e logo uma equipe altamente treinada, composta por seis homens liderados por Kovax (Djimon Hounson), é enviada. Eles conseguem resgatá-la, mas agora precisam encontrar um jeito de deixar o local.</info>
+ 
+<genre>Ação, Drama, Guerra</genre>
+ 
+<date>09/12/2011</date>
+</item>"
+"<item>
+
+<title>Fuga de Sobibor [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SBBR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5581.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5581.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Cinema TV, Guerra
+Lançamento: 1987
+
+Baseado em fatos reais, ex-prisioneiro do campo, Fuga de Sobibor / Escape from Sobibor conta a aguerrida fuga de prisioneiros de um campo de concentração nazista durante a Segunda Guerra Mundial. Sobibor é um dos três campos de concentração localizado na Polônia oriental. Um grupo de prisioneiros é temporariamente poupado para poder trabalhar no acampamento, sob condições degradantes impostas pelos oficiais nazistas. Relembrando o destino desumano de cada dia, os prisioneiros planejam o impossível - fugir de Sobibor! Uma história que verdadeiramente reflete a força, a coragem e a resistência do espírito humano. (e 16 - Estimado 16 Anos)</info>
+ 
+<genre>Drama, Thriller, Cinema TV, Guerra</genre>
+ 
+<date>12/04/1987</date>
+</item>"
+"<item>
+
+<title>Fugindo do Inferno [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/FGNDOINFNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2438.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2438.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, História, Thriller, Guerra
+Lançamento: 1963
+
+Em 1943 os nazistas decidem transferir os prisioneiros de guerra militares, que têm maior incidência em tentativas de fugas, para o mesmo campo, que foi projetado para impedir qualquer tipo de evasão. Mas isto foi um erro, pois apesar dos prisioneiros gozarem de certos privilégios, cada um era o melhor na sua ""especialidade"" e não pretendiam ficar presos até o final da guerra. Logo idealizam um audacioso plano de fuga, que previa a construção de três túneis, mas a idéia não era retirar do campo alguns prisioneiros mas sim duzentos e cinqüenta.</info>
+ 
+<genre>Aventura, Drama, História, Thriller, Guerra</genre>
+ 
+<date>11/10/1963</date>
+</item>"
+"<item>
+
+<title>Greyhound - Na Mira do Inimigo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/GRYHNDNMRDINMGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2537.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2537.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Drama
+Lançamento: 2020
+
+Em Greyhound: Na Mira do Inimigo, o comboio internacional de 37 navios aliados liderado pelo capitão Ernest Krause (Tom Hanks), que está em seu primeiro comando de destróier norte-americano, atravessa o temido Atlântico Norte e precisa enfrentar a perseguição por matilhas de submarinos nazistas.</info>
+ 
+<genre>Guerra, Ação, Drama</genre>
+ 
+<date>10/07/2020</date>
+</item>"
+"<item>
+
+<title>Guerra [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/GURA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2546.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2546.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2016
+
+O comandante Claus Michael Pedersen (Pilou Asbæk) está parado com seus homens em Helmand, no Afeganistão. Enquanto isso, na Dinamarca, a esposa de Claus, Maria (Tuva Novotny), e seus três filhos lutam diam após dia sentindo sua falta. Em uma missão de rotina, os soldados são capturados em um fogo cruzado com o Talibã. Para salvar os seus homens, Claus toma uma decisão que fará com que ele retorne para a Dinamarca acusado de um crime de guerra.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>12/02/2016</date>
+</item>"
+"<item>
+
+<title>Guerra ao Terror [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/guraoter.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2547.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2547.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Guerra
+Lançamento: 2010
+
+JT Sanborn, Owen Eldridge e Matt Thompson integram o esquadrão antibombas do exército americano em missão no Iraque. Eles trabalham na destruição de um explosivo, para que seja detonado sem atingir alguém. Entretanto, um erro faz com que o artefato exploda e mate Thompson. Em seu lugar é enviado o sargento William James, que possui muito sangue-frio, o que incomoda Sanborn. Apesar disto, o trio segue na ativa, tendo consciência de que cada dia concluído de trabalho é um dia a mais de vida.</info>
+ 
+<genre>Drama, Thriller, Guerra</genre>
+ 
+<date>05/02/2010</date>
+</item>"
+"<item>
+
+<title>Guerra pela Honra [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/NSRNDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3638.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3638.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, História, Crime, Guerra
+Lançamento: 2018
+
+Um soldado britânico (Adkins) é preso por seu próprio exército por má conduta militar, mas é liberado pelos britânicos como sua arma secreta quando lutam contra os soldados egípcios, que são liderados pelo general Yousef al-Masri em Karmouz, Alexandria, durante a ocupação dos ingleses.</info>
+ 
+<genre>Ação, Thriller, História, Crime, Guerra</genre>
+ 
+<date>15/06/2018</date>
+</item>"
+"<item>
+
+<title>Hair [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/HAIR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2566.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2566.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Música, Romance, Guerra
+Lançamento: 1979
+
+""Hair"" é uma adaptação cômico-dramática-musical do musical da Broadway de 1968 ""Hair: An American Tribal Love-Rock Musical"". Claude (John Savage), um jovem do Oklahoma que foi recrutado para a guerra do Vietnã, está indo se apresentar no campo de treinamento do exército. No meio do caminho ele passa por Nova York onde conhece e é ""adotado"" por um grupo de hippies comandados por Berger (Treat Williams), que como seus amigos tem conceitos nada convencionais sobre o comportamento social e tenta convencê-lo dos absurdos da atual sociedade. Acaba sendo rapidamente conquistado pela subcultura juvenil do Paz e Amor. Lá Claude também se apaixona por Sheila (Beverly D'Angelo), uma jovem proveniente de uma rica família.</info>
+ 
+<genre>Drama, Comédia, Música, Romance, Guerra</genre>
+ 
+<date>08/04/1979</date>
+</item>"
+"<item>
+
+<title>Heróis de Uma Guerra [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/HRSDUMGURA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2638.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2638.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra
+Lançamento: 2018
+
+Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>
+ 
+<genre>Guerra</genre>
+ 
+<date>01/11/2018</date>
+</item>"
+"<item>
+
+<title>Homens de Coragem [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HMNSDCRGEM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2680.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2680.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 2016
+
+A verdadeira história da tripulação do USS Indianapolis, que foi atacado e naufragou no Mar das Filipinas logo após entregar as armas atômicas que foram lançadas sobre Hiroshima e Nagasaki. Ficaram boiando no mar por 5 dias passando fome, sede e sendo atacados por tubarões, até a chegada do resgate.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>22/09/2016</date>
+</item>"
+"<item>
+
+<title>Honra ao Mérito [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HNRAOMRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2687.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2687.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2017
+
+O filme acompanha a vida de vários soldados norte-americanos que retornaram das guerras do Iraque e do Afeganistão sofrendo de transtorno de estresse pós-traumático (PTSD, na sigla em inglês) e de outros traumas. Tais condições interferem nas suas rotinas e abala a vida de várias famílias.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>27/10/2017</date>
+</item>"
+"<item>
+
+<title>Honra e Lealdade [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HONRELEAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2688.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2688.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2016
+
+A história de um jovem soldado alemão que começa um conflito consigo mesmo ao perceber a decepção de seu próprio governo. Eles não eram todos iguais...</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>04/03/2016</date>
+</item>"
+"<item>
+
+<title>Joana D'Arc [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/JOANDARC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2843.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2843.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Ação, História, Guerra
+Lançamento: 1999
+
+O ano é 1429, a França está em convulsão política e religiosa, com os membros da família real em luta pelo domínio do trono. Mas uma camponesa de uma aldeia remota dá ao seu país o milagre que ele estava procurando. Milla Jovovich é Joana D Arc, uma jovem que inspira e lidera seus conterrâneos até sua execução aos 19 anos. Criada em uma família religiosa, Joana testemunha o estupro e morte da irmã pelas mãos de um exército invasor. Anos depois, com a guerra ainda em curso, Joana vai até seu rei levando uma mensagem que ela atribui a Deus: dar-lhe um exército e, em nome de Deus, ela reclamará seu reino de volta. Mas seria uma mensagem real ou delírio de uma garota traumatizada? Este emocionante épico de Luc Besson explora a vida de Joana D Arc, suas impressionantes vitórias, o relacionamento com Deus e a trágica morte. Co-estrelando John Malkovich e os vencedores do Oscar Dustin Hoffman e Faye Dunaway, Joana D Arc é uma visão moderna de uma santa medieval que cativa as pessoas até hoje.</info>
+ 
+<genre>Aventura, Drama, Ação, História, Guerra</genre>
+ 
+<date>17/12/1999</date>
+</item>"
+"<item>
+
+<title>Jojo Rabbit [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JOJRBT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2889.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2889.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Guerra, Drama
+Lançamento: 2020
+
+Alemanha, durante a Segunda Guerra Mundial. Jojo (Roman Griffin Davis) é um jovem nazista de 10 anos, que trata Adolf Hitler (Taika Waititi) como um amigo próximo, em sua imaginação. Seu maior sonho é participar da Juventude Hitlerista, um grupo pró-nazista composto por outras pessoas que concordam com os seus ideais. Um dia, Jojo descobre que sua mãe (Scarlett Johansson) está escondendo uma judia (Thomasin McKenzie) no sótão de casa. Depois de várias tentativas frustradas para expulsá-la, o jovem rebelde começa a desenvolver empatia pela nova hóspede.</info>
+ 
+<genre>Comédia, Guerra, Drama</genre>
+ 
+<date>06/02/2020</date>
+</item>"
+"<item>
+
+<title>Juventudes Roubadas [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/JUVTNDROBDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2940.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2940.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Drama, Guerra
+Lançamento: 2015
+
+Vera Brittain, uma jovem mulher na Grã-Bretanha em 1914, conta como toda a sua geração foi consumida e irrevogavelmente alterada pela chegada da Primeira Guerra Mundial.</info>
+ 
+<genre>História, Drama, Guerra</genre>
+ 
+<date>04/06/2015</date>
+</item>"
+"<item>
+
+<title>K-19: The Widowmaker [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/K19THWDWMKR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2941.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2941.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra, Thriller, Mistério
+Lançamento: 2002
+
+Em 1961, Alexi Vostrikov (Harrison Ford) precisa comandar a equipe do submarino K-19 em uma delicada operação nuclear, causada pelo fato do sistema de refrigeração do próprio K-19 ter deixado de funcionar repentinamente. Sem condições de se comunicar com outras embarcações russas, já que o rádio deixara de funcionar, Vostrikov e o capitão Mikhail Polenin (Liam Neeson) precisam deixar suas diferenças de lado para salvar a tripulação do submarino e, ao mesmo tempo, evitar que um desastre nuclear aconteça e possa causar a 3ª Guerra Mundial.</info>
+ 
+<genre>Drama, História, Guerra, Thriller, Mistério</genre>
+ 
+<date>19/07/2002</date>
+</item>"
+"<item>
+
+<title>Kamp Holland [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/KMPHLND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2949.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2949.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2018
+
+Jovens soldados holandeses em Uruzgan, no Afeganistão e os dilemas, e como eles são confrontados dentro uma zona de guerra.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>05/07/2018</date>
+</item>"
+"<item>
+
+<title>KV1 – Almas de Ferro [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/KV1ALMSDFRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/3010.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/3010.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, História, Drama
+Lançamento: 2019
+
+Inspirado em eventos reais, este filme conta a história da ação heroica da tripulação do tanque KV-1. Encarando uma luta perdida, a tripulação comandada por Semyon Konovalov destruiu 16 tanques inimigos, dois veículos blindados e mais oito veículos com tropas nazistas perto da fazenda Nizhnemityakin, no distrito de Tarasovskoye, na região de Rostov. Estes homens de honra são herois de verdade, sem superpoderes, mas munidos de coragem e caráter.</info>
+ 
+<genre>Guerra, História, Drama</genre>
+ 
+<date>22/02/2019</date>
+</item>"
+"<item>
+
+<title>Lobo Guerreiro [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOBGURO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3116.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3116.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 2015
+
+Um soldado da força especial chinesa com pontaria extraordinária é confrontado por um grupo de mercenários estrangeiros perigosos, que foram contratados por um traficante de drogas para assassiná-lo. Agora ele terá que usar todas as suas habilidades para sobreviver.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>02/04/2015</date>
+</item>"
+"<item>
+
+<title>Lobo Guerreiro 2 [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LOBGURO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3117.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3117.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Drama
+Lançamento: 2017
+
+Com sua carreira chegando ao fim, o agente das forças especiais mais mortal da China leva uma vida tranquila no mar. Mas quando cruza o caminho de um bando de mercenários sádicos, ele deve reafirmar seu dever como soldado e salvar o dia mais uma vez. A partir daí, os punhos (e as balas, os tanques, os mísseis e muito mais) voarão em cenas de ação cheias de adrenalina.</info>
+ 
+<genre>Guerra, Ação, Drama</genre>
+ 
+<date>27/07/2017</date>
+</item>"
+"<item>
+
+<title>Longe dos Homens [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LONGDSHMNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3128.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3128.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2015
+
+Durante a Guerra da Argélia, em 1954, o professor Daru (Viggo Mortensen) fora recrutado para lutar pelo exército francês. Ele nasceu na Argélia, mas é de família espanhola. Sua identidade e nacionalidade são questionadas por argelinos e também por franceses. Daru não concorda com a guerra e se sente totalmente deslocado. A polícia questiona sua lealdade , acreditando que ele pode ser um traidor disfarçado.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>01/05/2015</date>
+</item>"
+"<item>
+
+<title>Macbeth: Ambição e Guerra [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MCBETHABCOEGURR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3174.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3174.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Drama, Guerra, Aventura
+Lançamento: 2015
+
+Macbeth (Michael Fassbender) é um general do exército escocês que trai seu rei após ouvir um presságio de três bruxas que dizem que ele será o novo monarca. Ele é altamente influenciado pela esposa Lady Macbeth (Marion Cotillard), uma figura manipuladora que sofre por não poder lhe dar filhos.</info>
+ 
+<genre>História, Drama, Guerra, Aventura</genre>
+ 
+<date>19/11/2015</date>
+</item>"
+"<item>
+
+<title>Máquina de Guerra [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MQNDGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3225.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3225.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Guerra
+Lançamento: 2017
+
+Stanley A. McChrysta (Brad Pitt) é um militar letal que comanda os norte-americanos na Guerra do Afeganistão. Em uma estratégia radical, ele junta sua equipe de subordinados e assessores de imprensa em uma investida para fazer aliados em todo o mundo, pedindo reforços, negociando no campo de batalha e driblando a imprensa durante a guerra.</info>
+ 
+<genre>Comédia, Drama, Guerra</genre>
+ 
+<date>26/05/2017</date>
+</item>"
+"<item>
+
+<title>Marcas da Guerra [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MRCSDGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3238.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3238.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2015
+
+Uma unidade desajustada conhecido como o War Pigs deve ir atrás das linhas inimigas para exterminar os nazistas por qualquer meio necessário.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>18/09/2015</date>
+</item>"
+"<item>
+
+<title>Max Manus Homem da Guerra [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MAXMNSOHMNDGURA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3276.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3276.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 2010
+
+Max Manus é um filme de guerra biográfico norueguês de 2008, baseado nos fatos reais da vida do lutador de resistência Max Manus (1914–96), após sua contribuição na Guerra de Inverno contra a União Soviética. A história segue Manus desde o início da Segunda Guerra Mundial na Noruega até o tempo de paz em 1945.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>03/09/2010</date>
+</item>"
+"<item>
+
+<title>Megan Leavey [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MGNLAVY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3309.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3309.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2017
+
+A soldado da marinha americana Megan Leavey é uma especialista em treinamento de cães para detectar bombas. Ela é enviada ao Iraque, onde forma uma boa parceria com o cão Rex. Mas Megan é ferida e afastada do campo de batalha. Enquanto isso, o cão permanece em atividade, e ela espera a aposentadoria do animal para poder adotá-lo. Antes desse prazo, no entanto, a ex-agente descobre que o cachorro sofrerá uma eutanásia e luta para reverter essa decisão</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>09/06/2017</date>
+</item>"
+"<item>
+
+<title>Memphis Belle - A Fortaleza Voadora [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MEPHSBLEAFRTLZAVOADA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3318.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3318.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra, Ação
+Lançamento: 1990
+
+Um grupo de jovens tripulantes da segunda guerra mundial, liderados por Matthew Modine e Eric Stoltz, saiu ileso de 24 perigosas missões num avião B-17, também conhecido como ""Memphis Belle"". Mas ainda falta uma última e quase suicida missão para eles voltarem como verdadeiros heróis: Bombardear Dresden, uma cidade fortemente defendida que invariavelmente causa muitas baixas, na Alemanha de Hitler, em plena luz do dia. É este emocionante episódio verídico que inspirou David Puttnam e Catherine Wyler a realizarem este filme, mostrando as dúvidas, incertezas e determinação de jovens que resolveram desafiar o perigo dos céus.</info>
+ 
+<genre>Drama, Guerra, Ação</genre>
+ 
+<date>12/10/1990</date>
+</item>"
+"<item>
+
+<title>Midway - Batalha em Alto Mar [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MDWYBTLHAEMALTMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3381.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3381.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, História, Ação, Drama
+Lançamento: 2019
+
+Batalha em Alto Mar, retrata os acontecimentos da Batalha de Midway, confronto entre as forças americanas e a Marinha Imperial Japonesa, que marcou um ponto de virada fundamental na Guerra do Pacífico, seis meses depois do ataque a Pearl Harbor. O filme se baseia em fatos históricos para contar a trajetória de líderes e soldados que usaram instinto e coragem para superar as adversidades e se manterem vivos durante a guerra no meio do maior oceano do planeta.</info>
+ 
+<genre>Guerra, História, Ação, Drama</genre>
+ 
+<date>08/11/2019</date>
+</item>"
+"<item>
+
+<title>Missão de Honra [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MSAODHNRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3418.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3418.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2018
+
+Drama sobre pilotos de caça poloneses durante a Batalha da Grã-Bretanha, na Segunda Guerra Mundial. Os aviões de combate britânico Hawker Hurricane, do esquadrão 303 da Royal Air Force foram pilotados por pilotos poloneses durante a Batalha da Grã-Bretanha. Esses polacos deixaram a Polônia ocupada pelos nazistas no início da guerra.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>07/09/2018</date>
+</item>"
+"<item>
+
+<title>Mosul [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MOSUL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5712.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5712.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2020
+
+Após ser salvo por um esquadrão iraquiano, um jovem oficial de polícia se junta a eles na luta contra o Estado Islâmico na cidade de Mosul.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>26/11/2020</date>
+</item>"
+"<item>
+
+<title>Na Mira do Atirador [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NAMRDATRDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3535.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3535.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Guerra, Drama
+Lançamento: 2017
+
+Em pleno campo de batalha, dois soldados americanos descobrem que estão na mira de um atirador iraquiano. Eles não sabem onde o inimigo se esconde, nem podem se comunicar um com o outro, já que o adversário está interceptando a conversa dos americanos via rádio comunicador. Escondidos atrás de uma pequena parede de pedra, eles têm que encontrar uma maneira de sair vivos.</info>
+ 
+<genre>Thriller, Guerra, Drama</genre>
+ 
+<date>24/08/2017</date>
+</item>"
+"<item>
+
+<title>Nascido Para Matar [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NSCDPRMTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3580.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3580.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 1987
+
+Um sargento (R. Lee Ermey) treina de forma fanática e sádica os recrutas em uma base de treinamentos, na intenção de transformá-los em máquinas de guerra para combater na Guerra do Vietnã. Após serem transformados em fuzileiros navais, eles são enviados para a guerra e quando lá chegam se deparam com seus horrores.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>16/10/1987</date>
+</item>"
+"<item>
+
+<title>O 12º Homem [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/O12HOME.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3678.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3678.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2018
+
+Noruega, 1943: depois que uma fracassada missão de sabotagem aos nazistas deixar seus onze companheiros mortos, o combatente da resistência norueguesa Jan Baalsrud (Thomas Gullestad) se vê foragido da Gestapo pelos trechos árticos da Escandinávia. É uma jornada angustiante através do deserto implacável e congelado que se estenderá por meses e forçará Jan a tomar medidas extremas para sobreviver.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>04/05/2018</date>
+</item>"
+"<item>
+
+<title>O Amanhecer do Quarto Reich [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OAMNHCRDQRTRCH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3695.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3695.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra, História
+Lançamento: 2016
+
+Dos produtores de Company of Heroes e estrelando Sean Patrick Flanery, Tom Sizemore, Kip Pardue, com Stephen Lang e Rutger Hauer, vem um suspense intenso direto das linhas de frente da Segunda Guerra Mundial. Enquanto a operação Valkyrie prepara o assassinato de Adolph Hitler, uma equipe de operações especiais aliada se prepara para extrair o homem destinado a liderar a Alemanha pós-guerra. Mas após a operação Valkyrie falhar, tudo muda. Agora, aliados improváveis devem trabalhar juntos para impedir que um grupo de oficiais nazistas fuja para a Argentina e estabeleça o Quarto Reich.</info>
+ 
+<genre>Ação, Guerra, História</genre>
+ 
+<date>03/10/2016</date>
+</item>"
+"<item>
+
+<title>O Anjo do Mossad [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OANJDMOSD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3776.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3776.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História, Thriller, Guerra
+Lançamento: 2018
+
+Enquanto o país se prepara para a guerra, o assessor da presidência do Egito Ashraf Marwan entra em contato com Israel e se envolve no obscuro jogo da alta espionagem.</info>
+ 
+<genre>Ação, Drama, História, Thriller, Guerra</genre>
+ 
+<date>15/05/2018</date>
+</item>"
+"<item>
+
+<title>O Atirador 4 [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDR4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3804.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3804.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Thriller, Drama
+Lançamento: 2011
+
+Militar americano filho de renomado atirador é enviado ao Congo em guerra para resgatar fazendeiro branco. Ao chegar, sofre armadilha em que é ferido e seu esquadrão é dizimado. Só lhe resta lutar pela vida, ameaçada por um misterioso atirador.</info>
+ 
+<genre>Guerra, Ação, Thriller, Drama</genre>
+ 
+<date>26/04/2011</date>
+</item>"
+"<item>
+
+<title>O Atirador: Fantasma [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OATRDRFNTSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3805.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3805.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra
+Lançamento: 2016
+
+Brandon Beckett e Richard Miller são dois atiradores de elite encarregados de proteger um oleoduto contra um ataque terrorista. A situação se complica e os dois soldados deverão usar toda a sua habilidade para salvar suas próprias vidas.</info>
+ 
+<genre>Ação, Drama, Guerra</genre>
+ 
+<date>02/08/2016</date>
+</item>"
+"<item>
+
+<title>O Banqueiro da Resistência [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OBNQRODRSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3814.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3814.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2018
+
+Arriscando a família e o futuro, um banqueiro na Amsterdã ocupada reduz a marcha da máquina de guerra nazista criando um banco clandestino para financiar a resistência.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>08/03/2018</date>
+</item>"
+"<item>
+
+<title>O Cerco de Jadotville [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OCRCDJDVLE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3857.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3857.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, Thriller
+Lançamento: 2016
+
+Em 1961, 150 militares irlandeses comandados por Patrick Quinlan (Jamie Dornan), ficam encurralados por um grupo de 3.000 soldados congoleses, chefiados por mercenários franceses e belgas que trabalham para corporações de mineração.</info>
+ 
+<genre>Guerra, Drama, Thriller</genre>
+ 
+<date>19/09/2016</date>
+</item>"
+"<item>
+
+<title>O Franco Atirador [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OFRNCATRDR1978.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4019.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4019.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 1979
+
+Três amigos recrutados para a guerra do Vietnã são capturados pelos vietcongues. Além de maltratados fisicamente, é a tortura psicológica e um jogo de roleta russa entre eles que os fará repensar o motivo de tudo aquilo.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>25/12/1979</date>
+</item>"
+"<item>
+
+<title>O Grande Ataque [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OGRNDATQ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4038.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4038.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, História, Guerra
+Lançamento: 2005
+
+O 6º batalhão do exército norte-americano recebe uma das missões mais ingratas possíveis: resgatar, nas Filipinas, cerca de 500 prisioneiros norte-americanos de guerra que estão nas mãos das tropas japonesas. Enfrentando as condições mais adversas, eles andam 30 milhas por trás das linhas inimigas para tentar cumprir a missão. Toda a tensão que os soldados enfrentam e o perigo iminente precisam ser controlados pelo líder da missão, que comanda tudo com braço firme, mas que também sabe dos perigos que serão enfrentados. A produção foi filmada em 2002, mas demorou algum tempo até ficar completamente pronta, sendo lançada somente em 2005. O filme apresenta uma história dramática ao mesmo tempo em que mescla ótimas cenas de ação, contando com fidelidade um caso real de heroísmo.</info>
+ 
+<genre>Ação, História, Guerra</genre>
+ 
+<date>12/08/2005</date>
+</item>"
+
+"<item>
+
+<title>O Menino do Pijama Listrado [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OMNODPJMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4169.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4169.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2008
+
+Alemanha, Segunda Guerra Mundial. O menino Bruno (Asa Butterfield), de 8 anos, é filho de um oficial nazista (David Tewlis) que assume um cargo importante em um campo de concentração. Sem saber realmente o que seu pai faz, ele deixa Berlim e se muda com ele e a mãe (Vera Farmiga) para uma área isolada, onde não há muito o que fazer para uma criança com a idade dele. Os problemas começam quando ele decide explorar o local e acaba conhecendo Shmuel (Jack Scanlon), um garoto de idade parecida, que vive usando um pijama listrado e está sempre do outro lado de uma cerca eletrificada. A amizade cresce entre os dois e Bruno passa, cada vez mais, a visitá-lo, tornando essa relação mais perigosa do que eles imaginam.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>07/11/2008</date>
+</item>"
+"<item>
+
+<title>O Pianista [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPNSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4270.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4270.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2003
+
+Um pianista judeu polonês vê Varsóvia mudar gradualmente à medida que a Segunda Guerra Mundial começa. Szpilman é forçado a ir para o Gueto de Varsóvia, mas depois é separado de sua família durante a Operação Reinhard. A partir deste momento até que os prisioneiros dos campos de concentração sejam liberados, Szpilman se esconde em vários locais entre as ruínas de Varsóvia.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>07/03/2003</date>
+</item>"
+"<item>
+
+<title>O Refugiado [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORFGDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4344.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4344.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Guerra
+Lançamento: 2016
+
+Exilado do Afeganistão, o jornalista Osman se muda para o norte da Califórnia e consegue emprego em um pequeno jornal. Apesar de acreditar em ter uma vida sossegada, ele logo se vê investigando um crime no local.</info>
+ 
+<genre>Drama, Thriller, Guerra</genre>
+ 
+<date>09/12/2016</date>
+</item>"
+"<item>
+
+<title>O Rei [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OREI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4346.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4346.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 2019
+
+Após a morte de seu pai, Henrique V é coroado rei, obrigado a comandar a Inglaterra. O governante precisa amadurecer rapidamente para manter o país consideravelmente seguro durante a Guerra dos 100 Anos, contra a França.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>11/10/2019</date>
+</item>"
+"<item>
+
+<title>O Resgate do Soldado Ryan [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ORSGTDSLDRYAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4371.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4371.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 1998
+
+Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller (Tom Hanks) recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>11/09/1998</date>
+</item>"
+
+"<item>
+
+<title>O Último Batalhão [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OULTMBTLH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4449.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4449.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Drama, Guerra, Cinema TV
+Lançamento: 2001
+
+Durante a Primeira Guerra Mundial, o jovem advogado nova-iorquino Charles White é promovido a major e enviado ao combate à frente de um batalhão formado por quinhentos outros nova-iorquinos e caipiras do interior do país. O resultado foi a concessão de 3 medalhas de honra.</info>
+ 
+<genre>História, Drama, Guerra, Cinema TV</genre>
+ 
+<date>02/12/2001</date>
+</item>"
+"<item>
+
+<title>O Último dos Moicanos [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OULMDMICNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4454.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4454.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, História, Romance, Guerra
+Lançamento: 1992
+
+No período colonial, durante a guerra entre Inglaterra e França, o homem criado por índios Hawkeye (Daniel Day-Lewis) luta pela justiça e segue os valores moicanos. Ele se apaixona por Cora Munro (Madeleine Stowe), a filha de um oficial britânico e deve enfrentar o desacordo deste.</info>
+ 
+<genre>Ação, Aventura, Drama, História, Romance, Guerra</genre>
+ 
+<date>25/09/1992</date>
+</item>"
+"<item>
+
+<title>O Último Samurai [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OULTMSMRAI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4467.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4467.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Guerra, História
+Lançamento: 2003
+
+Em 1870 é enviado ao Japão o capitão Nathan Algren (Tom Cruise), um conceituado militar norte-americano. A missão de Algren é treinar as tropas do imperador Meiji (Shichinosuke Nakamura), para que elas possam eliminar os últimos samurais que ainda vivem na região. Porém, após ser capturado pelo inimigo, Algren aprende com Katsumoto (Ken Watanabe) o código de honra dos samurais e passa a ficar em dúvida sobre que lado apoiar.</info>
+ 
+<genre>Drama, Ação, Guerra, História</genre>
+ 
+<date>05/12/2003</date>
+</item>"
+"<item>
+
+<title>Operação Anthropoid [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRCANTRPD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4527.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4527.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Thriller, Guerra
+Lançamento: 2016
+
+Baseado em um dos grandes eventos da Segunda Guerra Mundial, a Operação Antropoid, que visava matar o general Heydrich, que era protetor do reich. Terceiro homem mais poderoso do período nazista, ele foi o principal arquiteto da solução final das questões judáicas e da ocupação nazista na Tchecoslováquia. Suas ações fizeram com que soldados aliados se unissem para mudar o futuro da Europa.</info>
+ 
+<genre>História, Thriller, Guerra</genre>
+ 
+<date>12/08/2016</date>
+</item>"
+"<item>
+
+<title>Operação Chromite [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRCHRMIT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4531.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4531.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Drama, Guerra, Ação
+Lançamento: 2016
+
+Quando as forças conjuntas da Coreia do Sul e dos Estados Unidos parecem prestes a perder a Guerra da Coreia, o General Douglas MacArthur (Liam Neeson) se junta à guerra e, durante a Batalha de Incheon, no dia 15 de setembro de 1950, ajuda as tropas a vencer o conflito e retomar o controle sobre Seul.</info>
+ 
+<genre>História, Drama, Guerra, Ação</genre>
+ 
+<date>12/08/2016</date>
+</item>"
+"<item>
+
+<title>Operação Mekong [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRCMKNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4546.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4546.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime, Guerra
+Lançamento: 2016
+
+Inspirado na história real de navios mercantes atacados por bandidos no delta do rio Mekong. As autoridades chinesas se juntam com as forças policiais da Tailândia, Laos e Birmânia para iniciar uma investigação.</info>
+ 
+<genre>Ação, Aventura, Crime, Guerra</genre>
+ 
+<date>30/09/2016</date>
+</item>"
+"<item>
+
+<title>Operação Overlord [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRCOVERLD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4548.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4548.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Guerra, Ficção científica
+Lançamento: 2018
+
+Uma tropa de paraquedistas americanos é lançada atrás das linhas inimigas para uma missão crucial. Mas, quando se aproximam do alvo percebem que não é só uma simples operação militar e tem mais coisas acontecendo no lugar, que está ocupado por nazistas.</info>
+ 
+<genre>Terror, Guerra, Ficção científica</genre>
+ 
+<date>08/11/2018</date>
+</item>"
+"<item>
+
+<title>Operações Especiais: Fugitivos [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPESPFGTIVS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4556.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4556.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 2016
+
+Um veterano Sniper, o Sargento Jake Chandler (Steven Seagal) foi enviado para uma pequena vila Afegã para resgatar um homem do congresso americano que foi sequestrado pelo Talibã. O resgate é um sucesso , mas Jake, ainda precisa salvar seus soldados feridos durante a missão, então vai contra todas as ordens e volta ao vilarejo para trazer seus homens de volta.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>03/04/2016</date>
+</item>"
+"<item>
+
+<title>Os Doze Condenados [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSDZCNDNDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4613.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4613.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Guerra
+Lançamento: 1968
+
+Um major rebelde e uma fama de resolver as coisas recebe a ordem de entrevistar prisioneiros militares, condenados à morte ou à prazo longo, para uma perigosa missão em troca de perdão. O objetivo é saltar de paraquedas atrás das linhas inimigas e causar estragos para os generais alemães que estarão em uma casa de repouso, na véspera do Dia D.</info>
+ 
+<genre>Ação, Aventura, Guerra</genre>
+ 
+<date>01/01/1968</date>
+</item>"
+"<item>
+
+<title>Os Meninos Que Enganavam Nazistas [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSMENQENGNVMNZIS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4657.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4657.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2017
+
+Durante um período de ocupação nazista na França, os jovens irmãos judeus Maurice (Batyste Fleurial) e Joseph (Dorian Le Clech) embarcam em uma aventura para escapar dos nazistas. Em meio a invasão e a perseguição, eles se mostram espertos, corajosos e inteligentes em sua escapada, tudo com o objetivo de reunir a família mais uma vez. Refilmagem de Os Meninos que Enganavam Nazistas (1975).</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>03/08/2017</date>
+</item>"
+"<item>
+
+<title>Os Violentos Vão para o Inferno [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSVOLNTSVAOPRINFRNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4715.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4715.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Faroeste, Guerra
+Lançamento: 1968
+
+Franco Nero, Jack Palance e Tony Musante estrelam este clássico dos filmes de western, dirigido pelo especialista no gênero Sergio Corbuci. O mercenário Kowalski (Nero) é especialista em armas e usa suas habilidades como assassino profissional. As coisas se complicam quando ele bate de frente com o malfeitor Ricciolo (Palance).</info>
+ 
+<genre>Ação, Comédia, Faroeste, Guerra</genre>
+ 
+<date>28/08/1968</date>
+</item>"
+"<item>
+
+<title>Pai, Filho, Pátria [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PAIFLHSPTRIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4742.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4742.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Guerra
+Lançamento: 2020
+
+Depois de sofrer um ferimento grave no Afeganistão, um soldado embarca com seus filhos em uma jornada de amor, perda, redenção e legado.</info>
+ 
+<genre>Documentário, Guerra</genre>
+ 
+<date>17/07/2020</date>
+</item>"
+"<item>
+
+<title>Pássaros Amarelos [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PSRSAMRLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4815.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4815.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2017
+
+Adaptado da obra autobiográfica de Kevin Powers. Dois jovens soldados são enviados para o Iraque. Unidos desde recrutas, os rapazes sempre se protejeram. Em meio à pressões de todos os lados, os dois acabam sob os cuidados de um sargento mais velho e enfrentam diversos atos de violência na luta diária pela sua sobrevivência.</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>21/01/2017</date>
+</item>"
+"<item>
+
+<title>Planeta dos Macacos: A Guerra [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PLNTDSMCMCSAGRRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4934.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4934.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ficção científica, Guerra
+Lançamento: 2017
+
+Humanos e macacos cruzam os caminhos novamente. César e seu grupo são forçados a entrar em uma guerra contra um exército de soldados liderados por um impiedoso coronel. Depois que vários macacos perdem suas vidas no conflito, César luta contra seus instintos e parte em busca de vingança. Dessa jornada, o futuro do planeta poderá estar em jogo.</info>
+ 
+<genre>Drama, Ficção científica, Guerra</genre>
+ 
+<date>03/08/2017</date>
+</item>"
+"<item>
+
+<title>Rambo II - A Missão [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RMBO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5173.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5173.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1985
+
+John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>21/05/1985</date>
+</item>"
+"<item>
+
+<title>Rambo III [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RMBO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5174.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5174.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1988
+
+O companheiro e superior de John Rambo no Vietna, o coronel Samuel Trautman, foi designado para liderar uma missão de ajuda aos rebeldes que lutam contra a invasao do Afeganistao pelos sovieticos. Durante, a missa, Trautman e capturado e torturado pelo comandante russo Zaysen. A tensao e aventura aumenta quando Rambo tem um plano de sair ele proprio e os aliados rebeldes numa tentativa corajosa de resgatar o amigo das maos do inimigo.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>24/05/1988</date>
+</item>"
+"<item>
+
+<title>Rambo: Programado Para Matar [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RMBO1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5177.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Guerra
+Lançamento: 1982
+
+John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.</info>
+ 
+<genre>Ação, Aventura, Thriller, Guerra</genre>
+ 
+<date>06/11/1982</date>
+</item>"
+"<item>
+
+<title>RedBad: A Invasão dos Francos [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5199.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5199.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, História, Guerra, Drama
+Lançamento: 2018
+
+Redbad, filho do rei Aldigsl, está duvidando dos rituais ultrapassados de seu povo, os frísios. Ele entra em conflito com o pai quando sua namorada, Fenne, é indicada para ser sacrificada aos deuses. Durante o ritual de sacrifício, os francos entram na cidade. Na batalha, a cidade de Dorestad é capturada e o ambicioso Eibert, tio de Redbad, toma o poder e culpa o sobrinho pela derrota. Amarrado a uma jangada, Redbad é lançado ao mar, mas sobrevive e chega à costa, sendo resgatado pelos vikings. Para libertar seu povo, Redbad conta com a ajuda dos vikings. Mas seriam eles fortes o bastante?</info>
+ 
+<genre>Aventura, História, Guerra, Drama</genre>
+ 
+<date>28/06/2018</date>
+</item>"
+"<item>
+
+<title>Relatos de Guerra [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RLTSDGRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5223.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5223.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, Thriller
+Lançamento: 2016
+
+Um atirador de elite que nunca se permitiu em pensar os alvos como humanos começa a se incomodar com um deles. Um oficial da inteligência que nunca se contemplou em matar, se torna um motor de um complô para assassinatos. E um lendário engenheiro que havia colocado a guerra para trás, agora é o centro de uma zona de batalha. Três homens diferentes de três mundos diferentes estão na intersecção da guerra moderna. Para cada um deles, a guerra tem significados singulares e suas realidades, muitas vezes obscuras de moralidade, demonstram que nem tudo é o que parece.</info>
+ 
+<genre>Guerra, Drama, Thriller</genre>
+ 
+<date>11/03/2016</date>
+</item>"
+"<item>
+
+<title>Salvando Leningrado [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SLVNDLNGRDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5334.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5334.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra, Ação
+Lançamento: 2019
+
+Setembro de 1941. Numa reviravolta dos acontecimentos, Kostya e Nastya se encontram a bordo de uma barcaça que evacuará as pessoas de Leningrado sitiada. À noite, a barcaça entra na tempestade. Quando começa a afundar, os aviões inimigos – mas não os socorristas – são os primeiros a chegar ao local.</info>
+ 
+<genre>Drama, Guerra, Ação</genre>
+ 
+<date>31/01/2019</date>
+</item>"
+"<item>
+
+<title>Sarajevo [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SARJVO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5357.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5357.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, História, Guerra, Cinema TV
+Lançamento: 2014
+
+Áustria, 28 de junho de 1914. O Arquiduque Franz Ferdinand (Reinhard Forcher) está passeando de carro pela cidade de Sarajevo com sua esposa, Sophie (Michaela Ehrenstein), até que são vítimas de um ataque e morrem. Este é o pontapé inicial para a Primeira Guerra Mundial.</info>
+ 
+<genre>Thriller, História, Guerra, Cinema TV</genre>
+ 
+<date>23/04/2014</date>
+</item>"
+"<item>
+
+<title>Sniper Americano [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SNPRAMRCN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5568.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5568.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2015
+
+História real de Chris Kyle, atirador de elite das forças especiais da marinha dos Estados Unidos. Durante a guerra do Iraque, sua missão era uma só- proteger seus companheiros. Seu dever fez dele um dos maiores atiradores da história americana. Sua precisão salva inúmeras vidas, mas também o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que não tem como deixar a guerra para trás.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>19/02/2015</date>
+</item>"
+"<item>
+
+<title>Soldado Anônimo [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SLDSANONMOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5598.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5598.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2006
+
+Swoff (Jake Gyllenhaal) é a terceira geração de sua família a servir ao exército. Ele passa pelo campo de treinamento antes de ser designado para lutar no Iraque, onde precisa carregar seu fuzil e cerca de 50 quilos de equipamento nas costas através de desertos escaldantes. Estando em local que não entende, lutando contra um inimigo que não consegue ver e sem entender direito o porquê de estar ali, Swoff e seus companheiros de batalhão sobrevivem à adversidade local usando o humor negro e o sarcasmo.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>06/01/2006</date>
+</item>"
+"<item>
+
+<title>Soldado Anônimo 3: O Cerco [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SLDSANONMOS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5599.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5599.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra
+Lançamento: 2016
+
+Evan Albright (Charlie Weber) se junta ao grupo de elite do Corpo de Guardas de Segurança da Marinha em busca de salvar o mundo e ver um pouco mais de ação. Porém, sua primeira missão é proteger uma embaixada norte-america em uma capital do Oriente Médio que aparentemente é segura, fazendo a unidade passar tempo com pequenos grupos de revolta e jogos de mira. Albright e seu time são pegos de surpresa quando militares bem armados e treinados fazem um ataque surpresa.</info>
+ 
+<genre>Ação, Drama, Guerra</genre>
+ 
+<date>14/04/2016</date>
+</item>"
+"<item>
+
+<title>Soldado Anônimo: Campo em Chamas [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SLDSANONMOS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5600.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5600.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2014
+
+Traumatizado e desiludido pela guerra, o soldado Chris Merrimette (Josh Kelly) está no comando de uma unidade de fuzileiros que tem a missão ajudar uma Annosh (Cassie Layton), uma mulher afegã famosa por desafiar os Talibãs, a escapar do país. Sem tanques ou apoio aéreo, o grupo terá que contar somente com sua coragem para enfrentar o ataque de fundamentalistas islâmicos fortemente armados.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>14/08/2014</date>
+</item>"
+"<item>
+
+<title>Soldado Anônimo: Lei do Retorno [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SLDSANONMOSALEIDRTRNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5601.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5601.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra
+Lançamento: 2020
+
+Um grupo de fuzileiros navais devem proteger uma embaixada dos EUA no Oriente Médio quando, de repente, foram atacados por forças inimigas.</info>
+ 
+<genre>Guerra</genre>
+ 
+<date>19/04/2020</date>
+</item>"
+"<item>
+
+<title>Spartacus [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SPRTCUS1960.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5629.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5629.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, História, Guerra
+Lançamento: 1960
+
+Spartacus, um homem que nasceu escravo, labuta para o Império Romano enquanto sonha com o fim da escravidão. Ele foi condenado à morte por morder um guarda em uma mina na Líbia. Mas seu destino foi mudado por um lanista (negociante e treinador de gladiadores), que o comprou para ser treinado nas artes de combate e se tornar um gladiador. Até que um dia, dois poderosos patrícios chegam de Roma, um com a esposa e o outro com a noiva. As mulheres pedem para serem entretidas com dois combates até à morte e Spartacus, é escolhido para enfrentar um gladiador negro, que vence a luta mas se recusa a matar seu opositor, atirando seu tridente contra a tribuna onde estavam os romanos. Este nobre gesto custa a vida do gladiador negro e enfurece Spartacus, de tal maneira que ele acaba liderando uma revolta de escravos, que atinge metade da Itália.</info>
+ 
+<genre>Ação, Aventura, Drama, História, Guerra</genre>
+ 
+<date>17/11/1960</date>
+</item>"
+"<item>
+
+<title>Stalingrado: A Batalha Final [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STLGDOABTLHFNL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5645.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5645.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Drama
+Lançamento: 2014
+
+Durante a sangrenta batalha de Stalingrado, no auge da Segunda Guerra Mundial, seis soldados amigos enfrentam os inimigos, vivem histórias de amor e lutam para manter as forças alemãs longe de seu território.</info>
+ 
+<genre>Guerra, Ação, Drama</genre>
+ 
+<date>28/02/2014</date>
+</item>"
+"<item>
+
+<title>Sua Melhor História [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SUAMLHRHIST.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5686.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5686.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Guerra, Comédia, Drama
+Lançamento: 2017
+
+Durante o ""London Blitz"" de 1940, a roteirista Catrin (Gemma Arterton) se esforça para encontrar sua voz em meio à guerra, enquanto ela e um elenco improvisado trabalham sob fogo para criar um filme para levantar os espíritos da nação e inspirar a América a participar da guerra.</info>
+ 
+<genre>Romance, Guerra, Comédia, Drama</genre>
+ 
+<date>07/09/2017</date>
+</item>"
+"<item>
+
+<title>Suite Francesa [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/STEFRNCSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5696.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5696.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Guerra
+Lançamento: 2015
+
+Durante os primeiros anos da ocupação alemã da França na Segunda Guerra Mundial, um romance floresce entre Lucile Angellier (Michelle Williams), um aldeã francesa e Bruno von Falk (Matthias Schoenaerts), um soldado alemão. França, 1940. Nos primeiros dias da ocupação alemã, a linda Lucile Angellier (Michelle Williams) está presa em uma existência sufocada com sua controladora madrasta (Kristin Scott Thomas), pois ambas esperam por notícias de seu marido, um prisioneiro de guerra. Refugiados parisienses começam a surgir em sua pequena cidade, logo seguidos por um regimento de soldados alemães que se estabelecem nas próprias casas dos moradores. Lucile inicialmente tenta ignorar Bruno von Falk (Matthias Schoenaerts), o bonito e refinado oficial alemão que ficou em sua casa. Mas logo, um poderoso amor os faz ficar juntos e também os leva a uma tragédia da guerra.</info>
+ 
+<genre>Drama, Romance, Guerra</genre>
+ 
+<date>12/03/2015</date>
+</item>"
+"<item>
+
+<title>Surdo [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SRDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5782.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5782.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Guerra
+Lançamento: 2019
+
+Norte de Espanha, Outubro de 1944. Vários grupos de guerrilheiros, antigos soldados republicanos exilados em França após o fim da guerra civil espanhola, infiltram-se no país para provocar uma revolta popular contra a ditadura do General Franco…</info>
+ 
+<genre>Drama, Thriller, Guerra</genre>
+ 
+<date>13/09/2019</date>
+</item>"
+"<item>
+
+<title>Tempo de Glória [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TMPDGLRIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5833.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5833.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 1990
+
+Durante a Guerra Civil americana, Robert Gould Shaw (Matthew Broderick), um jovem sem experiência, mas de uma influente família, recebe o comando do primeiro batalhão composto exclusivamente por soldados negros.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>16/02/1990</date>
+</item>"
+"<item>
+
+<title>Terra de Minas [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRADMNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5846.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5846.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 2015
+
+A guerra não acaba quando a paz é assinada. Um grupo de jovens prisioneiros alemães é entregue ao sargento dinamarquês Rasmussen no final da Segunda Guerra Mundial. Rasmussen ordena a desativação de mais de dois milhões de minas enterradas na costa dinamarquesa, apesar de ser proibido pela Convenção de Genebra.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>03/12/2015</date>
+</item>"
+"<item>
+
+<title>The Balkan Line [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/THBLKNLNE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5875.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5875.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Guerra
+Lançamento: 2019
+
+1999, a Sérvia é bombardeada e a região do Kosovo é deixada a pilhagem por bandidos sob o comando do senhor da guerra albanês, Smuk. A remoção dos órgãos humanos ocorre dentro dos territórios que os bandidos tomaram, os roubos, assassinatos em massa e genocídio. O oficial da inteligência russa Bek Ethoev e o ex-pára-quedista transformaram o mercenário Andrey Shatalov em chefe de um pequeno destacamento encarregado da missão perigosa de parar o terrorismo, recapturar o aeródromo usado pelos bandidos e resgatar o interesse amoroso de Shatalov, capturado para ser colhido para órgãos, o resto dos prisioneiros sérvios.</info>
+ 
+<genre>Drama, Ação, Guerra</genre>
+ 
+<date>31/03/2019</date>
+</item>"
+"<item>
+
+<title>Tigerland - A Caminho da Guerra [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TGRLNDACMNHDGRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5908.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5908.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2000
+
+Em 1971, os EUA estão em plena Guerra do Vietnã, conflito responsável pela morte de milhares de jovens. Enquanto isso, outros milhares preparam-se para enfrentar o campo de batalha em breve. Em Fort Polk (no Estado da Louisiana), um grupo de jovens recrutas em treinamento possuem opiniões conflitantes sobre a guerra. Enquanto Jim Paxton (Matthew Davis) tem uma visão idealista e romântica do conflito, Roland Bozz (Colin Farrell) decide que não participará da Guerra do Vietnã e passa a desrespeitar ordens de seus superiores na intenção de ser expulso da Infantaria norte-americana.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>22/09/2000</date>
+</item>"
+"<item>
+
+<title>Tolkien [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TLKN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5954.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5954.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra, Romance
+Lançamento: 2019
+
+O filme acompanha o autor J.R.R. Tolkien nos tempos de juventude, quando o órfão encontra amizade, amor e inspiração artística ao se juntar a um grupo de deslocados. Mas tudo muda quando ele é convocado para a Primeira Guerra Mundial, cujo caos ajuda na criação da Terra Média.</info>
+ 
+<genre>Drama, História, Guerra, Romance</genre>
+ 
+<date>23/05/2019</date>
+</item>"
+"<item>
+
+<title>Tora! Tora! Tora! [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TORTORTOR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5968.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5968.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Guerra
+Lançamento: 1970
+
+Retrata de forma realista, quase documental, tanto do ponto de vista japonês como do norte americano, mostrando a preparação, os eventos e os erros que possibilitaram o ataque a Pearl Harbor em 7 de Dezembro de 1941, fato que forçou a entrada dos Estados Unidos da América na Segunda Guerra Mundial. O título do filme é o código utilizado em caso de sucesso do ataque japonês, que traduzido para o português significa 'Tigre! Tigre! Tigre!'. A versão Americana tem 02:25. A versão Japonesa é mais longa, com 02:29.</info>
+ 
+<genre>Drama, História, Guerra</genre>
+ 
+<date>23/09/1970</date>
+</item>"
+"<item>
+
+<title>Três Reis [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TRSRES.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6003.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6003.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Guerra
+Lançamento: 1999
+
+Em março de 1991, foi assinado o cessar-fogo na Guerra do Golfo. Em meio às comemorações no acampamento norte-americano, um mapa é descoberto junto a um dos prisioneitos iraquianos. Mostrando a rota de um tesouro enterrado no deserto do Iraque, quatro soldados americanos resolvem partir em sua busca.</info>
+ 
+<genre>Ação, Comédia, Guerra</genre>
+ 
+<date>27/09/1999</date>
+</item>"
+"<item>
+
+<title>Tróia [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TROIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6013.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6013.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, História, Guerra
+Lançamento: 2004
+
+Quando Páris, o príncipe de Troia, se apaixona por Helena, rainha de Esparta, o rei inicia uma guerra de anos entre os dois reinos. Para vencer, Esparta conta com Aquiles, um guerreiro lendário que comanda um exército próprio.</info>
+ 
+<genre>Aventura, História, Guerra</genre>
+ 
+<date>14/05/2004</date>
+</item>"
+"<item>
+
+<title>Trovão Tropical [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRVAOTRPCL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6024.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6024.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Aventura, Guerra
+Lançamento: 2008
+
+Tugg Speedman, Kirk Lazarus e Jeff Portnoy são grandes astros de Hollywood, que acertaram suas presenças em ""Trovão Tropical"", novo filme do diretor inglês Damien Cockburn. O projeto é a adaptação da biografia de 4 Folhas Tayback, um veterano da Guerra do Vietnã. A equipe vai ao próprio Vietnã para realizar as filmagens, mas logo o ego dos atores principais causa problemas. Tentando controlar o trio, Damien decide rodar as cenas em plena floresta, sem imaginar os perigos que sua decisão traria.</info>
+ 
+<genre>Ação, Comédia, Aventura, Guerra</genre>
+ 
+<date>18/09/2008</date>
+</item>"
+"<item>
+
+<title>Um Ato de Liberdade [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMATODLBRDADE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6077.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6077.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História, Guerra
+Lançamento: 2008
+
+1941. Tuvia (Daniel Craig), Zus (Liev Schreiber) e Asael (Jamie Bell) são irmãos que, ao fugir da perseguição nazista aos judeus, se escondem em uma floresta que conhecem desde a infância. De início eles apenas pensam em sobreviver, mas à medida que seus atos de bravura se espalham diversas pessoas passam a procurá-los, em busca de liberdade. Tuvia assume a posição de líder mas é contestado por Zus, que teme que suas decisões os levem à morte.</info>
+ 
+<genre>Ação, Drama, História, Guerra</genre>
+ 
+<date>31/12/2008</date>
+</item>"
+"<item>
+
+<title>Um estado de Liberdade [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMESTDODLBRDADE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6109.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6109.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História, Guerra
+Lançamento: 2016
+
+Durante a Guerra Civil Americana, o fazendeiro Newton Knight forma um grupo de rebeldes contra a Confederação. Ele é contrário à escravidão, mas também à secessão. Assim, reunindo pobres fazendeiros, o pequeno condado de Jones rompe com o grupo majoritário e forma um pequeno estado livre. Ao longo dos anos, Knight combate a influência racista do Ku Klux Klan e forma a primeira comunidade interracial do sul, casando-se com a ex-escrava Rachel.</info>
+ 
+<genre>Ação, Drama, História, Guerra</genre>
+ 
+<date>17/11/2016</date>
+</item>"
+"<item>
+
+<title>Um Homem Comum [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/UMHMNCMUN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6120.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6120.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra
+Lançamento: 2018
+
+A história segue um criminoso de guerra na clandestinidade (Kingsley), que inicia um relacionamento com sua empregada, uma atriz islandesa em ascensão. Quando as buscas para o encontrarem ficam mais intensas, ele percebe que ela é única pessoa em que pode confiar.</info>
+ 
+<genre>Ação, Drama, Guerra</genre>
+ 
+<date>29/11/2018</date>
+</item>"
+"<item>
+
+<title>Uma Guerra Pessoal [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMGRAPSOAL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6227.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6227.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2019
+
+Biografia sobre a jornalista Marie Colvin (Rosamund Pike), premiada repórter norte-americana, conhecida por cobrir zonas de conflito como Chechênia, Kosovo e Zimbábue. Durante um trabalho no Sri Lanka, ela perdeu seu olho esquerdo em 2001 e passou a usar um tapa-olho, que se tornou sua marca registrada até sua morte em 2012. (e 16 - Estimado 16 Anos)</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>06/11/2019</date>
+</item>"
+"<item>
+
+<title>Uma Vida Oculta [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMAVDOCLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6277.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6277.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra, História
+Lançamento: 2019
+
+Franz Jägerstätter (August Diehl) é um fazendeiro austríaco que se torna herói em circunstâncias um tanto quanto inusitadas. Quando ele é convocado a lutar junto ao exército alemão durante a Segunda Guerra Mundial, ele se recusa e acaba, com apenas 36 anos de idade, condenado à pena de morte por traição à pátria.</info>
+ 
+<genre>Drama, Guerra, História</genre>
+ 
+<date>13/12/2019</date>
+</item>"
+"<item>
+
+<title>Valiant - Um Herói que Vale a Pena [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VALNTUMHRQVLEAPENA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6291.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6291.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura, Comédia, Guerra
+Lançamento: 2005
+
+Valiant (Ewan McGregor) é um jovem pombo que sonha em se alistar na Força Aérea Britânica, para poder ajudar no combate aos nazistas na 2ª Guerra Mundial. Devido ao grande número de baixas Valiant é aceito, sendo encaminhado para treinamento. Seu trabalho a partir de agora será sobrevoar o campo inimigo, de forma a levar mensagens entre integrantes da Aliança.</info>
+ 
+<genre>Animação, Família, Aventura, Comédia, Guerra</genre>
+ 
+<date>19/08/2005</date>
+</item>"
+"<item>
+
+<title>Verdade e Honra [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRDEHNRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6328.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6328.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2020
+
+A história é centrada no jovem investigador do Pentágono Scott Huffman que luta contra a máquina da política de Washington, EUA. Mesmo relutante, ele se une a um grupo de veteranos para tentar convencer o Congresso americano de dar uma Medalha de Honra para William Pitsenbarger, que se sacrificou para salvar 60 soldados durante a Guerra do Vietnã.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>24/01/2020</date>
+</item>"
+"<item>
+
+<title>Vigilantes da Guerra [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VGLNTDGURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6357.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6357.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra, Thriller
+Lançamento: 2014
+
+Jack é um soldado americano que é colocado para trabalhar na prisão iraquiana de Abu Grhaib. No local, ele começa a se incomodar com o modo como os detentos são tratados e as torturas praticadas. Em meio a tudo isso, ele começa uma secreta amizade com um dos prisioneiros que pretende ajudar a fugir. Quando o iraquiano é levado para ser interrogado, Jack deve escolher entre a lealdade a seu amigo ou a seu país.</info>
+ 
+<genre>Drama, Guerra, Thriller</genre>
+ 
+<date>15/03/2014</date>
+</item>"
+"<item>
+
+<title>VIRUNGA [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6380.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6380.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Guerra
+Lançamento: 2014
+
+Conheça a história verídica dos guardas que arriscam a vida para proteger o parque nacional mais precioso da África e seus gorilas em risco de extinção.</info>
+ 
+<genre>Documentário, Guerra</genre>
+ 
+<date>07/11/2014</date>
+</item>"
+"<item>
+
+<title>Zoo: Uma Amizade Maior que a Vida [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZOOUMZDMRQAVDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6473.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6473.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Família, História
+Lançamento: 2018
+
+Durante a Segunda Guerra Mundial, animais do zoológico de Belfast são ameaçados. O garoto Tom e seus amigos desafiam as autoridades e se aventuram para manter Buster, um bebê elefante, a salvo. Baseado em fatos reais.</info>
+ 
+<genre>Guerra, Família, História</genre>
+ 
+<date>08/06/2018</date>
+</item>"
