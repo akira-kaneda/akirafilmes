@@ -1,128 +1,104 @@
 "<item>
 
-<title>01 - O Mandaloriano</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>01-O Mandaloriano</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-Alguns anos após a queda do Império, um caçador de recompensas mandaloriano sem nome retorna de um trabalho para se encontrar com seu líder da guilda, Greef Carga. Procurando obter uma grande recompensa, Carga fornece apenas um endereço do próximo cliente que deseja que a recompensa seja privada. O Cliente dá ao Mandaloriano um alvo vago para trazer vivo.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>Um caçador de recompensas Mandaloriano rastreia um alvo para um cliente rico e misterioso.
+</info>
+ </item>"
 "<item>
 
-<title>02 - A Criança</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>02-A Criança</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-Com o alvo em mãos, o Mandaloriano agora deve enfrentar os catadores.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>Após ter localizado um alvo valioso, o Mandaloriano agora deve lidar com ladrões.
+</info>
+ </item>"
 "<item>
 
-<title>03 - Ferido, o Mandaloriano retorna ao seu cliente para receber a recompensa.</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>03-O Pecado</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-Ferido, o Mandaloriano retorna ao seu cliente para receber a recompensa.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>Ferido, o Mandaloriano retorna ao seu cliente para receber a recompensa.
+</info>
+ </item>"
 "<item>
 
-<title>04 - Santuário</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP04.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>04-Santuário</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/OMNDLRNOSTRWRST01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-Os Mandalorianos se unem a um ex-soldado para proteger uma vila de invasores.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>O Mandaloriano se junta a uma ex-soldada para proteger uma vila de fazendeiros de saqueadores.
+</info>
+ </item>"
 "<item>
 
-<title>05 - A Pistoleira</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP05.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>05-A Pistoleira</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/OMNDLRNOSTRWRST01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-O Mandaloriano ajuda um caçador de recompensas novato.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>O Mandaloriano ajuda um caçador de recompensas novato.
+</info>
+ </item>"
 "<item>
 
-<title>06 - O Prisioneiro</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP06.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>06-O Prisioneiro</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/OMNDLRNOSTRWRST01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-O Mandaloriano se junta a um grupo de mercenários em uma perigosa missão.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>O Mandaloriano se junta a um grupo de mercenários em uma perigosa missão.
+</info>
+ </item>"
 "<item>
 
-<title>07 - O Acerto de Contas</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP07.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>07-O Acerto de Contas</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/OMNDLRNOSTRWRST01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-Um velho rival faz um convite para o Mandaloriano fazer as pazes.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>Um velho rival faz um convite para o Mandaloriano fazer as pazes.
+</info>
+ </item>"
 "<item>
 
-<title>08 - Redenção</title>
-<link>https://distrito1.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP08.mp4?attachment=true</link>
-<image>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</image>
-<thumbnail>https://ia601400.us.archive.org/9/items/6_20200921/9.jpg</thumbnail>
+<title>08-Redenção</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/OMNDLRNOSTRWRST01EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-1.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Sci-Fi & Fantasy, Action & Adventure
-Lançamento: 2019
-
-O Mandaloriano fica cara a cara com um inimigo inesperado.</info>
- 
-<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
- 
-</item>"
+<info>O Mandaloriano fica cara a cara com um inimigo inesperado.
+</info>
+ </item>"
