@@ -1,0 +1,91 @@
+"<item>
+
+<title>01-O Xerife</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/OMNDLRNOSTRWRST02EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O Mandaloriano vai para a Orla Exterior em busca de outros de seu povo.
+</info>
+ </item>"
+"<item>
+
+<title>02-A Passageira</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/OMNDLRNOSTRWRST02EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O Mandaloriano deve transportar uma passageira com uma carga preciosa em uma jornada arriscada.
+</info>
+ </item>"
+"<item>
+
+<title>03-A Herdeira</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/OMNDLRNOSTRWRST02EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O Mandaloriano desbrava novos mares e encontra aliados inesperados.
+</info>
+ </item>"
+"<item>
+
+<title>04-O Cerco</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/OMNDLRNOSTRWRST02EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O Mandaloriano reencontra antigos aliados em uma nova missão.
+</info>
+ </item>"
+"<item>
+
+<title>05-A Jedi</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/OMNDLRNOSTRWRST02EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O Mandaloriano parte para um mundo governado por uma magistrada cruel que tem uma poderosa inimiga.
+</info>
+ </item>"
+"<item>
+
+<title>06-A Tragédia</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/OMNDLRNOSTRWRST02EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O Mandaloriano e a Criança viajam para ruínas antigas.
+</info>
+ </item>"
+"<item>
+
+<title>07-O Que Acredita</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/OMNDLRNOSTRWRST02EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma.
+</info>
+ </item>"
