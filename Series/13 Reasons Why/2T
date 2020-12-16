@@ -1,7 +1,7 @@
 "<item>
 
 <title>01-A Primeira Foto Polaroid</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP01.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP01.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -14,7 +14,7 @@
 "<item>
 
 <title>02-Duas Garotas Se Beijam</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP02.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP02.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -27,7 +27,7 @@
 "<item>
 
 <title>03-Vagabunda e Bêbada</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP03.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP03.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -40,7 +40,7 @@
 "<item>
 
 <title>04-A Segunda Polaroid</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP04.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP04.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -53,7 +53,7 @@
 "<item>
 
 <title>05-A Máquina de Giz</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP05.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP05.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -66,7 +66,7 @@
 "<item>
 
 <title>06-O Sorriso nas Docas</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP06.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP06.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -79,7 +79,7 @@
 "<item>
 
 <title>07-A Terceira Polaroid</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP07.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP07.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -92,7 +92,7 @@
 "<item>
 
 <title>08-A Garotinha</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP08.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP08.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -105,7 +105,7 @@
 "<item>
 
 <title>09-A Página Faltando</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP09.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP09.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -118,7 +118,7 @@
 "<item>
 
 <title>10-Sorriam, Babacas</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP10.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP10.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -131,7 +131,7 @@
 "<item>
 
 <title>11-Bryce e Chloe</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP11.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP11.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -144,7 +144,7 @@
 "<item>
 
 <title>12-A Caixa de Polaroids</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP12.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP12.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
@@ -157,7 +157,7 @@
 "<item>
 
 <title>13-Adeus</title>
-<link>https://chocolate-albino.azureedge.net/RCServer13/ondemand/13RSNSWYT02EP13.mp4</link>
+<link>https://$doregex[RC]/RCServer13/ondemand/13RSNSWYT02EP13.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-2.jpg</image>
