@@ -1,0 +1,104 @@
+"<item>
+
+<title>01-Cubos</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os jovens de 20 anos do Continente chegam às modernas instalações onde passarão pelo Processo, sua única chance de ir para o mundo de privilégios do Maralto.
+</info>
+ </item>"
+"<item>
+
+<title>02-Moedas</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O exame médico de Fernando leva a uma incrível descoberta. Um desafio de lógica aumenta a tensão no grupo. Aline tenta descobrir o segredo de Ezequiel.
+</info>
+ </item>"
+"<item>
+
+<title>03-Corredor</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Ao passar por um túnel, Joana tem uma visão do passado. Ezequiel recebe uma visita inesperada.
+</info>
+ </item>"
+"<item>
+
+<title>04-Portão</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Ao passar por um túnel, Joana tem uma visão do passado. Ezequiel recebe uma visita inesperada.
+</info>
+ </item>"
+"<item>
+
+<title>05-Portão</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Presos no alojamento sem água nem comida, os candidatos se esforçam para encontrar uma saída. Uma súbita mudança no teste revela uma outra face de Marco.
+</info>
+ </item>"
+"<item>
+
+<title>05-Água</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os candidatos encontram uma oferta tentadora ao chegarem ao novo alojamento. Os que decidem ficar enfrentam testes individuais cada vez mais difíceis.
+</info>
+ </item>"
+"<item>
+
+<title>07-Cápsula</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A noite de comemoração se transforma em caos quando oficiais do Processo percebem que há um traidor no grupo e começam a interrogar os candidatos.
+</info>
+ </item>"
+"<item>
+
+<title>08-Botão</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/3PRCT01EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image></image>
+<thumbnail></thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Na manhã do Ritual de Purificação, revelações bombásticas e viradas de casaca colocam o destino dos quatro candidatos em jogo.
+</info>
+ </item>"
