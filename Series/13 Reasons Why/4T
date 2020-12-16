@@ -1,7 +1,7 @@
 "<item>
 
 <title>01-Férias</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP01.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP01.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -14,7 +14,7 @@
 "<item>
 
 <title>02-Visita à faculdade</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP02.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP02.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -27,7 +27,7 @@
 "<item>
 
 <title>03-Dia dos Namorados</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP03.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP03.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -40,7 +40,7 @@
 "<item>
 
 <title>04-Viagem do último ano</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP04.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP04.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -53,7 +53,7 @@
 "<item>
 
 <title>05-Festa</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP05.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP05.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -66,7 +66,7 @@
 "<item>
 
 <title>06-Segurança máxima</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP06.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP06.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -79,7 +79,7 @@
 "<item>
 
 <title>07-Entrevista de admissão</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP07.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP07.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -92,7 +92,7 @@
 "<item>
 
 <title>08-Entrou na faculdade?</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP08.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP08.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -105,7 +105,7 @@
 "<item>
 
 <title>09-Baile de formatura</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP09.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP09.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
@@ -118,7 +118,7 @@
 "<item>
 
 <title>10-Formatura</title>
-<link>https://chocolate-albino.azureedge.net/RCServer08/ondemand/13RSNSWYT04EP10.mp4</link>
+<link>https://$doregex[RC]/RCServer08/ondemand/13RSNSWYT04EP10.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-4.jpg</image>
