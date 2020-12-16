@@ -1,7 +1,7 @@
 "<item>
 
 <title>01-Fita 1, Lado A</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP01.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP01.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -14,7 +14,7 @@
 "<item>
 
 <title>02-Fita 1, Lado B</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP02.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP02.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -27,7 +27,7 @@
 "<item>
 
 <title>03-Fita 2, Lado A</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP03.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP03.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -40,7 +40,7 @@
 "<item>
 
 <title>04-Fita 2, Lado B</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP04.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP04.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -53,7 +53,7 @@
 "<item>
 
 <title>05-Fita 3, Lado A</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP05.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP05.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -66,7 +66,7 @@
 "<item>
 
 <title>06-Fita 3, Lado B</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP06.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP06.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -79,7 +79,7 @@
 "<item>
 
 <title>07-Fita 4, Lado A</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP07.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP07.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -92,7 +92,7 @@
 "<item>
 
 <title>08-Fita 4, Lado B</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP08.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP08.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -105,7 +105,7 @@
 "<item>
 
 <title>09-Fita 5, Lado A</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP09.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP09.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -118,7 +118,7 @@
 "<item>
 
 <title>10-Fita 5, Lado B</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP10.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP10.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -131,7 +131,7 @@
 "<item>
 
 <title>11-Fita 6, Lado A</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP11.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP11.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -144,7 +144,7 @@
 "<item>
 
 <title>12-Fita 6, Lado B</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP12.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP12.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
@@ -157,7 +157,7 @@
 "<item>
 
 <title>13-Fita 7, Lado A</title>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP13.mp4</link>
+<link>https://$doregex[RC]/RCServer11/ondemand/13RSNSWYT01EP13.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601506.us.archive.org/10/items/6-3_20201216/6-1.jpg</image>
