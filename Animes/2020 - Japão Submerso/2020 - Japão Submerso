@@ -1,7 +1,7 @@
 "<item>
 
 <title>01-O começo do fim</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP01.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP01.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -14,7 +14,7 @@
 "<item>
 
 <title>02-Adeus, Tóquio</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP02.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP02.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -27,7 +27,7 @@
 "<item>
 
 <title>03-Uma nova esperança</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP03.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP03.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -40,7 +40,7 @@
 "<item>
 
 <title>04-Uma porta aberta</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP04.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP04.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -53,7 +53,7 @@
 "<item>
 
 <title>05-Ilusão</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP05.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP05.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -66,7 +66,7 @@
 "<item>
 
 <title>06-Um oráculo</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP06.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP06.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -79,7 +79,7 @@
 "<item>
 
 <title>07-O amanhecer</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP07.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP07.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -92,7 +92,7 @@
 "<item>
 
 <title>08-Segredo da mamãe</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP08.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP08.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -105,7 +105,7 @@
 "<item>
 
 <title>09-Japão afunda</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP09.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP09.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
@@ -118,7 +118,7 @@
 "<item>
 
 <title>10-Ressurreição</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/2020JAPSBMRSOT01EP10.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/2020JAPSBMRSOT01EP10.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/12.jpg</image>
