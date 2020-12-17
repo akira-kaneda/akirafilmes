@@ -1,11 +1,11 @@
 "<item>
 
 <title>01-Lua</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/3PRCT04EP01.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/3PRCT04EP01.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image></image>
-<thumbnail></thumbnail>
+<image>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Quando um grupo da Shell é convidado para o Offshore, Joana vê uma chance de vingança. Mas ela logo se distrai com memórias perturbadoras.
@@ -14,11 +14,11 @@
 "<item>
 
 <title>02-Choque</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/3PRCT04EP02.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/3PRCT04EP02.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image></image>
-<thumbnail></thumbnail>
+<image>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Após um anúncio surpresa de André, Michele começa a treinar Xavier para um tipo diferente de missão. Verônica acompanha Joana a um encontro secreto.
@@ -27,11 +27,11 @@
 "<item>
 
 <title>03-Fogo</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/3PRCT04EP03.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/3PRCT04EP03.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image></image>
-<thumbnail></thumbnail>
+<image>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Enquanto o grupo se prepara para invadir o RTC, Glória faz um trato fatídico, Michele se vê presa e Rafael se reconecta com um rosto conhecido.
@@ -40,11 +40,11 @@
 "<item>
 
 <title>04-Submarino</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/3PRCT04EP04.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/3PRCT04EP04.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image></image>
-<thumbnail></thumbnail>
+<image>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Obrigada a recorrer ao plano B, Joana e os outros fogem para um esconderijo subterrâneo, onde Natália luta com uma difícil decisão.
@@ -53,11 +53,11 @@
 "<item>
 
 <title>05-Pintura</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/3PRCT04EP05.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/3PRCT04EP05.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image></image>
-<thumbnail></thumbnail>
+<image>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Enquanto o pânico toma conta do Offshore, Marcela luta para restaurar a ordem e Marco descobre que sua mãe não é o único membro da família na ilha.
@@ -66,11 +66,11 @@
 "<item>
 
 <title>06-Botões</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/3PRCT04EP06.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/3PRCT04EP06.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image></image>
-<thumbnail></thumbnail>
+<image>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Com as tensões aumentando e os rumores se espalhando rapidamente, André tranca o prédio do Processo e apresenta a quatro candidatos um teste final angustiante.
@@ -79,11 +79,11 @@
 "<item>
 
 <title>07-Sol</title>
-<link>https://chocolate-albino.azureedge.net/RCServer12/ondemand/3PRCT04EP07.mp4</link>
+<link>https://$doregex[RC]/RCServer12/ondemand/3PRCT04EP07.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image></image>
-<thumbnail></thumbnail>
+<image>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/4/items/7-4_20201216/7-4.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Acordando para uma nova realidade, as facções Inland e Offshore se aproximam da beira da guerra - até que um artefato há muito perdido oferece um raio de esperança.
