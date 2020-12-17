@@ -1,0 +1,312 @@
+"<item>
+
+<title>01-Dia 8: 12:00 a.m. - 01:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma conspiração para assassinar o Presidente da República Islâmica na sede da ONU chama a atenção de Jack.
+</info>
+ </item>"
+"<item>
+
+<title>02-Dia 8: 01:00 a.m. - 02:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>UCT detém um repórter que é suspeito de ajudar assassinos, enquanto Jack e Chloe começam a própria investigação.
+</info>
+ </item>"
+"<item>
+
+<title>03-Dia 8: 02:00 a.m. - 03:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack e Chloe correm contra o tempo para tentar impedir o assassinato do Presidente Islâmico.
+</info>
+ </item>"
+"<item>
+
+<title>04-Dia 8: 03:00 a.m. - 04:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A UCT quer que a ex-agente do FBI Renee Walker se infiltre em uma gangue russa que está vendendo armas enriquecidas de urânio.
+</info>
+ </item>"
+"<item>
+
+<title>05-Dia 8: 04:00 a.m. - 05:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Apenas quatro horas depois de ser obrigado a voltar a agur, Jack Bauer se une a uma perigosa Renee Walker para descobrir quem está na liderança dos ataques. Na UCT, Dana Walsh encara situações tensas e ameaçadoras, e os nervos ficam a flor da pele quando a presidente Taylor descobre um plano para por fim à missão de paz do presidente Omar Hassan.
+</info>
+ </item>"
+"<item>
+
+<title>06-Dia 8: 05:00 a.m. - 06:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Disfarçada, a agente Renee Walker confronta seu passado doloroso ao tentar fazer um acordo com um perigoso traficantes de armas alemão. Quando a UCT muda seu foco para as circunstâncias perigosas que cercam Jack e Renee, a analista Dana Walsh elabora um plano para se salvar, enquanto Chloe O'Brian põe Arlo Glass em seu lugar. A missão disfarçada de Jack e Renee sofre uma reviravolta, e a missão de paz do presidente Hassan está por um fio.
+</info>
+ </item>"
+"<item>
+
+<title>07-Dia 8: 06:00 a.m. - 07:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Apesar de evitar o assassinato do líder Omar Hassan, o dia de Jack Bauer fica ainda mais intenso quando ele é forçado a continuar disfarçado para garantir a segurança de materiais nucleares.
+</info>
+ </item>"
+"<item>
+
+<title>08-Dia 8: 07:00 a.m. - 08:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A presidente Taylor pressiona a UCT por resultados enquanto o plano perigoso de Jack deixa todos em pânico. Enquanto uma nova ameaça se espalha, a dinâmica na UCT muda e a crise fica ainda pior.
+</info>
+ </item>"
+"<item>
+
+<title>09-Dia 8: 08:00 a.m. - 09:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack Bauer inicia mais uma madrugada de trabalho enquanto toda a nação permanece vulnerável e a presidente Taylor enfrenta pressão internacional por resultados no tratado de paz. Com a possibilidade de uma grande decepção na UCT, as pessoas procuram um culpado e tudo é levado para o lado pessoal quando os funcionários decidem resolver as coisas por contra própria.
+</info>
+ </item>"
+"<item>
+
+<title>10-Dia 8: 09:00 a.m. - 10:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A ameaça terrorista continua, e o turbilhão da família Hassan só piora a situação. Quando Jack encontra uma pessoa de interesse, uma reunião já bastante tensa entre a presidente Taylor e Omar Hassan fica ainda pior.
+</info>
+ </item>"
+"<item>
+
+<title>11-Dia 8: 10:00 a.m. - 11:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>As horas continuam a passar quando a ameaça de um ataque nuclear devastador acelerada - e Jack persegue um suspeito de terrorismo com planos explosivos. De volta a UCT, uma pessoa importante lida com uma demissão. Tudo fica ainda mais tenso com a chegada de Bill Prady.
+</info>
+ </item>"
+"<item>
+
+<title>12-Dia 8: 11:00 a.m. - 12:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Jack e Cole se unem para proteger Nova York de uma grande ameaça, uma situação com reféns toma a UCT. Enquanto isso, o agente de condicional Prady pressiona sua investigação, e surpresas colocam a família Hassan novamente sob os holofotes.
+</info>
+ </item>"
+"<item>
+
+<title>13-Dia 8: 12:00 p.m. - 01:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A ameaça terrorista está cada vez mais próxima da UCT e a poderosa NSA intervém na situação. As condições na UCT continuam tensas, e agentes de campo entram em ação quando Jack Bauer os lidera em uma missão arriscada. Chloe e Dana tomam decisões que podem mudar tudo.
+</info>
+ </item>"
+"<item>
+
+<title>14-Dia 8: 01:00 p.m. - 02:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A tentativa da presidente Taylor em fazer um acordo de paz foi frustrada nas últimas 13 horas, que têm sido infernais, e a situação ainda piora, quando fica clara uma ameaça de destruição em massa. Então, ela dá a Bauer uma missão crucial. O conselheiro da presidente Ethan Kanin retorna.
+</info>
+ </item>"
+"<item>
+
+<title>15-Dia 8: 02:00 p.m. - 03:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A manhã vai nascendo em Nova York, e a Presidente Taylor permanece no jogo. Enquanto isso, o Presidente Hassan toma uma decisão chocante que pode surpreender seus entes queridos.
+</info>
+ </item>"
+"<item>
+
+<title>16-Dia 8: 03:00 p.m. - 04:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um traidor faz um acordo por imunidade, enquanto Jack e Renee correm para resgatar um refém.
+</info>
+ </item>"
+"<item>
+
+<title>17-Dia 8: 04:00 p.m. - 05:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois do fracasso de Jack e Renee em salvar Hassan, Ethan sugere que a presidente Taylor traga o ex-presidente Charles Logan para selar a paz com os russos. Jack e Renee confessam seus sentimentos um pelo outro.
+</info>
+ </item>"
+"<item>
+
+<title>18-Dia 8: 05:00 p.m. - 06:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O enviado da Presidente Taylor aos russos consegue convencê-los a retornar à paz, mas a que custo?
+</info>
+ </item>"
+"<item>
+
+<title>19-Dia 8: 06:00 p.m. - 07:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack tenta escapar de sua prisão, enquanto sua amiga de longa data Chloe O'Brien o segue. Logan prova que ele nunca se dá por satisfeito de ideias imorais e continua a influenciar a presidente. Dana desesperadamente procura a ajuda de Chloe depois que uma oferta de imunidade é rejeitada.
+</info>
+ </item>"
+"<item>
+
+<title>20-Dia 8: 07:00 p.m. - 08:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack pede ajuda a Cole para descobrir o paradeiro de Dana Walsh. Enquanto isso, os tratados de paz continuam sendo discutidos com Dalia Hassan, que está tomando o lugar de seu marido morto.
+</info>
+ </item>"
+"<item>
+
+<title>21-Dia 8: 08:00 p.m. - 09:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack entra em contato com a jornalista Meredith Reed, oferecendo a história verdadeira sobre a morte do amante dela, o presidente Hassan. Tendo detectado essa comunicação com os recursos da UCT, Pillard e os russos preparam uma emboscada mas graças a um aliado inesperado, Jack vira o jogo. Para o horror de Meredith Reed, Jack toma medidas drásticas para fazer o assassino russo Panvel revelar quem deve ser o próximo alvo da vingança de Jack.
+</info>
+ </item>"
+"<item>
+
+<title>22-Dia 8: 09:00 p.m. - 10:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A missão de Jack em busca de justiça dificulta os planos da presidente Taylor enquanto ela se prepara para assinar um tratado de paz. Enquanto isso, Chloe joga a UCT contra Jack, e o presidente Logan encontra um inimigo formidável.
+</info>
+ </item>"
+"<item>
+
+<title>23-Dia 8: 10:00 p.m. - 11:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>No fim da temporada, a presidente Taylor se concentra na assinatura do tratado de paz. Jack deve novamente resolver os problemas com suas próprias mãos.
+</info>
+ </item>"
+"<item>
+
+<title>24-Dia 8: 11:00 p.m. - 12:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST08EP24.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Chloe oferece a Jack uma alternativa drástica para seu plano de vingança. O momento de assinar o tratado de paz se aproxima, e a presidente Taylor sofre por causa da escolha dos meios usados para conseguir levar o tratado adiante. Charles Logan dá um passo amargo na direção de um velho inimigo.
+</info>
+ </item>"
