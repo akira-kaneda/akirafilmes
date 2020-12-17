@@ -1,0 +1,156 @@
+"<item>
+
+<title>01-Dia 9: 11:00 a.m. - 12:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Há quatro anos, Jack era um fugitivo da justiça. Agora em exílio, ele está disposto a arriscar sua liberdade para prevenir outro desastre global. O chefe da CIA, Steve Navarro, e a agente Kate Morgan estão na cola de Bauer, assim como outros agentes de operação.
+</info>
+ </item>"
+"<item>
+
+<title>02-Dia 9: 12:00 p.m. - 01:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack trabalha com Chloe para recuperar um antigo membro do grupo dela, que estava vendendo informações. A situação do Presidente Heller piora depois de um ataque, e suas condições parecem só deteriorar. Kate Morgan lidera uma caçada a Bauer.
+</info>
+ </item>"
+"<item>
+
+<title>03-Dia 9: 01:00 p.m. - 02:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Kate Morgan continua procurando Jack e Heller prepara para recorrer ao Parlamento após o ataque. Margot Al-Harazi prova que está disposta a sacrificar qualquer coisa por vingança.
+</info>
+ </item>"
+"<item>
+
+<title>04-Dia 9: 02:00 p.m. - 03:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Com a ameaça aumentando, Jack Bauer vai para a embaixada americana, enquanto a CIA se aproxima cada vez mais dele. Em outro lugar, Margot (convidada especial Michelle Fairley, de Game of Thrones) afirma a sua autoridade com uma força impensável, o presidente Heller encara membros do parlamento inglês e Kate Morgan tenta resolver as coisas sozinha.
+</info>
+ </item>"
+"<item>
+
+<title>05-Dia 9: 03:00 p.m. - 04:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Jack lida com circunstâncias imprevistas, uma dupla improvável se une para impedir um ataque a Londres. Enquanto isso, a terrorista inglesa Margot Al-Harazi (convidada especial Michelle Fairley, de Game of Thrones) revela sua demanda: a vingança pela morte de seu marido em um ataque aéreo americano. Além disso, o presidente Heller ordena o bloqueio do espaço aéreo militar, mas essa medida pode ter vindo tarde demais.
+</info>
+ </item>"
+"<item>
+
+<title>06-Dia 9: 04:00 p.m. - 05:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto a nuvem se dissipa após os devastadores eventos das primeiras cinco horas, a tensão entre Heller e Davis atinge o auge e um deles decide tomar as rédeas da ação. Enquanto isso, Jack propõe um plano para localizar Margot, usando alguém inesperado como isca. De volta a CIA em Londres, Jordan fica com suspeitas sobre o marido de Kate.
+</info>
+ </item>"
+"<item>
+
+<title>07-Dia 9: 05:00 p.m. - 06:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após um intenso e fatal tiroteio, Jack e Kate estão em uma corrida contra o tempo para salvar a vida de uma importante figura ligada à iminente ameaça terrorista. Enquanto isso, Jordan Reed é recrutado para uma missão perigosa em campo. Depois que o presidente Heller faz Margot abandonar seus ataques, ele enfrenta uma impensável decisão, que mudará o destino da ação.
+</info>
+ </item>"
+"<item>
+
+<title>08-Dia 9: 06:00 p.m. - 07:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack Bauer e o presidente Heller lidam com o impensável para frustrar os ataques de terror da mente criminosa Margot Al-Harazi. Enquanto isso, a agente da CIA Jordan Reed enfrenta um desafio de vida ou morte, ao mesmo tempo em que Kate toma medidas drásticas para encontrar Margot antes que seja tarde demais.
+</info>
+ </item>"
+"<item>
+
+<title>09-Dia 9: 07:00 p.m. - 08:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack e Chloe tem um plano para eliminar a ameaça terrorista antes que novos ataques atinjam Londres. Sem tempo a perder e com vidas em risco, Jack e Kate seguem pistas cruciais em uma tentativa de ganhar vantagem sobre as circunstâncias extremamente intensas. Enquanto isso, personagens revelam suas verdadeiras intenções.
+</info>
+ </item>"
+"<item>
+
+<title>10-Dia 9: 08:00 p.m. - 09:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O angustiante dia de Jack Bauer continua enquanto ele busca as pistas finais a todo custo. A carga emocional dos eventos do dia cobram o seu preço quando Kate Morgan descobre a verdade sobre seu marido, ao mesmo tempo em que Audrey confronta Boudreau pelo trabalho como agente duplo. Para complicar ainda mais as coisas, o escopo do terror aumenta, com devastações potenciais chegando a um novo patamar.
+</info>
+ </item>"
+"<item>
+
+<title>11-Dia 9: 09:00 p.m. - 10:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Audrey busca canais diplomáticos para prevenir uma guerra. Enquanto isso, Jack leva Kate Morgan e Mark Boudreau em uma missão para localizar o alvo antes que seja tarde demais.
+</info>
+ </item>"
+"<item>
+
+<title>12-Dia 9: 10:00 p.m. - 11:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST09EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-9.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O relógio avança em direção aos segundos finais do dia mais heroico de Jack Bauer. Enquanto o mundo teme um plano terrorista de proporções globais, Jack e a equipe se reúnem mais uma vez para evitar uma crise internacional iminente. Com pouco tempo e com o destino do mundo em perigo, Jack tem que lidar com uma decisão grave e inconcebível. Vidas serão perdidas e o governo norte-americano vai precisar lidar com a notícia mais devastadora do dia quando o relógio parar.
+</info>
+ </item>"
