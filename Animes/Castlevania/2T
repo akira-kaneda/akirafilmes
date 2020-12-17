@@ -1,0 +1,52 @@
+"<item>
+
+<title>01-Garrafa de Bruxa</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/CSTLVNT01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Lisa busca conhecimentos secretos onde não deve, e um bispo corrupto brinca com fogo ao enfurecer uma criatura sinistra.
+</info>
+ </item>"
+"<item>
+
+<title>02-Necrópolis</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/CSTLVNT01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Numa cidade tomada pelo pânico, Trevor Belmont toma conhecimento de uma lenda antiga e faz uma promessa inesperada.
+</info>
+ </item>"
+"<item>
+
+<title>03-Labirinto</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/CSTLVNT01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Nas catacumbas de Gresit, Belmont faz uma descoberta assustadora. Com a chegada da noite, as criaturas de Drácula retornam sedentas de sangue.
+</info>
+ </item>"
+"<item>
+
+<title>04-Monumento</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/CSTLVNT01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Belmont luta para salvar Gresit da destruição iminente e se depara com uma verdade desconcertante.
+</info>
+ </item>"
