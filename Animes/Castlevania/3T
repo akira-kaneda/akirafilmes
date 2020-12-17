@@ -1,0 +1,130 @@
+"<item>
+
+<title>01-Benditos Sejam Seus Corações Mortos</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Alucard se ajusta à sua nova vida solitária, Belmont e Sypha fazem uma visita a uma cidade estranha e incomum, e Carmilla volta para casa com um prêmio.
+</info>
+ </item>"
+"<item>
+
+<title>02-O Reparo Do Meu Coração</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Isaac recebe uma ajuda inesperada em sua busca por Hector. Enquanto isso, Carmilla planeja uma grilagem de terras e Alucard encontra alguns fãs.
+</info>
+ </item>"
+"<item>
+
+<title>03-Investigadores</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O plano de Belmont e Sypha de deixar Lindenfeld é um obstáculo. Isaac e o Capitão debatem os méritos da humanidade. Hector tenta fazer uma leitura de Lenore.
+</info>
+ </item>"
+"<item>
+
+<title>04-Eu Tenho Um Plano</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Zumi e Takka compartilham sua história com Alucard. Além disso, Saint Germain ganha entrada no priorado, e Isaac recebe uma recepção gelada em Gênova.
+</info>
+ </item>"
+"<item>
+
+<title>05-Lugar Civilizado E Refinado</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Belmont e o juiz descobrem um símbolo sinistro, a caça ao tesouro de Saint Germain é interrompida e o vínculo de Alucard com Zumi e Takka continua a crescer.
+</info>
+ </item>"
+"<item>
+
+<title>06-O Sonho Bom</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Lenore continua a passar o tempo com Hector, ganhando lentamente sua confiança. Saint Germain tem um pesadelo revelador sobre o Corredor Infinito.
+</info>
+ </item>"
+"<item>
+
+<title>07-Coisas Piores Do Que Traição</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Saint Germain faz descobertas perturbadoras, Isaac marcha em direção a um confronto. Enquanto isso, Belmont e Sypha questionam um monge - agressivamente.
+</info>
+ </item>"
+"<item>
+
+<title>08-O Que A Noite Nos Reserva</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Algo está vivo no porão do priorado e, para Belmont e Sypha, o tempo é essencial. Lenore se abre para Hector sobre os planos de Carmilla.
+</info>
+ </item>"
+"<item>
+
+<title>09-A Colheita</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A noite cai sobre Lindenfeld e todo tipo de inferno se abre. Além disso, Isaac encontra o Mago, Hector faz uma promessa e Zumi e Takka se movem.
+</info>
+ </item>"
+"<item>
+
+<title>10-Abandone Todas As Esperanças</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/CSTLVNT03EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</image>
+<thumbnail>https://ia801408.us.archive.org/12/items/15_20201217_202012/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Com o portal para o inferno aberto, Trevor e Sypha devem lutar contra um ataque violento. Enquanto isso, o juiz compartilha um legado perturbador e Hector descobre seu destino.
+</info>
+ </item>"
