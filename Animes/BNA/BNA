@@ -1,0 +1,156 @@
+"<item>
+
+<title>01-Guaxinim em fuga</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Fugindo da perseguição como um homem-fera, Michiru viaja para Anima-City, onde conhece o lobo Shirou em meio às celebrações do 10º aniversário da cidade.
+</info>
+ </item>"
+"<item>
+
+<title>02-Cidade do coelho</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Michiru não pode provar que ela era humana sem sua carteira de estudante roubada, então ela segue para Rabbit Town para recuperá-la. Shirou se encontra com o prefeito.
+</info>
+ </item>"
+"<item>
+
+<title>03-Rinoceronte melancólico</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O prefeito pede a Shirou para investigar uma série de bombardeios. Michiru tenta se juntar a ele, com o objetivo de proteger um centro médico.
+</info>
+ </item>"
+"<item>
+
+<title>04-Golfinho devaneio</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Usando um cartão SIM ilegal, Michiru faz amizade com a influenciadora Nina, que é fascinada por humanos. Os dois escapam para uma festa no mundo humano.
+</info>
+ </item>"
+"<item>
+
+<title>05-Ursos gananciosos</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Embora ela prefira basquete, Michiru relutantemente se junta a um time de beisebol azarado cujo treinador de cachorro está apostando em esportes.
+</info>
+ </item>"
+"<item>
+
+<title>06-Valsa raposa</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A Igreja do Lobo Prateado chega à Anima-City. Michiru fica chocada ao saber que sua líder é sua amiga Nazuna, que já foi humana como ela.
+</info>
+ </item>"
+"<item>
+
+<title>07-Albatross fácil</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Michiru conhece o homem-fera albatroz Pingua quando ele cai em sua casa. Shirou tem um encontro com Alan Sylvasta no gabinete do prefeito.
+</info>
+ </item>"
+"<item>
+
+<title>08-O rato-toupeira fala</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após a visita de Boris, Yaba se transforma em uma forma de fera incontrolável. O prefeito conta a Michiru a verdadeira história do lobo prateado.
+</info>
+ </item>"
+"<item>
+
+<title>09-Bode expiatório humano</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Shirou investiga o que aconteceu com Yaba, Michiru foge para o centro médico de Sylvasta depois de ver Nazuna sequestrada mais uma vez.
+</info>
+ </item>"
+"<item>
+
+<title>10-Lobo raivoso</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shirou e Michiru começaram a subjugar outro homem-fera monstruoso. Depois que as máquinas de Sylvasta interferem, Alan conta a eles sobre a Síndrome de Nirvasyl.
+</info>
+ </item>"
+"<item>
+
+<title>11-Um banquete bestial</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Nazuna decide revelar que é humana durante seu show. Enquanto o prefeito foge da detenção no Japão, Shirou e Flip colocam seus próprios planos em ação.
+</info>
+ </item>"
+"<item>
+
+<title>12-Anima-City</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BNAT01EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/33/items/13_20201217_20201217/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O prefeito prova que um soro baseado no sangue de Michiru cura a Síndrome Nirvasyl, mas Alan segue em frente com seu plano para ""resolver"" o problema do homem-fera.
+</info>
+ </item>"
