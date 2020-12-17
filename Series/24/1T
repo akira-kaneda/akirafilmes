@@ -1,0 +1,312 @@
+"<item>
+
+<title>01-Dia 1: 12:00 a.m. - 01:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Pouco tempo depois que Jack Bauer termina um jogo de xadrez com sua filha adolescente Kimberly, na madrugada do dia da eleição presidencial, ela foge de casa e Jack, que conduz a Unidade Governamental Anti-Terrorismo, é chamado imediatamente para voltar ao trabalho. Ele descobre que há um plano para assassinar o candidato à presidência David Palmer. Logo ele descobre que alguém dentro de sua própria agência pode estar envolvido nesse plano. Enquanto isso, Teri, a mulher de Jack, tenta encontar sua filha. E esses são apenas os primeiros minutos do dia...
+</info>
+ </item>"
+"<item>
+
+<title>02-Dia 1: 01:00 a.m. - 02:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack consegue um cartão eletrônico contendo informações sobre Palmer; Teri e o pai de Janet procuram uma garota desaparecida; Ira Gaines tenta obter a cédula de identidade (RG) de Belkins.
+</info>
+ </item>"
+"<item>
+
+<title>03-Dia 1: 02:00 a.m. - 03:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack descobre que a senha do cartão está criptografada no computador de Nina; Gaines obtém de Mandy e Bridget a cédula de identidade (RG) de Belkins; Kimberly e Janet fogem de seus capturadores.
+</info>
+ </item>"
+"<item>
+
+<title>04-Dia 1: 03:00 a.m. - 04:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A suspeita de Jack de que alguém dentro da agência está envolvido na tentativa de assassinato de David Palmer, acaba causando tensão entre um de seus mais próximos colaboradores. Jamey está próxima de conseguir uma pista que poderá colocar Jack novamente em campo, onde ele conhece uma prestativa policial que sabe de muita coisa. Mas os esforços da agência para descobrir algo sobre o caso Palmer enfrentam alguns empecilhos com o retorno de George Mason, que tenta brincar com as emoções de Nina, enquanto tenta descobrir onde Jack está. A luta de Kimberly e Janet pela sua liberdade toma um rumo trágico, enquanto Teri e York não tem tanta sorte quando eles são parados por um policial por excederem a velocidade. Além isso, David Palmer finalmente descobre que alguém está tentando matá-lo, a apenas poucas horas do dia das eleições primárias para presidente.
+</info>
+ </item>"
+"<item>
+
+<title>05-Dia 1: 04:00 a.m. - 05:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Logo após o tiroteio, Jack vai até o distrito policial tentar encontrar alguma informação significativa de Greg Penicoff, mas Mason interfere em sua investigação antes que ele possa descobrir algo. Enquanto York encontra sua filha, Kimberly é entregue a Gaines e Kim conhece o chefe dos sequestradores das garotas. Palmer marca um encontro com a repórter Maureen Kingsley, na tentativa de descobrir quem são suas fontes.
+</info>
+ </item>"
+"<item>
+
+<title>06-Dia 1: 05:00 a.m. - 06:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack se encontra com Teri e lhe informa da gravidade do desaparecimento de Kimberly, já que ele recebe informações que sugerem que ela foi sequestrada. Enquanto isso, Jack pede a ajuda de Nina para identificar o corpo mutilado encontrando no porta-malas de um carro. Jack conhece Alan York, o pai de Janet, que tem ficado com sua esposa nas últimas cinco horas, o que acaba criando um atrito entre eles. Palmer descobre que sua família o tem protegido de um segredo que poderá arruinar sua campanha. Gaine demonstra seu extremo descontentamento com Dan e Rick. Janet luta para se manter viva enquanto Alan e Teri tentam se consolar frente ao ocorrido.
+</info>
+ </item>"
+"<item>
+
+<title>07-Dia 1: 06:00 a.m. - 07:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto o dia amanhece, Gaines decide mudar os planos e leva seu controle sobre a situação a um outro nível. Rick concorda em se unir a Kim numa tentativa de fuga. Jack retorna à UCT para fazer o que for preciso para manter sua mulher e filha vivas. Enquanto isso, Palmer decide levar à público o segredo de Keith, gerando uma controvérsia entre sua própria família. Uma falha dos conspiradores força o traidor da UCT a fazer uma mudança, e a identidade dele/dela finalmente é revelada.
+</info>
+ </item>"
+"<item>
+
+<title>08-Dia 1: 07:00 a.m. - 08:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A eleição primária para a presidência começa na Califórnia e o senador Palmer decide reescrever seu discurso de campanha, onde ele irá revelar a verdade sobre a tragédia de sua família. Martin Belkin, o fotógrafo impostor contratado por Gaines, chega ao local onde Palmer fará o seu discurso, e é recebido por um dos membros da equipe do senador. Enquanto isso, Jack, que está tentando descobrir o assassino e manter sua filha e mulher vivas, continua sendo controlado por Gaines, que ordena que ele vá para o local do discurso de Palmer. Lá, Jack é recebido pelo mesmo homem que recepcionou Belkin, e descobre que ele é um velho amigo da época da escola. Enquanto isso, na UCT, Jamey e Tony recebem assustadoras notícias sobre Nina, forçando ambos a mudarem seus planos.
+</info>
+ </item>"
+"<item>
+
+<title>09-Dia 1: 08:00 a.m. - 09:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>As tentativas de Jack para salvar Palmer fracassam, tornando Jack o principal suspeito do atentado contra o senador. Agora ele tem que se defender das acusações ao ser interrogado pelo FBI. Enquanto isso, Teri e Kimberly tentam manter o controle quando ambas são feitas reféns dos sequestradores, e Teri faz um sacrifício na tentativa de salvar sua filha.
+</info>
+ </item>"
+"<item>
+
+<title>10-Dia 1: 09:00 a.m. - 10:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack, agora um homem procurado, foge da polícia enquanto trabalha com a UCT para encontrar Teri e Kimberly. Tony e Nina começam a procurar informações sobre Gaines, quando Alberta Green, a nova diretora da UCT, chega para ajudá-los. Tony encontra uma pista no disco de Jamey que revela uma fonte com quem Jack vai tentar entrar em contato. Teri finalmente consegue entrar em contato com Jack, mas é interrompida quando Rick e Eli a encontram e pegam o celular que Eli tinha perdido. Mas Teri consegue fazer com que a ligação continue ativa, permitindo que Jack e Nina escute o que está acontecendo no cativeiro. A vida do senador Palmer continua em perigo, enquanto sua equipe tenta protegê-lo. Enquanto isso, Gaines é contatado pelo seu chefe, que não está nada contente com o rumo das coisas.
+</info>
+ </item>"
+"<item>
+
+<title>11-Dia 1: 10:00 a.m. - 11:00 a.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Nina tenta traçar um perfil psicológico para ajudar Jack num interrogatório, Jack decide agir e leva um colega de Gaines para uma perigosa volta de limusine na tentativa de encontrar alguma pista sobre o local onde sua mulher e filha estão presas. Enquanto isso, Rick é punido por proteger Teri e Kimberly, e o senador Palmer descobre a existência de uma possível conspiração dentro da equipe de sua campanha. E Gaines pede mais tempo ao seu chefe, que menciona um plano de contingência que não envolve ele.
+</info>
+ </item>"
+"<item>
+
+<title>12-Dia 1: 11:00 a.m. - 12:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack começa a se aproximar do local onde Teri e Kimberly estão sendo mantidas reféns. Enquanto Jack insiste em manter apenas um homem em campo, ele liga para Nina pedindo uma ajuda técnica. Mas ela e Tony estão tendo seus próprios problemas na UCT: Alberta Green, a substituta de Jack, agora está convencida de que eles sabem onde Jack está. Ainda acreditando que Jack é uma ameaça ao senador Palmer, ela coloca Nina e Tony um contra o outro na tentativa de fazer com que eles confessem o que sabem. Teri e Kimberly acabam criando um atrito entre elas quando as coisas começam a ficar violentas no cativeiro. Enquanto isso, os piores medos do senador Palmer vem à tona quando ele descobre que seus colegas de campanha estão indo longe demais para fazer com que ele ganhe as eleições primárias.
+</info>
+ </item>"
+"<item>
+
+<title>13-Dia 1: 12:00 p.m. - 01:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O chefe de Gaine finalmente perde a paciência com ele, quando Gaine insiste em continuar sua inútil perseguição contra Jack, quando Jack finalmente consegue virar o jogo. Jack dá uma segunda chance para Rick. Teri e Kim são forçadas a não cumprirem o plano de Jack. Nina e Tony descobrem que o plano para assassinar o senador Palmer é mais complicado do que eles imaginavam. Green ordena que a mãe de Jamey seja interrogada. Palmer recebe surpreendentes informações de Maureen Kingsley.
+</info>
+ </item>"
+"<item>
+
+<title>14-Dia 1: 01:00 p.m. - 02:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack é novamente separado de sua família, e Nina acredita que eles ainda estão correndo perigo. A UCT descobre que há um ""plano B"" para assassinar o senador Palmer. Há mais atiradores estrangeiros contratados e todos eles talvez já estejam no país. Enquanto isso, Palmer terá que lidar com o fato de que alguém que está financiando sua campanha está chantageando ele. E Keith muda de atitude ao descobrir o que aconteceu com o Dr. Ferragamo.
+</info>
+ </item>"
+"<item>
+
+<title>15-Dia 1: 02:00 p.m. - 03:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Convencido de que Jack o quer morto, o senador David Palmer quebra todas as regras e insiste em ter um encontro cara-a-cara com o suposto suspeito, na tentativa de encerrar de uma vez por todas esse assunto. Mas quando os dois começam a trocar informações, eles percebem que descobriram a mesma coisa uma pessoa que pode ser o outro alvo do atentado. Eles também descobrem porque os conspiradores escolheram esse dia das eleições primárias em particular para realizar suas ações. Enquanto isso, Teri e Kimberly são resgatadas e levadas para um local seguro, protegido por agentes da UCT, onde são interrogadas por Nina.
+</info>
+ </item>"
+"<item>
+
+<title>16-Dia 1: 03:00 p.m. - 04:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack entra em contato com um agente em New Orleans que talvez tenha alguma informação sobre a conspiração para assassinar o senador Palmer. Nina interroga Teri, tentando obter qualquer informação que talvez possa ajudar na investigação. Mas a tensão entre as duas acaba forçando Nina a sair da casa onde elas estão sob proteção. Fotos dos suspeitos da conspiração são mostradas à equipe de Palmer.
+</info>
+ </item>"
+"<item>
+
+<title>17-Dia 1: 04:00 p.m. - 05:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack usa um dos membros da equipe do senador Palmer para ajudá-lo a prender um suposto assassino que ainda quer matar Palmer. Tony descobre que a segurança de Teri e Kim foi comprometida, mas Manson se recusa a dar informações sobre a situação de Jack. Manson está tentando manter Jack focado no trabalho enquanto a UCT se prepara para realizar uma operação que poderá deixá-los em vantagem em relação aos conspiradores. Entretanto, Jack fica sabendo que Nina e Teri tiveram um atrito, deixando-o nada contente com essa situação. Enquanto isso, Keith inicia sua própria investigação para descobrir o que realmente aconteceu por trás da morte do Dr. Ferragamo, ao ter um encontro com Carl.
+</info>
+ </item>"
+"<item>
+
+<title>18-Dia 1: 05:00 p.m. - 06:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Jack tenta encontrar o restante dos atiradores, ele é forçado a trabalhar com um agente da UCT que só age sob as regras da agência, e que guarda um certo rancor dele. Enquanto isso, o senador Palmer pensa no que ele deve fazer com o que Keith descobriu sobre a morte do Dr. Ferragamo. O Dr. Phil Parslow tenta diagnosticar Teri e explicar a história dela e de sua filha. Kim conhece Frank, o irmão de Dan.
+</info>
+ </item>"
+"<item>
+
+<title>19-Dia 1: 06:00 p.m. - 07:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Seguindo o assassinato do agente de New Orleans, Jack descobre um local que pode guardar todas as informações sobre os planos do assassinato e sequestro. Teri retorna para casa na tentativa de recuperar sua memória. Mason e Jack investigam a pista conseguida por Palmer e Kim reencontra Rick. Enquanto isso, Frank decide tomar o controle das coisas após descobrir que Dan, seu irmão, está morto.
+</info>
+ </item>"
+"<item>
+
+<title>20-Dia 1: 07:00 p.m. - 08:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Victor Drazen, um criminoso da Guerra dos Balcãs, é o responsável pela conspiração e culpa Jack pela morte de sua amada. Sua tentativa de vingança contra Jack e o senador Palmer é o motivo por trás da conspiração. Jack continua a procurar por pistas e o motivo para que os Drazen tenham planejado cortar a energia de uma área aparentemente deserta. Jack acaba conhecendo Mark DeSalvo, o responsável por uma prisão, que talvez tenha algumas respostas para as suas dúvidas. Enquanto isso, Mason retorna à UCT para interrogar Andre Drazen, irmão de Victor. Rick fala para Kim o que ela deve dizer aos policiais. E o país reage a entrevista em que Palmer falar sobre Keith, seu filho.
+</info>
+ </item>"
+"<item>
+
+<title>21-Dia 1: 08:00 p.m. - 09:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack está à mercê dos responsáveis pela conspiração, criminosos que ele tem trabalhado para capturar durante todo o dia. Enquanto isso, Kim tenta provar sua inocência quando ela é presa pela polícia durante uma batida num ponto de venda de drogas. Mason ordena que Jack receba ajuda de outros agentes e Teri é levada novamente para a UCT.
+</info>
+ </item>"
+"<item>
+
+<title>22-Dia 1: 09:00 p.m. - 10:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Victor e Andre Drazen usam Jack como isca para trazer Alexis Drazen de volta. Victor oferece um acordo aos federais e Palmer toma uma decisão para ajudar Jack, após descobrir que Victor está vivo. Enquanto isso, Kimberly novamente corre perigo e a UCT descobre o que aconteceu com ela.
+</info>
+ </item>"
+"<item>
+
+<title>23-Dia 1: 10:00 p.m. - 11:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jack é forçado a ajudar os Drazen, enquanto a UCT descobre um segundo traidor na agência. Kim testemunha o reencontro de Victor e Alexis e os Palmers fazem planos para o futuro.
+</info>
+ </item>"
+"<item>
+
+<title>24-Dia 1: 11:00 p.m. - 12:00 p.m.</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/24HORAST01EP24.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/10/items/8-9_20201217/8-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sherry Palmer fica angustiada com o papel que ela tem que fazer frente à mídia para conseguir mais tempo para Jack. Quando Jack chega próximo ao local onde os Drazen estão, uma batalha se inicia. Enquanto isso, uma ligação telefônica dá a Jack uma informação que irá ajudá-lo a identificar o segundo traidor da UCT, e ele avisa Nina sobre sua descoberta. E enquanto a chance dos Drazen escaparem fica cada vez menor, André e Victor entram em desacordo sobre se devem ou não seguir uma parte de seus planos.
+</info>
+ </item>"
