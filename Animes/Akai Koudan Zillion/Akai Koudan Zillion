@@ -1,0 +1,429 @@
+"<item>
+
+<title>01-O Meu Nome é J.J.</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>02-O Cerco a Glória</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>03-A Chance é de 0,1 Segundos!</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>04-A Cilada dos Ninjas</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>05-A Rebeldia de Apple</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>06-Tricharger em Ação</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>07-A Batalha Decisiva: J.J. e Ricks</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>08-Destrua a Fortaleza no Fundo do Mar</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>09-O Roubo da Zillion</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>10-O Contra-ataque de Ricks</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>11-A Ressureição do Novo Zillion</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>12-A Arma Tríplice</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>13-A Única Chance</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>14-Campo de Batalha Nightingale</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>15-A Vida ou a Morte I</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>16-A Vida ou a Morte II</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>17-A Busca de J.J.</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>18-O Desafio dos Nozas</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>19-O Níquel Fatal</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>20-A Desilusão</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>21-O Franco-atirador</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>22-Vitória Inesperada</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>23-Bio-arma Diabólica</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>24-Guerreiro Bongo</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP24.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>25-Apple, a Fugitiva</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP25.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>26-A Vingança do Demônio</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP26.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>27-O Sanguinário</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP27.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>28-A Misteriosa Força de Zillion</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP28.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>29-A Morte de Ricks</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP29.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>30-O Transtorno do Planeta Maris</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP30.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>31-A Chama da Vitória</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONEP31.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>Ova - Cantora Noturna</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONESCL.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>Especial - Zillion: Especial Noite Ardente</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/ZLONOVA.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/24/items/14_20201217_202012/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
