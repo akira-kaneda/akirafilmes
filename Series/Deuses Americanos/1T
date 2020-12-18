@@ -1,0 +1,104 @@
+"<item>
+
+<title>01-O Pomar de Ossos</title>
+<link>https://$doregex[RC]/RCServer11/ondemand/AMRCGDST01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Poucos dias depois de sair da prisão, após a morte de sua esposa, Shadow Moon conhece o enigmático Mr. Wednesday e é recrutado para ser seu guarda-costas.
+</info>
+ </item>"
+"<item>
+
+<title>02-O Segredo das Colheres</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/AMRCGDST01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Mr. Wednesday inicia o recrutamento para a próxima batalha. Shadow Moon viaja com ele para Chicago e aceita entrar em um arriscado jogo de damas com o velho deus eslavo Czernobog.
+</info>
+ </item>"
+"<item>
+
+<title>03-Cabeça Cheia de Neve</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/AMRCGDST01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shadow questiona as condições de seu emprego quando Mr. Wednesday conta sobre seu plano de roubar um banco (já que, naturalmente, todo exército precisa de uma fonte de renda).
+</info>
+ </item>"
+"<item>
+
+<title>04-Dando o Fora</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/AMRCGDST01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A vida e a morte de Laura Moon são exploradas, alternando o passado e o presente: como ela conheceu Shadow, como ela morreu e como exatamente ela foi parar na beira da cama do seu quarto de hotel.
+</info>
+ </item>"
+"<item>
+
+<title>05-Você Com Cheiro de Limão</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/AMRCGDST01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shadow tenta se resolver com sua esposa morta e infiel, mas o dramático reencontro é interrompido quando ele e Mr. Wednesday são sequestrados pelos Novos Deuses.
+</info>
+ </item>"
+"<item>
+
+<title>06-Um Assassinato de Deuses</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/AMRCGDST01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Fugitivos após a demonstração de poder dos Novos Deuses, Shadow e Mr. Wednesday buscam refúgio seguro com um dos mais velhos amigos de Mr. Wednesday - Vulcan, o Deus do Fogo e do Ardor.
+</info>
+ </item>"
+"<item>
+
+<title>07-Uma Prece por Mad Sweeney</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/AMRCGDST01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após o repentino fim de sua breve reunião com Shadow, Laura apela a um companheiro de viagem improvável para encontrar o caminho de volta à vida e a Shadow. O passado longo, sinuoso e muitas vezes trágico de Mad Sweeney é revelado.
+</info>
+ </item>"
+"<item>
+
+<title>08-Venha para Jesus</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/AMRCGDST01EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Nas vésperas da guerra, Mr. Wednesday precisa recrutar mais um Deus Antigo: Ostara, Easter (nome de solteira) - a Deusa da Aurora. Mas será preciso uma boa lábia para convencê-la, e aí entra Mr. Nancy.
+</info>
+ </item>"
