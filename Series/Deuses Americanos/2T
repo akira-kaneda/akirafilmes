@@ -1,0 +1,104 @@
+"<item>
+
+<title>01-A Casa na Pedra</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após o confronto na festa de Easter, Mr. Wednesday continua sua busca para convencer os Velhos Deuses a se juntarem à guerra, acompanhado de Shadow, Laura e Mad Sweeney. Enquanto isso, Mr. World planeja sua vingança e Technical Boy procura Mídia.
+</info>
+ </item>"
+"<item>
+
+<title>02-O HomemSedutor</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Prometendo vingar a morte de um Velho Deus amado, o Sr. Wednesday se prepara para uma grande batalha. Enquanto isso, Laura e Mad Sweeney perseguem a luz enfraquecida de Shadow. Shadow encontra um associado do Sr. World.
+</info>
+ </item>"
+"<item>
+
+<title>03-Muninn</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Rastreado por Mr. World, Shadow chega a Cairo, graças à carona de Sam Black Crow. Mr. Wednesday obtém a ajuda de Laura para forjar uma aliança poderosa. Mr. World apresenta Technical Boy para Nova Mídia e lhes atribui uma tarefa muito importante.
+</info>
+ </item>"
+"<item>
+
+<title>04-A Melhor História Já Contada</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shadow e Mr. Wednesday fazem uma reunião secreta em St. Louis, Bilquis chega a Cairo.
+</info>
+ </item>"
+"<item>
+
+<title>05-Os Caminhos dos Mortos</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shadow conhece os caminhos dos mortos com a ajuda de Ibis e Nancy. Em Nova Orleans, Mad Sweeney apresenta Laura a velhos amigos que compartilham o mundo de cura vodu. O Mr. Wednesday embarca em uma viagem com Salim e Jinn.
+</info>
+ </item>"
+"<item>
+
+<title>06-Donar O Grande</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shadow e Mr. Wednesday procuram Dvalin para consertar a lança Gungnir. Mas antes que o anão grave as runas de guerra, ele exige um poderoso artefato em troca. Na jornada, Wednesday conta a Shadow a história de Donar, o Grande.
+</info>
+ </item>"
+"<item>
+
+<title>07-O Tesouro do Sol</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Em Cairo, o Sr. Wednesday confia Gungnir a Shadow .Mad Sweeney relembra sua jornada pelo tempo enquanto aguarda sua batalha prometida.Mais uma vez, ele avisa Shadow sobre Wednesday.
+</info>
+ </item>"
+"<item>
+
+<title>08-A Sombra da Lua</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shadow é atormentado por acontecimentos recentes. Aqueles que permaneceram testemunham o poder de Nova Mídia e a nação é envolvida em um estado de pânico provocado por Mr. World.
+</info>
+ </item>"
