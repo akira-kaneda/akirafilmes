@@ -1,0 +1,312 @@
+"<item>
+
+<title>01 - A Insuficiência Hofstadter</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Penny e Sheldon acabam criando um vínculo especial durante a viagem de verão de Leonard. Enquanto isso, Raj vai para uma função da universidade.
+</info>
+ </item>"
+"<item>
+
+<title>02 - A Verificação da Decepção</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A amizade de Leonard com Sheldon é colocada em teste quando ele retorna do mar do norte.
+</info>
+ </item>"
+"<item>
+
+<title>03 - O Vórtice do Tesouro</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A gangue inteira compete em uma caça ao tesouro criada por Raj, um evento capaz de destacar o melhor e o pior de cada um.
+</info>
+ </item>"
+"<item>
+
+<title>04 - A Minimização dos Caçadores</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon busca vingança, quando Amy arruína um de seus filmes favoritos. Enquanto isso, Leonard descobre uma maneira de Penny fazer qualquer coisa que ele quiser.
+</info>
+ </item>"
+"<item>
+
+<title>05 - A Proximidade do Local de Trabalho</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon precisa decidir o quanto é ""muito tempo"" ao lado de Amy quando esta aceita trabalhar na universidade. Enquanto isso, Howard vai dormir no sofá de Raj após uma briga com Bernadette.
+</info>
+ </item>"
+"<item>
+
+<title>06 - A Ressonância do Romance</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma grande descoberta científica de Sheldon o faz se sentir como uma fraude.
+</info>
+ </item>"
+"<item>
+
+<title>07 - O Deslocamento do Próton</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon se sente deixado de lado quando o professor Próton procura Leonard para pedir conselhos. Por vingança, Sheldon faz amizade com o inimigo de Proton da TV, Bill Nye.
+</info>
+ </item>"
+"<item>
+
+<title>08 - A Simulação da Coceira no Cérebro</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard tenta fazer com que Sheldon não tenha uma reação exagerada quando um erro do passado vem à tona, mas Sheldon pune o colega de apartamento.
+</info>
+ </item>"
+"<item>
+
+<title>09 - O Desemparelhamento do Dia de Ação de Graças</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon protesta quando o grupo o arrasta para a casa da Sra. Wolowitz para o dia de ação de Graças. Enquanto isso, Penny e Leonard devem lidar com um erro de seu passado.
+</info>
+ </item>"
+"<item>
+
+<title>10 - A Dissipação de Descoberta</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard e Amy ajudam Sheldon a lidar com a vergonha que ele está sentindo depois que sua contribuição acidental para a ciência é contestada.
+</info>
+ </item>"
+"<item>
+
+<title>11 - A Extração de Cooper</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Sheldon está no Texas, o resto do grupo se reúne para decorar a árvore de Natal no apartamento, e os amigos percebem quanto Sheldon mudou suas vidas.
+</info>
+ </item>"
+"<item>
+
+<title>12 - A Ramificação da Hesitação</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando a grande chance de Penny de participar de NCIS vai por água abaixo, Leonard tenta de tudo para ajudá-la, o que resulta em Penny fazendo um arrojado pedido para o relacionamento.
+</info>
+ </item>"
+"<item>
+
+<title>13 - A Recalibração da Ocupação</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon tenta relaxar depois de ser forçado a tirar férias. Enquanto isso, Leonard tenta, com dificuldade, apoiar Penny depois que ela deixa seu emprego no The Cheesecake Factory.
+</info>
+ </item>"
+"<item>
+
+<title>14 - O Enigma da Convenção</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os nerds não conseguem ingressos para a Comic-Con, o que faz com que Sheldon tente criar sua própria convenção, o que o leva a passar uma noite maluca ao lado de James Earl Jones.
+</info>
+ </item>"
+"<item>
+
+<title>15 - A Manipulação da Locomotiva</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O amor está no ar quando Sheldon e Amy se juntam a Howard e Bernadette em uma viagem pelo interior regada a vinho.
+</info>
+ </item>"
+"<item>
+
+<title>16 - A Polarização da Mesa</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard compra uma mesa de jantar, o que faz com que Sheldon reavalie as mudanças de sua vida.
+</info>
+ </item>"
+"<item>
+
+<title>17 - A Turbulência da Amizade</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Bernadette tenta diminuir as implicâncias entre Howard e Sheldon fazendo os dois irem juntos em uma viagem ao Texas.
+</info>
+ </item>"
+"<item>
+
+<title>18 - A Observação da Mamãe</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Com a viagem de Sheldon e Howard, o restante do grupo quer fazer algo interessante Stuart se finge de morto para que Raj faça um clássico jantar de assassinato.
+</info>
+ </item>"
+"<item>
+
+<title>19 - A Fusão da Indecisão</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Raj sente-se culpado quando tenta namorar duas mulheres ao mesmo tempo, e Penny tenta decidir se aceita um papel em um filme ""meia boca"".
+</info>
+ </item>"
+"<item>
+
+<title>20 - A Disjunção da Relação</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após grandes descobertas da ciência nos últimos tempos, Sheldon acaba percebendo que passou grande parte de sua vida correndo atrás de um objetivo que ele não chegou nem perto de alcançar.
+</info>
+ </item>"
+"<item>
+
+<title>21 - A Recorrência de Tudo Que Pode Acontecer</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon tenta ser espontâneo, isso leva a um inesperado desentendimento entre Penny, Amy e Bernadette. Enquanto isso, Raj pede ajuda a Howard para se preparar para seu encontro com Emily.
+</info>
+ </item>"
+"<item>
+
+<title>22 - A Transmogrificação do Próton</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Em pleno Star Wars Day, uma notícia triste pega a todos de surpresa: o Professor Proton morreu. Sheldon é o mais atingido por isso, apesar de não querer assumir.
+</info>
+ </item>"
+"<item>
+
+<title>23 - A Dissolução do Gorila</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um dia ruim faz Penny reavaliar suas escolhas de vida, incluindo Leonard. Enquanto isso, Howard e Bernadette sofrem para tomar conta da Sra. Wolowitz.
+</info>
+ </item>"
+"<item>
+
+<title>24 - A Combustão do Status Quo</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT07EP24.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard e Penny dizem ao grupo que estão noivando, e como eles estão felizes, todos fazem um grande negócio para que Raj e Emily tenham relações sexuais.
+</info>
+ </item>"
