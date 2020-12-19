@@ -1,0 +1,234 @@
+"<item>
+
+<title>01 - Lua de Mel</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um penetra inesperado estraga a lua de mel de Jake e Amy. Na 99, Terry perde a autoconfiança.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Hitchcock e Scully</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Boyle descobrem que Scully e Hitchcock nem sempre foram funcionários administrativos sedentários. O espaço apertado na delegacia deixa todos de mau humor.
+</info>
+ </item>"
+"<item>
+
+<title>03 - O Tattler</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>No reencontro da turma do ensino médio de Jake e Gina, ele investiga uma acusação antiga e ela conta várias mentiras. Boyle ajuda Rosa com um dilema amoroso.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Quatro Movimentos</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Gina toma uma decisão importante e enche o esquadrão de presentes. Mas antes, tem a dança...
+</info>
+ </item>"
+"<item>
+
+<title>05 - Um Conto de Dois Bandidos</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake investiga vários roubos de carros e tudo indica que foram obra de um velho conhecido. O esquadrão defende seu bar favorito da invasão de intrusos.
+</info>
+ </item>"
+"<item>
+
+<title>06 - A Cena do Crime</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake faz uma promessa para uma mãe enlutada e fica obcecado. Ele e Rosa analisam a cena de um crime desconcertante em busca de pistas.
+</info>
+ </item>"
+"<item>
+
+<title>07 - O Honeypot</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Holt e Jake suspeitam de um novo funcionário da 99. Amy vira a louca da organização e dá um jeito no pedaço.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Ele Disse, Ela Disse</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy e Jake ouvem histórias conflitantes ao investigarem uma acusação de abuso sexual. Holt se recusa a acreditar que um velho inimigo está morto mesmo.
+</info>
+ </item>"
+"<item>
+
+<title>09 - A Criança Dourada</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A rivalidade entre Amy e o irmão perfeito dela aumenta num jantar de família. Boyle faz testes para uma missão à paisana.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Gintars</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando um parente de Nikolaj aparece de repente, Boyle busca o apoio do melhor amigo Jake. Holt e Amy se encantam com um perito.
+</info>
+ </item>"
+"<item>
+
+<title>11 - O Terapeuta</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um caso de desaparecimento obriga Jake a enfrentar seus problemas com a terapia. Holt convida Rosa e a nova namorada dela para jantar.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Casecação</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Comemorando o primeiro aniversário de casamento, Jake e Amy percebem que não concordam numa decisão importantíssima sobre o futuro.
+</info>
+ </item>"
+"<item>
+
+<title>13 - O Bimbo</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A investigação de um roubo na universidade de Kevin revela inseguranças de Holt. Amy e Terry tentam levantar o moral do esquadrão de um jeito delicioso.
+</info>
+ </item>"
+"<item>
+
+<title>14 - Relógios de Tique-taque</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Hitchcock e Scully põem uma lasanha no micro-ondas por exatos 21 minutos e 30 segundos, o esquadrão corre contra o tempo para pegar um hacker.
+</info>
+ </item>"
+"<item>
+
+<title>15 - Retorno do Rei</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Gina volta e quer se aproximar de Jake e Terry. Holt se interessa pela educação de Nikolaj. Rosa rejeita uma ajudinha de Amy.
+</info>
+ </item>"
+"<item>
+
+<title>16 - Cinco de Maio</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A equipe tenta distrair Terry do estresse da prova para tenente e organiza um Desafio de Halloween num outro dia.
+</info>
+ </item>"
+"<item>
+
+<title>17 - Psicopata</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Boyle perseguem um serial killer, vigiados de perto pelo Comissário Kelly. Terry descobre que mais dinheiro só traz mesmo mais problemas.
+</info>
+ </item>"
+"<item>
+
+<title>18 - Esquadrão Suicida</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT06EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Para corrigir um erro, a 99 se alia aos piores da polícia de Nova York. Terry entra em negação profunda sobre o futuro.
+</info>
+ </item>"
