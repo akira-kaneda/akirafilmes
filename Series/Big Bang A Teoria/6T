@@ -1,0 +1,312 @@
+"<item>
+
+<title>01 - A Data Variável da Noite</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Howard fica entre sua mãe e Bernadette durante uma briga sobre onde o casal vai morar. Raj se sente sozinho, enquanto seus amigos estão comprometidos.
+</info>
+ </item>"
+"<item>
+
+<title>02 - A Flutuação Dissociação</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os astronautas da missão de Howard estão pregando peças nele. Amy conta a Sheldon que Penny quer terminar com Leonard, então ele tenta impedir.
+</info>
+ </item>"
+"<item>
+
+<title>03 - A Observação de Higgs Boson</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy fica com ciúmes da nova assistente de Sheldon, mas ela está mais interessada em Leonard. O retorno de Howard do espaço é atrasado uma semana e ele começa a perder a cabeça.
+</info>
+ </item>"
+"<item>
+
+<title>04 - A Minimização da Re-Entrada</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Howard fica chateado quando é recebido com pouca comemoração do seu retorno do espaço, mas em casa ele recebe uma surpresa maior.
+</info>
+ </item>"
+"<item>
+
+<title>05 - O Holográfico Excitado</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard seduz Penny com ciência, Howard não para de falar sobre o espaço, o grupo comemora o Halloween na loja de quadrinhos.
+</info>
+ </item>"
+"<item>
+
+<title>06 - O Extrato Obliteração</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um jogo ameaça o relacionamento de Sheldon com Stephen Hawking; Penny secretamente se inscreve para uma aula na faculdade.
+</info>
+ </item>"
+"<item>
+
+<title>07 - A configuração de Habitação</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon terá que resolver o mal entendido entre sua namorada, Amy, e seu agora amigo, Wil Wheaton.
+</info>
+ </item>"
+"<item>
+
+<title>08 - A Peculiaridade 43</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Wolowitz e Koothrappali começam a investigar porque Sheldon desaparece todo dia, às 14h45min. Enquanto isso, o ciúme surge no relacionamento de Leonard e Penny.
+</info>
+ </item>"
+"<item>
+
+<title>09 - O Parque de Estacionamento Muito Escalado</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A briga de Sheldon e Howard sobre uma vaga no estacionamento da universidade impacta toda a turma.
+</info>
+ </item>"
+"<item>
+
+<title>10 - O Deslocamento do Peixe Corajoso</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy fica doente e Sheldon terá que testar suas habilidades como namorado para ajudá-la; Howard tenta impressionar o pai de Bernadette.
+</info>
+ </item>"
+"<item>
+
+<title>11 - A Simulação de Santa</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon terá que enfrentar seu ponto de vista em relação ao Natal para poder jogar com os colegas; Penny, Amy e Bernadette tentam arrumar um encontro para Raj em um bar.
+</info>
+ </item>"
+"<item>
+
+<title>12 - A Equivalência de Salada de Ovo</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A assistente de Sheldon, Alex, convida Leonard para sair, o que acaba impactando todo o grupo, principalmente Raj. Leonard sente-se orgulhoso por ser alvo de duas garotas.
+</info>
+ </item>"
+"<item>
+
+<title>13 - A Expedição Bakersfield</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon, Leonard, Howard e Raj vão a uma convenção de quadrinhos, eles decidem fazer cosplay de seus personagens favoritos da série de TV.
+</info>
+ </item>"
+"<item>
+
+<title>14 - O Cooper/ Inversão Kripke</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois que o chefe de Sheldon anuncia que ele e seu inimigo Kirpke devem trabalhar juntos, Sheldon entra em estado de panico com medo de Kripke roubar seu trabalho.
+</info>
+ </item>"
+"<item>
+
+<title>15 - A Segmentação Alerta Spoiler</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard está cansando de Sheldon sempre contar as partes dos filmes e programas a ele, então eles tem uma briga e Leonard decide morar com Penny, que não acha isso uma boa ideia.
+</info>
+ </item>"
+"<item>
+
+<title>16 - A Prova Carinho Tangível</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>No dia dos namorados, Leonard e Howard tem problemas com as suas namoradas, após o presente de Howard falhar ele pede a Leonard que convide ele também ao restaurante.
+</info>
+ </item>"
+"<item>
+
+<title>17 - O Isolamento do Monstro</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após a garota que Raj conheceu durante a festa de solteiro do dia dos namorados o deu o fora, ele decide ficar trancado no quarto sem falar com ninguém.
+</info>
+ </item>"
+"<item>
+
+<title>18 - A Implementação de Obrigação Contratual</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon, Howard e Leonard são chamados pela universidade para dar aulas sobre ciências a uma escola em uma sala de garotas de 13 anos.
+</info>
+ </item>"
+"<item>
+
+<title>19 - A Reconfiguração do Armário</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Durante um jantar, Sheldon acha uma carta sobre o passado do Hollowitz.
+</info>
+ </item>"
+"<item>
+
+<title>20 - A Turbulência Posse</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os meninos descobrem que podem ter estabilidade no emprego, além do aumento de salário, então, começam a disputar para ver quem vai ficar com o novo cargo, cada uma à sua maneira.
+</info>
+ </item>"
+"<item>
+
+<title>21 - A Alternativa Encerramento</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon se vê perdido após o cancelamento de uma das suas séries favoritas Alphas sem ter uma conclusão e Amy tenta ajuda-lo.
+</info>
+ </item>"
+"<item>
+
+<title>22 - O Próton Ressurgimento</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon e Leonard descobrem que seu cientista de TV favorito, ""Professor Proton"", está disponível para festas de aniversário infantis, Sheldon o contrata para uma apresentação privada.
+</info>
+ </item>"
+"<item>
+
+<title>23 - O Potencial Amor Soletrado</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>As meninas jogam Dungeons & Dragons com os caras, enquanto Raj vai em outro encontro com Lucy. Amy começa a questionar onde seu relacionamento com Sheldon está indo.
+</info>
+ </item>"
+"<item>
+
+<title>24 - A Reação Bon Viagem</title>
+<link>https://$doregex[RC]/RCServer08/ondemand/TBBTT06EP24.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-6.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard recebe uma nova oportunidade de emprego para trabalhar no exterior para o verão, que surpreende Penny e Sheldon.
+</info>
+ </item>"
