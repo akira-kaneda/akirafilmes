@@ -1,0 +1,169 @@
+"<item>
+
+<title>01 - Caçador De Homens</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BRKLNNT07EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake lidera uma caça após uma tentativa de assassinato de um vereador; Holt se ajusta à sua nova posição como oficial uniformizado.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Capitão Kim</title>
+<link>https://$doregex[RC]/RCServer12/ondemand/BRKLNNT07EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A nova capitã do 99 convida o esquadrão a sua casa para um jantar.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Pimemento</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Adrian Pimento aparece inexplicavelmente pedindo a ajuda de Jake e Charles após afirmar que alguém está tentando matá-lo; o resto do esquadrão passa por um seminário sobre conflitos no local de trabalho.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Os Jogos Jimmy Jab II</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A competição flui enquanto Jake e o esquadrão competem no segundo Jogos Jimmy Jab.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Debbie</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando cocaína e armas são roubadas do departamento de evidências, o esquadrão deverá investigar a própria Nine-Nine.
+</info>
+ </item>"
+"<item>
+
+<title>06 - Tentando</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy trabalham num caso complicado enquanto Holt se ajusta a um novo esquema. Hitchcock procura o amor de sua vida.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Ding Dong</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Capt. Holt lida com uma perda pessoal; Jake deve decidir entre levar Terry ou Charles para um evento exclusivo.
+</info>
+ </item>"
+"<item>
+
+<title>08 - O Retorno</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Doug Judy está de volta, e dessa vez, as coisas entre ele e Jake são pessoais; Amy e Charles tentam encontrar a máquina de vendas perfeita para o 99.
+</info>
+ </item>"
+"<item>
+
+<title>09 - Dillman</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando uma pegadinha dá errado, a situação no 99 toma um rumo distinto de Agatha Christie.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Almirante Peralta</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e seu pai lidam com uma questão familiar preocupante. Amy e Rosa trabalham num caso complicado. Terry deseja fazer parte da banda da NYPD.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Valloweaster</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O esquadrão compete para decidir quem é o maior gênio humano.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Resgate</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Holt pede a ajuda de Jake em um caso que é excepcionalmente significativo para ele. Charles e Terry trabalham juntos em um negócio paralelo.
+</info>
+ </item>"
+"<item>
+
+<title>13 - Luzes Apagadas</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/BRKLNNT07EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/31/items/11-2_20201219/10-7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Todo o time está em alerta máximo quando um blecaute massivo atinge o Brooklyn.
+</info>
+ </item>"
