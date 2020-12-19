@@ -1,0 +1,299 @@
+"<item>
+
+<title>08-A Sombra da Lua</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/AMRCGDST02EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/1/items/9-1_20201218/9-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Shadow é atormentado por acontecimentos recentes. Aqueles que permaneceram testemunham o poder de Nova Mídia e a nação é envolvida em um estado de pânico provocado por Mr. World.
+</info>
+ </item>"
+"<item>
+
+<title>01 - Piloto</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando o sempre tenso capitão Holt assume a delegacia, a vida despreocupada do detetive Jake Peralta e de seus colegas problemáticos fica difícil.
+</info>
+ </item>"
+"<item>
+
+<title>02 - O Pichador</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake chega tarde para a chamada e é punido com um caso sem importância de pichação.
+</info>
+ </item>"
+"<item>
+
+<title>03 - A Queda</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os casos não resolvidos de Jake se acumulam, e os outros detetives temem essa maré de azar. Amy precisa entrar em um projeto para jovens em situação de risco.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Tempo de M.E.</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A equipe culpa Jake pelo atraso do relatório da autópsia devido às suas paqueras com a atraente médica legista.
+</info>
+ </item>"
+"<item>
+
+<title>05 - O Abutre</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um detetive renomado da Crimes Especiais assume o caso de Jake e rouba a cena, incitando desejos de vingança.
+</info>
+ </item>"
+"<item>
+
+<title>06 - Dia das Bruxas</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy detesta o Halloween e fica ainda mais irritada quando tem que vestir uma fantasia para sair com Charles nesta noite tão animada.
+</info>
+ </item>"
+"<item>
+
+<title>07 - 48 Horas</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após uma prisão mal fundamentada, Jake tem 48 horas para conseguir as provas necessárias. Isso obriga a equipe a trabalhar no final de semana.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Velha Escola</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O dia dos sonhos de Jake com seu herói, um ex-repórter policial, transforma-se em pesadelo quando seus comentários sobre Holt e a delegacia são gravados.
+</info>
+ </item>"
+"<item>
+
+<title>09 - Pizzaria do Sal</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando sua pizzaria favorita pega fogo e o investigador suspeita do proprietário, Jake sai de sua jurisdição para pegar o verdadeiro responsável.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Ação de Graças</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy organiza um jantar de Ação de Graças para tentar fazer Holt ser seu mentor, mas nem tudo sai como planejado.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Natal</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando o capitão Holt recebe ameaças de morte, Jake é destacado para sua proteção e se diverte com a chance de mandar no chefe.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Pontiac Bandit</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT01EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Rosa perseguem um ladrão de carros, Holt tenta achar um lar para cãezinhos, e o resto da delegacia tenta acomodar Charles, que está ferido.
+</info>
+ </item>"
+"<item>
+
+<title>13 - A Aposta</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após a aposta com Amy sobre quem faz mais prisões ser finalmente resolvida, Jake reavalia seu relacionamento enquanto estão de tocaia.
+</info>
+ </item>"
+"<item>
+
+<title>14 - O Falcão de Ébano</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>De volta ao trabalho, Terry procura Jake para se infiltrar e desbaratar uma quadrilha de tráfico de esteroides.
+</info>
+ </item>"
+"<item>
+
+<title>15 - Operação: Pena Quebrada</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Durante as investigações de uma sequência de roubos em hotéis, Jake descobre que Amy pode ser transferida para a Crimes Especiais e passar a trabalhar com o Abutre.
+</info>
+ </item>"
+"<item>
+
+<title>16 - A Festa</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Na festa de aniversário do capitão, Jake, Amy e os outros funcionários tentam causar boa impressão no marido dele.
+</info>
+ </item>"
+"<item>
+
+<title>17 - Boyle Completo</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Para impedir o detetive Boyle de ser tão grudento com sua nova namorada, Jake também vai ao encontro deles.
+</info>
+ </item>"
+"<item>
+
+<title>18 - O Apartamento</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O prédio de Jake vira uma cooperativa. Ele tem que pagar quase meio milhão de dólares para manter seu apartamento e pede ajuda a Gina.
+</info>
+ </item>"
+"<item>
+
+<title>19 - Vila Tática</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Durante uma competição entre delegacias em exercícios de paintball, Jake sente ciúmes quando Amy encontra um antigo amor.
+</info>
+ </item>"
+"<item>
+
+<title>20 - Fantasia dos Noivos -Dublado / Legendado</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Como padrinho de Charles, Jake tem que escolher flores e convencer a noiva a não se mudar.
+</info>
+ </item>"
+"<item>
+
+<title>21 - Insolúvel</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake decide passar o fim de semana com o sargento Terry tentando resolver um caso que todos consideram insolúvel.
+</info>
+ </item>"
+"<item>
+
+<title>22 - Encargos e Especificações</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT01EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake se arrisca a ser suspenso quando o delegado encerra sua investigação de um líder civil e ele chama Amy e Holt para ajudá-lo a seguir com o caso assim mesmo.
+</info>
+ </item>"
