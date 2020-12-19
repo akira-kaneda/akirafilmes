@@ -1,0 +1,299 @@
+"<item>
+
+<title>01 - À Paisana</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake descobre que um mafioso escapou de sua emboscada e pede ajuda a Charles para encontrá-lo, o que deixa Gina preocupada.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Leite com Chocolate</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A rival de Holt é encarregada de inspecionar a delegacia. Terry se prepara para uma vasectomia, e Charles busca uma companhia para a festa de noivado da ex-mulher.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Jogos de Jimmy Jab</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A equipe cria uma competição maluca enquanto aguarda o começo de uma operação. Charles precisa conseguir um vídeo incriminador de Hitchcock.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Dia das Bruxas II</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake aposta com Holt que consegue roubar o relógio dele antes da meia-noite. Gina é expulsa da equipe de dança.
+</info>
+ </item>"
+"<item>
+
+<title>05 - A Toupeira</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Holt e Jake tentam descobrir quem é o responsável por um vazamento de informações. Terry e Rosa vão a uma discoteca silenciosa para encontrar os traficantes.
+</info>
+ </item>"
+"<item>
+
+<title>06 - Jake e Sophia</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake descobre que a mulher de quem ele gosta é a advogada de um de seus suspeitos. Rosa quer que Amy concorra ao cargo de Scully no sindicato.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Confinamento</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A equipe fica confinada na delegacia durante o feriado de Ação de Graças, e cabe a Jake animar os colegas.
+</info>
+ </item>"
+"<item>
+
+<title>08 - USPIS</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Para capturar um traficante, Jake e Charles precisam trabalhar com um colega incompetente. A equipe ajuda Amy a parar de fumar.
+</info>
+ </item>"
+"<item>
+
+<title>09 - A Viagem de Carro</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy passam a noite em um hotel para resolver um caso e chamam seus respectivos parceiros, mas o plano não sai bem como esperado.
+</info>
+ </item>"
+"<item>
+
+<title>10 - O Bandido de Pontiac Retorna</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Rosa pegam o bandido do Pontiac, que pode ser a chave para a captura do líder do tráfico. Charles e Gina temem a aproximação de seus pais.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Tocaia</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Charles participam de uma emboscada muito demorada. O livro que Terry escreve para as filhas irrita Amy e Gina.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Casa de Praia</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake acaba com a diversão na festa da praia quando leva o Capitão Holt. Gina quer ver Amy bêbada.
+</info>
+ </item>"
+"<item>
+
+<title>13 - Vingança</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake faz de tudo para impedir que o resto da delegacia descubra um segredo de Terry. Amy finalmente trabalha junto com o capitão Holt.
+</info>
+ </item>"
+"<item>
+
+<title>14 - A Defesa Descansa</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake tenta impedir que sua relação com Sophia atrapalhe o trabalho dela. Wuntch pede ajuda a Holt.
+</info>
+ </item>"
+"<item>
+
+<title>15 - Reféns</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A equipe é convidada para um treinamento antiterrorismo, mas desempenhar o papel de reféns não vai ser nada fácil.
+</info>
+ </item>"
+"<item>
+
+<title>16 - O Incidente de Quarta-feira</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake está determinado a provar que não é o culpado pelo mau humor de Holt. Charles captura um famoso ladrão de bancos, mas ninguém acredita nele.
+</info>
+ </item>"
+"<item>
+
+<title>17 - Boyle-Linetti Casamento</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Toda a equipe tem muito o que fazer no dia do casamento, mas Jake e Gina se distraem e Terry acaba em apuros.
+</info>
+ </item>"
+"<item>
+
+<title>18 - Capitão Peralta</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O pai de Jake faz uma visita, mas Charles suspeita de suas intenções. Holt lança um desafio de raciocínio.
+</info>
+ </item>"
+"<item>
+
+<title>19 - Sabotagem</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Holt coloca Amy e Rosa para investigar a má sorte de Jake. Charles trabalha com Hitchcock e Scully.
+</info>
+ </item>"
+"<item>
+
+<title>20 - AC/DC</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Terry obriga Jake a se afastar do trabalho depois de ter se ferido em uma perseguição. Holt, Rosa e seus parceiros saem juntos.
+</info>
+ </item>"
+"<item>
+
+<title>21 - Det. Dave Majors</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Outro detetive se interessa por Amy e deixa Jake com ciúme. Terry fica tentado a aceitar um emprego em uma empresa de segurança particular.
+</info>
+ </item>"
+"<item>
+
+<title>22 - O Helicóptero</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Holt acredita que o trabalho dos sonhos que Wuntch deu a Jake é uma cilada. Terry recebe uma viagem de campo de uma escola.
+</info>
+ </item>"
+"<item>
+
+<title>23 - Johnny e Dora</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/BRKLNNT02EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy se disfarçam para capturar um famoso ladrão de identidades. Uma despedida inesperada emociona a equipe.
+</info>
+ </item>"
