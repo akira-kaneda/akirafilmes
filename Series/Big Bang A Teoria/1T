@@ -1,0 +1,221 @@
+"<item>
+
+<title>01 - Piloto</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Dois jovens físicos brilhantes (""QI somado de 360""), Leonard e Sheldon, são o tipo de ""mentes brilhantes"" que entendem como o universo funciona. Mas seus doutorados não os ajudam a interagir com as pessoas, especialmente mulheres.
+</info>
+ </item>"
+"<item>
+
+<title>02 - A Hipótese de Farelo Grande</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Penny comprou um móvel e pede ajuda a Leonard pra recebê-lo e colocar em seu apartamento, já que ela terá que sair. Com o elevador quebrado Leonard e Sheldon precisam utilizar de todas as suas habilidades físicas.
+</info>
+ </item>"
+"<item>
+
+<title>03 - O Corolário de Botas Difusa</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Leonard vê Penny beijando outro em frente ao seu apartamento, ele fica arrasado. Seus amigos o convencem a convidar alguém do trabalho para sair, mas quando ele tenta e é brutalmente recusado por Leslie Winkle.
+</info>
+ </item>"
+"<item>
+
+<title>04 - O Efeito do Peixe Luminoso</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon é demitido de seu emprego de físico na universidade, quando se exalta com seu chefe menos inteligente. Sua mudança de situação o leva a uma espiral de depressão, que seus amigos tentam curar chamando a mãe de Sheldon.
+</info>
+ </item>"
+"<item>
+
+<title>05 - O Hambúrguer Postulado</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Comendo no restaurante onde Penny trabalha, Leonard e Sheldon encontram Leslie Winkle, uma colega cientista que trabalha com Leonard.
+</info>
+ </item>"
+"<item>
+
+<title>06 - O Paradigma da Terra Média</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os garotos são convidados para a festa de Halloween de Penny. Leonard acaba sendo humilhado pelo ex-namorado fortão de Penny enquanto Sheldon, Wolowitz e Koothrappali tentam desesperadamente participar do meio social mas com sucesso limitado.
+</info>
+ </item>"
+"<item>
+
+<title>07 - O Paradóxo Dumpling</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Wolowitz seduz a amiga de infância de Penny, e toma conta de seu apartamento, Penny dorme no sofá de Leonard e Sheldon.
+</info>
+ </item>"
+"<item>
+
+<title>08 - O Experimento do Gafanhoto</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Koothrappali fica apavorado quando seus pais arranjam um encontro às escuras, mas ele descobre que na verdade pode falar com o sexo oposto depois de alguns drinks.
+</info>
+ </item>"
+"<item>
+
+<title>09 - A Polarização Cooper-Hofstadter</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon e Leonard são convidados a uma conferência de física para apresentar seu trabalho juntos, mais isto leva a uma discussão porque Sheldon é arrogante demais para dividir as honras.
+</info>
+ </item>"
+"<item>
+
+<title>10 - A Decadência Loobenfeld</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de ouvir Penny cantando (mal) uma música do musical Rent, Leonard mente para evitar vê-la se apresentar.
+</info>
+ </item>"
+"<item>
+
+<title>11 - A Anomalia Massa de Panqueca</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon fica gripado, Leonard e os garotos sabem o que os aguarda e o evitam como à peste, deixando Penny sem desconfiar, como enfermeira do pior paciente do mundo.
+</info>
+ </item>"
+"<item>
+
+<title>12 - A Dualidade Jerusalém</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon é tomado por inveja de QI ao encontrar um prodígio da ciência de 15 anos, mais esperto do que ele.
+</info>
+ </item>"
+"<item>
+
+<title>13 - A Conjetura da Jarra do Morcego</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os garotos decidem competir em uma gincana de física, mas Sheldon tenta aparecer demais e é expulso da equipe. Chateado, Sheldon forma sua própria equipe para competir contra eles.
+</info>
+ </item>"
+"<item>
+
+<title>14 - A Aniquilação Nerdvana</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard compra uma réplica de uma máquina do tempo pela internet. Ao movê-la para o apartamento, os garotos acidentalmente atrasam Penny para o trabalho.
+</info>
+ </item>"
+"<item>
+
+<title>15 - A Indeterminação da Costeleta de Porco</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Missy, a irmã gêmea bonita de Sheldon vem visitá-lo, os garotos brigam por ela. Sheldon acaba tentando protegê-la, para seu desagrado.
+</info>
+ </item>"
+"<item>
+
+<title>16 - A Reação da Amendoim</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de descobrir que Leonard nunca teve uma festa de aniversário, Penny decide fazer uma para ele e força Sheldon a ajudá-la.
+</info>
+ </item>"
+"<item>
+
+<title>17 - O Fator Tangerina</title>
+<link>https://$doregex[RC]/RCServer04/ondemand/TBBTT01EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de Penny terminar com seu namorado, Leonard a convida pra sair. Ela aceita, e o casal acha que pode ser um erro. Ambos pedem ajuda a Sheldon.
+</info>
+ </item>"
