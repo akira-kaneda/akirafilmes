@@ -1,0 +1,312 @@
+"<item>
+
+<title>01 - A Interrupção de Locomoção</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard e Amy fazem uma viagem inesperada rumo a Arizona para buscar Sheldon. Enquanto isso, Penny vai a uma entrevista de emprego na empresa de Bernadette.
+</info>
+ </item>"
+"<item>
+
+<title>02 - A Solução do Professor Junior</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon é forçado a dar uma aula, Howard surpreende a todos por se matricular na matéria.
+</info>
+ </item>"
+"<item>
+
+<title>03 - O Primeiro Passo Insuficiência</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Howard fica apreensivo após receber o pedido da NASA para lançar a primeira bola em um jogo de basebol do Los Angeles Angels.
+</info>
+ </item>"
+"<item>
+
+<title>04 - A Reverberação da Adesão</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A honestidade de Raj sobre seu passado volta para assombrá-lo, quando percebe que Emily, sua nova namorada, está tratando Penny de forma fria.
+</info>
+ </item>"
+"<item>
+
+<title>05 - A Atenuação do Foco</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy e Bernadette acusam Penny de ser uma estraga-prazeres, quando ela recebe um email de trabalho durante o fim de semana em Vegas.
+</info>
+ </item>"
+"<item>
+
+<title>06 - A Aproximação da Expedição</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon e Raj testam se conseguem sobreviver à expedição de pesquisa em uma mina de sal, simulando as condições do local.
+</info>
+ </item>"
+"<item>
+
+<title>07 - A Agitação de Má Interpretação</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os nerds tentam ajudar Penny a se livrar de um complicado dilema no trabalho. Enquanto isso, Amy e Bernadette discutem se as cientistas femininas devem abusar da sexualidade.
+</info>
+ </item>"
+"<item>
+
+<title>08 - A Equivalência de Baile</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Penny, Bernadette e Amy organizam um baile de formatura para (re)viver bons momentos e fortes emoções.
+</info>
+ </item>"
+"<item>
+
+<title>09 - O Desvio de Septo</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard faz uma pequena cirurgia em seu nariz, porém é Sheldon que precisa de compaixão.
+</info>
+ </item>"
+"<item>
+
+<title>10 - A Reflexão de Champanhe</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon diz adeus a ""Diversão com Bandeiras"". Além disso, Leonard, Howard e Raj procuram por algo significativo na pesquisa de um professor falecido.
+</info>
+ </item>"
+"<item>
+
+<title>11 - A Infiltração de Sala Limpa</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard e Wolowitz quase brigam e acabam pedindo a Raj ajuda para lidar com uma emergência no trabalho.
+</info>
+ </item>"
+"<item>
+
+<title>12 - A Desintegração da Sonda Espacial</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os namorados finalmente concordam em fazer algo que as garotas gostam. No entanto, a situação leva a um confronto entre Leonard e Sheldon.
+</info>
+ </item>"
+"<item>
+
+<title>13 - A Otimização de Ansiedade</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Na esperança de conseguir uma descoberta científica, Sheldon convida todos os amigos a desafiá-lo. Enquanto isso, Wolowitz inventa um jogo embaraçoso sobre Raj.
+</info>
+ </item>"
+"<item>
+
+<title>14 - A Manifestação de Troll</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de Leonard e Sheldon publicarem um artigo científico em coautoria, eles devem se defender contra as críticas de um troll da internet.
+</info>
+ </item>"
+"<item>
+
+<title>15 - A Regeneração de Comic Book Store</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Wolowitz recebe notícias chocantes enquanto todos se preparam para a reabertura da loja de quadrinhos de Stuart.
+</info>
+ </item>"
+"<item>
+
+<title>16 - A Aceleração de Intimidade</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Como piada, Sheldon e Penny tentam um experimento designado a fazer com que os participantes se apaixonem.
+</info>
+ </item>"
+"<item>
+
+<title>17 - O Aplicativo de Colonização</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Problemas surgem quando Amy descobre que Sheldon se inscreveu para uma missão apenas de ida para colonizar Marte.
+</info>
+ </item>"
+"<item>
+
+<title>18 - A Restante Termalização</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um conflito começa quando uma revista não menciona Leonard em uma matéria sobre o artigo que ele co-escreveu com Sheldon.
+</info>
+ </item>"
+"<item>
+
+<title>19 - A Incursão de Skywalker</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Leonard e Sheldon são convidados para dar uma palestra na universidade de Berkeley, eles fazem um desvio para encontrar um ídolo.
+</info>
+ </item>"
+"<item>
+
+<title>20 - A Implementação Fortificação</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon e Amy constroem um forte de lençóis e chegam a uma grande encruzilhada no relacionamento.
+</info>
+ </item>"
+"<item>
+
+<title>21 - A Deterioração da Comunicação</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Raj é convidado a criar uma mensagem caso a missão da NASA descubra vida alienígena, o que leva os amigos a brigarem sobre o que ele deve criar
+</info>
+ </item>"
+"<item>
+
+<title>22 - A Transmissão da Formatura</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Wolowitz questiona suas habilidades como engenheiro, já que ele e Sheldon não conseguem fazer um drone voar.
+</info>
+ </item>"
+"<item>
+
+<title>23 - A Combustão Materna</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Personalidades se chocam quando as mães de Sheldon e Leonard finalmente se conhecem. Enquanto isso, Howard decide fazer a sua parte do trabalho doméstico.
+</info>
+ </item>"
+"<item>
+
+<title>24 - A Determinação Compromisso</title>
+<link>https://$doregex[RC]/RCServer09/ondemand/TBBTT08EP24.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>No episódio final da oitava temporada, Sheldon pressiona Leonard e Penny a escolherem uma data para o casamento enquanto lida com mudanças dramáticas em sua relação com Amy.
+</info>
+ </item>"
