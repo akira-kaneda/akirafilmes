@@ -1,0 +1,286 @@
+"<item>
+
+<title>01 - A Casa Grande (Parte 1)</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Mesmo atrás das grades, Jake entra em apuros por causa de um contrabando delicioso. A detenta Rosa mantém Holt e Terry ocupados com uma lista interminável de tarefas.
+</info>
+ </item>"
+"<item>
+
+<title>02 - A Casa Grande (Parte 2)</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O esquadrão procura maneiras de implicar o tenente corrupto Hawkins. Jake usa suas habilidades de detetive com a ajuda de seu companheiro de cela canibal.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Chutes</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Fora da prisão e de volta ao trabalho, Jake procura um ladrão de tênis, sob o olhar atento de Holt. Enquanto isso, Rosa suspeita que Pimento é infiel.
+</info>
+ </item>"
+"<item>
+
+<title>04 - HalloVeen</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake arma uma grande surpresa durante o roubo de Halloween, uma competição acirrada pelo cobiçado título de Incrível humano/Gênio.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Batida Mau</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O vício de Holt pelo jogo vem à tona durante uma operação secreta. Rosa tenta enganar Hitchcock e Scully. Charles compra um foodtruck com um passado nada agradável.
+</info>
+ </item>"
+"<item>
+
+<title>06 - O Local</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy escolhem a data do casamento, mas o Abutre atrapalha tudo. Charles precisa encontrar seu inimigo equino desaparecido, o sargento Manteiga de Amendoim.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Dois Perus</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>No Dia de Ação de Graças, o álcool vira uma solução temporária para os problemas dos pais de Jake e Amy. Uma torta roubada desperta o interrogador que habita em Holt.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Retornar Para o Skyfire</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Terry se disfarçam durante uma convenção para pegar o ladrão que roubou o aguardado manuscrito de seu autor favorito de livros de fantasia.
+</info>
+ </item>"
+"<item>
+
+<title>09 - 99</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de perder o voo para casa após um funeral em Los Angeles, Jake e o esquadrão precisam lutar para levar Holt de volta a Nova York a tempo de uma entrevista.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Noite de Jogo</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Rosa compartilha notícias pessoais com a equipe, mas precisa da ajuda de Jake para contar aos próprios pais. A unidade de crimes cibernéticos rouba a internet da 99.
+</info>
+ </item>"
+"<item>
+
+<title>11 - O Favor</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um chefe do crime reaparece para reivindicar o favor prometido por Holt. Jake e Charles fazem amizade com Fredo, da família Murphy, para obter informações.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Casa Segura</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de uma ameaça de Murphy, Holt deixa seu marido Kevin em um esconderijo com Jake. Rosa aparece disfarçada em um salão. Scully revela ter uma habilidade real.
+</info>
+ </item>"
+"<item>
+
+<title>13 - A Negociação</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake é escolhido para negociar uma situação com refém e percebe que o criminoso é alguém conhecido. A tensão aumenta dentro do foodtruck de almôndega de Charles.
+</info>
+ </item>"
+"<item>
+
+<title>14 - A Caixa</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake interroga um dentista astuto suspeito de assassinato, e Holt deixa de ir à ópera para ajudá-lo no interrogatório. Convidado especial: Sterling K. Brown.
+</info>
+ </item>"
+"<item>
+
+<title>15 - O Mestre do Enigma</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake apresenta a Amy um caso de incêndio criminoso que está ligado a uma celebridade que ela gosta, um autor de palavras cruzadas. A 99 ganha um carro de polícia novo.
+</info>
+ </item>"
+"<item>
+
+<title>16 - NutriBoom</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de perceber que foram vítimas de um esquema de pirâmide, Jake e Charles tentam acabar com o grupo. Amy precisa lidar com um policial insuportável.
+</info>
+ </item>"
+"<item>
+
+<title>17 - DFW</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A tentativa de Jake de criar vínculos com sua meia-irmã dá errado. Terry tenta mostrar sua flexibilidade, mas não consegue. Gina arma um encontro às cegas para Rosa.
+</info>
+ </item>"
+"<item>
+
+<title>18 - Estrela Cinzenta Mútua</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um rosto familiar surge depois de um desastre com o foodtruck de Charles. Rosa se oferece para ajudar Amy a escolher um vestido de noiva. Holt cria uma conta no Twitter.
+</info>
+ </item>"
+"<item>
+
+<title>19 - Despedida de Solteiro</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os planos complicados da despedida de solteiro de Charles frustram Jake, Terry e Holt. Na festa de despedida de solteira, Amy joga ""Eu nunca"".
+</info>
+ </item>"
+"<item>
+
+<title>20 - Mostre-me Indo</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A 99 aguarda notícias sobre Rosa depois que ela entra em uma situação com um atirador. Amy e Gina se distraem tentando consertar a privada.
+</info>
+ </item>"
+"<item>
+
+<title>21 - Baleia Branca</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Rosa e Amy caçam um criminoso que escapou de suas garras anos antes. Jake assume a preparação do casamento. Holt enfrenta sua rival para o cargo de comissário.
+</info>
+ </item>"
+"<item>
+
+<title>22 - Jake e Amy</title>
+<link>https://$doregex[RC]/RCServer06/ondemand/BRKLNNT05EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy sofrem uma crise no dia do casamento, e a 99 tenta salvar as núpcias. Holt recebe notícias sobre o cargo de comissário.
+</info>
+ </item>"
