@@ -1,0 +1,312 @@
+"<item>
+
+<title>01 - A Proposta de Proposta</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy dá a Sheldon uma resposta para seu pedido de casamento, enquanto Howard e Bernadette lidam com notícias inesperadas
+</info>
+ </item>"
+"<item>
+
+<title>02 - A Reação de Retração</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard irrita a universidade – e toda a comunidade física – depois de dar uma entrevista embaraçosa.
+</info>
+ </item>"
+"<item>
+
+<title>03 - A Integração de Relaxamento</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Sheldon se esforça para escolher uma data de casamento, Amy tenta convencê-lo de que ele tem um lado mais descontraído.
+</info>
+ </item>"
+"<item>
+
+<title>04 - A Implosão da Explosão</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Howard e Sheldon passam um tempo juntos quando dirigem para o deserto para disparar um foguete modelo.
+</info>
+ </item>"
+"<item>
+
+<title>05 - A Contaminação da Colaboração</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon e Koothrappali confiam em Bernadette quando eles não conseguem lidar com o fato de Amy e Wolowitz estarem trabalhando juntos.
+</info>
+ </item>"
+"<item>
+
+<title>06 - A Regeneração de Prótons</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon disputa com Wil Wheaton o papel do novo professor Proton. Além disso, Penny se voluntaria para cuidar de Halley quando Bernadette e Wolowitz precisam ficar de repouso.
+</info>
+ </item>"
+"<item>
+
+<title>07 - A Metodologia de Geologia</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon e Bert colaboraram em um projeto de pesquisa, apesar do sentimento de vergonha de Sheldon. Além disso, Penny e Bernadette ensinam Koothrappali a lidar com seu relacionamento.
+</info>
+ </item>"
+"<item>
+
+<title>08 - O Recuo de Tesla</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard e Wolowitz ficam furiosos depois de descobrirem que Sheldon foi trabalhar com os militares sem contar para eles.
+</info>
+ </item>"
+"<item>
+
+<title>09 - O Emaranhamento de Bitcoin</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon tenta ensinar uma lição aos rapazes depois que eles o deixam de fora de um investimento potencialmente valioso em Bitcoin.
+</info>
+ </item>"
+"<item>
+
+<title>10 - A Erosão de Confiança</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon e Amy tentam eliminar o estresse de planejar o casamento aplicando cálculos no processo. Koothrappali ""rompe"" com Wolowitz.
+</info>
+ </item>"
+"<item>
+
+<title>11 - A Reverberação de Celebração</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon e Wolowitz fazem planos de aniversário para Amy e Halley, respectivamente. Leonard recebe uma carta de Natal de seu irmão que o faz pensar sobre as poucas realizações em sua vida.
+</info>
+ </item>"
+"<item>
+
+<title>12 - A Métrica Matrimonial</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Para descobrir quem seria mais qualificado para ser o padrinho e a madrinha de casamento, Sheldon e Amy sujeitam seus amigos a uma série de experiências secretas.
+</info>
+ </item>"
+"<item>
+
+<title>13 - A Oscilação Solo</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon deixa Amy para trabalhar sozinho, ela e Leonard se entrosam durante uma série de experiências científicas.
+</info>
+ </item>"
+"<item>
+
+<title>14 - A Triagem da Separação</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Koothrappali encontra-se no meio de um drama doméstico quando descobre que a mulher com quem está saindo, Nell, tem um marido muito chateado, Oliver.
+</info>
+ </item>"
+"<item>
+
+<title>15 - A Correlação da Novelização</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon pede a Wil Wheaton para aparecer no novo programa do Professor Proton, Wil oferece um papel para Amy em seu lugar.
+</info>
+ </item>"
+"<item>
+
+<title>16 - A Nomenclatura Neonatal</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Bernadette não entra em trabalho de parto, todos os seus amigos tentam táticas diferentes para ajudá-la.
+</info>
+ </item>"
+"<item>
+
+<title>17 - A Atribuição Athenaeum</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Leonard faz de tudo para ajudar a garantir o local de casamento perfeito para Sheldon e Amy. Bernadette e Wolowitz têm dificuldade em decidir quem deve ficar em casa com as crianças.
+</info>
+ </item>"
+"<item>
+
+<title>18 - A Excitação Portões</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Penny tem a oportunidade de receber Bill Gates no trabalho quando a companhia dele quer fazer uma parceria com a empresa farmacêutica em que ela trabalha.
+</info>
+ </item>"
+"<item>
+
+<title>19 - A Dissociação do Inquilino</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Leonard descobre que Sheldon é o presidente da associação de moradores, ele decide concorrer contra ele.
+</info>
+ </item>"
+"<item>
+
+<title>20 - O Potencial Recluso</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um cientista brilhante, mas recluso, Doutor Wolcott, convida Sheldon para sua cabana no meio do nada, e Leonard, Raj e Howard vão junto na viagem.
+</info>
+ </item>"
+"<item>
+
+<title>21 - A Polarização Cometa</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A loja de quadrinhos de Sheldon sofre mudanças quando o escritor Neil Gaiman coloca a loja de Stuart no mapa.
+</info>
+ </item>"
+"<item>
+
+<title>22 - A Insuficiência Monetária - Dublado / Legendado</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sheldon vai para Vegas para ganhar dinheiro para a ciência. Penny e Bernadette levam Amy para comprar seu vestido de noiva.
+</info>
+ </item>"
+"<item>
+
+<title>23 - O Realinhamento do Irmão</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Sheldon descobre que sua mãe não vai ao seu casamento a menos que ele convide seu irmão, ele e Leonard viajam para o Texas para acabar com uma briga de família.
+</info>
+ </item>"
+"<item>
+
+<title>24 - A Assimetria do Laço</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/TBBTT11EP24.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/11-11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando os pais de Amy e a família de Sheldon chegam, todos estão empenhados para garantir que tudo transcorra conforme planejado – todos, exceto a noiva e o noivo.
+</info>
+ </item>"
