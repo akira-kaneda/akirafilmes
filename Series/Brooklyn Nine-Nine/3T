@@ -1,0 +1,299 @@
+"<item>
+
+<title>01 - Novo Capitão</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O novo capitão já chega à delegacia causando. Jake e Amy tentam manter seu caso em segredo.
+</info>
+ </item>"
+"<item>
+
+<title>02 - O Funeral</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Mais mudanças na delegacia ameaçam a relação entre Jake e Amy. Uma série de decepções deixa Holt abalado.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Palpite de Boyle</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Seduzido por uma mulher que também ama a boa cozinha, Boyle promete provar sua inocência e libertá-la. Holt tenta melhorar a imagem da polícia, mas o tiro sai pela culatra.
+</info>
+ </item>"
+"<item>
+
+<title>04 - O Matador de Oolong</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Holt se aliam em segredo para pegar um serial killer. Amy e Rosa se vingam de uma tarefa sexista.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Dia das Bruxas III</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Na competição de Halloween, Jake e Holt formam times para roubar uma coroa. Mas Amy é deixada de fora.
+</info>
+ </item>"
+"<item>
+
+<title>06 - Dentro da Floresta</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Charles levam Terry para um acampamento desastroso. Holt ajuda Rosa com um dilema, e Amy tenta lucrar com uma invenção antiga.
+</info>
+ </item>"
+"<item>
+
+<title>07 - O Colchão</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy embarcam em uma disputa de casal enquanto investigam o surgimento de uma nova droga. Um incidente na garagem provoca uma discussão entre Holt e Boyle.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Ava</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake age rápido quando a mulher de Terry entra em trabalho de parto. Um apagão na internet obriga a equipe a usar métodos de trabalho antigos.
+</info>
+ </item>"
+"<item>
+
+<title>09 - Os Suecos</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O clima esquenta quando Jake e Rosa dividem uma missão com um casal de policiais suecos. Neil deGrasse Tyson ajuda Gina a se preparar para um exame.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Yippie Kayak</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma saída de última hora para compras de Natal deixa Jake, Gina e Charles no meio do que parece uma cena de ""Duro de Matar"", com reféns e tudo.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Situação de Reféns</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Boyle tenta recuperar um ""artigo” muito pessoal dele que ficou com a sua assustadora ex-mulher. Terry é ferido por Amy no pior momento possível.
+</info>
+ </item>"
+"<item>
+
+<title>12 - 9 Dias</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma doença deixa Jake e Holt de quarentena enquanto tentam resolver um caso já arquivado. Terry descobre que administrar a delegacia é um trabalho complicado.
+</info>
+ </item>"
+"<item>
+
+<title>13 - O Cruzeiro</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy vão fazer um cruzeiro romântico e descobrem um antigo adversário a bordo. Holt prepara-se para a visita da irmã melodramática.
+</info>
+ </item>"
+"<item>
+
+<title>14 - Karen Peralta</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Amy prepara-se para conhecer a mãe de Jake no aniversário dele, mas a festa toma um rumo inesperado. Novas câmeras deixam Boyle constrangido.
+</info>
+ </item>"
+"<item>
+
+<title>15 - O 9-8</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os ânimos se exaltam quando a delegacia vizinha se junta à 99. Jake reencontra um parceiro antigo e tem uma surpresa desagradável.
+</info>
+ </item>"
+"<item>
+
+<title>16 - Casa de Ratos</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Para atuar em uma ocorrência envolvendo celebridades, Jake deixa uma apreensão de drogas para Scully e Hitchcock. Mas nenhum dos casos é o que eles esperavam.
+</info>
+ </item>"
+"<item>
+
+<title>17 - Adrian Pimento</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP17.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um policial que estava infiltrado na máfia tem dificuldades de se readaptar à vida na delegacia. As aventuras culinárias de Boyle enfurecem a equipe de limpeza.
+</info>
+ </item>"
+"<item>
+
+<title>18 - Cheddar</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP18.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e Amy se oferecem para tomar conta da casa de Holt, e as consequências são desastrosas. O clima entre Rosa e Pimento esquenta.
+</info>
+ </item>"
+"<item>
+
+<title>19 - Gatinhos de Terry</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP19.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma entrega especial relembra Terry de um caso que o assombra há anos. Com a ajuda de Jake, ele faz de tudo para finalmente resolvê-lo.
+</info>
+ </item>"
+"<item>
+
+<title>20 - Paranoia</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP20.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um noivado às pressas provoca uma correria para a organização das despedidas de solteiro e solteira. Mas a noite de festas não acaba como esperado.
+</info>
+ </item>"
+"<item>
+
+<title>21 - Segurança Máxima</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP21.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Para desmascarar o agente duplo do FBI que contratou a morte de Pimento, a equipe organiza um funeral falso e envia Amy numa missão de risco.
+</info>
+ </item>"
+"<item>
+
+<title>22 - Escritório</title>
+<link>https://$doregex[RC]/RCServer10/ondemand/BRKLNNT03EP22.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Com a ajuda de um velho amigo de Holt, o grupo entra no FBI para descobrir os podres de um agente duplo. Uma detenta deixa Charles numa situação difícil.
+</info>
+ </item>"
+"<item>
+
+<title>23 - Greg e Larry</title>
+<link>https://$doregex[RC]/RCServer13/ondemand/BRKLNNT03EP23.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</image>
+<thumbnail>https://ia801505.us.archive.org/31/items/11-2_20201219/10-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jake e a equipe vasculham o hospital em busca do capitão Holt. Amy e Charles viajam de volta a Nova York para ajudar os amigos.
+</info>
+ </item>"
