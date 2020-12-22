@@ -1,0 +1,8 @@
+  
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3tzd44971/GLOBOSAT.png" group-title="GLOBOSAT",[COLOR red][I][B]» GLOBO SAT«[/B][/I][/COLOR]
+http://canaisglobosat.globo.com/
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jwerczf61/Premiere_Combate.png" group-title=GLOBOSAT",COMBATE[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://eagle.ss-ny.futegram.me:3601/cbt24ha_2564/playlist.m3u8
