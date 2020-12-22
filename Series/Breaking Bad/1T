@@ -1,0 +1,91 @@
+"<item>
+
+<title>01 - Piloto</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Um professor de química do ensino médio começa a vender drogas para sustentar sua família.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Ressurreição</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O saldo da primeira transação fracassada de Walt e Jesse é de dois cadáveres e sua desova. Skyler suspeita que seu marido esteja tramando algo.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Dúvida</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Walt limpa a bagunça que foi deixada após a primeira venda de drogas, ele pensa em contar a Skyler o segredo sobre a sua doença.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Homem com Câncer</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT01EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Forçado a revelar a verdade sobre sua doença, Walt enfrenta o dilema de pagar pelos caros tratamentos de câncer.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Matéria Cinzenta</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT01EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Skyler organiza uma intervenção para persuadir Walt a aceitar a generosa oferta de seu antigo parceiro de pesquisa de pagar pelo seu tratamento de câncer.
+</info>
+ </item>"
+"<item>
+
+<title>06 - O Grande Blefe</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT01EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Conforme os efeitos colaterais e os custos do seu tratamento aumentam rapidamente, Walt exige que Jesse encontre um grande comprador para suas drogas, deixando Jesse encrencado com um perigoso ex-presidiário.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Um Trato Sem Dificuldades</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT01EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após Jesse escapar da morte, Walt concorda em produzir mais drogas para Tuco, enquanto Skyler suspeita que sua irmã roubou um presente de chá de bebê.
+</info>
+ </item>"
