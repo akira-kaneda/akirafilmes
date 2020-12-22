@@ -1,0 +1,169 @@
+"<item>
+
+<title>01 - Estilete</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de um momento tenso na terceira temporada em que Walt e Jesse batalharam por suas vidas, a dupla aguarda para ver os próximos passos de Gus.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Trinta e Oito Arrebitado</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Walt prepara sua defesa contra Gus, Jesse lida com a pressão ao renovar sua amizade com Badger e Skinny Pete.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Casa Aberta</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt se preocupa com a interferência de Gus e a fragilidade mental de Jesse. Skyler aumenta a pressão para conseguir o que deseja.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Pontos de Bala</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Skyler cria uma história elaborada para explicar as finanças da família White, e Walt descobre que Hank começou uma nova investigação.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Espingarda</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jesse acompanha Mike em um arriscado passeio para fazer coletas, deixando Walt preocupado que seu parceiro poderá ser morto.
+</info>
+ </item>"
+"<item>
+
+<title>06 - Encurralado</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Skyler adota uma abordagem indiferente ao suspeitar que Walt não diz a verdade. Enquanto isso, Jesse prova seu valor para Mike e Gus.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Cão Problema</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Obrigado a devolver o carro que comprou para o filho, Walt contra-ataca deixando Skyler em maus lençóis com o novo esquema de lavagem de dinheiro.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Irmãos</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando Hank descobre provas de que Gus é o barão da metanfetamina de Albuquerque, Walt acha que ele e Jesse serão mortos enquanto protegem o chefe.
+</info>
+ </item>"
+"<item>
+
+<title>09 - Defeito</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt tenta subverter a investigação de Hank no mercado de metanfetamina de Albuquerque, e um perigoso aviso força Gus a considerar um negócio com o cartel mexicano.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Saúde</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Walt ainda se recupera da briga, Gus leva Jesse ao México para concretizar o negócio com o cartel mexicano.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Espaço do Rastejamento</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Skyler pressiona Ted a aceitar seu dinheiro para pagar os impostos, Gus insiste que Jesse deve retomar o trabalho no laboratório por conta própria.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Fim dos Tempos</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de ordenar à sua família que aceite a proteção que está sendo oferecida a Hank, Walt aguarda pelo destino que lhe será dado.
+</info>
+ </item>"
+"<item>
+
+<title>13 - Cara Fora</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT04EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-4.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando o plano para matar Gus fracassa, Walt e Jesse precisam agir rapidamente para esconder seus rastros e evitar a morte certa.
+</info>
+ </item>"
