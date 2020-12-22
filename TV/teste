@@ -1,25 +1,3 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",Globo SD
-http://server.brazuca.link:80/live/1/360p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",Globo HD
-http://server.brazuca.link:80/live/1/720p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="2" tvg-logo="http://brazuca.link/img2/054a43f1d6/rec.gif",Record SD
-http://server.brazuca.link:80/live/2/360p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="2" tvg-logo="http://brazuca.link/img2/054a43f1d6/rec.gif",Record HD
-http://server.brazuca.link:80/live/2/720p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="3" tvg-logo="http://brazuca.link/img2/054a43f1d6/sbt.gif",SBT SD
-http://server.brazuca.link:80/live/3/360p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="3" tvg-logo="http://brazuca.link/img2/054a43f1d6/sbt.gif",SBT HD
-http://server.brazuca.link:80/live/3/720p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="4" tvg-logo="http://brazuca.link/img2/054a43f1d6/ban.gif",Band SD
-http://server.brazuca.link:80/live/4/360p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="4" tvg-logo="http://brazuca.link/img2/054a43f1d6/ban.gif",Band HD
-http://server.brazuca.link:80/live/4/720p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="5" tvg-logo="http://brazuca.link/img2/054a43f1d6/rtv.gif",Rede Tv SD
-http://server.brazuca.link:80/live/5/360p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="5" tvg-logo="http://brazuca.link/img2/054a43f1d6/rtv.gif",Rede Tv HD
-http://server.brazuca.link:80/live/5/720p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="6" tvg-logo="http://brazuca.link/img2/054a43f1d6/cul.gif",Cultura SD
-http://server.brazuca.link:80/live/6/360p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
-#EXTINF:-1 tvg-id="6" tvg-logo="http://brazuca.link/img2/054a43f1d6/cul.gif",Cultura HD
-http://server.brazuca.link:80/live/6/720p.m3u8?token=054a43f1d6&md5=uHzZmD9vsSb-URBQ-39Szg
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",ANIMAL PLANET
+http://149.202.91.73:8081/look/animal/playlist.m3u8
