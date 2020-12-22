@@ -1,0 +1,169 @@
+"<item>
+
+<title>01 - 07:37</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto planejam sua última grande venda, Walt e Jesse temem que Tuco esteja pensando em matá-los assim que a entrega for feita.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Grelhado</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Como a caçada humana dos federais a Tuco continua, Skyler coloca Hank atrás de Walt.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Picado Por Uma Abelha Morta</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Como Hank chega muito perto de descobrir seu negócio de drogas, Walt monta um plano para despistá-lo.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Abaixo</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Ao passo que Walt vai vencendo o crescente abismo entre ele e Skyler, Jesse fica sem um lugar para morar depois que seus pais o despejam de casa.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Ruptura</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Hank tenta se recompor depois do encontro com Tuco. Jesse contrata mais gente para aumentar a oferta do produto.
+</info>
+ </item>"
+"<item>
+
+<title>06 - Esconde-esconde</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Jesse persegue os viciados que roubaram o estoque de drogas de Skinny Pete, Walt inventa uma história para explicar como ele paga o seu tratamento contra o câncer.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Preto e Azul</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto a reputação de Jesse como um grande traficante de drogas faz com que Walt aumente sua produção, a caminhada de Hank o DEA de El Paso o deixa inquieto.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Melhor Chamar Saul</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A prisão de Badger força Walt e Jesse a se associarem a um advogado sombrio.
+</info>
+ </item>"
+"<item>
+
+<title>09 - 4 Dias Fora</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Preocupado por não ter muito tempo de vida, Walt espera sustentar sua família inscrevendo Jesse em uma sessão de preparação de metanfetamina para uma maratona no deserto.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Sobre</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Depois de receber boas notícias sobre o seu tratamento contra o câncer, Walt droga Hank antes de colocar as coisas em ordem em casa.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Mandala</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Os sentimentos de Skyler por seu chefe estão em conflito, enquanto a morte de um traficante faz com que Walt procure outro lugar para descarregar uma grande quantidade de metanfetamina.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Fênix</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Por conta de uma grande entrega, Walt não aparece no hospital para o nascimento da filha, e segue direto para acertar as contas com a namorada de Jesse.
+</info>
+ </item>"
+"<item>
+
+<title>13 - ABQ</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT02EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt tenta endireitar o rumo que sua vida está levando e se preparar para sua operação, e ao mesmo esconder de Skyler e Walt Jr. de onde ganhou tanto dinheiro.
+</info>
+ </item>"
