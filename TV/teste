@@ -3,3 +3,5 @@
 http://149.202.91.73:8081/look/animal/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",CBN
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",
+http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/live.m3u8
