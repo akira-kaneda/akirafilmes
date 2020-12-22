@@ -1,0 +1,208 @@
+"<item>
+
+<title>01 - Ao Vivo Livre ou Morrer</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walter vai visitar a família, que ainda está sob proteção policial, enquanto lida com as consequências da explosão na Casa Tranquila.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Madrigal</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt e Jesse decidem procurar um novo parceiro para a próxima empreitada e a polícia investiga várias pistas na tentativa de descobrir algo.
+</info>
+ </item>"
+"<item>
+
+<title>03 - Subsídio de Risco</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walter volta a morar em casa, deixando Skyler desesperada. Walter, Mike, Jesse e Sal procuram por um novo local para “cozinhar”.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Cinquenta e Um</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Lydia entrega o próprio chefe para a polícia e Mike oferece um substituto: Jesse. Walter e Skyler discutem sobre a segurança da família.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Frete Morto</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Mike e Lydia estudam uma maneira de transportar a metilamina para a nova operação e Walt e Jesse tentam bolar um plano que não estrague seu disfarce.
+</info>
+ </item>"
+"<item>
+
+<title>06 - PDV</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt, Mike e Jesse lidam com as consequências do roubo da metilamina. Mike e Jesse querem desistir, mas Walt está decidido a construir seu império.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Diga Meu Nome</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walter tenta fazer um acordo com Declan. Hank recebe ordens para deixar Mike em paz e passa a investigar o advogado que paga os homens de Mike.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Pairando Sobre Tudo</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT05EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt se encontra com Lydia para conseguir o nome dos comparsas de Mike na cadeia. Skyler tenta convencer Walt a deixar de produzir metanfetamina.
+</info>
+ </item>"
+"<item>
+
+<title>09 - Dinheiro de Sangue</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt e Jesse tentam se ajustar à vida longe do tráfico e Hank descobre uma pista perturbadora.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Enterrado</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto o passado de Skyler vem à tona, Walt tenta encobrir seus próprios rastros e Jesse tenta lidar com o sentimento de culpa.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Confissões</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Jesse decide mudar de vida e Walt e Skyler tentam lidar com um problema inesperado.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Cão Raivoso</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma estratégia incomum começa a dar certo e os novos planos podem acabar mudando tudo.
+</info>
+ </item>"
+"<item>
+
+<title>13 - To'hajiilee</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Acontecimentos inesperados dificultam a vida de Walt.
+</info>
+ </item>"
+"<item>
+
+<title>14 - Ozymandias</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP14.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Todos precisam lidar com mudanças radicais.
+</info>
+ </item>"
+"<item>
+
+<title>15 - Estado de granito</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP15.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Acontecimentos iniciados muito tempo atrás estão chegando à conclusão.
+</info>
+ </item>"
+"<item>
+
+<title>16 - Felina</title>
+<link>https://$doregex[RC]/RCServer07/ondemand/BBT05EP16.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-5.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Último episódio da temporada.
+</info>
+ </item>"
