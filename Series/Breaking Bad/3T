@@ -1,0 +1,169 @@
+"<item>
+
+<title>01 - Não Mas</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após o desastre de avião de Albuquerque, Skyler força Walt a se mudar, enquanto a estadia de Jesse na reabilitação o ajuda a entender seu papel na colisão fatal.
+</info>
+ </item>"
+"<item>
+
+<title>02 - Caballo Sin Nombre</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando sabe que Skyler está determinada a pedir o divórcio, Walt, inconsciente, cai na mira de um par de traficantes mexicanos com sede de vingança.
+</info>
+ </item>"
+"<item>
+
+<title>03 - I.F.T.</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Walt acha que Skyler está blefando e volta para casa sem consentimento. Jesse quer voltar ao tráfico. Um cartel mexicano espera a chance de vingar a morte de um dos seus.
+</info>
+ </item>"
+"<item>
+
+<title>04 - Luz Verde</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O caso de Skyler com seu chefe cria caos em seu complicado casamento. Um novo lote de metanfetamina coloca Jesse de volta no negócio e Walt também acaba se envolvendo.
+</info>
+ </item>"
+"<item>
+
+<title>05 - Mas</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Skyler reconsidera suas objeções a que ele volte para casa. Walt estuda uma oferta para voltar ao tráfico. A obsessão de Hank com Heisenberg traz problemas para Jesse.
+</info>
+ </item>"
+"<item>
+
+<title>06 - Pôr do Sol</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP06.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Enquanto Walt volta a trabalhar no laboratório de metanfetamina de Gus, a descoberta do antigo RV força ele e Jesse a agirem rápido para não serem presos por Hank.
+</info>
+ </item>"
+"<item>
+
+<title>07 - Um Minuto</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP07.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Chateado com o fim do caso pela destruição do laboratório móvel, Hank arrisca sua carreira atacando Jesse; preocupado, Walt lhe propõe recomeçar em seu novo laboratório.
+</info>
+ </item>"
+"<item>
+
+<title>08 - Vejo Você</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP08.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Hank se apega à vida depois que o cartel de drogas tenta matá-lo. Walt tenta ficar longe de problemas ao associar-se a Jesse quando percebe que também pode ser alvo.
+</info>
+ </item>"
+"<item>
+
+<title>09 - Kafkiano</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP09.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Quando ele e Walt retomam a produção, Jesse procura aumentar sua fatia, enquanto Marie tem atrito com a seguradora por causa das chances de recuperação de Hank.
+</info>
+ </item>"
+"<item>
+
+<title>10 - Voar</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP10.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma longa noite no laboratório faz Walt e Jesse discutirem sobre uma mosca.
+</info>
+ </item>"
+"<item>
+
+<title>11 - Abiquiu</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP11.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Hank está descontente com a recuperação. Skyler questiona esquema de lavagem de dinheiro. Jesse se apaixona por paciente de reabilitação ligada à morte do amigo Combo.
+</info>
+ </item>"
+"<item>
+
+<title>12 - Meias Medidas</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP12.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Ignorando Walt, Jesse vai atrás dos responsáveis pela morte de Combo. Hank não quer sair do hospital. Skyler pressiona Walt a aceitar seu esquema de lavagem de dinheiro.
+</info>
+ </item>"
+"<item>
+
+<title>13 - Medidas Completa</title>
+<link>https://$doregex[RC]/RCServer05/ondemand/BBT03EP13.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</image>
+<thumbnail>https://ia601400.us.archive.org/11/items/12-3_20201222/12-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após tirar dois dos traficantes do chefe, Walt percebe que Gus está planejando matar a ele e Jesse e substituí-lo por seu ex-assistente.
+</info>
+ </item>"
