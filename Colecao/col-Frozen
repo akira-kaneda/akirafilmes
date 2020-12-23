@@ -55,3 +55,22 @@ De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do
  
 <date>02/01/2020</date>
 </item>"
+"<item>
+
+<title>Era Uma Vez um Boneco de Neve [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ERUMVZUMBNCODNVE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Fantasia
+Lançamento: 2020
+
+Os primeiros passos de Olaf conforme ele ganha vida e busca sua identidade nas montanhas nevadas dos arredores de Arendelle.</info>
+ 
+<genre>Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>18/12/2020</date>
+</item>"
