@@ -655,6 +655,25 @@ Travis é um jovem que não acredita em relacionamentos, até que Gabby se muda 
 </item>"
 "<item>
 
+<title>A Escolha Perfeita [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESCLHPRFT2016.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6580.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6580.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2016
+
+Charlie é um playboy que não acredita no amor, e está tão certo disso que aceita uma aposta de seus dois melhores amigos, Rick e Victor, que dizem que se ele conseguir permanecer com uma mulher durante um mês, ele irá se apaixonar. Charlie só não esperava conhecer a bela e misteriosa Eva, com quem começa um romance. Antes convencido que o caso não duraria, ele passa a se questionar se aquele relacionamento merece durar mais de uma noite.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>11/03/2016</date>
+</item>"
+"<item>
+
 <title>A Escolha Perfeita [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -709,6 +728,25 @@ Kyle (Alex Pettyfer) era um jovem bem sucedido e cobiçado pelas mulheres, que d
 <genre>Drama, Fantasia, Romance</genre>
  
 <date>21/01/2011</date>
+</item>"
+"<item>
+
+<title>A Festa de Formatura [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFSTDFRMTURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 2020
+
+Um grupo de atores veteranos da Broadway vão sem aviso a uma festa de final de ano de uma escola que não permitiu que uma de suas alunas fosse ao baile acompanhada de sua namorada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>02/12/2020</date>
 </item>"
 "<item>
 
@@ -1909,6 +1947,25 @@ Pete Sandich é um piloto que despeja água sobre os incêndios florestais em al
 </item>"
 "<item>
 
+<title>Alguém Avisa? [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ALGMAVSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6522.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6522.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2021
+
+Uma jovem tem um plano para propor casamento à sua namorada na festa de Natal da família, mas descobre que sua parceira ainda não se assumiu perante seus pais conservadores.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>14/01/2021</date>
+</item>"
+"<item>
+
 <title>Alguém Especial [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/ALGMESPCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2210,6 +2267,25 @@ Alvin (Nick Cannon) é um limpador de piscinas nerd e conhecedor de carros. Ele 
 <genre>Comédia, Drama, Família, Romance</genre>
  
 <date>12/12/2003</date>
+</item>"
+"<item>
+
+<title>Amor de Balada [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMRDBLDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6581.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6581.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Milo trabalha como bartender em Berlim e uma noite conhece sua mulher dos sonhos Sunny através de uma série de coincidências. Os dois se encontram para um encontro, mas a noite romântica perfeita até agora.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>13/02/2020</date>
 </item>"
 "<item>
 
@@ -3751,6 +3827,25 @@ Ben é um publicitário que aposta com o chefe que faz qualquer mulher se apaixo
 <genre>Comédia, Romance</genre>
  
 <date>07/02/2003</date>
+</item>"
+"<item>
+
+<title>Como Sair de Buffalo [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMSRDBFLO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6534.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6534.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2020
+
+Peg Dahl, uma golpista de Buffalo, fará de tudo para escapar de sua cidade natal, Buffalo, estado de Nova York, e assim ela chega ao submundo das cobranças de dívidas.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>14/02/2020</date>
 </item>"
 "<item>
 
@@ -10084,6 +10179,25 @@ A indiazinha americana Pocahontas viaja através do mar para convencer os ingles
 </item>"
 "<item>
 
+<title>Pode Guardar um Segredo? [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PDEGRDRUMSGRDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6562.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6562.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2019
+
+Emma Corrigan é uma mulher cheia de segredos e acaba contando todos eles para um estranho, durante uma viagem turbulenta de avião, com medo de morrer. O que a protagonista não esperava era que tal homem, com conhecimento sobre todos os detalhes humilhantes sobre ela, seria Jack Harper, o novo presidente da empresa onde trabalha.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>13/09/2019</date>
+</item>"
+"<item>
+
 <title>Podres de Ricos [COLOR yellow][IMDb 6,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/PDRSDRCS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -10575,6 +10689,25 @@ Ao completar 21 anos, Tim descobre que pode viajar no tempo e mudar o passado. D
 <genre>Comédia, Drama, Romance, Fantasia</genre>
  
 <date>06/12/2013</date>
+</item>"
+"<item>
+
+<title>Raízes no Surf [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RZSNSRF.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6504.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6504.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Romance, Cinema TV
+Lançamento: 2000
+
+Sydney Miller e seu pai visitam sua terra natal: uma ilha no Havaí. Lá ela descobre que herdou grande parte da terra da ilha, antes considerada ""Domínio Público"", e que uma cadeia hoteleira pretende comprar essa área e proibir que surfistas a usem. Conforme Sydney fica sabendo mais sobre sua mãe e sobre seu passado, ela estreita seu relacionamento com seu pai, conhece pessoas diferentes, faz amigos, aprende a surfar e encontra sua força interior através desse esporte. Ela precisa, então, decidir se venderá a terra ou não.</info>
+ 
+<genre>Drama, Família, Romance, Cinema TV</genre>
+ 
+<date>22/04/2000</date>
 </item>"
 "<item>
 
@@ -12117,6 +12250,25 @@ Kate (Olivia Wilde) e Luke (Jake Johnson) são funcionários de uma fábrica de 
 </item>"
 "<item>
 
+<title>Um Brinde ao Natal [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMBRNDAONTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6573.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6573.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Um filho de fazendeiros que nunca pegou no pesado se passa por trabalhador rural para convencer uma pequena produtora a vender suas terras antes do Natal.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>14/12/2020</date>
+</item>"
+"<item>
+
 <title>Um Cachorro Para Dois [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/UMCHROPRDS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -12228,6 +12380,25 @@ Sara Thomas é o tipo de mulher que prefere ficar à margem no trabalho, mas qua
 <genre>Drama, Romance, Cinema TV</genre>
  
 <date>05/11/2016</date>
+</item>"
+"<item>
+
+<title>Um Dia de Louco [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMDIADLCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6519.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 1994
+
+É véspera de Natal na Lifelines , um serviço telefônico de ajuda psiquiátrica de Venice Beach, na Califórnia. O gerente Philip (Steve Martin) acaba de saber que o proprietário do imóvel o está despejando e, de repente, tudo ao redor do local parece tão em crise quanto os pacientes que estão entupindo as linhas telefônicas. Durante toda a madrugada, os personagens envolvidos - como a tímida Catherine (Rita Wilson) e a grávida Gracie (Juliette Lewis) - aprendem que o Natal pode ser um período feliz, sem a necessidade de preocupações com seu estado mental. Da mesma diretora de Sintonia de Amor, Norma Ephron.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>21/12/1994</date>
 </item>"
 "<item>
 
