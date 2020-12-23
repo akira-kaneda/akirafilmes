@@ -5366,6 +5366,25 @@ Lançamento: 2018
 </item>"
 "<item>
 
+<title>Estação 44: O Refúgio dos Exterminadores [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESTCAO44ORFGDSEXTNDRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6495.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6495.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica
+Lançamento: 1990
+
+Ano 2038: Os recursos minerais da terra são drenados, no espaço há lutas pelos últimos depósitos em outros planetas e satélites. Esta é a situação quando uma das maiores corporações de mineração perdeu todas as luas minerais, exceto uma, e muitos de seus robôs de mineração totalmente automáticos estão desaparecendo em seu voo para casa. Como ninguém mais quer o trabalho, eles mandam prisioneiros para defender a estação de mineração. Entre eles o agente disfarçado Stone, que deve limpar o paradeiro dos robôs caros. Em uma atmosfera de corrupção, medo e ódio, ele fica entre as frentes de grupos rivais.</info>
+ 
+<genre>Ficção científica</genre>
+ 
+<date>15/02/1990</date>
+</item>"
+"<item>
+
 <title>Estado de Calamidade [COLOR yellow][IMDb 4,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/ESTDODCLMDADE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -7989,6 +8008,25 @@ Billy Batson, um garoto de 10 anos de idade, grita uma única palavra e, com rai
 </item>"
 "<item>
 
+<title>LEGO Star Wars: Especial de Festas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
+Lançamento: 2020
+
+Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
 <title>LEGO Super Heróis DC: O Flash [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/LEGDCCMSSPRHRTHFLSH.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -10266,6 +10304,25 @@ Em busca de uma saída para evitar a destruição de seu planeta, seres extra-te
 <genre>Comédia, Ficção científica, Aventura, Família</genre>
  
 <date>08/07/2008</date>
+</item>"
+"<item>
+
+<title>O Guardião dos Mundos [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OGRDAODSMNDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6557.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6557.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Fantasia, Ação
+Lançamento: 2018
+
+O jovem moscovita Kirill é um talentoso designer de jogos de computador. Um dia, ele é completamente apagado da memória de todos que ele conhecia e amava. Kirill descobre que ele foi escolhido para uma missão importante e misteriosa: tornar-se um funcionário da alfândega entre mundos paralelos, dos quais existem dezenas no universo. Kirill desvendará o mistério desses mundos e quem os controla? E a nossa Terra é realmente apenas um ""rascunho"" imaginário - um mundo paralelo - que na realidade não existe ...</info>
+ 
+<genre>Ficção científica, Fantasia, Ação</genre>
+ 
+<date>25/05/2018</date>
 </item>"
 "<item>
 
@@ -14362,6 +14419,1936 @@ O imperador está supervisionando a construção de uma nova Estrela da Morte. E
 <image>https://ia801409.us.archive.org/28/items/6166_20201209/5657.jpg</image>
 <thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5657.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Fantasia
+Lançamento: 2015
+
+A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem. Eles procuram o jedi Luke Skywalker, desaparecido. A resistência tenta desesperadamente encontrá-lo antes para salvar a galáxia.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Fantasia</genre>
+ 
+<date>18/12/2015</date>
+</item>"
+"<item>
+
+<title>Star Wars: Episódio VIII - Os Últimos Jedi [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/STRWRSOSULTMSJD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5658.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5658.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2017
+
+A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>14/12/2017</date>
+</item>"
+"<item>
+
+<title>Starfish - Vozes e Segredos [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STRFSHVZSESGDRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5660.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5660.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Ficção científica
+Lançamento: 2019
+
+A humanidade parece ter chegado ao fim. Presa no apartamento de uma amiga morta, Aubrey Parker encontra uma fita cassete com a frase ""essa fita salvará o mundo"". Para tentar reverter o cenário e descobrir o que aconteceu, a menina busca desvendar os segredos de um misterioso sinal.</info>
+ 
+<genre>Drama, Terror, Ficção científica</genre>
+ 
+<date>14/03/2019</date>
+</item>"
+"<item>
+
+<title>Status Update: Perfil dos Sonhos [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/STSUPDTPRFLDSNHS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5662.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5662.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia, Ficção científica
+Lançamento: 2018
+
+O adolescente Kyle Moore enfrenta dificuldades para se ajustar à nova escola. Os valentões não saem da sua cola, e a garota dos seus sonhos parece ser inalcansável. Mas, quando lhe apresentam um aplicativo que promete realizar todos os seus desejos, a vida do novato muda da água para o vinho.</info>
+ 
+<genre>Comédia, Fantasia, Ficção científica</genre>
+ 
+<date>09/02/2018</date>
+</item>"
+"<item>
+
+<title>Steamboy [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STMBOY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5663.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5663.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Fantasia, Ficção científica
+Lançamento: 2004
+
+Ray Steam é um jovem inventor que recebe de seu avô, pelos Correios, uma estranha bola de metal conhecida como Steam Ball. Esta incrível invenção comporta uma nova espécie de energia, que tem a capacidade de suprir uma nação inteira. Ao tentar proteger a esfera da inescrupulosa Fundação O'Hara, Ray descobre aos poucos os fantásticos poderes que a bola possui.</info>
+ 
+<genre>Animação, Fantasia, Ficção científica</genre>
+ 
+<date>17/07/2004</date>
+</item>"
+"<item>
+
+<title>Street Fighter - A Lenda de Chun-Li [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/STRTFGTRCHULIN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5678.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5678.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Thriller
+Lançamento: 2009
+
+Em Bangkok, na Tailândia, um chefão do crime e seus capangas iniciam uma guerra pelo poder nas favelas da cidade, acabando com todos que cruzam seu caminho. A violência aumenta e um mestre em artes marciais e agentes da Interpol entram em ação.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Thriller</genre>
+ 
+<date>27/02/2009</date>
+</item>"
+"<item>
+
+<title>Street Fighter: A Última Batalha [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/STRTFGTRAULTMBTLH.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5679.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5679.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Drama, Ficção científica
+Lançamento: 1995
+
+No Sudeste Asiático, um general sequestra 63 delegados da ONU e exige um resgate milionário. O coronel Guile e a agente da Inteligência Britânica Cammy tentam resolver a situação, mas seus planos são ameaçados por uma repórter atrás de vingança.</info>
+ 
+<genre>Ação, Aventura, Thriller, Drama, Ficção científica</genre>
+ 
+<date>19/09/1995</date>
+</item>"
+"<item>
+
+<title>Substitutos [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SBSTUTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5692.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5692.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Thriller
+Lançamento: 2009
+
+O agente do FBI Tom Greer vive em um mundo onde robôs tomam o lugar das pessoas, protegendo-as da violência. Estes humanóides, aparentemente perfeitos e reais, possibilitam à população experimentar comodidade e segurança. Greer e a sua parceira Peters são chamados para investigar a morte de um estudante universitário, cujo substituto é destruído. Em um mundo de máscaras, Greer tem que decidir quem é real e em quem pode confiar, arriscando a sua própria vida para resolver o caso.</info>
+ 
+<genre>Ação, Ficção científica, Thriller</genre>
+ 
+<date>23/10/2009</date>
+</item>"
+"<item>
+
+<title>Super 8 [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SUP8.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5700.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5700.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Mistério
+Lançamento: 2011
+
+No verão de 1979, em Ohio, um grupo de jovens testemunha uma catastrófica colisão que envolve um trem de carga e uma caminhonete. Eles registram tudo com uma câmera Super-8 com a qual estavam tentando fazer um filme. Quando misteriosos desaparecimentos começam a acontecer, os amigos descobrem que a tragédia não foi um acidente.</info>
+ 
+<genre>Thriller, Ficção científica, Mistério</genre>
+ 
+<date>08/06/2011</date>
+</item>"
+"<item>
+
+<title>Supergirl [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SPRGRL1984.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5760.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5760.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 1984
+
+Supergirl (Helen Slater) parte rumo à Terra para tentar recuperar o Omegahedron, a fonte de energia necessária para salvar seu planeta Krypton. O objeto cai em mãos inimigas, em posse de bruxa Selena (Faye Dunaway), que deseja conquistar o mundo. Para complicar as coisas, Selena usa um feitiço para fazer um jardineiro se apaixonar por ela, porém a magia não dá certo e o rapaz se apaixona pela Supergirl, disfarçada pela identidade secreta de Linda Lee. A missão da Supergirl fica mais difícil…</info>
+ 
+<genre>Aventura, Fantasia, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>19/11/1984</date>
+</item>"
+"<item>
+
+<title>Super-Herói: O Filme [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/SPRHRSOFLME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5702.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5702.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Ficção científica
+Lançamento: 2008
+
+Rick Riker é um estudante comum do colegial. Porém, ao ser mordido por uma libélula geneticamente modificada ganha superpoderes. Agora sua missão é proteger a cidade das mãos do malvado Hourglass, que suga a vida de suas vítimas.</info>
+ 
+<genre>Ação, Comédia, Ficção científica</genre>
+ 
+<date>18/04/2008</date>
+</item>"
+"<item>
+
+<title>Superman - O Retorno [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMNORTN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5779.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5779.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2006
+
+Após alguns anos de um misterioso desaparecimento, Superman (Brandon Routh) retorna ao planeta Terra. Porém a situação em Metrópolis está bastante mudada desde que o Homem de Aço deixou o planeta, pois a cidade se acostumou a viver sem ele. Além disto Lois Lane (Kate Bosworth), sua grande paixão, seguiu sua vida após o sumiço do herói. Ao mesmo tempo em que precisa se adaptar à nova realidade, Superman precisa enfrentar um antigo inimigo, que planeja um meio de acabar com ele de uma vez por todas.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>14/07/2006</date>
+</item>"
+"<item>
+
+<title>Superman II: A Aventura Continua [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5766.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5766.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 1981
+
+Três perigosos prisioneiros do extinto planeta Krypton, que estavam confinados na Zona Fantasma, se libertam graças à uma explosão. O trio parte então para a Terra, onde passam a ter os mesmos poderes do Super-Homem, mas o objetivo deles é dominar o planeta.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>01/06/1981</date>
+</item>"
+"<item>
+
+<title>Superman III [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5767.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5767.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica, Ação, Aventura
+Lançamento: 1983
+
+Superman (Christopher Reeve) enfrenta agora um computador diabólico, programado por um gênio da informática que pretende dominar o mundo.</info>
+ 
+<genre>Comédia, Ficção científica, Ação, Aventura</genre>
+ 
+<date>17/06/1983</date>
+</item>"
+"<item>
+
+<title>Superman IV: Em Busca da Paz [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5768.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5768.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1987
+
+Lex Luthor (Gene Hackman) fabrica um homem (Mark Pillow) com a mesma estrutura molecular de Superman (Christopher Reeve), portanto, com os mesmos poderes. A criatura está programada para destruir o Homem de Aço e, quando o duelo tem início, o confronto se torna uma grande ameaça à paz mundial.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>24/07/1987</date>
+</item>"
+"<item>
+
+<title>Superman/Batman: Apocalipse [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/SPRMEBTMNAPCLPSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5770.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5770.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Família, Ficção científica
+Lançamento: 2010
+
+Semanas depois dos eventos que levaram à prisão de Lex Luthor após o Impeachment na presidência dos Estados Unidos, e do sucesso de Batman em salvar o mundo do impacto de um meteoro, uma nave espacial cai na Baía de Gotham City. Estava a bordo uma jovem de aparência adolescente e que manifesta super-poderes idênticos ao do Superman ao ser perseguida por policiais e assustar a população.</info>
+ 
+<genre>Ação, Aventura, Animação, Família, Ficção científica</genre>
+ 
+<date>28/09/2010</date>
+</item>"
+"<item>
+
+<title>Superman/Shazam!: O Retorno do Adão Negro [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SPRMNESHZMORTNDADNGRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5762.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5762.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica, Fantasia, Baseado em Quadrinho
+Lançamento: 2010
+
+Neste encontro entre Superman e Shazam, Clark Kent conhece a história de Billy Batson, que foi escolhido por um antigo mago para representar o bem invocando o nome de um poderoso bruxo: Shazam. Seus poderes logo aparecem, e ele descobre que está sendo perseguido por um maligno vilão chamado Adão Negro, cujos poderes são tão fortes que nem o Superman é capaz de detê-lo.</info>
+ 
+<genre>Animação, Ação, Ficção científica, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>09/11/2010</date>
+</item>"
+"<item>
+
+<title>Superman: Brainiac Ataca [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMNFILME01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5763.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5763.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Família, Ficção científica, Baseado em Quadrinho
+Lançamento: 2006
+
+Superman, prestes a revelar sua identidade e seus sentimentos por Lois Lane, de repente é interrompido pela ameaça de Brainiac, um poderoso computador programado para dominar o mundo, que usa armamento de Lex Luthor (projetado para defender a Terra de meteoros) para atacar os humanos. Derrotado pelo herói numa primeira luta, Brainiac é revivido por Luthor que faz um acordo com ele e lhe dá um fragmento de kryptonita. Na nova luta entre Superman e Brainiac, Lois Lane é mortalmente ferida por um raio de força que a contamina com a radiação de kryptonita. Superman vai à Fortaleza da Solidão e descobre que o mineral que poderá salvá-la encontra-se na letal Zona Fantasma.</info>
+ 
+<genre>Animação, Ação, Família, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>20/06/2006</date>
+</item>"
+"<item>
+
+<title>Superman: Entre a Foice e o Martelo [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SPRMNENTRFCEOMRTLO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5771.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5771.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 2020
+
+Quando o último filho de Krypton cai na Rússia, na época da Guerra Fria, em vez do bucólico Kansas, uma realidade alternativa se desdobra nesta aventura da DC Elseworlds. Aqui, nós encontramos o Superman liderando uma campanha comunista para avançar as ideologias do estado soviético. Enquanto isso, do outro lado do Atlântico, Lex Luthor, um brilhante cientista americano, cria um plano para dominar e, por fim, destruir a ameaça alienígena soviética. O que vem a seguir é uma perseguição emocionante que colocará em risco toda a humanidade.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>25/02/2020</date>
+</item>"
+"<item>
+
+<title>Superman: O Filme [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/SPRMN1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5764.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5764.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 1978
+
+Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>13/12/1978</date>
+</item>"
+"<item>
+
+<title>Superman: O Homem do Amanhã [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SPRMNOHMEMDAMNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5772.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5772.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica
+Lançamento: 2020
+
+É o início de uma nova era de heróis, e Metrópolis acaba de conhecer o primeiro. Mas como o estagiário do Daily Planet Clark Kent – trabalhando ao lado da repórter Lois Lane – secretamente exerce seus poderes alienígenas de voo, super-força e visão de raio-x na batalha para sempre, há problemas ainda maiores no horizonte.</info>
+ 
+<genre>Animação, Ação, Ficção científica</genre>
+ 
+<date>23/08/2020</date>
+</item>"
+"<item>
+
+<title>Tau [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TAU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5805.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5805.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller
+Lançamento: 2018
+
+Uma mulher é mantida em cativeiro por um cientista em uma futurista casa inteligente e espera escapar argumentando com a Inteligência Artificial que controla a casa.</info>
+ 
+<genre>Ficção científica, Thriller</genre>
+ 
+<date>29/06/2018</date>
+</item>"
+"<item>
+
+<title>Tekken [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TKKN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5824.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5824.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Ação, Thriller, Ficção científica
+Lançamento: 2010
+
+No ano de 2039, o lutador de rua Jin testemunha o assassinato de sua mãe pela Tekken, a mais terrível das corporações que dominam o mundo. Ele parte para a vingança buscando sagrar-se campeão em um mortal torneio de luta.</info>
+ 
+<genre>Crime, Drama, Ação, Thriller, Ficção científica</genre>
+ 
+<date>20/03/2010</date>
+</item>"
+"<item>
+
+<title>Tekken: Vingança de Sangue [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TKNVNGCDSNGLEG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5826.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5826.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 2011
+
+As empresas Mishima Zaibatsu (de Jin Kazama) e a Corporação G (de Kazuya Mishima) estão buscando informações sobre um estudante chamado Shin Kamiya. Kasuya envia Ling Xiaoyu para descobrir informações sobre o estudante. Alisa Bosconovitch (enviada por Jin) tem a mesma missão.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>26/07/2011</date>
+</item>"
+"<item>
+
+<title>Tempestade - Planeta em Fúria [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TMPSDPLNTEMFURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5830.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5830.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Thriller
+Lançamento: 2017
+
+Depois de uma série de desastres naturais sem precedentes ameaçar o planeta, os líderes mundiais se unem para criar uma rede complexa de satélites para controlar o clima mundial e manter todos em segurança. Porém, agora, algo deu errado – o sistema criado para proteger a Terra passou a atacá-la, dando início a uma corrida contra o tempo para descobrir a verdadeira ameaça, antes que uma tempestade de proporções globais devaste tudo… e todos em seu caminho.</info>
+ 
+<genre>Ação, Ficção científica, Thriller</genre>
+ 
+<date>20/10/2017</date>
+</item>"
+"<item>
+
+<title>Tenet [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TNET.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6572.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6572.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2020
+
+Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>29/10/2020</date>
+</item>"
+"<item>
+
+<title>Tentáculos [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TNTCLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5840.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5840.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Terror, Ficção científica
+Lançamento: 1998
+
+O Argonautica, um transatlântico recém-inaugurado, sai para o seu primeiro cruzeiro, encontrando perigo a bordo e nas profundezas do oceano. Quando a bela ladra Trillian ameaça roubar os passageiros ricos, o navio encontra problemas maiores, uma notável gigante criatura do mar com tentáculos. Um barco comandado por John Finnegan vai ao encontro do Argonautica e todos lutam para sobreviver.</info>
+ 
+<genre>Aventura, Ação, Terror, Ficção científica</genre>
+ 
+<date>17/07/1998</date>
+</item>"
+"<item>
+
+<title>Terra Formars: Missão em Marte [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MSAOMRTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5852.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5852.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Ficção científica
+Lançamento: 2016
+
+Em 2599, a Terra está em um grave estado de superpopulação. Felizmente, os cientistas enviaram quantidades extraordinárias de musgo e baratas a Marte há 500 anos, a fim de torná-lo apto para a vida humana.Embora os resultados tenham sido relativamente positivos, a primeira tentativa de colonização falhou dramaticamente.O governo está agora preparando uma segunda missão ultra-secreta liderada pelo instável Ko Honda, cuja equipe escolhida a dedo é composta de criminosos atraídos pela promessa de liberdade e uma recompensa em dinheiro em seu retorno.Eles permitiram algumas modificações genéticas, concedendo-lhes as características de vários insetos.</info>
+ 
+<genre>Ação, Terror, Ficção científica</genre>
+ 
+<date>29/04/2016</date>
+</item>"
+"<item>
+
+<title>Terror Tropical [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TERORTRPCL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5867.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5867.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica
+Lançamento: 2012
+
+Uma cientista pede a ajuda do exército dos EUA para investigar o misterioso desaparecimento de seu pai, no meio da selva de Belize. Apanhados no fogo cruzado entre um exército de guerrilha brutal controlada por um senhor da guerra mística, eles também são confrontados por um terror ainda maior - gigantes vespas mutantes que são, por alguma razão, sedento por sangue.</info>
+ 
+<genre>Ação, Ficção científica</genre>
+ 
+<date>17/09/2012</date>
+</item>"
+"<item>
+
+<title>The Banana Splits Movie [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/THBNASPLTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5876.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5876.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror, Ficção científica, Thriller
+Lançamento: 2019
+
+Nesta releitura do clássico programa infantil ""Banana Splits"" da Hanna-Barbera, exibido nos anos 60, um garotinho chamado Harley ganha de presente de aniversário ingressos para participar da gravação da série de TV, apresentada por um simpático quarteto animalesco. Mas o que parecia ser apenas a chance de se divertir, logo toma um rumo inesperado quando a contagem de corpos aumenta rapidamente.</info>
+ 
+<genre>Comédia, Terror, Ficção científica, Thriller</genre>
+ 
+<date>26/08/2019</date>
+</item>"
+"<item>
+
+<title>The Flash [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/THEFLSHOFLME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5884.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5884.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Cinema TV, Ficção científica
+Lançamento: 1990
+
+Barry Allen, crime lab detective, is transformed into the Flash, the fastest man alive, and takes on the Dark Riders, a motorcycle gang terrorizing Central City.</info>
+ 
+<genre>Ação, Crime, Cinema TV, Ficção científica</genre>
+ 
+<date>04/11/1990</date>
+</item>"
+"<item>
+
+<title>The King of Fighters: A Batalha Final [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/KOFABTLHFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/5/items/2916_20201020/2981.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2981.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2009
+
+Sobreviventes de clãs guerreiros se unem para derrotar uma força maligna que quer destruir o mundo.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>04/11/2009</date>
+</item>"
+"<item>
+
+<title>Timecop - O Guardião do Tempo [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TMCOPOGRDIAODTMP.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5911.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5911.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Ação, Crime
+Lançamento: 1994
+
+Quando a viagem no tempo é aperfeiçoada e pode ser utilizada com segurança, os criminosos se aproveitam dessa tecnologia para cometerem novos delitos. Um novo tipo de policiamento é criado para garantir que a invenção não seja usada de maneira abusiva. O policial Max Walker (Jean-Claude Van Damme), que trabalha nessa divisão, descobre que o político corrupto McComb (Ron Silver) quer usar a viagem no tempo para se tornar presidente. A perseguição começa quando o senador descobre que o policial esta em seu encalço para desmascara-lo.</info>
+ 
+<genre>Thriller, Ficção científica, Ação, Crime</genre>
+ 
+<date>16/09/1994</date>
+</item>"
+"<item>
+
+<title>Titã [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/THETITN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5927.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5927.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller
+Lançamento: 2018
+
+Num futuro não muito distante, uma família ligada às forças armadas aceita fazer parte de um programa científico secreto. Eles são realocados para o espaço e vão participar de uma experiência inovadora de evolução genética do ser humano.</info>
+ 
+<genre>Ficção científica, Thriller</genre>
+ 
+<date>30/03/2018</date>
+</item>"
+"<item>
+
+<title>Titan A.E. [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TITNAE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5928.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5928.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica, Família, Aventura
+Lançamento: 2000
+
+Um jovem descobre que precisa encontrar uma nave oculta da Terra antes que uma espécie alienígena inimiga o faça, a fim de garantir a sobrevivência da humanidade.</info>
+ 
+<genre>Animação, Ação, Ficção científica, Família, Aventura</genre>
+ 
+<date>16/06/2000</date>
+</item>"
+"<item>
+
+<title>Tomorrowland: Um Lugar Onde Nada é Impossível [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TOMROWLND.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5963.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5963.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Mistério, Ficção científica
+Lançamento: 2015
+
+Casey Newton (Britt Robertson) é uma adolescente com enorme curiosidade pela ciência. Um dia, ela encontra um pequeno broche que permite que se transporte automaticamente para uma realidade paralela chamada Tomorrowland, repleta de invenções futuristas visando o bem da humanidade. Ela logo busca um meio de chegar ao lugar e, no caminho, conta com a ajuda da misteriosa Athena (Raffey Cassidy) e de Frank Walker (George Clooney), que esteve em Tomorrowland quando garoto mas hoje leva uma vida amargurada.</info>
+ 
+<genre>Aventura, Família, Mistério, Ficção científica</genre>
+ 
+<date>04/06/2015</date>
+</item>"
+"<item>
+
+<title>Transcendence: A Revolução [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TRNSCDNCARVCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5989.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5989.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Drama, Mistério
+Lançamento: 2014
+
+Dr. Will Caster, a maior autoridade do mundo em inteligência artificial, está conduzindo experimentos altamente controversos, na intenção de criar um robô com grande variedade de emoções humanas. Quando extremistas antitecnologia tentam matá-lo, Caster convence sua esposa, Evelyn, e seu melhor amigo, Max Waters, a testar seu novo invento nele mesmo. Só que a grande questão não é se eles podem fazer isto, mas se eles devem fazer isto.</info>
+ 
+<genre>Thriller, Ficção científica, Drama, Mistério</genre>
+ 
+<date>19/06/2014</date>
+</item>"
+"<item>
+
+<title>Transformers [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TNSFRMRS01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5990.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5990.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação
+Lançamento: 2007
+
+O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.</info>
+ 
+<genre>Aventura, Ficção científica, Ação</genre>
+ 
+<date>18/07/2007</date>
+</item>"
+"<item>
+
+<title>Transformers - O Filme [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/TRNSFRMOFLME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5993.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5993.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ficção científica, Ação, Aventura, Família
+Lançamento: 1986
+
+Em pleno ano 2005, os Autobots e os Decepticons ainda estão em guerra, mas uma mortífera nova força está prestes a ameaçá-los. O gigantesco planeta assassino Unicron se aproxima cada vez mais da Terra e pretende destruí-la. Com isso, os heróicos Autobots resolvem lutar por sua própria sobrevivência e enfrentar a mais nova ameaça ao planeta.</info>
+ 
+<genre>Animação, Ficção científica, Ação, Aventura, Família</genre>
+ 
+<date>08/08/1986</date>
+</item>"
+"<item>
+
+<title>Transformers: A Era da Extinção [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TNSFRMRS04.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5991.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5991.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2014
+
+Após a batalha entre os Autobots e os Decepticons, que arrasou Chicago, os gigantescos robôs alienígenas desapareceram. Atualmente, eles são caçados pelos humanos, que não desejam passar por apuros novamente. Porém, enquanto a humanidade tenta se recuperar dessa terrível batalha, uma nova ameaça paira sobre a Terra.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>17/07/2014</date>
+</item>"
+"<item>
+
+<title>Transformers: A Vingança dos Derrotados [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TNSFRMRS02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5992.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5992.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 2009
+
+Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a raça humana e tentam ter uma vida normal: Sam está começando a faculdade, enquanto os Autobots trabalham com uma organização militar secreta e tentam construir uma casa para eles na Terra. Porém, um antigo Decepticon conhecido como 'The Fallen' aparece para se vingar, então Sam e sua namorada Mikaela precisam desvendar a história dos Transformes e achar um caminho para derrotá-lo.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>23/06/2009</date>
+</item>"
+"<item>
+
+<title>Transformers: O Lado Oculto da Lua [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/TNSFRMRS03.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5994.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5994.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura
+Lançamento: 2011
+
+Sam Witwicky e sua nova namorada, Carly, entram na briga quando os Decepticons renovam sua guerra contra os Autobots. Optimus Prime acredita que ressuscitar o antigo Transformer Sentinel Prime, ex-líder dos Autobots, pode levar à vitória. Essa decisão tem consequências devastadoras e a guerra parece pender a favor dos Decepticons, causando um conflito épico em Chicago.</info>
+ 
+<genre>Ação, Ficção científica, Aventura</genre>
+ 
+<date>29/06/2011</date>
+</item>"
+"<item>
+
+<title>Transformers: O Último Cavaleiro [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TNSFRMRS05.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5995.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5995.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Fantasia
+Lançamento: 2017
+
+Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e descobre que foi responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Fantasia</genre>
+ 
+<date>20/07/2017</date>
+</item>"
+"<item>
+
+<title>Tron - Uma Odisséia Eletrônica [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRNUMODSEIAELTRNCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6016.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6016.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura
+Lançamento: 1982
+
+Quando o talentoso engenheiro de computação Kevin Flynn descobre que Ed Dillinger, um executivo da sua empresa, está roubando seu projeto, tenta invadir o sistema. No entanto, Flynn é transportado para o mundo digital em um programa antagônico.</info>
+ 
+<genre>Ficção científica, Ação, Aventura</genre>
+ 
+<date>12/08/1982</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRS1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6018.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6018.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica
+Lançamento: 1998
+
+Em um futuro distante, a Terra está em guerra contra uma raça de insetos gigantes alienígenas. Pouco se sabe sobre eles, exceto que têm a intenção de eliminar toda forma de vida humana. Mas houve um tempo, antes da guerra, em que a Infantaria Móvel viajava para planetas distantes a fim de combater os insetos, inimigos implacáveis, com apenas uma missão: garantir a sobrevivência de sua espécie a qualquer custo.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica</genre>
+ 
+<date>27/02/1998</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares 2 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6019.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6019.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Terror, Ação, Ficção científica
+Lançamento: 2004
+
+Um esquadrão de soldados, está detido em um planeta infestado por insetos gigantes que estão indo para uma região remota. Quando eles chegam, encontram um sobrevivente solitário o qual está trancado por ter matado seu comandante. Os problemas do esquadrão aumentam quando são ameaçados por insetos saqueadores e um novo grupo de estranhos.</info>
+ 
+<genre>Aventura, Terror, Ação, Ficção científica</genre>
+ 
+<date>25/05/2004</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares 3 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6020.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6020.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação
+Lançamento: 2008
+
+Uma nave espacial da Federação cai no distante planeta alienígena OM-1 e acaba ficando encalhada com o líder Sky Marechal Anoke, a piloto Lola Beck e vários outros no local. Agora cabe ao Coronel Johnny Rico, herói relutante da invasão de insetos no Planeta P, liderar uma equipe de soldados em uma ousada missão de resgate.</info>
+ 
+<genre>Aventura, Ficção científica, Ação</genre>
+ 
+<date>19/07/2008</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares: A Invasão [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRINVSAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6021.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6021.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Ficção científica
+Lançamento: 2012
+
+O distante posto avançado da Federação, Fort Casey, é atacado por insetos. A equipe da nave Alesia recebe a missão de ajudar a nave John A. Warden que está em Fort Casey à evacuar, juntamente com os sobreviventes e trazer a inteligência militar em segurança de volta à Terra. Carl Jenkins, ministro da Paranormal Warfare, leva a nave numa missão clandestina antes de seu encontro com o Alesia e desaparece na nebulosa. Agora, os soldados veteranos são enviados em uma missão de resgate que pode levar a consequências muito mais sinistras do que jamais poderiam ter imaginado.</info>
+ 
+<genre>Animação, Ação, Ficção científica</genre>
+ 
+<date>28/08/2012</date>
+</item>"
+"<item>
+
+<title>Tropas Estelares: Invasores de Marte [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRPSESTLRSINVSRSDMRTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6022.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6022.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Animação, Ficção científica
+Lançamento: 2017
+
+Johnny Rico e enviado para uma pequena estação satélite em Marte, enquanto a Federação ataca o planeta natal dos insetos. Enquanto treina os seus novos recrutas nesta estação remota e silenciosa, os insetos aparecem num ataque surpresa, mas a Frota da Federação está muito longe para ajudar. Cabe a Rico e aos seus soldados salvar o planeta e descobrir como os insetos chegaram tão perto de casa.</info>
+ 
+<genre>Ação, Animação, Ficção científica</genre>
+ 
+<date>21/09/2017</date>
+</item>"
+"<item>
+
+<title>Tubarão Toxico [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TBRAOTXCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6032.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6032.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 2017
+
+No filme, um fim de semana de um grupo de jovens se torna um pesadelo quando um tubarão venenoso surge nas límpidas águas de um paraíso tropical. O tubarão tóxico rasgará suas vítimas e irá contaminá-las com um ácido que os transforma em “zumbis”.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>08/10/2017</date>
+</item>"
+"<item>
+
+<title>Turbo Kid [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRBKID.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6046.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6046.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Ficção científica
+Lançamento: 2015
+
+Um adolescente é fascinado por quadrinhos de super-heróis, e vive no mundo da imaginação. Um dia, ele conhece uma garota que também adora HQs, e os dois decidem partir em uma verdadeira missão. Quando o vilão Zeus ameaça a dupla, eles devem provar que possuem mais poderes do que imaginavam.</info>
+ 
+<genre>Ação, Aventura, Comédia, Ficção científica</genre>
+ 
+<date>28/08/2015</date>
+</item>"
+"<item>
+
+<title>Turbo: Power Rangers 2 [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/TRBOPWRNGRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6047.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6047.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Família, Fantasia, Ficção científica, Thriller
+Lançamento: 1997
+
+Uma nova geração dos Power Rangers, agora ainda mais poderosos, deve deter a perigosa Divatox. A maligna pirata espacial está prestes a libertar Maligore, preso há tempos num vulcão isolado, mas para isso precisa do auxílio do mago Lerigot, que decide buscar a proteção dos nossos heróis.</info>
+ 
+<genre>Ação, Aventura, Família, Fantasia, Ficção científica, Thriller</genre>
+ 
+<date>27/03/1997</date>
+</item>"
+"<item>
+
+<title>Ufo - Estamos Sozinhos? [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UFOESTMSZNHS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6052.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6052.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller
+Lançamento: 2018
+
+Derek, um estudante brilhante, assombrado por um avistamento de UFO (OVNI) na infância, acredita que avistamentos misteriosos reportados em múltiplos aeroportos nos Estados Unidos são UFOS. Com ajuda de sua namorada, Natalie, e sua professora de Matemática Avançada, a Dra. Hendricks, Derek corre para desvendar o mistério com o agente especial do FBI, Franklin Ahls na sua cola.</info>
+ 
+<genre>Ficção científica, Ação, Thriller</genre>
+ 
+<date>04/09/2018</date>
+</item>"
+"<item>
+
+<title>Ultraman R&B: O Filme - O Cristal da União [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ULTMNRBOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6058.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6058.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Família, Ficção científica
+Lançamento: 2019
+
+Após a paz ser restaurada em Ayaka-shi, Isami e Asahi lutam para alcançar seus sonhos. Katsumi é enviado para um planeta distante. Na Terra, o monstro Snake Darkness aparece e Katsumi terá que encontrar seu caminho de volta à Terra e se reunir com sua família.</info>
+ 
+<genre>Ação, Família, Ficção científica</genre>
+ 
+<date>08/03/2019</date>
+</item>"
+"<item>
+
+<title>Ultraman: The Next [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer01/videos/87f8094b.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6059.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6059.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Ficção científica, Ação, Aventura
+Lançamento: 2004
+
+First Lieutenant Shun'ichi Maki of the Japan Air Self-Defense Force is a prestigious F-15 Eagle jet pilot (or ""driver"" as he is called in the film). A lifelong fan of flying since he was a child, being a pilot is his ultimate dream. Unfortunately, his duties distance himself from his wife, Yoko, who always ends up being neglected, and his son, Tsugumu, who has a congenital blood disease and has a high risk of dying at a young age.Maki decides to quit the Air Force to devote more time to his family and to spend whatever is left for his son. He takes a part-time job as a commercial tour guide run by a kindly group of people who allow him time to work and to also take care of his family.</info>
+ 
+<genre>Família, Ficção científica, Ação, Aventura</genre>
+ 
+<date>18/12/2004</date>
+</item>"
+"<item>
+
+<title>Ultravioleta [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ULTRVLT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6061.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6061.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller
+Lançamento: 2006
+
+No século 21, um grupo de humanos foi modificado geneticamente para ter características dos vampiros, como reflexos apurados. Vivendo longe dos outros humanos que não têm essas características, eles estão à beira de uma verdadeira guerra civil entre os dois “tipos” de humanos. Ultraviolet (Milla Jovovich) deve proteger um garoto de nove anos (Cameron Bright) que foi marcado de morte pelo governo dos humanos.</info>
+ 
+<genre>Ficção científica, Ação, Thriller</genre>
+ 
+<date>28/04/2006</date>
+</item>"
+"<item>
+
+<title>Um Dia para Viver [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMDIAPRVIVR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6102.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6102.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Thriller, Mistério
+Lançamento: 2018
+
+Um assassino (Ethan Hawke) ganha uma segunda chance quando seu empregador o traz de volta à vida temporariamente, logo após ter sido morto no trabalho. Ele ganha então 24 horas para realizar sua missão e se redimir.</info>
+ 
+<genre>Ação, Ficção científica, Thriller, Mistério</genre>
+ 
+<date>07/06/2018</date>
+</item>"
+"<item>
+
+<title>Um Lugar Silencioso [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMLGRSLNCOSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6138.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6138.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Ficção científica
+Lançamento: 2018
+
+Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
+ 
+<genre>Terror, Drama, Ficção científica</genre>
+ 
+<date>05/04/2018</date>
+</item>"
+"<item>
+
+<title>Um Robô em Curto Circuito [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMRBEMCRTCTO1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6176.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6176.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ficção científica
+Lançamento: 1986
+
+Atingido por um raio, o robô conhecido apenas como ""Número 5"" escapa de uma empresa de eletrônica experimental. Newton Crosby (Steve Guttenberg) e seu assistente Ben Jabituya (Fisher Stevens) são convocados para tentar localizá-lo. Nº 5 encontra a ecologista Stephanie Speck (Ally Sheedy), esperando ensinar tudo para o ""alienígena"", ela preenche o banco de memória de Nº 5 com cultura pop e é aí que começa a confusão. Filme também conhecido pelo título, O Incrível Robô.</info>
+ 
+<genre>Comédia, Família, Ficção científica</genre>
+ 
+<date>09/05/1986</date>
+</item>"
+"<item>
+
+<title>Um Robô em Curto Circuito 2 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMRBEMCRTCTO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6177.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6177.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ficção científica, Drama
+Lançamento: 1988
+
+""Número 5"", também chamado ""Johnny 5"", o incrível e adorável robô em curto circuito, está de volta nesta acelerada comédia de ação que vai deixar a cidade de cabeça para baixo. O curioso Johnny 5 sai para um reconhecimento da cidade, mas alguns vadios de rua, um banqueiro ganancioso e uma gangue de pilantras percebem sua inocência e vêem sua passagem de alta tecnologia para faturar. Será que Johnny 5 vai sobreviver à grande cidade e esses escroques? Fique conectado neste filme de alta voltagem para saber a resposta.</info>
+ 
+<genre>Comédia, Família, Ficção científica, Drama</genre>
+ 
+<date>06/07/1988</date>
+</item>"
+"<item>
+
+<title>Uma Dobra no Tempo [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/UMDOBRNTEMP.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6214.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6214.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Família, Fantasia
+Lançamento: 2018
+
+Os irmãos Meg (Storm Reid) e Charles (Deric McCabe) decidem reencontrar o pai, um cientista que trabalha para o governo e está desaparecido desde que se envolveu em um misterioso projeto. Eles contarão com a ajuda do colega Calvin (Levi Miller) e de três excêntricas mulheres em uma ousada jornada por diferentes lugares do universo.</info>
+ 
+<genre>Aventura, Ficção científica, Família, Fantasia</genre>
+ 
+<date>29/03/2018</date>
+</item>"
+"<item>
+
+<title>Uma Noite de Crime [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTDCRM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6244.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6244.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Terror, Thriller
+Lançamento: 2013
+
+Nos Estados Unidos, uma lei permite toda e qualquer atividade ilegal por 12 horas. Nesta noite de crime, conhecida como A Purificação, a família de James Sandin, que vive dos lucros das vendas de equipamentos de segurança domiciliar, tenta sobreviver ao ser encurralada em sua própria casa.</info>
+ 
+<genre>Ficção científica, Terror, Thriller</genre>
+ 
+<date>06/06/2013</date>
+</item>"
+"<item>
+
+<title>Valerian e a Cidade dos Mil Planetas [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VLRIANEACDEDSMLPLNT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6289.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6289.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação
+Lançamento: 2017
+
+Século XXVIII. Valérian é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline, por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
+ 
+<genre>Aventura, Ficção científica, Ação</genre>
+ 
+<date>10/08/2017</date>
+</item>"
+"<item>
+
+<title>Venom [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VENOM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6320.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6320.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação
+Lançamento: 2018
+
+O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie</info>
+ 
+<genre>Ficção científica, Ação</genre>
+ 
+<date>05/10/2018</date>
+</item>"
+"<item>
+
+<title>Veronica 2030 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRNC2030AMQNDPRZR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6509.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica
+Lançamento: 1999
+
+O ano é 2030 e dois cientistas, Felix e Maxine, estão prestes a lançar no mercado sua última criação, Veronica, um andróide do prazer totalmente funcional. Infelizmente, a interferência prematura de um colega faz com que Veronica seja enviada de volta ao ano de 1998. Lá ela conhece Harry Horner e se torna uma modelo de lingerie para ajudar seu enfermo negócio de fetiche por catálogo. Logo Camilla, a competidora de Harry, descobre sobre Verônica e a rouba para fazer Verônica trabalhar para ela. Eventualmente, os dois cientistas localizam Veronica e viajam de volta a 1998 em uma tentativa de resgatá-la. Harry e os cientistas combinam forças e resgatam Veronica das garras de Camilla. Veronica faz do negócio de Harry um sucesso e ele consegue vendê-lo para um comprador interessado. Veronica e Harry se apaixonaram e ela decide ficar em 1998 junto com os dois cientistas!</info>
+ 
+<genre>Ficção científica</genre>
+ 
+<date>02/02/1999</date>
+</item>"
+"<item>
+
+<title>Viagem 2: A Ilha Misteriosa [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGM2AILHMSTOSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6335.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6335.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica
+Lançamento: 2012
+
+Sean capta uma mensagem codificada vinda de uma ilha misteriosa localizada em um ponto onde não deveria haver nada. Um lugar com formas de vida estranhas, montanhas de ouro, vulcões mortais e diversos segredos surpreendentes. Sem conseguir impedi-lo de ir, o novo padrasto de Sean parte com ele na viagem. Junto ao piloto do helicóptero e de sua linda e determinada filha, eles partem em busca da ilha para resgatar seu único habitante e escapar antes que ondas sísmicas levem a ilha para o fundo do oceano, enterrando seus tesouros para sempre.</info>
+ 
+<genre>Aventura, Ação, Ficção científica</genre>
+ 
+<date>10/02/2012</date>
+</item>"
+"<item>
+
+<title>Viagem ao Centro da Terra: O Filme [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIGMAOCNTRDTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6336.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6336.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Comédia, Família
+Lançamento: 2008
+
+Trevor Anderson (Brendan Fraser) é um cientista cujas teorias não são bem aceitas pela comunidade científica. Decidido a descobrir o que aconteceu com seu irmão Max (Jean Michel Paré), que simplesmente desapareceu, ele parte para a Islândia juntamente com seu sobrinho Sean (Josh Hutcherson) e a guia Hannah (Anita Briem). Entretanto em meio à expedição eles ficam presos em uma caverna e, na tentativa de deixar o local, alcançam o centro da Terra. Lá eles encontram um exótico e desconhecido mundo perdido.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Comédia, Família</genre>
+ 
+<date>11/07/2008</date>
+</item>"
+"<item>
+
+<title>Viagem Insólita [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VGMINSLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6339.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6339.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Ficção científica
+Lançamento: 1987
+
+Tuck Pendleton (Dennis Quaid), um piloto de teste da Marinha, se ofereceu para uma experiência médica altamente perigosa: um submarino com Tuck no comando foi encolhido até o tamanho molecular, para ser inserido no corpo de um coelho vivo. Se bem sucedido, o teste poderá resultar em inovações radicais em técnicas cirúrgicas. Entretanto, alguns ladrões tentam roubar Tuck e o submarino enquanto ambos estavam miniaturizados e, por acidente, Tuck e o submarino acabam sendo injetados no corpo de Jack Putter (Martin Short), um amável balconista hipocondríaco. Assim, Jack tem de lidar com coisas que nunca mexeu na vida para tentar salvar Tuck.</info>
+ 
+<genre>Ação, Comédia, Ficção científica</genre>
+ 
+<date>30/06/1987</date>
+</item>"
+"<item>
+
+<title>Victor Frankenstein [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VCTFRNKSTEN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6347.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6347.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ficção científica, Thriller
+Lançamento: 2015
+
+Ao visitar um circo, o cientista Victor Frankenstein (James McAvoy) encontra um jovem corcunda (Daniel Radcliffe) que lá trabalha como palhaço. Após a bela Lorelei (Jessica Brown Findlay) cair do trapézio, o corcunda sem nome consegue salvar sua vida graças aos conhecimentos de anatomia humana que possui. Impressionado com o feito, Victor o resgata do circo e o leva para sua própria casa. Lá lhe dá um nome, Igor, e também uma vida que jamais sonhou, de forma que possa ajudá-lo no grande objetivo de sua vida: criar vida após a morte.</info>
+ 
+<genre>Drama, Ficção científica, Thriller</genre>
+ 
+<date>26/11/2015</date>
+</item>"
+"<item>
+
+<title>Vida [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6349.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6349.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica, Thriller
+Lançamento: 2017
+
+Um time de cientistas a bordo da Estação Espacial Internacional cuja missão de descoberta se transforma em medo puro quando eles encontram uma forma de vida em desenvolvimento que causou a extinção da vida em Marte e agora ameaça a tripulação e a vida na Terra.</info>
+ 
+<genre>Terror, Ficção científica, Thriller</genre>
+ 
+<date>20/04/2017</date>
+</item>"
+"<item>
+
+<title>Vidro [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VDRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6355.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6355.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Ficção científica
+Lançamento: 2019
+
+Kevin Crumb, um homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn. O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price, que manipula seus encontros e guarda segredos sobre os dois.</info>
+ 
+<genre>Thriller, Drama, Ficção científica</genre>
+ 
+<date>17/01/2019</date>
+</item>"
+"<item>
+
+<title>Vingadores Confidencial: Viúva Negra & Justiceiro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OSVGNDSCNFDCLVIVNGREJSTCRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4713.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4713.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ficção científica, Ação
+Lançamento: 2014
+
+O Justiceiro é levado sob custódia para S.H.I.E.L.D. depois de ter interferido em uma missão secreta. Para se redimir, Nick Fury o envia para combater a organização Leviatã, que roubou uma tecnologia da agência e pretende vende-la, ao lado da Viúva Negra.</info>
+ 
+<genre>Animação, Ficção científica, Ação</genre>
+ 
+<date>30/10/2014</date>
+</item>"
+"<item>
+
+<title>Vingadores: Era de Ultron [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VNGDRSEDURON.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6360.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6360.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Baseado em Quadrinho
+Lançamento: 2015
+
+Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>23/04/2015</date>
+</item>"
+"<item>
+
+<title>Vingadores: Guerra Infinita [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6361.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6361.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2018
+
+Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>26/04/2018</date>
+</item>"
+"<item>
+
+<title>Vingadores: Ultimato [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VNGDRSULTMTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6362.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6362.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ficção científica, Ação, Baseado em Quadrinho
+Lançamento: 2019
+
+Após os eventos devastadores de ""Vingadores: Guerra Infinita"", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
+ 
+<genre>Aventura, Ficção científica, Ação, Baseado em Quadrinho</genre>
+ 
+<date>25/04/2019</date>
+</item>"
+"<item>
+
+<title>Viral [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6376.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6376.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Ficção científica
+Lançamento: 2016
+
+Emma (Sofia Black-D'Elia) e sua irmã levam uma vida normal em um pequena cidade, ao menos até um vírus começar a se espalhar. Com a cidade em quarentena, os pais das garotas ficam presos do outro lado da barreira. Elas passam a viver de fast food e festas, mas, quando o vírus começa a atingir pessoas que elas conhecem, as duas se unem com o vizinho Evan (Travis Tope), paixão secreta de Emma, e fazem um barricada em sua casa. Porém pode ser tarde, pois o vírus já está entre eles.</info>
+ 
+<genre>Drama, Terror, Ficção científica</genre>
+ 
+<date>18/02/2016</date>
+</item>"
+"<item>
+
+<title>Virus [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VRUS1999.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6381.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6381.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Ficção científica
+Lançamento: 1999
+
+Após perder sua carga, que afundou em tempestade, o navio ""Sea Star"" procura refúgio no centro do furacão, na tentativa de fazer reparos. Lá descobrem um navio russo para pesquisa científicas com equipamentos de última geração mas que, aparentemente, foi abandonado. Robert Everton (Donald Sutherland), o capitão do ""Sea Star"" vê uma oportunidade de ganhar muito dinheiro, pois a recompensa para um navio de tal porte seria de 30 milhões de dólares. No entanto, a navegadora Kit Foster (Jamie Lee Curtis) e o engenheiro chefe Steve Baker (William Baldwin) não acreditam, que tudo será tão simples e estavam certos, pois uma força misteriosa começa a eliminar todos os membros da tripulação.</info>
+ 
+<genre>Terror, Ação, Ficção científica</genre>
+ 
+<date>14/01/1999</date>
+</item>"
+"<item>
+
+<title>Vírus [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6382.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6382.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Terror, Ficção científica, Thriller
+Lançamento: 2010
+
+Um vírus mortal se espalhou por todo o planeta, fazendo com que ninguém seja confiável. Danny (Lou Taylor Pucci) e seu irmão Brian (Chris Pine), Bobby (Piper Perabo) e Kate (Emily VanCamp) percorrem as estradas do oeste americano, rumo a uma praia isolada ligada à infância dos irmãos. Eles acreditam que lá estarão seguros. Só que no caminho o carro quebra, o que faz com que fiquem à beira de uma estrada abandonada. Logo eles encontram um carro estacionado, onde um homem precisa de ajuda para conseguir uma cura para sua filha, que está infectada. É o início de uma jornada onde eles precisam enfrentar não apenas o vírus mortal, mas também a desconfiança existente entre eles em uma luta desesperada para sobreviver.</info>
+ 
+<genre>Ação, Drama, Terror, Ficção científica, Thriller</genre>
+ 
+<date>01/03/2010</date>
+</item>"
+"<item>
+
+<title>Viveiro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VIVRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6386.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6386.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Terror, Mistério
+Lançamento: 2020
+
+Quando o casal de noivos Tom (Jesse Eisenberg) e Gemma (Imogen Poots), à procura da casa perfeita para começar a vida juntos, conhecem um estranho corretor imobiliário, eles não pensam duas vezes quando são apresentados à Yonder, uma misteriosa vizinhança suburbana de casas idênticas. No entanto, logo eles vão perceber que estão presos em um pesadelo, tendo que criar uma criança de outro mundo.</info>
+ 
+<genre>Ficção científica, Terror, Mistério</genre>
+ 
+<date>11/03/2020</date>
+</item>"
+"<item>
+
+<title>Vizinhos Imediatos de 3° Grau [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VIZNHIMDATS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6389.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6389.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Ficção científica, Mistério
+Lançamento: 2012
+
+Quatro amigos formam um grupo de vigilância do bairro. Equipados, levam sua missão a sério. Mas quando descobrem que alienígenas vivem entre eles e ninguém acredita, precisam agir sozinhos para salvar o mundo.</info>
+ 
+<genre>Ação, Comédia, Ficção científica, Mistério</genre>
+ 
+<date>07/09/2012</date>
+</item>"
+"<item>
+
+<title>Volcano - A Fúria [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VOLVNAFURIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6397.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6397.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Drama, Thriller
+Lançamento: 1997
+
+Em Los Angeles surge um desconhecido vulcão ativo, causando grande destruição e criando um rio de lava que atravessa as ruas, aniquilando tudo que surge no seu caminho. Assim, se decide se criar uma barreira que desvie a lava para o mar, antes que mais pessoas sejam mortas.</info>
+ 
+<genre>Ficção científica, Ação, Drama, Thriller</genre>
+ 
+<date>25/04/1997</date>
+</item>"
+"<item>
+
+<title>WALL-E [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WLLE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6407.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6407.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Ficção científica
+Lançamento: 2008
+
+Em um distante futuro, um pequeno robô coletor de lixo embarca em uma jornada espacial que acabará por decidir o destino da humanidade.</info>
+ 
+<genre>Animação, Família, Ficção científica</genre>
+ 
+<date>27/06/2008</date>
+</item>"
+"<item>
+
+<title>Watchmen: O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WTCHMNOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6411.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6411.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Mistério, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Um de seus antigos colegas é assassinado, e o vigilante mascarado Rorschach decide investigar um plano para matar e desacreditar todos os super-heróis do passado e do presente. À medida que ele se reconecta com sua antiga legião de combate ao crime, um grupo desorganizado de super-heróis aposentados, dentre os quais somente um possui verdadeiros poderes, Rorschach vislumbra uma ampla e perturbadora conspiração que está ligada ao passado deles e a catastróficas consequências para o futuro.</info>
+ 
+<genre>Ação, Mistério, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>06/03/2009</date>
+</item>"
+"<item>
+
+<title>Waterworld: O Segredo das Águas [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WATRWRLD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6413.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6413.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1995
+
+Em meados do terceiro milênio, em razão do derretimento das calotas polares, a Terra se tornou um lugar sem terra sólida e a população vive em barcos ou em ilhas artificiais. Neste contexto, um ser anfíbio (Kevin Costner) vive comercializando tudo que é possível, inclusive terra pura e, após ser preso injustamente, é libertado por uma comerciante (Jeanne Tripplehorn) que exige que ele a leve embora e junto com eles uma garota (Tina Majorino), que tem nas costas o mapa para se chegar a Terraseca, o único local com terra firme. Mas o chefe (Dennis Hopper) de uma gangue resolve persegui-los, pois também deseja encontrar este local.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>22/09/1995</date>
+</item>"
+"<item>
+
+<title>Westworld - Onde Ninguém Tem Alma [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WSTWLDONDNGMTMALMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste
+Lançamento: 1973
+
+Num resort futurista, visitantes ricos podem visitar recriações de diferentes períodos da história e realizar suas fantasias mais selvagens com androides super realistas. Mas quando Richard Benjamin opta pelo velho oeste, acaba recebendo mais do que esperava quando um androide pistoleiro enlouquece.</info>
+ 
+<genre>Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste</genre>
+ 
+<date>15/08/1973</date>
+</item>"
+"<item>
+
+<title>Wolverine: Imortal [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN06.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2013
+
+Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>26/07/2013</date>
+</item>"
+"<item>
+
+<title>Xanadu [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/XNDU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6440.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6440.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ficção científica, Romance
+Lançamento: 1980
+
+Uma bela musa inspira um artista e seu amigo mais velho a converter um auditório dilapidado em um luxuoso clube de patinação.</info>
+ 
+<genre>Fantasia, Ficção científica, Romance</genre>
+ 
+<date>08/08/1980</date>
+</item>"
+"<item>
+
+<title>X-Men 2 [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6433.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6433.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho
+Lançamento: 2003
+
+Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>27/04/2003</date>
+</item>"
+"<item>
+
+<title>X-Men Origens: Wolverine [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN04.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6434.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6434.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.</info>
+ 
+<genre>Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>30/04/2009</date>
+</item>"
+"<item>
+
+<title>X-Men: Apocalipse [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMENAPCLPSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6435.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6435.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Fantasia, Baseado em Quadrinho
+Lançamento: 2016
+
+Apocalipse, o primeiro mutante de todos, consegue retornar à vida após milhares de anos. Agora, ele sai à procura de seguidores para dominar o mundo. Caberá aos X-Men se unirem para impedir os planos do vilão e evitar uma catástofre mundial.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>19/05/2016</date>
+</item>"
+"<item>
+
+<title>X-Men: Dias de um Futuro Esquecido [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN07.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6436.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6436.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2014
+
+Convencido de que os mutantes são uma ameaça para a humanidade, o Dr. Bolivar Trask desenvolve os Sentinelas, gigantescos robôs, que os perseguem impiedosamente. Os poucos sobreviventes têm que viver escondidos. Entre eles está Wolverine, que viaja no tempo, rumo aos anos 1970, a fim de impedir que este futuro trágico para os mutantes se torne realidade.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>22/05/2014</date>
+</item>"
+"<item>
+
+<title>X-Men: Fênix Negra [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/XMENFNXNGRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6437.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6437.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2019
+
+Ambientado em 1992, Charles Xavier (James McAvoy) está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey (Sophie Turner).</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>06/06/2019</date>
+</item>"
+"<item>
+
+<title>X-Men: O Confronto Final [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN03.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6438.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6438.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho
+Lançamento: 2006
+
+A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho</genre>
+ 
+<date>26/05/2006</date>
+</item>"
+"<item>
+
+<title>X-Men: O Filme [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN01.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6432.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6432.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Ficção científica, Baseado em Quadrinho
+Lançamento: 2000
+
+Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.</info>
+ 
+<genre>Aventura, Ação, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>18/08/2000</date>
+</item>"
+"<item>
+
+<title>X-Men: Primeira Classe [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN05.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6439.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6439.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Baseado em Quadrinho
+Lançamento: 2011
+
+No início dos anos 1960, durante o auge da Guerra Fria, um mutante chamado Charles Xavier conhece um mutante chamado Erik Lehnsherr. Apesar de suas origens muito diferentes - Charles cresceu em uma família rica enquanto Erik perdeu seus pais em Auschwitz -, os dois se tornam grandes amigos. Enquanto o mundo oscila à beira de uma guerra nuclear, Charles e Erik unem forças com outros mutantes para salvar a humanidade. No entanto, um acontecimento separa os dois amigos.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>03/06/2011</date>
+</item>"
+"<item>
+
+<title>Yu-Gi-Oh! O Filme: Pirâmide de Luz [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer01/videos/539c897b.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6450.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6450.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Animação, Ação, Comédia, Thriller, Ficção científica, Família
+Lançamento: 2004
+
+Na cronologia da série de anime, o filme se passa entre as sagas ""Cidade das Batalhas"" e ""Lacre de Orichalcos"". Quando o garoto Yugi Muto conseguiu montar o quebra-cabeça do Enigma do Milênio, ele libertou um antigo Faraó, mas uma coisa que ele nunca soube é que, juntamente com o faraó, ele libertou Anúbis, o Deus Egípcio da Morte.</info>
+ 
+<genre>Aventura, Fantasia, Animação, Ação, Comédia, Thriller, Ficção científica, Família</genre>
+ 
+<date>03/09/2004</date>
+</item>"
+"<item>
+
+<title>Zathura: Uma Aventura Espacial [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6458.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6458.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Ficção científica, Aventura, Comédia
+Lançamento: 2006
+
+Após encontrarem um jogo no porão, os irmãos Walter (Josh Hutcherson) e Danny (Jonah Bobo) decidem jogá-lo. Só que não esperavam que o jogo fizesse com que sua casa fosse magicamente arrancada da Terra, ficando vagando pelo espaço.</info>
+ 
+<genre>Família, Fantasia, Ficção científica, Aventura, Comédia</genre>
+ 
+<date>13/01/2006</date>
+</item>"
+"<item>
+
+<title>Zoe [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6468.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6468.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Romance, Thriller
+Lançamento: 2018
+
+A trama explora a história de amor proibido entre Zoe (Lea Seydoux) e seu colega Cole (Ewan McGregor), em um centro de pesquisa avançada que combinam os humanos com seus pares ideais – incluindo formas de vida conhecidas como os “sintéticos”.</info>
+ 
+<genre>Ficção científica, Romance, Thriller</genre>
+ 
+<date>19/07/2018</date>
+</item>"
+"<item>
+
+<title>Zona Fria [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZNFRIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6471.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6471.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura
+Lançamento: 2017
+
+Uma tempestade gelada está chegando. Ninguém podia prever. Uma família deve lutar pela sobrevivência nessa zona gelada.</info>
+ 
+<genre>Ficção científica, Aventura</genre>
+ 
+<date>16/05/2017</date>
+</item>"
+"<item>
+
+<title>Zona Futura / Polícia do Futuro 2: Exterminador [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ZNAFTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6472.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6472.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Ficção científica
+Lançamento: 1990
+
+O filho de John Tucker viaja no tempo 30 anos para salvar seu pai de ser morto por bandidos que ele está perseguindo em 1990.</info>
+ 
+<genre>Ação, Crime, Ficção científica</genre>
+ 
+<date>18/07/1990</date>
+</item>"
+"<item>
+
+<title>Zoom: Academia de Super-Heróis [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ZOMACDMDSPRHRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6476.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6476.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Comédia, Aventura, Ação, Ficção científica
+Lançamento: 2006
+
+Jack (Tim Allen) é, hoje em dia, um homem comum, mas costumava ser o Capitão Zoom. Agora, ele deve relembrar sua época de super-herói para ajudar um grupo de crianças a resgatar seus instintos heroicos.</info>
+ 
+<genre>Família, Comédia, Aventura, Ação, Ficção científica</genre>
+ 
+<date>11/08/2006</date>
+</item>"
+"<item>
+
+<title>Zoombies [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ZMBIS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6477.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6477.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Terror
+Lançamento: 2016
+
+Quando um estranho vírus se espalha por um Safari Park, todos os animais do zoológico se transformam em zumbis. Agora, aqueles que sobraram devem parar as criaturas antes que elas escapem e contaminem a cidade inteira.</info>
+ 
+<genre>Ficção científica, Ação, Terror</genre>
+ 
+<date>29/04/2016</date>
+</item>"
+org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Ação, Aventura, Ficção científica, Fantasia
 Lançamento: 2015
