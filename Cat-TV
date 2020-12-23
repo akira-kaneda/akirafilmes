@@ -304,6 +304,25 @@ A líder de torcida naturalmente talentosa Ava é um sucesso instantâneo em sua
 </item>"
 "<item>
 
+<title>A Vingança da Babá [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACNGCDBABA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6516.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6516.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2017
+
+Stella Armstrong contrata Blake, uma babá aparentemente perfeita, para ajudar com seus filhos gêmeos, apenas para descobrir que a jovem é a filha que ela deu para adoção ao nascer – um ato que Blake quer vingar destruindo a vida e a família de Stella.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>01/07/2017</date>
+</item>"
+"<item>
+
 <title>A Vingança da Noiva [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/AVNGCDNVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -396,6 +415,25 @@ Danny tem 14 anos e vive aprontando. Pouco antes do Natal, seus pais decidem dei
 <genre>Cinema TV, Família</genre>
  
 <date>07/12/2001</date>
+</item>"
+"<item>
+
+<title>Acredite em Mim: A História de Lisa Mcvey [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACRDTEMNAHSTRDLSAMCVY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6517.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6517.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Drama
+Lançamento: 2018
+
+Na noite em que planeja tirar a própria vida, uma garota de 17 anos é sequestrada e se vê lutando para se manter viva. Ela consegue convencer seu agressor a libertá-la, mas quando ela volta para casa ninguém acredita em sua história, exceto por um detetive, que suspeita que ela tenha sido sequestrada por um serial killer. Filme feito para a TV. Baseado em eventos reais.</info>
+ 
+<genre>Cinema TV, Drama</genre>
+ 
+<date>30/09/2018</date>
 </item>"
 "<item>
 
@@ -1636,6 +1674,25 @@ Natalie (Katharine McPhee) e Nick (Mike Vogel) estão frustrados com a sua sorte
 </item>"
 "<item>
 
+<title>Encontro Criminoso [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENCTRCRMNSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6540.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6540.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Thriller
+Lançamento: 2019
+
+Gina e sua filha adolescente Kelsey se mudam para uma nova cidade para que Kelsey possa estudar em uma escola melhor. É o início do último ano - o que significa novas festas para participar e novos amigos para fazer.</info>
+ 
+<genre>Cinema TV, Thriller</genre>
+ 
+<date>01/07/2019</date>
+</item>"
+"<item>
+
 <title>Entre Amores e Cores [COLOR yellow][IMDb 6,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ENTRAMRSECRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2659,6 +2716,25 @@ Depois de se transferir a uma nova escola, onde seu pai é professor de inglês,
 <genre>Drama, Thriller, Cinema TV</genre>
  
 <date>12/06/2018</date>
+</item>"
+"<item>
+
+<title>Minha Babá é Uma Vampira: O Filme [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MNHBEBEUMVMPROFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6499.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6499.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Família, Fantasia, Cinema TV, Terror
+Lançamento: 2012
+
+Os pais do adolescente Ethan Morgan (Matthew Knight) resolvem contratar uma babá para cuidar do menino e sua irmã mais nova Jane. A escolhida é Erica (Kate Todd), uma menina que decide deixar o serviço para ir em uma festa. Sarah (Vanessa Morgan) assume o lugar da garota, mas Ethan começa a desconfiar que ela é uma vampira. Ao lado do melhor amigo, ele vai viver uma aventura muito perigosa.</info>
+ 
+<genre>Aventura, Comédia, Família, Fantasia, Cinema TV, Terror</genre>
+ 
+<date>25/06/2012</date>
 </item>"
 "<item>
 
@@ -3955,6 +4031,25 @@ Um talentoso aspirante a músico tem uma família que não o deixa correr atrás
 </item>"
 "<item>
 
+<title>Raízes no Surf [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RZSNSRF.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6504.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6504.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Romance, Cinema TV
+Lançamento: 2000
+
+Sydney Miller e seu pai visitam sua terra natal: uma ilha no Havaí. Lá ela descobre que herdou grande parte da terra da ilha, antes considerada ""Domínio Público"", e que uma cadeia hoteleira pretende comprar essa área e proibir que surfistas a usem. Conforme Sydney fica sabendo mais sobre sua mãe e sobre seu passado, ela estreita seu relacionamento com seu pai, conhece pessoas diferentes, faz amigos, aprende a surfar e encontra sua força interior através desse esporte. Ela precisa, então, decidir se venderá a terra ou não.</info>
+ 
+<genre>Drama, Família, Romance, Cinema TV</genre>
+ 
+<date>22/04/2000</date>
+</item>"
+"<item>
+
 <title>Rastros de Vingança [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/RSTRSDVNGCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4636,6 +4731,25 @@ Uma comédia-aventura em que três crianças de doze anos têm um encontro próx
 <genre>Comédia, Família, Terror, Cinema TV</genre>
  
 <date>25/10/1997</date>
+</item>"
+"<item>
+
+<title>Um Conto de Natal [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMCNTDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6506.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6506.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Fantasia, Cinema TV, Família
+Lançamento: 1984
+
+Um senhor amargo e miserável revive momentos de sua vida para avaliar seus erros.</info>
+ 
+<genre>Drama, Fantasia, Cinema TV, Família</genre>
+ 
+<date>09/10/1984</date>
 </item>"
 "<item>
 
