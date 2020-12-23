@@ -1239,6 +1239,25 @@ Aladdin e Jasmine finalmente decidem se casar mas, antes, ele deverá impedir qu
 </item>"
 "<item>
 
+<title>Albert [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ALBRT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6493.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6493.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família
+Lançamento: 2016
+
+Albert é a história de um pequeno abeto de Douglas chamado Albert, que sonha em se tornar a árvore de Natal mais famosa de Empire City. Quando a busca pela árvore deste ano é anunciada, Albert acredita que encontrou sua vocação e pega a estrada com seus dois melhores amigos, Maisie, a árvore de plam persistentemente positiva, e Gene, a erva daninha abrasiva e extremamente honesta, para cumprir seu destino. Com algumas situações difíceis ao longo do caminho, e Cactus Pete tentando impedi-lo, Albert aprende o verdadeiro significado do Natal.</info>
+ 
+<genre>Animação, Família</genre>
+ 
+<date>29/10/2016</date>
+</item>"
+"<item>
+
 <title>Alice no País das Maravilhas [COLOR yellow][IMDb 7,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/ALCNPASDSMARLVHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4264,6 +4283,25 @@ Em um mundo transformado, no qual as criaturas não dependiam mais da magia para
 </item>"
 "<item>
 
+<title>Doug: O Filme [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOUGOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6510.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6510.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 1999
+
+Doug e seu amigo Skeeter saíram para encontrar o monstro do lago Lucky Duck. Embora as coisas fiquem realmente fora de controle quando alguém deixa escapar que o monstro é real.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
+ 
+<date>26/03/1999</date>
+</item>"
+"<item>
+
 <title>Doutor Estranho [COLOR yellow][IMDb 6,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/DOTRESTNHO2007.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4663,6 +4701,25 @@ Quando um golpe dá terrivelmente errado e deixa as crianças do bairro furiosas
 </item>"
 "<item>
 
+<title>Duck Tales, O Filme: O Tesouro da Lâmpada Perdida [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DCKTLSOTSRODLMPDPRDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6494.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6494.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Comédia, Fantasia
+Lançamento: 1990
+
+O multimilionário Tio Patinhas vai embarcar numa aventura no Egito com seus sobrinhos-netos Huguinho, Zezinho e Luizinho. Lá há um gigantesco tesouro escondido e uma lâmpada mágica perdida, onde vive um poderoso gênio adormecido. Porém, a ambição de Patinhas terá de enfrentar os planos do maligno Merlock, que também deseja colocar as mãos nessa fortuna.</info>
+ 
+<genre>Aventura, Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>03/08/1990</date>
+</item>"
+"<item>
+
 <title>Duda e os Gnomos [COLOR yellow][IMDb 5,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/DUDEOSGNMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4755,6 +4812,25 @@ Após salvar o reino encantado de Avalor de uma feiticeira malvada a Princesa El
 <genre>Fantasia, Animação, Família, Cinema TV</genre>
  
 <date>20/11/2016</date>
+</item>"
+"<item>
+
+<title>Elliot: Uma História de Natal [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ELTUMHSTRDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6538.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6538.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura
+Lançamento: 2018
+
+A veterana rena Blitzen anuncia seu plano de se aposentar em 21 de dezembro. Com isso, Elliot, um cavalo miniatura, tem três dias para realizar o seu sonho de ganhar um lugar no trenó do Papai Noel.</info>
+ 
+<genre>Animação, Família, Aventura</genre>
+ 
+<date>08/11/2018</date>
 </item>"
 "<item>
 
@@ -5059,6 +5135,25 @@ O bandido mais procurado do reino, Flynn Rider, se esconde em uma torre e imedia
 <genre>Animação, Família</genre>
  
 <date>07/01/2011</date>
+</item>"
+"<item>
+
+<title>Era Uma Vez um Boneco de Neve [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ERUMVZUMBNCODNVE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Fantasia
+Lançamento: 2020
+
+Os primeiros passos de Olaf conforme ele ganha vida e busca sua identidade nas montanhas nevadas dos arredores de Arendelle.</info>
+ 
+<genre>Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>18/12/2020</date>
 </item>"
 "<item>
 
@@ -7092,6 +7187,25 @@ Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na pra
 <genre>Animação, Comédia, Família, Mistério</genre>
  
 <date>11/07/2017</date>
+</item>"
+"<item>
+
+<title>LEGO Star Wars: Especial de Festas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
+Lançamento: 2020
+
+Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>04/12/2020</date>
 </item>"
 "<item>
 
@@ -9604,6 +9718,25 @@ O curta conta com Tio Patinhas no papel de Ebenezer Scrooge, um velho egoísta e
 </item>"
 "<item>
 
+<title>O Natal do Zé Coleta [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ONTLDZCLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família
+Lançamento: 2020
+
+Papai Noel tem que fazer um pouso forçado e cabe a Hank, Zé Coleta e os amigos animais ajudar a salvar o Natal de todos.</info>
+ 
+<genre>Animação, Aventura, Família</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
 <title>O Natal dos Flinstones [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/NTLDSFLSTNS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9772,6 +9905,25 @@ Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com s
 <genre>Animação, Comédia, Família</genre>
  
 <date>30/03/2017</date>
+</item>"
+"<item>
+
+<title>O Presente de Natal de Angela [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRSNTDNTLDANGLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação
+Lançamento: 2020
+
+Com o pai trabalhando na Austrália, a pequena Ângela bola um plano para realizar seu grande desejo: reunir a família no Natal.</info>
+ 
+<genre>Animação</genre>
+ 
+<date>01/12/2020</date>
 </item>"
 "<item>
 
@@ -13197,6 +13349,25 @@ No final do século XVII em pleno Oeste norte-americano vive Spirit, um cavalo q
 </item>"
 "<item>
 
+<title>Spycies: Agentes Selvagens [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SYCSAGNTSLVGNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6569.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6569.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Ação, Aventura, Família
+Lançamento: 2020
+
+Spycies Agentes Especiais acompanha dois agentes secretos, um gato veterano rebelde e um rato novato que gosta de assistir televisão e jogar videogame. Juntos, eles formarão uma dupla totalmente improvável para investigar o roubo de um objeto secreto e descobrir o que os bandidos realmente desejam.</info>
+ 
+<genre>Animação, Comédia, Ação, Aventura, Família</genre>
+ 
+<date>17/09/2020</date>
+</item>"
+"<item>
+
 <title>Star Wars: A Guerra dos Clones [COLOR yellow][IMDb 8,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/STRWRSUMGLXDIVDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -14870,6 +15041,25 @@ Dois meninos são surpreendidos com o sumiço de um de seus melhores amigos. Des
 </item>"
 "<item>
 
+<title>Vombate ao Combate [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VMBTAOCMBT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6575.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6575.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Comédia
+Lançamento: 2020
+
+Em uma versão divertida e peluda do clássico conto do ¿recluso que se torna herói relutante¿; Maggie Diggins, uma vombate transformada em Mulher-Maravilha, involuntariamente se torna a super-heroína da cidade depois de salvar a contragosto um super-herói novato Petauro-do-açúcar de destruição certa.</info>
+ 
+<genre>Animação, Ação, Comédia</genre>
+ 
+<date>15/10/2020</date>
+</item>"
+"<item>
+
 <title>Wallace e Gromit - A Batalha dos Vegetais [COLOR yellow][IMDb 7,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/WLCEGRMTABTLGHDSVGNTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -14962,6 +15152,25 @@ Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapal
 <genre>Família, Animação, Comédia, Aventura</genre>
  
 <date>03/01/2019</date>
+</item>"
+"<item>
+
+<title>Wolfwalkers [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WLFWLKRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Fantasia, Família
+Lançamento: 2020
+
+A chegada de um caçador de lobos a uma cidadezinha irlandesa é o começo de uma grande aventura para Robyn, quando ela conhece na floresta uma menina com um estranho dom.</info>
+ 
+<genre>Aventura, Animação, Fantasia, Família</genre>
+ 
+<date>26/10/2020</date>
 </item>"
 "<item>
 
