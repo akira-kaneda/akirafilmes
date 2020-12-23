@@ -1924,6 +1924,25 @@ Após se divorciar de Nancy (Tess Harper), um cético repórter, John Baxter (To
 </item>"
 "<item>
 
+<title>Uma História de Natal [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMHSTRIADNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6508.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1983
+
+Nos anos 40, Ralphie é um garotinho que sonha em ganhar uma bela espingarda vermelha de presente de Natal. A todo custo, tenta convencer seus pais superprotetores que esse é o presente ideal, mas ninguém parece querer ouvi-lo, e por vários motivos a espingarda torna-se um presente cada vez mais distante para ele.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>18/11/1983</date>
+</item>"
+"<item>
+
 <title>Os Caçadores de Atlântida [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/OSCADRSDATLD.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2609,6 +2628,25 @@ Após tentar se suicidar, Salieri (F. Murray Abraham) confessa a um padre que fo
 </item>"
 "<item>
 
+<title>Um Conto de Natal [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMCNTDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6506.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6506.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Fantasia, Cinema TV, Família
+Lançamento: 1984
+
+Um senhor amargo e miserável revive momentos de sua vida para avaliar seus erros.</info>
+ 
+<genre>Drama, Fantasia, Cinema TV, Família</genre>
+ 
+<date>09/10/1984</date>
+</item>"
+"<item>
+
 <title>Era uma Vez na América [COLOR yellow][IMDb 8,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/ERAUMAVZNAMRCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2758,6 +2796,25 @@ A bordo da nave Leonov, uma tripulação que reúne americanos e soviéticos, es
 <genre>Thriller, Ficção científica</genre>
  
 <date>06/12/1984</date>
+</item>"
+"<item>
+
+<title>Papai Noel Existe [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PAPINELEXTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6502.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6502.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 1984
+
+Pólo Norte, na época do Natal. Uma companhia de petróleo procura um grande lençol petrolífero, mas para isto vai provocar uma explosão que poderá destruir a casa secreta do Papai Noel (Art Carney). A mulher de um engenheiro toma consciência da situação ao conversar com o bom velhinho e pretende fazer todo o possível para ajudá-lo.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>13/12/1984</date>
 </item>"
 "<item>
 
@@ -3464,6 +3521,25 @@ Uma vampira com 400 anos, a Condessa (Lauren Hutton), está tendo um problema: p
 </item>"
 "<item>
 
+<title>O Natal Mágico [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ONTLMGCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6501.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6501.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia
+Lançamento: 1985
+
+Ginny Grainger (Mary Steenburgen) é uma mulher amarga e que acalenta poucos sonhos. As dificuldades econômicas, o trabalho como caixa no supermercado e as diferenças com o marido ocupam toda sua atenção. Com a chegada do Natal, ela insiste em convencer os filhos de que Papai-Noel não existe. Mas isso não é o que eles pensam. Em especial sua pequena filha Abbie, principalmente depois que é visitada por um anjo que tem a missão de fazer Ginny redescobrir o espírito do Natal.</info>
+ 
+<genre>Família, Fantasia</genre>
+ 
+<date>22/11/1985</date>
+</item>"
+"<item>
+
 <title>Caravana da Coragem 2 - A Batalha de Endor [COLOR yellow][IMDb 5,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/CRVNDCRGMABTLHENDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4165,6 +4241,25 @@ As tropas romanas invadem a Bretanha em mais uma etapa na sua fase de conquistas
 <genre>Família, Animação, Aventura, Comédia</genre>
  
 <date>03/12/1986</date>
+</item>"
+"<item>
+
+<title>Três Amigos! [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TRSAMGS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6505.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Faroeste, Aventura
+Lançamento: 1986
+
+""Steve Martin, Chevy Chase e Martin Short são tres loucos e rebeldes cavaleiros nesta comédia de aventura que é um verdadeiro festival de risadas. Co-estrelando Phil Hartman. Jon Lovitz e Joe Mantegna, Três Amigos! abre o caminho para a redefinição das fronteiras da comédia! Quando uma pequena vila mexicana é aterrorizada por um conhecido fora-da-lei, uma jovem desesperada decide chamar os únicos heróis que ela conhece: os legendários Três Amigos! Conhecidos por todos como intrépidos defensores da liberdade, estes corajosos vaqueiros de fato não passam de atores de cinema. Outrora famosos por seus filmes faroeste, hoje eles estão desempregados. E embora as únicas lutas de que já participaram na vida tenham acontecido apenas nos sets de filmagem, quando os criminosos atacam, os Três Amigos! descobrem que os bandidos e as balas de suas armas são bem reais!</info>
+ 
+<genre>Comédia, Faroeste, Aventura</genre>
+ 
+<date>12/12/1986</date>
 </item>"
 "<item>
 
@@ -6125,6 +6220,25 @@ O soldado americano Frank Dux vai a Hong Kong para ser aceito no Kumite, uma com
 <genre>Ação</genre>
  
 <date>09/12/1988</date>
+</item>"
+"<item>
+
+<title>João e Maria [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JAOEMRIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6579.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6579.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia
+Lançamento: 1988
+
+A aventura dos irmãos João e Maria, filhos de um pobre lenhador, que um dia se perdem na floresta e encontram uma casa feita de doces e biscoitos. Mas o que eles não sabem é que lá vive uma bruxa que engorda crianças, para depois comê-las!</info>
+ 
+<genre>Família, Fantasia</genre>
+ 
+<date>10/12/1988</date>
 </item>"
 "<item>
 
