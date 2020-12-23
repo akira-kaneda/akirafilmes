@@ -36,3 +36,22 @@ No pós-guerra, de Hong Kong, o lendário Wing Chun Ip Man mestre é relutanteme
  
 <date>20/09/2013</date>
 </item>"
+"<item>
+
+<title>Ip Man: O Mestre do Kung Fu [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/IPMNOMSTRDKNGFU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6549.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6549.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama
+Lançamento: 2019
+
+A promissora carreira de Ip Man como policial é arruinada depois que ele é acusado de assassinato e visado pela filha de um chefe da máfia.</info>
+ 
+<genre>Ação, Drama</genre>
+ 
+<date>23/12/2019</date>
+</item>"
