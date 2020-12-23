@@ -570,6 +570,25 @@ Kate (Olivia Wilde) e Luke (Jake Johnson) são funcionários de uma fábrica de 
 </item>"
 "<item>
 
+<title>Um Brinde ao Natal [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMBRNDAONTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6573.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6573.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Um filho de fazendeiros que nunca pegou no pesado se passa por trabalhador rural para convencer uma pequena produtora a vender suas terras antes do Natal.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>14/12/2020</date>
+</item>"
+"<item>
+
 <title>Um Cachorro Para Dois [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/UMCHROPRDS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -586,6 +605,25 @@ A história é centrada em um casal que está se divorciando e que estão lutand
 <genre>Comédia, Romance</genre>
  
 <date>06/10/2016</date>
+</item>"
+"<item>
+
+<title>Um Casamento a Mais [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMCSMNTAMS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6574.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6574.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2019
+
+Mara é uma fotógrafa no auge de sua juventude e não acredita que um dia irá se casar. No entanto, logo após começar um novo relacionamento ela é convidada não só para um, mas quinze casamentos no mesmo anos. Depois de conhecer uma grande quantidade de bem casados, Mara se sente pressionada e precisa decidir quais são os seus objetivos em relação a sua vida amorosa.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>20/09/2019</date>
 </item>"
 "<item>
 
@@ -681,6 +719,25 @@ As histórias de um feroz monstro capturador de ratos está aterrorizando o mund
 <genre>Aventura, Fantasia, Animação, Mistério, Família</genre>
  
 <date>25/07/2000</date>
+</item>"
+"<item>
+
+<title>Um Conto de Natal [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMCNTDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6506.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6506.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Fantasia, Cinema TV, Família
+Lançamento: 1984
+
+Um senhor amargo e miserável revive momentos de sua vida para avaliar seus erros.</info>
+ 
+<genre>Drama, Fantasia, Cinema TV, Família</genre>
+ 
+<date>09/10/1984</date>
 </item>"
 "<item>
 
@@ -985,6 +1042,25 @@ Prendergast (Robert Duvall), um policial em seu último dia de trabalho pois vai
 <genre>Crime, Drama, Thriller</genre>
  
 <date>23/05/1993</date>
+</item>"
+"<item>
+
+<title>Um Dia de Louco [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMDIADLCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6519.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 1994
+
+É véspera de Natal na Lifelines , um serviço telefônico de ajuda psiquiátrica de Venice Beach, na Califórnia. O gerente Philip (Steve Martin) acaba de saber que o proprietário do imóvel o está despejando e, de repente, tudo ao redor do local parece tão em crise quanto os pacientes que estão entupindo as linhas telefônicas. Durante toda a madrugada, os personagens envolvidos - como a tímida Catherine (Rita Wilson) e a grávida Gracie (Juliette Lewis) - aprendem que o Natal pode ser um período feliz, sem a necessidade de preocupações com seu estado mental. Da mesma diretora de Sintonia de Amor, Norma Ephron.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>21/12/1994</date>
 </item>"
 "<item>
 
@@ -2185,6 +2261,25 @@ Quando uma jovem, que está no último ano do ensino médio, descobre que ela n�
 </item>"
 "<item>
 
+<title>Um Pedido De Natal [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMPDODNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6507.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6507.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Drama, Comédia
+Lançamento: 1991
+
+Os irmãos Ethan e Hallie O'Fallon gostariam que a mãe divorciada voltasse para o pai, Michael. Na véspera do Natal, eles trancam o namorado da mãe em um caminhão de sorvetes e o despacham para Nova Jersey para que a mãe pense que ele sumiu sem avisar. O plano dá certo, pois o pai está por perto para se aproveitar da situação.</info>
+ 
+<genre>Família, Drama, Comédia</genre>
+ 
+<date>08/11/1991</date>
+</item>"
+"<item>
+
 <title>Um Pequeno Favor [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/UMPQNOFVOR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2752,6 +2847,25 @@ Um Vampiro Mentiroso – Davis (Rahart Adams), um garoto com manias estranhas, c
 <genre>Comédia</genre>
  
 <date>12/10/2015</date>
+</item>"
+"<item>
+
+<title>Um Verão Para Recordar [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMVRPRCDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6577.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6577.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família
+Lançamento: 2020
+
+As alunas de um acampamento de equitação descobrem que o professor tem uma queda pela ajudante do rancho, mas é muito tímido para chamá-la para sair. Então, elas resolvem unir-se para ajudar os pombinhos e acabam construindo uma forte amizade.</info>
+ 
+<genre>Família</genre>
+ 
+<date>11/01/2020</date>
 </item>"
 "<item>
 
@@ -3360,6 +3474,25 @@ Jace é um garoto cego que está tendo problemas para se adaptar à nova escola 
 <genre>Cinema TV, Drama, Família</genre>
  
 <date>24/03/2004</date>
+</item>"
+"<item>
+
+<title>Uma História de Natal [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMHSTRIADNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6508.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1983
+
+Nos anos 40, Ralphie é um garotinho que sonha em ganhar uma bela espingarda vermelha de presente de Natal. A todo custo, tenta convencer seus pais superprotetores que esse é o presente ideal, mas ninguém parece querer ouvi-lo, e por vários motivos a espingarda torna-se um presente cada vez mais distante para ele.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>18/11/1983</date>
 </item>"
 "<item>
 
@@ -5377,6 +5510,44 @@ Olivia, Lucas e um grupo de amigos viajam ao México como uma despedida antes da
 </item>"
 "<item>
 
+<title>Veronica 2030 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRNC2030AMQNDPRZR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6509.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica
+Lançamento: 1999
+
+O ano é 2030 e dois cientistas, Felix e Maxine, estão prestes a lançar no mercado sua última criação, Veronica, um andróide do prazer totalmente funcional. Infelizmente, a interferência prematura de um colega faz com que Veronica seja enviada de volta ao ano de 1998. Lá ela conhece Harry Horner e se torna uma modelo de lingerie para ajudar seu enfermo negócio de fetiche por catálogo. Logo Camilla, a competidora de Harry, descobre sobre Verônica e a rouba para fazer Verônica trabalhar para ela. Eventualmente, os dois cientistas localizam Veronica e viajam de volta a 1998 em uma tentativa de resgatá-la. Harry e os cientistas combinam forças e resgatam Veronica das garras de Camilla. Veronica faz do negócio de Harry um sucesso e ele consegue vendê-lo para um comprador interessado. Veronica e Harry se apaixonaram e ela decide ficar em 1998 junto com os dois cientistas!</info>
+ 
+<genre>Ficção científica</genre>
+ 
+<date>02/02/1999</date>
+</item>"
+"<item>
+
+<title>Veronica Mars [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRNCMRSOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6512.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6512.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Crime
+Lançamento: 2014
+
+Veronica Mars (Kristen Bell) está de volta à Neptune para a reunião dos antigos alunos da escola. Ela reencontra seu ex-namorado Logan Echolls (Jason Dohring) e, após dez anos sem trabalhar como investigadora, aceita um novo caso. Logan, mais uma vez, está com problemas e precisa da ajuda de Veronica para provar que não está envolvido na morte da sua namorada, uma celebridade. Continuação da série Veronica Mars.</info>
+ 
+<genre>Comédia, Drama, Crime</genre>
+ 
+<date>14/03/2014</date>
+</item>"
+"<item>
+
 <title>Verônica: Jogo Sobrenatural [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/VRNCA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6726,6 +6897,25 @@ Dois meninos são surpreendidos com o sumiço de um de seus melhores amigos. Des
 </item>"
 "<item>
 
+<title>Vombate ao Combate [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VMBTAOCMBT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6575.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6575.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Comédia
+Lançamento: 2020
+
+Em uma versão divertida e peluda do clássico conto do ¿recluso que se torna herói relutante¿; Maggie Diggins, uma vombate transformada em Mulher-Maravilha, involuntariamente se torna a super-heroína da cidade depois de salvar a contragosto um super-herói novato Petauro-do-açúcar de destruição certa.</info>
+ 
+<genre>Animação, Ação, Comédia</genre>
+ 
+<date>15/10/2020</date>
+</item>"
+"<item>
+
 <title>Voo 7500 [COLOR yellow][IMDb 4,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/VOO7500.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6856,6 +7046,25 @@ Depois de uma tragédia ocorrer em sua nova casa, Daniel escuta um pedido de soc
 <genre>Drama, Terror, Thriller</genre>
  
 <date>24/07/2020</date>
+</item>"
+"<item>
+
+<title>Vozes que Inspiram [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VZQINSPRM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6578.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6578.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2020
+
+O documentário Vozes que Inspiram segue a vida de seis estudantes em busca do desenvolvimento de suas performances individuais, visando a anual August Wilson Monologue Competition, onde milhares de estudantes competem visando uma oportunidade de atuar na Broadway.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>11/12/2020</date>
 </item>"
 "<item>
 
@@ -7293,6 +7502,25 @@ Liz Hunter (Cassandra Magrath) e Kristy Earl (Kestie Morassi) são duas mochilei
 <genre>Terror, Thriller</genre>
  
 <date>01/01/2005</date>
+</item>"
+"<item>
+
+<title>Wolfwalkers [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WLFWLKRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Fantasia, Família
+Lançamento: 2020
+
+A chegada de um caçador de lobos a uma cidadezinha irlandesa é o começo de uma grande aventura para Robyn, quando ela conhece na floresta uma menina com um estranho dom.</info>
+ 
+<genre>Aventura, Animação, Fantasia, Família</genre>
+ 
+<date>26/10/2020</date>
 </item>"
 "<item>
 
@@ -8339,3 +8567,994 @@ O Zumbilênio é um parque de diversões como nenhum outro: Somente legítimos l
  
 <date>31/12/2018</date>
 </item>"
+ 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VSTSNTRNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6383.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6383.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Cinema TV
+Lançamento: 2017
+
+Michelle Miller é uma sonâmbula crônica. Uma noite, ela caminha até a casa de seu vizinho Luke enquanto sua esposa está fora da cidade. Eles acabam passando a noite juntos, apesar de Michelle estar inconsciente. Toda noite, ela passeia pelas ruas, visitando a vizinhança e causando muitos problemas.</info>
+ 
+<genre>Drama, Cinema TV</genre>
+ 
+<date>16/07/2017</date>
+</item>"
+"<item>
+
+<title>Visões do Passado [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VSOESDPSDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6384.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6384.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2015
+
+O psicólogo Peter Bower e sua esposa decidem retornar a Melbourne, na Austrália, lugar onde se conheceram, para tentar começar uma vida nova e deixar o evento traumático que marcou suas vidas para sempre no passado: a morte de sua filha de 12 anos em um trágico acidente. Uma vez instalados na cidade, Bower recebe a ajuda do Dr. Duncan, que realiza uma triagem de pacientes e os encaminha para o consultório do psicólogo como uma forma de Bower retornar ao trabalho mais facilmente. Quando tudo parecia se acertar, quando a vida parecia voltar aos trilhos, Bower descobre um terrível elo entre alguns de seus pacientes que o obriga a retornar a sua cidade natal e a confrontar um dilema que só ele pode solucionar.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>25/07/2015</date>
+</item>"
+"<item>
+
+<title>Viva - A Vida é uma Festa [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VIVAAVDEUMFST.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6385.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6385.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Aventura, Fantasia, Música
+Lançamento: 2018
+
+O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.</info>
+ 
+<genre>Animação, Família, Comédia, Aventura, Fantasia, Música</genre>
+ 
+<date>04/01/2018</date>
+</item>"
+"<item>
+
+<title>Viveiro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VIVRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6386.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6386.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Terror, Mistério
+Lançamento: 2020
+
+Quando o casal de noivos Tom (Jesse Eisenberg) e Gemma (Imogen Poots), à procura da casa perfeita para começar a vida juntos, conhecem um estranho corretor imobiliário, eles não pensam duas vezes quando são apresentados à Yonder, uma misteriosa vizinhança suburbana de casas idênticas. No entanto, logo eles vão perceber que estão presos em um pesadelo, tendo que criar uma criança de outro mundo.</info>
+ 
+<genre>Ficção científica, Terror, Mistério</genre>
+ 
+<date>11/03/2020</date>
+</item>"
+"<item>
+
+<title>Vivendo o Agora [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VNDOAGRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6387.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6387.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama
+Lançamento: 2016
+
+Jeppe, um jovem de 17 anos, se apaixona por Cecilie, mas quando ela é diagnosticada com câncer, os dois tentam aproveitar o máximo de suas vidas juntos, enquanto ainda há tempo.</info>
+ 
+<genre>Romance, Drama</genre>
+ 
+<date>04/05/2016</date>
+</item>"
+"<item>
+
+<title>Viver Duas Vezes [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VIVRDSVZS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6388.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6388.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2019
+
+Quando Emilio (Oscar Martínez) é diagnosticado com Alzheimer, ele e sua família resolvem partir em busca do seu amor de infância.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>06/09/2019</date>
+</item>"
+"<item>
+
+<title>Vizinhos Imediatos de 3° Grau [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VIZNHIMDATS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6389.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6389.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Ficção científica, Mistério
+Lançamento: 2012
+
+Quatro amigos formam um grupo de vigilância do bairro. Equipados, levam sua missão a sério. Mas quando descobrem que alienígenas vivem entre eles e ninguém acredita, precisam agir sozinhos para salvar o mundo.</info>
+ 
+<genre>Ação, Comédia, Ficção científica, Mistério</genre>
+ 
+<date>07/09/2012</date>
+</item>"
+"<item>
+
+<title>Vizinhos Nada Secretos [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VZNHSNDSCRTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6390.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6390.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 2016
+
+Um casal suburbano se envolve em uma trama de espionagem internacional quando descobre que seus aparentemente perfeitos novos vizinhos são agentes secretos.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>21/10/2016</date>
+</item>"
+"<item>
+
+<title>Voando Alto [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/VONDOALT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6391.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6391.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família, Comédia
+Lançamento: 2019
+
+O pequeno Manou passou a vida inteira acreditando que era uma gaivota, quando na realidade ele é filho de um casal de andorinhas. Enquanto tenta aprender a voar, ele percebe que nunca será capaz de alçar grandes voos e foge de casa. Mas quando os animais correm perigo de vida a uma nova ameaça, só ele será capaz de salvar o dia.</info>
+ 
+<genre>Animação, Aventura, Família, Comédia</genre>
+ 
+<date>25/01/2019</date>
+</item>"
+"<item>
+
+<title>Você Acredita? [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VCACRDT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6392.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6392.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Drama
+Lançamento: 2015
+
+Um pastor encontra por acaso um mendigo que prega a palavra de Deus pelas ruas e decide colocar a sua fé em ação, ajudando diversas pessoas. Logo a vida de uma dezena de indivíduos se cruza, fazendo com que todos descubram o poder da cruz de Cristo.</info>
+ 
+<genre>Fantasia, Drama</genre>
+ 
+<date>20/03/2015</date>
+</item>"
+"<item>
+
+<title>Você Já Esteve Na Lua? [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VCJAESTVNLUA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6393.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6393.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2015
+
+Giulia is thirty years old and unmarried. She has a good job which allows her to travel and lead a luxurious life in Milan and Paris. She is convinced that she has everything she needs for happiness, but after meeting Renzo, a charming Apulian farmer, Giulia understands that she's missing the most important thing in her life - true love.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>22/01/2015</date>
+</item>"
+"<item>
+
+<title>Você Já Foi à Bahia? [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VCJFOABHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6394.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6394.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Música
+Lançamento: 1945
+
+Pato Donald recebe uma grande caixa no dia de seu aniversário, trazendo três presentes. O primeiro traz um projetor de cinema, contendo um filme sobre aves da América do Sul. O segundo contém um livro sobre o Brasil, que o leva à Bahia ao lado de Zé Carioca. O terceiro tem uma piñata, acompanhada de Panchito. Com os amigos, Donald vive aventuras no Brasil e no México.</info>
+ 
+<genre>Animação, Família, Música</genre>
+ 
+<date>04/02/1945</date>
+</item>"
+"<item>
+
+<title>Você Nunca Esteve Realmente Aqui [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VCNUCESTVRELMTAKI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6395.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6395.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2018
+
+Um homem, veterano de guerra, ganha a vida resgatando mulheres presas em cativeiros trabalhando como escravas sexuais. Após uma missão mal sucedida em um bordel de Manhattan, a opinião pública se torna contra ele e uma onda de violência se abate na região.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>06/04/2018</date>
+</item>"
+"<item>
+
+<title>Você Quer Saber um Segredo? [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VCQRSBRUMSGRDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6396.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6396.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2001
+
+Seis estudantes chegam e Bayhead Flórida para as férias de primavera. O que começa como uma semana de felicidade total torna-se um pesadelo. Um filme cheio de terror e suspense escondido atrás de uma trama fantástica.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>04/03/2001</date>
+</item>"
+"<item>
+
+<title>Volcano - A Fúria [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VOLVNAFURIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6397.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6397.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Drama, Thriller
+Lançamento: 1997
+
+Em Los Angeles surge um desconhecido vulcão ativo, causando grande destruição e criando um rio de lava que atravessa as ruas, aniquilando tudo que surge no seu caminho. Assim, se decide se criar uma barreira que desvie a lava para o mar, antes que mais pessoas sejam mortas.</info>
+ 
+<genre>Ficção científica, Ação, Drama, Thriller</genre>
+ 
+<date>25/04/1997</date>
+</item>"
+"<item>
+
+<title>Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VLTAOMNDEM80DS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6398.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6398.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2005
+
+Phileas Fogg, inventor que vive na Inglaterra vitoriana, é desafiado por outro inventor a dar a volta ao mundo em 80 dias. Em sua jornada, ele é acompanhando por seu empregado fiel, Passepartout, e por Monique, sua bela navegadora.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>28/01/2005</date>
+</item>"
+"<item>
+
+<title>Voltando do Inferno [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VLTNDINFNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6399.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6399.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Animação, Aventura
+Lançamento: 2015
+
+Dois meninos são surpreendidos com o sumiço de um de seus melhores amigos. Destinados à encontrar o rapaz, eles descobrem algo muito além do que a imaginação deles poderia suspeitar: o amigo havia, acidentalmente, sido sugado por um portal que desemboca no inferno.</info>
+ 
+<genre>Fantasia, Comédia, Animação, Aventura</genre>
+ 
+<date>02/10/2015</date>
+</item>"
+"<item>
+
+<title>Voo 7500 [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VOO7500.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6400.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6400.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Mistério
+Lançamento: 2014
+
+O voo 7500 parte do Aeroporto Internacional de Los Angeles com destino a Tóquio. Ao fazer o seu caminho sobre o Oceano Pacífico durante o seu curso de dez horas, os passageiros encontram o que parece ser uma força sobrenatural na cabine.</info>
+ 
+<genre>Thriller, Terror, Mistério</genre>
+ 
+<date>03/10/2014</date>
+</item>"
+"<item>
+
+<title>Vovó... Zona [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6401.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6401.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia
+Lançamento: 2000
+
+O agente do FBI Malcolm Turner (Martin Lawrence) é duro, inteligente e um mestre dos disfarces. Não há nada em que ele não possa se disfarçar. A mais recente missão de Malcolm é numa pequena cidade sulista, onde ele deve capturar um perigoso assaltante de banco que fugiu recentemente da prisão. Para tanto, Malcolm arma uma tocaia em frente à casa de uma matriarca conhecida como Vovózona, que está para receber a visita da última namorada do ladrão, Sherry, e seu filho. Só que surge um problema: inesperadamente Vovózona deixa a cidade. Para levar adiante seu plano, Malcolm resolve ele mesmo se disfarçar de Vovó para poder capturar o assaltante.</info>
+ 
+<genre>Crime, Comédia</genre>
+ 
+<date>09/06/2000</date>
+</item>"
+"<item>
+
+<title>Vovó... Zona 2 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6402.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6402.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 2006
+
+Após prender um famoso ladrão de bancos, o detetive do FBI Malcolm Turner (Martin Lawrence) precisa mais uma vez se disfarçar como uma senhora idosa. Desta vez Malcolm precisa encontrar o suspeito de espalhar um vírus de computador letal, que pode permitir que inimigos do governo tenham acesso a arquivos confidenciais. Em meio às investigações ele se disfarça para trabalhar como babá na casa do criador do vírus, Tom Fuller (Mark Moses), enfrentando problemas com os filhos dele.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>26/01/2006</date>
+</item>"
+"<item>
+
+<title>Vovó... Zona 3: Tal Pai Tal Filho [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/VOVZNA3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6403.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6403.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia, Ação
+Lançamento: 2011
+
+O jovem Trent (Brandon T. Jakcson) só queria saber de se tornar um rapper, mas seu padrasto, o agente do FBI Malcolm (Martin Lawrence) tem planos mais ambiciosos para ele. Só que o rapaz atrapalhou uma investigação e acabou testemunhando um assassinato. Agora, os dois precisam encontrar um importante pen drive para botar o tal criminoso na cadeia, mas o arquivo está escondido numa escola de artes cênicas somente para garotas. Chegou a hora de Vovózona (Lawrence) entrar em cena e, agora, acompanhada de sua sobrinha-neta Charmaine (Jackson).</info>
+ 
+<genre>Crime, Comédia, Ação</genre>
+ 
+<date>04/03/2011</date>
+</item>"
+"<item>
+
+<title>Vox Lux: O Preço da Fama [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VXLXOPRCDFMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6404.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6404.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2019
+
+Celeste é uma menina que sobrevive após uma grande tragédia, o que a torna conhecida nacionalmente. Após um tempo, ela se lança como cantora e alcança o estrelato.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>28/03/2019</date>
+</item>"
+"<item>
+
+<title>Voyeur [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VYER.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6405.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6405.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2017
+
+Documentário dos diretores Myles Kane e Josh Koury sobre o escritor Gay Talese e sua obra “The Voyeur’s Motel”, que foi transformada em filme. A relação entre o narrador e seu conteúdo, a vida real é o terceiro trilho secreto em toda grande obra de não-ficção. Dirige a criação da história, mas ninguém quer tocar nele. Este filme salta para a violação e conta uma história surpreendente da relação louca, profundamente preocupante, mas ainda assim essencial entre narrador e sujeito.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>01/12/2017</date>
+</item>"
+"<item>
+
+<title>Vozes [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VZES.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5773.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5773.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller
+Lançamento: 2020
+
+Depois de uma tragédia ocorrer em sua nova casa, Daniel escuta um pedido de socorro sinistro e pede a ajuda de um famoso especialista em paranormalidade.</info>
+ 
+<genre>Drama, Terror, Thriller</genre>
+ 
+<date>24/07/2020</date>
+</item>"
+"<item>
+
+<title>Vulcão - O Apocalipse [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/VLCOAPCLPSE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6406.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6406.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação
+Lançamento: 2014
+
+Um ex-comandante das Forças Especiais visita Pompéia, para resgatar sua esposa e sua filha que acabaram ficando presas ali. Durante a visita, o vulcão Vesúvio entra em erupção com uma força terrível, enquanto lutam pela sobrevivência, o ex-comandante, pede ajuda ao seus ex-companheiros que auxiliem na retirada das pessoas, antes que seja tarde demais.</info>
+ 
+<genre>Aventura, Ação</genre>
+ 
+<date>18/02/2014</date>
+</item>"
+"<item>
+
+<title>Wallace e Gromit - A Batalha dos Vegetais [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/WLCEGRMTABTLGHDSVGNTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6408.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6408.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 2005
+
+O bairro onde moram o pacato inventor Wallace (Peter Sallis) e seu fiel cão Gromit está em polvorosa com a proximidade do concurso anual de legumes gigantes, organizado pela bela e solteira Lady Tottington (Helena Bonham Carter). Para proteger as plantações de coelhos famintos, Wallace inventa um equipamento que captura os animais sem machucá-los. O problema é o que fazer com o excesso de coelhos, que não demoram a superpovoar a casa do inventor. A dupla tem ainda de lidar com uma misteriosa fera vegetariana, que está destruindo as plantações à noite. Agora a honra de Wallace está em jogo, pois ele precisa capturá-la antes do arrogante Victor Quartermaine (Ralph Fiennes), que está de olho na fortuna de Lady Tottington.</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>07/10/2005</date>
+</item>"
+"<item>
+
+<title>WALL-E [COLOR yellow][IMDb 8,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WLLE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6407.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6407.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Ficção científica
+Lançamento: 2008
+
+Em um distante futuro, um pequeno robô coletor de lixo embarca em uma jornada espacial que acabará por decidir o destino da humanidade.</info>
+ 
+<genre>Animação, Família, Ficção científica</genre>
+ 
+<date>27/06/2008</date>
+</item>"
+"<item>
+
+<title>Warcraft - O Primeiro Encontro de Dois Mundos [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WARCRFT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6409.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6409.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia
+Lançamento: 2016
+
+A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
+ 
+<genre>Ação, Aventura, Fantasia</genre>
+ 
+<date>02/06/2016</date>
+</item>"
+"<item>
+
+<title>Wasp Network: Rede de Espiões [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WSPNTWRK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6410.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6410.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Thriller
+Lançamento: 2020
+
+Espiões cubanos se infiltram em grupos de exilados para deter o terrorismo contra Cuba. O preço a pagar, porém, é alto. Baseado em uma emocionante história real.</info>
+ 
+<genre>Drama, História, Thriller</genre>
+ 
+<date>29/01/2020</date>
+</item>"
+"<item>
+
+<title>Watchmen: Contos do Cargueiro Negro [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6412.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6412.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Terror, Ação, Baseado em Quadrinho
+Lançamento: 2009
+
+Os temidos piratas do Cargueiro Negro fazem um ataque, deixando somente um sobrevivente. O único marinheiro restante agora precisa lutar para sobreviver. Mas além dos perigos do alto mar, ele deve enfrentar as ameaças de sua própria mente, beirando a loucura e buscando vingança, em meio a solidão e a ansiedade para voltar para casa.</info>
+ 
+<genre>Animação, Terror, Ação, Baseado em Quadrinho</genre>
+ 
+<date>24/03/2009</date>
+</item>"
+"<item>
+
+<title>Watchmen: O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WTCHMNOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6411.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6411.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Mistério, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Um de seus antigos colegas é assassinado, e o vigilante mascarado Rorschach decide investigar um plano para matar e desacreditar todos os super-heróis do passado e do presente. À medida que ele se reconecta com sua antiga legião de combate ao crime, um grupo desorganizado de super-heróis aposentados, dentre os quais somente um possui verdadeiros poderes, Rorschach vislumbra uma ampla e perturbadora conspiração que está ligada ao passado deles e a catastróficas consequências para o futuro.</info>
+ 
+<genre>Ação, Mistério, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>06/03/2009</date>
+</item>"
+"<item>
+
+<title>Waterworld: O Segredo das Águas [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WATRWRLD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6413.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6413.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 1995
+
+Em meados do terceiro milênio, em razão do derretimento das calotas polares, a Terra se tornou um lugar sem terra sólida e a população vive em barcos ou em ilhas artificiais. Neste contexto, um ser anfíbio (Kevin Costner) vive comercializando tudo que é possível, inclusive terra pura e, após ser preso injustamente, é libertado por uma comerciante (Jeanne Tripplehorn) que exige que ele a leve embora e junto com eles uma garota (Tina Majorino), que tem nas costas o mapa para se chegar a Terraseca, o único local com terra firme. Mas o chefe (Dennis Hopper) de uma gangue resolve persegui-los, pois também deseja encontrar este local.</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>22/09/1995</date>
+</item>"
+"<item>
+
+<title>Weevil [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/WEVL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6414.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6414.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2018
+
+Black Mountain National Park has long harboured a strange history, from masses of missing livestock that have wandered onto the mountain to unusual disappearances and reappearances of local townspeople. One such case involved members of the entire Wahldrov family, who were never found. Cassian Wahldrov returns back home to the town of Black Mountain, following the disappearance of his autistic younger brother Manny. Together with his sister Mae, both setout to find him. Their efforts are quickly overshadowed by a strange force that both splits them up and slowly picks them apart.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>11/08/2018</date>
+</item>"
+"<item>
+
+<title>Wendy Wu: A Garota Kung-Fu [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WNDYWUAGRTKNGFU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6415.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6415.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Família, Cinema TV
+Lançamento: 2006
+
+Wendy Wu é uma adolescente com uma vida perfeita: ela é bonita, popular e além disso, é uma das duas candidatas a Rainha do Baile de Outono. Mas toda sua vida muda quando Shen, um monge chinês, lhe conta a verdade impactante: Ela é a reencarnação do guerreiro Yin, que tem como destino lutar contra o malvado Yan Lo. Wendy tem que enfrentar a realidade e aprender suas lições de Kung Fu para derrotar uma das mais poderosas forças do mal!</info>
+ 
+<genre>Ação, Aventura, Família, Cinema TV</genre>
+ 
+<date>16/06/2006</date>
+</item>"
+"<item>
+
+<title>Westworld - Onde Ninguém Tem Alma [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WSTWLDONDNGMTMALMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6416.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste
+Lançamento: 1973
+
+Num resort futurista, visitantes ricos podem visitar recriações de diferentes períodos da história e realizar suas fantasias mais selvagens com androides super realistas. Mas quando Richard Benjamin opta pelo velho oeste, acaba recebendo mais do que esperava quando um androide pistoleiro enlouquece.</info>
+ 
+<genre>Ação, Aventura, Drama, Terror, Ficção científica, Thriller, Faroeste</genre>
+ 
+<date>15/08/1973</date>
+</item>"
+"<item>
+
+<title>Wheelman [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WHRLMN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6417.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6417.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2017
+
+O piloto de fuga de um assalto fracassado coloca suas habilidades à prova quando recebe ordens chocantes por telefone.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>20/10/2017</date>
+</item>"
+"<item>
+
+<title>Wheely - Velozes e Divertidos [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6418.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6418.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Aventura, Comédia
+Lançamento: 2018
+
+Wheely, um pequeno táxi verde e amarelo que sonha em se tornar o Rei da estrada. Para isso, ele precisará provar que é um verdadeiro herói enfrentando os carros de elite e o terrível caminhão de 18 rodas, que comanda o sindicato de carros de luxo da cidade.</info>
+ 
+<genre>Família, Animação, Aventura, Comédia</genre>
+ 
+<date>16/08/2018</date>
+</item>"
+"<item>
+
+<title>Whiplash: Em Busca da Perfeição [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WHPSHEBSCDPFC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6419.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6419.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2015
+
+Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>08/01/2015</date>
+</item>"
+"<item>
+
+<title>White Boy Rick [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WHTBOYRCK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6420.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6420.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 2018
+
+A história de Richard Wershe Jr. (Richie Merritt) que, em meados da década de 1980, quando tinha apenas 14 anos, se tornou um informante disfarçado para a polícia. Depois acabou virando um grande traficante de drogas e, quando tinha 17 anos, sua vida dupla foi desmascarada ao ser pego com 17 quilos de cocaína. Richard foi condenado a prisão perpétua.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>14/09/2018</date>
+</item>"
+"<item>
+
+<title>WiFi Ralph: Quebrando a Internet [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6421.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6421.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Animação, Comédia, Aventura
+Lançamento: 2019
+
+Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos ""cidadãos da Internet"" e de Yess, a alma por trás do ""Buzzztube"", um famoso website que dita tendências.</info>
+ 
+<genre>Família, Animação, Comédia, Aventura</genre>
+ 
+<date>03/01/2019</date>
+</item>"
+"<item>
+
+<title>Wig [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/WIG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6422.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6422.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2019
+
+Explorando as fortes influências do festival anual, Wigstock, responsável por ressignificar a data do fim do verão para toda a comunidade gay de Nova York durante 20 anos, diversos ícones do universo drag aproveitam para analisar as origens do evento e contar suas histórias. Depois de um tempo fora dos holofotes, o Wigstock finalmente retornou no último ano, mais forte do que nunca.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>18/06/2019</date>
+</item>"
+"<item>
+
+<title>Wildling: Criaturas Noturnas [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/SLVGMWDLNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6423.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6423.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Drama, Thriller, Terror
+Lançamento: 2018
+
+Anna (Bel Powley) passou toda a sua infância sob os cuidados de um homem conhecido apenas como Papai (Brad Dourif). Ele a deixa trancada em um sótão, alertando-a sobre o Wildling, um monstro que come crianças e que vive do lado de fora. Aos 16 anos, Anna é resgatada pela xerife da Ellen Cooper (Liv Tyler) e a ajuda a começar uma nova vida como uma adolescente normal. Mas quando o corpo de Anna começa a florescer, seus pesadelos de infância voltam com um desejo de vingança e traz à tona um segredo sombrio.</info>
+ 
+<genre>Fantasia, Drama, Thriller, Terror</genre>
+ 
+<date>13/04/2018</date>
+</item>"
+"<item>
+
+<title>Willow - Na Terra da Magia [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WLWNTRADMAGA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6424.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6424.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia
+Lançamento: 1988
+
+Numa terra mística onde o mágico é real, vive Willow Ufgood (Warwick Davis), um pequeno fazendeiro Nelwin que sonha em ser um feiticeiro. Willow se torna guardião de um bebê pertencente aos Daikinis, guerreiros temidos pelos Nelwin. De acordo com a profecia, a criança deverá destruir a malvada feiticeira Bavmorda (Jean Marsh) e acabar com seu reinado de terror, a menos que a bruxa possa destruir a criança primeiro. Willow começa uma perigosa e fabulosa jornada para manter a criança a salvo, junto a dois duendes, um guerreiro rebelado e um feiticeiro bondoso.</info>
+ 
+<genre>Ação, Aventura, Fantasia</genre>
+ 
+<date>20/05/1988</date>
+</item>"
+"<item>
+
+<title>Wilson [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/WLSN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6425.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6425.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2017
+
+Wilson é um homem de meia-idade, introvertido, solitário, neurótico e hilariantemente honesto. Um dia ele descobre que tem uma filha adolescente que nunca o conheceu. Em sua maneira excepcionalmente ultrajante e ligeiramente torcida, ele vai a seu encontro para se conectar com ela.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>24/03/2017</date>
+</item>"
+"<item>
+
+<title>Wing Chun - Uma Luta Milenar [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6426.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6426.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Ação, Comédia
+Lançamento: 1994
+
+Wing Chun (Michelle Yeoh) é um menina que vive em função de sua família e a espera do príncipe encantado. Porém, tudo muda quando sua amiga é raptada por guerreiros assassinos. Agora, Wing Chu usará sua habilidade para derrotar o poderoso raptor e seus cúmplices.</info>
+ 
+<genre>Romance, Ação, Comédia</genre>
+ 
+<date>24/03/1994</date>
+</item>"
+"<item>
+
+<title>Wishcraft – Feitiço Macabro [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WSHCFTFTCMCBRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6427.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6427.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2002
+
+Ao receber uma caixa pelo correio, Brett Bumpers, não imaginava que sua vida mudaria. A caixa continha um totem que lhe garantiria três desejos. Ele usa o totem para conquistar Samantha. Misteriosos assassinatos começam a acontecer e Brett se torna o principal suspeito. Enquanto a polícia investiga, o jovem vê uma correlação entre seu “poder” e os assassinatos e sentido-se culpado por ter “forçado” a garota a se apaixonar por ele, decide confessar tudo. Mas acaba percebendo que o próximo alvo do assassino é sua própria namorada.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>25/09/2002</date>
+</item>"
+"<item>
+
+<title>Wolf Creek - Viagem ao Inferno [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/WLFCRKVGMAOINFNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6428.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6428.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2005
+
+Liz Hunter (Cassandra Magrath) e Kristy Earl (Kestie Morassi) são duas mochileiras inglesas que estão em meio a uma viagem, juntamente com Ben Mitchell (John Jarratt). Ao chegar no Parque Nacional Wolf Creek, eles observam a paisagem da 2ª maior cratera do mundo. Quando decidem ir embora enfrentam problemas, pois seus relógios e o carro param de funcionar. É quando recebem a ajuda de um caminhoneiro, que passa pelo local e lhes oferece carona. Porém o que eles não contavam é que seriam levados a um acampamento localizado em uma mina abandonada, onde a viagem do trio se transforma em um grande pesadelo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>01/01/2005</date>
+</item>"
+"<item>
+
+<title>Wolverine: Imortal [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN06.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2013
+
+Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.</info>
+ 
+<genre>Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>26/07/2013</date>
+</item>"
+"<item>
+
+<title>Woodlawn: Talento e Fé [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/TLNTEFWODLWN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6430.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6430.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2015
+
+Um jogador de futebol americano luta contra as pressões sociais e raciais para ser bem sucedido. Talentoso, ele aprenderá que terá de se apegar à fé e à sua capacidade para romper as barreiras impostas pelo destino.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>15/10/2015</date>
+</item>"
+"<item>
+
+<title>Wu Kong - Contra a Ira dos Deuses [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WUKNGCNTRAIRDSDES.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6431.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6431.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Aventura
+Lançamento: 2017
+
+Há muitos anos, o Monte Huaguo foi destruído pelo Reino Celestial, a morada dos deuses da mitologia chinesa, deixando Sun Wu Kong, o Rei Macaco, furioso, já que o local era seu lar. Kong está decidido a confrontar aqueles que determinaram seu destino.</info>
+ 
+<genre>Fantasia, Ação, Aventura</genre>
+ 
+<date>13/07/2017</date>
+</item>"
+"<item>
+
+<title>Xanadu [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/XNDU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6440.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6440.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ficção científica, Romance
+Lançamento: 1980
+
+Uma bela musa inspira um artista e seu amigo mais velho a converter um auditório dilapidado em um luxuoso clube de patinação.</info>
+ 
+<genre>Fantasia, Ficção científica, Romance</genre>
+ 
+<date>08/08/1980</date>
+</item>"
+"<item>
+
+<title>Xeque-Mate [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/XQUMTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6441.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6441.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Crime, Mistério
+Lançamento: 2006
+
+Slevin Kelevra (Josh Hartnett) está com vários problemas em sua vida. O prédio onde mora foi condenado, sua carteira de identidade foi roubada e ele recentemente flagrou sua namorada na cama com outro homem. Para escapar ao menos por algum tempo dos problemas, ele consegue emprestado com seu amigo Nick Fisher (Sam Jaeger) um apartamento em Nova York. Paralelamente um plano está sendo tramado no submundo do crime de Nova York. Para se vingar da morte de seu filho, o Chefe (Morgan Freeman) planeja um golpe no filho de seu arquiinimigo, o Rabino (Ben Kingsley). O Chefe contrata Goodkat (Bruce Willis) para executar o plano, que consiste em encontrar um apostador que deva muito dinheiro ao Chefe a ponto de aceitar matar o filho do Rabino para se livrar da dívida. O escolhido é Nick Fisher, o que faz com que Goodkat vá até seu apartamento e confunda Slevin com seu alvo.</info>
+ 
+<genre>Drama, Thriller, Crime, Mistério</genre>
+ 
+<date>15/09/2006</date>
+</item>"
+"<item>
+
+<title>X-Men 2 [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN02.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page>
