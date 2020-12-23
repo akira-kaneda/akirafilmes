@@ -342,6 +342,44 @@ Mia e Mel (Tiffany Haddish e Rose Byrne), duas amigas inseparáveis, são felize
 </item>"
 "<item>
 
+<title>Três Cristos [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TRSCRSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6491.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6491.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+O Dr. Alan Stone (Richard Gere) está tratando três pacientes esquizofrênicos e paranóicos no Hospital Estadual Ypsilanti, em Michigan. No entanto, o inusitado é que cada um deles acredita ser Jesus Cristo.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>10/01/2020</date>
+</item>"
+"<item>
+
+<title>Um Verão Para Recordar [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMVRPRCDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6577.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6577.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família
+Lançamento: 2020
+
+As alunas de um acampamento de equitação descobrem que o professor tem uma queda pela ajudante do rancho, mas é muito tímido para chamá-la para sair. Então, elas resolvem unir-se para ajudar os pombinhos e acabam construindo uma forte amizade.</info>
+ 
+<genre>Família</genre>
+ 
+<date>11/01/2020</date>
+</item>"
+"<item>
+
 <title>Quem com Ferro Fere [COLOR yellow][IMDb 6,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/QMCMFERFRE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -528,6 +566,25 @@ Lançamento: 2020
 Fred Rogers (Tom Hanks) foi o criador de Mister Rogers' Neighborhood, um programa infantil de TV muito popular na década de 1960. Em 1998, Tom Junod (Matthew Rhys), até então um cínico jornalista, aceitou escrever o perfil de Rogers para a revista Esquire. Durante as entrevistas para a materia, Junod mudou não só sua visão em relação ao seu entrevistado como também sua visão de mundo, iniciando uma inspiradora amizade com o apresentador.</info>
  
 <genre>Drama</genre>
+ 
+<date>23/01/2020</date>
+</item>"
+"<item>
+
+<title>Mais Outro Filho [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MSOTROFLHO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6555.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6555.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+A chegada do segundo filho quebra o equilíbrio da vida perfeita de um casal feliz.</info>
+ 
+<genre>Comédia</genre>
  
 <date>23/01/2020</date>
 </item>"
@@ -990,6 +1047,25 @@ Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos pa
 </item>"
 "<item>
 
+<title>Amor de Balada [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMRDBLDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6581.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6581.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Milo trabalha como bartender em Berlim e uma noite conhece sua mulher dos sonhos Sunny através de uma série de coincidências. Os dois se encontram para um encontro, mas a noite romântica perfeita até agora.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>13/02/2020</date>
+</item>"
+"<item>
+
 <title>A Fotografia [COLOR yellow][IMDb 5,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/AFTGRFIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1099,6 +1175,44 @@ Lançamento: 2020
 Zed e Addison estão de volta à Seabrook High, onde, após um semestre inovador, continuam a orientar a escola e a comunidade em direção à unidade. Mas a chegada de um novo grupo de estranhos - lobisomens misteriosos - ameaça abalar a paz recém-descoberta e causa uma fenda no romance de Zed e Addison.</info>
  
 <genre>Música, Romance, Cinema TV</genre>
+ 
+<date>14/02/2020</date>
+</item>"
+"<item>
+
+<title>Como Sair de Buffalo [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMSRDBFLO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6534.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6534.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2020
+
+Peg Dahl, uma golpista de Buffalo, fará de tudo para escapar de sua cidade natal, Buffalo, estado de Nova York, e assim ela chega ao submundo das cobranças de dívidas.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>14/02/2020</date>
+</item>"
+"<item>
+
+<title>Fuga pela Fronteira [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FGAPLFRNTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6546.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6546.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Guerra, Thriller
+Lançamento: 2020
+
+Natal de 1942, os pais de Gerda e Otto são detidos por participação no movimento de resistência norueguês durante a Segunda Guerra. Após a prisão, os irmãos descobrem duas crianças judias escondidas em sua casa. Cabe agora a Gerda e Otto terminar o que seus pais começaram: ajudar Sarah e Daniel a fugir dos nazistas, cruzar a fronteira para a Suécia neutra e reencontrar seus pais.</info>
+ 
+<genre>Família, Guerra, Thriller</genre>
  
 <date>14/02/2020</date>
 </item>"
@@ -1291,6 +1405,25 @@ Adaptação para o cinema da série ""Tirando a Maior Onda"". Sal, Q, Murr e Joe
 <genre>Comédia</genre>
  
 <date>21/02/2020</date>
+</item>"
+"<item>
+
+<title>Kaleb - O Cão Herói [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/KLBOCAOHROI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família
+Lançamento: 2020
+
+Kaleb, um pastor alemão, é separado de sua família judia durante o regime nazista. Ele é adotado por um soldado do serviço secreto e é treinado para fazer guarda nos campos de concentração. Em um desses campos ele reencontra seu antigo dono, agora prisioneiro. Juntos, eles tentam escapar e finalmente alcançar a liberdade.</info>
+ 
+<genre>Família</genre>
+ 
+<date>22/02/2020</date>
 </item>"
 "<item>
 
@@ -1656,6 +1789,25 @@ Spenser, um antigo detective da polícia mais conhecido por criar problemas do q
 </item>"
 "<item>
 
+<title>Fukushima - Ameaça Nuclear [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FKSHMAMCANCLR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6547.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6547.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>06/03/2020</date>
+</item>"
+"<item>
+
 <title>Aluguel de Pesadelo [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/ALGLDPSDLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1899,6 +2051,25 @@ Lançamento: 2020
 Em O Preço da Ajuda, Karen (Michelle Borth) é uma mulher que nunca planejou ser uma heroína. Viúva recente, ela ocupa seu tempo com o emprego e cuidando de seu filho Max. Um dia, Karen salva a vida de Jeremy (Mark Rendall) durante um assalto a uma drogaria. Rapidamente, ela descobre que o rapaz, encantado com ela, pretende retribuir o favor a qualquer custo. À medida que os esforços de Jeremy se tornam mais extremos, Karen começa a se perguntar até onde ele irá com a sua fixação.</info>
  
 <genre>Cinema TV, Thriller</genre>
+ 
+<date>13/03/2020</date>
+</item>"
+"<item>
+
+<title>Big Time Adolescence [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BGTMEADLSCNE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6529.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6529.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Enquanto passa por um forte período de amadurecimento em sua vida, um jovem suburbano conta com as estranhas e destrutivas tentativas de ajuda de seu melhor amigo: um desistente da escola completamente diferente dele. Juntos, eles passam por uma longa jornada de conhecimento interior e percebem que ser adulto é muito mais complicado do que parece.</info>
+ 
+<genre>Comédia</genre>
  
 <date>13/03/2020</date>
 </item>"
@@ -2626,6 +2797,25 @@ Quatro irmãos com pais egoístas fazem um plano para se livrar deles de uma vez
 </item>"
 "<item>
 
+<title>O Caminho de Volta [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCMNHDVLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6582.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6582.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+História sobre o técnico de um time basquete de um colégio de ensino médio que anteriormente foi atleta do mesmo esporte. Por conta de vícios, sua carreira promissora como jogador foi tragicamente ao fim, assim como seu relacionamento com sua esposa e a fundação de sua família. Ao tornar-se treinador do time de escola, o ex-atleta tenta encontrar estímulos para seguir em frente e refazer sua vida.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>23/04/2020</date>
+</item>"
+"<item>
+
 <title>Resgate [COLOR yellow][IMDb 6,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/RSGTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2756,6 +2946,25 @@ Quando seu irmão é morto por um fora da lei, três irmãos Dalton se juntam ao
 <genre>Faroeste</genre>
  
 <date>05/05/2020</date>
+</item>"
+"<item>
+
+<title>Sonhos de Uma Vida [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SNHSDUMVDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6567.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6567.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Leo e Molly têm um relacionamento conflituoso. Molly vive os desafios de lidar com o estado mental caótico de seu pai, mas, à medida que avança pela cidade de Nova York, seu dia assume uma qualidade alucinatória e épica. A jovem descobre que a mente de Leo está fluindo continuamente dentro e fora de várias vidas paralelas</info>
+ 
+<genre>Drama</genre>
+ 
+<date>07/05/2020</date>
 </item>"
 "<item>
 
@@ -3481,6 +3690,25 @@ Depois de sofrer um ferimento grave no Afeganistão, um soldado embarca com seus
 </item>"
 "<item>
 
+<title>O Silenciamento [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/THESLCNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6570.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6570.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2020
+
+Um caçador aposentado vive isolado em um santuário de vida selvagem se envolve em um jogo mortal de gato e rato quando ele e o xerife local partem para rastrear um assassino cruel que pode ter sequestrado sua filha anos atrás.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>18/07/2020</date>
+</item>"
+"<item>
+
 <title>A Princesa Encantada: O Casamento Real [COLOR yellow][IMDb 5,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/APRNCSAENCTDAOCSMNTREAL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3728,6 +3956,25 @@ Uma especialista em redes sociais não consegue parar de pensar no ex. Ainda bem
 </item>"
 "<item>
 
+<title>Cidade da Garganta Cortada [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CDADAGRNTCRTDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6489.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6489.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2020
+
+Quando quatro amigos de infância retornam ao Distrito Lower Ninth, em Nova Orleães, depois do furacão Katrina, eles encontram suas casas destruídas, e as perspectivas de trabalho são inexistentes. Sem alternativas, decidem recorrer a um gângster local, em busca de emprego, e são contratados para assaltar um cassino, no coração da cidade.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>31/07/2020</date>
+</item>"
+"<item>
+
 <title>Super Monstros Turma Nova [COLOR yellow][IMDb 6,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/SPRMNSTRSTRMNVA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3875,6 +4122,25 @@ Lançamento: 2020
 Para ser aceita na Universidade de Duke, a inteligente e desajeitada Quin decide vencer uma competição de dança. Com Sabrina Carpenter.</info>
  
 <genre>Comédia, Música</genre>
+ 
+<date>07/08/2020</date>
+</item>"
+"<item>
+
+<title>O Cobrador de Impostos [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/THETXCLCTR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6490.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6490.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama
+Lançamento: 2020
+
+David e Creeper são coletores de taxas para o chefão do crime chamado Wizard, que pega uma parte dos lucros de todas as operações ilegais de outras gangues. Mas quando um rival de seu chefe retorna para Los Angeles vindo do México, David irá precisar tomar medidas drásticas para proteger sua família.</info>
+ 
+<genre>Ação, Crime, Drama</genre>
  
 <date>07/08/2020</date>
 </item>"
@@ -4470,6 +4736,25 @@ Lançamento: 2020
 </item>"
 "<item>
 
+<title>Spycies: Agentes Selvagens [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SYCSAGNTSLVGNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6569.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6569.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Ação, Aventura, Família
+Lançamento: 2020
+
+Spycies Agentes Especiais acompanha dois agentes secretos, um gato veterano rebelde e um rato novato que gosta de assistir televisão e jogar videogame. Juntos, eles formarão uma dupla totalmente improvável para investigar o roubo de um objeto secreto e descobrir o que os bandidos realmente desejam.</info>
+ 
+<genre>Animação, Comédia, Ação, Aventura, Família</genre>
+ 
+<date>17/09/2020</date>
+</item>"
+"<item>
+
 <title>Cura Fatal [COLOR yellow][IMDb 2,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/CRAFTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4603,6 +4888,44 @@ Uma mulher que treina cavalos policiais quer mais um filho e então adota uma cr
 </item>"
 "<item>
 
+<title>Ava [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6528.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6528.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2020
+
+Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>25/09/2020</date>
+</item>"
+"<item>
+
+<title>Rogue Warfare 3: A Morte de uma Nação [COLOR yellow][IMDb 3,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RGUWRFR3AMRTEDUMNCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6564.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2020
+
+A Organização máscara negra coordena uma trama distorcida que vai devastar o mundo nas próximas 36 horas. A EQUIPE é imediatamente despachada novamente para o que será, esperançosamente, a última posição contra o 'Líder Supremo'. À medida que o relógio marca, a bomba também e eles precisam contra-atacar o núcleo do grupo terrorista. A equipe deve jogar suas vidas em risco, pois é a única maneira de desativar as armas perigosas que estão prestes a explodir em todo o mundo ao mesmo tempo. Cada soldado deve encontrar sua força interior e habilidade para desarmar este grupo terrorista de uma vez por todas.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>25/09/2020</date>
+</item>"
+"<item>
+
 <title>Os Rapazes da Banda [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/OSRPZSDBND.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4617,6 +4940,25 @@ Lançamento: 2020
 Nova York, 1968. Um grupo de amigos gays se reúnem para comemorar um de seus aniversários, mas tem a noite interrompida quando o colega de quarto potencialmente enrustido do anfitrião aparece sem ser convidado, desenterrando verdades secretas e feridas antigas.</info>
  
 <genre>Drama</genre>
+ 
+<date>30/09/2020</date>
+</item>"
+"<item>
+
+<title>Agentes Vanguard [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AGNTSVGND.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6521.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6521.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime
+Lançamento: 2020
+
+A empresa de segurança secreta Vanguard é a última esperança de sobrevivência para um contador, depois que ele é alvo da organização mercenária mais mortal do mundo.</info>
+ 
+<genre>Ação, Aventura, Crime</genre>
  
 <date>30/09/2020</date>
 </item>"
@@ -4788,6 +5130,25 @@ Lançamento: 2020
 Depois de perder sua esposa e sua memória em um acidente de carro, um pai solteiro passa por um tratamento experimental agonizante que faz com que ele questione quem ele realmente é.</info>
  
 <genre>Terror, Ficção científica, Thriller</genre>
+ 
+<date>06/10/2020</date>
+</item>"
+"<item>
+
+<title>Guerra Sem Fim: A Espada é a Lei [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/GUERASMFMAESPDAEALEI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6548.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6548.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 2020
+
+O Império Romano ocupou a Britânia (hoje, Grã-Bretanha) por quatro séculos, fornecendo proteção e paz em troca de submissão. Mesmo antes da chegada do Cristianismo, eles erradicaram muito da religião nativa, mas alguns druidas sobreviveram em um santuário escondido no Ocidente. Os romanos construíram a Muralha de Adriano na fronteira norte para impedir a entrada dos pictos, guerreiros ferozes e misteriosos que se pintavam de azul. No século 5, entretanto, os romanos partiram, deixando os britânicos sozinhos, sob a liderança do rei Vortigern, para se defenderem dos invasores.</info>
+ 
+<genre>Ação, Aventura</genre>
  
 <date>06/10/2020</date>
 </item>"
@@ -5022,6 +5383,25 @@ Ambientado no final do século XIX, a Guerra das Correntes, que foi uma disputa 
 </item>"
 "<item>
 
+<title>Vombate ao Combate [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VMBTAOCMBT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6575.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6575.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Comédia
+Lançamento: 2020
+
+Em uma versão divertida e peluda do clássico conto do ¿recluso que se torna herói relutante¿; Maggie Diggins, uma vombate transformada em Mulher-Maravilha, involuntariamente se torna a super-heroína da cidade depois de salvar a contragosto um super-herói novato Petauro-do-açúcar de destruição certa.</info>
+ 
+<genre>Animação, Ação, Comédia</genre>
+ 
+<date>15/10/2020</date>
+</item>"
+"<item>
+
 <title>A Caminho da Lua [COLOR yellow][IMDb 6,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/ACMNHDLUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5136,6 +5516,25 @@ Em tempos apocalípticos de fome, uma peça num hotel com jantar incluído atrai
 </item>"
 "<item>
 
+<title>Wolfwalkers [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WLFWLKRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Fantasia, Família
+Lançamento: 2020
+
+A chegada de um caçador de lobos a uma cidadezinha irlandesa é o começo de uma grande aventura para Robyn, quando ela conhece na floresta uma menina com um estranho dom.</info>
+ 
+<genre>Aventura, Animação, Fantasia, Família</genre>
+ 
+<date>26/10/2020</date>
+</item>"
+"<item>
+
 <title>Amor com Data Marcada [COLOR yellow][IMDb 6,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/AMRCMDTAMRCDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5169,6 +5568,25 @@ Lançamento: 2020
 French e Sue têm 48 horas para cobrar três dívidas enquanto fogem de um criminoso em busca de vingança.</info>
  
 <genre>Ação, Comédia, Crime</genre>
+ 
+<date>29/10/2020</date>
+</item>"
+"<item>
+
+<title>Tenet [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TNET.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6572.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6572.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2020
+
+Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
  
 <date>29/10/2020</date>
 </item>"
@@ -5345,6 +5763,63 @@ De volta à sua cidade natal nos Apalaches, um estudante de direito reflete sobr
 </item>"
 "<item>
 
+<title>Ludo [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LUDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia
+Lançamento: 2020
+
+Ludo é sobre o efeito borboleta e como, apesar de todo o caos e multidão do mundo, todas as nossas vidas estão inextricavelmente conectadas. De uma fita de sexo ressurgida a uma mala de dinheiro velhaca, quatro histórias totalmente diferentes se sobrepõem aos caprichos do destino, do acaso e de um criminoso excêntrico.</info>
+ 
+<genre>Crime, Comédia</genre>
+ 
+<date>12/11/2020</date>
+</item>"
+"<item>
+
+<title>Mank [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MANK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6554.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6554.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Drama
+Lançamento: 2020
+
+A Hollywood da década de 1930 é vista pelo olhar crítico do roteirista Herman J. Mankiewicz, em meio aos seus esforços para terminar o roteiro de Cidadão Kane.</info>
+ 
+<genre>História, Drama</genre>
+ 
+<date>13/11/2020</date>
+</item>"
+"<item>
+
+<title>Blind – Eu Estou Aqui [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BLNDEUESTAQ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6530.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6530.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror
+Lançamento: 2020
+
+Após ficar cega por causa de uma operação nos olhos, uma famosa atriz de Hollywood precisa se adaptar aos desafios de sua nova vida. Para isso, ela conta com a ajuda de alguns amigos e de um grupo de apoio. Contudo, parece haver um obstáculo ainda mais ameaçador: um homem mascarado que se infiltra na casa dela e passa a observar todos os seus passos. Agora, a vida dela e de quem a cerca está ameaçada.</info>
+ 
+<genre>Drama, Terror</genre>
+ 
+<date>16/11/2020</date>
+</item>"
+"<item>
+
 <title>Noelle [COLOR yellow][IMDb 6,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/NOELE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5440,6 +5915,25 @@ Sam é uma adolescente rebelde da realeza, a segunda na linha de sucessão ao tr
 </item>"
 "<item>
 
+<title>Enquanto Estivermos Juntos [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENQTESVMJNTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6541.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6541.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama
+Lançamento: 2020
+
+A história real de Jeremy Camp (K.J. Apa), famoso cantor de rock cristão e indicado ao Grammy. A obra deseja focar como a religião foi essencial para o artista superar dores de sua vida, principalmente quando sua esposa Melissa (Britt Robertson) é vítima de câncer.</info>
+ 
+<genre>Música, Drama</genre>
+ 
+<date>19/11/2020</date>
+</item>"
+"<item>
+
 <title>O X do Natal [COLOR yellow][IMDb 5,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/OXDNTL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5497,6 +5991,25 @@ Em 1973, quando Frank Bledsoe e Beth, sua sobrinha de 18 anos, fazem uma viagem 
 </item>"
 "<item>
 
+<title>A Voz Suprema do Blues [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVZSPRMDBLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6526.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6526.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2020
+
+Na Chicago de 1927, o clima fica tenso quando a pioneira Mãe do Blues se reúne com a banda em um estúdio de gravação. Adaptação da peça de August Wilson.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>25/11/2020</date>
+</item>"
+"<item>
+
 <title>Mosul [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/MOSUL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5511,6 +6024,25 @@ Lançamento: 2020
 Após ser salvo por um esquadrão iraquiano, um jovem oficial de polícia se junta a eles na luta contra o Estado Islâmico na cidade de Mosul.</info>
  
 <genre>Guerra, Drama</genre>
+ 
+<date>26/11/2020</date>
+</item>"
+"<item>
+
+<title>Entre Armas e Brinquedos [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENTRARMSEBRQDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6542.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6542.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Fantasia
+Lançamento: 2020
+
+Enquanto um Papai Noel desordeiro e nada ortodoxo luta contra a falência de seus negócios, um inconformado garoto de doze anos contrata um assassino para matar o Bom Velhinho como forma de vingança após receber um pedaço de carvão de presente de Natal.</info>
+ 
+<genre>Ação, Comédia, Fantasia</genre>
  
 <date>26/11/2020</date>
 </item>"
@@ -5551,4 +6083,327 @@ Para resgatar sua filha, um instável veterano das Forças Especiais liberta sua
 <genre>Drama, Crime, Ação, Thriller</genre>
  
 <date>27/11/2020</date>
+</item>"
+"<item>
+
+<title>A Vida Gira [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVDAGRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6488.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6488.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Quando os sonhos do jovem Joshua se chocam com a realidade, ele precisa tomar uma importante decisão que pode corrigir os erros do passado ou consolidar seu destino.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>27/11/2020</date>
+</item>"
+"<item>
+
+<title>O Presente de Natal de Angela [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRSNTDNTLDANGLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação
+Lançamento: 2020
+
+Com o pai trabalhando na Austrália, a pequena Ângela bola um plano para realizar seu grande desejo: reunir a família no Natal.</info>
+ 
+<genre>Animação</genre>
+ 
+<date>01/12/2020</date>
+</item>"
+"<item>
+
+<title>A Festa de Formatura [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFSTDFRMTURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 2020
+
+Um grupo de atores veteranos da Broadway vão sem aviso a uma festa de final de ano de uma escola que não permitiu que uma de suas alunas fosse ao baile acompanhada de sua namorada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>02/12/2020</date>
+</item>"
+"<item>
+
+<title>Fada Madrinha [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FDAMDRNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6545.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6545.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Comédia
+Lançamento: 2020
+
+Uma fada madrinha jovem e inexperiente embarca numa aventura por conta própria para provar seu valor rastreando uma jovem cujo pedido de ajuda foi ignorado. O que ela descobre é que a garota agora se tornou uma mulher adulta que precisa de algo muito diferente de um ""príncipe encantado"".</info>
+ 
+<genre>Família, Fantasia, Comédia</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
+<title>LEGO Star Wars: Especial de Festas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
+Lançamento: 2020
+
+Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
+<title>O Som do Silêncio [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SONDOFMTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6561.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6561.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2020
+
+Um jovem baterista teme por seu futuro quando percebe que está gradualmente ficando surdo. Duas paixões estão em jogo: a música e sua namorada, que é integrante da mesma banda de heavy metal. Essa mudança drástica acarreta em muita tensão e angústia na vida do baterista, atormentado lentamente pelo silêncio.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
+<title>Sou Sua Mulher [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SOUSMLHR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6568.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6568.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 2020
+
+Jean precisa fugir com seu filho devido aos crimes do marido. Suas vidas se entrelaçam com um homem e uma mulher, formando uma parceria improvável que os ensina mais do que apenas como sobreviver.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
+<title>Emicida: AmarElo - É Tudo Pra Ontem [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMCDAMRELOETDPRONTM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6539.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6539.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Música
+Lançamento: 2020
+
+Entre cenas de seu show no Theatro Municipal de São Paulo, o rapper e ativista Emicida comemora o rico legado da cultura negra brasileira.</info>
+ 
+<genre>Documentário, Música</genre>
+ 
+<date>08/12/2020</date>
+</item>"
+"<item>
+
+<title>Duas por Uma [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DUSPRUMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6537.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6537.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Com a carreira destruída, uma atriz contrata sua standin para fazer reabilitação em seu lugar. Ela só não imaginava que a substituta fosse gostar tanto do papel.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
+<title>O Natal do Zé Coleta [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ONTLDZCLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família
+Lançamento: 2020
+
+Papai Noel tem que fazer um pouso forçado e cabe a Hank, Zé Coleta e os amigos animais ajudar a salvar o Natal de todos.</info>
+ 
+<genre>Animação, Aventura, Família</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
+<title>Safety [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SFTY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6566.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6566.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 2020
+
+A história de Ray-Ray McElrathbey, um jogador de futebol americano calouro da Universidade Clemson, que secretamente criou seu irmão mais novo no campus depois que sua vida em casa ficou instável.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
+<title>Vozes que Inspiram [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VZQINSPRM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6578.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6578.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2020
+
+O documentário Vozes que Inspiram segue a vida de seis estudantes em busca do desenvolvimento de suas performances individuais, visando a anual August Wilson Monologue Competition, onde milhares de estudantes competem visando uma oportunidade de atuar na Broadway.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
+<title>Às Cegas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASCGS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6525.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2020
+
+Após um ataque violento, Ellen se tornou reclusa em seu apartamento para se recuperar. Mas logo ela mergulha na paranóia, incapaz de convencer ninguém de que seu agressor voltou para aterrorizá-la, escondendo-se à vista de todos.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>14/12/2020</date>
+</item>"
+"<item>
+
+<title>Um Brinde ao Natal [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMBRNDAONTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6573.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6573.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Um filho de fazendeiros que nunca pegou no pesado se passa por trabalhador rural para convencer uma pequena produtora a vender suas terras antes do Natal.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>14/12/2020</date>
+</item>"
+"<item>
+
+<title>Beleza Negra: Uma Amizade Verdadeira [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BLZANGRAMZDVRDRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6531.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6531.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Jo Green é uma adolescente que lida com a perda de seus pais e cria um vínculo com a égua ""Beleza Negra"" através de diferentes capítulos da vida, desafios e aventuras.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>18/12/2020</date>
+</item>"
+"<item>
+
+<title>Era Uma Vez um Boneco de Neve [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ERUMVZUMBNCODNVE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Fantasia
+Lançamento: 2020
+
+Os primeiros passos de Olaf conforme ele ganha vida e busca sua identidade nas montanhas nevadas dos arredores de Arendelle.</info>
+ 
+<genre>Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>18/12/2020</date>
+</item>"
+"<item>
+
+<title>Alguém Avisa? [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ALGMAVSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6522.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6522.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2021
+
+Uma jovem tem um plano para propor casamento à sua namorada na festa de Natal da família, mas descobre que sua parceira ainda não se assumiu perante seus pais conservadores.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>14/01/2021</date>
 </item>"
