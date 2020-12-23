@@ -533,3 +533,22 @@ O ano é 1947 e Lora Meredith (Lana Turner) é uma aspirante a atriz, viúva, qu
  
 <date>02/10/1959</date>
 </item>"
+"<item>
+
+<title>A Múmia [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMUMDARNKA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6492.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6492.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1959
+
+Egito, 1895. Três arqueologistas britânicos, John Banning (Peter Cushing), Stephen Banning (Felix Aylmer) e Joseph Whemple (Raymond Hutley), descobrem o túmulo de uma princesa egípcia, Ananka (Yvonne Furneaux), que morreu há quatro mil anos. Sem imaginar o que realmente fazia, Stephen lê o ""Pergaminho da Vida"". Isto faz voltar a vida Kharis (Christopher Lee), o guardião da tumba, que recebe a ajuda de Mehemet Bey (George Pastell), um egípcio que não aceita o túmulo ter sido profanado por ""infiéis"". Três anos depois, Mehemet leva para a Inglaterra Kharis, que terá a missão de matar os três arqueólogos que lideraram a expedição que achou a tumba de Ananka.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>16/12/1959</date>
+</item>"
