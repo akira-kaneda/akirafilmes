@@ -1522,6 +1522,25 @@ Em sua infância, Yip Man foi iniciado em Wing Chun sob a tutela do Mestre Chang
 </item>"
 "<item>
 
+<title>Ip Man: O Mestre do Kung Fu [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/IPMNOMSTRDKNGFU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6549.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6549.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama
+Lançamento: 2019
+
+A promissora carreira de Ip Man como policial é arruinada depois que ele é acusado de assassinato e visado pela filha de um chefe da máfia.</info>
+ 
+<genre>Ação, Drama</genre>
+ 
+<date>23/12/2019</date>
+</item>"
+"<item>
+
 <title>Irmão de Espião [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/IRMADESPAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2358,6 +2377,25 @@ O ano é 1429, a França está em convulsão política e religiosa, com os membr
 </item>"
 "<item>
 
+<title>João e Maria [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JAOEMRIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6579.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6579.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia
+Lançamento: 1988
+
+A aventura dos irmãos João e Maria, filhos de um pobre lenhador, que um dia se perdem na floresta e encontram uma casa feita de doces e biscoitos. Mas o que eles não sabem é que lá vive uma bruxa que engorda crianças, para depois comê-las!</info>
+ 
+<genre>Família, Fantasia</genre>
+ 
+<date>10/12/1988</date>
+</item>"
+"<item>
+
 <title>João e Maria: Caçadores de Bruxas [COLOR yellow][IMDb 6,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/JAOEMRA01.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2526,6 +2564,25 @@ Nikki (Ashton Kutcher) leva uma vida confortável, apenas seduzindo mulheres, e 
 <genre>Comédia, Romance</genre>
  
 <date>25/09/2009</date>
+</item>"
+"<item>
+
+<title>Jogo Assassino [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JGODASASNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6550.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6550.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2019
+
+Uma força-tarefa da polícia prende um predador online, apenas para descobrir que a profundidade de seus crimes vai muito além do que eles haviam previsto.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>06/09/2019</date>
 </item>"
 "<item>
 
@@ -4354,6 +4411,25 @@ Jovem de mundo paralelo, Kaena está em perigo. As plantações não geram mais 
 </item>"
 "<item>
 
+<title>Kaleb - O Cão Herói [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/KLBOCAOHROI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família
+Lançamento: 2020
+
+Kaleb, um pastor alemão, é separado de sua família judia durante o regime nazista. Ele é adotado por um soldado do serviço secreto e é treinado para fazer guarda nos campos de concentração. Em um desses campos ele reencontra seu antigo dono, agora prisioneiro. Juntos, eles tentam escapar e finalmente alcançar a liberdade.</info>
+ 
+<genre>Família</genre>
+ 
+<date>22/02/2020</date>
+</item>"
+"<item>
+
 <title>Kalifornia - Uma Viagem ao Inferno [COLOR yellow][IMDb 6,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/KLFNIAUMVAGMAOIFNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4560,6 +4636,25 @@ No século 19, um nobre inglês arruinado, vivendo nos EUA, é pressionado a se 
 <genre>Comédia, Fantasia, Romance</genre>
  
 <date>25/12/2001</date>
+</item>"
+"<item>
+
+<title>Kenan e kel: Duas Cabeças Pensam Melhor do que Nenhuma [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/KNEKLDSCBPNSMLHRQUMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6496.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6496.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Comédia, Fantasia
+Lançamento: 2000
+
+Duas cabeças são melhores que nenhum também conhecido como Kenan & Kel: O Filme é um filme americano de 2000 que estrela o elenco da sitcom Kenan & Kel da Nickelodeon. É o último longa-metragem da lenda dos quadrinhos Milton Berle.</info>
+ 
+<genre>Família, Comédia, Fantasia</genre>
+ 
+<date>15/07/2000</date>
 </item>"
 "<item>
 
@@ -6445,6 +6540,25 @@ Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na pra
 </item>"
 "<item>
 
+<title>LEGO Star Wars: Especial de Festas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
+Lançamento: 2020
+
+Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
 <title>LEGO Super Heróis DC: O Flash [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/LEGDCCMSSPRHRTHFLSH.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6518,6 +6632,25 @@ Um senhor sofre de Alzheimer e, com o intuito de tornar esse processo mais tranq
 <genre>Drama</genre>
  
 <date>15/06/2017</date>
+</item>"
+"<item>
+
+<title>Lemonade Mouth: Uma Banda Diferente [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LMNDAMNTHUMBNDFRTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6497.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6497.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia
+Lançamento: 2011
+
+Cinco calouros se conhecem durante uma detenção na escola e, à primeira vista, eles parecem não ter nada em comum. Mas, através da música, eles se tornam inseparáveis e descobrem que podem ser a maior banda de garagem da história! Enfrentando vários desafios, Olivia, Stella, Wen, Mohini e Charlie descobrem que podem fazer a diferença quando podem se apoiar uns nos outros e se livrar de tudo o que os mantêm longe de seus sonhos.</info>
+ 
+<genre>Drama, Comédia</genre>
+ 
+<date>06/12/2011</date>
 </item>"
 "<item>
 
@@ -8010,6 +8143,549 @@ O Comandante Lassard tem um novo plano para acabar com a criminalidade nas ruas,
 <image>https://ia801400.us.archive.org/1/items/3098_20201117/3143.jpg</image>
 <thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3143.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Thriller, Mistério
+Lançamento: 2017
+
+Quando Steve Ford (Bruce Willis), um detetive particular de Los Angeles, descobre que seu querido cachorro foi sequestrado, ele não tem outra alternativa a não ser atacar a gangue responsável pelo crime. Spyder (Jason Momoa), o chefe dos traficantes, impõe então uma condição para a devolução do cão: que Steve realize alguns trabalhos para ele.</info>
+ 
+<genre>Ação, Comédia, Thriller, Mistério</genre>
+ 
+<date>16/06/2017</date>
+</item>"
+"<item>
+
+<title>Loucura do Tempo [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LOUCRDTMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3144.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3144.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Comédia, Romance
+Lançamento: 2018
+
+Quando o jovem prodígio da ciência, Stillman (Asa Butterfield), sofre um grande baque ao ser dispensado por sua namorada Debbie (Sophie Turner), ele decide que fará qualquer coisa para conquistá-la novamente. Depois de ficar uma semana isolado de todos, Stillman consegue desenvolver um mecanismo capaz de voltar no tempo e decide, mas sequer imagina que isso pode lhe trazer ainda mais problemas do que soluções.</info>
+ 
+<genre>Ficção científica, Comédia, Romance</genre>
+ 
+<date>09/11/2018</date>
+</item>"
+"<item>
+
+<title>Loucuras de Verão [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOCRSDVRAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3145.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3145.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1973
+
+Em 1962, na pequena cidade de Modesto, os jovens Curt (Richard Dreyfuss) e Steve (Ron Howard) passam sua última noite de verão antes de irem para a universidade, no leste. Nesta noite agitada vários acontecimentos ocorrem ao mesmo tempo. Laurie (Cindy Williams), irmã de Curt e namorada de Steve, briga com ele e acaba saindo de carro com o forasteiro Bob Falfa (Harrison Ford), que depois disputa um racha com o campeão da cidade. O desajeitado Teddy (Charles Martin Smith) pega o carro de Steve e consegue conquistar a destrambelhada Debbie (Candy Clark), enquanto Curt se junta à gangue dos Faraós e pratica pequenos crimes. Tudo isso ao som de uma trilha sonora ininterrupta com todos os grandes sucessos musicais da época.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>22/11/1973</date>
+</item>"
+"<item>
+
+<title>Loucuras em Familia [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOUCRSEMFML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3146.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3146.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2017
+
+Em pleno feriado, três famílias – uma hispânica, uma afro-americana e outra caucasiana – descobrem que foram colocados no mesmo acampamento, por conta de um erro nos registros. Como ninguém deseja sair, os grupos decidem fazer uma série de competições infantis para decidir qual deles merece ficar no local.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>12/01/2017</date>
+</item>"
+"<item>
+
+<title>Loucuras Invisíveis [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOCRSINVSIVL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4646.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4646.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1972
+
+Garotos descobrem fórmula capaz de tornar as pessoas ou objetos invisíveis, mas nem tudo é alegria na vida deles. Bandidos tentam pegar a fórmula com objetivos nada corretos, levando a resultados desastrosos.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>12/07/1972</date>
+</item>"
+"<item>
+
+<title>Lowriders : A Arte nos Carros [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LOWRDRSAARTNSCRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3147.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3147.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2017
+
+O filme acompanha a jornada diária de uma adolescente que vive em Los Angeles. Ela se sente que sua rotina está presa entre seu pai tradicionalista e seu irmão ex-presidiario que é obcecado com carros.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>12/05/2017</date>
+</item>"
+"<item>
+
+<title>Lua de Fel [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LUADFL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3148.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3148.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Romance
+Lançamento: 1994
+
+Um casal de ingleses ao fazerem um cruzeiro, conhecem uma bela e jovem francesa casada com um cadeirante. Ao notar o interesse por sua esposa, o cadeirante conta como eles se conheceram e se amaram loucamente.</info>
+ 
+<genre>Thriller, Drama, Romance</genre>
+ 
+<date>11/03/1994</date>
+</item>"
+"<item>
+
+<title>Lua de Júpiter [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LUADJPTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3149.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3149.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica
+Lançamento: 2017
+
+Aryan, um jovem migrante, é baleado ao tentar ilegalmente cruzar a fronteira da Hungria. Depois do choque provocado pelo acidente, descobre que adquiriu o poder de levitar e agora, preso em um campo refugiados, precisa contar com a ajuda do Dr. Stern, que tem interesses muito específicos na habilidade sobrenatural.</info>
+ 
+<genre>Ficção científica</genre>
+ 
+<date>01/11/2017</date>
+</item>"
+"<item>
+
+<title>Lucas, um Intruso no Formigueiro [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LCSUMINTRSONFRMGRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3150.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3150.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Aventura, Animação, Comédia, Família
+Lançamento: 2006
+
+Lucas Nickle (Zach Tyler) é um garotinho de dez anos que acaba de se mudar para uma nova vizinhança. Sem amigos e com uma família ausente, ele é constantemente atacado por uma gangue local. Certo dia, ele joga toda sua raiva para fora e afoga um formigueiro com sua pistola d'água. O menino tem seu tamanho misteriosamente diminuído, até ficar da mesma altura que uma formiga. Ele é então obrigado a trabalhar como escravo na reconstrução do formigueiro que ele mesmo destruiu.</info>
+ 
+<genre>Fantasia, Aventura, Animação, Comédia, Família</genre>
+ 
+<date>07/09/2006</date>
+</item>"
+"<item>
+
+<title>Luce [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LCE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3151.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3151.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2019
+
+Luce Edgar (Kelvin Harrison Jr.) é um jovem brilhante, além de ser muito estudioso e campeão em debates ele também é um excelente atleta. Tudo isso faz com que seus pais adotivos (Naomi Watts e Tim Roth) sejam muito orgulhosos. No entanto, a professora de Lucas, Harriet (Octavia Spencer), descobre um artigo político escrito por ele que revela traços obscuros de sua personalidade desencadeando uma série de situações negativas na vida de todos os envolvidos.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>11/10/2019</date>
+</item>"
+"<item>
+
+<title>Lucky [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/LCKY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3152.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3152.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Fantasia
+Lançamento: 2019
+
+O azarado leprechaun Happy McSweeney está pronto para a aventura de sua vida quando ele e seus amigos partiram em uma missão ousada para recuperar o pote de ouro que foi roubado pelo malvado Houlihan ...</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Fantasia</genre>
+ 
+<date>08/03/2019</date>
+</item>"
+"<item>
+
+<title>Lucy in the Sky [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LCYINTHSKY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3153.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3153.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+A astronauta Lucy Cola retorna à Terra após uma experiência transcendente durante uma missão no espaço e começa a perder o contato com a realidade em um mundo que agora parece pequeno demais.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>04/10/2019</date>
+</item>"
+"<item>
+
+<title>Ludo [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LUDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia
+Lançamento: 2020
+
+Ludo é sobre o efeito borboleta e como, apesar de todo o caos e multidão do mundo, todas as nossas vidas estão inextricavelmente conectadas. De uma fita de sexo ressurgida a uma mala de dinheiro velhaca, quatro histórias totalmente diferentes se sobrepõem aos caprichos do destino, do acaso e de um criminoso excêntrico.</info>
+ 
+<genre>Crime, Comédia</genre>
+ 
+<date>12/11/2020</date>
+</item>"
+"<item>
+
+<title>Lukas [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/LKS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3154.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3154.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Thriller
+Lançamento: 2018
+
+A trama segue Lukas (Van Damme), um segurança de boate em seus 50 anos e que luta para criar sua filha de 8 anos. Um dia, depois de uma briga ele acaba na prisão, e sua filha é colocada sob os cuidados dos serviços sociais. Mas as coisas mudam quando a Interpol recruta Lukas para derrubar um líder holandês que opera da Bélgica em troca da custódia de sua filha.</info>
+ 
+<genre>Ação, Drama, Thriller</genre>
+ 
+<date>22/08/2018</date>
+</item>"
+"<item>
+
+<title>Luna: Em Busca da Verdade [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LNAEMBSCDVRDAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3155.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3155.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação
+Lançamento: 2018
+
+Quando a família de Luna é morta a sangue frio nas férias, em uma montanha, ela mal escapa e descobre que está vivendo uma mentira. Seu pai era um agente secreto russo e sua família era apenas uma frente. Luna tem a oportunidade de fugir do país. Mas, primeiro, ela quer vingança.</info>
+ 
+<genre>Thriller, Ação</genre>
+ 
+<date>15/02/2018</date>
+</item>"
+"<item>
+
+<title>Lunar [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3156.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3156.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Drama
+Lançamento: 2009
+
+Sam Bell (Sam Rockwell) é um astronauta que cumpre uma missão de três anos na Lua, em uma base instalada pela Lunar Industries. Sua função é extrair do solo e enviar regularmente à Terra uma substância que ajuda a renovar a energia do planeta. Sam tem apenas a companhia do computador GERTY (Kevin Spacey) e está ansioso para completar o trabalho, o que ocorrerá dentro de duas semanas, quando um novo funcionário virá substituí-lo. Só que, repentinamente, Sam começa a delirar e sofre um acidente. A partir de então ele encontra um clone seu dentro da estação lunar.</info>
+ 
+<genre>Ficção científica, Drama</genre>
+ 
+<date>06/11/2009</date>
+</item>"
+"<item>
+
+<title>Lupin III: E o Coração Púrpura de Cleópatra [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LPNIIIEOCRCAOPRPRADCLPTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3157.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3157.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2014
+
+O neto de um lendário ladrão reúne uma equipe de criminosos para roubar um colar de Cleópatra que está dividido em duas partes, com dois donos distintos: um aliado que virou rival e um magnata do submundo.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>30/08/2014</date>
+</item>"
+"<item>
+
+<title>Lupin III: O Primeiro [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LPN3OPRMRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3158.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3158.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Animação
+Lançamento: 2019
+
+Arsene Lupin III se une a uma garota chamada Laetitia para roubar o Diário de Bresson, um misterioso tesouro que nem mesmo a primeira geração de Arsene Lupin conseguiu roubar. Lupin descobre o poderoso segredo guardado no diário que poderá mudar o destino do planeta e precisará da ajuda de seus amigos, Jigen, Goemon, sua eterna rival Fujiko Mine e até do incansável Inspetor Zenigata para impedir que esse segredo caia nas mãos da maior organização criminosa de todos os tempos!</info>
+ 
+<genre>Aventura, Ação, Animação</genre>
+ 
+<date>06/12/2019</date>
+</item>"
+"<item>
+
+<title>Luta Pela Fé [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LTAPLFE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3954.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3954.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 2019
+
+Quando Willard e Rebecca Bean são chamados à uma cidade que são hostis com eles, eles devem escolher se querem lutar por seu direito de viver lá ou amar seus vizinhos hostis.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>24/07/2019</date>
+</item>"
+"<item>
+
+<title>Luta Pela Honra [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LTAPLHRN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3159.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3159.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama
+Lançamento: 2009
+
+Hector Villa (Kuno Becker) pode ter o espírito de um vencedor, mas seu bom senso é sempre obscurecido por sua raiva. Embora Hector colha frutas no rancho do Texas Big Al Stevens durante o dia, a noite o trabalhador migrante ganha mais do que o salário de um dia lutando por dinheiro em bares e celeiros convertidos. Quando a mãe de Heitor, Rosa, fica doente, o filho leal faz muitas lutas a fim de pagar por seu medicamento para o coração.</info>
+ 
+<genre>Ação, Aventura, Drama</genre>
+ 
+<date>15/03/2009</date>
+</item>"
+"<item>
+
+<title>Luta por Justiça [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LTAPRJSTCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3160.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3160.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 2020
+
+Bryan Stevenson (Michael B. Jordan) é um advogado recém-formado em Harvard que abre mão de uma carreira lucrativa em escritórios renomados da costa leste americana para se mudar para o Alabama e se dedicar a prisioneiros condenados à morte que jamais receberam assistência legal justa. Ao chegar lá, Bryan se depara com o caso de Walter McMillian (Jamie Foxx), um homem negro falsamente acusado de um assassinato, mas que nunca teve uma defesa apropriada por conta do preconceito racial na região.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>20/02/2020</date>
+</item>"
+"<item>
+
+<title>Lutador de Rua [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LTDRSRUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3161.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3161.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1975
+
+Durante a Grande Depressão, um desempregado se une a um promotor de lutas de rua para poder sobreviver. Falando pouco e lutando muito, ele consegue vitórias expressivas e uma razoável quantia. Porém seu empresário, que ganhou tanto quanto ele, se encontra em sérias dificuldades financeiras. Os dois acabam se desentendendo e se separando, mas a única chance do seu antigo promotor se salvar desta situação é convencê-lo a participar de uma grande luta sem público, com um lutador de Chicago.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>08/10/1975</date>
+</item>"
+"<item>
+
+<title>Lutador de Rua [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LTDRDRUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3162.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3162.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller
+Lançamento: 2009
+
+Isaiah Bone (Michael Jai White), um ex-presidiário, entra de cabeça no submundo das lutas clandestinas de Los Angeles determinado a cumprir a promessa que fez a um grande amigo já falecido.</info>
+ 
+<genre>Drama, Ação, Thriller</genre>
+ 
+<date>07/02/2009</date>
+</item>"
+"<item>
+
+<title>Lutador Misterioso [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LTDRMSTRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3163.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3163.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Thriller
+Lançamento: 2018
+
+Quando Li An, que perdeu a memória, foi resgatado pelo velho misterioso, o tio, ele tinha apenas um terno valioso. Ang Lee, que estava em uma cidade estranha, recebeu uma medalha de ouro para adolescentes que amavam a música e se tornaram funcionários da sala de gelo. No primeiro dia de trabalho, a sala de gelo encontrou uma morte bizarra de um gangster. Li Yong, que é ao mesmo tempo corajoso e sábio, resolveu com sucesso o mistério e revelou uma série de planos de aquisição criminosa para o líder de alimentos do Grupo Wolong.</info>
+ 
+<genre>Ação, Drama, Thriller</genre>
+ 
+<date>02/02/2018</date>
+</item>"
+"<item>
+
+<title>Lutando Pela Família [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LTNDPLFMLIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3164.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3164.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2019
+
+Uma jovem (Florence Pugh) deseja lutar na WWE, a associação estadunidense de wrestling, mas, para concretizar o seu sonho, precisará convencer seus pais e suportar uma dura rotina de treinamentos.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>22/02/2019</date>
+</item>"
+"<item>
+
+<title>Lutando Pela Vida [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LTNDPLVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3165.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3165.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Depois de sobreviver a uma explosão em combate no exterior, um jovem soldado da Unidade de Motocicleta do Exército recebe alta médica com as costas e a perna quebradas. Contra todas as probabilidades, ele treina para fazer um retorno impossível como um piloto de motocross, a fim de sustentar sua família.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>30/08/2019</date>
+</item>"
+"<item>
+
+<title>Lutero [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/LTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3166.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3166.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 2003
+
+Após quase ser atingido por um raio, Martim Lutero ([Joseph Fiennes) acredita ter recebido um chamado. Ele se junta ao monastério, mas logo fica atormentado com as práticas adotadas pela Igreja Católica na época. Após pregar em uma igreja suas 95 teses, Lutero passa a ser perseguido. Pressionado para que se redima publicamente, Lutero se recusa a negar suas teses e desafia a Igreja Católica a provar que elas estejam erradas e contradigam o que prega a Bíblia. Excomungado, Lutero foge e inicia sua batalha para mostrar que seus ideais estão corretos e que eles permitem o acesso de todas as pessoas a Deus.</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>30/10/2003</date>
+</item>"
+"<item>
+
+<title>Luzes da Cidade [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/LZSDCIDE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3167.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3167.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 1931
+
+A paixão de um vagabundo por uma pobre florista cega, que acredita que ele é um milionário, o motiva a tentar conseguir o dinheiro necessário da cirurgia para restaurar sua visão.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>01/02/1931</date>
+</item>"
+"<item>
+
+<title>Luzes de Phoenix [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/LUZSDPNX.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/1/items/3098_20201117/3168.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3168.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Ficção científica
+Lançamento: 2017
+
+Vinte anos depois de três adolescentes terem desaparecido na sequência de misteriosas luzes no Arizona, imagens nunca vistas antes daquela noite são descobertas, relatando as últimas horas daquela expedição fatídica.</info>
+ 
+<genre>Terror, Mistério, Ficção científica</genre>
+ 
+<date>21/04/2017</date>
+</item>"
+>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Ação, Comédia, Thriller, Mistério
 Lançamento: 2017
