@@ -1617,6 +1617,25 @@ Após acabar com o crime em Dodge City, Wyatt Earp (Kurt Russell) se muda para a
 </item>"
 "<item>
 
+<title>Três Amigos! [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TRSAMGS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6505.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Faroeste, Aventura
+Lançamento: 1986
+
+""Steve Martin, Chevy Chase e Martin Short são tres loucos e rebeldes cavaleiros nesta comédia de aventura que é um verdadeiro festival de risadas. Co-estrelando Phil Hartman. Jon Lovitz e Joe Mantegna, Três Amigos! abre o caminho para a redefinição das fronteiras da comédia! Quando uma pequena vila mexicana é aterrorizada por um conhecido fora-da-lei, uma jovem desesperada decide chamar os únicos heróis que ela conhece: os legendários Três Amigos! Conhecidos por todos como intrépidos defensores da liberdade, estes corajosos vaqueiros de fato não passam de atores de cinema. Outrora famosos por seus filmes faroeste, hoje eles estão desempregados. E embora as únicas lutas de que já participaram na vida tenham acontecido apenas nos sets de filmagem, quando os criminosos atacam, os Três Amigos! descobrem que os bandidos e as balas de suas armas são bem reais!</info>
+ 
+<genre>Comédia, Faroeste, Aventura</genre>
+ 
+<date>12/12/1986</date>
+</item>"
+"<item>
+
 <title>Três Homens em Conflito [COLOR yellow][IMDb 8,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/TSHMNSEMCFLT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
