@@ -171,6 +171,25 @@ Paula é uma adolescente francesa que enfrenta todas as questões comuns de sua 
 </item>"
 "<item>
 
+<title>A Festa de Formatura [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFSTDFRMTURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 2020
+
+Um grupo de atores veteranos da Broadway vão sem aviso a uma festa de final de ano de uma escola que não permitiu que uma de suas alunas fosse ao baile acompanhada de sua namorada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>02/12/2020</date>
+</item>"
+"<item>
+
 <title>A Grande Farra dos Muppets [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/AGRNDFARADSMPTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -339,6 +358,25 @@ Em 1856, o escravo Samuel Woodward e sua família escapam da plantação Monroe,
 <genre>Drama, Música</genre>
  
 <date>21/08/2014</date>
+</item>"
+"<item>
+
+<title>A Voz Suprema do Blues [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVZSPRMDBLS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6526.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6526.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2020
+
+Na Chicago de 1927, o clima fica tenso quando a pioneira Mãe do Blues se reúne com a banda em um estúdio de gravação. Adaptação da peça de August Wilson.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>25/11/2020</date>
 </item>"
 "<item>
 
@@ -1026,6 +1064,25 @@ Lançamento: 1970
 </item>"
 "<item>
 
+<title>Emicida: AmarElo - É Tudo Pra Ontem [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMCDAMRELOETDPRONTM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6539.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6539.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Música
+Lançamento: 2020
+
+Entre cenas de seu show no Theatro Municipal de São Paulo, o rapper e ativista Emicida comemora o rico legado da cultura negra brasileira.</info>
+ 
+<genre>Documentário, Música</genre>
+ 
+<date>08/12/2020</date>
+</item>"
+"<item>
+
 <title>Encantado [COLOR yellow][IMDb 5,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/ENCTDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1042,6 +1099,25 @@ Três princesas de contos de fadas se veem noivas do mesmo homem: o Príncipe En
 <genre>Comédia, Música, Família, Animação</genre>
  
 <date>20/04/2018</date>
+</item>"
+"<item>
+
+<title>Enquanto Estivermos Juntos [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENQTESVMJNTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6541.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6541.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama
+Lançamento: 2020
+
+A história real de Jeremy Camp (K.J. Apa), famoso cantor de rock cristão e indicado ao Grammy. A obra deseja focar como a religião foi essencial para o artista superar dores de sua vida, principalmente quando sua esposa Melissa (Britt Robertson) é vítima de câncer.</info>
+ 
+<genre>Música, Drama</genre>
+ 
+<date>19/11/2020</date>
 </item>"
 "<item>
 
@@ -2187,6 +2263,25 @@ Em 1875, durante a corrida do ouro nos Estados Unidos, Matt Calder (Robert Mitch
 <genre>Ação, Aventura, Drama, Música, Romance, Faroeste</genre>
  
 <date>01/01/1955</date>
+</item>"
+"<item>
+
+<title>O Som do Silêncio [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SONDOFMTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6561.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6561.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2020
+
+Um jovem baterista teme por seu futuro quando percebe que está gradualmente ficando surdo. Duas paixões estão em jogo: a música e sua namorada, que é integrante da mesma banda de heavy metal. Essa mudança drástica acarreta em muita tensão e angústia na vida do baterista, atormentado lentamente pelo silêncio.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>04/12/2020</date>
 </item>"
 "<item>
 
