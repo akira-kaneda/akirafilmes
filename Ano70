@@ -1124,6 +1124,25 @@ Rick está com 30 anos, mas ainda trabalha em tempo integral como salva-vidas na
 </item>"
 "<item>
 
+<title>Massacre no Colégio [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MSCRNCLGIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6498.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6498.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller
+Lançamento: 1976
+
+Adolescente exige sua própria marca de vingança em duros membros de uma gang, que estão fazendo as coisas difíceis para os estudantes de uma escola local.</info>
+ 
+<genre>Drama, Terror, Thriller</genre>
+ 
+<date>01/09/1976</date>
+</item>"
+"<item>
+
 <title>Carrie, A Estranha [COLOR yellow][IMDb 7,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/CRIEAESTNH1976.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2035,6 +2054,25 @@ Durante a guerra do Vietnã, o Capitão Willard recebe como missão ir ao Camboj
 <genre>Drama, Guerra</genre>
  
 <date>16/12/1979</date>
+</item>"
+"<item>
+
+<title>Os Selvagens da Noite [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/THEWARSOSLVGMDNTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6511.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6511.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 1979
+
+Nova York, em um indeterminado futuro. As gangues de delinqüentes juvenis se reúnem em uma convenção. O líder do principal grupo prega a união entre eles, pois juntos poderão controlar a cidade e o contingente deles é maior que a força policial. O líder acaba sendo assassinado, com a culpa recaindo sobre um bando da periferia, que nada teve a ver com o atentado. Assim eles se vêem obrigados a atravessar a cidade, enquanto são caçados pelos membros das outras gangues.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>24/12/1979</date>
 </item>"
 "<item>
 
