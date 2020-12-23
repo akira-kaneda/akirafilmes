@@ -1,5 +1,138 @@
 "<item>
 
+<title>O Chamado [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OCHMD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3861.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3861.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2003
+
+Rachel Keller é uma jornalista que decide investigar a misteriosa morte de sua sobrinha. Ela percebe a relação da morte dela e de várias outras mortes com um estranho vídeo, que faz com que todas as pessoas que o assistam morram exatamente sete dias depois. Intrigada com a história, ela agora precisa descobrir um meio que impeça que a profecia se realize, já que ela e seu filho assistiram ao vídeo.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>31/01/2003</date>
+</item>"
+"<item>
+
+<title>O Chamado 2 [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OCHMD2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3862.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3862.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller
+Lançamento: 2005
+
+Seis meses após os eventos que aterrorizaram Rachel Keller (Naomi Watts) e seu filho Aidan (David Dorfman), os dois tentam deixar para trás as lembranças de Samara (Daveigh Chase) e sua fita de vídeo amaldiçoada. Rachel e Aidan se mudam de Seattle para a pequena comunidade litorânea de Astoria, no estado de Oregon, onde pretendem recomeçar a vida. Porém, após a ocorrência de um crime local que tem uma fita de vídeo envolvida, Samara retorna para reiniciar seu ciclo de mortes.</info>
+ 
+<genre>Drama, Terror, Thriller</genre>
+ 
+<date>25/03/2005</date>
+</item>"
+"<item>
+
+<title>O Chamado 3 [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OCHMD3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3863.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3863.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2017
+
+Julia (Matilda Anna Ingrid Lutz) fica preocupada quando seu namorado, Holt (Alex Roe), começa a explorar a lenda urbana sobre um vídeo misterioso. Lenda esta que diz que quem assiste morre depois de sete dias. Ela se sacrifica para salvar seu namorado e acaba fazendo uma descoberta terrível: há um ""filme dentro do filme"" que ninguém nunca viu antes.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>02/02/2017</date>
+</item>"
+"<item>
+
+<title>O Chamado do Mal [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OCHMDOML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3865.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3865.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2018
+
+Um professor universitário e sua esposa, prestes a ter um bebê, serão os responsável por um ato com consequências horrendas: eles liberam, involuntariamente, uma entidade maligna com pretensões perigosas de uma caixa que não era para ser aberta. Juntos, o casal precisa entender o que a entidade quer para, então, tentar contê-la.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>29/11/2018</date>
+</item>"
+"<item>
+
+<title>O Chamado vs. O Grito [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OCHMDOVSOGRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3866.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3866.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2016
+
+Quando uma fita VHS antiga é encontrada em uma loja de vídeo, Yuri e Natsumi não têm ideia em que estão se metendo ao apertarem o play. Sadako ressurge e agora Natsumi está condenada. Yuri tenta ajudar e também entra na lista de Sadako. Em outro lugar, Suzuka tem pesadelos repetidos com a mansão Saeki, local que guarda a maldição de Kayako e Toshio. Um incidente acontece e Suzuka entra no local, passando a ser perseguida por Kayako. Yuri e Suzuka se conhecem e descobre que a única forma de sobreviverem é se colocarem Sadako e Kayako frente a frente. Será que isso dará certo?</info>
+ 
+<genre>Terror</genre>
+ 
+<date>18/06/2016</date>
+</item>"
+"<item>
+
+<title>O Chupa-Cabra [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCHPCBRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3868.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3868.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2015
+
+Um grupo de cinco amigos americanos chegando à vida adulta viaja para o Panamá para relaxar e se reconectar. Eles fazem amizade com uma moradora local no bar do hotel e, apesar de alguns boatos ameaçadores, a garota vai contra as instruções do irmão e leva os americanos para um passeio pelas cataratas de uma selva próxima. O que começa como uma visita inocente a cataratas pitorescas logo se torna algo aterrorizante quando ela desaparece de repente. Conforme a noite cai, os amigos percebem, tarde demais, a verdade por trás dos rumores: o lendário sugador de sangue Chupacabra está os perseguindo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>26/05/2015</date>
+</item>"
+"<item>
+
+<title>O Colecionador de Corpos [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OCOLCNDRDCPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3878.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3878.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2009
+
+Desesperado para pagar uma dívida com sua ex-esposa, um ex-trapaceiro invade a casa de campo de seu novo chefe para roubar uma valiosa jóia, mas é surpreendido por um outro bandido no local fazendo a família como refém de um jogo mortal.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>31/07/2009</date>
+</item>"
+"<item>
+
 <title>O Colecionador de Corpos 2 [COLOR yellow][IMDb 6,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/OCOLCNDRDCPS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
