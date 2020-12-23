@@ -5651,6 +5651,25 @@ Um arquivista de cinema deprimido e estressado encontra sua sanidade em ruínas 
 </item>"
 "<item>
 
+<title>O Candidato [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCNDTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6556.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6556.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério, Drama
+Lançamento: 2018
+
+Manuel Gómez Vidal é um político amado em sua região: goza de uma boa posição social, tem uma família amorosa, amigos em todos os lugares e muito carisma natural. Ele também é um homem corrupto que vem se enriquecendo com fundos públicos há anos. Depois de tentar encobrir um associado, Manuel fica exposto. Para sua surpresa, os membros do Partido procuram colocar a culpa por toda a trama em seus ombros. Mas ele não vai se render. Até que ponto uma pessoa está disposta a ir para se manter no poder?</info>
+ 
+<genre>Thriller, Mistério, Drama</genre>
+ 
+<date>28/09/2018</date>
+</item>"
+"<item>
+
 <title>O Cão dos Baskervilles [COLOR yellow][IMDb 7,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/OCAODSBRSVLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
