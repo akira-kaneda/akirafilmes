@@ -594,6 +594,25 @@ Lançamento: 1970
 </item>"
 "<item>
 
+<title>Emicida: AmarElo - É Tudo Pra Ontem [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMCDAMRELOETDPRONTM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6539.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6539.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário, Música
+Lançamento: 2020
+
+Entre cenas de seu show no Theatro Municipal de São Paulo, o rapper e ativista Emicida comemora o rico legado da cultura negra brasileira.</info>
+ 
+<genre>Documentário, Música</genre>
+ 
+<date>08/12/2020</date>
+</item>"
+"<item>
+
 <title>Entre a Síria e o Estado Islamico [COLOR yellow][IMDb 7,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/ENTRASRAEOESTDESLMNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1926,6 +1945,25 @@ Documentário dos diretores Myles Kane e Josh Koury sobre o escritor Gay Talese 
 <genre>Documentário</genre>
  
 <date>01/12/2017</date>
+</item>"
+"<item>
+
+<title>Vozes que Inspiram [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VZQINSPRM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6578.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6578.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2020
+
+O documentário Vozes que Inspiram segue a vida de seis estudantes em busca do desenvolvimento de suas performances individuais, visando a anual August Wilson Monologue Competition, onde milhares de estudantes competem visando uma oportunidade de atuar na Broadway.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>11/12/2020</date>
 </item>"
 "<item>
 
