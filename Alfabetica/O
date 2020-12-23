@@ -1731,6 +1731,25 @@ Um ônibus escolar tem seu pneu furado, fazendo com que o motorista procure ajud
 </item>"
 "<item>
 
+<title>O Caminho de Volta [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCMNHDVLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6582.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6582.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+História sobre o técnico de um time basquete de um colégio de ensino médio que anteriormente foi atleta do mesmo esporte. Por conta de vícios, sua carreira promissora como jogador foi tragicamente ao fim, assim como seu relacionamento com sua esposa e a fundação de sua família. Ao tornar-se treinador do time de escola, o ex-atleta tenta encontrar estímulos para seguir em frente e refazer sua vida.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>23/04/2020</date>
+</item>"
+"<item>
+
 <title>O Caminho Difícil [COLOR yellow][IMDb 4,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/OCMNHODFICL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1804,6 +1823,25 @@ Um arquivista de cinema deprimido e estressado encontra sua sanidade em ruínas 
 <genre>Terror, Mistério, Thriller</genre>
  
 <date>10/10/2014</date>
+</item>"
+"<item>
+
+<title>O Candidato [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCNDTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6556.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6556.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério, Drama
+Lançamento: 2018
+
+Manuel Gómez Vidal é um político amado em sua região: goza de uma boa posição social, tem uma família amorosa, amigos em todos os lugares e muito carisma natural. Ele também é um homem corrupto que vem se enriquecendo com fundos públicos há anos. Depois de tentar encobrir um associado, Manuel fica exposto. Para sua surpresa, os membros do Partido procuram colocar a culpa por toda a trama em seus ombros. Mas ele não vai se render. Até que ponto uma pessoa está disposta a ir para se manter no poder?</info>
+ 
+<genre>Thriller, Mistério, Drama</genre>
+ 
+<date>28/09/2018</date>
 </item>"
 "<item>
 
@@ -2453,6 +2491,25 @@ Um menino corre risco de vida depois de acidentalmente descobrir informação vi
 </item>"
 "<item>
 
+<title>O Clube das Desquitadas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCLBDSDSQTDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6500.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6500.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1996
+
+Três amigas de faculdade que se formaram em 1969 e tomaram caminhos distintos (uma é atriz (Goldie Hawn), a outra (Diane Keaton) casou-se com magnata dono de uma cadeia de lojas de eletrodomésticos e a última (Bette Midler) se tornou uma dona de casa) têm algo em comum: todas foram trocadas por mulheres mais jovens, o que as deixa revoltadas, pois elas contribuíram para a ascensão profissional e financeira de seus maridos. Porém, quando uma amiga delas se suicida após o marido trocá-la por uma mulher mais jovem as três decidem se unir, atacando os seus ""ex"" no ponto mais sensível: o bolso.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>20/09/1996</date>
+</item>"
+"<item>
+
 <title>O Clube dos Meninos Bilionários [COLOR yellow][IMDb 5,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/OCLBDMNSBLNRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2488,6 +2545,25 @@ French e Sue têm 48 horas para cobrar três dívidas enquanto fogem de um crimi
 <genre>Ação, Comédia, Crime</genre>
  
 <date>29/10/2020</date>
+</item>"
+"<item>
+
+<title>O Cobrador de Impostos [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/THETXCLCTR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6490.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6490.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama
+Lançamento: 2020
+
+David e Creeper são coletores de taxas para o chefão do crime chamado Wizard, que pega uma parte dos lucros de todas as operações ilegais de outras gangues. Mas quando um rival de seu chefe retorna para Los Angeles vindo do México, David irá precisar tomar medidas drásticas para proteger sua família.</info>
+ 
+<genre>Ação, Crime, Drama</genre>
+ 
+<date>07/08/2020</date>
 </item>"
 "<item>
 
@@ -5930,6 +6006,25 @@ A melhor e verdadeira história de Abraham Lincoln e seu guarda-costas auto-nome
 </item>"
 "<item>
 
+<title>O Guardião dos Mundos [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OGRDAODSMNDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6557.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6557.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Fantasia, Ação
+Lançamento: 2018
+
+O jovem moscovita Kirill é um talentoso designer de jogos de computador. Um dia, ele é completamente apagado da memória de todos que ele conhecia e amava. Kirill descobre que ele foi escolhido para uma missão importante e misteriosa: tornar-se um funcionário da alfândega entre mundos paralelos, dos quais existem dezenas no universo. Kirill desvendará o mistério desses mundos e quem os controla? E a nossa Terra é realmente apenas um ""rascunho"" imaginário - um mundo paralelo - que na realidade não existe ...</info>
+ 
+<genre>Ficção científica, Fantasia, Ação</genre>
+ 
+<date>25/05/2018</date>
+</item>"
+"<item>
+
 <title>O Guardião Invisível [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/OGRDOINVSVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6345,6 +6440,25 @@ Uma jovem desaparece misteriosamente. Para investigar o desaparecimento, o Sarge
 <genre>Terror</genre>
  
 <date>31/10/1974</date>
+</item>"
+"<item>
+
+<title>O Homem do Tai Chi [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OHMNDTAICH.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6558.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6558.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama
+Lançamento: 2013
+
+Um jovem praticante de artes marciais deixa de lado sua vida pacata vida em Pequim para disputar o campeonato Wulin Wang. O que ele não esperava era ter que lidar com o submundo da cidade para proteger o legado de seu local de nascimento, Ling Kong Tai Chi.</info>
+ 
+<genre>Ação, Drama</genre>
+ 
+<date>01/11/2013</date>
 </item>"
 "<item>
 
@@ -8914,6 +9028,25 @@ O curta conta com Tio Patinhas no papel de Ebenezer Scrooge, um velho egoísta e
 </item>"
 "<item>
 
+<title>O Natal do Zé Coleta [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ONTLDZCLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família
+Lançamento: 2020
+
+Papai Noel tem que fazer um pouso forçado e cabe a Hank, Zé Coleta e os amigos animais ajudar a salvar o Natal de todos.</info>
+ 
+<genre>Animação, Aventura, Família</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
 <title>O Natal dos Flinstones [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/NTLDSFLSTNS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8968,6 +9101,25 @@ Timmy Turner andou aprontando, e as crianças acabaram perdendo a fé em Papai N
 <genre>Família, Fantasia</genre>
  
 <date>12/11/2013</date>
+</item>"
+"<item>
+
+<title>O Natal Mágico [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ONTLMGCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6501.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6501.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia
+Lançamento: 1985
+
+Ginny Grainger (Mary Steenburgen) é uma mulher amarga e que acalenta poucos sonhos. As dificuldades econômicas, o trabalho como caixa no supermercado e as diferenças com o marido ocupam toda sua atenção. Com a chegada do Natal, ela insiste em convencer os filhos de que Papai-Noel não existe. Mas isso não é o que eles pensam. Em especial sua pequena filha Abbie, principalmente depois que é visitada por um anjo que tem a missão de fazer Ginny redescobrir o espírito do Natal.</info>
+ 
+<genre>Família, Fantasia</genre>
+ 
+<date>22/11/1985</date>
 </item>"
 "<item>
 
@@ -10698,6 +10850,25 @@ Simon e Robyn casaram há pouco tempo e estão muito felizes até o dia em que e
 <genre>Thriller, Mistério, Drama</genre>
  
 <date>03/12/2015</date>
+</item>"
+"<item>
+
+<title>O Presente de Natal de Angela [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRSNTDNTLDANGLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação
+Lançamento: 2020
+
+Com o pai trabalhando na Austrália, a pequena Ângela bola um plano para realizar seu grande desejo: reunir a família no Natal.</info>
+ 
+<genre>Animação</genre>
+ 
+<date>01/12/2020</date>
 </item>"
 "<item>
 
@@ -12795,6 +12966,25 @@ Truman Burbank (Jim Carrey) é um pacato vendedor de seguros que leva um vida si
 </item>"
 "<item>
 
+<title>O Silenciamento [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/THESLCNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6570.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6570.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2020
+
+Um caçador aposentado vive isolado em um santuário de vida selvagem se envolve em um jogo mortal de gato e rato quando ele e o xerife local partem para rastrear um assassino cruel que pode ter sequestrado sua filha anos atrás.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>18/07/2020</date>
+</item>"
+"<item>
+
 <title>O Silêncio [COLOR yellow][IMDb 5,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/THSLCNCE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -13001,6 +13191,25 @@ Uma escritora pesquisadora de paranormalidade, acredita que a baixa frequência 
 <genre>Thriller, Terror, Mistério</genre>
  
 <date>29/09/2017</date>
+</item>"
+"<item>
+
+<title>O Som do Silêncio [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SONDOFMTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6561.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6561.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Música
+Lançamento: 2020
+
+Um jovem baterista teme por seu futuro quando percebe que está gradualmente ficando surdo. Duas paixões estão em jogo: a música e sua namorada, que é integrante da mesma banda de heavy metal. Essa mudança drástica acarreta em muita tensão e angústia na vida do baterista, atormentado lentamente pelo silêncio.</info>
+ 
+<genre>Drama, Música</genre>
+ 
+<date>04/12/2020</date>
 </item>"
 "<item>
 
@@ -18018,6 +18227,25 @@ Os delinquentes juvenis são enviados para uma pequena ilha britânica após a m
 <genre>Terror, Ação, Thriller</genre>
  
 <date>20/02/2007</date>
+</item>"
+"<item>
+
+<title>Os Selvagens da Noite [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/THEWARSOSLVGMDNTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6511.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6511.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 1979
+
+Nova York, em um indeterminado futuro. As gangues de delinqüentes juvenis se reúnem em uma convenção. O líder do principal grupo prega a união entre eles, pois juntos poderão controlar a cidade e o contingente deles é maior que a força policial. O líder acaba sendo assassinado, com a culpa recaindo sobre um bando da periferia, que nada teve a ver com o atentado. Assim eles se vêem obrigados a atravessar a cidade, enquanto são caçados pelos membros das outras gangues.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>24/12/1979</date>
 </item>"
 "<item>
 
