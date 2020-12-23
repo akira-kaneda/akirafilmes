@@ -1301,6 +1301,25 @@ Baseado em fatos reais, ex-prisioneiro do campo, Fuga de Sobibor / Escape from S
 </item>"
 "<item>
 
+<title>Fuga pela Fronteira [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FGAPLFRNTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6546.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6546.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Guerra, Thriller
+Lançamento: 2020
+
+Natal de 1942, os pais de Gerda e Otto são detidos por participação no movimento de resistência norueguês durante a Segunda Guerra. Após a prisão, os irmãos descobrem duas crianças judias escondidas em sua casa. Cabe agora a Gerda e Otto terminar o que seus pais começaram: ajudar Sarah e Daniel a fugir dos nazistas, cruzar a fronteira para a Suécia neutra e reencontrar seus pais.</info>
+ 
+<genre>Família, Guerra, Thriller</genre>
+ 
+<date>14/02/2020</date>
+</item>"
+"<item>
+
 <title>Fugindo do Inferno [COLOR yellow][IMDb 8,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/FGNDOINFNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2497,6 +2516,44 @@ Um atirador de elite que nunca se permitiu em pensar os alvos como humanos come�
 <genre>Guerra, Drama, Thriller</genre>
  
 <date>11/03/2016</date>
+</item>"
+"<item>
+
+<title>Rogue Warfare 2: A Caçada [COLOR yellow][IMDb 2,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RGUWRFR2ACACDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6563.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6563.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2019
+
+O próximo capítulo da Trilogia rogue warfare. Daniel foi capturado e cabe à EQUIPE encontrá-lo antes que seja tarde.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>02/12/2019</date>
+</item>"
+"<item>
+
+<title>Rogue Warfare 3: A Morte de uma Nação [COLOR yellow][IMDb 3,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RGUWRFR3AMRTEDUMNCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6564.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2020
+
+A Organização máscara negra coordena uma trama distorcida que vai devastar o mundo nas próximas 36 horas. A EQUIPE é imediatamente despachada novamente para o que será, esperançosamente, a última posição contra o 'Líder Supremo'. À medida que o relógio marca, a bomba também e eles precisam contra-atacar o núcleo do grupo terrorista. A equipe deve jogar suas vidas em risco, pois é a única maneira de desativar as armas perigosas que estão prestes a explodir em todo o mundo ao mesmo tempo. Cada soldado deve encontrar sua força interior e habilidade para desarmar este grupo terrorista de uma vez por todas.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>25/09/2020</date>
 </item>"
 "<item>
 
