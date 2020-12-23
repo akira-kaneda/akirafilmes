@@ -3714,6 +3714,25 @@ Um general, herói na Guerra do Vietnã, e seus comandados se apoderam de podero
 </item>"
 "<item>
 
+<title>A Rosa Venenosa [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ARSAVNSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6524.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6524.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime
+Lançamento: 2019
+
+Carson Phillips, um ex-astro do futebol que virou detetive particular, assume um caso de desaparecimento que lentamente se revela uma complexa teia de crimes, suspeitos e cadáveres. Quando ele descobre que sua filha é a suspeita número um, ele corre contra o relógio para salvá-la, resolver os assassinatos e descobrir os segredos sujos da cidade.</info>
+ 
+<genre>Thriller, Crime</genre>
+ 
+<date>23/05/2019</date>
+</item>"
+"<item>
+
 <title>A Rota de Colisão [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/ARTADCLSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4129,6 +4148,25 @@ Os habitantes de uma comunidade cercada por uma floresta temem que perigosas cri
 <genre>Drama, Mistério, Thriller</genre>
  
 <date>03/09/2004</date>
+</item>"
+"<item>
+
+<title>A Vingança da Babá [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACNGCDBABA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6516.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6516.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2017
+
+Stella Armstrong contrata Blake, uma babá aparentemente perfeita, para ajudar com seus filhos gêmeos, apenas para descobrir que a jovem é a filha que ela deu para adoção ao nascer – um ato que Blake quer vingar destruindo a vida e a família de Stella.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>01/07/2017</date>
 </item>"
 "<item>
 
@@ -5846,6 +5884,25 @@ Los Angeles. Christine Brown (Alison Lohman) trabalha como analista de crédito 
 </item>"
 "<item>
 
+<title>Às Cegas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASCGS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6525.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2020
+
+Após um ataque violento, Ellen se tornou reclusa em seu apartamento para se recuperar. Mas logo ela mergulha na paranóia, incapaz de convencer ninguém de que seu agressor voltou para aterrorizá-la, escondendo-se à vista de todos.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>14/12/2020</date>
+</item>"
+"<item>
+
 <title>As Criaturas Atrás das Paredes [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6299,6 +6356,25 @@ Bela e inteligente jovem vai trabalhar em grande empresa. Obcecado por ela, um c
 <genre>Thriller</genre>
  
 <date>09/02/1993</date>
+</item>"
+"<item>
+
+<title>Assim na Terra Como no Inferno [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASMNTRCMNINFRNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6527.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6527.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2014
+
+Um grupo de arqueólogos está em busca de um tesouro perdido e, para isso, explora o desconhecido labirinto de ossos nas catacumbas abaixo de Paris. Aquela região, conhecida como a cidade dos mortos, revela um segredo que mexerá com a psique humana de modo que os demônios pessoais de cada um voltarão para assombrá-los.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>29/08/2014</date>
 </item>"
 "<item>
 
@@ -6774,6 +6850,25 @@ Um jovem recém formado em medicina , se torna o mais novo membro em um renomado
 <genre>Crime, Terror, Thriller</genre>
  
 <date>18/04/2008</date>
+</item>"
+"<item>
+
+<title>Ava [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6528.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6528.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2020
+
+Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>25/09/2020</date>
 </item>"
 "<item>
 
@@ -8812,6 +8907,25 @@ Jornalistas fazem a cobertura do plano de invasão ao Iraque realizado em 2003. 
 </item>"
 "<item>
 
+<title>Cidade da Garganta Cortada [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CDADAGRNTCRTDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6489.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6489.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2020
+
+Quando quatro amigos de infância retornam ao Distrito Lower Ninth, em Nova Orleães, depois do furacão Katrina, eles encontram suas casas destruídas, e as perspectivas de trabalho são inexistentes. Sem alternativas, decidem recorrer a um gângster local, em busca de emprego, e são contratados para assaltar um cassino, no coração da cidade.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>31/07/2020</date>
+</item>"
+"<item>
+
 <title>Cidade De Pequenas Luzes [COLOR yellow][IMDb 5,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/CTYOFTNLGHTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9631,6 +9745,25 @@ Jacob (Frank Grillo), um gerente de banco, passa a ser atormentado pela memória
 </item>"
 "<item>
 
+<title>Contra o Relógio [COLOR yellow][IMDb 2,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNTRORLGO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6535.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6535.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2019
+
+Um agente da CIA é enviado em uma missão onde acaba em coma. A CIA quer extrair todas as informações de que dispõe por meio de uma operação mortal, mas sua esposa se recusa, pois sua mente em coma ainda está ativa. Ela decide investigar o que aconteceu</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>08/11/2019</date>
+</item>"
+"<item>
+
 <title>Contra o Tempo [COLOR yellow][IMDb 7,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/CNTRPTMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9932,6 +10065,25 @@ Do outro lado do espaço sideral, um pequeno grupo de terríveis criaturas com u
 <genre>Ação, Comédia, Terror, Ficção científica, Thriller</genre>
  
 <date>11/04/1986</date>
+</item>"
+"<item>
+
+<title>Crime e Desejo [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRMEDSJO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6536.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6536.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime, Ação
+Lançamento: 2019
+
+Um rapaz recém-casado se torna o representante do FBI numa cidade montanhosa de Kentucky. Lá, ele é atraído para um caso ilícito com uma mulher local pobre que se torna seu melhor informante. Ela vê nele seu meio de fuga, mas a investigação se torna desastrosa para ambos e vira um escândalo que abalou os alicerces da principal agência policial do país.</info>
+ 
+<genre>Thriller, Crime, Ação</genre>
+ 
+<date>20/06/2019</date>
 </item>"
 "<item>
 
@@ -11987,6 +12139,25 @@ Jeanne (Sophie Marceau) é uma jornalista que tenta escrever seu primeiro romanc
 </item>"
 "<item>
 
+<title>Encontro Criminoso [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENCTRCRMNSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6540.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6540.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Thriller
+Lançamento: 2019
+
+Gina e sua filha adolescente Kelsey se mudam para uma nova cidade para que Kelsey possa estudar em uma escola melhor. É o início do último ano - o que significa novas festas para participar e novos amigos para fazer.</info>
+ 
+<genre>Cinema TV, Thriller</genre>
+ 
+<date>01/07/2019</date>
+</item>"
+"<item>
+
 <title>Encontro Fatal [COLOR yellow][IMDb 4,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/ENCTRFTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -12516,6 +12687,25 @@ Frank Hamer (Kevin Costner) e Maney Gault (Woody Harrelson) são dois policiais 
 <genre>Crime, Drama, Thriller</genre>
  
 <date>15/03/2019</date>
+</item>"
+"<item>
+
+<title>Estranho Mas Verdade [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESTNHMSVRDE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6544.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6544.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2019
+
+Uma mulher surpreende a família do namorado falecido, dizendo que está grávida do filho dele.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>17/10/2019</date>
 </item>"
 "<item>
 
@@ -13087,193 +13277,1946 @@ No ano de 2027, a infertilidade é uma ameaça real para a civilização, e o ú
  
 <date>25/12/2006</date>
 </item>"
+ttps://ia601507.us.archive.org/17/items/1411_20200923/1438.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1438.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Ação, Thriller, Ficção científica, Aventura
+Lançamento: 2004
+
+Nova York, final dos anos 1930. A repórter Polly Perkins (Gwyneth Paltrow) descobre que os cientistas mais famosos do mundo estão desaparecendo. Após a cidade ser atacada por imensos robôs voadores, ela resolve pedir ajuda ao piloto e aventureiro ­ e seu antigo namorado ­ Joseph ""Capitão Sky"" Sullivan (Jude Law) e Dex (Giovanni Ribisi), o fiel ajudante dele. A missão principal do grupo é localizar o megalomaníaco doutor Totenkopf (Laurence Olivier), que está escondido em algum lugar do Nepal e planeja destruir o mundo.</info>
+ 
+<genre>Mistério, Ação, Thriller, Ficção científica, Aventura</genre>
+ 
+<date>19/11/2004</date>
+</item>"
 "<item>
 
-<title>Fim da Linha [COLOR yellow][IMDb 3,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FMDLNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Capturado [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CPTRADO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2370.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2370.jpg</thumbnail>
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3732.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3732.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2020
+
+Nero (Scott Adkins) é um ex-agente extremamente habilidoso que, da noite para o dia, se vê na missão mais importante de sua carreira: salvar a vida de seu filho. Enclausurado no deserto, o garoto tem cerca de 5 horas de oxigênio. É o tempo que Nero terá para pôr fim a três grandes organizações criminosas caso queira reencontrá-lo.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>12/10/2020</date>
+</item>"
+"<item>
+
+<title>Carga Bruta [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRGBRTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1445.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1445.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime, Thriller
+Lançamento: 2016
+
+Yanis, Eric, Nasser e Frank compõem a equipe de ladrões mais eficientes de toda Paris. Entre cada tiro, cada um deles têm que gerir também sua vida familiar, em meio a paranóia, o isolamento e a adrenalina do crime. Por ganância, Amine, o irmão mais novo de Yanis, cometeu um grande erro, e agora todos terão que mexer com algo que não têm experiência: muita droga. Mas a situação entre ladrões e traficantes rapidamente se agrava.</info>
+ 
+<genre>Drama, Crime, Thriller</genre>
+ 
+<date>04/05/2016</date>
+</item>"
+"<item>
+
+<title>Carga Explosiva [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSV1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1446.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1446.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Ação, Crime, Thriller
-Lançamento: 2016
+Lançamento: 2002
 
-Um guarda de segurança de shopping (e ex-agente federal) cruza o caminho de um grande traficante de drogas após salvar uma mulher que estava em perigo.</info>
+O ex-operador das Forças Especiais Frank Martin vive o que parece ser uma vida tranquila ao longo do Mediterrâneo francês. Na verdade ele é um transportador mercenário levando bens, humanos ou não, de um lugar para outro, sem fazer perguntas sobre que tipo de mercadoria foi contratado para transportar.</info>
  
 <genre>Ação, Crime, Thriller</genre>
  
-<date>23/09/2016</date>
+<date>02/10/2002</date>
 </item>"
 "<item>
 
-<title>Final Fantasy [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FFTSTSW.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Carga Explosiva 2 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSV2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2373.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2373.jpg</thumbnail>
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1447.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1447.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Aventura, Ação, Animação, Fantasia, Ficção científica, Thriller, Romance
-Lançamento: 2001
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2005
 
-Borrar as linhas entre a realidade e a animação por computador. Este é o primeiro filme de longa-metragem que traz uma realidade sem igual, gerada por computador, de personagens humanos. A emocionante ficção mostra a saga dos humanos de tentar resistir a uma invasão alienígena.</info>
+Frank Martin (Jason Statham) é um ex-agente das Forças Especiais que trabalha atualmente como transportador de itens valiosos. Frank atualmente trabalha para a poderosa família Billings, como favor a um amigo. Aos poucos ele fica próximo ao pequeno Jack Billings (Hunter Clary), de 6 anos, a quem leva e traz da escola. Quando Jack é sequestrado Frank é obrigado a mais uma vez pôr suas habilidades em ação, partindo em uma tentativa de resgate.</info>
  
-<genre>Aventura, Ação, Animação, Fantasia, Ficção científica, Thriller, Romance</genre>
+<genre>Ação, Thriller, Crime</genre>
  
-<date>02/07/2001</date>
+<date>02/09/2005</date>
 </item>"
 "<item>
 
-<title>Fireball [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FRBLL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Carga Explosiva 3 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSV3.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2377.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2377.jpg</thumbnail>
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1448.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1448.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Crime
+Lançamento: 2008
+
+Frank Martin (Jason Statham) é obrigado a conduzir Valentina (Natalya Rudakova), a filha de Leonid Vasilev (Jeroen Krabbé), o chefe da Agência de Proteção Ambiental da Ucrânia. Ela foi sequestrada por Jonas Johnson (Robert Knepper), contratado por uma empresa de gerenciamento internacional de resíduos que deseja operar na Ucrânia. Para ter Frank e Valentina sob controle, Jonas prende em seus pulsos um dispositivo que determina que não possam se afastar muito do carro que os conduz, caso contrário o bracelete explode. Contando com a ajuda do inspetor Tarconi (François Berléand), Frank busca um meio de deixar a armadilha.</info>
+ 
+<genre>Ação, Aventura, Thriller, Crime</genre>
+ 
+<date>05/12/2008</date>
+</item>"
+"<item>
+
+<title>Carga Explosiva: O Legado [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1449.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1449.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2015
+
+Riviera Francesa, 2010. Frank Martin segue trabalhando como transportador de mercadorias perigosas, sem fazer qualquer pergunta sobre o que carrega. Um dia ele recebe uma ligação de Anna, que deseja contratá-lo. Eles combinam de se encontrar em um requintado restaurante e lá Frank recebe a tarefa de pegá-la em frente ao Banco de Mônaco, daqui a algumas horas. Ao chegar ao local, ele é surpreedido pela presença de outras duas mulheres, o que não havia sido previamente acertado. Frank tenta desfazer o acordo, mas logo descobre que o trio mantém em cativeiro seu próprio pai. Para salvá-lo, ele aceita participar do plano das garotas.</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>10/09/2015</date>
+</item>"
+"<item>
+
+<title>Carga Mortal [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRGMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1450.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1450.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2018
+
+Sean Haggerty tem apenas uma hora para entregar uma carga ilegal, convencer um assassino, um cartel e a polícia de que nada está errado e que tudo corre como planejado, e ainda salvar a sua esposa. Como se não fosse o bastante, ele terá que fazer tudo isso de dentro do cockpit do seu avião Cessna.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>16/08/2018</date>
+</item>"
+"<item>
+
+<title>Cargo [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1451.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1451.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Aventura, Terror
+Lançamento: 2018
+
+Andy (Martin Freeman) corre contra o tempo para salvar sua filha. Infectado por um vírus de uma pandemia zumbi, ele tem apenas 48 horas para encontrar um lugar seguro a fim de proteger a criança. A salvação que o pai procura pode estar em um tribo aborígene isolada, mas para ter acesso ao grupo, ele terá que ajudar uma jovem indígena em uma missão perigosa.</info>
+ 
+<genre>Drama, Thriller, Aventura, Terror</genre>
+ 
+<date>18/05/2018</date>
+</item>"
+"<item>
+
+<title>Carrie, A Estranha [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRIEAESTNH1976.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1456.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1456.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1976
+
+A quieta e sensível adolescente Carrie White enfrenta insultos dos colegas na escola e abuso em casa de sua mãe, uma fanática religiosa. Quando estranhos acontecimentos começam a acontecer em torno de Carrie, ela começa a suspeitar que tem poderes sobrenaturais.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>03/11/1976</date>
+</item>"
+"<item>
+
+<title>Cartas Para Quem Ficou [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRTSPRQMFCOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1465.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1465.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Romance
+Lançamento: 2018
+
+Duas garotas, que eram apaixonadas pelo mesmo rapaz, começam a receber mensagens de texto no celular, e outras mensagens misteriosas após sua morte. Porém, ele era a única pessoa quem poderia enviar essas mensagens. Isso faz com que as duas rivais, se juntem e viagem para o sul do país, em busca de respostas.</info>
+ 
+<genre>Thriller, Drama, Romance</genre>
+ 
+<date>18/10/2018</date>
+</item>"
+"<item>
+
+<title>Carteristas [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRTRSTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1466.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1466.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Crime
+Lançamento: 2018
+
+Adolescentes aspirantes a ladrões aprendem com um mestre na arte da trapaça o que é preciso para ter sucesso como batedor de carteiras nas ruas de Bogotá.</info>
+ 
+<genre>Drama, Thriller, Crime</genre>
+ 
+<date>03/03/2018</date>
+</item>"
+"<item>
+
+<title>Casa Escura [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CSESCURA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1471.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1471.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2014
+
+Nick Di Santo é um homem atormentado pelas visões que tem sobre o futuro. Quando Nick vai visitar sua mãe no hospício, ele descobre que seu pai, que julgava morto, está vivo e pode ajudá-lo sobre a origem de sua terrível habilidade. Nick, então, sai em uma viagem que o leva a uma misteriosa mansão abandonada, que pensava existir só em sua imaginação de infância.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>14/03/2014</date>
+</item>"
+"<item>
+
+<title>Casamento Sangrento [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CSMNTSNGNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1476.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1476.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério, Comédia
+Lançamento: 2019
+
+Grace acaba de se casar com o herdeiro milionário de uma família especializada em jogos de tabuleiro. Antes de realmente integrar a família, no entanto, ela é obrigada a participar de uma tradição familiar: um jogo de esconde-esconde pela mansão dos Le Domas. Aos poucos, Grace percebe que a brincadeira inocente é na verdade uma caçada sangrenta contra a recém-casada, em que todas as armas e golpes são permitidos para assassiná-la. A jovem terá a difícil missão de sobreviver aos ataques até o amanhecer.</info>
+ 
+<genre>Terror, Thriller, Mistério, Comédia</genre>
+ 
+<date>21/08/2019</date>
+</item>"
+"<item>
+
+<title>Cascavel [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CASCVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1477.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1477.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Mistério, Terror
+Lançamento: 2019
+
+Como retribuição a uma mulher misteriosa que salvou sua filha picada por uma cobra mortal, uma mãe solteira tem de matar um desconhecido antes do pôr do sol.</info>
+ 
+<genre>Thriller, Drama, Mistério, Terror</genre>
+ 
+<date>25/10/2019</date>
+</item>"
+"<item>
+
+<title>Caso 39 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CSO39.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1478.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1478.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2009
+
+Emily Jenkins (Renée Zellweger) é uma dedicada assistente social que está diante do caso 39, referente à garota Lilith Sullivan (Jodelle Ferland). Os pais de Lilith tentam feri-la, o que faz com que Emily intervenha. Encantada com a garota, Emily oferece que more com ela até que seja encontrada uma família adotiva. Só que há um mistério por trás da garota, já que todos que se aproximam dela aparentam enlouquecer.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>13/08/2009</date>
+</item>"
+"<item>
+
+<title>Celular [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CLULR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1492.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1492.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica, Thriller
+Lançamento: 2016
+
+O artista gráfico Clay Riddell (John Cusack) se vê numa caçada alucinante em meio a criaturas que antes eram simples mortais. Em um rápido momento, todas as pessoas que estavam falando no celular enlouquecem. Fora de si, começam a atacar e matar quem passa pela frente. O desafio é sobreviver num mundo virado às avessas.</info>
+ 
+<genre>Terror, Ficção científica, Thriller</genre>
+ 
+<date>08/07/2016</date>
+</item>"
+"<item>
+
+<title>Cem Anos de Perdão [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMANSDPRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1493.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1493.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller
+Lançamento: 2016
+
+Uma manhã chuvosa. Seis homens disfarçados e armados assaltam a rede central de um banco em Valência. O que parecia um roubo limpo e fácil se complica, e nada acontece como estava planejado. Isso provoca desconfiança e discussão entre os dois líderes do grupo, “El Uruguayo” e “El Gallego”.</info>
+ 
+<genre>Crime, Thriller</genre>
+ 
+<date>03/03/2016</date>
+</item>"
+"<item>
+
+<title>Cemitério Maldito [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CMTRMLDTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1494.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1494.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2019
+
+Dr. Louis Creed (Jason Clarke), que após se mudar com sua esposa Rachel (Amy Seimetz) e seus dois filhos, de Boston para o Maine, descobre um misterioso cemitério escondido nas florestas perto da nova casa da família. Quando uma tragédia os atinge, Louis se volta para seu vizinho incomum, Jud Crandall (John Lithgow), desencadeando uma perigosa reação em cadeia que libera um mal insondável com consequências terríveis.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>09/05/2019</date>
+</item>"
+"<item>
+
+<title>Centro de Trauma [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1496.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1496.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2020
+
+Uma ex-paramédica fica ferida depois que testemunha um fogo cruzado envolvendo dois policiais corruptos. Levada para o hospital, ela deve sobreviver a noite enquanto homens a caçam. Felizmente, um policial veterano é designado para protegê-la, e ele se torna seu protetor à medida que a noite se torna mais perigosa.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>20/02/2020</date>
+</item>"
+"<item>
+
+<title>Céu em Chamas [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CEUEMCHMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1500.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1500.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2014
+
+Butch (Cam Gigandet) e Tom (Shane West) são dois pilotos da marinha americana que recebem uma falsa ordem de explodir um campo abandonado aonde encontram-se vários peritos americanos. Eles então, após o erro, são dispensados de suas funções. Sete anos depois, Craig torna-se um rico e famoso administrador de uma equipe de pilotos. Já Butch tornou-se um mecânico de um pequeno aeroporto e nunca parou de investigar o falso ataque. Um grupo de terroristas curdos empossa-se de uma parte do Norte do Iraque, com a finalidade de criar um novo estado, e pretende espalhar sobre as terras um químico secreto, afim de que o terreno torne-se desinteressante aos olhos americanos. Agora, a inteligência da Marinha americana oferecerá a Butch a oportunidade de limpar seu nome caso ele junte-se a um grupo de pilotos aposentados na destruição do ""Rainmaker"", a tal química secreta.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>12/03/2014</date>
+</item>"
+"<item>
+
+<title>Chamas da Vingança [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CHAMSDVNGC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1503.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1503.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Thriller, Ficção científica
-Lançamento: 2009
+Lançamento: 1984
 
-A inspetora Ava Williams investiga um incêndio na prisão até sua origem, um prisioneiro em busca de vingança contra aqueles que o colocaram atrás das grades.</info>
+Baseado em livro escrito pelo mestre do terror Stephen King, ""Chamas da Vingança"" conta a história de Andrew McGee, um homem que, quando jovem, participou de uma experiência científica na faculdade e teve uma substância misteriosa injetada em sua corrente sanguínea. Sua filha Charlie, acaba herdando a capacidade de provocar incêndios com a ajuda da mente. Juntos, pai e filha devem fugir de uma agência governamental que descobre os poderes adquiridos por Charlie.</info>
  
 <genre>Thriller, Ficção científica</genre>
  
-<date>02/01/2009</date>
+<date>11/05/1984</date>
 </item>"
 "<item>
 
-<title>Firebreather: O Lança Fogo [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/FREBRTHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Chamas da Vingança [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CHMSDVNGC2004.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2378.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2378.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Fantasia, Animação, Ação, Thriller, Ficção científica, Família
-Lançamento: 2010
-
-Firebreather conta a história de um estudante chamado Duncan Rosenblatt, filho de pais separados, cuja mãe, jogadora de futebol, deseja que ele ingresse em uma boa faculdade. Já seu pai, um dragão gigante, quer que ele siga os negócios da família, que se baseiam em conquistar a Terra e herdar o trono de Rei dos Monstros. Duncan deve conciliar sua vida familiar com a escolar, sustentadas por seus incríveis poderes de dragão.</info>
- 
-<genre>Aventura, Fantasia, Animação, Ação, Thriller, Ficção científica, Família</genre>
- 
-<date>24/11/2010</date>
-</item>"
-"<item>
-
-<title>Fobia [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FBIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2388.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2388.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller, Terror
-Lançamento: 2017
-
-Luciana (Ana Asensio ) é uma jovem imigrante que luta para começar uma nova vida em Nova York, enquanto tenta escapar do seu passado. Na nova cidade, ela recebe uma oportunidade que não pode negar, mas, a medida que o dia termina, ela é atraída para o centro de um jogo perigoso. Vidas são colocadas em risco durante enquanto um série de eventos entretém alguns privilegiados.</info>
- 
-<genre>Drama, Thriller, Terror</genre>
- 
-<date>01/12/2017</date>
-</item>"
-"<item>
-
-<title>Fora da Trilha [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FORDTRLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2394.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2394.jpg</thumbnail>
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1504.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1504.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Ação, Drama, Thriller
-Lançamento: 2016
+Lançamento: 2004
 
-Stanley Winters é um ex-soldado do SAS que vive como um recluso nos alpes franceses. Assombrado por seu passado traumático, ele sofre de depressão e deseja tirar a sua própria vida. A única coisa que o impede é a sua responsabilidade de cuidar de sua mãe cega.</info>
+Uma grande onda de sequestros e criminalidade varre a Cidade do México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy é um ex-agente da CIA. Sem emprego e bebendo mais do que deveria, ele aceita a proposta de ser guarda-costas da pequena Pita, uma garota de 9 anos que é filha de um industrial. O sequestro de Pita faz com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.</info>
  
 <genre>Ação, Drama, Thriller</genre>
+ 
+<date>08/10/2004</date>
+</item>"
+"<item>
+
+<title>Chat: A Sala Negra [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CHTASLNGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1507.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1507.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2010
+
+William, 17 anos, solitário, passa o tempo na Internet e abre um fórum de discussão para os adolescentes da cidade. Juntam-se a ele Eva, Emily, Mo e Jim, e todos falam sobre os pais, os supostos amigos, o que os perturba, os traumas que têm. William, muito atento, aconselha-os e incita-os a libertarem-se dos seus problemas através da acção… Ninguém sabe que, na vida real, William é um adolescente perturbado e que está determinado a influenciar o grupo no seu Chatroom ""para a vida – para a morte"".</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>11/08/2010</date>
+</item>"
+"<item>
+
+<title>Chen Zhen – A Lenda dos Punhos de Aço [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CHNZNALNDPNHDAC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1513.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1513.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, História, Thriller
+Lançamento: 2011
+
+Sete anos após a morte aparente de Chen Zhen, que recebeu um tiro depois de descobrir o responsável pela morte de seu professor na Shangai ocupada pelos japoneses, um estranho misterioso chega do exterior e faz amizade com um chefe da máfia local. Esse homem é Chen Zhen disfarçado que pretende se infiltrar na máfia enquanto eles fazem uma aliança com os japoneses. Disfarçado como um lutador encapuzado, Chen intenciona pegar todos os envolvidos, bem como colocar as mãos na lista de assassinatos preparada pelos japoneses.</info>
+ 
+<genre>Drama, Ação, História, Thriller</genre>
+ 
+<date>22/04/2011</date>
+</item>"
+"<item>
+
+<title>Chernobyl: Sinta a Radiação [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CHRNBLSNTARDACAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1514.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1514.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2012
+
+Seis turistas contratam um guia de turismo extremo para levá-los a cidade fantasma de Pripyat, que abrigava os trabalhadores de Chernobyl. Mas durante o passeio eles percebem que não estão sozinhos no local.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>13/07/2012</date>
+</item>"
+"<item>
+
+<title>Choque e Pavor - A Verdade Importa [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CHQEPVRAVRDAIMPRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1517.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1517.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Thriller
+Lançamento: 2018
+
+Jornalistas fazem a cobertura do plano de invasão ao Iraque realizado em 2003. Sob a lideração do então presidente dos Estados Unidos, George Bush, a missão tinha como objetivo desarmar o Iraque de todo arsenal que os americanos e aliados considerassem uma ameaça para a paz global.</info>
+ 
+<genre>Drama, História, Thriller</genre>
+ 
+<date>13/07/2018</date>
+</item>"
+"<item>
+
+<title>Cidade De Pequenas Luzes [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CTYOFTNLGHTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1547.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1547.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 2016
+
+Na urbanidade contemporânea da cidade de Londres, Tommy Akhtar (Riz Ahmed) é um asiático que trabalha como investigador particular. Ele acaba se envolvendo em um caso aparente mente simples de uma prostituta que desapareceu. Contudo, Tommy começa a descobrir uma série de segredos obscuros, que acabam revelando verdades desconfortáveis, inclusive do seu passado.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
  
 <date>12/09/2016</date>
 </item>"
 "<item>
 
-<title>Fora de Alcance [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FORDALCNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Cidade dos Sonhos [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CIDDSNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2395.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2395.jpg</thumbnail>
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1525.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1525.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Mistério
+Lançamento: 2002
+
+Uma jovem atriz viaja para Hollywood e se vê emaranhada numa intriga secreta com uma mulher que escapou por pouco de ser assassinada, e que agora se encontra com amnésia devido a um acidente de carro. Seu mundo se torna um pesadelo e surreal.</info>
+ 
+<genre>Thriller, Drama, Mistério</genre>
+ 
+<date>17/05/2002</date>
+</item>"
+"<item>
+
+<title>Cidade Louca [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CIDELOUCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1526.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1526.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2016
+
+Denny (Milo Ventimiglia) é um simpático rapaz que está tentando aprimorar a carreira como um comediante de stand-up. No entanto seu lado humorístico esconde um passado sombrio e traumatizante, que ele não consegue mais esconder. Seus pais foram mortos por sua irmã, que acaba de cumprir uma pena de 20 anos na prisão e passa a procurá-lo para reatarem a relação.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>31/03/2016</date>
+</item>"
+"<item>
+
+<title>Cidade Violenta [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CIDAVIOLNT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1527.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1527.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 1970
+
+Em uma cidade preparada para explodir, um homem precisa apenas acender o estopim. Após uma traição sangrenta e ser deixado para morrer, Jeff (Charles Bronson) um assassino profissional, persegue o atirador e Vanessa (Jill Ireland) sua linda amante. Mas, quando ele consegue se vingar, é chantagiado por Weber (telly Savals), um poderoso senhor do crime que deseja que o violento assassino se junte à sua organização. Jeff se recusa, então é perseguido atravpes de uma cidade impiedosa, onde o amor é uma arma carregada e as dívidas de vingança são pagas com balas. Agora mais do que nunca, Jeff precisa colocar seu rifle de precisão para funcionar. Ação de primeiríssima qualidade com o melhor de Charles Bronson.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>17/09/1970</date>
+</item>"
+"<item>
+
+<title>Cinquenta Tons de Cinza [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CNQNTNSDCNZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1535.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1535.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Thriller
+Lançamento: 2015
+
+Anastasia Steele (Dakota Johnson) é uma estudante de literatura de 21 anos, recatada e virgem. Uma dia ela deve entrevistar para o jornal da faculdade o poderoso magnata Christian Grey (Jamie Dornan). Nasce uma complexa relação entre ambos: com a descoberta amorosa e sexual, Anastasia conhece os prazeres do sadomasoquismo, tornando-se o objeto de submissão do sádico Grey.</info>
+ 
+<genre>Drama, Romance, Thriller</genre>
+ 
+<date>12/02/2015</date>
+</item>"
+"<item>
+
+<title>Cinzas de Vingança [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNZSDVNGCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1539.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1539.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller, Drama, Mistério
+Lançamento: 2019
+
+Com um emprego honesto e uma esposa amorosa, Nick Brenner acreditava que ele havia escapado com segurança de sua história criminosa e violenta. Mas sua antiga equipe não se esqueceu dele ou do dinheiro que roubou, e quando eles pegam o que Nick agora mais valoriza - sua esposa - ele não tem mais nada a perder. Confrontado pelo xerife da cidade, que também é seu sogro, Nick deve decidir se ele permanecerá em seu novo caminho ou se entregará à sua necessidade de vingança e forçará seus inimigos a pagar pelo que fizeram.</info>
+ 
+<genre>Crime, Thriller, Drama, Mistério</genre>
+ 
+<date>12/12/2019</date>
+</item>"
+"<item>
+
+<title>Clinical [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLNCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1551.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1551.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2017
+
+Dr. Jane Mathis (Vinessa Shaw), uma psiquiatra que passa seus dias tentando de todas as maneiras esquecer o seu passado, está prestes a relembrar um ataque violento que mudou sua vida para sempre. Isso porque, ao receber o pedido de ajuda de um paciente desfigurado, acaba aceitando a proposta de tratá-lo, sem imaginar que isso resultaria em grandes problemas.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>13/01/2017</date>
+</item>"
+"<item>
+
+<title>Clockstoppers - O Filme [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CLCKSTPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1552.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1552.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Família, Ficção científica, Thriller
+Lançamento: 2002
+
+Zak é filho do ocupadíssimo cientista Dr. Gibbs. Durante outra viagem do pai, Zak encontra em seu laboratório particular um relógio estranho que faz parar o tempo. Parecia pura diversão para o garoto mas os interessados nesta inovação tecnológica sequestram Dr. Gibbs e caberá a Zak tentar salvar seu pai e sua família.</info>
+ 
+<genre>Aventura, Família, Ficção científica, Thriller</genre>
+ 
+<date>17/03/2002</date>
+</item>"
+"<item>
+
+<title>Close [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CLSE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1553.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1553.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2019
+
+Quando a herdeira de uma empresa multimilionária (Sophie Nélisse) vira o alvo de assassinos de aluguel, a guarda-costas Sam (Noomi Rapace) fará de tudo para salvá-la - e ensiná-la a dar o troco na mesma moeda.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>18/01/2019</date>
+</item>"
+"<item>
+
+<title>Cloverfield: Monstro [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLVRFLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1556.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1556.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2008
+
+Rob Hawkins mora em Nova York e está prestes a se mudar para o Japão. Ele reúne os amigos em uma festa de despedida, na qual pretende revelar sentimentos mal-resolvidos. Entretanto um forte solavanco assusta os convidados. Todos buscam notícias sobre o ocorrido na TV, que diz que a cidade sofreu um terremoto. Ao chegar ao terraço para ver os estragos o grupo nota uma bola de fogo gigante, seguida pela queda de luz na cidade. O pânico toma conta de todos, o que aumenta ainda mais quando eles enfim conseguem chegar à rua.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>08/02/2008</date>
+</item>"
+"<item>
+
+<title>Code 8: Renegados [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CD8RNGDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1570.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1570.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Crime, Thriller, Drama
+Lançamento: 2020
+
+Num mundo onde pessoas com habilidades “especiais” vivem na pobreza, Conner Reed é um jovem poderoso que está a lutar para pagar pelo tratamento médico da sua mãe doente. Para ganhar dinheiro, ele entra num mundo criminoso e lucrativo, liderado por Garrett, que trabalha para um traficante de drogas.</info>
+ 
+<genre>Ficção científica, Ação, Crime, Thriller, Drama</genre>
+ 
+<date>02/07/2020</date>
+</item>"
+"<item>
+
+<title>Código de Conduta [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/cdgodcndta.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1571.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1571.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime, Thriller
+Lançamento: 2009
+
+Quando um dos suspeitos do assassinato de sua mulher e filha é solto, Clyde quer vingança e decide fazer justiça com as próprias mãos. Clyde é preso e dentro da cadeia organiza uma matança para desmascarar o sistema judicial corrupto.</info>
+ 
+<genre>Drama, Crime, Thriller</genre>
+ 
+<date>06/11/2009</date>
+</item>"
+"<item>
+
+<title>Código Para o Inferno [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CODGPROINFRNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1573.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1573.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 1998
+
+Após decifrar códigos de acesso a um programa secreto da Agência Nacional de Segurança, um garoto autista tem seus pais assassinados e é perseguido por oficiais inescrupulosos do governo. O agente Arthur Jeffries investiga a morte dos pais e decide protegê-lo, pois sabe que algo mais está em jogo.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>26/06/1998</date>
+</item>"
+"<item>
+
+<title>Código Vermelho [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CDGOVRMLHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1574.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1574.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller
+Lançamento: 2011
+
+Caos consome uma pequena cidade quando uma indústria química explode liberando uma toxina mortal. Momentos depois do vazamento, os moradores da cidade mostrar sinais de mutação, fazendo com que o militar para a quarentena a área, deixando os sobreviventes impotente e preso dentro. A história segue Jim, um jovem isolado dentro da zona vermelha, como ele escapa de comer carne zumbis em uma tentativa de ganhar de volta a sua liberdade.</info>
+ 
+<genre>Ficção científica, Thriller</genre>
+ 
+<date>01/01/2011</date>
+</item>"
+"<item>
+
+<title>Colateral [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CLTRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1578.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1578.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime, Thriller
+Lançamento: 2004
+
+O taxista Max está trabalhando em uma noite aparentemente tranquila de Los Angeles, até que pega como passageiro Vincent, um assassino de aluguel que está na cidade para completar o plano de um cartel do narcotráfico. Vincent precisa aguardar que as testemunhas de um crime morram e, para isso, conta com Max para despistar a polícia local e o FBI. Obrigado a seguir ordens, Max precisa ainda lutar contra a possibilidade de ser morto, já que Vincent pode usá-lo para proteção pessoal.</info>
+ 
+<genre>Drama, Crime, Thriller</genre>
+ 
+<date>27/08/2004</date>
+</item>"
+"<item>
+
+<title>Colega de Quarto [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLGADQRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1580.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1580.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Terror
+Lançamento: 2011
+
+Ela é bonita. Ela é leal. Ela é psicótica. E, infelizmente para a caloura Sara (Minka Kelly), ela é sua COLEGA DE QUARTO. Quando Sara chega à faculdade, ela começa um namoro com Stephen (Cam Gigandet) e rapidamente fica amiga de sua colega de quarto, chamada Rebecca (Leighton Meester). O que começa como uma agradável camaradagem vai se tornando assustador, e Sara acaba tendo de enfrentar a verdade: sua nova melhor amiga é obsessiva, desequilibrada e... talvez até uma assassina!</info>
+ 
+<genre>Thriller, Drama, Terror</genre>
+ 
+<date>04/02/2011</date>
+</item>"
+"<item>
+
+<title>Colheita Maldita [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLHTMLDTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1582.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1582.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1984
+
+Isaac Chroner (John Franklin), um menino pregador, vai para Gatlin, Nebraska, e consegue que as crianças assassinem todos os adultos da cidade. Um jovem casal tem de comunicar um assassinato e vai para Gatlin, a cidade mais próxima, em busca de ajuda. Porém a localidade parece abandonada e logo eles são aprisionados, com poucas chances de escaparem vivos, pois as crianças praticam um culto que utiliza sangue humano para adubar a terra.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>09/03/1984</date>
+</item>"
+"<item>
+
+<title>Colheita Maldita 3: A Colheita Urbana [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLHTMLDTA3CLHTURBAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1584.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1584.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 1995
+
+O Terceiro filme da série ""Children of The Corn"", foca em dois irmãos misteriosos que vivem na zona rural de Nebrasca. Após perderem os pais, são adotados e trazidos para Chicago. Uma cadeia de eventos mortais envolvendo a família se segue, além de surgirem revelações sobre um culto no qual o irmão mais novo pode estar envolvido.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>12/09/1995</date>
+</item>"
+"<item>
+
+<title>Colheita Maldita 5: Campos do Terror [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLHTMLDTA5CMPSDTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1586.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1586.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1998
+
+Um grupo de adolescentes se perde no meio dos Estados Unidos e chega a Gatlin, Nebrasca, onde crianças esquecidas tomaram por obrigação servir ""àquele que anda por detrás do milharal"". Os adolescentes têm menos de uma semana para saírem da cidade, todavia eles descobrem que seu carro está destruído e as crianças são incontáveis. Alison, a líder dos adolescentes, escuta que as crianças são adotadas por Lucas Enright, um homem louco que se considera o salvador daquelas crianças, e o representante na Terra daquele que anda por detrás do milharal. Ao lembrar que seu irmão está entre eles, Alison e o resto decidem ir à fazenda de Enright para descobrir a verdade sobre aquele culto bizarro.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>21/06/1998</date>
+</item>"
+"<item>
+
+<title>Colheita Maldita: Genesis [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLHTMLDTAGNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1588.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1588.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2011
+
+Durante uma viagem pelos desertos da Califórnia, Tim, e sua esposa grávida Allie, que estão viajando para ver o pai de Tim, são obrigados a aceitarem abrigo de um estranho casal e seu filho, após seu carro quebrar pela estrada, entretanto os dois descobrirão que esta família esconde um perigoso segredo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>30/08/2011</date>
+</item>"
+"<item>
+
+<title>Colisão Mortal [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/COLSMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1590.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1590.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2017
+
+Após se envolver em uma batida de carro, uma adolescente que acabou de tirar a carteira de motorista troca informações inocentemente com o homem do outro carro, afim de pagar os danos. Ela só não esperava que na mesma noite, ela fosse aterrorizada por um maníaco mascarado.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>08/02/2017</date>
+</item>"
+"<item>
+
+<title>Com 007 Só Se Vive Duas Vezes [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071967CM007SSVDV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1592.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1592.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1967
+
+Durante uma missão de rotina no espaço, uma nave americana desaparece misteriosamente da sua órbita. Os americanos suspeitam dos soviéticos e pensam em uma retaliação. No entanto, os ingleses se mantêm mais cautelosos, após existirem possibilidades da nave ter pousado perto do Mar do Japão. Assim, 007 (Sean Connery) vai investigar o caso, mas quando os soviéticos perdem uma espaçonave nas mesmas circunstâncias, Bond tem poucos dias para resolver esta missão e evitar a Terceira Guerra Mundial.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>02/10/1967</date>
+</item>"
+"<item>
+
+<title>Com 007 Viva e Deixe Morrer [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071973VIVADXMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1593.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1593.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1973
+
+Três agentes britânicos são mortos no mesmo dia, ao investigarem o contrabando de drogas, com os assassinatos estando ligados a um chefão do crime do Harlem e a um diplomata internacional. 007 (Roger Moore) vai investigar o caso e, ao chegar em Nova York, quase morto por um capanga que trabalha para o chefão do Harlem. Mas, ao iniciar suas investigações, logo o agente inglês descobre uma trama para colocar dois bilhões de dólares em heroína no mercado americano.</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>05/10/1973</date>
+</item>"
+"<item>
+
+<title>Com as Próprias Mãos [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMASPRPSMS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1599.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1599.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Ação, Thriller
+Lançamento: 2004
+
+Chris Vaughn (The Rock) é um soldado aposentado das Forças Especiais do exército americano, que retorna para sua cidade natal com a intenção de reatar antigos laços e iniciar uma nova vida. Porém a cidade em que ele nasceu não é mais a mesma, sendo agora um local controlado pelo crime. Jay Hamilton (Neal McDonough), seu rival dos tempos de colégio, fechou a serraria que possuía e é agora o chefe dos negócios criminosos do local. Decidido a reverter a situação, Chris é eleito xerife da cidade e busca a ajuda de seu velho amigo Ray (Johnny Knoxville), prometendo acabar com os negócios de Jay. Suas ações colocam em perigo sua própria família, mas Chris não está disposto a aceitar intimidações e pretende fazer com que a cidade retorne à calmaria de quando era jovem.</info>
+ 
+<genre>Aventura, Drama, Ação, Thriller</genre>
+ 
+<date>02/04/2004</date>
+</item>"
+"<item>
+
+<title>Comando Delta [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMDLT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1601.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1601.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1986
+
+Cinco anos depois de o major Scott McCoy demitir-se da Força Delta devido a questões burocráticas, ele retorna com o coronel Alexander para prender terroristas libaneses que sequestraram um Boeing 707. O líder terrorista Abdul Rifi faz de refém a tripulação e redireciona o avião para Beirute. Quando McCoy e Alexander tentam salvar os reféns, eles são forçados a combater um grupo de terroristas que é maior do que o esperado.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>20/03/1986</date>
+</item>"
+"<item>
+
+<title>Comando Final [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CMNDFINL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1604.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1604.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama, Thriller
+Lançamento: 2006
+
+O Detetive Chan da policia de Hong Kong (Simon Yam) foi quase toda sua carreira devoto em colocar na cadeia o chefe da Triade, Wong Po (Sammo Hung). Depois de Descobrir ter um tumor no Cerebro e que lhe resta poucos anos de vida. Chan e sua equipe decidem colocar Wong Po a qualquer custo na cadeia, antes de sua morte.
+
+Poucos dias antes de sua aposentadoria, Ma Kwun (Donnie Yen)respeitado Detetive que substituira Chan, passa a acompanhar a equipe e compreender suas ações.</info>
+ 
+<genre>Ação, Crime, Drama, Thriller</genre>
+ 
+<date>12/09/2006</date>
+</item>"
+"<item>
+
+<title>Comando Final 2: Hora das Consequências [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/HRDSCNSQNCIS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1605.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1605.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2015
+
+Um policial disfarçado tem a missão de pegar o Sr. Hung, o mestre de um sindicato do crime. Quando a operação dá errado e seu disfarce é descoberto, ele é levado a uma prisão na Tailânda. Lá, ele contará com a ajuda de um guarda da prisão, para que consiga sair vivo e obter a sua vingança contra aqueles que o enganaram.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>18/06/2015</date>
+</item>"
+"<item>
+
+<title>Comboio Furioso [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CMBIOFROS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1612.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1612.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2016
+
+Um comboio ""rápido"" de 4 carros transportando uma tonelada de cannabis de Málaga, no sul da Espanha, é interrompido por um tiroteio que leva ao sequestro de um turista.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>20/01/2016</date>
+</item>"
+"<item>
+
+<title>Comemoração Sangrenta [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/COMEMRCOSGRNTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1613.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1613.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2016
+
+BLEED segue um grupo de amigos enquanto exploram uma prisão incendiada em busca de fantasmas, quando rapidamente tudo se transforma em um pesadelo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>25/03/2016</date>
+</item>"
+"<item>
+
+<title>Como Eu Morro [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/COMEUMRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1620.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1620.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2016
+
+Quando um grupo de estudantes universitários se tornam parte de um estudo fármaco experimental, um efeito colateral inesperado lhes dá premonições terríveis sobre seus próprios assassinatos… que começam a se tornar realidade. À medida que se esforçam para ser mais espertos e passar a perna na morte, eles percebem que o assassino está entre eles e compartilha a sua capacidade de ver o futuro – só ele parece estar sempre um passo à frente em sua corrida para sobreviver.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>16/09/2016</date>
+</item>"
+"<item>
+
+<title>Con Air: A Rota da Fuga [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNAIRARTADFGA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1636.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1636.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 1997
+
+Um prisioneiro recém-libertado se vê no meio de um sequestro de um avião com perigosos bandidos, e tenta conter a rebelião com a ajuda de um agente do governo.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>06/06/1997</date>
+</item>"
+"<item>
+
+<title>Confissão de Assassinato [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNFSAODASSNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1644.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1644.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2012
+
+Lee Du-seok (Shi-hoo Park) publica o livro “Confissão de Assassinato”, no qual descreve em detalhes como assassinou dez mulheres anos atrás. A obra torna-se um best-seller e Lee uma celebridade. Os crimes já prescreveram, mas uma nova série de assassinatos tem início e a dúvida paira no ar: Lee voltou a atacar?</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>08/11/2012</date>
+</item>"
+"<item>
+
+<title>Confronto no Pavilhão 99 [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNFRTONPVLH99.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1646.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1646.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2017
+
+Um ex-boxeador que se tornou um contrabandista de drogas acaba sendo preso por causa de um acordo que deu errado. Dentro da cadeia, ele encontra vários de seus inimigos, homens que o obrigam a cometer atos violentos e brutais.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>23/09/2017</date>
+</item>"
+"<item>
+
+<title>Conspiração Terrorista [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNSPRCTRRST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1653.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1653.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2017
+
+Uma agente da CIA (Noomi Rapace) é especializada em interrogatórios e precisa sair a campo, em Londres, para uma missão muito perigosa. A agente briga contra o relógio para arrancar informações de um terrorista, pois um ataque biológico está para acontecer.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>01/09/2017</date>
+</item>"
+"<item>
+
+<title>Contágio [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNTGIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1659.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1659.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Ficção científica
+Lançamento: 2011
+
+Pouco depois de voltar de uma viagem de negócios, Beth Emhoff morre de uma suposta gripe. Enquanto a epidemia mortal se espalha, os médicos precisam identificar o vírus para conseguir combatê-lo e acabar com o pânico da população.</info>
+ 
+<genre>Drama, Thriller, Ficção científica</genre>
+ 
+<date>28/10/2011</date>
+</item>"
+"<item>
+
+<title>Contaminação [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNTMNCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1660.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1660.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica, Thriller
+Lançamento: 2009
+
+Em uma remota estação de pesquisa no Ártico, quatro estudantes de ecologia descobrem que o verdadeiro horror do aquecimento global não é o descongelamento, mas o que está dentro do gelo derretido. Um parasita pré-histórico é liberado da carcaça de um mamute peludo contaminando os inadvertidos estudantes, que são forçados a ficar em quarentena, sofrendo os sacrifícios decorrentes, ou arriscam infectar o mundo inteiro.</info>
+ 
+<genre>Terror, Ficção científica, Thriller</genre>
+ 
+<date>06/10/2009</date>
+</item>"
+"<item>
+
+<title>Contato Visceral [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNTRVSCRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1663.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1663.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Mistério, Thriller
+Lançamento: 2019
+
+A vida de um bartender de Nova Orleans é virada do avesso quando um cliente esquece um celular no bar. Por causa dele, o funcionário é afetado por uma série de eventos perturbadores e inexplicáveis.</info>
+ 
+<genre>Terror, Drama, Mistério, Thriller</genre>
+ 
+<date>18/10/2019</date>
+</item>"
+"<item>
+
+<title>Contatos de 4º Grau [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CNTSD4GRAU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1664.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1664.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Ficção científica, Thriller
+Lançamento: 2009
+
+O desaparecimento de pessoas em uma pequena cidade do Alasca desperta a atenção de um estudioso, que acaba misteriosamente assassinado. Sua esposa, a psicóloga Abigail Tyler, passa a observar evidências de abdução alienígena por meio de filmagens obtidas durante sessões com seus pacientes. Após outro caso de morte, o xerife August passa a considerá-la suspeita, dando início a um intrigante e assustador jogo de perguntas e respostas sobre deuses e alienígenas através das sessões de hipnose.</info>
+ 
+<genre>Mistério, Ficção científica, Thriller</genre>
+ 
+<date>06/11/2009</date>
+</item>"
+"<item>
+
+<title>Continue Assistindo [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNTNASSTND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1666.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1666.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Drama
+Lançamento: 2017
+
+Uma família se torna refém em sua própria casa de um grupo de invasores, que brincam com eles em um jogo de vida e morte. Enquanto a noite se desenrola, as novas regras apresentadas pelos criminosos abrem caminho para que as vítimas percebam que não se trata de uma simples invasão.</info>
+ 
+<genre>Thriller, Terror, Drama</genre>
+ 
+<date>04/05/2017</date>
+</item>"
+"<item>
+
+<title>Contos da Escuridão [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNTSDESCRDAOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1667.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1667.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Comédia, Fantasia, Terror
+Lançamento: 1990
+
+Três histórias separadas, ligadas por uma quarta história onde um garoto lê os três contos de terror, enquanto uma mulher planeja cozinhá-lo para o jantar. Na primeira história, adaptação de um conto de Arthur Conan Doyle, um estudante ressucita uma múmia, que passa a atacar estudantes. A segunda história, Um Gato do Inferno, é adaptação de um conto de Stephen King sobre um gato que não pode ser morto e faz várias vítimas. Na terceira história, um artista faz um pacto com o diabo para conseguir uma bela esposa e uma carreira de sucesso, só que ele tem uma surpresa.</info>
+ 
+<genre>Thriller, Comédia, Fantasia, Terror</genre>
+ 
+<date>04/05/1990</date>
+</item>"
+"<item>
+
+<title>Contos do Dia das Bruxas [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CNTSDIDSBRXS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1668.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1668.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Comédia
+Lançamento: 2007
+
+Na noite do Halloween, uma pequena cidade descobrirá que algumas tradições nunca devem ser esquecidas. Um casal quebra uma lanterna de abóbora antes da meia-noite, quatro mulheres são perseguidas por um mascarado, alguns garotos travessos descobrem um terrível segredo enterrado e um eremita rabugento recebe uma soturna visita. As travessuras de Halloween podem ser mortais quando as mais variadas criaturas – humanas ou não – tentam sobreviver à mais assustadora noite do ano.</info>
+ 
+<genre>Terror, Thriller, Comédia</genre>
+ 
+<date>07/12/2007</date>
+</item>"
+"<item>
+
+<title>Contra a Parede [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNTRAPRDE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1670.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1670.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime, Thriller
+Lançamento: 2018
+
+A política e a sociedade são colocadas frente a frente, no que refere-se ao caráter diário e honra. A menos de três meses das eleições para presidente do Brasil, um renomado apresentador de telejornal enfrenta um explosivo conflito ético que envolve seu trabalho e sua relação pessoal com dois candidatos apontados como favoritos nas pesquisas.</info>
+ 
+<genre>Drama, Crime, Thriller</genre>
+ 
+<date>11/08/2018</date>
+</item>"
+"<item>
+
+<title>Contra Ataque [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RPSLCNTRATQ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5229.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5229.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2018
+
+Jacob (Frank Grillo), um gerente de banco, passa a ser atormentado pela memória de um assalto violento que resultou na morte de uma colega de trabalho. Ao lado de seu vizinho, James (Bruce Willis), um ex-policial com desejo de vingança, a dupla passa tenta prever os próximos alvos de Gabriel (Johnathon Schaech), o criminoso por trás do assalto ao banco.</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>13/12/2018</date>
+</item>"
+"<item>
+
+<title>Contra o Tempo [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CNTRPTMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1671.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1671.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Mistério
+Lançamento: 2011
+
+Um soldado assume a mente de um homem nos últimos oito minutos de sua vida, antes da explosão de um trem. Sua missão é voltar diversas vezes ao mesmo momento e descobrir quem plantou a bomba e como impedir a tragédia.</info>
+ 
+<genre>Thriller, Ficção científica, Mistério</genre>
+ 
+<date>30/09/2011</date>
+</item>"
+"<item>
+
+<title>Controle Absoluto [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CNTRLABSLTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1673.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1673.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Ação
+Lançamento: 2008
+
+Jerry Shaw (Shia LaBeouf) e Rachel Holloman (Michelle Monaghan) não se conhecem, até que um telefonema feito por uma mulher desconhecida os une. Ameaçando a vida de ambos e de suas famílias, a voz utiliza a tecnologia do dia-a-dia para rastrear e controlar todos os seus movimentos. Logo eles se tornam os fugitivos mais procurados do país, precisando se unir para descobrir o que realmente está ocorrendo.</info>
+ 
+<genre>Mistério, Thriller, Ação</genre>
+ 
+<date>26/09/2008</date>
+</item>"
+"<item>
+
+<title>Cópias: De Volta à Vida [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CPSDVLT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1676.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1676.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica
+Lançamento: 2019
+
+Um neurocientista e sua família sofrem um acidente de carro e só ele sobrevive. Inconformado, o homem começa uma luta incessante para trazê-los de volta por meio de um experimento que desafia as leis físicas da ciência.</info>
+ 
+<genre>Thriller, Ficção científica</genre>
+ 
+<date>18/04/2019</date>
+</item>"
+"<item>
+
+<title>Cores da Justiça [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRSDJSTCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1692.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1692.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2019
+
+Após presenciar e filmar o assassinato de um jovem traficante por policiais corruptos, a oficial novata Alicia West (Naomie Harris) se une a Mouse (Tyrese Gibson), que está disposto a ajudá-la a escapar dos criminosos que querem vingança e da polícia que deseja destruir a gravação incriminadora.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>25/10/2019</date>
+</item>"
+"<item>
+
+<title>Coringa [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRNGA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1695.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1695.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller, Drama, Baseado em Quadrinho
+Lançamento: 2019
+
+Arthur Fleck trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.</info>
+ 
+<genre>Crime, Thriller, Drama, Baseado em Quadrinho</genre>
+ 
+<date>03/10/2019</date>
+</item>"
+"<item>
+
+<title>Corpo Fechado [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRPFCHDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1697.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1697.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Mistério
+Lançamento: 2001
+
+Um espantoso desastre de trem deixa os Estados Unidos em choque. Todos os passageiros das locomotivas acabam mortos, exceto David Dunne, que sai completamente ileso do acidente, deixando todos, inclusive os médicos e ele próprio, em choque. Enquanto busca explicações sobre o que poderia ter salvado sua vida, David encontra Elijah Price, um desconhecido que apresenta uma explicação no mínimo bizarra para o fato.</info>
+ 
+<genre>Thriller, Drama, Mistério</genre>
+ 
+<date>19/01/2001</date>
+</item>"
+"<item>
+
+<title>Corra! [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CORRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1704.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1704.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Terror
+Lançamento: 2017
+
+Agora que Chris e sua namorada, Rose, chegaram à fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princípio, Chris acha que o comportamento excessivamente agradável dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avança, uma série de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.</info>
+ 
+<genre>Mistério, Thriller, Terror</genre>
+ 
+<date>18/05/2017</date>
+</item>"
+"<item>
+
+<title>Correndo Contra o Tempo [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DNTLTGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1994.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1994.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller, Mistério, Crime
+Lançamento: 2019
+
+Anos depois de ter toda sua família morta de maneira brutal em um aparente assassinato, um homem recebe uma estranha ligação de uma das falecidas. Convencido plenamente de que está ficando louco, seus limites são testados quando ele começa a se questionar se há alguma espécie de conspiração por trás de tudo ou se finalmente sua sanidade está indo embora.</info>
+ 
+<genre>Ficção científica, Thriller, Mistério, Crime</genre>
+ 
+<date>30/08/2019</date>
+</item>"
+"<item>
+
+<title>Corrida Mortal [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRDAMRTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1710.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1710.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2008
+
+Jensen Ames (Jason Statham) é um ex-piloto profissional condenado por um terrível assassinato. Encarcerado em Terminal Island, uma prisão de segurança máxima com regras próprias, ele se vê obrigado a voltar às pistas e participar de uma competição mortal cujo vencedor pode conquistar a liberdade. O problema é que lá a corrida e os competidores são diferentes, enquanto a vontade de matar e ser livre correm lado a lado.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>22/08/2008</date>
+</item>"
+"<item>
+
+<title>Corrida Mortal 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRDAMRTL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1711.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1711.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2011
+
+Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>18/01/2011</date>
+</item>"
+"<item>
+
+<title>Corrida Mortal 4 - Além da Anarquia [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRDAMRT4.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1713.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1713.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2018
+
+Danny Trejo retorna como o bookie implacável, Goldberg, no mais selvagem e mais sangrento da Death Race. Após um ataque fracassado contra o detentor e motorista lendário, Frankenstein, especialista da Black Ops Connor Gibson (McGowan) infiltra uma prisão federal super-máxima com um objetivo - entre na iminente e ilegal Death Race e tira Frankenstein. Connor recruta a ajuda de Baltimore Bob (Glover) e Lists (Koehler), e inesperadamente se apaixona pela bartending beauty, Jane (Marzano). Connor terá que lutar por mais do que sua vida neste mundo brutal, sem guardas, sem regras, sem trilha e sem medo.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>20/11/2018</date>
+</item>"
+"<item>
+
+<title>Cortina de Fogo [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRTNDFGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1717.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1717.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 1991
+
+Chicago, 1971. Quando criança, Brian McCafferty (William Baldwin) viu seu pai, bombeiro, perder a vida no cumprimento do dever. Vinte anos depois ele passa a integrar o corpo de bombeiros, juntando-se ao irmão mais velho, Stephen (Kurt Russell). Os dois brigam o tempo todo e Brian vai trabalhar com Donald Rimgale (Robert De Niro), investigador de incêndios, num caso de 'cortina de fogo' que pode ter motivações políticas.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>09/08/1991</date>
+</item>"
+"<item>
+
+<title>Covil de Ladrões [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CVLDLDRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1720.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1720.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2018
+
+Em Los Angeles, uma saga de crimes coloca em intersecção a vida de dois grupos: a unidade de elite do departamento de polícia local e a equipe de assaltantes de banco mais bem sucedida do estado. Os criminosos planejam um roubo que aparentemente é impossível, num banco localizado no centro da cidade</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>08/03/2018</date>
+</item>"
+"<item>
+
+<title>Creep 2 [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CREP2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1727.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1727.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2017
+
+Sara (Desiree Akhavan), uma curiosa cineasta, responde a um anúncio online de alguém que parece ser a cobaia perfeita para seu novo projeto. Ela concorda em passar um dia acompanhando um homem (Mark Duplass) que diz ser um serial killer, imaginando em como seu projeto de vídeo será chocante e inovador. Mas não demora para que descubra que está entrando em um buraco do qual não poderá sair.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>24/10/2017</date>
+</item>"
+"<item>
+
+<title>Crianças de Cera [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRNCDCERA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1729.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1729.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2007
+
+Kumal é um policial que está no meio do fogo cruzado entre duas gangues do tráfico de drogas. Quando crianças começam a aparecer mortas pelas mãos cruéis de um assassino em série, ele tem motivos para desconfiar de todos. Sem tempo a perder, Kumal terá que descobrir qual é a identidade do homem que transforma crianças em bonecos de cera, antes que a cidade vire um completo caos.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>17/07/2007</date>
+</item>"
+"<item>
+
+<title>Criaturas [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRATRS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1731.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1731.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Terror, Ficção científica, Thriller
+Lançamento: 1986
+
+Do outro lado do espaço sideral, um pequeno grupo de terríveis criaturas com uma fome voraz escapa facilmente de um asteróide de segurança máxima e parte rumo à liberdade. Eles são seguidos de perto por caçadores de recompensa intergalácticos, que terão muito trabalho para impedi-los de chegar ao seu objetivo final: a Terra. Já no nosso planeta, as criaturas acabam caindo em uma pequena cidade do interior dos EUA, onde começam a devorar tudo (e todos) que vêem pela frente. Ou a vizinhança liderada por Helen Brown tenta combater esta ameaça por conta própria, ou serão todos vítimas destes seres famintos. A batalha começou em outra galáxia… e vai acabar bem no jardim da família Brown.</info>
+ 
+<genre>Ação, Comédia, Terror, Ficção científica, Thriller</genre>
+ 
+<date>11/04/1986</date>
+</item>"
+"<item>
+
+<title>Crimes de Família [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRMSDFMLIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1738.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1738.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime, Drama
+Lançamento: 2020
+
+Desesperada e confusa, Alícia faz de tudo para evitar que o filho seja preso por tentativa de assassinato.</info>
+ 
+<genre>Thriller, Crime, Drama</genre>
+ 
+<date>20/08/2020</date>
+</item>"
+"<item>
+
+<title>Crimes em Primeiro Grau [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRMSEMPRMROGRAU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1740.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1740.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Thriller, Crime
+Lançamento: 2002
+
+Claire Kubik (Ashley Judd) é uma promotora de sucesso que tem um casamento feliz com Tom Chapman (James Caviezel), até que é surpreendida com a revelação de que seu marido tem um passado escondido como integrante do exército norte-americano. Tom é acusado de ter participado em um massacre em El Salvador, sendo preso por esta acusação até que seu julgamento na corte militar ocorra. Ainda atordoada com o ocorrido e em dúvida sobre seu marido, Claire decide defendê-lo no julgamento e para tanto recebe a ajuda de Charles Grimes (Morgan Freeman), um promotor militar.</info>
+ 
+<genre>Drama, Mistério, Thriller, Crime</genre>
+ 
+<date>05/04/2002</date>
+</item>"
+"<item>
+
+<title>Crimes Na Escola [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CRMSNESCLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1741.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1741.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2018
+
+Samantha Hodges é uma aluna muito ambiciosa que trabalha para o jornal do colégio. Seu maior desejo é uma bolsa de estudos para a faculdade. Porém, outros colegas que querem a bolsa são assassinados. Agora, ela terá que investigar quem está por trás dos crimes e desmascarar o culpado.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>16/01/2018</date>
+</item>"
+"<item>
+
+<title>Crimes na Madrugada [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRMSNMDRGAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1742.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1742.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2017
+
+O policial Vincent Downs (Jamie Foxx) é envolvido numa rede de policiais corruptos e submundo dos casinos. Após um roubo, seu filho adolescente é sequestrado por um mafioso Rob Novak (Scott McNairy). Agora, Downs tem apenas uma noite para fugir de uma investigação interna e salvar o garoto.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>13/01/2017</date>
+</item>"
+"<item>
+
+<title>Crimes Obscuros [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CRMSOBSCRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1743.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1743.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2018
+
+O policial Tadek investiga um caso de assassinato não resolvido e encontra semelhanças do crime em um livro do artista polonês Krystov Kozlow. Ele começa a investigar a vida do escritor e da sua namorada, uma mulher misteriosa que trabalha num sex club. Sua obsessão aumenta e Tadek fica cada vez mais atormentado, adentrando num submundo de sexo, mentiras e corrupção.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>18/05/2018</date>
+</item>"
+"<item>
+
+<title>Criminosos de Novembro [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRMNOSDNOV.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1744.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1744.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Mistério, Thriller
+Lançamento: 2017
+
+Addison tem 18 anos de idade e está terminando o Ensino Médio. Enquanto pensa se deve entrar na universidade, ele leva uma vida cheia de conflitos, vendendo drogas aos colegas e brigando com os professores. Quando Kevin, um colega de turma, é assassinado, Addison decide fazer a sua própria investigação.</info>
+ 
+<genre>Crime, Drama, Mistério, Thriller</genre>
+ 
+<date>28/12/2017</date>
+</item>"
+"<item>
+
+<title>Crocodilo [COLOR yellow][IMDb 3,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CRDLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1747.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1747.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Thriller
+Lançamento: 2000
+
+Oito adolescentes vão passar as suas férias a bordo de um barco, num lago na Califórnia do sul.O passeio em breve se torna um pesadelo, quando roubam uns ovos de crocodilo…</info>
+ 
+<genre>Terror, Ação, Thriller</genre>
+ 
+<date>26/12/2000</date>
+</item>"
+"<item>
+
+<title>Crônicas da Tribo Fantasma [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CRNCSDTRBFNTSMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1752.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1752.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 2015
+
+Em 1979, um jovem soldado está trabalhando nas montanhas cobertas pela neve na China, quando uma explosão revela bizarros fósseis escondidos nas profundezas de uma caverna. A sua descoberta não só irá mudar sua vida para sempre, mas também a história da humanidade.</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>30/09/2015</date>
+</item>"
+"<item>
+
+<title>Crypto: Máfia Digital [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MFADGTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1758.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1758.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime, Drama
+Lançamento: 2019
+
+Um jovem agente anti-lavagem de dinheiro é encarregado de investigar uma densa rede de corrupção em Nova York. Uma enorme fraude envolvendo criptomoedas, negociantes e nomes poderosos da cidade.</info>
+ 
+<genre>Thriller, Crime, Drama</genre>
+ 
+<date>12/04/2019</date>
+</item>"
+"<item>
+
+<title>Cubo Zero [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CUBZRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1760.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1760.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Ficção científica, Thriller
+Lançamento: 2004
+
+A trama segue o princípio básico dos anteriores: um grupo de pessoas encontra-se preso num cubo com diversas câmaras e, aparentemente, sem saída. Em cada sala, uma armadilha e uma morte. Só o mais esperto e menos rebelde sempre sobrevive. Desta vez, porém, há a viagem a um local misterioso e uma trama envolvendo operadores do cubo.</info>
+ 
+<genre>Mistério, Ficção científica, Thriller</genre>
+ 
+<date>15/10/2004</date>
+</item>"
+"<item>
+
+<title>Cucuy: O Bicho-Papão [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/CUCYOBCHPAPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1761.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1761.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2018
+
+Glimmer Peak está abalada pelo desaparecimento inexplicável de várias crianças. Sofia, a curiosa sobrinha do xerife, descobre que por trás de tudo isso está Cucuy, o mítico homem que rouba crianças, e precisa enfrentá-lo antes que seja tarde demais.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>13/10/2018</date>
+</item>"
+"<item>
+
+<title>Cujo [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CJO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1762.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1762.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1983
+
+Cujo, um doce cachorro São Bernardo, é picado por um morcego-vampiro e fica raivoso. A partir de então, ele espalha o terror em uma pequena cidade dos Estados Unidos e faz reféns uma mulher e seu filho, aprisionados dentro de um carro quebrado, sob um calor escaldante, durante horas intermináveis.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>12/08/1983</date>
+</item>"
+"<item>
+
+<title>Culpa [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/CLPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1763.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1763.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime, Thriller
+Lançamento: 2018
+
+O policial Asger Holm (Jakob Cedergren) está acostumado a trabalhar nas ruas de Copenhaguem, mas devido a um conflito ético no trabalho, é confinado à mesa de emergências. Encarregado de receber ligações e transmitir às delegacias responsáveis, ele é surpreendido pela chamada de uma mulher desesperada, tentando comunicar o seu sequestro sem chamar a atenção do sequestrador. Infelizmente, ela precisa desligar antes de ser descoberta, de modo que Asger dispõe de poucas informações para encontrá-la. Começa a corrida contra o relógio para descobrir onde ela está, para mobilizar os policiais mais próximos e salvar a vítima antes que uma tragédia aconteça.</info>
+ 
+<genre>Drama, Crime, Thriller</genre>
+ 
+<date>20/12/2018</date>
+</item>"
+"<item>
+
+<title>Cut Bank - Assassinato Por Encomenda [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CTBNKASSNTPENCMNDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1767.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1767.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Thriller
 Lançamento: 2015
 
-Madec (Michael Douglas) é um homem muito rico a fim de aventuras. Ele contrata Ben (Jeremy Irvine) para guiá-lo em uma viagem de caça ao deserto de Mojave, na Califórnia. Ben é um jovem imaturo que deseja mudar de vida e sair de sua pequena cidade. Eles vão para o deserto. Mas coisas ruins acontecem durante a viagem.</info>
+Cut Bank, uma das cidades mais frias dos Estados Unidos, apresenta poucas perspectivas de futuro aos seus habitantes. Dwayne McLaren (Liam Hemsworth), um astro de futebol americano nos tempos do colégio, percebe essa dura realidade quando é obrigado a fazer pequenos trabalhos como mecânico para o sogro (Billy Bob Thornton). Até que Dwayne tem a chance de ganhar uma grande recompensa após conseguir provas do assassinato do carteiro local Georgie Wits (Bruce Dern). Mas quando a investigação toma outros nivéis, acontecimentos inesperados vão arruinar os seus planos e marcar a história de Cut Bank para sempre.</info>
  
 <genre>Thriller</genre>
  
-<date>17/04/2015</date>
+<date>26/02/2015</date>
 </item>"
 "<item>
 
-<title>Fora do Rumo [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FRDRMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Dama de Espadas [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/DMADESPDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2397.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2397.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1779.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1779.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Ação, Comédia, Thriller, Mistério
+<info>Genero: Thriller, Mistério
 Lançamento: 2016
 
-Um detetive de Honk Kong monta uma equipe com um apostador norte-americano para batalhar contra um notório criminoso chinês.</info>
+Um homem fica intrigado com a história da mulher que perde tudo em um jogo de cartas e recupera tudo de volta.</info>
  
-<genre>Ação, Comédia, Thriller, Mistério</genre>
+<genre>Thriller, Mistério</genre>
  
-<date>27/10/2016</date>
+<date>17/11/2016</date>
 </item>"
 "<item>
 
-<title>Força Aérea Um [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/FRCAERUM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Darc [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DARC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801907.us.archive.org/25/items/2531_20201015/2398.jpg</image>
-<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2398.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1785.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1785.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Ação, Thriller
-Lançamento: 1997
+Lançamento: 2018
 
-Ao visitar a Rússia, o presidente americano faz um pronunciamento de nunca ceder às exigências de terroristas. Quando o presidente volta para casa em companhia de sua família, alguns partidários de um ditador preso pelos EUA assumem o controle do avião e exigem a libertação de seu líder. Caso contrário, matarão a mulher e a filha do presidente. Ele precisa escolher entre negociar com os terroristas e negar o que pregou, ou decidir não negociar e ver sua família ser assassinada.</info>
+Para acabar com um esquema mundial de tráfico humano, um agente da interpol recorre à ajuda de um violento criminoso que conhece os meandros da Yakuza.</info>
  
 <genre>Ação, Thriller</genre>
  
-<date>14/11/1997</date>
+<date>01/05/2018</date>
 </item>"
 "<item>
 
-<title>Foxcatcher: Uma História que Chocou o Mundo [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FXCTHRUHQCOM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Darker than Night [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/DRKTHNGHT.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801907.us.archive.org/25/items/2531_20201015/2407.jpg</image>
-<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2407.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller
-Lançamento: 2015
-
-Campeão olímpico de luta greco-romana, Mark Schultz (Channing Tatum) sempre treinou com seu irmão mais velho, David (Mark Ruffalo), que é também uma lenda no esporte. Até que, um dia, recebe um convite para visitar o milionário John du Pont (Steve Carell) em sua mansão. Apaixonado pelo esporte, du Pont oferece a Mark que entre em sua própria equipe, a Foxcatcher, onde teria todas as condições necessárias para se aprimorar. Atraído pelo salário e as condições de vida oferecidas, Mark aceita a proposta e, assim, se muda para uma casa na propriedade do milionário. Aos poucos eles se tornam amigos, mas a difícil personalidade de du Pont faz com que Mark acabe seguindo uma trilha perigosa para um atleta.</info>
- 
-<genre>Drama, Thriller</genre>
- 
-<date>22/01/2015</date>
-</item>"
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1788.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1788.jpg</thumbnail>
+<fanar
