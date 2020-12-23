@@ -1,5 +1,138 @@
 "<item>
 
+<title>Mr. Bean - O Filme [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MRBENOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3489.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3489.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Aventura
+Lançamento: 1997
+
+Em pleno Outono de 1997, uma galeria americana decide comprar, através da dádiva de um milionário, um importantíssimo quadro que estava em Paris. Para reforçar a importância do acontecimento a galeria pediu à Royal National Gallery de Inglaterra que enviasse o seu mais ilustre conhecedor de arte no sentido deste apresentar a obra. Este seria o maior erro da história da Grierson Gallery, pois os Ingleses não lhe iriam disponibilizar a pessoa que eles tanto pretendiam. O ""escolhido"" seria o empregado mais detestável que possuíam, pois era a única forma que encontraram para se verem livres dele. Quem é o famoso empregado? Mr. Bean. 007 é o seu Q.I.</info>
+ 
+<genre>Comédia, Família, Aventura</genre>
+ 
+<date>22/08/1997</date>
+</item>"
+"<item>
+
+<title>Mucha Lucha: The Return of El Malefico [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MCHLCHAORTNDELMFCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3491.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3491.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Ação
+Lançamento: 2005
+
+A série de TV de sucesso boldy vai maior em uma comédia / aventura cheia de ação estrelando as luchadoras favoritas de todos! Quando o maior mal que o mundo já conheceu -El Malefico -superfície dos recessos escuros da Terra, cabe a Rikochet, Buena Girl e The Flea lutar com a máscara contra ele! O desafio começa com uma busca em todo o mundo pelos artefatos de bueno-ness e termina em Las Vegas</info>
+ 
+<genre>Aventura, Animação, Ação</genre>
+ 
+<date>04/01/2005</date>
+</item>"
+"<item>
+
+<title>Muito Além dos Limites [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MTALMDSLMTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3498.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3498.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Crime, Drama, Thriller
+Lançamento: 2008
+
+Michael Dixon é um homem respeitado por seus colegas de trabalho na Patrulha de Fronteira dos Estados Unidos e adorado pela família. Mas agora, ele enfrenta a ameaça de um passado duvidoso, quando foi membro de uma gangue terrível de Los Angeles. Michael volta a encontrar a gangue no Novo México e busca uma maneira de proteger a sua família.</info>
+ 
+<genre>Ação, Aventura, Crime, Drama, Thriller</genre>
+ 
+<date>01/01/2008</date>
+</item>"
+"<item>
+
+<title>Mulan [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MULAN01.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3502.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3502.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Aventura
+Lançamento: 1998
+
+Na antiga China, durante a guerra, todos os homens são convocados para lutar. Mas, um pobre velho, que pela idade não poderia mais lutar, descobre que sua filha Mulan toma o seu lugar, vestindo-se como homem e permanecendo em segredo. Se isso for descoberto, o castigo será severo. Agora, durante a guerra, Mulan ganha a proteção de um pequeno dragão, cuja missão é cuidar para que ela volte a salvo</info>
+ 
+<genre>Animação, Família, Aventura</genre>
+ 
+<date>18/06/1998</date>
+</item>"
+"<item>
+
+<title>Mulan [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MULAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3503.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3503.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Fantasia
+Lançamento: 2020
+
+Hua Mulan é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.</info>
+ 
+<genre>Ação, Aventura, Drama, Fantasia</genre>
+ 
+<date>04/09/2020</date>
+</item>"
+"<item>
+
+<title>Mulher Maravilha [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MLHRMRVLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3505.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
+Lançamento: 2009
+
+Mulher Maravilha contará a origem da amazona na mísitca ilha grega de Temíscera e sua inevitável jornada pelo mundo dos homens, onde ela se estabelce como heroína que segue suas próprias regras. Entretanto, o conflito se estabelece quando o deus da guerra, Ares, escapa da sua prisão e jura vingança contra o mundo dos mortais e dos deuses. Cabe à Mulher-Maravilha impedi-lo.</info>
+ 
+<genre>Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
+ 
+<date>03/03/2009</date>
+</item>"
+"<item>
+
+<title>Mulher-Maravilha [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/MLHRMRVLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3508.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3508.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
+Lançamento: 2017
+
+Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.</info>
+ 
+<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>01/06/2017</date>
+</item>"
+"<item>
+
 <title>Mune, O Guardião da Lua [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/MUNOGRDAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1897,6 +2030,25 @@ John Hammond chama o teórico do caos Ian Malcolm à sua casa para dar algumas n
 <genre>Aventura, Ação, Ficção científica</genre>
  
 <date>20/06/1997</date>
+</item>"
+"<item>
+
+<title>O Natal do Zé Coleta [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ONTLDZCLTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6559.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Família
+Lançamento: 2020
+
+Papai Noel tem que fazer um pouso forçado e cabe a Hank, Zé Coleta e os amigos animais ajudar a salvar o Natal de todos.</info>
+ 
+<genre>Animação, Aventura, Família</genre>
+ 
+<date>11/12/2020</date>
 </item>"
 "<item>
 
@@ -7374,6 +7526,25 @@ No final do século XVII em pleno Oeste norte-americano vive Spirit, um cavalo q
 </item>"
 "<item>
 
+<title>Spycies: Agentes Selvagens [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SYCSAGNTSLVGNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6569.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6569.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Ação, Aventura, Família
+Lançamento: 2020
+
+Spycies Agentes Especiais acompanha dois agentes secretos, um gato veterano rebelde e um rato novato que gosta de assistir televisão e jogar videogame. Juntos, eles formarão uma dupla totalmente improvável para investigar o roubo de um objeto secreto e descobrir o que os bandidos realmente desejam.</info>
+ 
+<genre>Animação, Comédia, Ação, Aventura, Família</genre>
+ 
+<date>17/09/2020</date>
+</item>"
+"<item>
+
 <title>Star Trek [COLOR yellow][IMDb 7,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/STRTRK11.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8664,6 +8835,25 @@ Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e d
 <genre>Ação, Aventura, Ficção científica, Fantasia</genre>
  
 <date>20/07/2017</date>
+</item>"
+"<item>
+
+<title>Três Amigos! [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TRSAMGS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6505.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6505.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Faroeste, Aventura
+Lançamento: 1986
+
+""Steve Martin, Chevy Chase e Martin Short são tres loucos e rebeldes cavaleiros nesta comédia de aventura que é um verdadeiro festival de risadas. Co-estrelando Phil Hartman. Jon Lovitz e Joe Mantegna, Três Amigos! abre o caminho para a redefinição das fronteiras da comédia! Quando uma pequena vila mexicana é aterrorizada por um conhecido fora-da-lei, uma jovem desesperada decide chamar os únicos heróis que ela conhece: os legendários Três Amigos! Conhecidos por todos como intrépidos defensores da liberdade, estes corajosos vaqueiros de fato não passam de atores de cinema. Outrora famosos por seus filmes faroeste, hoje eles estão desempregados. E embora as únicas lutas de que já participaram na vida tenham acontecido apenas nos sets de filmagem, quando os criminosos atacam, os Três Amigos! descobrem que os bandidos e as balas de suas armas são bem reais!</info>
+ 
+<genre>Comédia, Faroeste, Aventura</genre>
+ 
+<date>12/12/1986</date>
 </item>"
 "<item>
 
@@ -10013,6 +10203,25 @@ Numa terra mística onde o mágico é real, vive Willow Ufgood (Warwick Davis), 
 <genre>Ação, Aventura, Fantasia</genre>
  
 <date>20/05/1988</date>
+</item>"
+"<item>
+
+<title>Wolfwalkers [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/WLFWLKRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6514.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Fantasia, Família
+Lançamento: 2020
+
+A chegada de um caçador de lobos a uma cidadezinha irlandesa é o começo de uma grande aventura para Robyn, quando ela conhece na floresta uma menina com um estranho dom.</info>
+ 
+<genre>Aventura, Animação, Fantasia, Família</genre>
+ 
+<date>26/10/2020</date>
 </item>"
 "<item>
 
