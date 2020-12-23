@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",ANIMAL PLANET
-http://149.202.91.73:8081/look/animal/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",CBN
-http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",DISNEY CHANNEL
-http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",FOX SPORTS
+http://169.57.142.110:25461/live/Soe1c0kziS/lzb90tOgUz/36.ts
+#EXTINF:-1 tvg-id="1" tvg-logo="http://brazuca.link/img2/054a43f1d6/grd.gif",FOX SPORTS 2
+http://169.57.142.110:25461/live/jK3GUGOmZq/FjE4zWAk2r/28.ts
