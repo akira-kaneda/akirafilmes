@@ -2843,6 +2843,25 @@ O The Barden Bellas é um grupo formado apenas por garotas, que apostam no visua
 </item>"
 "<item>
 
+<title>A Escolha Perfeita [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESCLHPRFT2016.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6580.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6580.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2016
+
+Charlie é um playboy que não acredita no amor, e está tão certo disso que aceita uma aposta de seus dois melhores amigos, Rick e Victor, que dizem que se ele conseguir permanecer com uma mulher durante um mês, ele irá se apaixonar. Charlie só não esperava conhecer a bela e misteriosa Eva, com quem começa um romance. Antes convencido que o caso não duraria, ele passa a se questionar se aquele relacionamento merece durar mais de uma noite.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>11/03/2016</date>
+</item>"
+"<item>
+
 <title>A Escolha Perfeita 2 [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3320,6 +3339,25 @@ Intrigada, Ashley volta para o dormitório e, junto com sua colega de quarto Pro
 </item>"
 "<item>
 
+<title>A Face da Verdade [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFCEDVRDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6518.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6518.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Um soldado chamado Jack está no campo de batalha e, após receber uma carta de sua amada esposa Eva, deixa sua unidade militar, corre pelo campo e encontra o vale onde Eva mora. Lá, Jack encontra algum trabalho, enquanto sonha com Eva e em criar sua própria casa e ter um bebê. De repente, a polícia secreta aparece. Para piorar, Bar, o cruel proprietário de uma fábrica local, está interessado em Eva e fará de tudo para que Jack saia do caminho.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>21/11/2019</date>
+</item>"
+"<item>
+
 <title>A Face De Um Anjo [COLOR yellow][IMDb 4,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AFACDMANJ.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3621,6 +3659,25 @@ A história do cantor, compositor e pianista, Jerry Lee Lewis, um dos músicos p
 <genre>Drama</genre>
  
 <date>30/06/1989</date>
+</item>"
+"<item>
+
+<title>A Festa de Formatura [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFSTDFRMTURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 2020
+
+Um grupo de atores veteranos da Broadway vão sem aviso a uma festa de final de ano de uma escola que não permitiu que uma de suas alunas fosse ao baile acompanhada de sua namorada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>02/12/2020</date>
 </item>"
 "<item>
 
@@ -7234,6 +7291,25 @@ Um filme biográfico baseado nos crimes ao redor de Madalyn Murray O'Hair, funda
 </item>"
 "<item>
 
+<title>A Mulher Milagrosa [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMLHRMLGRSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6523.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6523.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Durante a década de 20, a canadense Aimee Semple Mcpherson era a evangelista mais conhecida dos Estados Unidos, participando de diversas produções teatrais e programas de rádio. Em 1926, durante um passeio na praia de Venice, em Los Angeles, irmã Aimee desaparece. Exaurida pela sua própria fama, ela embarca em uma viagem para o México junto de seu então namorado, sem deixar nenhum vestígio de seu paradeiro.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>26/01/2019</date>
+</item>"
+"<item>
+
 <title>A Múmia [COLOR yellow][IMDb 7,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/AMUMIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -7269,6 +7345,25 @@ Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe
 <genre>Fantasia, Thriller, Ação, Aventura, Terror</genre>
  
 <date>08/06/2017</date>
+</item>"
+"<item>
+
+<title>A Múmia [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMUMDARNKA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6492.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6492.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1959
+
+Egito, 1895. Três arqueologistas britânicos, John Banning (Peter Cushing), Stephen Banning (Felix Aylmer) e Joseph Whemple (Raymond Hutley), descobrem o túmulo de uma princesa egípcia, Ananka (Yvonne Furneaux), que morreu há quatro mil anos. Sem imaginar o que realmente fazia, Stephen lê o ""Pergaminho da Vida"". Isto faz voltar a vida Kharis (Christopher Lee), o guardião da tumba, que recebe a ajuda de Mehemet Bey (George Pastell), um egípcio que não aceita o túmulo ter sido profanado por ""infiéis"". Três anos depois, Mehemet leva para a Inglaterra Kharis, que terá a missão de matar os três arqueólogos que lideraram a expedição que achou a tumba de Ananka.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>16/12/1959</date>
 </item>"
 "<item>
 
@@ -9611,6 +9706,25 @@ Um general, herói na Guerra do Vietnã, e seus comandados se apoderam de podero
 </item>"
 "<item>
 
+<title>A Rosa Venenosa [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ARSAVNSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6524.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6524.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime
+Lançamento: 2019
+
+Carson Phillips, um ex-astro do futebol que virou detetive particular, assume um caso de desaparecimento que lentamente se revela uma complexa teia de crimes, suspeitos e cadáveres. Quando ele descobre que sua filha é a suspeita número um, ele corre contra o relógio para salvá-la, resolver os assassinatos e descobrir os segredos sujos da cidade.</info>
+ 
+<genre>Thriller, Crime</genre>
+ 
+<date>23/05/2019</date>
+</item>"
+"<item>
+
 <title>A Rota de Colisão [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/ARTADCLSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -10463,4 +10577,840 @@ Depois de se mudar para uma casa de repouso, Al, um inquieto empresário do show
 <genre>Comédia</genre>
  
 <date>11/01/2019</date>
+</item>"
+"<item>
+
+<title>A Última Jornada [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AULTMJRND.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/639.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/639.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2018
+
+Nas trincheiras da Primeira Guerra Mundial o tenente Raleigh (Asa Butterfield) fez alguns contatos para que conseguisse se juntar na linha de frente ao seu amigo de infância, capitão Stanhope (Sam Claflin). Contudo, Stanhope fica horrorizado com a chega de Raleigh no tenso e claustrofóbico esconderijo, onde estão antecipando um massivo avanço alemão. Com três anos de guerra, o desejo de Stanhope quando tudo acabar é voltar para os braços da amada, Margaret (Rose Reade), irmã de Raleigh.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>16/03/2018</date>
+</item>"
+"<item>
+
+<title>A Última Jornada [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AULTMJNRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3736.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3736.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ficção científica
+Lançamento: 2020
+
+A mãe do menino Sira está morrendo e dá a ele uma missão: munido de um misterioso artefato, o garoto terá de encontrar um lugar muito especial, capaz de realizar os desejos das pessoas. O objeto que Sira recebe é a única forma de se proteger do ataque de uma força mortal a quem eles chamam de ‘o vento’, capaz de matar instantaneamente qualquer ser vivo. Com a ajuda de uma amiga e um aliado inesperado, Sira segue seu caminho na esperança de salvar o mundo.</info>
+ 
+<genre>Drama, Ficção científica</genre>
+ 
+<date>19/10/2020</date>
+</item>"
+"<item>
+
+<title>A Última Missão [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AULTMSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/640.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/640.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2018
+
+Um caçador de recompensas chamado War on Terror é forçado a ir a Londres em uma busca por um agente da CIA, o que o leva a uma batalha mortal com um ex-companheiro militar e seu exército particular.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>07/12/2018</date>
+</item>"
+"<item>
+
+<title>A Última Música [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AULTMSCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/641.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/641.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Romance
+Lançamento: 2010
+
+""Ronnie"" Miller (Miley Cyrus) tem 17 anos, é filha de pais divorciados e seu pai (Greg Kinnear) mora longe de Nova York, numa cidade praiana. Após três anos de separação, ela ainda sente raiva por tudo o que aconteceu até o dia em que sua mãe (Kelly Preston) decide enviá-la para passar o verão com ele. Uma vez lá, depois de conhecer novas pessoas e paixões, ela encontra alguém que, além de bom músico e professor, é, acima de tudo, um verdadeiro pai.</info>
+ 
+<genre>Drama, Família, Romance</genre>
+ 
+<date>31/03/2010</date>
+</item>"
+"<item>
+
+<title>A Última Palavra [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AULTMPLVRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/642.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/642.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2017
+
+Harriet é uma aposentada mulher de negócios que tenta controlar tudo à sua volta. Quando ela decide escrever seu obituário, uma jovem jornalista tem a incumbência de descobrir a verdade, o que resultará numa improvável amizade.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>03/03/2017</date>
+</item>"
+"<item>
+
+<title>A Última Resistência [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AULTMRSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/643.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/643.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação, Drama
+Lançamento: 2017
+
+Esta é a história de uma missão militar que durou semanas em setembro de 2014. Um grupo de militares voluntários chega ao Aeroporto de Donetsk pela primeira vez - o Aeroporto foi ocupado pelos ucranianos por mais de quatro meses de combates. O conflito é visto sob a ótica de cinco soldados que participaram da missão de retomada do controle do aeroporto. Eles representaram os mais variados tipos de cidadão, de classes sociais, crenças e profissões diferentes, retratando um povo disposto a defender seus ideais até a morte.</info>
+ 
+<genre>Guerra, Ação, Drama</genre>
+ 
+<date>07/12/2017</date>
+</item>"
+"<item>
+
+<title>A Última Ressaca do Ano [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AULTMRSCDAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/644.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/644.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2016
+
+Com a morte recente do pai, os irmãos Clay e Carol Vanston disputam o controle da empresa de tecnologia por ele criada. Presidente da companhia, ele é ameaçado por ela, CEO, que planeja inclusive demitir todos os funcionários. Visando impressionar um novo cliente que pode representar sua garantia no poder, Clay pede que seu braço direito, Josh, organize uma espetacular festa de Natal.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>08/12/2016</date>
+</item>"
+"<item>
+
+<title>A Última Tentação de Cristo [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AULTMTNTCDCRST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/645.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/645.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1988
+
+Baseado no romance de Nikos Kazantzakis, o filme traz Jesus Cristo como um homem comum, encarnado num Messias contraditório, frágil e perturbado, que se autoproclama filho de Deus. Suas pregações na Judeia, então colônia romana, chocam e incomodam o governo, que decide se livrar dele. Na cruz, ele imagina como seria sua vida se, ao invés de assumir o peso da salvação dos homens, tivesse levado uma vida comum com esposa e filhos.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>12/08/1988</date>
+</item>"
+"<item>
+
+<title>A Última Testemunha [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AULTMTSTMNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/646.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/646.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Thriller
+Lançamento: 2018
+
+Thriller de pós-guerra sobre o assassinato em massa de 22.000 poloneses. Após a Segunda Guerra Mundial, o jornalista Stephen Underwood (Alex Pettyfer ) descobre o terrível assassinato de 22.000 poloneses sob as instruções de Stalin, embora durante muitos anos a culpa pelo assassinato foi atribuída aos nazistas. Na época, as informações sobre o Massacre de Katyn, como veio a ser conhecido, foram encobertas por ambos os governos britânico e norte-americano em vista da delicada relação com a Rússia durante e depois da guerra.</info>
+ 
+<genre>História, Thriller</genre>
+ 
+<date>29/05/2018</date>
+</item>"
+"<item>
+
+<title>A Última Vez Que Vi Paris [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AULTMVZQVIPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/647.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/647.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama
+Lançamento: 1954
+
+Charles Wills (Van Johnson) é um escritor que volta a Paris para reencontrar a filha, criada pela cunhada, Marion Matine (Donna Reed). Lá ele relembra Helen Ellswirth (Elizabeth Taylor), o grande amor da sua vida, que ele conheceu em Paris quando a 2ª Guerra Mundial terminou na Europa. Charles recorda que trabalhava como jornalista no ""Star and Stripes"", tendo logo se apaixonado por Helen e em pouco tempo estavam casados. Porém ele recebia um pequeno salário, assim dedicou suas noites para escrever um romance, que foi rejeitado por vários editores. Quando ele tinha perdido todo o ânimo surge uma boa notícia: poços de petróleo no Texas, que lhe foram dados pelo sogro, James Ellswirth (Walter Pidgeon), quase como uma brincadeira, pois nada produziram e de repente se tornaram bem produtivos.</info>
+ 
+<genre>Romance, Drama</genre>
+ 
+<date>18/11/1954</date>
+</item>"
+"<item>
+
+<title>A Vastidão da Noite [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVSTDAODNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/648.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/648.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Ficção científica, Drama
+Lançamento: 2020
+
+No período da Guerra Fria, enquanto acontece a corrida espacial entre os Estados Unidos e a União Soviética, dois adolescentes de uma cidadezinha americana são obcecados pelo rádio. Quando eles descobrem uma estranha frequência de ondas aéreas, suas vidas e o mundo inteiro podem estar prestes a mudar drasticamente.</info>
+ 
+<genre>Mistério, Ficção científica, Drama</genre>
+ 
+<date>15/05/2020</date>
+</item>"
+"<item>
+
+<title>A Verdade em Segredo [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVRDEMSGRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/649.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/649.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2018
+
+Libby Lamm é uma antiga assessora de segurança nacional, quando trabalhava com Rachel Burke, uma veterana política, assinou uma ação militar controversa que deveria acabar com a guerra contra o terrorismo. O problema: milhares morreram sob falsos pretextos. Assombrada por seu passado, Libby decide contar a verdade, arriscando sua própria vida para expor um encobrimento que se estende até os mais altos níveis de governo.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>13/10/2018</date>
+</item>"
+"<item>
+
+<title>A Verdadeira História de Ned Kelly [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVRDRAHSTRADNDKLY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5729.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5729.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 2020
+
+A ascensão e a queda do rebelde australiano Ned Kelly, consagrado como o maior bush ranger da história do país. Durante a década de 1870, incentivado pelo foragido Harry Power e pela prisão de sua mãe, Kelly recrutou um montante de rebeldes para planejar uma rebelião lendária.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>17/02/2020</date>
+</item>"
+"<item>
+
+<title>A Viagem de Chihiro [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVGMDCHRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/650.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/650.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Fantasia
+Lançamento: 2001
+
+Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los</info>
+ 
+<genre>Animação, Família, Fantasia</genre>
+ 
+<date>20/07/2001</date>
+</item>"
+"<item>
+
+<title>A Viagem de Fanny [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVAGMDFNY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/651.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/651.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 2017
+
+A trama conta a história de Fanny Ben Ami, menina que vive escondida com suas duas irmãs em um internato, longe de seus pais, um local considerado seguro para crianças judias em uma zona neutra da França. Após alguns acontecimentos, o lugar é denunciado e Fanny precisa fugir com as outras crianças para a Suíça e enfrenta diversos medos e apuros, aprendendo o significado de independência.</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>10/08/2017</date>
+</item>"
+"<item>
+
+<title>A Viatura [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AVIATURA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/652.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/652.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2015
+
+Dois garotos encontram uma viatura deixada no meio do nada. Eles decidem se divertir um pouco, cujo porta-malas esconde algo. Não demora muito para o xerife Kretzer (Kevin Bacon) ficar sabendo disso. Ele, então começa a ameaçar os garotos, caso eles contem para alguém o que tem no porta-malas.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>07/08/2015</date>
+</item>"
+"<item>
+
+<title>A Vida de uma Mulher [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVDADUMLHR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/653.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/653.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2016
+
+Jeanne volta para casa após completar os estudos e passa a ajudar os zelosos pais nas tarefas do campo. Certo dia o visconde Julien de Lamare aparece nas redondezas e logo conquista o coração da jovem, que, encantada, com ele se casa e vai morar. Conforme o tempo avança Julien se mostra infiel, avarento e nada companheiro, o que vai minando a alegria de viver da antes esperançosa Jeanne.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>23/11/2016</date>
+</item>"
+"<item>
+
+<title>A Vida é Bela [COLOR yellow][IMDb 8,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVDAEBLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/656.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/656.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1999
+
+Durante a Segunda Guerra Mundial na Itália, o judeu Guido (Roberto Benigni) e seu filho Giosué são levados para um campo de concentração nazista. Afastado da mulher, ele tem que usar sua imaginação para fazer o menino acreditar que estão participando de uma grande brincadeira, com o intuito de protegê-lo do terror e da violência que os cercam.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>05/02/1999</date>
+</item>"
+"<item>
+
+<title>A Vida Em Espera [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVDAEMESPRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/657.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/657.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2017
+
+Howard leva uma vida muito bem estruturada, ele trabalha como advogado em Manhattan e mora em uma casa confortável nos subúrbios com a esposa e os filhos. No entanto, ele se sente extremamente sufocado e, após sofrer um surto, decide se mudar para o sótão sem avisar a família. Os dias viram meses enquanto Howard observa de perto o dia a dia daqueles que ama sem saber se é possível retornar, eventualmente, para a antiga rotina que deixou para trás.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>31/08/2017</date>
+</item>"
+"<item>
+
+<title>A Vida em Si [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AVDEMSI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/658.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/658.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2018
+
+O relacionamento amoroso vivido por um casal, é contado através de diferentes décadas e continentes, desde as ruas de Nova York até Espanha e como diferentes pessoas acabam se conectando a ela através de um evento marcante.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>06/12/2018</date>
+</item>"
+"<item>
+
+<title>A Vida Gira [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVDAGRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6488.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6488.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Quando os sonhos do jovem Joshua se chocam com a realidade, ele precisa tomar uma importante decisão que pode corrigir os erros do passado ou consolidar seu destino.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>27/11/2020</date>
+</item>"
+"<item>
+
+<title>A Vida Moderna de Rocko: Volta ao Lar [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AVDMRDNDRCKVLTAOLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/659.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/659.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Animação, Cinema TV
+Lançamento: 2019
+
+Depois de 20 anos no espaço, Rocko retorna!!! e tem como missão principal levar seu programa favorito de volta ao ar.</info>
+ 
+<genre>Comédia, Animação, Cinema TV</genre>
+ 
+<date>09/08/2019</date>
+</item>"
+"<item>
+
+<title>A Vida Secreta da Babás [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVDASCRTDSBBS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/660.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/660.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Cinema TV
+Lançamento: 2015
+
+Quando os problemas financeiros de seus pais ameaçam os sonhos de Ashley de entrar na faculdade, o garoto prodígio do ensino médio resolve o problema com as próprias mãos. Ela e suas amigas transformam seu negócio de babá em um serviço de acompanhantes de grande sucesso para os pais. Mas nesta pequena comunidade suburbana, nada permanece em segredo por muito tempo.</info>
+ 
+<genre>Drama, Cinema TV</genre>
+ 
+<date>20/08/2015</date>
+</item>"
+"<item>
+
+<title>A Vida Secreta das Cheerleaders [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVDASCRTDSCHHERLDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/661.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/661.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Cinema TV
+Lançamento: 2019
+
+A líder de torcida naturalmente talentosa Ava é um sucesso instantâneo em sua nova escola, mas seu rápido aumento de popularidade é ameaçado pela rivalidade entre a capitã de torcida e a rainha do baile Katrina, que coloca Ava e os outros novos recrutas em um processo brutal de iniciação, deixando Ava para enfrentar conseqüências na escola e em casa.</info>
+ 
+<genre>Drama, Cinema TV</genre>
+ 
+<date>02/09/2019</date>
+</item>"
+"<item>
+
+<title>A Vida Secreta de Walter Mitty [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AVDSCRTADWLTRMTY.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/662.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/662.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Drama, Fantasia
+Lançamento: 2013
+
+Walter Mitty (Ben Stiller) é o responsável pelo departamento de arquivo e revelação de fotografias da tradicional revista Life. Ele é um homem tímido, levando uma vida simples, perdido em seus sonhos. Ao receber um pacote com negativos do importante fotógrafo Sean O'Connell (Sean Penn), ele percebe que está faltando uma foto. O problema é que trata-se justamente da foto escolhida para ser a capa da última edição da revista. É quando, Walter, com o apoio de Cheryl (Kristen Wiig) é obrigado a embarcar em uma verdadeira aventura.</info>
+ 
+<genre>Aventura, Comédia, Drama, Fantasia</genre>
+ 
+<date>27/12/2013</date>
+</item>"
+"<item>
+
+<title>A Vida Secreta de Zoe [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVDSCRTDZOE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/663.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/663.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2014
+
+A trama conta uma história recheada de ação e sensualidade sobre desejo e os riscos da indiscrição. Empresária de sucesso, Zoe Reynard (Sharon Leal) parece ter conquistado tudo na vida, o marido dos sonhos que ela ama (Boris Kodjoe), dois filhos maravilhosos e uma carreira influente. Mas, se tudo parece ser perfeito, Zoe sente-se atraída por desejos que não consegue evitar ou resistir. Porém, essa vida secreta pode colocar tudo à perder, inclusive a própria vida.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>10/10/2014</date>
+</item>"
+"<item>
+
+<title>A Vigilante [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/AVGLNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/664.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/664.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2019
+
+Sadie (Olivia Wilde) é uma mulher que sofreu violência doméstica e enquanto ajuda outras vítimas a se livrarem de seus agressores, tenta matar o próprio marido ( Morgan Spector) para que seja realmente livre. A Vigilante é um thriller inspirado na força e bravura de sobreviventes de abuso doméstico e os obstáculos que enfrentam para ficarem seguras.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>02/05/2019</date>
+</item>"
+"<item>
+
+<title>A Vigilante do Amanhã: Ghost in the Shell [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVGLNTDAMNH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/665.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/665.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Ficção científica, Thriller, Drama
+Lançamento: 2017
+
+Num mundo pós 2029, cérebros se fundem facilmente a computadores e a tecnologia está em todos os lugares. Motoko Kusanagi é uma ciborgue com experiência militar que comanda um esquadrão de elite especializado em combater crimes cibernéticos.</info>
+ 
+<genre>Ação, Ficção científica, Thriller, Drama</genre>
+ 
+<date>30/03/2017</date>
+</item>"
+"<item>
+
+<title>A Vila [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVILA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/666.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/666.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Thriller
+Lançamento: 2004
+
+Os habitantes de uma comunidade cercada por uma floresta temem que perigosas criaturas vivam lá. Eles pensam que se ficarem fora da floresta, eles serão deixados ilesos. Quando uma das moradoras da vila fica doente, o menino que a ama ignora os mais velhos da vila para ir à próxima cidade em busca de remédio.</info>
+ 
+<genre>Drama, Mistério, Thriller</genre>
+ 
+<date>03/09/2004</date>
+</item>"
+"<item>
+
+<title>A Vilã [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/667.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/667.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação
+Lançamento: 2017
+
+Definido como a versão coreana de “Nikita”, o longa segue a história de uma mulher que foi treinada na China para ser uma assassina. E que agora dirigi-se até a Coreia ocultando sua identidade. Porém, ela acaba se envolvendo com dois homens, o que resultará numa trama de vingança e segredos que nunca deveriam ser revelados.</info>
+ 
+<genre>Drama, Ação</genre>
+ 
+<date>23/11/2017</date>
+</item>"
+"<item>
+
+<title>A Vingança da Babá [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACNGCDBABA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6516.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6516.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2017
+
+Stella Armstrong contrata Blake, uma babá aparentemente perfeita, para ajudar com seus filhos gêmeos, apenas para descobrir que a jovem é a filha que ela deu para adoção ao nascer – um ato que Blake quer vingar destruindo a vida e a família de Stella.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>01/07/2017</date>
+</item>"
+"<item>
+
+<title>A Vingança da Noiva [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVNGCDNVA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/668.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/668.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2019
+
+Prestes a se casar com o homem dos seus sonhos, Miya não acha que as coisas podem melhorar. As coisas rapidamente começam a desmoronar quando ela recebe um convite de casamento - para o casamento de seu noivo Ian e sua ex-noiva Lily. Logo Miya está sendo perseguida por uma noiva estranha vestida com um vestido de noiva e véu e Ian começa a suspeitar que Miya pode estar inventando tudo. Quando uma série de eventos horripilantes começam a ocorrer, Miya está convencida de que Lily está realizando um plano de vingança mortal.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>11/01/2019</date>
+</item>"
+"<item>
+
+<title>A Vingança de Frankenstein [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVNGACDFRNKSTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3762.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3762.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ficção científica
+Lançamento: 1958
+
+O Barão Frankenstein foge da execução na guilhotina e usa o pseudônimo Dr. Stein para abrir sua clínica na Alemanha. Lá, recomeça seus experimentos com cadáveres, mas um de seus pacientes tem um destino diferente do que Stein planejou.</info>
+ 
+<genre>Terror, Ficção científica</genre>
+ 
+<date>01/06/1958</date>
+</item>"
+"<item>
+
+<title>A Vingança de Julia [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVNGCDJLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/670.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/670.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2011
+
+Julia decide marcar um encontro com o homem que conheceu pela internet e acaba sendo sequestrada e marcada com a letra X na própria pele. Mas a jovem está determinada a acabar com este pesadelo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>24/09/2011</date>
+</item>"
+"<item>
+
+<title>A Vingança de Lefty Brown [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVNGCDLTYBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2017
+
+Lefty Brown (Bill Pullman) é um ajudante de 63 anos que toda a sua vida ficou ao lado da lenda do faroeste Eddie Johnson (Peter Fonda). Johnson foi apontado como senador de Montana e, apesar das objeções da esposa Laura, planeja deixar Lefty em cargo do rancho. Quando um ladrão mata Johnson, Lefty é confrontado pela sombra do parceiro e das feias realidades da justiça na fronteira.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>15/12/2017</date>
+</item>"
+"<item>
+
+<title>A Vingança Perfeita [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVNGCPRFTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5844.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5844.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 2018
+
+Dois assassinos de aluguel (Max Irons e Dexter Fletcher) embarcam uma missão suicída, encomendada por uma pessoa misteriosa. Até que surge uma mulher perigosa, Annie (Margot Robbie), que está mais envolvida nessa história do que aparenta.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>11/05/2018</date>
+</item>"
+"<item>
+
+<title>A Visita [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 2015
+
+Um garoto (Ed Oxenbould) e sua irmã (Olivia DeJonge) são mandados pela mãe (Kathryn Hahn) para visitar seus avós que moram em uma remota fazenda. Não demora muito até que os irmãos descubram que os idosos estão envolvidos com coisas profundamente pertubadoras que colocam a vida dos netos em perigo.</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>11/09/2015</date>
+</item>"
+"<item>
+
+<title>A Vizinhança Assombrada [COLOR yellow][IMDb 3,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVZNHAASBRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/673.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/673.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Romance
+Lançamento: 2016
+
+Os moradores de uma pequena cidade descobrem que algo mais sinistro do que os lobos assassinos estão à espreita no sertão : primeiro os lobos começam a aparecer mortos …… então as pessoas.</info>
+ 
+<genre>Fantasia, Terror, Romance</genre>
+ 
+<date>05/01/2016</date>
+</item>"
+"<item>
+
+<title>A Volta de Jack [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVLTDJACK.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/674.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/674.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Terror
+Lançamento: 2016
+
+Jack vive em Los Angeles mas depois que seu pai é morto em um acidente de carro ele viaja para sua casa, no Colorado, para ajudar a cuidar da sua mãe (também ferida no acidente). Lá, ele descobre segredos há muito enterrados e mentiras dentro de sua história familiar, seus pais, seus amigos e sobre sua própria identidade.</info>
+ 
+<genre>Drama, Thriller, Terror</genre>
+ 
+<date>14/03/2016</date>
+</item>"
+"<item>
+
+<title>A Volta do Espírito de Natal [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVLTDESPRTODNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/675.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/675.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Cinema TV
+Lançamento: 2018
+
+Gabby Messinger, um anjo da guarda que tem problemas para seguir as regras e é conhecido por se intrometer no show de amor de outras pessoas, é encarregado pelo anjo Michael de ajudar a cidade de Angel Falls a encontrar seu espírito de Natal novamente.</info>
+ 
+<genre>Drama, Cinema TV</genre>
+ 
+<date>01/06/2018</date>
+</item>"
+"<item>
+
+<title>A Volta do Juízo Final [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVLTDJZFNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/676.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/676.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Terror
+Lançamento: 2017
+
+Há 15 anos, o mundo foi invadido por criaturas demoníacas, saídas dos confins da terra, que se alimentaram dos humanos por um dia. Esse evento ficou conhecido como o Dia do Arrebatamento. Ele irá se repetir?</info>
+ 
+<genre>Ficção científica, Terror</genre>
+ 
+<date>18/05/2017</date>
+</item>"
+"<item>
+
+<title>A Volta do Todo Poderoso [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVLTDTDPDRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/677.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/677.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Comédia, Família
+Lançamento: 2007
+
+Evan Baxter (Steve Carell) é o âncora de um telejornal de Buffalo, que foi recentemente eleito para seu 1º mandato como congressista. Ele então se muda para Washington com sua esposa Joan (Lauren Graham) e os filhos Dylan (Johnny Simmons), Ryan (Jimmy Bennett) e Jordan (Graham Phillips). Porém, logo após se instalar em sua casa, Evan passa a receber estranhas encomendas, que incluem ferramentas e grandes quantidades de madeira. Logo ele se encontra com Deus (Morgan Freeman), que lhe incumbe a missão de construir uma arca, já que uma inundação está por vir. Evan descarta a idéia, mas uma série de situações ocorre de forma a prejudicar sua vida até que ele aceite a missão.</info>
+ 
+<genre>Fantasia, Comédia, Família</genre>
+ 
+<date>03/08/2007</date>
+</item>"
+"<item>
+
+<title>A Volta por Cima [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/AVLTPRCMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/678.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/678.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2019
+
+Loucos para exibir o sucesso da vida adulta para desafetos e paixões do tempo de escola, dois amigos vivem uma noite muito louca no reencontro dos colegas de turma.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>30/08/2019</date>
+</item>"
+"<item>
+
+<title>A Voz Assassina [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AVZASASNAQMRPA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5754.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5754.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror, Thriller
+Lançamento: 1989
+
+Um psicopata mascarado vai atrás das empregadas de uma empresa de sexo por telefone com a intenção de matá-las, criando seu próprio circo de terror e tortura.</info>
+ 
+<genre>Comédia, Terror, Thriller</genre>
+ 
+<date>05/05/1989</date>
 </item>"
