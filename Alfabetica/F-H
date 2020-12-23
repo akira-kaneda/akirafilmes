@@ -114,6 +114,25 @@ Pensando no Prêmio Pulitzer e na possibilidade de derrubar um presidente, a col
 </item>"
 "<item>
 
+<title>Fada Madrinha [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FDAMDRNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6545.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6545.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Fantasia, Comédia
+Lançamento: 2020
+
+Uma fada madrinha jovem e inexperiente embarca numa aventura por conta própria para provar seu valor rastreando uma jovem cujo pedido de ajuda foi ignorado. O que ela descobre é que a garota agora se tornou uma mulher adulta que precisa de algo muito diferente de um ""príncipe encantado"".</info>
+ 
+<genre>Família, Fantasia, Comédia</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
 <title>Fahrenheit 451 [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/FAHRNHT451.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1825,6 +1844,25 @@ Elsa (Diane Kruger) é uma jornalista francesa que foi sequestrada por um líder
 </item>"
 "<item>
 
+<title>Forças Malignas [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FRCMLGNA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6576.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6576.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2019
+
+Ben está viajando pro Camboja e conhece Amber. Apaixonado a primeira vista, ele descobre que ela carrega algo dentro de si e decide acompanhá-la até um curandeiro que promete livrá-la do mal.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>06/09/2019</date>
+</item>"
+"<item>
+
 <title>Ford vs Ferrari [COLOR yellow][IMDb 8,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/FRDVSFRARI.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2224,6 +2262,25 @@ Jesse (James Jason Richter) é um adolescente cuja vida foi modificada por sua a
 </item>"
 "<item>
 
+<title>FreeFall: Queda Livre [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/QDALVR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6503.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6503.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1994
+
+O editor de Nova York Dex Dellum manda sua noiva e fotógrafa Katy Mazur para a Suazilândia para fotografar o falcão taita. Lá ela conhece Grant Orion, que pratica pára-quedismo. Após um confronto inicial, eles se tornam amantes quentes, sua primeira infidelidade. Ela está drogada antes que ele saia sem avisar. Em Londres, Grant a salva de assassinos armados e revela ser agente da Interpol. Dex tem uma história incompatível, mas é morto. É o início de uma cascata de violência e charadas.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>01/01/1994</date>
+</item>"
+"<item>
+
 <title>Frogtown: A Vingança dos Sapos Assassinos [COLOR yellow][IMDb 3,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/FRGTWN2AVDSA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2490,6 +2547,25 @@ Nelly Bly não lembra quem é, nem porque está internada em um manicômio. Com 
 </item>"
 "<item>
 
+<title>Fuga pela Fronteira [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FGAPLFRNTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6546.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6546.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Guerra, Thriller
+Lançamento: 2020
+
+Natal de 1942, os pais de Gerda e Otto são detidos por participação no movimento de resistência norueguês durante a Segunda Guerra. Após a prisão, os irmãos descobrem duas crianças judias escondidas em sua casa. Cabe agora a Gerda e Otto terminar o que seus pais começaram: ajudar Sarah e Daniel a fugir dos nazistas, cruzar a fronteira para a Suécia neutra e reencontrar seus pais.</info>
+ 
+<genre>Família, Guerra, Thriller</genre>
+ 
+<date>14/02/2020</date>
+</item>"
+"<item>
+
 <title>Fuga Sobre Trilhos [COLOR yellow][IMDb 4,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/FGASBRTRHLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2544,6 +2620,25 @@ Quando um grupo de estudantes universitários talentosos executam um experimento
 <genre>Terror, Ficção científica</genre>
  
 <date>17/10/2015</date>
+</item>"
+"<item>
+
+<title>Fukushima - Ameaça Nuclear [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FKSHMAMCANCLR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6547.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6547.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>06/03/2020</date>
 </item>"
 "<item>
 
@@ -4828,6 +4923,25 @@ Um soldado britânico (Adkins) é preso por seu próprio exército por má condu
 <genre>Ação, Thriller, História, Crime, Guerra</genre>
  
 <date>15/06/2018</date>
+</item>"
+"<item>
+
+<title>Guerra Sem Fim: A Espada é a Lei [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/GUERASMFMAESPDAEALEI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6548.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6548.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 2020
+
+O Império Romano ocupou a Britânia (hoje, Grã-Bretanha) por quatro séculos, fornecendo proteção e paz em troca de submissão. Mesmo antes da chegada do Cristianismo, eles erradicaram muito da religião nativa, mas alguns druidas sobreviveram em um santuário escondido no Ocidente. Os romanos construíram a Muralha de Adriano na fronteira norte para impedir a entrada dos pictos, guerreiros ferozes e misteriosos que se pintavam de azul. No século 5, entretanto, os romanos partiram, deixando os britânicos sozinhos, sob a liderança do rei Vortigern, para se defenderem dos invasores.</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>06/10/2020</date>
 </item>"
 "<item>
 
@@ -8023,6 +8137,12 @@ Quando sua mãe morre, o valentão Billy Smith vai a Austrália para dar as más
  
 <date>31/01/1992</date>
 </item>"
+fia local.</info>
+ 
+<genre>Ação, Drama</genre>
+ 
+<date>31/01/1992</date>
+</item>"
 es. Ele também planeja destruir o cubo, para que nunca mais precise voltar para o inferno. Mas em seu caminho está Joey Summerskill (Terri Farrell), uma jovem repórter que está investigando os terríveis assassinatos.</info>
  
 <genre>Terror</genre>
@@ -9005,5 +9125,4 @@ Com história de Brandon Auman (Os Vingadores: maiores heróis da Terra, Homem d
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801907.us.archive.org/25/items/2531_20201015/2669.jpg</image>
-<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2669.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jp
+<thumbnail>https://ia801907.us.archive.org/25/i
