@@ -1121,6 +1121,25 @@ O ganancioso Willie (Billy Bob Thornton) vive com ódio e à base de whisky bara
 </item>"
 "<item>
 
+<title>Papai Noel Existe [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PAPINELEXTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6502.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6502.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família
+Lançamento: 1984
+
+Pólo Norte, na época do Natal. Uma companhia de petróleo procura um grande lençol petrolífero, mas para isto vai provocar uma explosão que poderá destruir a casa secreta do Papai Noel (Art Carney). A mulher de um engenheiro toma consciência da situação ao conversar com o bom velhinho e pretende fazer todo o possível para ajudá-lo.</info>
+ 
+<genre>Drama, Família</genre>
+ 
+<date>13/12/1984</date>
+</item>"
+"<item>
+
 <title>Papillon [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/PAPLN.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4159,6 +4178,25 @@ A indiazinha americana Pocahontas viaja através do mar para convencer os ingles
 <genre>Aventura, Animação, Romance, Família</genre>
  
 <date>04/08/1998</date>
+</item>"
+"<item>
+
+<title>Pode Guardar um Segredo? [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PDEGRDRUMSGRDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6562.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6562.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2019
+
+Emma Corrigan é uma mulher cheia de segredos e acaba contando todos eles para um estranho, durante uma viagem turbulenta de avião, com medo de morrer. O que a protagonista não esperava era que tal homem, com conhecimento sobre todos os detalhes humilhantes sobre ela, seria Jack Harper, o novo presidente da empresa onde trabalha.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>13/09/2019</date>
 </item>"
 "<item>
 
@@ -8515,6 +8553,25 @@ Na década de 1970, em Nova York, as esposas de mafiosos irlandeses ficam no con
 
 "<item>
 
+<title>Raízes no Surf [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RZSNSRF.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6504.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6504.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Família, Romance, Cinema TV
+Lançamento: 2000
+
+Sydney Miller e seu pai visitam sua terra natal: uma ilha no Havaí. Lá ela descobre que herdou grande parte da terra da ilha, antes considerada ""Domínio Público"", e que uma cadeia hoteleira pretende comprar essa área e proibir que surfistas a usem. Conforme Sydney fica sabendo mais sobre sua mãe e sobre seu passado, ela estreita seu relacionamento com seu pai, conhece pessoas diferentes, faz amigos, aprende a surfar e encontra sua força interior através desse esporte. Ela precisa, então, decidir se venderá a terra ou não.</info>
+ 
+<genre>Drama, Família, Romance, Cinema TV</genre>
+ 
+<date>22/04/2000</date>
+</item>"
+"<item>
+
 <title>Rajada de Fogo [COLOR yellow][IMDb 6,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/RJDADFGO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -10850,6 +10907,44 @@ Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma
 <genre>Ação, Aventura, Ficção científica</genre>
  
 <date>15/12/2016</date>
+</item>"
+"<item>
+
+<title>Rogue Warfare 2: A Caçada [COLOR yellow][IMDb 2,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RGUWRFR2ACACDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6563.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6563.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2019
+
+O próximo capítulo da Trilogia rogue warfare. Daniel foi capturado e cabe à EQUIPE encontrá-lo antes que seja tarde.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>02/12/2019</date>
+</item>"
+"<item>
+
+<title>Rogue Warfare 3: A Morte de uma Nação [COLOR yellow][IMDb 3,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RGUWRFR3AMRTEDUMNCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6564.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Ação
+Lançamento: 2020
+
+A Organização máscara negra coordena uma trama distorcida que vai devastar o mundo nas próximas 36 horas. A EQUIPE é imediatamente despachada novamente para o que será, esperançosamente, a última posição contra o 'Líder Supremo'. À medida que o relógio marca, a bomba também e eles precisam contra-atacar o núcleo do grupo terrorista. A equipe deve jogar suas vidas em risco, pois é a única maneira de desativar as armas perigosas que estão prestes a explodir em todo o mundo ao mesmo tempo. Cada soldado deve encontrar sua força interior e habilidade para desarmar este grupo terrorista de uma vez por todas.</info>
+ 
+<genre>Guerra, Ação</genre>
+ 
+<date>25/09/2020</date>
 </item>"
 "<item>
 
