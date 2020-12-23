@@ -1838,6 +1838,25 @@ Tocho e Jean Pierre refazem sua viagem de carro da Espanha ao Mali para reencont
 </item>"
 "<item>
 
+<title>40 Dias - O Milagre da Vida [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/NOSSOID.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6487.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6487.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Tudo que Abby Johnson sempre quis foi ajudar outras mulheres. Como uma das diretoras mais jovens da história da Paternidade Planejada, organização responsável por metade dos abortos realizados nos Estados Unidos, ela acreditava ter feito a escolha certa. Até o dia em que algo que Abby viu fez com que tudo mudasse e ela se tornasse uma das principais vozes do movimento pró-vida dos Estados Unidos.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>29/03/2019</date>
+</item>"
+"<item>
+
 <title>48 Horas [COLOR yellow][IMDb 6,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/48HRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
