@@ -1,5 +1,328 @@
 "<item>
 
+<title>Perigo Próximo [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRGOPRXMO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4879.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4879.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2017
+
+Uma noite antes do Natal, Deandra (Virginia Madsen) e Robert (Patrick Warburton) saem e deixam seu filho de 12 anos, Luke (Levi Miller), com a jovem babá Ashley (Olivia DeJonge), afinal a casa da família fica numa rua calma de subúrbio, num bairro considerado seguro. O menino logo tenta conquistar o amor da babá até que eles se deparam com estranhos invadindo a casa. O acontecimento está longe de ser uma invasão de domicílio normal.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>06/10/2017</date>
+</item>"
+"<item>
+
+<title>Perseguição [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/PRSGCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4885.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4885.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller
+Lançamento: 2016
+
+Emma, uma estudante de pós-graduação, vive sozinha em Nova York, mas recentemente está sendo vigiada por um perseguidor obcecado que invadiu todos os seus dispositivos pessoais: computador, celular e outros dispositivos conectados a sua webcam - para gravar seus momentos mais íntimos. Como Emma torna-se cada vez mais paranoica, seu mundo começa a desmoronar e as pessoas se afastam dela. O perseguidor vê então sua oportunidade de agir.</info>
+ 
+<genre>Drama, Terror, Thriller</genre>
+ 
+<date>24/02/2016</date>
+</item>"
+"<item>
+
+<title>Perseguição [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PRSGCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4884.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4884.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Aventura, Thriller
+Lançamento: 2014
+
+O evangelista John Luther (James Remar) é o último bastião religioso no meio político dos Estados Unidos e, vítima de uma emboscada, acaba envolvido no assassinato de uma adolescente. Perseguido pela lei e até mesmo por antigos aliados, ele inicia uma cruzada pela verdade enquanto toda comunidade cristã americana torna-se alvo de detratores.</info>
+ 
+<genre>Ação, Drama, Aventura, Thriller</genre>
+ 
+<date>09/05/2014</date>
+</item>"
+"<item>
+
+<title>Perseguição 2: O Resgate [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAO2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4886.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4886.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller
+Lançamento: 2009
+
+Kayla e suas amigas estão viajando para Las Vegas, onde ocorrerá a despedida de solteira de Melissa. A jovem para em um posto para encontrar Nik, um rapaz que conheceu na internet, e pouco tempo depois pega uma estrada secundária, passando por uma região praticamente deserta. Após um problema com o carro, elas vão enfrentar o caminhoneiro Rusty Nail, um homem sádico que vai infernizar as suas vidas.</info>
+ 
+<genre>Crime, Thriller</genre>
+ 
+<date>23/01/2009</date>
+</item>"
+"<item>
+
+<title>Perseguição 3: Correndo para a Morte [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAO3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4887.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4887.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2014
+
+Um grupo de corredores precisa enfrentar um enorme perigo para chegar à reta final de uma competição importante.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>03/06/2014</date>
+</item>"
+"<item>
+
+<title>Perseguição Implacável [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAOIMPLCVL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4890.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4890.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2013
+
+Ben Logan (Aaron Eckhart) é um ex-agente da CIA que é obrigado a fugir após seus atuais empregadores apagarem todos os registros de sua existência e colocarem um preço sob sua cabeça. Ao lado de sua filha Amy (Liana Liberato), ele se vê em meio a uma conspiração internacional.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>17/05/2013</date>
+</item>"
+"<item>
+
+<title>Perseguição Virtual [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAOVRTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4893.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4893.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2014
+
+Jill (Sasha Grey), a atriz mais excitante do momento, se recusa a jantar com Nick (Elijah Wood), um fã que ganhou um encontro com ela em um concurso de Internet, organizado pela distribuidora de seu último filme. Em troca, um cara chamado Chord, posando como gerente da campanha de Jill, se propõe a ajudar Nick a seguir os passos da atriz de seu próprio computador. Nick começa um jogo em que ele percebe que é apenas um fantoche nos planos maníacos concebidos por Chord para caçar a estrela..</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>02/10/2014</date>
+</item>"
+"<item>
+
+<title>Perseguição: A Estrada da Morte [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRSGCAOAESTRDMRTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4895.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4895.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Drama
+Lançamento: 2001
+
+As férias de verão têm início e apenas uma idéia ronda a mente de Lewis Thomas (Paul Walker): partir com a garota dos seus sonhos, Venna (Leelee Sobieski), em uma viagem de carro pelos Estados Unidos. Mas seus planos são alterados quando ele é obrigado a salvar Fuller (Steve Zahn), seu irmão mais velho, que é conhecido por sempre causar problemas. Em uma de suas brincadeiras Fuller acaba envolvendo um motorista de caminhão solitário, que decide se vingar dele e de todas as pessoas que estiverem juntas de qualquer maneira.</info>
+ 
+<genre>Mistério, Thriller, Drama</genre>
+ 
+<date>27/12/2001</date>
+</item>"
+"<item>
+
+<title>Perseguido pelo Destino [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PERSGDOPLDSTNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4896.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4896.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Thriller, Drama
+Lançamento: 2018
+
+Em um circuito de corridas, o gângster Gigi (Matthias Schoenaerts), membro de uma cruel gangue criminosa de Bruxelas, conhece a jovem e rica corredora Bibi (Adèle Exarchopoulos). Logo, os dois se apaixonam, mas por causa de suas vidas distintas, a chance de ficarem juntos é remota. Mesmo assim, eles iniciam um relacionamento pelo qual lutarão com unhas e dentes, mas que também colocará suas vidas em perigo.</info>
+ 
+<genre>Crime, Thriller, Drama</genre>
+ 
+<date>04/05/2018</date>
+</item>"
+"<item>
+
+<title>Perseguindo Abbott [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/PRSGUNDABOT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4897.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4897.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2015
+
+Uma funcionária da embaixada americana em Londres (Milla Jovovich) é encarregada de impedir um ataque terrorista em Nova York. Assim, ela é colocada no meio da ação quando uma bomba detona. Sendo acusada do crime, ela busca o verdadeiro responsável (Pierce Brosnan) para se livrar das acusações e prevenir um próximo ataque às vésperas do Ano Novo.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>29/05/2015</date>
+</item>"
+"<item>
+
+<title>Perseguindo o Assassino [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRSNDOASASNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4898.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4898.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2018
+
+Um detetive promissor, Ryan Barnes, chega em casa em seu aniversário de casamento e descobre que sua esposa sofreu um acidente de carro terrível. Sete meses depois, ela ainda está em coma e Barnes, incapaz de aceitar sua condição, se lança em uma caçada humana por um serial killer que tem como alvo os idosos da cidade. Enquanto ele procura desesperadamente pelo assassino, as dúvidas de Barnes aumentam – ele está no caminho certo?</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>18/09/2018</date>
+</item>"
+"<item>
+
+<title>Pesadelo [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PSDLO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4899.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4899.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2020
+
+Ainda vivendo o luto pela perda traumática de seu irmão, uma adolescente começa a enfrentar outros problemas. Durante o sono, ela tem pesadelos vivídios e assustadores que são praticamente indistinguíveis da realidade. Procurando soluções, a menina recorre a um instituto de sonologia que promete livrá-la desse problema. Acompanhada de outros pacientes, a garota é induzida a um sono lúcido coletivo que se torna pior do que qualquer pesadelo que ela já teve.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>30/01/2020</date>
+</item>"
+"<item>
+
+<title>Piercing [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PIRCNG.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4913.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4913.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Mistério
+Lançamento: 2019
+
+Nesta história de amor distorcida, um homem procura um estranho desavisado para ajudá-lo a limpar os tormentos sombrios de seu passado. Seu plano dá errado quando ele encontra uma mulher com planos próprios.</info>
+ 
+<genre>Thriller, Terror, Mistério</genre>
+ 
+<date>01/02/2019</date>
+</item>"
+"<item>
+
+<title>Piranha [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4915.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4915.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Ficção científica, Comédia
+Lançamento: 1978
+
+Uma investigadora é contratada para descobrir o paradeiro de duas pessoas. Ela viaja pelos locais em que os dois estiveram até chegar em um acampamento. Encontra uma pessoa que lhe ajuda a investigar um militar que mora ao lado do local. Lá eles descobrem um laboratório onde estão diversos animais bizarros. Ao escoar a água do local eles encontram dois esqueletos que podem ser de quem procuravam. Quando descobrem que o local abrigava piranhas mutantes, criadas para serem usadas como arma na Guerra do Vietnã. Agora soltas, elas começam a fazer seguidas vítimas.</info>
+ 
+<genre>Terror, Thriller, Ficção científica, Comédia</genre>
+ 
+<date>30/11/1978</date>
+</item>"
+"<item>
+
+<title>Piranha 2 [COLOR yellow][IMDb 3,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRNH2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4916.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4916.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Comédia
+Lançamento: 2012
+
+O Lago Vitória já abrigou piranhas pré-históricas, mas todos pensavam que elas estavam mortas. Até que um cardume dessas criaturas assassinas ressurge e sai em busca de alimento em um parque aquático próximo ao lago, repleto de visitantes.</info>
+ 
+<genre>Terror, Thriller, Comédia</genre>
+ 
+<date>01/06/2012</date>
+</item>"
+"<item>
+
+<title>Planeta dos Macacos [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS2001.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4933.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4933.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica, Ação, Aventura
+Lançamento: 2001
+
+Após sofrer um acidente na espaçonave em que estava, Leo Davidson (Mark Wahlberg) chega em um planeta estranho e primitivo, onde os humanos migalham por sua subsistência, são caçados e escravizados por primatas tiranos, que formam o poder local. Sem concordar com a opressão imposta à raça humana, Leo logo se torna uma séria ameaça ao status quo local e dá início à uma revolução social no planeta.</info>
+ 
+<genre>Thriller, Ficção científica, Ação, Aventura</genre>
+ 
+<date>03/08/2001</date>
+</item>"
+"<item>
+
+<title>Planeta dos Macacos: A Origem [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCSORIGEM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4935.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4935.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Drama, Ficção científica
+Lançamento: 2011
+
+Will Rodman tenta encontrar a cura do Alzheimer. Para isso, ele usa o pai e César, um filhote de macaco, como cobaias. Mas César demonstra uma inteligência fora do comum. Quando o primata é colocado em uma gaiola com outros de sua espécie, ele se revolta e lidera uma rebelião contra os humanos.</info>
+ 
+<genre>Thriller, Ação, Drama, Ficção científica</genre>
+ 
+<date>26/08/2011</date>
+</item>"
+"<item>
+
 <title>Planeta dos Macacos: O Confronto [COLOR yellow][IMDb 7,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCSOCNFRT.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4329,6 +4652,25 @@ Enquanto um assassino percorre as ruas, um jovem estafeta suspeita que uma médi
 <genre>Drama, Thriller</genre>
  
 <date>01/11/2017</date>
+</item>"
+"<item>
+
+<title>Tenet [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TNET.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6572.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6572.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2020
+
+Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>29/10/2020</date>
 </item>"
 "<item>
 
