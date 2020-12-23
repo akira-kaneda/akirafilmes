@@ -95,6 +95,25 @@ Grupo de paranormais vai a um hotel quando Neil morre, e eles acreditam que ness
 </item>"
 "<item>
 
+<title>Estação 44: O Refúgio dos Exterminadores [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESTCAO44ORFGDSEXTNDRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6495.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6495.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica
+Lançamento: 1990
+
+Ano 2038: Os recursos minerais da terra são drenados, no espaço há lutas pelos últimos depósitos em outros planetas e satélites. Esta é a situação quando uma das maiores corporações de mineração perdeu todas as luas minerais, exceto uma, e muitos de seus robôs de mineração totalmente automáticos estão desaparecendo em seu voo para casa. Como ninguém mais quer o trabalho, eles mandam prisioneiros para defender a estação de mineração. Entre eles o agente disfarçado Stone, que deve limpar o paradeiro dos robôs caros. Em uma atmosfera de corrupção, medo e ódio, ele fica entre as frentes de grupos rivais.</info>
+ 
+<genre>Ficção científica</genre>
+ 
+<date>15/02/1990</date>
+</item>"
+"<item>
+
 <title>Tempo de Glória [COLOR yellow][IMDb 7,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/TMPDGLRIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -455,6 +474,25 @@ Ben Healy (John Ritter) é um simpático mas batido yuppie, que trabalha para se
 <genre>Comédia</genre>
  
 <date>27/07/1990</date>
+</item>"
+"<item>
+
+<title>Duck Tales, O Filme: O Tesouro da Lâmpada Perdida [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DCKTLSOTSRODLMPDPRDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6494.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6494.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Comédia, Fantasia
+Lançamento: 1990
+
+O multimilionário Tio Patinhas vai embarcar numa aventura no Egito com seus sobrinhos-netos Huguinho, Zezinho e Luizinho. Lá há um gigantesco tesouro escondido e uma lâmpada mágica perdida, onde vive um poderoso gênio adormecido. Porém, a ambição de Patinhas terá de enfrentar os planos do maligno Merlock, que também deseja colocar as mãos nessa fortuna.</info>
+ 
+<genre>Aventura, Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>03/08/1990</date>
 </item>"
 "<item>
 
@@ -1709,6 +1747,25 @@ Condenado a envelhecer entre os terráqueos, Connor MacLeod (Christopher Lambert
 <genre>Fantasia, Ficção científica</genre>
  
 <date>01/11/1991</date>
+</item>"
+"<item>
+
+<title>Um Pedido De Natal [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMPDODNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6507.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6507.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Drama, Comédia
+Lançamento: 1991
+
+Os irmãos Ethan e Hallie O'Fallon gostariam que a mãe divorciada voltasse para o pai, Michael. Na véspera do Natal, eles trancam o namorado da mãe em um caminhão de sorvetes e o despacham para Nova Jersey para que a mãe pense que ele sumiu sem avisar. O plano dá certo, pois o pai está por perto para se aproveitar da situação.</info>
+ 
+<genre>Família, Drama, Comédia</genre>
+ 
+<date>08/11/1991</date>
 </item>"
 "<item>
 
@@ -3935,6 +3992,25 @@ Times are tough at the Master Martial Arts School and it's going to take more th
 </item>"
 "<item>
 
+<title>FreeFall: Queda Livre [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/QDALVR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6503.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6503.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1994
+
+O editor de Nova York Dex Dellum manda sua noiva e fotógrafa Katy Mazur para a Suazilândia para fotografar o falcão taita. Lá ela conhece Grant Orion, que pratica pára-quedismo. Após um confronto inicial, eles se tornam amantes quentes, sua primeira infidelidade. Ela está drogada antes que ele saia sem avisar. Em Londres, Grant a salva de assassinos armados e revela ser agente da Interpol. Dex tem uma história incompatível, mas é morto. É o início de uma cascata de violência e charadas.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>01/01/1994</date>
+</item>"
+"<item>
+
 <title>Ace Ventura: Um Detetive Diferente [COLOR yellow][IMDb 6,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ACVNTURA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5090,6 +5166,25 @@ Lançamento: 1994
 Riquinho Rico (Macaulay Culkin) é o menino mais rico do mundo, mas apesar de amar e ser amado por seus pais, Ricardo Rico (Edward Herrmann) e Regina Rico (Christine Ebersole), ele não é totalmente feliz, pois quer jogar baseball com algumas crianças. Quando seus pais desaparecem após o avião deles cair no Triângulo das Bermudas, Riquinho suspeita que Lawrence Van Dogh (John Larroquette), um executivo das Indústrias Rico, seja o responsável por este ""acidente"", pois planeja assumir o controle de todas as empresas Rico. Mas com a ajuda de Herbert A.R. Cadbury (Jonathan Hyde), seu fiel mordomo, o Professor Keenbean (Michael McShane), um excêntrico cientista, e alguns amigos da sua idade, Riquinho faz um plano para combater o maléfico esquema de Van Dogh e salvar seus pais.</info>
  
 <genre>Comédia, Família</genre>
+ 
+<date>21/12/1994</date>
+</item>"
+"<item>
+
+<title>Um Dia de Louco [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMDIADLCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6519.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6519.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 1994
+
+É véspera de Natal na Lifelines , um serviço telefônico de ajuda psiquiátrica de Venice Beach, na Califórnia. O gerente Philip (Steve Martin) acaba de saber que o proprietário do imóvel o está despejando e, de repente, tudo ao redor do local parece tão em crise quanto os pacientes que estão entupindo as linhas telefônicas. Durante toda a madrugada, os personagens envolvidos - como a tímida Catherine (Rita Wilson) e a grávida Gracie (Juliette Lewis) - aprendem que o Natal pode ser um período feliz, sem a necessidade de preocupações com seu estado mental. Da mesma diretora de Sintonia de Amor, Norma Ephron.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
  
 <date>21/12/1994</date>
 </item>"
@@ -7222,6 +7317,25 @@ As investigações de Alain Moreau (Van Damme) sobre a morte de seu irmão gême
 <genre>Ação</genre>
  
 <date>13/09/1996</date>
+</item>"
+"<item>
+
+<title>O Clube das Desquitadas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OCLBDSDSQTDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6500.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6500.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1996
+
+Três amigas de faculdade que se formaram em 1969 e tomaram caminhos distintos (uma é atriz (Goldie Hawn), a outra (Diane Keaton) casou-se com magnata dono de uma cadeia de lojas de eletrodomésticos e a última (Bette Midler) se tornou uma dona de casa) têm algo em comum: todas foram trocadas por mulheres mais jovens, o que as deixa revoltadas, pois elas contribuíram para a ascensão profissional e financeira de seus maridos. Porém, quando uma amiga delas se suicida após o marido trocá-la por uma mulher mais jovem as três decidem se unir, atacando os seus ""ex"" no ponto mais sensível: o bolso.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>20/09/1996</date>
 </item>"
 "<item>
 
@@ -10234,6 +10348,25 @@ Zach Siler é o figurão da escola e motivo de inveja dos seus colegas. Porém, 
 </item>"
 "<item>
 
+<title>Veronica 2030 [COLOR yellow][IMDb 3,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VRNC2030AMQNDPRZR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6509.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6509.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica
+Lançamento: 1999
+
+O ano é 2030 e dois cientistas, Felix e Maxine, estão prestes a lançar no mercado sua última criação, Veronica, um andróide do prazer totalmente funcional. Infelizmente, a interferência prematura de um colega faz com que Veronica seja enviada de volta ao ano de 1998. Lá ela conhece Harry Horner e se torna uma modelo de lingerie para ajudar seu enfermo negócio de fetiche por catálogo. Logo Camilla, a competidora de Harry, descobre sobre Verônica e a rouba para fazer Verônica trabalhar para ela. Eventualmente, os dois cientistas localizam Veronica e viajam de volta a 1998 em uma tentativa de resgatá-la. Harry e os cientistas combinam forças e resgatam Veronica das garras de Camilla. Veronica faz do negócio de Harry um sucesso e ele consegue vendê-lo para um comprador interessado. Veronica e Harry se apaixonaram e ela decide ficar em 1998 junto com os dois cientistas!</info>
+ 
+<genre>Ficção científica</genre>
+ 
+<date>02/02/1999</date>
+</item>"
+"<item>
+
 <title>A Vida é Bela [COLOR yellow][IMDb 8,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AVDAEBLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -10419,6 +10552,25 @@ Lançamento: 1999
 Porter (Mel Gibson) e Val Resnick (Gregg Henry) assaltam uma gangue de chineses e roubam 140 mil dólares. Porter se dá por satisfeito, apesar de esperar entre 350 mil e meio milhão de dólares, mas Val não, pois precisava de 130 mil dólares para saldar suas dívidas e ser aceito na ""Organização"". Assim, com a ajuda de Lynn (Deborah Unger), a esposa de Porter, Val o trai e Porter é baleado e dado como morto. Mas após algum tempo ele reaparece, decidido a receber os 70 mil dólares da sua parte, mesmo que para isto tenha de enfrentar toda a ""Organização"". Mas existe uma forte possibilidade que ele morra tentando e nesta louca tentativa conta apenas com Rosie (Maria Bello), uma garota de programa bastante exclusiva com quem tinha se envolvido, quando era seu segurança e motorista.</info>
  
 <genre>Crime, Ação, Drama</genre>
+ 
+<date>26/03/1999</date>
+</item>"
+"<item>
+
+<title>Doug: O Filme [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOUGOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6510.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6510.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 1999
+
+Doug e seu amigo Skeeter saíram para encontrar o monstro do lago Lucky Duck. Embora as coisas fiquem realmente fora de controle quando alguém deixa escapar que o monstro é real.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
  
 <date>26/03/1999</date>
 </item>"
