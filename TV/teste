@@ -1,71 +1,71 @@
 #EXTM3U
-"#EXTINF:-1 tvg-logo="""" group-ttle=""DESENHO"",""PICA-PAU""
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,PICA-PAU
 https://youtu.be/ojE8y4xwOv0"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""ABERTO"",""REDE TV""
+"#EXTINF:-1 tvg-logo= group-ttle=ABERTO,REDE TV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2128977738_b2440551_DVR.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""NOTICIAS"",""RECORD NEWS""
+"#EXTINF:-1 tvg-logo= group-ttle=NOTICIAS,RECORD NEWS
 https://youtu.be/VQRH6xM6T2o"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""DESENHO"",""GALINHA PINTADINHA""
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,GALINHA PINTADINHA
 https://youtu.be/TNAQjmE5yNk"
-"#EXTINF:-1 tvg-logo="""" group-ttle="""",""FISH TV""
+"#EXTINF:-1 tvg-logo= group-ttle=,FISH TV
 https://youtu.be/EXshf-A03sM"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""RETRO"",""TV MANCHETE""
+"#EXTINF:-1 tvg-logo= group-ttle=RETRO,TV MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1554917726.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""NOTICIAS"",""BAND NEWS""
+"#EXTINF:-1 tvg-logo= group-ttle=NOTICIAS,BAND NEWS
 https://youtu.be/Xg7D1u5LeSo"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""ABERTO"",""GLOBO SP""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""ABERTO"",""GLOBO RJ""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""ESPORTES"",""FOX SPORTS""
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""FOX PREMIUM 2""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""FOX PREMIUM 1""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""FOX""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""TNT""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""MEGA PIX""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""SPACE""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""TELECINE ACTION""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineactionhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""TELECINE FUN""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""TELECINE PIPOCA""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcPIPOCAhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""TELECINE PREMIUM""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""TELECINE TOUCH""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""TELECINE CULT""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""AMC""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/amchd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""HBO""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""HBO2""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""HBO FAMILY""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbofamilyhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""HBO SIGNATURE""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbosignaturehd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""UNIVERSAL""
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""STUDIO UNIVERSAL""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""WARNER""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""HBO MUNDI""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/maxhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""HBO XTREME""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""CINEMAX""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""FILMES"",""FX""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8"
-"#EXTINF:-1 tvg-logo="""" group-ttle=""SÉRIES"",""A&E""
-https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8"
+"#EXTINF:-1 tvg-logo= group-ttle=ABERTO,GLOBO SP
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=ABERTO,GLOBO RJ
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=ESPORTES,FOX SPORTS
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,FOX PREMIUM 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,FOX PREMIUM 1
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,FOX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,TNT
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,MEGA PIX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,SPACE
+https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,TELECINE ACTION
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineactionhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,TELECINE FUN
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,TELECINE PIPOCA
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcPIPOCAhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,TELECINE PREMIUM
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,TELECINE TOUCH
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,TELECINE CULT
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,AMC
+https://geralorigin.eu-central-1.edge.mycdn.live/live/amchd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,HBO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,HBO2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,HBO FAMILY
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbofamilyhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,HBO SIGNATURE
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbosignaturehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,UNIVERSAL
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,STUDIO UNIVERSAL
+https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png group-ttle=SÉRIES,WARNER
+https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,HBO MUNDI
+https://geralorigin.eu-central-1.edge.mycdn.live/live/maxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,HBO XTREME
+https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,CINEMAX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=FILMES,FX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,A&E
+https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8|Referer=https://topcanais.com/"
