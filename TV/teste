@@ -1,6 +1,6 @@
 #EXTM3U
-"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,PICA-PAU
-https://youtu.be/ojE8y4xwOv0|Referer=https://youtube.com/"
+"#EXTINF:0 tvg-logo= group-ttle=DESENHO,PICA-PAU
+https://youtu.be/ojE8y4xwOv0"
 "#EXTINF:-1 tvg-logo= group-ttle=NOTICIAS,RECORD NEWS
 https://youtu.be/VQRH6xM6T2o"
 "#EXTINF:-1 tvg-logo= group-ttle=DESENHO,GALINHA PINTADINHA
@@ -11,7 +11,8 @@ https://youtu.be/EXshf-A03sM"
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1554917726.m3u8"
 "#EXTINF:-1 tvg-logo= group-ttle=NOTICIAS,BAND NEWS
 https://youtu.be/Xg7D1u5LeSo"
-"#EXTINF:-1 tvg-logo= group-ttle=ESPORTES,FOX SPORTS
+"#EXTINF:-1 tvg-logo=https://ia801501.us.archive.org/31/items/sportv-3/fox-sports.png
+group-ttle=ESPORTES,FOX SPORTS
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportshd/video.m3u8"
 "#EXTINF:-1 tvg-logo= group-ttle=SÉRIES,FOX PREMIUM 2
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8|Referer=https://topcanais.com/"
