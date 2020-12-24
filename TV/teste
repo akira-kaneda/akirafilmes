@@ -69,7 +69,5 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8"
 https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8
 #EXTINF:0,3, A&E
 https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="FILMES",WARNER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="FILMES",WARNER2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-ttle="FILMES",WARNER2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8|Referer=https://topcanais.com/
