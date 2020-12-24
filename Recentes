@@ -1197,82 +1197,6 @@ A promissora carreira de Ip Man como policial é arruinada depois que ele é acu
 </item>"
 "<item>
 
-<title>Jogo Assassino [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/JGODASASNO.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6550.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6550.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller
-Lançamento: 2019
-
-Uma força-tarefa da polícia prende um predador online, apenas para descobrir que a profundidade de seus crimes vai muito além do que eles haviam previsto.</info>
- 
-<genre>Drama, Thriller</genre>
- 
-<date>06/09/2019</date>
-</item>"
-"<item>
-
-<title>Kaleb - O Cão Herói [COLOR yellow][IMDb 4,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/KLBOCAOHROI.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família
-Lançamento: 2020
-
-Kaleb, um pastor alemão, é separado de sua família judia durante o regime nazista. Ele é adotado por um soldado do serviço secreto e é treinado para fazer guarda nos campos de concentração. Em um desses campos ele reencontra seu antigo dono, agora prisioneiro. Juntos, eles tentam escapar e finalmente alcançar a liberdade.</info>
- 
-<genre>Família</genre>
- 
-<date>22/02/2020</date>
-</item>"
-"<item>
-
-<title>LEGO Star Wars: Especial de Festas [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
-Lançamento: 2020
-
-Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
- 
-<genre>Animação, Aventura, Comédia, Família, Ficção científica</genre>
- 
-<date>04/12/2020</date>
-</item>"
-"<item>
-
-<title>Ludo [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/LUDO.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Crime, Comédia
-Lançamento: 2020
-
-Ludo é sobre o efeito borboleta e como, apesar de todo o caos e multidão do mundo, todas as nossas vidas estão inextricavelmente conectadas. De uma fita de sexo ressurgida a uma mala de dinheiro velhaca, quatro histórias totalmente diferentes se sobrepõem aos caprichos do destino, do acaso e de um criminoso excêntrico.</info>
- 
-<genre>Crime, Comédia</genre>
- 
-<date>12/11/2020</date>
-</item>"
-"<item>
-
 <title>Mank [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/MANK.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1821,4 +1745,80 @@ História sobre o técnico de um time basquete de um colégio de ensino médio q
 <genre>Drama</genre>
  
 <date>23/04/2020</date>
+</item>"
+"<item>
+
+<title>Jogo Assassino [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JGODASASNO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6550.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6550.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2019
+
+Uma força-tarefa da polícia prende um predador online, apenas para descobrir que a profundidade de seus crimes vai muito além do que eles haviam previsto.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>06/09/2019</date>
+</item>"
+"<item>
+
+<title>Kaleb - O Cão Herói [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/KLBOCAOHROI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6551.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6551.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família
+Lançamento: 2020
+
+Kaleb, um pastor alemão, é separado de sua família judia durante o regime nazista. Ele é adotado por um soldado do serviço secreto e é treinado para fazer guarda nos campos de concentração. Em um desses campos ele reencontra seu antigo dono, agora prisioneiro. Juntos, eles tentam escapar e finalmente alcançar a liberdade.</info>
+ 
+<genre>Família</genre>
+ 
+<date>22/02/2020</date>
+</item>"
+"<item>
+
+<title>LEGO Star Wars: Especial de Festas [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6552.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6552.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
+Lançamento: 2020
+
+Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
+ 
+<genre>Animação, Aventura, Comédia, Família, Ficção científica</genre>
+ 
+<date>04/12/2020</date>
+</item>"
+"<item>
+
+<title>Ludo [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LUDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6553.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6553.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Comédia
+Lançamento: 2020
+
+Ludo é sobre o efeito borboleta e como, apesar de todo o caos e multidão do mundo, todas as nossas vidas estão inextricavelmente conectadas. De uma fita de sexo ressurgida a uma mala de dinheiro velhaca, quatro histórias totalmente diferentes se sobrepõem aos caprichos do destino, do acaso e de um criminoso excêntrico.</info>
+ 
+<genre>Crime, Comédia</genre>
+ 
+<date>12/11/2020</date>
 </item>"
