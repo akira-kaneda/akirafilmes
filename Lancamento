@@ -194,8 +194,8 @@ Uma fada madrinha jovem e inexperiente embarca numa aventura por conta própria 
 <link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6552.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6552.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
@@ -612,8 +612,8 @@ A Hollywood da década de 1930 é vista pelo olhar crítico do roteirista Herman
 <link>https://$doregex[RC]/RCFServer5/ondemand/LUDO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6553.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6553.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6553.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Crime, Comédia
@@ -4967,8 +4967,8 @@ Quando o último filho de Krypton cai na Rússia, na época da Guerra Fria, em v
 <link>https://$doregex[RC]/RCFServer5/ondemand/KLBOCAOHROI.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6551.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6551.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6551.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Família
