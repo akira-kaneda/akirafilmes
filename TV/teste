@@ -1,5 +1,6 @@
-"#EXTINF:-1 tvg-id=PICA-PAU tvg-logo=IMAGE group-title=DESENHO
-https://youtu.be/ojE8y4xwOv0"
+#EXTM3U
+#EXTINF:-1 tvg-id=PICA-PAU tvg-logo=IMAGE group-title=DESENHO
+https://youtu.be/ojE8y4xwOv0
 "#EXTINF:-1 tvg-id=REDE TV tvg-logo=IMAGE group-title=ABERTO
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2128977738_b2440551_DVR.m3u8"
 "#EXTINF:-1 tvg-id=RECORD NEWS tvg-logo=IMAGE group-title=NOTICIAS
@@ -64,7 +65,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/maxhd/video.m3u8"
 https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8"
 "#EXTINF:-1 tvg-id=CINEMAX tvg-logo=IMAGE group-title=FILMES
 https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8"
-"#EXTINF:-1 tvg-id=FX tvg-logo=IMAGE group-title=FILMES
-https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8"
-"#EXTINF:-1 tvg-id=A&E tvg-logo=IMAGE group-title=SÉRIES
-https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8"
+#EXTINF:-1 tvg-id=FX tvg-logo=IMAGE group-title=FILMES
+https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8
+#EXTINF:0,3 tvg-id=A&E tvg-logo=IMAGE group-title=SÉRIES
+https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
