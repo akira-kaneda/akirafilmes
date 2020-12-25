@@ -1,0 +1,27 @@
+#EXTM3U
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,BOOMERANG
+https://geralorigin.eu-central-1.edge.mycdn.live/live/boomeranghd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,CARTOON NETWORK
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,DISCOVERY KIDS
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverykidshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,DISNEY CHANNEL
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneychannelhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,DISNEY JR
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyjuniorhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,DISNEY XD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyxdhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,GALINHA PINTADINHA
+https://youtu.be/TNAQjmE5yNk"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,GLOOB
+https://geralorigin.eu-central-1.edge.mycdn.live/live/gloobhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,NICK JR
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nickjrhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,NICKELODEON
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nickelodeonhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,PICA-PAU
+https://youtu.be/ojE8y4xwOv0"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,TOONCAST
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tooncasthd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo= group-ttle=DESENHO,ZOOMOO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/zoomoohd/video.m3u8|Referer=https://topcanais.com/"
