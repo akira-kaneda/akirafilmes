@@ -11,7 +11,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/disneychannelhd/video.m3u8
 https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyjuniorhd/video.m3u8|Referer=https://topcanais.com/"
 "#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/disney-xd.png" group-ttle=DESENHO,DISNEY XD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyxdhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/galinha-pintadinha.png" group-ttle=DESENHO,GALINHA PINTADINHA
+"#EXTINF:-1, tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/galinha-pintadinha.png" group-ttle=DESENHO,GALINHA PINTADINHA
 https://youtu.be/TNAQjmE5yNk"
 "#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/gloob.png" group-ttle=DESENHO,GLOOB
 https://geralorigin.eu-central-1.edge.mycdn.live/live/gloobhd/video.m3u8|Referer=https://topcanais.com/"
