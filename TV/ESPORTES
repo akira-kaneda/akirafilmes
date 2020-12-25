@@ -1,0 +1,29 @@
+#EXTM3U
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/espn.png"" group-ttle=ESPORTES,ESPN
+https://geralorigin.eu-central-1.edge.mycdn.live/live/espn/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/espn2.png"" group-ttle=ESPORTES,ESPN 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/espnextrahd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/espn-brasil.png"" group-ttle=ESPORTES,ESPN BRASIL
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnbrasilhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/Espn-extra.png"" group-ttle=ESPORTES,ESPN EXTRA
+https://geralorigin.eu-central-1.edge.mycdn.live/live/espnextrahd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fox-sports.png"" group-ttle=ESPORTES,FOX SPORTS
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/premiere.png"" group-ttle=ESPORTES,PREMIERE
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fox-sports-2.png"" group-ttle=ESPORTES,FOX SPORTS 2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/combate.png"" group-ttle=ESPORTES,COMBATE
+https://newedge.eu-central-1.edge.mycdn.live/live/futemaxcombate/playlist.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/sportv-2.png"" group-ttle=ESPORTES,SPORTV 2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://archive.org/download/sportv-3/sportv-3.png"" group-ttle=ESPORTES,SPORTV 3
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/premiere.png"" group-ttle=ESPORTES,PREMIERE CLUBES
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/off.png"" group-ttle=ESPORTES,OFF
+https://geralorigin.eu-central-1.edge.mycdn.live/live/canaloffhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/sportv.png"" group-ttle=ESPORTES,SPORTV
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/band-sports.png"" group-ttle=ESPORTES,BAND SPORTS
+https://geralorigin.eu-central-1.edge.mycdn.live/live/bandsportshd/video.m3u8|Referer=https://topcanais.com/"
