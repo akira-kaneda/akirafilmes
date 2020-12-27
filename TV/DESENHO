@@ -11,8 +11,10 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/disneychannelhd/video.m3u8
 https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyjuniorhd/video.m3u8|Referer=https://topcanais.com/"
 "#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/disney-xd.png" group-ttle=DESENHO,DISNEY XD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyxdhd/video.m3u8|Referer=https://topcanais.com/"
-#EXTINF:0 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/galinha-pintadinha.png" group-ttle=DESENHO,GALINHA PINTADINHA
-https://youtu.be/TNAQjmE5yNk
+#EXTINF:0 tvg-logo="" group-ttle=DESENHO,OS SIMPSONS
+https://youtu.be/AJ3ES80MxIY
+#EXTINF:0 tvg-logo="" group-ttle=DESENHO,POCOYO
+https://youtu.be/XevY-0G1bKE
 "#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/gloob.png" group-ttle=DESENHO,GLOOB
 https://geralorigin.eu-central-1.edge.mycdn.live/live/gloobhd/video.m3u8|Referer=https://topcanais.com/"
 "#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/natgeo-Kids.png" group-ttle=DESENHO,NAT GEO KIDS
@@ -21,8 +23,6 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeokidshd/video.m3u8|Re
 https://geralorigin.eu-central-1.edge.mycdn.live/live/nickjrhd/video.m3u8|Referer=https://topcanais.com/"
 "#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/nickelodeon.png" group-ttle=DESENHO,NICKELODEON
 https://geralorigin.eu-central-1.edge.mycdn.live/live/nickelodeonhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/pica-pau.png" group-ttle=DESENHO,PICA-PAU
-https://youtu.be/ojE8y4xwOv0|Referer=https://youtube.com/"
 "#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/6/items/tooncast_202012/tooncast.png" group-ttle=DESENHO,TOONCAST
 https://geralorigin.eu-central-1.edge.mycdn.live/live/tooncasthd/video.m3u8|Referer=https://topcanais.com/"
 "#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/zoomoo.png" group-ttle=DESENHO,ZOOMOO
