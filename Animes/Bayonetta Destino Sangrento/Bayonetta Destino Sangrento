@@ -1,0 +1,13 @@
+"<item>
+
+<title>Bayonetta: Destino Sangrento</title>
+<link>https://pitou.goyabu.com/filmes/bayonetta.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801504.us.archive.org/18/items/26-3_20201230_202012/23.jpg</image>
+<thumbnail>https://ia801504.us.archive.org/18/items/26-3_20201230_202012/23.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após 500 anos, a bruxa Bayonetta acorda sem se lembrar de nada. Ela precisa lutar contra hordas de anjos para recuperar tesouros perdidos e seu próprio passado.
+</info>
+ </item>"
