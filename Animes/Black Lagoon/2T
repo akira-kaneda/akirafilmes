@@ -1,0 +1,65 @@
+"<item>
+
+<title>Episódios 01</title>
+<link>https://pitou.goyabu.com/black-lagoon-robertas-blood-trail-hd/01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</image>
+<thumbnail>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>Episódios 02</title>
+<link>https://pitou.goyabu.com/black-lagoon-robertas-blood-trail-hd/02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</image>
+<thumbnail>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>Episódios 03</title>
+<link>https://pitou.goyabu.com/black-lagoon-robertas-blood-trail-hd/03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</image>
+<thumbnail>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>Episódios 04</title>
+<link>https://pitou.goyabu.com/black-lagoon-robertas-blood-trail-hd/04.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</image>
+<thumbnail>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
+"<item>
+
+<title>Episódios 05</title>
+<link>https://pitou.goyabu.com/black-lagoon-robertas-blood-trail-hd/05.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</image>
+<thumbnail>https://ia601509.us.archive.org/21/items/27-3_20201230/27-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>
+</info>
+ </item>"
