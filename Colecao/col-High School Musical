@@ -55,3 +55,22 @@ O dia da formatura está se aproximando para Troy, Gabriella, Sharpay, Chad, Rya
  
 <date>22/10/2008</date>
 </item>"
+"<item>
+
+<title>High School Musical: O Musical: Especial de Festas [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer15/ondemand/HGHSCHLMSCLOMSCLASRT01ESCLDFSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6613.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6613.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música
+Lançamento: 2020
+
+O elenco de ""High School Musical: A Série: O Musical"" oferece uma abundância de alegria nesse Especial de Festas enquanto apresentam suas canções favoritas de Natal, Hanukkah e Ano Novo, e compartilham suas melhores memórias das festas.</info>
+ 
+<genre>Música</genre>
+ 
+<date>11/12/2020</date>
+</item>"
