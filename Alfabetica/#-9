@@ -1,115 +1,2271 @@
-#Horror
-#realityhigh
-(500) Dias com Ela
-(A) Fronteira
-(Des)encontro Perfeito
-...E o Vento Levou
-[REC]
-[REC] 2 - Possuídos
-[REC] 3 - Gênesis
-+Velozes +Furiosos
-007 A Serviço Secreto de Sua Majestade
-007 Casino Royale
-007 Contra a Chantagem Atômica
-007 Contra GoldenEye
-007 Contra Goldfinger
-007 Contra o Foguete da Morte
-007 Contra o Homem com a Pistola de Ouro
-007 Contra o Satânico Dr. No
-007 Contra Octopussy
-007 Contra Spectre
-007 Marcado para a Morte
-007 Na Mira dos Assassinos
-007 Nunca Mais Outra Vez
-007 O Amanhã Nunca Morre
-007 O Espião Que Me Amava
-007 O Mundo Não é o Bastante
-007 Operação Skyfall
-007 Os Diamantes São Eternos
-007 Permissão para Matar
-007 Quantum of Solace
-007 Somente Para Seus Olhos
-007 Um Novo Dia Para Morrer
-10 Coisas que Deveríamos Fazer Antes de nos Separar
-10.5: Apocalypse
-100 Metros
-10000 Anos Depois
-101 Dálmatas
-101 Dálmatas
-101 Dálmatas 2 - A Aventura de Patch em Londres
-102 Dálmatas
-118 Dias
-12 Anos de Escravidão
-12 Heróis
-12 Homens e Uma Sentença
-12 Horas
-12 Horas Para Sobreviver: O Ano da Eleição
-12 Rounds
-12 Rounds 2: Reloaded
-12 Rounds 3: Caçada Mortal
-127 Horas
-13 Assassinos
-13 Dias Que Abalaram o Mundo
-13 Fantasmas
-13 Horas: Os Soldados Secretos de Benghazi
-13 Minutos
-1408
-15 Minutos de Guerra
-15h17 - Trem Para Paris
-17 Outra Vez
-1898 - Os Ultimos das Filipinas
-1911 - A Revolução
-1917
-1918 – A Batalha de Kruty
-1922
-1941 - Uma Guerra Muito Louca
-2 Campeões de Shaolin
-2 Minutos de Fama
-2:22 - Encontro Marcado
-20 Anos + Jovem
-2001 Maníacos
-2001: Uma Odisséia no Espaço
-2010 - O Ano em que Faremos Contato
-2012
-2019: O Ano da Extinção
-211 - O Grande Assalto
-22 de Julho
-22 Milhas
-28 Dias
-3 Dias para Matar
-3 Minutos, Um Abraço
-3 Ninjas
-3 Ninjas Contra-Atacam
-3 Ninjas do Barulho
-3 Ninjas em Apuros
-3 Pedidos
-30 Minutos ou Menos
-30 Noites de Atividade Paranormal com a Filha dos Homens que Não Amavam as Mulheres
-300
-300: A Ascensão do Império
-3000 Milhas Para o Inferno
-31 - A Morte é a Única Saída
-360
-365 Dias
-4 Latas
-40 Dias - O Milagre da Vida
-48 Horas
-48 Horas - Parte 2
-5 Dias de Guerra
-50%
-55 Passos
-6 Balões
-6 Dias
-60 Minutos para Morrer
-7 Deadly Sins
-7 Desejos
-7 Dias em Entebbe
-7 Minutos na Escuridão
-7 Segundos
-72 Horas
-72 Horas: Mártir Que Nunca Morreu
-7500
-7etenta e 5inco
-9 - A Salvação
-90 Minutos no Paraíso
-96 minutos
+"<item>
+
+<title>#Horror [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/HROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/7.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/7.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Terror, Thriller
+Lançamento: 2015
+
+Inspirado em fatos reais, um grupo de garotas de 12 anos de idade enfrenta uma noite de horror quando um vício compulsivo por um jogo online de uma rede social, transforma um momento de cyber-bullying em uma noite de insanidade.
+</info>
+ 
+<genre>Drama, Mistério, Terror, Thriller</genre>
+ 
+<date>20/11/2015</date>
+</item>"
+"<item>
+
+<title>#realityhigh [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/RALTYHGH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/8.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/8.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2017
+
+Dani Barnes (Nesta Cooper) é uma jovem nerd percorrendo um grande sonho de ser aceita na UC Davis, a melhor universidade veterinária do mundo. Mas seus planos podem ir por água abaixo quando ela finalmente chama a atenção do garoto que ela estavam afim: a namorada dele, uma celebridade nas redes sociais, despertou sua fúria por Dani.
+</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>17/07/2017</date>
+</item>"
+"<item>
+
+<title>(500) Dias com Ela [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/500DSCMELA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/9.JPG</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/9.JPG</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2009
+
+Um romântico escritor se surpreende quando sua namorada Summer termina o namoro repentinamente. Com isso, ele relembra vários momentos dos 500 dias que passaram juntos para tentar descobrir onde seu caso de amor se perdeu e vai redescobrindo suas verdadeiras paixões.
+</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>13/11/2009</date>
+</item>"
+"<item>
+
+<title>(A) Fronteira [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AFRNTRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801406.us.archive.org/21/items/371_20200905/297.jpg</image>
+<thumbnail>https://ia801406.us.archive.org/21/items/371_20200905/297.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Ação, Thriller
+Lançamento: 2007
+
+A fim de ajudar a uma jovem grávida que precisa desesperadamente esconder sua gravidez da família, seus amigos começam a roubar para reunir os fundos necessários para fazer o aborto na Holanda. Fugindo da polícia, o pequeno grupo se refugia num velho terreno de mineração improdutivo, num bosque na fronteira com Luxemburgo e descobre um albergue administrado por donos perigosos: neonazistas canibais!</info>
+ 
+<genre>Drama, Terror, Ação, Thriller</genre>
+ 
+<date>01/07/2007</date>
+</item>"
+"<item>
+
+<title>(Des)encontro Perfeito [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/DESNCTROPRFTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/10.JPG</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/10.JPG</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2015
+
+Nancy (Lake Bell) tem 34 anos de idade e leva uma vida fracassada no amor. Quando ela viaja a Londres para o aniversário de casamento de seus pais, conhece Jack (Simon Pegg), que confunde Nancy com a garota que ele está esperando para um encontro às cegas. Sem desfazer a confusão, Nancy assume a identidade da garota que Jack esperava, e passa uma ótima noite ao lado do pretendente. Mas uma hora a mentira vai ser descoberta...
+</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>13/11/2015</date>
+</item>"
+"<item>
+
+<title>...E o Vento Levou [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EOVNTOLVOU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/12/items/11_20200901_20200901/12.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra, Romance
+Lançamento: 1940
+
+""E o Vento Levou"" narra a complicada vida de Scarlet O’Hara (Vivien Leigh), seus amores e desilusões em um período que tem a Guerra Civil Americana como pano de fundo. Clark Gable é Rett Butler, um vivido aventureiro que passa pela vida de Scartlet, em uma relação de amor e ódio marcada por conflitos já clássicos e inesquecíveis cenas de amor.</info>
+ 
+<genre>Drama, Guerra, Romance</genre>
+ 
+<date>01/01/1940</date>
+</item>"
+"<item>
+
+<title>[REC] [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/REC1.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6483.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6483.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério
+Lançamento: 2008
+
+Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bombeiros chamados para resgatar uma mulher presa em um edifício, com resultados apavorantes. Antes de se darem conta, moradores, ajudantes e equipe de resgate são trancados dentro do edifício devido a um vírus desconhecido.</info>
+ 
+<genre>Terror, Mistério</genre>
+ 
+<date>14/11/2008</date>
+</item>"
+"<item>
+
+<title>[REC] 2 - Possuídos [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/REC2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6484.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6484.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2010
+
+Há 15 minutos a polícia não tem qualquer contato com as pessoas que estão presas dentro de um edifício em quarentena. Ninguém sabe o que aconteceu lá dentro. Neste momento, Dr. Owen e uma unidade da SWAT resolvem entrar no prédio para descobrir qual é a situação do local e desenvolver um antídoto através da coleta de sangue da jovem Medeiros.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>03/09/2010</date>
+</item>"
+"<item>
+
+<title>[REC] 3 - Gênesis [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/REC3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/6485.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6485.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2012
+
+A infecção agora está oficialmente fora do prédio. E atinge diretamente a festa de casamento de um inocente casal - na qual os convidados começam a mostrar sinais claros de uma terrível doença. Uma doença que os faz perder a consciência e sentir uma incontrolável sede de sangue.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>07/09/2012</date>
+</item>"
+"<item>
+
+<title>+Velozes +Furiosos [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/VLZEFROSOS02.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/12/items/11_20200901_20200901/11.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/12/items/11_20200901_20200901/11.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2003
+
+Após deixar a polícia, Brian O'Conner é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone, o chefe do tráfico local. Para tanto ele recebe a ajuda de seu ex-colega Roman Pearce e da agente secreta Monica Fuentes.
+</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>13/06/2003</date>
+</item>"
+"<item>
+
+<title>007 A Serviço Secreto de Sua Majestade [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071969ASVCSCRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/21.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/21.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1970
+
+Em uma praia 007 (George Lazenby) evita que uma jovem mulher cometa suicídio. O pai dela o chefe de uma poderosa organização criminosa e, impressionado com Bond, quer que ele proteja sua filha se casando com ela. Em troca, ele oferece ao famoso agente informações que façam 007 chegar até Ernst Blofeld (Telly Savallas), o principal inimigo do agente. Inicialmente 007 concorda com o acordo, visando apenas poder matar Blofeld, mas com o tempo ele realmente fica apaixonado pela sua futura esposa. Porém, Bond logo descobre que Blofeld planeja destruir a humanidade com um vírus altamente mortal a menos que receba perdão por todos os seus crimes. Desta maneira, a Rainha da Inglaterra pede que Bond intervenha no caso, mas a situação se complica e toma um rumo inesperado.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>05/01/1970</date>
+</item>"
+"<item>
+
+<title>007 Casino Royale [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072006CSNRYL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/22.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/22.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 2006
+
+Depois de obter o status 00 e uma licença para matar, o agente secreto James Bond parte em sua primeira missão como 007. Bond precisa derrotar um banqueiro privado que financia terroristas em um jogo de pôquer de alto risco no Casino Royale, Montenegro.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>15/12/2006</date>
+</item>"
+"<item>
+
+<title>007 Contra a Chantagem Atômica [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/16/items/35_20200901/13.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/13.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1966
+
+James Bond (Sean Connery) tenta evitar a destruição de Miami por meio de uma super bomba, roubada pela SPECTRE. A organização está exigindo um pagamento de 100 milhões de dólares em diamantes para não cumprir a ameaça de explodir a cidade. Para isso, ele vai correr contra o tempo para encontrar as armas roubadas e impedir a morte de milhões de inocentes.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>17/01/1966</date>
+</item>"
+"<item>
+
+<title>007 Contra GoldenEye [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071995CNTRGLDNE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/16/items/35_20200901/14.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/14.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1995
+
+James Bond precisa impedir que o controle do poderoso satélite GoldenEye, capaz de causar pane em qualquer equipamento eletrônico do mundo, caia em mãos erradas. Para isso, contará com a ajuda da bela especialista em computação Natalya Siminova.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>16/12/1995</date>
+</item>"
+"<item>
+
+<title>007 Contra Goldfinger [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/15.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/15.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1965
+
+James Bond é (Sean Connery) encarregado de espionar Goldfinger (Gert Fröbe), um poderoso milionário cujas remessas de ouro espalhadas por diversos países podem esconder ações criminosas. Após ser capturado, Bond descobre que o plano de Goldfinger é bem maior do que ele imaginava: Goldfinger pretende roubar nada mais nada menos do que as reservas americanas de ouro, guardadas no Forte Knox.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>28/01/1965</date>
+</item>"
+"<item>
+
+<title>007 Contra o Foguete da Morte [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071979CNTROFGUT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/16.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/16.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Ficção científica
+Lançamento: 1979
+
+Um avião carregando um foguete espacial sofre um acidente, mas quando o Serviço Secreto Britânico vai examinar os destroços não encontra nenhum vestígio da espaçonave. Assim, 007 (Roger Moore) tem a missão de investigar o caso e começa indo visitar o multimilionário que construiu a aeronave e tem idéias bastantes estranhas de qual deva ser o destino da raça humana.
+</info>
+ 
+<genre>Ação, Aventura, Thriller, Ficção científica</genre>
+ 
+<date>05/09/1979</date>
+</item>"
+"<item>
+
+<title>007 Contra o Homem com a Pistola de Ouro [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071974CNTROHMN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/17.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/17.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1975
+
+Quando uma bala de ouro chega ao quartel-general da inteligência britânica com um ""007"" gravado nela, se acredita que James Bond (Roger Moore) será o próximo alvo de um assassino profissional (Christopher Lee) que cobra um milhão de dólares por serviço. Assim, Bond vai investigar a situação e acaba descobrindo que o objetivo do matador internacional seqüestrar um cientista, que inventou um conversor solar capaz de resolver a crise de energia no planeta.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>05/01/1975</date>
+</item>"
+"<item>
+
+<title>007 Contra o Satânico Dr. No [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071962CNTROSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/18.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/18.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1963
+
+James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. Em meio às suas investigações ele descobre o esconderijo do Dr. No (Joseph Wiseman), um gênio louco que pretende desviar o rumo dos foguetes americanos.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>07/09/1963</date>
+</item>"
+"<item>
+
+<title>007 Contra Octopussy [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/19.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/19.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1983
+
+Ao tentar solucionar quem assassinou o agente 009 (Andy Bradford), James Bond (Roger Moore) resolve seguir uma pista de uma jóia Fabergé roubada do Kremlin, que aparece em uma famosa casa de leilões de Londres. O agente 007 acredita que esta jóia pode ser a chave para solucionar o mistério, pois o agente morto foi encontrado com um Fabergé falso.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>15/09/1983</date>
+</item>"
+"<item>
+
+<title>007 Contra Spectre [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072016CNTRSPCTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/20.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/20.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 2015
+
+James Bond chega à Cidade do México e está pronto para eliminar Marco Sciarra sem que o chef M saiba da missão. O caso leva à suspensão temporária do agente, que passa a ser constantemente vigiado pelo governo britânico graças a uma tecnologia implantada em seu corpo por Q. Na tentativa de despistar os inimigos e até mesmo alguns de seus parceiros de trabalho, ele se responsabiliza por ajudar a filha de um desafeto. Toda a situação o leva ao centro de uma temida organização denominada Spectre.
+</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>05/11/2015</date>
+</item>"
+"<item>
+
+<title>007 Marcado para a Morte [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071987MRCDOMRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/23.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/23.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 1987
+
+Georgi Koskov (Jeroen Krabbé), um general dissidente da União Soviética, escapa da Cortina de Ferro com a ajuda de James Bond (Timothy Dalton), mas logo recapturado através de uma sensacional missão de resgate, que transforma o Serviço Secreto Inglês em uma grande chacota. A partir de então, 007 assume o caso e vê fatos surpreendentes ao conhecer Kara Milovy (Maryam d'Abo), uma violoncelista tcheca com quem se envolve. Bond acaba descobrindo uma grande trama ligada a Brad Whitaker (Joe Don Baker), um grande comerciante de armamento bélico.
+</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>04/10/1987</date>
+</item>"
+"<item>
+
+<title>007 Na Mira dos Assassinos [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071985NMRDSASNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/24.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/24.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1985
+
+O magnata Max Zorin (Christopher Walken) pretende controlar o mercado de informática. Ele resolve arquitetar um louco plano, no qual milhares de pessoas vão morrer, para ficar ainda mais rico. Após retornar da sua viagem na USSR com um chip de computador, James Bond (Roger Moore) precisa investigar as indústrias de Zorin e tentar impedir que o vilão realize os seus planos.</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>27/06/1985</date>
+</item>"
+"<item>
+
+<title>007 Nunca Mais Outra Vez [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071983CNTROPCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/25.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/25.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1983
+
+James Bond (Sean Connery) é convocado para reaver bombas nucleares roubadas pela Spectre, uma terrível organização criminosa que pretende lançá-las em cidades americanas. Mas terá que enfrentar uma sexy assassina profissional, contratada especialmente para eliminá-lo.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>29/12/1983</date>
+</item>"
+"<item>
+
+<title>007 O Amanhã Nunca Morre [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071997OAMNHNCM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/26.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/26.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1998
+
+James Bond descobre que o magnata da mídia Elliot Carver colocou em prática um plano para manipular as superpotências e expandir seus negócios. O agente deve impedir que essa ideia doentia provoque uma nova guerra mundial.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>16/01/1998</date>
+</item>"
+"<item>
+
+<title>007 O Espião Que Me Amava [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071977OESPNHQMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/27.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/27.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1977
+
+A Inglaterra descobre que alguém sabe como rastrear um submarino submerso e está oferecendo esta tecnologia para quem pagar mais alto. Uma crise internacional tem início quando um submarino com dezesseis mísseis nucleares desaparece, enquanto fazia uma patrulha. O agente secreto 007 (Roger Moore) incumbido de investigar o caso e recuperar as ogivas, antes que sejam disparadas, e para isto recebe a ajuda de uma bela e sensual agente soviética (Barbara Bach).</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>31/10/1977</date>
+</item>"
+"<item>
+
+<title>007 O Mundo Não é o Bastante [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/28.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/28.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1999
+
+James Bond deve proteger Elektra King, filha de um magnata do petróleo que foi brutalmente assassinado. O agente secreto é encarregado de manter Elektra longe do lunático terrorista Renard, que deseja assumir o controle do petróleo de todo o mundo.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>24/12/1999</date>
+</item>"
+"<item>
+
+<title>007 Operação Skyfall [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072012OPSKYFL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/29.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/29.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller
+Lançamento: 2012
+
+Após uma missão mal sucedida de James Bond, a identidade de agentes secretos é revelada e o M16, atacado. Ajudado por um agente de campo, Bond deverá seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.
+</info>
+ 
+<genre>Ação, Aventura, Thriller</genre>
+ 
+<date>26/10/2012</date>
+</item>"
+"<item>
+
+<title>007 Os Diamantes São Eternos [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071971OSDAMTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/12/items/11_20200901_20200901/30.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/12/items/11_20200901_20200901/30.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1972
+
+Quando o governo britânico suspeita da existência de uma rede mundial de contrabando de diamantes, 007 (Sean Connery) é chamado para investigar. Ele logo descobre a extensão do problema e viaja para a América, onde o milionário proprietário de um cassino é suspeito de estar por trás de tudo. Só que ele é ninguém menos que Ernst Stavro Blofeld (Charles Gray), o arquiinimigo de James Bond, que sabe exatamente o que tem de fazer, principalmente quando as mais poderosas potências nucleares do planeta estão envolvidas.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>03/01/1972</date>
+</item>"
+"<item>
+
+<title>007 Permissão para Matar [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071989PRMSPMTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/31.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/31.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1989
+
+James Bond desobedece ordens e parte em uma missão para vingar a morte da mulher de seu melhor amigo, assassinada por um chefão das drogas. Ele chega à base sul-americana do narcotraficante e, disfarçado de pistoleiro, é contratado pelo criminoso.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>16/12/1989</date>
+</item>"
+"<item>
+
+<title>007 Quantum of Solace [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072008QNTOFSLC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/32.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/32.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller, Crime
+Lançamento: 2008
+
+Após a morte de Vesper Lynd, James Bond faz com que sua próxima missão seja pessoal. A caçada àqueles envolvidos na morte da mulher de sua vida o leva ao encontro do cruel empresário Dominic Greene, que faz parte da organização que coagiu Vesper. Bond descobre que Greene planeja obter o controle total de um recurso natural vital e deve enfrentar perigo e traição para frustrar o plano.
+</info>
+ 
+<genre>Aventura, Ação, Thriller, Crime</genre>
+ 
+<date>07/11/2008</date>
+</item>"
+"<item>
+
+<title>007 Somente Para Seus Olhos [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/33.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/33.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 1981
+
+A tarefa agora é recuperar uma importante arma de defesa que afundou com um navio e que pode ter ido parar em mãos inimigas. Décimo-segundo filme da série. Seguido por '007 Contra Octopussy'. Quando um navio britânico é afundado em águas estrangeiras, as superpotências mundiais começam uma corrida desesperada para achar sua carga: um sistema submarino de controle nuclear. E 007 (Roger Moore) é lançado a uma de suas mais eletrizantes aventuras ao participar da procura... e evitar a devastação mundial!</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>18/09/1981</date>
+</item>"
+"<item>
+
+<title>007 Um Novo Dia Para Morrer [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0072002UNDPM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/34.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/34.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Thriller
+Lançamento: 2003
+
+Após se libertar de uma prisão na Coreia do Norte, James Bond entra em ação para perseguir o maligno Gustav Graves, que está desenvolvendo uma arma de alta tecnologia capaz de colocar o mundo em risco.
+</info>
+ 
+<genre>Aventura, Ação, Thriller</genre>
+ 
+<date>10/01/2003</date>
+</item>"
+"<item>
+
+<title>10 Coisas que Deveríamos Fazer Antes de nos Separar [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/10COSQDVRMSFZRANTSDNSPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/35.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/35.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Em 10 Coisas que Deveríamos Fazer Antes de Nos Separar, Abigail (Christina Ricci) conhece Benjamin (Hamish Linklater) no bar e iniciam uma conversa cômica sobre o que fariam antes de se separar – caso fossem casados. O que era uma brincadeira, acaba se tornando realidade quando os dois passam a noite juntos e Abigail fica grávida.
+</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>05/03/2020</date>
+</item>"
+"<item>
+
+<title>10.5: Apocalypse [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/10.5APCLPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/36.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/36.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação
+Lançamento: 2006
+
+As atividades sísmicas mortais que atingiram o pico de 10,5 de terremoto e devastaram a costa oeste do país alteraram a estrutura central da Terra e agora ameaçam colocar em risco a América do Norte e o hemisfério ocidental. Numa tentativa desesperada de salvar vidas - e o país -, o Presidente Hollister liga novamente para um dos sismólogos mais importantes do país, a controversa Dra. Samantha Hill e seu supervisor e ex-namorado, Dr. Jordan Fisher, para interpretar o mais recente ataque de terremotos.
+</info>
+ 
+<genre>Aventura, Ação</genre>
+ 
+<date>21/05/2006</date>
+</item>"
+"<item>
+
+<title>100 Metros [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/100MTRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/37.JPG</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/37.JPG</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2016
+
+Um homem diagnosticado com esclerose múltipla questiona as limitações de seu corpo e, com a ajuda do sogro, treina para uma prova de Ironman.
+</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>04/11/2016</date>
+</item>"
+"<item>
+
+<title>10000 Anos Depois [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/1000ANSDPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/16/items/35_20200901/38.JPG</image>
+<thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/38.JPG</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Ação
+Lançamento: 2015
+
+Centenas de milhares de anos após o colapso da civilização, o mundo é um deserto “pós-tech” e é habitado por tribos humanóides. A paz estabelecida entre eles é ameaçada pelo retorno de Wushen, um fantasma que muda a forma da tecnologia moderna, ameaçando escravizar a população mundial. Zhuma, uma menina de dez anos de idade é a heroína da história, acompanhada por Zhanggong, seu cachorro leão-como o mastín tibetano e seu avô. Escolhida e ajudada por uma deusa etérea, ela deve reunir aliados das tribos sobreviventes para combater Wushen e impedi-lo de ganhar o controle sobre um poder muito antigo.
+</info>
+ 
+<genre>Fantasia, Animação, Ação</genre>
+ 
+<date>18/05/2015</date>
+</item>"
+"<item>
+
+<title>101 Dálmatas [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/40.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/40.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Comédia, Família
+Lançamento: 1961
+
+Conta a história de uma família de cachorrinhos da raça dálmata que é raptada por uma terrível mulher chamada Cruella De Vil, que quer transformar os cãezinhos em um casaco de peles. Fascinada por peles, essa mulher tem um sonho e para realiza-lo ela depende de uma ""amiga"" sua, Anita, que tem uma quinzena de filhotes dálmatas.
+</info>
+ 
+<genre>Aventura, Animação, Comédia, Família</genre>
+ 
+<date>03/03/1961</date>
+</item>"
+"<item>
+
+<title>101 Dálmatas [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTSFILME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4564.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4564.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1996
+
+A designer de moda Anita e o programador de jogos para computador Roger se encontram, se apaixonam e se casam junto com seus dálmatas Perdita e Pongo. Mas os filhotinhos dos orgulhosos Perdita e Pongo são sequestrados pela chefe de Anita, a Cruella De Vil, que está roubando filhotes de dálmatas para fazer o casaco de peles que ela definiu como seu preferido. Com a ajuda do reino animal britânico, Pongo e Perdita partem para encontrar e resgatar seus filhotes de seus temíveis sequestradores, Jasper e Horácio. Acabam encontrando alguns mais.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>14/12/1996</date>
+</item>"
+"<item>
+
+<title>101 Dálmatas 2 - A Aventura de Patch em Londres [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/101DMLTS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/39.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/39.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Comédia, Animação
+Lançamento: 2008
+
+Antes de se mudar para a nova casa, numa fazenda, Patch, um dos filhotes de dálmatas, foge para Londres. A terrível Cruela DeVil quer pegar novamente os cãezinhos, para transformá-los em casaco de peles.
+</info>
+ 
+<genre>Família, Aventura, Comédia, Animação</genre>
+ 
+<date>20/11/2008</date>
+</item>"
+"<item>
+
+<title>102 Dálmatas [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/102DMLTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4565.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4565.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2000
+
+Após uma terapia por hipnose e acreditando estar curada, Cruella de Vil é libertada da prisão e se propõe a começar uma nova vida. As coisas estão indo bem para Cruella que está ocupada ajudando cães desabrigados da rua. Porem, quando o relógio Big Ben bate as horas, as coisas ficam ruins. A cura hipnótica é revertida e Cruella está de volta. E desta vez ela está determinada a fazer seu casaco com pele malhada que ela sempre quis.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>01/12/2000</date>
+</item>"
+"<item>
+
+<title>118 Dias [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/118DAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/41.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/41.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2014
+
+Maziar Bahari é um jornalista iraniano que trabalha para a revista americana Newsweek e vive em Londres, ao lado da esposa grávida. Ele é enviado para cobrir as eleições presidenciais no Irã em 2009, onde o atual presidente Mahmoud Ahmadinejad corre o risco de não se reeleger. Após uma vitória folgada de Ahmadinejad, rumores de que a eleição teria sido fraudada provocam diversas manifestações populares, algumas repelidas com violência pela polícia local. Bahari consegue filmar um destes ataques e veicula o material para ser divulgado mundo afora, o que o transforma em alvo do governo iraniano. Preso por tempo indeterminado, ele passa a ser torturado para que confesse que estava agindo em nome de uma conspiração ocidental para derrubar o presidente iraniano
+</info>
+ 
+<genre>Drama</genre>
+ 
+<date>07/11/2014</date>
+</item>"
+"<item>
+
+<title>12 Anos de Escravidão [COLOR yellow][IMDb 8,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/12ANSDESCRVDAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/21/items/3962_20201118/3765.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3765.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 2014
+
+1841, Solomon Northup é um escravo liberto, que vive em paz ao lado da esposa e filhos. Um dia, após aceitar um trabalho que o leva a outra cidade, ele é sequestrado e acorrentado. Vendido como se fosse um escravo, Solomon precisa superar humilhações físicas e emocionais para sobreviver. Ao longo de doze anos ele passa por dois senhores, Ford (Benedict Cumberbatch) e Edwin Epps (Michael Fassbender), que, cada um à sua maneira, exploram seus serviços.</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>21/02/2014</date>
+</item>"
+"<item>
+
+<title>12 Heróis [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12HERS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/42.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/42.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, História, Guerra
+Lançamento: 2018
+
+Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade de formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.
+</info>
+ 
+<genre>Drama, Ação, História, Guerra</genre>
+ 
+<date>15/03/2018</date>
+</item>"
+"<item>
+
+<title>12 Homens e Uma Sentença [COLOR yellow][IMDb 8,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12HMNSEUMSTNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/43.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/43.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1958
+
+Um jovem porto-riquenho é acusado do brutal crime de ter matado o próprio pai. Quando ele vai a julgamento, doze jurados se reúnem para decidir a sentença, levando em conta que o réu deve ser considerado inocente até que se prove o contrário. Onze dos jurados têm plena certeza de que ele é culpado, e votam pela condenação, mas um jurado acha que é melhor investigar mais para que a sentença seja correta. Para isso ele terá que enfrentar diferentes interpretações dos fatos, e a má vontade dos outros jurados, que só querem ir logo para suas casas.
+</info>
+ 
+<genre>Drama</genre>
+ 
+<date>10/10/1958</date>
+</item>"
+"<item>
+
+<title>12 Horas [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/12HRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6612.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6612.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Mistério
+Lançamento: 2012
+
+A história gira em torno de Jill (Amanda Seyfried), uma jovem que escapou de um serial killer há dois anos e que agora acredita que o mesmo sujeito raptou sua irmã mais nova. Ela terá que lutar contra a desconfiança das pessoas que não acreditam que tenha sido sequestrada em primeiro lugar.</info>
+ 
+<genre>Drama, Thriller, Mistério</genre>
+ 
+<date>24/02/2012</date>
+</item>"
+"<item>
+
+<title>12 Horas Para Sobreviver: O Ano da Eleição [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMNTDCRM3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/44.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/44.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Thriller
+Lançamento: 2016
+
+Em época de eleições, o policial Barnes precisa proteger a senadora Charlie Roan de uma noite anual de crimes, onde todos os delitos são permitidos por 12 horas.
+</info>
+ 
+<genre>Ação, Terror, Thriller</genre>
+ 
+<date>06/10/2016</date>
+</item>"
+"<item>
+
+<title>12 Rounds [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12RNDS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/12/items/11_20200901_20200901/55.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/12/items/11_20200901_20200901/55.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2009
+
+Danny Fisher (John Cena) é um detetive da polícia de Nova Orleans que consegue impedir a fuga de Miles Jackson (Aidan Gillen), um assaltante que acaba de realizar um assalto de milhões de dólares. Só que a namorada de Miles morre, acidentalmente. Após fugir da prisão, Miles passa a elaborar sua vingança contra Fisher. Para tanto cria um verdadeiro quebra-cabeças, composto de 12 passos, onde o detetive precisa cumprir tarefas quase impossíveis.
+</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>27/03/2009</date>
+</item>"
+"<item>
+
+<title>12 Rounds 2: Reloaded [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12RNDS2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601508.us.archive.org/16/items/35_20200901/45.jpg</image>
+<thumbnail>https://ia601508.us.archive.org/16/items/35_20200901/45.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 2013
+
+O paramédico Nick Malloy (Orton) é arremessado num jogo mortal de gato e rato quando recebe um telefonema aterrorizante de um psicopata vingativo (Brian Markinson) ligado a seu passado. O maníaco ameaça iniciar uma onda de assassinatos a menos que Nick consiga completar uma série de 12 desafios sem envolver os tiras nem perder um único prazo. Sem tempo a perder -- e com a vida de sua própria esposa em perigo -- Nick precisa juntar as pistas e caçar o assassino antes que seja tarde demais!</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>03/06/2013</date>
+</item>"
+"<item>
+
+<title>12 Rounds 3: Caçada Mortal [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/12RNDS3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/46.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/46.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Crime
+Lançamento: 2015
+
+Shaw, um detetive que volta a ativa após a morte de seu parceiro. Quando ele descobre evidencias ligando seus ex-companheiros de polícia à um assassinato, eles acabam prendendo Shaw por um homicídio que ele não cometeu. Aprisionado em seu próprio distrito, Shaw irá fazer qualquer coisa para expor os policiais corruptos e limpar seu nome. Com doze balas e apenas um tiro para a redenção, nada ficará no caminho de Shaw neste thriller cheio de ação.
+</info>
+ 
+<genre>Ação, Thriller, Crime</genre>
+ 
+<date>11/09/2015</date>
+</item>"
+"<item>
+
+<title>127 Horas [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/127HRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/47.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/47.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Thriller
+Lançamento: 2011
+
+Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.
+</info>
+ 
+<genre>Aventura, Drama, Thriller</genre>
+ 
+<date>18/02/2011</date>
+</item>"
+"<item>
+
+<title>13 Assassinos [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/13ASASNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/48.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/48.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Ação
+Lançamento: 2011
+
+A paz do Japão feudal de 1844 está sendo ameaçada por um tirano cruel e impiedoso chamado Naritsugu Matsudaira. Um veterano guerreiro chamado Shinzaemon Shimada é recrutado para deter o tirano. Ele reúne mais doze guerreiros para se unirem a ele em uma missão suicida que irá assassinar o lorde Matsudaira.</info>
+ 
+<genre>Aventura, Drama, Ação</genre>
+ 
+<date>30/03/2011</date>
+</item>"
+"<item>
+
+<title>13 Dias Que Abalaram o Mundo [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/13DIASQABLRMOMNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/49.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/49.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2001
+
+Durante treze extraordinários dias em outubro de 1962, o mundo esteve à beira de uma verdadeira catástrofe. Todo o planeta aguardava com ansiedade o desfecho do confronto político-militar entre Estados Unidos e União Soviética em razão da instalação de mísseis antiaéreos soviéticos em Cuba. O confronto foi tão sério que quase provocou uma guerra nuclear entre as duas potências, o que poderia ter destruído toda a humanidade. O alarmante desenvolvimento dos eventos ocorridos durante esses treze dias envolveu um número enorme de políticos, militares e gente influente que temiam uma invasão russa através do estabelecimento da base militar em Cuba. A ação se passa quase que em sua totalidade dentro da Casa Branca, onde discussões acaloradas e intermináveis sobre como encaminhar a questão do armamento de Cuba com o então poderoso governo da União Soviética consumiam os dias dos políticos e, principalmente, do presidente e seus dois fiéis confidentes e amigos.
+</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>03/08/2001</date>
+</item>"
+"<item>
+
+<title>13 Fantasmas [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/13FNTSMAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/50.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/50.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2002
+
+Um rico colecionador morre e deixa tudo para seu sobrinho, incluindo sua casa, sua fortuna e sua coleção de fantasmas.
+</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>22/03/2002</date>
+</item>"
+"<item>
+
+<title>13 Horas: Os Soldados Secretos de Benghazi [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/13HRSOSLDSCRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/51.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/51.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, História, Thriller
+Lançamento: 2016
+
+Seis membros de um grupo de elite da Marinha americana defendem o Consulado dos Estados Unidos em Bengazi, Líbia, alvo de um ataque terrorista que causou a morte do embaixador J. Christopher Stevens em 2012.
+</info>
+ 
+<genre>Ação, História, Thriller</genre>
+ 
+<date>18/02/2016</date>
+</item>"
+"<item>
+
+<title>13 Minutos [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/13MINTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/52.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/52.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 2016
+
+Baseada em fatos reais, esta história decorre em 1939, em vésperas da 2ª Guerra Mundial, quando Hitler sobrevive à explosão de uma bomba durante um evento comemorativo de seu partido. Entre a saída de Hitler da comemoração e a explosão que o mataria, decorreram 13 minutos. O plano foi engendrado por Georg Elser, carpinteiro e cidadão comum indignado perante a perda de liberdade e os abusos cometidos pelo regime. Considerado traidor da pátria, Elser foi imediatamente preso, mas só executado em 1945, por ordem direta de Hitler, quando a Alemanha já estava a perder a guerra.
+</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>03/11/2016</date>
+</item>"
+"<item>
+
+<title>1408 [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/1408.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/53.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/53.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2007
+
+Um promissor romancista, Mike Enslin (John Cusack), resolveu enveredar por outro caminho e escrever livros que investiguem fenômenos paranormais. Enslin nunca presenciou realmente algum destes fatos, então fica difícil obter credibilidade. Além do mais Mike é totalmente cético, pois até hoje não encontrou evidências de que exista vida após a morte. No entanto decide ir até Nova York e se hospedar no Dolphin Hotel, mais exatamente no quarto 1408, que tem fama de ser habitado por espíritos malignos. O gerente do hotel, Gerald Olin (Samuel L. Jackson), o avisa que 56 mortes já ocorreram neste quarto, mas Mike está decidido a conferir se sua fama está condizente com a verdade.
+</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>02/11/2007</date>
+</item>"
+"<item>
+
+<title>15 Minutos de Guerra [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/15MNTSDGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/16/items/35_20200901/54.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/16/items/35_20200901/54.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Guerra, História
+Lançamento: 2019
+
+Baseado nos eventos reais ocorridos em Djibouti no ano de 1976, quando terroristas somalianos sequestraram um ônibus escolar com 21 crianças francesas e uma professora americana, tentando levá-los a um território inabitado, localizado entre a colônia francesa e a Somália. O capitão francês André Gerval é chamado para liderar um time de atiradores de elite com o objetivo de preparar uma operação de resgate. Com a diplomacia falhando e o tempo se esgotando, Gerval e seu time são os únicos capazes de salvar as crianças e a professora.
+</info>
+ 
+<genre>Ação, Drama, Guerra, História</genre>
+ 
+<date>11/07/2019</date>
+</item>"
+"<item>
+
+<title>15h17 - Trem Para Paris [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/15H17TRMPRPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/56.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/56.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Thriller
+Lançamento: 2018
+
+Quando um terrorista do Estado Islâmico invade o vagão de um trem a caminho de Paris, três soldados americanos - Anthony Sadler, Alex Skarlatos e Specen Stone - se esforçam para imobilizar o extremista, armado com um fuzil AK-47, e evitar uma enorme tragédia.
+</info>
+ 
+<genre>Drama, História, Thriller</genre>
+ 
+<date>08/03/2018</date>
+</item>"
+"<item>
+
+<title>17 Outra Vez [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/17OUTVZ.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/57.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/57.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2009
+
+Mike foi uma estrela do basquete que tinha um futuro promissor, porém jogou tudo para o alto ao casar-se com sua namorada para criar seu filho. Quase vinte anos depois, com o casamento arruinado e com um trabalho que não o leva para lugar algum, seus filhos o consideram um fracassado. Contudo, ele tem a chance de corrigir os erros que cometeu e mudar a sua vida quando milagrosamente transforma-se em um adolescente de 17 anos.
+</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>17/04/2009</date>
+</item>"
+"<item>
+
+<title>1898 - Os Ultimos das Filipinas [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OSULTMDSFLPNS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4708.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4708.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, História
+Lançamento: 2017
+
+Baseado em fatos reais o longa conta a história de um grupo de soldados espanhóis que continuavam trancados numa igreja da aldeia de Baler por causa de um cerco. Os militares estavam lá por quase um ano com a convicção de que a guerra nas Filipinas ainda não tinha terminado.</info>
+ 
+<genre>Guerra, Drama, História</genre>
+ 
+<date>03/03/2017</date>
+</item>"
+"<item>
+
+<title>1911 - A Revolução [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/1911ARVLCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/58.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/58.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, Ação, História, Guerra
+Lançamento: 2011
+
+O centésimo filme do ator Jackie Chan, 1911, é um tributo aos 100 anos de aniversário da revolução de 1911. O filme “1911″ tem uma constelação de estrelas, porém deve-se ressaltar que Chan dirigiu, produziu e atuou no mesmo, o filme é uma crônica sobre a revolução artística, conhecido na China como a Revolução de Xinhai, que começou em 1911 e, finalmente, terminou a última dinastia feudal da China. Chan, que descreve o filme como uma combinação de história, ação, guerra e romance, trouxe mais de 70 celebridades para o elenco. Estes incluem Li Bingbing, Winston Chao, Joan Chen, Ning Jing, Yu Shaoqun, e seu filho, o ator-cantor Jaycee.</info>
+ 
+<genre>Aventura, Drama, Ação, História, Guerra</genre>
+ 
+<date>07/10/2011</date>
+</item>"
+"<item>
+
+<title>1917 [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/1917.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/59.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/59.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, Ação, História
+Lançamento: 2020
+
+Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.
+</info>
+ 
+<genre>Guerra, Drama, Ação, História</genre>
+ 
+<date>23/01/2020</date>
+</item>"
+"<item>
+
+<title>1918 – A Batalha de Kruty [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/1918ABTLHDKRT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/60.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/60.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Guerra, Drama
+Lançamento: 2018
+
+Enquanto um exército bolchevique de cerca de 4.000 homens, comandado pelo general Muravyov, avança em direção a Kiev, com o objetivo de capturar a cidade, uma pequena unidade ucraniana de 400 soldados está resistindo perto da estação ferroviária de Kruty. O conflito entre as forças opostas, e desiguais, fica cada vez mais violento, com uma brutalidade terrível. Os jovens, como soldados espartanos, se sacrificam na luta contra os agressores.
+</info>
+ 
+<genre>História, Guerra, Drama</genre>
+ 
+<date>06/12/2018</date>
+</item>"
+"<item>
+
+<title>1922 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/1922.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/61.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/61.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Terror
+Lançamento: 2017
+
+Um fazendeiro confessa o assassinato da esposa. No entanto, esse é só o começo desta trama macabra inspirada em um livro de Stephen King.</info>
+ 
+<genre>Crime, Drama, Terror</genre>
+ 
+<date>20/10/2017</date>
+</item>"
+"<item>
+
+<title>1941 - Uma Guerra Muito Louca [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/1941UGML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/62.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/62.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1979
+
+Após o ataque japonês à Pearl Harbor, os residentes da Califórnia entram em pânico com medo de serem o próximo alvo. Entre eles estão Wild Bill Kelso, um piloto louco da Guarda Nacional; o Sargento Frank Tree, um patriota, comandante do grupo de tanque; Ward Douglas, um civil com vontade de ajudar a guerra americana a qualquer esforço e custo e o Major General Joseph W. Stilwell, que tenta duramente manter a sanidade no meio do caos.
+</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>13/12/1979</date>
+</item>"
+"<item>
+
+<title>2 Campeões de Shaolin [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/2CMPEOSDSHAOLN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/63.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/63.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama
+Lançamento: 1980
+
+Ferido em uma batalha contra o clã Wu Tang, o guerreiro Shaolin Tung Chien-chen é salvo por um mestre em facas. De filme 2 Campeões de Shaolin é produzida em 1980 e dura 101 minutos. Não recomendado para menores de 16 anos.
+</info>
+ 
+<genre>Ação, Drama</genre>
+ 
+<date>01/12/1980</date>
+</item>"
+"<item>
+
+<title>2 Minutos de Fama [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/2MNTSDFMA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/64.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/64.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Uma nova sensação da mídia (Jay Pharoah) vai para Los Angeles com o sonho de se tornar um grande comediante de stand-up depois que sua imitação de um astro do cinema e da comédia ao estilo de Eddie Murphy viraliza.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>16/06/2020</date>
+</item>"
+"<item>
+
+<title>2:22 - Encontro Marcado [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/222ENCTRMRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/75.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/75.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Romance, Ficção científica, Mistério
+Lançamento: 2017
+
+Dylan Branson (Michiel Huisman) é um homem que tem a sua vida permanentemente mudada quando uma série de eventos se repete exatamente no mesmo horário todos os dias, às 2:22 da tarde. Quando Dylan se apaixona por Sarah (Teresa Palmer), uma jovem mulher que tem sua vida ameaçada pelos eventos ocorridos, ele deve resolver o mistério que o cerca para preservar o amor que a vida lhe ofereceu como uma segunda chance.
+</info>
+ 
+<genre>Drama, Thriller, Romance, Ficção científica, Mistério</genre>
+ 
+<date>07/09/2017</date>
+</item>"
+"<item>
+
+<title>20 Anos + Jovem [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/20ANSMSJVNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/65.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/65.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2013
+
+Alice Lantins (Virginie Efira) tem 38 anos e é editora de moda. Em uma distração, perde um importante cartão de memória após uma viagem, mas por sorte o estudante Balthazar Apfel (Pierre Niney) o encontra. Os dois se conhecem e uma foto comprometedora do casal vaza na imprensa. Nada aconteceu, mas o burburinho e a fama de ""ousada"" agradam Alice, que decide investir no relacionamento com o rapaz mais jovem para subir na carreira.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>06/06/2013</date>
+</item>"
+"<item>
+
+<title>2001 Maníacos [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/2001MANCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/66.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/66.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Terror
+Lançamento: 2005
+
+O filme conta a bizarra história de um grupo de jovens que está saindo para se divertir nas tradicionais férias de verão norte-americanas. No caminho, eles acabam parando em uma pequena cidade sulista, cujos habitantes são, aparentemente, normais e hospitaleiros. Tanto que insistem para que os garotos não vão embora e fiquem para o tradicional churrasco de celebração anual. Porém, aos poucos coisas suspeitas passam a acontecer, e os convidados descobrem, talvez tarde demais, a razão de tanta hospitalidade: são eles quem irão ceder a carne para alimentar os moradores maníacos dessa ciadde assustadora. O filme reúne essa atmosfera macabra, mas também não deixa de divertir com alguns momentos cômicos.</info>
+ 
+<genre>Comédia, Terror</genre>
+ 
+<date>21/10/2005</date>
+</item>"
+"<item>
+
+<title>2001: Uma Odisséia no Espaço [COLOR yellow][IMDb 8,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/2001UMODSIANESPCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/67.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/67.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Mistério, Aventura
+Lançamento: 1968
+
+Desde a ""Aurora do Homem"" (a pré-história), um misterioso monolito negro parece emitir sinais de outra civilização interferindo no nosso planeta. Quatro milhões de anos depois, no século XXI, uma equipe de astronautas liderados pelo experiente David Bowman (Keir Dullea) e Frank Poole (Gary Lockwood) é enviada à Júpiter para investigar o enigmático monolito na nave Discovery, totalmente controlada pelo computador HAL 9000. Entretanto, no meio da viagem HAL entra em pane e tenta assumir o controle da nave, eliminando um a um os tripulantes.
+</info>
+ 
+<genre>Ficção científica, Mistério, Aventura</genre>
+ 
+<date>29/04/1968</date>
+</item>"
+"<item>
+
+<title>2010 - O Ano em que Faremos Contato [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/2010OANEMFRMSCNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/68.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/68.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ficção científica
+Lançamento: 1984
+
+A bordo da nave Leonov, uma tripulação que reúne americanos e soviéticos, está a caminho de um encontro com a Discovery, estacionada em órbita fixa. Aquilo que eles não sabem é que estão a caminho, também, de um futuro desconhecido para os humanos, e que o seu destino poderá ficar nas mãos do antigo computador da Discovery, o HAL-9000.</info>
+ 
+<genre>Thriller, Ficção científica</genre>
+ 
+<date>06/12/1984</date>
+</item>"
+"<item>
+
+<title>2012 [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/2012.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/69.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/69.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica
+Lançamento: 2009
+
+Bilhões de habitantes da Terra não estão cientes de que o planeta tem uma data de expiração. Com os avisos de um cientista norte-americano, os líderes mundiais começam os preparativos secretos para a sobrevivência de alguns membros da sociedade. Quando o cataclisma global finalmente ocorre, o fracassado escritor Jackson Curtis tenta levar sua família para um lugar seguro quando o mundo começa a desmoronar.
+</info>
+ 
+<genre>Ação, Aventura, Ficção científica</genre>
+ 
+<date>13/11/2009</date>
+</item>"
+"<item>
+
+<title>2019: O Ano da Extinção [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/2019OANDEXTCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/70.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/70.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Terror, Ficção científica
+Lançamento: 2010
+
+No ano de 2019, uma praga transformou quase todos os humanos em vampiros. Com a queda do suprimento de sangue, a dividida raça dominante planeja sua sobrevivência, enquanto um pesquisador trabalha com um grupo de vampiros disfarçados em busca de um modo de salvar a humanidade.
+</info>
+ 
+<genre>Ação, Fantasia, Terror, Ficção científica</genre>
+ 
+<date>25/08/2010</date>
+</item>"
+"<item>
+
+<title>211 - O Grande Assalto [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/211OGRNDASLTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/71.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/71.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, Crime
+Lançamento: 2018
+
+Inspirado por um dos eventos mais longos e sangrentos da vida real na história da polícia. O oficial Mike Chandler (Nicolas Cage) e um jovem passageiro civil encontram-se despreparados e desarmados quando o destino os coloca diretamente na mira de um ousado roubo a banco em andamento por uma equipe destemida de homens altamente treinados e fortemente armados.
+</info>
+ 
+<genre>Ação, Drama, Crime</genre>
+ 
+<date>01/06/2018</date>
+</item>"
+"<item>
+
+<title>22 de Julho [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/22DJLHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/72.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/72.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Thriller, Crime
+Lançamento: 2018
+
+Noruega, 2011. Anders Behring Breivik, consumido pelos seus ideias fundamentalistas cristãos e anti-islâmicos, mata 75 pessoas a tiros em um acampamento na Ilha de Utoya. Os sobreviventes do ataque pedem justiça ao governo Norueguês, enquanto os advogados do terrorista condenado se mobilizam para defendê-lo perante a lei. Baseado em fatos reais.
+</info>
+ 
+<genre>Drama, História, Thriller, Crime</genre>
+ 
+<date>10/10/2018</date>
+</item>"
+"<item>
+
+<title>22 Milhas [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/22MLHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/73.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/73.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2018
+
+Um oficial da inteligência de elite dos Estados Unidos, auxiliado por uma unidade de comando tático ultrassecreta, tenta tirar do país um misterioso policial com informações confidenciais.
+</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>20/09/2018</date>
+</item>"
+"<item>
+
+<title>28 Dias [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/28DS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/74.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/74.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2000
+
+Gwen Cummings (Sandra Bullock) uma escritora que leva sua vida de forma selvagem. Saltando de festa em festa, as coisas começam a mudar quando ela, bêbada, rouba a limusine no meio do casamento de sua irmã e bate com o carro numa casa. Encaminhada para um período de 28 dias numa clínica de reabilitação para dependentes de álcool, Gwen tem que aprender a vida num lugar onde as regras são rígidas e têm que ser cumpridas.
+</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>06/04/2000</date>
+</item>"
+"<item>
+
+<title>3 Dias para Matar [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/3DISPRMTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/76.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/76.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2014
+
+Ethan Renner (Kevin Costner), veterano agente secreto, está à beira da morte. Seu último desejo é reatar com sua filha, com quem perdeu contato há muito tempo. Temendo não ter tempo hábil para salvar seus relacionamentos com a menina e com a ex-esposa, este homem descobre a existência de uma potente droga que pode salvá-lo, contanto que ele aceite um derradeiro trabalho.
+</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>11/09/2014</date>
+</item>"
+"<item>
+
+<title>3 Minutos, Um Abraço [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/UMABRCDTRSMNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/77.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/77.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2018
+
+Este documentário captura a alegria e a tristeza de famílias separadas pela fronteira entre os EUA e o México, compartilhando uma reunião curta e agridoce em 2018.
+</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>20/11/2018</date>
+</item>"
+"<item>
+
+<title>3 Ninjas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/3NJSUMAVNTRDCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/81.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/81.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Família
+Lançamento: 1992
+
+A cada ano, três irmãos Samuel, Jeffrey e Michael Douglas visitam seu avô japonês, Mori Shintaro, a quem os meninos chamam carinhosamente de avô, para o verão. Mori é altamente qualificado nos campos de artes marciais e Ninjutsu, e por anos treinou os meninos em suas técnicas. Depois de um anel de crime organizado revelar-se muito para o FBI, é hora dos 3 irmãos NINJAS! Para usar suas habilidades de artes marciais, eles se unem para combater o ringue do crime e enganar alguns sequestradores muito persistentes!</info>
+ 
+<genre>Ação, Aventura, Comédia, Família</genre>
+ 
+<date>07/08/1992</date>
+</item>"
+"<item>
+
+<title>3 Ninjas Contra-Atacam [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/3NJSCNTRATCM.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/78.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/78.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia, Família
+Lançamento: 1994
+
+Acompanhando seus avós ao Japão, os três jovens ninjas acabam no meio de um conflito de artes marciais. Perseguidos por um trio de alucinados ladrões e um exército de ninjas bem treinados, Rocky, Colt e Tum Tum, têm que usar todas as suas habilidades, nesta comédia de ação que não deixa a alegria baixar.
+</info>
+ 
+<genre>Aventura, Ação, Comédia, Família</genre>
+ 
+<date>06/05/1994</date>
+</item>"
+"<item>
+
+<title>3 Ninjas do Barulho [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/3NJSAVNTRNMEGMNTN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/79.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/79.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia, Família
+Lançamento: 1998
+
+Três irmãos ninjas vão a parque de diversões ver artista de TV preferido. Tudo parece tranqüilo, quando aparece uma turma de vilões.
+</info>
+ 
+<genre>Aventura, Ação, Comédia, Família</genre>
+ 
+<date>10/04/1998</date>
+</item>"
+"<item>
+
+<title>3 Ninjas em Apuros [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/3NJSEMAPRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/80.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/80.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Comédia, Família
+Lançamento: 1995
+
+Rocky, Colt e TumTum devem lutar contra um rico e malvado dumper de lixo tóxico, a fim de salvar uma tribo indígena local e seu amigo Joe. Os 3 Ninjas devem ajudar a encontrar o pai de Joe e encontrar um disco secreto que contenha evidências que possam deter o aterro tóxico que está destruindo a comunidade indígena. No entanto, a cidade é de propriedade do homem rico e ele controla a polícia e até mesmo o prefeito. Eles devem lutar contra uma gangue de motoqueiros e cowboys renegados nesta aventura ninja sem parar.
+</info>
+ 
+<genre>Aventura, Ação, Comédia, Família</genre>
+ 
+<date>07/04/1995</date>
+</item>"
+"<item>
+
+<title>3 Pedidos [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/3PDIDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/82.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/82.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2017
+
+Antes de entrar no programa de proteção de testemunhas, o ladrão de bancos Mikael exige 3 coisas da polícia, 3 coisas que lançam uma nova luz sobre o assalto em que ele e seus parceiros foram presos.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>18/05/2017</date>
+</item>"
+"<item>
+
+<title>30 Minutos ou Menos [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/30MNTSOUMNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/83.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/83.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2011
+
+Nick (Jesse Eisenberg) é um entregador de pizza que tem sua vida alterada pelos planos de Dwayne (Danny McBride) e Travis (Nick Swardson), que sonham em se tornar mestres do crime. A dupla sequestra Nick e o obriga a assaltar um banco. Com poucas horas para realizar o crime, Nick pede ajuda a Chet (Aziz Ansari), seu melhor amigo. Ambos precisam enfrentar a polícia e matadores de aluguel, o que coloca em risco a amizade existente entre eles.
+</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>23/09/2011</date>
+</item>"
+"<item>
+
+<title>30 Noites de Atividade Paranormal com a Filha dos Homens que Não Amavam as Mulheres [COLOR yellow][IMDb 2,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/30NTSMATVDPRNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/84.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/84.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2013
+
+Após passar uma temporada em um hospital psiquiátrico, Dana (Kathryn Fiore) recebe alta e volta para casa, palco do terrível massacre que vitimou todos os atores de um filme mudo. Em companhia do marido, Aaron (Flip Schultz), Dana filma os agitados trinta primeiros dias de sua nova vida.
+</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>15/01/2013</date>
+</item>"
+"<item>
+
+<title>300 [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/300.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/85.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Guerra, Baseado em Quadrinho
+Lançamento: 2007
+
+Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e seus 300 guerreiros de Esparta lutam bravamente contra o numeroso exército do rei Xerxes (Rodrigo Santoro). Após três dias de muita luta, todos os espartanos são mortos. O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa.
+</info>
+ 
+<genre>Ação, Aventura, Guerra, Baseado em Quadrinho</genre>
+ 
+<date>30/03/2007</date>
+</item>"
+"<item>
+
+<title>300: A Ascensão do Império [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/86.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Guerra, Baseado em Quadrinho
+Lançamento: 2014
+
+Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia (Eva Green). Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles (Sullivan Stapleton) é o responsável por liderar os gregos.
+</info>
+ 
+<genre>Ação, Aventura, Guerra, Baseado em Quadrinho</genre>
+ 
+<date>07/03/2014</date>
+</item>"
+"<item>
+
+<title>3000 Milhas Para o Inferno [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/3000MLHSPROINFNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/87.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/87.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Crime, Thriller
+Lançamento: 2001
+
+Um grupo de trapaceiros, liderado por Michael (Kurt Russell) e Murphy (Kevin Costner), planeja um assalto a um cassino de Las Vegas. Porém, como o assalto ocorrerá em meio à uma convenção de imitadores de Elvis Presley, eles precisam se vestir a caráter para executar o roubo.
+</info>
+ 
+<genre>Ação, Aventura, Comédia, Crime, Thriller</genre>
+ 
+<date>06/04/2001</date>
+</item>"
+"<item>
+
+<title>31 - A Morte é a Única Saída [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/31AMRTEAUNCSID.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/88.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/88.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 2016
+
+Cinco pessoas são sequestradas cinco dias antes do Halloween e são mantidas reféns em um lugar chamado ""Murder World"" para participar de um sangrento jogo chamando ""31"". O desafio é sobreviver 12 horas dentro do local, cheio de palhaços assassinos e sanguinários.
+</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>21/10/2016</date>
+</item>"
+"<item>
+
+<title>360 [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/360.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/89.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/89.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2012
+
+360 é uma reunião de histórias dinâmicas e modernas, passadas em diversas partes do mundo. Laura (Maria Flor) é uma mulher que deixou a vida na terra natal para tentar a sorte em Londres ao lado do namorado Rui (Juliano Cazarré). Ao descobrir que o parceiro está tendo um caso com Rose (Rachel Weisz), ela decide voltar para o Brasil. Na volta pra casa, ela conhece um simpático senhor (Anthony Hopkins) e Tyler (Ben Foster), duas pessoas em momentos difíceis em suas vidas. Num outro lado da história, Mirka (Lucia Siposová) é uma jovem tcheca que começa a trabalhar como prostituta para juntar dinheiro. Ao mesmo tempo, lida com a desaprovação da irmã Anna (Gabriela Marcinkova). O primeiro cliente de Mirka é Michael (Jude Law), que por sua vez é casado com Rose.
+</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>31/08/2012</date>
+</item>"
+"<item>
+
+<title>365 Dias [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/365DIAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/90.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/90.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Crime
+Lançamento: 2020
+
+Laura, a fim de salvar seu relacionamento, vai para a Sicília, onde conhece Massimo. Um homem perigoso, o chefe de uma família da máfia, que a sequestra e lhe dá 365 dias para amá-lo.
+</info>
+ 
+<genre>Drama, Romance, Crime</genre>
+ 
+<date>07/02/2020</date>
+</item>"
+"<item>
+
+<title>4 Latas [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/4LTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/91.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/91.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2019
+
+Tocho e Jean Pierre refazem sua viagem de carro da Espanha ao Mali para reencontrar um velho amigo à beira da morte e levam junto a filha que ele não vê há muito tempo.
+</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>01/03/2019</date>
+</item>"
+"<item>
+
+<title>40 Dias - O Milagre da Vida [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/NOSSOID.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6487.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6487.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Tudo que Abby Johnson sempre quis foi ajudar outras mulheres. Como uma das diretoras mais jovens da história da Paternidade Planejada, organização responsável por metade dos abortos realizados nos Estados Unidos, ela acreditava ter feito a escolha certa. Até o dia em que algo que Abby viu fez com que tudo mudasse e ela se tornasse uma das principais vozes do movimento pró-vida dos Estados Unidos.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>29/03/2019</date>
+</item>"
+"<item>
+
+<title>48 Horas [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/48HRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/92.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/92.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Comédia, Crime, Drama
+Lançamento: 1983
+
+Nick Nolte e Eddie Murphy formam uma das mais incomuns e interessantes duplas de todos os tempos, neste empolgante filme de Walter Hill. Nolte é um tira enfurecido, que está cumprindo pena pelo roubo de meio milhão de dólares. Essa improvável parceria consegue tantas gargalhadas quanto pancadaria, à medida que cada qual busca atingir seu objetivo: Nolte quer os bandidos e Murphy quer recuperar o dinheiro roubado e também quebrar o jejum de companhia feminina. Preste atenção à hilariante cena do bar típico de faroeste - você vai querer repetir mais de uma vez.
+</info>
+ 
+<genre>Thriller, Ação, Comédia, Crime, Drama</genre>
+ 
+<date>17/02/1983</date>
+</item>"
+"<item>
+
+<title>48 Horas - Parte 2 [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/48HRSPT2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/93.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/93.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Comédia, Crime, Drama
+Lançamento: 1990
+
+Nos últimos quatro anos, o policial de São Francisco, Jack Cates, foi atrás de um chefão das drogas não identificado que se autodenomina ""Iceman"". Jack encontra uma foto que prova que Iceman colocou um preço na cabeça de Reggie Hammond, que deve ser libertado da prisão no dia seguinte.
+</info>
+ 
+<genre>Thriller, Ação, Comédia, Crime, Drama</genre>
+ 
+<date>08/06/1990</date>
+</item>"
+"<item>
+
+<title>5 Dias de Guerra [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/5DIASDGRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/94.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/94.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama
+Lançamento: 2011
+
+Baseado em fatos reais, o filme conta a história de um jornalista americano, seu cinegrafista e uma garota da Geórgia que acabam presos atrás das linhas inimigas, quando a Rússia invade o território, em agosto de 2008. Eles conseguem registrar terríveis crimes de guerra e vivem momentos importantes da história daquela região. Entre a verdade e a justiça, a guerra se alastra e transforma a tudo e a todos.
+</info>
+ 
+<genre>Guerra, Drama</genre>
+ 
+<date>18/08/2011</date>
+</item>"
+"<item>
+
+<title>50% [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/50-50.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/95.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/95.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2011
+
+Tudo vira de pernas para o ar na vida de Adam (Joseph Gordon-Levitt) quando ele descobre ter câncer. Kyle (Seth Rogen), o seu melhor amigo, é um doido, tenta ajudá-lo de todas as maneiras, mas não deixa de utilizar a doença de Adam para se dar bem com as mulheres. Nas poucas chances que lhe restam, Adam conhecerá Katherine (Anne Kendrick), uma jovem psicóloga que irá virar sua cabeça de vez.
+</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>30/09/2011</date>
+</item>"
+"<item>
+
+<title>55 Passos [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/55PSOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/96.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/96.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2018
+
+55 Passos é baseado na inspiradora história real de Eleanor Riese, uma paciente com doença mental, que traz uma ação coletiva para dar a pacientes mentais competentes o direito de ter uma opinião sobre a medicação enquanto estão em um hospital, e Colette Hughes. , a advogada nomeada para o caso dela.
+</info>
+ 
+<genre>Drama</genre>
+ 
+<date>01/03/2018</date>
+</item>"
+"<item>
+
+<title>6 Balões [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/6BALOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/97.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/97.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2018
+
+Em pleno dia da independência dos Estados Unidos, Katie (Abbi Jacobson) descobre que seu irmão, Seth (Dave Franco), teve uma recaída com a heroína enquanto a filha dela de dois anos está sob os cuidados dele.
+</info>
+ 
+<genre>Drama</genre>
+ 
+<date>06/04/2018</date>
+</item>"
+"<item>
+
+<title>6 Dias [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/6DIS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/98.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/98.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História, Thriller
+Lançamento: 2017
+
+Em abril de 1980, uma série de homens armados invadem a embaixada iraniana localizada em Princes Gate, na cidade de Londres. Eles fazem todos de refém e durante os seis dias seguintes, um impasse tenso acontece. Um grupo de soldados altamente treinados se prepara para uma invasão nunca vista antes no mundo.
+</info>
+ 
+<genre>Ação, Drama, História, Thriller</genre>
+ 
+<date>18/08/2017</date>
+</item>"
+"<item>
+
+<title>60 Minutos para Morrer [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/60MUNTSPRMOR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801407.us.archive.org/5/items/112_20200902/99.jpg</image>
+<thumbnail>https://ia801407.us.archive.org/5/items/112_20200902/99.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2017
+
+No seu aniversário, Tyler e mais quatro amigos são levados pela namorada dele para um local desconhecido onde são trancados em quartos, dos quais só saem resolvendo vários quebra-cabeças. Só quando o jogo se torna perigoso é que todos eles percebem que algo está muito errado.
+</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>14/09/2017</date>
+</item>"
+"<item>
+
+<title>7 Deadly Sins [COLOR yellow][IMDb 2,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/CHRLCHRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1506.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1506.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2019
+
+O excêntrico proprietário de uma mansão convida um grupo de jovens desavisados para jogar um famoso jogo popular, uma terrível lenda urbana: invocar um espírito através da brincadeira Charlie Charlie. Ao longo da noite, o anfitrião promove uma série diversões dentro da casa. Enquanto os jovens encaram o jogo assustador como algo a mais na diversão da festa, as coisas não ficam tão engraçadas quando um verdadeiro pesadelo tem início. E o espírito maligno que eles evocam passa a perseguir não só os adolescentes, como também o próprio dono da casa, que agora terão que lutar por suas vidas!</info>
+ 
+<genre>Terror</genre>
+ 
+<date>24/09/2019</date>
+</item>"
+"<item>
+
+<title>7 Desejos [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/7DSJS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/100.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/100.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Fantasia
+Lançamento: 2017
+
+Doze anos depois de descobrir o suicídio de sua mãe, Clare Shannon, de 17 anos, é intimidada na escola secundária, envergonhada por seu pai maníaco, Jonathan, e ignorada por sua paixão de longa data. Tudo isso muda quando seu pai chega em casa com uma velha caixa de música cuja inscrição promete conceder a seu dono sete desejos. Enquanto Clare é inicialmente cética desta caixa mágica, ela não consegue deixar de ser seduzida por seus poderes sombrios, e está emocionada como sua vida melhora radicalmente com cada desejo. Clare finalmente tem a vida que ela sempre quis e tudo parece perfeito – até que as pessoas mais próximas a ela começam a morrer de forma violenta e elaborada após cada desejo. Clare percebe que ela deve se livrar da caixa, mas encontra-se incapaz e não disposta a deixar sua vida nova e melhorada – levando-a para um caminho sombrio e perigoso.
+</info>
+ 
+<genre>Thriller, Terror, Fantasia</genre>
+ 
+<date>03/08/2017</date>
+</item>"
+"<item>
+
+<title>7 Dias em Entebbe [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/7DIASEMENTBE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/101.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/101.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Crime
+Lançamento: 2018
+
+Em julho de 1976, um voo da Air France de Tel-Aviv à Paris foi sequestrado e forçado a pousar em Entebbe, na Uganda. Os passageiros judeus foram mantidos reféns para ser negociada a liberação dos terroristas e anarquistas palestinos presos em Israel, na Alemanha e na Suécia. Sob pressão, o governo israelita decidiu organizar uma operação de resgate atacar o campo de pouso e soltar os reféns.
+</info>
+ 
+<genre>Thriller, Drama, Crime</genre>
+ 
+<date>19/04/2018</date>
+</item>"
+"<item>
+
+<title>7 Minutos na Escuridão [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/STMNTSNESCRDAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/102.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/102.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2018
+
+Jude e June entram em um armário escondido e emergem em uma realidade alternativa onde nada é o que parece. Os jovens precisam achar um caminho de volta ao armário antes que ele se feche para sempre.
+</info>
+ 
+<genre>Terror</genre>
+ 
+<date>05/10/2018</date>
+</item>"
+"<item>
+
+<title>7 Segundos [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/7SGNDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/103.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/103.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2005
+
+O super astro de ação Wesley Snipes é o capitão Jack Tolliver, um ladrão profissional ex-participante do comando de forças armadas Delta e que agora vai liderar o que deveria ser o crime perfeito de roubo de carros, mas acaba ficando com um quadro super valioso de Van Gogh além de um dos membros de sua quadrilha refém de gângsteres russos. Um explosivo, brilhante e imprevisível filme policial de suspense.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>17/08/2005</date>
+</item>"
+"<item>
+
+<title>72 Horas [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/72HRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/104.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/104.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama, Thriller, Crime
+Lançamento: 2010
+
+John Brennan (Russell Crowe) é um professor universitário que leva uma vida perfeita, até sua esposa Lara (Elizabeth Banks) ser acusada de ter cometido um crime brutal. Ela jura que não é a autora do crime. Após três anos de recursos judiciais sem sucesso, John percebe que o único meio de ter sua esposa de volta será tirando-a da prisão. Ele tem apenas 72 horas para elaborar o plano e executá-lo.
+</info>
+ 
+<genre>Romance, Drama, Thriller, Crime</genre>
+ 
+<date>24/12/2010</date>
+</item>"
+"<item>
+
+<title>72 Horas: Mártir Que Nunca Morreu [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/72HRSMRTQNCMRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/105.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/105.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, História
+Lançamento: 2019
+
+É um filme de drama biográfico indiano de 2019, dirigido por Avinash Dhyani. A história é baseada na vida e tempos do atirador Jaswant Singh Rawat, que lutou contra o invasor exército chinês durante a Guerra Sino-Indiana de 1962.</info>
+ 
+<genre>Guerra, História</genre>
+ 
+<date>19/01/2019</date>
+</item>"
+"<item>
+
+<title>7500 [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/7500.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/106.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/106.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2019
+
+Enquanto um avião de grande porte é sequestrado por terroristas em um voo de Berlim para Paris e um grupo de jovens busca invadir a cabine da aeronave. O piloto, contra o tempo, tenta negociar uma possível rendição com o sequestrador.
+</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>26/12/2019</date>
+</item>"
+"<item>
+
+<title>7etenta e 5inco [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/7TNTE5NCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/107.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/107.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2007
+
+À medida que outro semestre chega ao fim na Universidade de Dreyskill, um simples jogo sonhado para ajudar os alunos a evitar o estudo se torna uma batalha sangrenta pela sobrevivência.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>24/08/2007</date>
+</item>"
+"<item>
+
+<title>9 - A Salvação [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/ASLVCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/111.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/111.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Animação, Ficção científica, Thriller
+Lançamento: 2009
+
+A humanidade foi exterminada por máquinas que construíram um exército após rebelarem-se contra o cientista que as criou. O cientista cria, então, um grupo de bonecos de pano sapientes que resistem à extinção. Os bonecos são 1, o líder auto-proclamado, o inventor 2, os gêmeos 3 e 4, o aprendiz 5, o artista visionário 6, a valente guerreira 7, o forte mas pouco esperto guarda-costas 8 e o bravo e leal 9, com as qualidades de liderança que podem ajudá-los a sobreviver à perseguição implacável das máquinas.</info>
+ 
+<genre>Ação, Aventura, Animação, Ficção científica, Thriller</genre>
+ 
+<date>09/09/2009</date>
+</item>"
+"<item>
+
+<title>90 Minutos no Paraíso [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/90MINPRSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/109.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/109.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2016
+
+Em janeiro de 1989, a caminho de uma conferência no Texas, Don Piper (Hayden Christensen) sofre um grave acidente de carro. Quando os paramédicos chegam, ele é encontrado sem nenhum sinal de vida, porém uma hora e meia depois volta a viver, alegando que durante esse tempo conheceu o Paraíso.
+</info>
+ 
+<genre>Drama</genre>
+ 
+<date>06/01/2016</date>
+</item>"
+"<item>
+
+<title>96 minutos [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/96MNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601407.us.archive.org/5/items/112_20200902/110.jpg</image>
+<thumbnail>https://ia601407.us.archive.org/5/items/112_20200902/110.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2011
+
+Um filme indie que centra-se em dois estudantes do ensino médio que devem provar a sua força ao cometer um seqüestro para uma iniciação na gangue. No processo, eles pegam duas garotas do colegial como reféns e tentam descobrir a melhor maneira de sair da situação sem acabar na cadeia.
+</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>14/10/2011</date>
+</item>"
