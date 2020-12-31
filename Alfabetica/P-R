@@ -2452,6 +2452,25 @@ Marisa Cortez Wilson (Jessica Alba) é casada com Wilbur (Joel McHale), um repó
 </item>"
 "<item>
 
+<title>Pequenos Grandes Heróis [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PQNSGRNDSHRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6586.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6586.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Família
+Lançamento: 2020
+
+Após seus pais serem sequestrados por invasores aliens, os filhos dos super-heróis da Terra precisam se reunir e aprender a trabalhar juntos para salvar não apenas os pais, mas o planeta.</info>
+ 
+<genre>Ação, Fantasia, Família</genre>
+ 
+<date>25/12/2020</date>
+</item>"
+"<item>
+
 <title>Pequenos Guerreiros [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/PQNSGUROS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -10907,6 +10926,25 @@ Em busca de uma nova esperança para a galáxia, a Aliança Rebelde enfrenta uma
 <genre>Ação, Aventura, Ficção científica</genre>
  
 <date>15/12/2016</date>
+</item>"
+"<item>
+
+<title>Rogue Warfare - Ameaça Global [COLOR yellow][IMDb 2,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RGUWRFRAMCGLBL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6605.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6605.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 2019
+
+Uma rede terrorista cria uma arma química capaz de causar danos de proporções catastróficas. O presidente dos EUA então une forças com a China, a Rússia, a Grã-Bretanha e a França para criar um esquadrão de peso capaz de pôr fim a essa ameaça global.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>07/11/2019</date>
 </item>"
 "<item>
 
