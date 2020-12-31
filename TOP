@@ -2191,6 +2191,25 @@ A historia de dois homens, um branco, cardiologista, e seu assistente negro, que
 </item>"
 "<item>
 
+<title>Soul: Uma Aventura com Alma [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SOLUMAVTRCMALM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Drama, Música, Fantasia
+Lançamento: 2020
+
+Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.</info>
+ 
+<genre>Animação, Comédia, Drama, Música, Fantasia</genre>
+ 
+<date>25/12/2020</date>
+</item>"
+"<item>
+
 <title>Star Wars: A Guerra dos Clones [COLOR yellow][IMDb 8,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/STRWRSUMGLXDIVDA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3522,22 +3541,22 @@ Anos 30, Dogville, um lugarejo nas Montanhas Rochosas. Grace (Nicole Kidman), um
 </item>"
 "<item>
 
-<title>Du, Dudu e Edu: Todos contra os Dus [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/DUDUDUEEDUTDSCNTROSDUS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Extraordinário [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/EXTRORDNR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2048.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2048.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2307.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2307.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Comédia, Animação, Aventura, Cinema TV
-Lançamento: 2009
+<info>Genero: Drama, Família
+Lançamento: 2017
 
-Quando um golpe dá terrivelmente errado e deixa as crianças do bairro furiosas, os Eds embarcam em uma jornada para encontrar o irmão de Eddy no final da série ""Ed, Edd, n Eddy"".</info>
+Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
  
-<genre>Comédia, Animação, Aventura, Cinema TV</genre>
+<genre>Drama, Família</genre>
  
-<date>08/11/2009</date>
+<date>07/12/2017</date>
 </item>"
 "<item>
 
@@ -4356,6 +4375,25 @@ Aos 17 anos, rapaz sexualmente bem-dotado (Mark Wahlberg) é descoberto por vete
 <genre>Drama</genre>
  
 <date>07/10/1997</date>
+</item>"
+"<item>
+
+<title>Boyhood - Da Infância à Juventude [COLOR yellow][IMDb 7,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BOYHODINFCIAJVNTDE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6599.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6599.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2014
+
+O filme conta a história de um casal de pais divorciados (Ethan Hawke e Patricia Arquette) que tenta criar seu filho Mason (Ellar Coltrane). A narrativa percorre a vida do menino durante um período de doze anos, da infância à juventude, e analisa sua relação com os pais conforme ele vai amadurecendo.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>30/10/2014</date>
 </item>"
 "<item>
 
@@ -9400,42 +9438,4 @@ O roqueiro Eric Draven está morto... Mas, estranhamente, ele ainda vive. Ele ai
 <genre>Fantasia, Ação, Thriller</genre>
  
 <date>11/05/1994</date>
-</item>"
-"<item>
-
-<title>O Expresso da Meia-Noite [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OEXPRSDMENT.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3984.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3984.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Crime
-Lançamento: 1978
-
-Billy Hayes (Brad Davis), um estudante americano, ao visitar a Turquia decide traficar alguns pacotes de haxixe, prendendo-os debaixo de suas roupas. Seu plano acaba não dando certo e ele é preso, com sua vida se transformando em um pesadelo a partir de então, pois é brutalmente espancado e jogado em uma imunda prisão. Quando espera ser libertado é levado a um novo julgamento com efeito retroativo, que o condena a uma longa pena.</info>
- 
-<genre>Drama, Crime</genre>
- 
-<date>06/10/1978</date>
-</item>"
-"<item>
-
-<title>O Homem que Mudou o Jogo [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/OHMNQMDOJG.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/20/items/4417_20201118/4093.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4093.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama
-Lançamento: 2012
-
-História verdadeira. Billy Beane (Brad Pitt) é o gerente do time de baseball Oakland Athletics que, com pouco dinheiro em caixa para contratar jogadores famosos, nunca fica entre os primeiros times. Peter Brand (Jonah Hill) é um economista que desenvolveu um sofisticado programa de estatísticas para avaliar jogadores de baseball. Billy contrata Peter e passa a escolher quem vai contratar baseado em dados estatísticos e não na velha experiência dos olheiros. Isso fez com que seu time ficasse entre as principais equipes do baseball nos anos 80.</info>
- 
-<genre>Drama</genre>
- 
-<date>17/02/2012</date>
 </item>"
