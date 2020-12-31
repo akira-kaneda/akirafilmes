@@ -1,5 +1,24 @@
 "<item>
 
+<title>O Natal Maluco de Ernest [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ONTLMLCDERNST.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6610.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6610.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 1988
+
+O famoso comediante de mil expressões, Ernest P. Worrell, tenta ajudar Papai Noel durante a noite de Natal. Ele acaba criando situações absurdas e entrando em loucas aventuras. Quando o Bom Velhinho se aposenta, é para Ernest que pede ajuda.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>11/11/1988</date>
+</item>"
+"<item>
+
 <title>Ernest - O Bobo e A Fera [COLOR yellow][IMDb 5,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/ERNSTOBOBEAFRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
