@@ -89,3 +89,16 @@
 <info>Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma.
 </info>
  </item>"
+"<item>
+
+<title>08-O Resgate</title>
+<link>https://$doregex[RC]/RCServer15/ondemand/HGHSCHLMSCLOMSCLASRT01ESCLDFSTS.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/0/items/1-1_20201215_202012/1-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>O Mandaloriano e seus aliados tentam um resgate ousado.
+</info>
+ </item>"
