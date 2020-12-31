@@ -1,0 +1,13 @@
+"<item>
+
+<title>OVA - L o Tsugu Mono</title>
+<link>https://pitou.goyabu.com/streaming/filmes/death-note-rewrite-ova-2.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/34/items/30-2_20201231/30-3.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/34/items/30-2_20201231/30-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info> L o Tsugu Mono (sucessores de L) Esta história continua de onde a anterior parou, continuando a história da Light. Como o especial anterior contou as batalhas de Light e L, esta história faz o mesmo com os conflitos entre Light, Mello e Near.
+</info>
+ </item>"
