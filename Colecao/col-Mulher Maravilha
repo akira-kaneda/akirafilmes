@@ -74,3 +74,22 @@ Veja a origem lendária de um dos renomados membros da Liga da Justiça, Mulher 
  
 <date>05/10/2019</date>
 </item>"
+"<item>
+
+<title>Mulher-Maravilha 1984 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MLHRMRVLHA1984.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6583.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6583.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2020
+
+Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.</info>
+ 
+<genre>Fantasia, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>17/12/2020</date>
+</item>"
