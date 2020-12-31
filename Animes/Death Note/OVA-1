@@ -1,0 +1,13 @@
+"<item>
+
+<title>OVA - Genshisuru Kami</title>
+<link>https://pitou.goyabu.com/streaming/filmes/death-note-rewrite-ova-1.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601503.us.archive.org/34/items/30-2_20201231/30-2.jpg</image>
+<thumbnail>https://ia601503.us.archive.org/34/items/30-2_20201231/30-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genshisuru Kami (Visions of a God) Um episódio de duas horas de Death Note, principalmente uma compilação dos confrontos entre Light e L, reeditado da perspectiva de Ryuk com novo diálogo e trilha sonora junto com animação adicional que não poderia ser incluída em a série original. Um Shinigami Sem Nome vem a Ryuk para questioná-lo sobre sua nova história no mundo humano.
+</info>
+ </item>"
