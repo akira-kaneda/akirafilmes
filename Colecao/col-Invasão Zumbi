@@ -1,0 +1,38 @@
+"<item>
+
+<title>Invasão Zumbi [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/INVSZMB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801907.us.archive.org/25/items/2531_20201015/2788.jpg</image>
+<thumbnail>https://ia801907.us.archive.org/25/items/2531_20201015/2788.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Thriller
+Lançamento: 2016
+
+Em um trem de alta velocidade com destino à cidade de Busan, um vírus que transforma as pessoas em zumbis, se espalha. A cidade conseguiu com sucesso defender a epidemia, agora eles devem lutar pelas suas sobrevivências.</info>
+ 
+<genre>Ação, Terror, Thriller</genre>
+ 
+<date>29/12/2016</date>
+</item>"
+"<item>
+
+<title>Invasão Zumbi 2: Península [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/INVSZMB2PNSLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6596.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6596.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Thriller
+Lançamento: 2020
+
+A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Busan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.</info>
+ 
+<genre>Ação, Terror, Thriller</genre>
+ 
+<date>27/08/2020</date>
+</item>"
