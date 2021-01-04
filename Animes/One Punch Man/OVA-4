@@ -1,0 +1,13 @@
+"<item>
+
+<title>OVA 4 - O ninja que é muito complicado</title>
+<link>https://pitou.goyabu.com/one-punch-man/OVA-3.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Sonic se esforça para treinar rigorosamente, abafado na montanha, mas passou os dias atormentados por pesadelos como um golpe desagradável para Saitama na virilha, que sofreu uma derrota. O homem de Matagi tinha visto uma situação dessas. Ele também é ""inimigo formidável"" ao ser derrotado no passado do proprietário ....
+</info>
+ </item>"
