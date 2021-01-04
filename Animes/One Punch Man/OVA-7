@@ -1,0 +1,13 @@
+"<item>
+
+<title>OVA 7 - Um Assassinato quse impossível</title>
+<link>https://pitou.goyabu.com/one-punch-man/OVA-6.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>A Associação dos Heróis do Herói vai para um retiro ""onsen"" após a batalha com os invasores alienígenas, com um mistério em andamento quando um dos heróis é esfaqueado ... O Imperador Criança investiga o assassinato de Zombieman.
+</info>
+ </item>"
