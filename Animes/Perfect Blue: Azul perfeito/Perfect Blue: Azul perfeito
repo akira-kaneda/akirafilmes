@@ -1,0 +1,13 @@
+"<item>
+
+<title>Perfect Blue: Azul perfeito</title>
+<link>https://pitou.goyabu.com/filmes/perfect-blue-legendado.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/10/items/35-1_20210104/34.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/10/items/35-1_20210104/34.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Mima Kirigoe é membro de uma banda de música pop japonesa (J-Pop), chamada ""CHAM!"", que decide deixar a banda para se dedicar à carreira de atriz. Alguns fãs ficam descontentes com a repentina mudança de carreira, pois Mima, sendo um ídolo pop, é vista como uma menina inocente e angelical. Conforme avança em sua nova carreira, Mima mergulha em um intenso drama psicológico no qual fantasia e realidade se confundem colocando em dúvida sua ética moral.
+</info>
+ </item>"
