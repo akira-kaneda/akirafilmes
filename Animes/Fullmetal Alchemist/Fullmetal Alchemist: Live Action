@@ -1,0 +1,13 @@
+"<item>
+
+<title>Fullmetal Alchemist: Live Action</title>
+<link>https://pitou.goyabu.com/filmes/fma-live-action.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/17/items/32-1_20210104/32-3.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/17/items/32-1_20210104/32-3.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Adaptado do famoso mangá e anime, a trama conta a historia de dois irmãos que, depois de perderem sua mãe, Alphonse e Edward Elric tentam trazê-la de volta usando uma técnica proibida de alquimia, mas, para isso, eles precisam dar algo em troca. Como consequência, Ed perde sua perna e Al perde seu corpo. Para impedir que a alma de Al vague incorpórea, Ed sacrifica um braço para prendê-la dentro de uma grande armadura. Visando recuperar seus corpos, os dois irmãos iniciam a busca da lendária Pedra Filosofal.
+</info>
+ </item>"
