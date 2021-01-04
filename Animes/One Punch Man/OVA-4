@@ -1,7 +1,7 @@
 "<item>
 
 <title>OVA 4 - O ninja que é muito complicado</title>
-<link>https://pitou.goyabu.com/one-punch-man/OVA-3.mp4</link>
+<link>https://pitou.goyabu.com/one-punch-man/ova-04.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</image>
