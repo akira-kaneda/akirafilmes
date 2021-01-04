@@ -1,0 +1,13 @@
+"<item>
+
+<title>OVA 2 - A Sombra Que Se Move Silencio</title>
+<link>https://pitou.goyabu.com/one-punch-man/OVA-1.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Uma história ambientada em algum momento entre a derrota de Mosquito Girl e Genos aparecendo no apartamento de Saitama. Genos quer aprender o segredo do poder de Saitama e decide segui-lo e observar tudo o que faz. Ao mesmo tempo, Saitama está convencido de que alguém o está perseguindo.
+</info>
+ </item>"
