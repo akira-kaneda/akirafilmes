@@ -1,0 +1,13 @@
+"<item>
+
+<title>OVA 5 - Bang, o velho arrogante</title>
+<link>https://pitou.goyabu.com/one-punch-man/OVA-4.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Após os eventos do episódio 7, Bang começa a espionar Saitama e Genos para avaliar suas habilidades. Esperando que suas artes marciais do Punho de Pedra do Esguicho de Água sejam mais fortes e que isso o obrigue a Saitama e Genos a estudarem com ele, Bang convida Saitama e Genos para o seu dojo sob o pretexto de lhes dar carne de graça.
+</info>
+ </item>"
