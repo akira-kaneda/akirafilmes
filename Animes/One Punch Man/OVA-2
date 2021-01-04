@@ -1,7 +1,7 @@
 "<item>
 
 <title>OVA 2 - A Sombra Que Se Move Silencio</title>
-<link>https://pitou.goyabu.com/one-punch-man/OVA-1.mp4</link>
+<link>https://pitou.goyabu.com/one-punch-man/ova-02.mp4</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
 <image>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</image>
