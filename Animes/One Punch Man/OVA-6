@@ -1,0 +1,13 @@
+"<item>
+
+<title>OVA 6 - As irmãs que tem muitas coisas em comum</title>
+<link>https://pitou.goyabu.com/one-punch-man/OVA-5.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</image>
+<thumbnail>https://ia801508.us.archive.org/10/items/35-1_20210104/35-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Durante uma coincidência viagem de trem, Genos e Fubuki são postos à prova quando um grupo da Associação Anti-Herói planta uma bomba no trem. * Este OVA é metade do tempo que um episódio regular.
+</info>
+ </item>"
