@@ -1,175 +1,176 @@
-#EXTM3U
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/e%26a.png" group-ttle=SÉRIES,A&E
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/e%26a.png"" group-ttle=SÉRIES,A&E
 https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/amc.jpg" group-ttle=FILMES,AMC
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/amc.jpg"" group-ttle=FILMES,AMC
 https://geralorigin.eu-central-1.edge.mycdn.live/live/amchd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/animal-planet.png" group-ttle=DOCUMENTÁRIO,ANIMAL PLANET
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/animal-planet.png"" group-ttle=DOCUMENTÁRIO,ANIMAL PLANET
 https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/axn.png" group-ttle=FILMES,AXN
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/axn.png"" group-ttle=FILMES,AXN
 https://geralorigin.eu-central-1.edge.mycdn.live/live/axnhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-ttle=ABERTO,BAND
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/band.png"" group-ttle=ABERTO,BAND
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bandcampinashd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/band-news.png" group-ttle=NOTICIAS,BAND NEWS
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/band-news.png"" group-ttle=NOTICIAS,BAND NEWS
 https://youtu.be/Xg7D1u5LeSo"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/boomerang.png" group-ttle=DESENHO,BOOMERANG
-https://geralorigin.eu-central-1.edge.mycdn.live/live/boomeranghd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/cn.png" group-ttle=DESENHO,CARTOON NETWORK
-https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/cinemax.png" group-ttle=FILMES,CINEMAX
-https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/comedy-central.png" group-ttle=SÉRIES,COMEDY CENTRAL
-https://geralorigin.eu-central-1.edge.mycdn.live/live/comedycentralhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/cultura.png" group-ttle=ABERTO,CULTURA
-https://geralorigin.eu-central-1.edge.mycdn.live/live/cultura/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/curta.png" group-ttle=DOCUMENTÁRIO,CURTA!
-https://geralorigin.eu-central-1.edge.mycdn.live/live/curtahd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/discovery-channel.png" group-ttle=DOCUMENTÁRIO,DISCOVERY CHANNEL
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/Discovery-kids.png" group-ttle=DESENHO,DISCOVERY KIDS
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverykidshd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/discovery-science.png" group-ttle=DOCUMENTÁRIO,DISCOVERY SCIENCE
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverysciencehd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/discovery-theater.png" group-ttle=DOCUMENTÁRIO,DISCOVERY THEATER
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverytheaterhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/discovery-turbo.png" group-ttle=DOCUMENTÁRIO,DISCOVERY TURBO
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryturbohd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/discovery-world.png" group-ttle=DOCUMENTÁRIO,DISCOVERY WORLD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryworldhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/disney.png" group-ttle=DESENHO,DISNEY CHANNEL
-https://geralorigin.eu-central-1.edge.mycdn.live/live/disneychannelhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/disney-jr.png" group-ttle=DESENHO,DISNEY JR
-https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyjuniorhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/disney-xd.png" group-ttle=DESENHO,DISNEY XD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyxdhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/e.png" group-ttle=DOCUMENTÁRIO,E!
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/ehd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/espn.png" group-ttle=ESPORTES,ESPN
-https://geralorigin.eu-central-1.edge.mycdn.live/live/espn/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/espn2.png" group-ttle=ESPORTES,ESPN 2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/espnextrahd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/espn-brasil.png" group-ttle=ESPORTES,ESPN BRASIL
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnbrasilhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/Espn-extra.png" group-ttle=ESPORTES,ESPN EXTRA
-https://geralorigin.eu-central-1.edge.mycdn.live/live/espnextrahd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/fish-tv.png" group-ttle=DOCUMENTÁRIO,FISH TV
-https://youtu.be/EXshf-A03sM"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/fox.png" group-ttle=FILMES,FOX
-https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/fox-premium-1.png" group-ttle=SÉRIES,FOX PREMIUM 1
-https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/fox-premium-2.png" group-ttle=SÉRIES,FOX PREMIUM 2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/fox-sports.png" group-ttle=ESPORTES,FOX SPORTS
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportshd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/fx.png" group-ttle=FILMES,FX
-https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/galinha-pintadinha.png" group-ttle=DESENHO,GALINHA PINTADINHA
-https://youtu.be/TNAQjmE5yNk"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-ttle=ABERTO,GLOBO RJ
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-ttle=ABERTO,GLOBO SP
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/gloob.png" group-ttle=DESENHO,GLOOB
-https://geralorigin.eu-central-1.edge.mycdn.live/live/gloobhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/hbo.png" group-ttle=SÉRIES,HBO
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/hbo-family.png" group-ttle=SÉRIES,HBO FAMILY
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbofamilyhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/hbo-mundi.png" group-ttle=SÉRIES,HBO MUNDI
-https://geralorigin.eu-central-1.edge.mycdn.live/live/maxhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/hbo-signature.png" group-ttle=SÉRIES,HBO SIGNATURE
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbosignaturehd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/hbo-xtreme.png" group-ttle=SÉRIES,HBO XTREME
-https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/hbo2.png" group-ttle=SÉRIES,HBO2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/hgtv.png" group-ttle=DOCUMENTÁRIO,HGTV
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverycivilizationhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/history.png" group-ttle=DOCUMENTÁRIO,HISTORY
-https://geralorigin.eu-central-1.edge.mycdn.live/live/historyhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/h2.png" group-ttle=DOCUMENTÁRIO,HISTORY 2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/h2hd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/id.png" group-ttle=DOCUMENTÁRIO,ID
-https://geralorigin.eu-central-1.edge.mycdn.live/live/idhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/lifetime.png" group-ttle=DOCUMENTÁRIO,LIFETIME
-https://geralorigin.eu-central-1.edge.mycdn.live/live/lifetimehd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/megapix.png" group-ttle=FILMES,MEGA PIX
-https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/nat-geo.png" group-ttle=DOCUMENTÁRIO,NAT GEO
-https://geralorigin.eu-central-1.edge.mycdn.live/live/nathd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/natgeo-Kids.png" group-ttle=DESENHO,NAT GEO KIDS
-https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeokidshd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/nat-geo-wild.png" group-ttle=DOCUMENTÁRIO,NAT GEO WILD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeowild/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/nick-jr.png" group-ttle=DESENHO,NICK JR
-https://geralorigin.eu-central-1.edge.mycdn.live/live/nickjrhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/nickelodeon.png" group-ttle=DESENHO,NICKELODEON
-https://geralorigin.eu-central-1.edge.mycdn.live/live/nickelodeonhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/Paramount.png" group-ttle=FILMES,PARAMOUNT
-https://geralorigin.eu-central-1.edge.mycdn.live/live/paramountchannelhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/pica-pau.png" group-ttle=DESENHO,PICA-PAU
-https://youtu.be/ojE8y4xwOv0|Referer=https://youtube.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/premiere.png" group-ttle=ESPORTES,PREMIERE
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/record-news.png" group-ttle=NOTICIAS,RECORD NEWS
-https://youtu.be/VQRH6xM6T2o"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/record.png" group-ttle=ABERTO,RECORD SP
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8|Referer=https://topcanais.com/?sd=10&rebase=on"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/rede-tv.png" group-ttle=ABERTO,REDE TV
-https://geralorigin.eu-central-1.edge.mycdn.live/live/redetvhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/sbt.png" group-ttle=ABERTO,SBT SP
-https://geralorigin.eu-central-1.edge.mycdn.live/live/sbthd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/sony.png" group-ttle=FILMES,SONY
-https://geralorigin.eu-central-1.edge.mycdn.live/live/sonyhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/space.png" group-ttle=FILMES,SPACE
-https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/studio-universal.png" group-ttle=FILMES,STUDIO UNIVERSAL
-https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/syfy.png" group-ttle=FILMES,SYFY
-https://geralorigin.eu-central-1.edge.mycdn.live/live/syfyhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/tcm.png" group-ttle=FILMES,TCM
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcmhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/telecine-action.png" group-ttle=FILMES,TELECINE ACTION
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineactionhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/telecine-cult.png" group-ttle=FILMES,TELECINE CULT
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/telecine-fun.png" group-ttle=FILMES,TELECINE FUN
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/telecine-pipoca.png" group-ttle=FILMES,TELECINE PIPOCA
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcPIPOCAhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/telecine-premium.png" group-ttle=FILMES,TELECINE PREMIUM
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/telecine-touch.png" group-ttle=FILMES,TELECINE TOUCH
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/tlc.png" group-ttle=DOCUMENTÁRIO,TLC
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tlchd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/tnt.png" group-ttle=SÉRIES,TNT
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/6/items/tooncast_202012/tooncast.png" group-ttle=DESENHO,TOONCAST
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tooncasthd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/tv-manchete.png" group-ttle=RETRO,TV MANCHETE
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1554917726.m3u8"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/universal.png" group-ttle=SÉRIES,UNIVERSAL
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/viva.png" group-ttle=RETRO,VIVA
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivahd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/WARNER.png" group-ttle=SÉRIES,WARNER
-https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/zoomoo.png" group-ttle=DESENHO,ZOOMOO
-https://geralorigin.eu-central-1.edge.mycdn.live/live/zoomoohd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/fox-sports-2.png" group-ttle=ESPORTES,FOX SPORTS 2
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/combate.png" group-ttle=ESPORTES,COMBATE
-https://newedge.eu-central-1.edge.mycdn.live/live/futemaxcombate/playlist.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/sportv-2.png" group-ttle=ESPORTES,SPORTV 2
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2hd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://archive.org/download/sportv-3/sportv-3.png" group-ttle=ESPORTES,SPORTV 3
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3hd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/premiere.png" group-ttle=ESPORTES,PREMIERE CLUBES
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/off.png" group-ttle=ESPORTES,OFF
-https://geralorigin.eu-central-1.edge.mycdn.live/live/canaloffhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/sportv.png" group-ttle=ESPORTES,SPORTV
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8|Referer=https://topcanais.com/"
-"#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/band-sports.png" group-ttle=ESPORTES,BAND SPORTS
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/band-sports.png"" group-ttle=ESPORTES,BAND SPORTS
 https://geralorigin.eu-central-1.edge.mycdn.live/live/bandsportshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/boomerang.png"" group-ttle=DESENHO,BOOMERANG
+https://geralorigin.eu-central-1.edge.mycdn.live/live/boomeranghd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/cn.png"" group-ttle=DESENHO,CARTOON NETWORK
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/cinemax.png"" group-ttle=FILMES,CINEMAX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/combate.png"" group-ttle=ESPORTES,COMBATE
+https://newedge.eu-central-1.edge.mycdn.live/live/futemaxcombate/playlist.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/comedy-central.png"" group-ttle=SÉRIES,COMEDY CENTRAL
+https://geralorigin.eu-central-1.edge.mycdn.live/live/comedycentralhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/cultura.png"" group-ttle=ABERTO,CULTURA
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cultura/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/curta.png"" group-ttle=DOCUMENTÁRIO,CURTA!
+https://geralorigin.eu-central-1.edge.mycdn.live/live/curtahd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/discovery-channel.png"" group-ttle=DOCUMENTÁRIO,DISCOVERY CHANNEL
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/Discovery-kids.png"" group-ttle=DESENHO,DISCOVERY KIDS
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverykidshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/discovery-science.png"" group-ttle=DOCUMENTÁRIO,DISCOVERY SCIENCE
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverysciencehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/discovery-theater.png"" group-ttle=DOCUMENTÁRIO,DISCOVERY THEATER
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverytheaterhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/discovery-turbo.png"" group-ttle=DOCUMENTÁRIO,DISCOVERY TURBO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryturbohd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/discovery-world.png"" group-ttle=DOCUMENTÁRIO,DISCOVERY WORLD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryworldhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/disney.png"" group-ttle=DESENHO,DISNEY CHANNEL
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneychannelhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/disney-jr.png"" group-ttle=DESENHO,DISNEY JR
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyjuniorhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/disney-xd.png"" group-ttle=DESENHO,DISNEY XD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyxdhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/e.png"" group-ttle=DOCUMENTÁRIO,E!
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/ehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/espn.png"" group-ttle=ESPORTES,ESPN
+https://geralorigin.eu-central-1.edge.mycdn.live/live/espn/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/espn2.png"" group-ttle=ESPORTES,ESPN 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/espnextrahd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/espn-brasil.png"" group-ttle=ESPORTES,ESPN BRASIL
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/espnbrasilhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/Espn-extra.png"" group-ttle=ESPORTES,ESPN EXTRA
+https://geralorigin.eu-central-1.edge.mycdn.live/live/espnextrahd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fish-tv.png"" group-ttle=DOCUMENTÁRIO,FISH TV
+https://youtu.be/EXshf-A03sM"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fox.png"" group-ttle=FILMES,FOX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fox-premium-1.png"" group-ttle=SÉRIES,FOX PREMIUM 1
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fox-premium-2.png"" group-ttle=SÉRIES,FOX PREMIUM 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fox-sports.png"" group-ttle=ESPORTES,FOX SPORTS
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fox-sports-2.png"" group-ttle=ESPORTES,FOX SPORTS 2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/fx.png"" group-ttle=FILMES,FX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/galinha-pintadinha.png"" group-ttle=DESENHO,GALINHA PINTADINHA
+https://youtu.be/TNAQjmE5yNk"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/globo.png"" group-ttle=ABERTO,GLOBO RJ
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/globo.png"" group-ttle=ABERTO,GLOBO SP
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/gloob.png"" group-ttle=DESENHO,GLOOB
+https://geralorigin.eu-central-1.edge.mycdn.live/live/gloobhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/hbo.png"" group-ttle=SÉRIES,HBO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/hbo-family.png"" group-ttle=SÉRIES,HBO FAMILY
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbofamilyhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/hbo-mundi.png"" group-ttle=SÉRIES,HBO MUNDI
+https://geralorigin.eu-central-1.edge.mycdn.live/live/maxhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/hbo-signature.png"" group-ttle=SÉRIES,HBO SIGNATURE
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbosignaturehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/hbo-xtreme.png"" group-ttle=SÉRIES,HBO XTREME
+https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/hbo2.png"" group-ttle=SÉRIES,HBO2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/hgtv.png"" group-ttle=DOCUMENTÁRIO,HGTV
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverycivilizationhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/history.png"" group-ttle=DOCUMENTÁRIO,HISTORY
+https://geralorigin.eu-central-1.edge.mycdn.live/live/historyhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/h2.png"" group-ttle=DOCUMENTÁRIO,HISTORY 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/h2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/id.png"" group-ttle=DOCUMENTÁRIO,ID
+https://geralorigin.eu-central-1.edge.mycdn.live/live/idhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/lifetime.png"" group-ttle=DOCUMENTÁRIO,LIFETIME
+https://geralorigin.eu-central-1.edge.mycdn.live/live/lifetimehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601407.us.archive.org/34/items/loading_202101/loading.png"" group-ttle=SÉRIES,LOADING
+https://verizon.br.cdn.booyah.live/hls/1000004/34850987_1080.m3u8"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/megapix.png"" group-ttle=FILMES,MEGA PIX
+https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/nat-geo.png"" group-ttle=DOCUMENTÁRIO,NAT GEO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nathd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/natgeo-Kids.png"" group-ttle=DESENHO,NAT GEO KIDS
+https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeokidshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/nat-geo-wild.png"" group-ttle=DOCUMENTÁRIO,NAT GEO WILD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeowild/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/nick-jr.png"" group-ttle=DESENHO,NICK JR
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nickjrhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/nickelodeon.png"" group-ttle=DESENHO,NICKELODEON
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nickelodeonhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/off.png"" group-ttle=ESPORTES,OFF
+https://geralorigin.eu-central-1.edge.mycdn.live/live/canaloffhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/Paramount.png"" group-ttle=FILMES,PARAMOUNT
+https://geralorigin.eu-central-1.edge.mycdn.live/live/paramountchannelhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/pica-pau.png"" group-ttle=DESENHO,PICA-PAU
+https://youtu.be/ojE8y4xwOv0|Referer=https://youtube.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/premiere.png"" group-ttle=ESPORTES,PREMIERE
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/premiere.png"" group-ttle=ESPORTES,PREMIERE CLUBES
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/record-news.png"" group-ttle=NOTICIAS,RECORD NEWS
+https://youtu.be/VQRH6xM6T2o"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/record.png"" group-ttle=ABERTO,RECORD SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8|Referer=https://topcanais.com/?sd=10&rebase=on"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/rede-tv.png"" group-ttle=ABERTO,REDE TV
+https://geralorigin.eu-central-1.edge.mycdn.live/live/redetvhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/sbt.png"" group-ttle=ABERTO,SBT SP
+https://geralorigin.eu-central-1.edge.mycdn.live/live/sbthd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/sony.png"" group-ttle=FILMES,SONY
+https://geralorigin.eu-central-1.edge.mycdn.live/live/sonyhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/space.png"" group-ttle=FILMES,SPACE
+https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/sportv.png"" group-ttle=ESPORTES,SPORTV
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/sportv-2.png"" group-ttle=ESPORTES,SPORTV 2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv2hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://archive.org/download/sportv-3/sportv-3.png"" group-ttle=ESPORTES,SPORTV 3
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3hd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/studio-universal.png"" group-ttle=FILMES,STUDIO UNIVERSAL
+https://geralorigin.eu-central-1.edge.mycdn.live/live/studiouniversalhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/syfy.png"" group-ttle=FILMES,SYFY
+https://geralorigin.eu-central-1.edge.mycdn.live/live/syfyhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/tcm.png"" group-ttle=FILMES,TCM
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcmhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/telecine-action.png"" group-ttle=FILMES,TELECINE ACTION
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineactionhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/telecine-cult.png"" group-ttle=FILMES,TELECINE CULT
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/telecine-fun.png"" group-ttle=FILMES,TELECINE FUN
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/telecine-pipoca.png"" group-ttle=FILMES,TELECINE PIPOCA
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcPIPOCAhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/telecine-premium.png"" group-ttle=FILMES,TELECINE PREMIUM
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/telecine-touch.png"" group-ttle=FILMES,TELECINE TOUCH
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchhd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/tlc.png"" group-ttle=DOCUMENTÁRIO,TLC
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tlchd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/tnt.png"" group-ttle=SÉRIES,TNT
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601509.us.archive.org/6/items/tooncast_202012/tooncast.png"" group-ttle=DESENHO,TOONCAST
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tooncasthd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/tv-manchete.png"" group-ttle=RETRO,TV MANCHETE
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1554917726.m3u8"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/universal.png"" group-ttle=SÉRIES,UNIVERSAL
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/viva.png"" group-ttle=RETRO,VIVA
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivahd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia601501.us.archive.org/31/items/sportv-3/WARNER.png"" group-ttle=SÉRIES,WARNER
+https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8|Referer=https://topcanais.com/"
+"#EXTINF:-1 tvg-logo=""https://ia801501.us.archive.org/31/items/sportv-3/zoomoo.png"" group-ttle=DESENHO,ZOOMOO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/zoomoohd/video.m3u8|Referer=https://topcanais.com/"
