@@ -1,0 +1,38 @@
+"<item>
+
+<title>Convenção das Bruxas [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/ACNCAODSBRXS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801400.us.archive.org/20/items/1681_20200924/1674.jpg</image>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1674.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia, Terror, Família
+Lançamento: 1990
+
+Desde Branca de Neve e os Sete Anões até O Mágico de Oz, muitos dos contos clássicos lembrados através dos séculos não teriam metade do efeito que têm no público sem a presença marcante de uma bruxa e suas maldades. Agora, inclua outro filme à venerável tradição dessas histórias que oferecem à família diversão em todos os sentidos, uma produção que combina os efeitos especiais quase mágicos do produtor executivo Jim Herson e a imaginação do criador de A Fantástica Fábrica de Chocolate, Roald Dahl. A ganhadora do Oscar®, Anjelica Huston, conquistou os prêmios de Melhor Atriz da Los Angeles e National Society of Film Critics Best Actress por seu maravilhoso papel como a grande Bruxa nesta encantadora fábula dirigida por Nicolas Roeg. Jasen Fisher vive Luke, um garoto de nove anos que precisa frustar os planos de uma sociedade de bruxas que pretende transformar todas as crianças do mundo em ratos.</info>
+ 
+<genre>Aventura, Fantasia, Terror, Família</genre>
+ 
+<date>24/08/1990</date>
+</item>"
+"<item>
+
+<title>Convenção das Bruxas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNVCAODSBRXS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Aventura, Comédia, Terror
+Lançamento: 2020
+
+O remake de Convenção das Bruxas, clássico de fantasia dos anos 1990, acompanha um garoto de sete anos que se depara com uma conferência de bruxas em um hotel. Lá, ele acaba descobrindo que um grupo de bruxas está fazendo uma convenção, pretendendo transformar todas as crianças do mundo em ratos.</info>
+ 
+<genre>Fantasia, Família, Aventura, Comédia, Terror</genre>
+ 
+<date>19/11/2020</date>
+</item>"
