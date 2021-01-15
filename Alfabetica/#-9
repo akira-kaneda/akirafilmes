@@ -1086,6 +1086,25 @@ Baseada em fatos reais, esta história decorre em 1939, em vésperas da 2ª Guer
 </item>"
 "<item>
 
+<title>13º Distrito [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/13DSTRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6655.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6655.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Drama
+Lançamento: 2014
+
+A área de Brick Mansions é extremamente violenta e abandonada pela polícia local, que foi corrompida pelo crime organizado. Todo dia é uma batalha para o honesto detetive Damien Collier, que pretende vingar o assassinato do seu pai. Ele recebe a missão de entrar na perigosa região e localizar uma bomba que pode destruir a cidade de Detroit inteira. Para tanto, Damien conta com a ajuda do jovem Lino, que precisa tirar a namorada das mãos de um traficante.</info>
+ 
+<genre>Ação, Crime, Drama</genre>
+ 
+<date>19/06/2014</date>
+</item>"
+"<item>
+
 <title>1408 [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/1408.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
