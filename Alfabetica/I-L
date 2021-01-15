@@ -705,6 +705,25 @@ Refilmagem do clássico ""Odeio-te Meu Amor"", escrito e dirigido por Preston St
 </item>"
 "<item>
 
+<title>Infiltrada no Natal [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/INFLTDNONTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6635.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6635.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2019
+
+Jennifer Clarke é uma repórter investigativa que precisa trabalhar infiltrada como balconista em uma loja de departamentos até o Natal. Durante o período, ela acaba encontrando um grande amor.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>24/11/2019</date>
+</item>"
+"<item>
+
 <title>Infiltrado Na Klan [COLOR yellow][IMDb 7,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/INFLDONKLN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2792,6 +2811,25 @@ Início dos anos 80. A União Soviética invade o Afeganistão, o que chama a at
 <genre>Comédia, Drama, História</genre>
  
 <date>21/12/2007</date>
+</item>"
+"<item>
+
+<title>Jogos Entre Amigos [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JGSENTREMGS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6634.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6634.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2021
+
+Um grupo de amigos se reencontra para jogar o Buddy Game. Essa é uma variedade selvagem de desafios físicos e mentais absurdos. No processo, eles curam feridas antigas e logo após os erros descobrem o verdadeiro significado da amizade - ou morrem tentando.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>08/01/2021</date>
 </item>"
 "<item>
 
@@ -6008,6 +6046,25 @@ Don Champagne (Patrick Wilson) é um homem de negócios bem-sucedido casado com 
 </item>"
 "<item>
 
+<title>Lar Doce Lar... Ou Não [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LRDCELROUNAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6643.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6643.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Drama
+Lançamento: 2020
+
+Aborrecida com o seu estilo de vida social de borboleta, Victoria Tremont anseia por encontrar essa pessoa especial. Naturalmente, quando um estranho bonito entra na cafetaria onde trabalha, ela se volta para o encanto. Mas quando ele não responde a ela flertando como os homens costumam fazer, ela fica perplexa. Ela descobre que ele dirige um ministério que constrói habitações acessíveis, e vê que se ela quiser chamar a atenção dele, tudo o que tem de fazer é ser voluntária..</info>
+ 
+<genre>Comédia, Romance, Drama</genre>
+ 
+<date>01/05/2020</date>
+</item>"
+"<item>
+
 <title>Lar Ideal [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/LARIDL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8342,6 +8399,25 @@ Aryan, um jovem migrante, é baleado ao tentar ilegalmente cruzar a fronteira da
 <genre>Ficção científica</genre>
  
 <date>01/11/2017</date>
+</item>"
+"<item>
+
+<title>Lua-de-Mel a Três [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LUADMLATRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6651.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6651.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Romance, Thriller
+Lançamento: 1992
+
+Jack Singer (Nicolas Cage) é um detetive que está apaixonado por sua namorada (Sarah Jessica Parker), mas por causa da sua mãe (Anne Bancroft) morre de medo de se casar. Ella porém o encosta na parede, pressionando-o para viajarem para Las Vegas para casar. No entanto, horas antes do casamento o noivo é convidado para um jogo de pôquer e perde muito dinheiro. Como não pode pagar seu oponente (James Caan), ele concorda em receber a noiva ""emprestada"" no fim-de-semana como pagamento.</info>
+ 
+<genre>Ação, Comédia, Romance, Thriller</genre>
+ 
+<date>28/08/1992</date>
 </item>"
 "<item>
 
