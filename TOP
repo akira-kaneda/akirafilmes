@@ -3503,6 +3503,25 @@ Uma jovem atriz viaja para Hollywood e se vê emaranhada numa intriga secreta co
 </item>"
 "<item>
 
+<title>Dançando no Escuro [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DANCDNESCRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6652.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6652.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 2000
+
+Selma Jezkova (Björk) é uma mãe-solteira tcheca que foi morar nos Estados Unidos. Ela tem uma doença hereditária que a faz perder a visão, algo que também deverá acontecer um dia a seu filho Gene (Vladan Kostig), um garoto de doze anos. Entretanto, em virtude de saber que existem médicos nos Estados Unidos que podem operar seu filho isto foi o suficiente para fazê-la imigrar para o país. Ela trabalha muito duro e guarda tudo o que ganha para a cirurgia do filho. Bill (David Morse) e Linda (Cara Seymour), seus vizinhos, juntamente com Kathy (Catherine Deneuve), uma colega de fábrica, a ajudam no que é possível, mas quando Bill se vê em dificuldades financeiras rouba o dinheiro que Selma tinha economizado duramente. Este roubo é o ponto de partida para trágicos acontecimentos.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>20/10/2000</date>
+</item>"
+"<item>
+
 <title>Deadpool [COLOR yellow][IMDb 8,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/DEADP.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3522,22 +3541,22 @@ Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a hist
 </item>"
 "<item>
 
-<title>Dogville [COLOR yellow][IMDb 8,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/DGVLE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Du, Dudu e Edu: Todos contra os Dus [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DUDUDUEEDUTDSCNTROSDUS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/1975.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1975.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/2048.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2048.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Crime, Drama, Thriller
-Lançamento: 2004
+<info>Genero: Comédia, Animação, Aventura, Cinema TV
+Lançamento: 2009
 
-Anos 30, Dogville, um lugarejo nas Montanhas Rochosas. Grace (Nicole Kidman), uma bela desconhecida, aparece no lugar ao tentar fugir de gângsters. Com o apoio de Tom Edison (Paul Bettany), o auto-designado porta-voz da pequena comunidade, Grace é escondida pela pequena cidade e, em troca, trabalhará para eles. Fica acertado que após duas semanas ocorrerá uma votação para decidir se ela fica. Após este ""período de testes"" Grace é aprovada por unanimidade, mas quando a procura por ela se intensifica os moradores exigem algo mais em troca do risco de escondê-la. É quando ela descobre de modo duro que nesta cidade a bondade é algo bem relativo, pois Dogville começa a mostrar seus dentes. No entanto Grace carrega um segredo, que pode ser muito perigoso para a cidade.</info>
+Quando um golpe dá terrivelmente errado e deixa as crianças do bairro furiosas, os Eds embarcam em uma jornada para encontrar o irmão de Eddy no final da série ""Ed, Edd, n Eddy"".</info>
  
-<genre>Crime, Drama, Thriller</genre>
+<genre>Comédia, Animação, Aventura, Cinema TV</genre>
  
-<date>23/01/2004</date>
+<date>08/11/2009</date>
 </item>"
 "<item>
 
@@ -9419,23 +9438,4 @@ Kabul. Amir (Zekeria Ebrahimi) e Hassan (Ahmad Khan Mahmidzada) são dois amigos
 <genre>Drama</genre>
  
 <date>14/10/2007</date>
-</item>"
-"<item>
-
-<title>O Corvo [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OCRVO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3893.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3893.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Ação, Thriller
-Lançamento: 1994
-
-O roqueiro Eric Draven está morto... Mas, estranhamente, ele ainda vive. Ele ainda não pode descansar em paz. Não enquanto os vermes responsáveis por sua morte e também pelo assassinato de sua noiva permanecerem vivos. Assim, Draven retorna de seu túmulo para submeter seus matadores à uma implacável vingança. E ele não está sozinho. Um amedrontador corvo do outro mundo guia Draven em sua jornada.</info>
- 
-<genre>Fantasia, Ação, Thriller</genre>
- 
-<date>11/05/1994</date>
 </item>"
