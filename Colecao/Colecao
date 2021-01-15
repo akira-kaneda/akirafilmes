@@ -949,7 +949,7 @@ ADDON CENTRALIZADOR DE LINKS</info>
 "<channels>
 <channel>
 <name>[COLOR white]BATMAN[/COLOR]</name>
-<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1207.jpg</thumbnail>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1208.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Colecao/col-Batman</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>
@@ -1407,6 +1407,18 @@ ADDON CENTRALIZADOR DE LINKS</info>
 <name>[COLOR white]CONSTANTINE[/COLOR]</name>
 <thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1654.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Colecao/col-Constantine</externallink>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<info>
+ADDON CENTRALIZADOR DE LINKS</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+"<channels>
+<channel>
+<name>[COLOR white]CONVENÇÃO DAS BRUXAS[/COLOR]</name>
+<thumbnail>https://ia801400.us.archive.org/20/items/1681_20200924/1674.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Colecao/col-Convencao%20das%20Bruxas</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>
 ADDON CENTRALIZADOR DE LINKS</info>
