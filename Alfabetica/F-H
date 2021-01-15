@@ -1521,6 +1521,25 @@ Erica e suas duas melhores amigas adolescentes seduzem homens adultos para conse
 </item>"
 "<item>
 
+<title>Fluidity [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FLDTY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6626.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6626.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+A história de dez millennials que vivem na cidade de Nova York, cujas vidas sexuais se cruzam na era das mídias sociais – onde gostos, impressões e “conexões” virtuais ameaçam a própria noção de relacionamento pessoal e intimidade humana.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>21/06/2019</date>
+</item>"
+"<item>
+
 <title>Flyboys [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/FLBYS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2639,6 +2658,25 @@ Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um t
 <genre>Drama</genre>
  
 <date>06/03/2020</date>
+</item>"
+"<item>
+
+<title>Full Out 2: You Got This! [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FULOUT2GTHS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6616.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6616.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Cinema TV
+Lançamento: 2020
+
+Com um título em jogo, Chayse e sua equipe de ginástica buscam a ajuda de uma break dancer para aprender passos novos.</info>
+ 
+<genre>Família, Cinema TV</genre>
+ 
+<date>01/02/2020</date>
 </item>"
 "<item>
 
