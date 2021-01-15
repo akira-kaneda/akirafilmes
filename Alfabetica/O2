@@ -1,5 +1,100 @@
 "<item>
 
+<title>O Oficial e o Espião [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OOFCLEOESPIAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4224.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4224.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Thriller
+Lançamento: 2020
+
+Paris, final do século 19. O capitão francês Alfred Dreyfus é um dos poucos judeus que faz parte do exército. No dia 22 de dezembro de 1884, seus inimigos alcançam seu objetivo: conseguem fazer com que Dreyfus seja acusado de alta traição. Pelo crime, julgado à portas fechadas, o capitão é sentenciado à prisão perpétua no exílio. Intrigado com a evolução do caso, o investigador Picquart decide seguir as pistas para desvendar o mistério por trás da condenação de Dreyfus.</info>
+ 
+<genre>Drama, História, Thriller</genre>
+ 
+<date>10/02/2020</date>
+</item>"
+"<item>
+
+<title>O Olho do Demônio [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OOLHDODEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4225.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4225.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2019
+
+Uma jovem retorna à casa de campo de seu pai nos pântanos após sua morte misteriosa e encontra um amuleto amaldiçoado, conectado à bruxaria local. Ela liberta dois demônios mortais, que a assombram.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>26/02/2019</date>
+</item>"
+"<item>
+
+<title>O Olho do Mal [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OLHDML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4226.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4226.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller
+Lançamento: 2008
+
+A violinista Sydney Wells sofreu um acidente durante sua infância que a deixou cega. Quando ela consegue recuperar a visão através de um transplante de córnea, ela passa a ver imagens sombrias e aterrorizantes que a amedrontam. Sem poder distinguir se a situação é devido a adaptação de seu corpo à nova situação, a jovem passa a desconfiar que a causa está ligada ao doador.</info>
+ 
+<genre>Drama, Terror, Thriller</genre>
+ 
+<date>01/02/2008</date>
+</item>"
+"<item>
+
+<title>O Operário [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OOPARIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4227.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4227.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2005
+
+A última vez em que Trevor Reznik (Christian Bale) dormiu foi há um ano, sendo que desde então o cansaço vem destruindo progressivamente sua saúde física e mental. Ele trabalha numa fábrica operando maquinário pesado, e faz de tudo para manter seu emprego. Envergonhado por causa de seu problema, Trevor isola-se cada vez mais, tornando-se paranóico. Depois de se envolver em um acidente no trabalho em que um homem perde um braço, Trevor começa a crer que seus colegas estão conspirando para demiti-lo. Ele precisará lutar não apenas para se manter no cargo, mas também para manter a sanidade.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>14/01/2005</date>
+</item>"
+"<item>
+
+<title>O Orfanato [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OORFNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4228.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4228.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Thriller
+Lançamento: 2007
+
+Laura (Belén Rueda) passou os anos mais felizes de sua vida em um orfanato, onde recebeu os cuidados de uma equipe e de outros companheiros órfãos, a quem considerava como se fossem seus irmãos e irmãs verdadeiros. Agora, 30 anos depois, ela retornou ao local com seu marido Carlos (Fernando Cayo) e seu filho Simón (Roger Príncep), de 7 anos. Ela deseja restaurar e reabrir o orfanato, que está abandonado há vários anos. O local logo desperta a imaginação de Simón, que passa a criar contos fantásticos. Entretanto à medida que os contos ficam mais estranhos Laura começa a desconfiar que há algo à espreita na casa.</info>
+ 
+<genre>Terror, Drama, Thriller</genre>
+ 
+<date>28/12/2007</date>
+</item>"
+"<item>
+
 <title>O Otário [COLOR yellow][IMDb 5,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/OOTARIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
