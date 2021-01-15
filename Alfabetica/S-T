@@ -8133,6 +8133,25 @@ George Simmons (Adam Sandler) é um popular comediante, que descobre que possui 
 </item>"
 "<item>
 
+<title>Tá Todo Mundo Louco! - Uma Corrida de Milhõe$ [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TATDOMNDLCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6658.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6658.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 2002
+
+Um grupo de bilionários entediados, que adoram apostar entre si, resolvem inventar um novo jogo. Eles escolhem aleatoriamente seis grupos de pessoas estranhas e as enviam para a cidade de Las Vegas. A 900 quilômetros dali, no Novo México, é escondida a quantia de US$ 2 milhões, que será dada ao grupo que chegar ao local primeiro. É quando então se envolvem na louca disputa uma hippie, o juiz de futebol mais odiado do país, um turista italiano e muitos outros participantes.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>11/01/2002</date>
+</item>"
+"<item>
+
 <title>Tal Mãe, Tal Filha [COLOR yellow][IMDb 5,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/TLMARTLFLHA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -11227,6 +11246,25 @@ Casey Newton (Britt Robertson) é uma adolescente com enorme curiosidade pela ci
 <genre>Aventura, Família, Mistério, Ficção científica</genre>
  
 <date>04/06/2015</date>
+</item>"
+"<item>
+
+<title>Tony Parker: The Final Shot [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TNYPRKENTROSMRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6645.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6645.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2021
+
+O histórico e a carreira de Tony Parker, cuja determinação o levou a se tornar indiscutivelmente o maior jogador de basquete francês.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>06/01/2021</date>
 </item>"
 "<item>
 
