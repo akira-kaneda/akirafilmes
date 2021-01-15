@@ -1429,6 +1429,25 @@ Do produtor executivo Bruce Timm e baseado na aclamada graphic novel da DC Comic
 </item>"
 "<item>
 
+<title>Batman: Alma do Dragão [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BTMNAALMDRGO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6620.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6620.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura, Crime, Fantasia, Baseado em Quadrinho
+Lançamento: 2021
+
+Na década de 1970, Bruce Wayne enfrenta uma ameaça mortal de seu passado com a ajuda de três ex-colegas das artes marciais: Richard Dragon, Ben Turner e Lady Shiva.</info>
+ 
+<genre>Animação, Ação, Aventura, Crime, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>14/01/2021</date>
+</item>"
+"<item>
+
 <title>Batman: O Cavaleiro das Trevas [COLOR yellow][IMDb 9,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/BTMN06.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2419,6 +2438,25 @@ Jack (Jack Cullison) é um universitário inconsequente que está com os dias co
 </item>"
 "<item>
 
+<title>Bill & Ted: Encare a Música [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BILETDENCRAMSCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6638.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6638.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica, Aventura
+Lançamento: 2020
+
+As apostas estão mais altas que nunca para os dois amigos viajantes do tempo, agora já na meia-idade, em uma nova aventura buscando a canção que trará harmonia ao universo, ajudados por suas filhas, figuras históricas e lendas da música.</info>
+ 
+<genre>Comédia, Ficção científica, Aventura</genre>
+ 
+<date>28/08/2020</date>
+</item>"
+"<item>
+
 <title>Billy Madison, Um Herdeiro Bobalhão [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/BLYMDSNUMHRDBOBLHAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2837,6 +2875,25 @@ After an overly ambitious businessman transports an 80-foot python to the United
 </item>"
 "<item>
 
+<title>Boa: A Cobra Assassina [COLOR yellow][IMDb 2,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BOACBRASANA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6654.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6654.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Aventura
+Lançamento: 2006
+
+Um grupo de adolescentes viaja para uma floresta remota em busca de um amigo que foi relatado como perdido após sua viagem à floresta. Enquanto procuravam, eles são pegos por uma tempestade de vento brutal que joga seu navio no meio da floresta. Os adolescentes são forçados a buscar abrigo em uma caverna escura onde, sem o conhecimento deles, uma criatura incomum está descansando silenciosamente ...</info>
+ 
+<genre>Terror, Ação, Aventura</genre>
+ 
+<date>27/04/2006</date>
+</item>"
+"<item>
+
 <title>Bob Esponja - O Filme [COLOR yellow][IMDb 7,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/BOBOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2891,6 +2948,27 @@ Onde está Gary? Segundo Bob Esponja, Gary foi ""caracolstrado"" pelo temível R
 <genre>Fantasia, Animação, Aventura, Comédia, Família</genre>
  
 <date>14/08/2020</date>
+</item>"
+"<item>
+
+<title>Bodyguard – Resgate de Risco [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BDYGRDRSGTDRSCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6653.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6653.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2016
+
+O melhor filme de artes marciais dos últimos 20 anos
+
+Um filme de ação moderno combinando o melhor dos gêneros do Kung-Fu e super-heróis. A história narra a dramática jornada de Wu- Lin após a morte de seu mestre em artes marciais.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>15/07/2016</date>
 </item>"
 "<item>
 
@@ -3480,6 +3558,25 @@ No quarto capítulo da franquia de luta, Boyka está atirando para as grandes li
 <genre>Thriller, Ação, Crime</genre>
  
 <date>01/08/2016</date>
+</item>"
+"<item>
+
+<title>Boys [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/GRTOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6622.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6622.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2014
+
+Sieger, um garoto tímido de 15 anos, está treinando para o campeonato nacional de revezamento, onde conhece o intrigante e imprevisível Marc. Eles desenvolvem uma amizade que parece ser nada fora do comum, mas Sieger secretamente cultiva sentimentos mais fortes por Marc. Ele inicia uma luta solitária consigo mesmo, quando descobre que Marc também é apaixonado por ele.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>23/10/2014</date>
 </item>"
 "<item>
 
@@ -7040,6 +7137,25 @@ Butch (Cam Gigandet) e Tom (Shane West) são dois pilotos da marinha americana q
 </item>"
 "<item>
 
+<title>Céu em Chamas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CEUEMCHMS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6627.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6627.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura
+Lançamento: 2019
+
+A Ilha Tianhuo é tão bonita quanto um paraíso. Quase faz as pessoas esquecerem que está localizado no ""Anel de Fogo"", o mundialmente famoso cinturão vulcânico da Orla do Pacífico. O vulcão entrou em erupção e o destino das pessoas na ilha foi emaranhado.</info>
+ 
+<genre>Ação, Aventura</genre>
+ 
+<date>12/12/2019</date>
+</item>"
+"<item>
+
 <title>Chalk It Up [COLOR yellow][IMDb 4,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/CHLKIUP.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9303,6 +9419,25 @@ Já se passaram dez anos desde a criação da Grande Trégua, um elaborado siste
 </item>"
 "<item>
 
+<title>Como Casar com um Milionário [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CPMCSRCMUMLNRIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6642.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6642.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2019
+
+Este filme é um guia (muito engraçado) para quem sonha com um relacionamento feliz! O longa conta a história de Alicja, uma menina que vai acidentalmente a um curso ministrado pela autora de guias de best-sellers, Sonia. Sônia assume que “é melhor chorar em uma Mercedes do que em outro lugar” e revela métodos comprovados de sedução que funcionam mesmo nos casos mais complicados.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>29/11/2019</date>
+</item>"
+"<item>
+
 <title>Como Criar o Garoto Perfeito [COLOR yellow][IMDb 5,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/CMCRAROGRTOPRFTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -10521,6 +10656,25 @@ Desde Branca de Neve e os Sete Anões até O Mágico de Oz, muitos dos contos cl
 </item>"
 "<item>
 
+<title>Convenção das Bruxas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNVCAODSBRXS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Aventura, Comédia, Terror
+Lançamento: 2020
+
+O remake de Convenção das Bruxas, clássico de fantasia dos anos 1990, acompanha um garoto de sete anos que se depara com uma conferência de bruxas em um hotel. Lá, ele acaba descobrindo que um grupo de bruxas está fazendo uma convenção, pretendendo transformar todas as crianças do mundo em ratos.</info>
+ 
+<genre>Fantasia, Família, Aventura, Comédia, Terror</genre>
+ 
+<date>19/11/2020</date>
+</item>"
+"<item>
+
 <title>Convidado Vitalicio [COLOR yellow][IMDb 6,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/CNVDOVTLCIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -11451,6 +11605,25 @@ Em pleno ano de 2071 Spike e seus companheiros ciganos do Esquadrão Bebop estã
 <genre>Ação, Animação, Ficção científica</genre>
  
 <date>11/08/2002</date>
+</item>"
+"<item>
+
+<title>Crack: Cocaína, Corrupção e Conspiração [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRCKCOCNCRPCAOECSPRCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6621.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6621.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2021
+
+Uma droga barata e poderosa surge durante uma recessão, acendendo um pânico moral alimentado pelo racismo. Explore a complexa história do crack na década de 1980.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>11/01/2021</date>
 </item>"
 "<item>
 
