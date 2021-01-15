@@ -38,6 +38,25 @@ No pós-guerra, de Hong Kong, o lendário Wing Chun Ip Man mestre é relutanteme
 </item>"
 "<item>
 
+<title>O Grande Mestre 4: A Batalha Final [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OGRNDMSTR4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6631.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6631.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História
+Lançamento: 2019
+
+Donnie Yen reprisa seu papel como o lendário mestre de Wing Chun no grand finale da revolucionária série de artes marciais. Após a morte de sua esposa, Ip Man viaja para São Francisco para aliviar as tensões entre os mestres locais de kung fu e seu aluno estrela, Bruce Lee, enquanto procura um futuro melhor para seu filho. Do visionário de ação por trás de Kill Bill e The Matrix, testemunhe conclusão heróica da saga que inspirou uma nova onda de fãs de filmes de artes marciais.</info>
+ 
+<genre>Ação, Drama, História</genre>
+ 
+<date>19/12/2019</date>
+</item>"
+"<item>
+
 <title>Ip Man: O Mestre do Kung Fu [COLOR yellow][IMDb 4,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/IPMNOMSTRDKNGFU.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
