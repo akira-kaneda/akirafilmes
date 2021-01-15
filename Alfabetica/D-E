@@ -152,6 +152,25 @@ Neste paraíso, as aves precisam agitar as penas e executar coreografias caprich
 </item>"
 "<item>
 
+<title>Dançando no Escuro [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DANCDNESCRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6652.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6652.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 2000
+
+Selma Jezkova (Björk) é uma mãe-solteira tcheca que foi morar nos Estados Unidos. Ela tem uma doença hereditária que a faz perder a visão, algo que também deverá acontecer um dia a seu filho Gene (Vladan Kostig), um garoto de doze anos. Entretanto, em virtude de saber que existem médicos nos Estados Unidos que podem operar seu filho isto foi o suficiente para fazê-la imigrar para o país. Ela trabalha muito duro e guarda tudo o que ganha para a cirurgia do filho. Bill (David Morse) e Linda (Cara Seymour), seus vizinhos, juntamente com Kathy (Catherine Deneuve), uma colega de fábrica, a ajudam no que é possível, mas quando Bill se vê em dificuldades financeiras rouba o dinheiro que Selma tinha economizado duramente. Este roubo é o ponto de partida para trágicos acontecimentos.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>20/10/2000</date>
+</item>"
+"<item>
+
 <title>Dançarina Imperfeita [COLOR yellow][IMDb 6,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/DNCRNIMPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5206,6 +5225,25 @@ Lily (Lucy Hale), Chloe (Kathryn Prescott), Amelia (Alexandra Shipp) e Rebecca (
 </item>"
 "<item>
 
+<title>Duelo no Asfalto [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DUELNASFTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6637.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6637.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Roy derrapa feio na véspera do casamento e, para não perder a noiva, acaba aceitando correr contra uma nova adversária na pista de Nürburgring, na Alemanha.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>14/10/2020</date>
+</item>"
+"<item>
+
 <title>Duendes e Dragões [COLOR yellow][IMDb 3,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/DNDSEDRGOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6668,6 +6706,25 @@ Ambientado logo após o final da Segunda Guerra Mundial, IN FULL BLOOM é um dra
 <genre>Ação, Crime, Drama</genre>
  
 <date>19/06/2019</date>
+</item>"
+"<item>
+
+<title>Em Busca de um Milagre [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMBSCDUMLGRE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6636.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6636.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+O mundo de Luke vira de cabeça pra baixo quando perde sua esposa na mesma noite em que se torna pai. Com a ajuda da nova babá, Sage, ele vai aprender que nunca é tarde para amar de novo.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>01/05/2020</date>
 </item>"
 "<item>
 
