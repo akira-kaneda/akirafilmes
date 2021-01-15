@@ -418,6 +418,44 @@ Kelly (Cindy Busby) e seu pai, Hank (James Brolin), descobrem que, simplesmente,
 </item>"
 "<item>
 
+<title>Palavras de Família [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PLVRSDFMLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6629.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6629.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia
+Lançamento: 2020
+
+Alan (Bill Nighy) é um exímio alfaiate que não consegue superar o sumiço de seu primogênito Michael. O episódio acabou fazendo com que sua relação com a esposa e o filho mais novo, Peter (Sam Riley), ruísse. Para tentar reestabelecer os laços que rompeu e desvendar tal desaparecimento, Alan vai atrás de uma pessoa que conheceu online.</info>
+ 
+<genre>Drama, Comédia</genre>
+ 
+<date>12/06/2020</date>
+</item>"
+"<item>
+
+<title>Palavras nas Paredes do Banheiro [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PLVRSNPRDSDBNHR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6615.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2020
+
+Adam é um estudante que sofre de esquizofrenia paranoica acompanhadas de alucinações, e por conta disso, resolve participar do teste de uma nova droga que promete esconder todos estes sintomas de seus colegas de sala.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>26/11/2020</date>
+</item>"
+"<item>
+
 <title>Palhaço Assassino [COLOR yellow][IMDb 5,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/PLHCASASNO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1251,6 +1289,25 @@ A Dra. Alice Howland (Julianne Moore) é uma renomada professora de linguistica.
 <genre>Drama</genre>
  
 <date>12/03/2015</date>
+</item>"
+"<item>
+
+<title>Para Sempre Cinderela [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRSMPRCNDRLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6656.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6656.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Comédia
+Lançamento: 1998
+
+O clássico conto da Gata Borralheira ganha uma nova versão, mostrando o que seria a “verdadeira” história da Cinderela. Danielle perde seu pai muito nova e é criada por uma madrasta muito má. Já crescida, ela se apaixona pelo Príncipe Henry, o que pode estragar os planos ambiciosos da madrasta.</info>
+ 
+<genre>Drama, Romance, Comédia</genre>
+ 
+<date>31/07/1998</date>
 </item>"
 "<item>
 
@@ -3551,6 +3608,25 @@ Um grupo de estudantes do ensino médio na California aproveita a vida com muita
 <genre>Comédia, Drama</genre>
  
 <date>13/08/1982</date>
+</item>"
+"<item>
+
+<title>Pieces of a Woman [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PIECSOFAWMN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6630.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6630.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Uma mulher em luto embarca numa viagem emocional após a perda do seu bebê. Diante dessa perda, ela terá que lidar com as consequências que seu luto tem nas relações com o marido e a mãe, lutando para que seu mundo não desabe por completo.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>30/12/2020</date>
 </item>"
 "<item>
 
@@ -5911,6 +5987,25 @@ Em Manhattan J.C. Wiatt (Diane Keaton), uma executiva de meia-idade que está pr
 </item>"
 "<item>
 
+<title>Presente de Natal  [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRSNTDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6644.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6644.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+As decorações de Natal da família Barnett já está pronta, mas eles desejam deixar tudo perfeito. Entretanto, cada um deles possui preocupações diferentes.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>19/10/2020</date>
+</item>"
+"<item>
+
 <title>Preso em Casa [COLOR yellow][IMDb 5,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/PRSOEMCSA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -7827,6 +7922,25 @@ Baseado no best-seller homônimo escrito por W. Bruce Cameron, “Quatro Vidas d
 <genre>Comédia, Drama, Família, Fantasia, Aventura</genre>
  
 <date>26/01/2017</date>
+</item>"
+"<item>
+
+<title>Que Família é Essa? [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/QFMLESA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6623.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6623.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2016
+
+Bastien é filho único, mas tem seis meio-irmãos, quatro pais e quatro mães. Cansados de carregar a vida nas costas, os irmãos decidem que vão morar juntos e são os pais que vão ter que se acostumar com a nova situação. A união faz a força!</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>10/08/2016</date>
 </item>"
 "<item>
 
