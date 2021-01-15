@@ -99,6 +99,25 @@ Maya é uma jovem abelhinha que, cansada da vida monótona na colmeia, decide vi
 </item>"
 "<item>
 
+<title>A Árvore dos Desejos [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AAVRDSDSJOS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6602.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6602.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Ação, Família
+Lançamento: 2020
+
+O desejo equivocado por neve em uma data especial feito por uma jovem marsupial não apenas congela toda a sua cidade natal, Sanctuary City, como também ameaça a vida de todos os que vivem lá. Antes que a mágica Árvore dos Desejos morra, ela deve empreender uma jornada perigosa pelas terras selvagens; lutar contra a dúvida sobre si mesma, predadores fantasmagóricos e, por fim, Extinção em si, para reverter o dano que causou e salvar sua cidade!</info>
+ 
+<genre>Animação, Aventura, Ação, Família</genre>
+ 
+<date>27/02/2020</date>
+</item>"
+"<item>
+
 <title>A Bailarina [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ABLRN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2946,6 +2965,25 @@ Do produtor executivo Bruce Timm e baseado na aclamada graphic novel da DC Comic
 <genre>Ação, Animação, Crime, Drama, Baseado em Quadrinho</genre>
  
 <date>25/07/2016</date>
+</item>"
+"<item>
+
+<title>Batman: Alma do Dragão [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BTMNAALMDRGO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6620.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6620.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura, Crime, Fantasia, Baseado em Quadrinho
+Lançamento: 2021
+
+Na década de 1970, Bruce Wayne enfrenta uma ameaça mortal de seu passado com a ajuda de três ex-colegas das artes marciais: Richard Dragon, Ben Turner e Lady Shiva.</info>
+ 
+<genre>Animação, Ação, Aventura, Crime, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>14/01/2021</date>
 </item>"
 "<item>
 
@@ -7194,8 +7232,8 @@ Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na pra
 <link>https://$doregex[RC]/RCFServer5/ondemand/LGOSTRWRSEPSCLDFSTS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6552.jpg</thumbnail>
+<image>https://ia601402.us.archive.org/18/items/6550_20201224/6552.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/18/items/6550_20201224/6552.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
 <info>Genero: Animação, Aventura, Comédia, Família, Ficção científica
@@ -13270,6 +13308,25 @@ Sonhe grande e ria junto com Charlie Brown, Snoopy, Lucy, Linus e todo o resto d
 <genre>Aventura, Comédia, Animação, Família</genre>
  
 <date>14/01/2016</date>
+</item>"
+"<item>
+
+<title>Soul: Uma Aventura com Alma [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SOLUMAVTRCMALM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Drama, Música, Fantasia
+Lançamento: 2020
+
+Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.</info>
+ 
+<genre>Animação, Comédia, Drama, Música, Fantasia</genre>
+ 
+<date>25/12/2020</date>
 </item>"
 "<item>
 
