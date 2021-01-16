@@ -191,6 +191,25 @@ No funeral de Maria Vargas, várias pessoas se lembram de quem ela era e o impac
 </item>"
 "<item>
 
+<title>Ulysses [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ULYSES.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6611.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6611.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 1955
+
+Adaptação para o cinema do segundo épico de Homero, que fala sobre os esforços de Ulisses para voltar para sua casa após o fim de dez anos de guerra.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>01/10/1955</date>
+</item>"
+"<item>
+
 <title>Vera Cruz [COLOR yellow][IMDb 7,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/VERCRZ.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
