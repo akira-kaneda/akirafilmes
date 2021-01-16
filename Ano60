@@ -57,6 +57,25 @@ Em 1947, na Inglaterra, um cirurgião plástico deve bater em retirada para a Fr
 </item>"
 "<item>
 
+<title>As Noivas do Vampiro [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASNVSDEDRGLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6614.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6614.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1960
+
+Marianne Danielle está viajando pelo Leste Europeu a fim de assumir o cargo de professora de francês em uma escola para moças na Transilvânia, agora livre da ameaça do Conde Drácula. Ela não é muito bem recebida pelos locais e acaba sendo acomodada no castelo da Baronesa Meinster, onde conhece o filho da nobre, que vive acorrentado à parede. Com pena do jovem, Marianne decide libertá-lo sem desconfiar que ele é um vampiro. Para sorte dela, o Doutor Van Helsing está por perto e promete por fim à vida de mais esse ser das trevas.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>05/09/1960</date>
+</item>"
+"<item>
+
 <title>Spartacus [COLOR yellow][IMDb 7,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/SPRTCUS1960.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
