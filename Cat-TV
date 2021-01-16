@@ -1940,6 +1940,25 @@ Baseado em fatos reais, ex-prisioneiro do campo, Fuga de Sobibor / Escape from S
 </item>"
 "<item>
 
+<title>Full Out 2: You Got This! [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FULOUT2GTHS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6616.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6616.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Cinema TV
+Lançamento: 2020
+
+Com um título em jogo, Chayse e sua equipe de ginástica buscam a ajuda de uma break dancer para aprender passos novos.</info>
+ 
+<genre>Família, Cinema TV</genre>
+ 
+<date>01/02/2020</date>
+</item>"
+"<item>
+
 <title>Garota Motocross [COLOR yellow][IMDb 6,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/GRTAMTCRS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2241,6 +2260,25 @@ Quando o primeiro livro da autora iniciante Cassie Winslett (Jen Lilley) não es
 <genre>Romance, Cinema TV</genre>
  
 <date>19/01/2019</date>
+</item>"
+"<item>
+
+<title>Infiltrada no Natal [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/INFLTDNONTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6635.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6635.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2019
+
+Jennifer Clarke é uma repórter investigativa que precisa trabalhar infiltrada como balconista em uma loja de departamentos até o Natal. Durante o período, ela acaba encontrando um grande amor.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>24/11/2019</date>
 </item>"
 "<item>
 
@@ -3001,6 +3039,25 @@ Katie é uma patinadora do gelo olímpica aposentada que aceita um novo desafio.
 <genre>Romance, Cinema TV</genre>
  
 <date>22/11/2018</date>
+</item>"
+"<item>
+
+<title>Natal Sempre e Para Sempre [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/NTLSMPREPRSMPR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6593.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6593.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2020
+
+Quando a executiva de marketing Lucy descobre que herdou a loja de Natal de seu avô, ""Forever Christmas"", ela faz uma viagem de volta para casa para dar suporte à loja durante sua temporada final de Natal antes de vendê-la. Mas uma vez que ela está de volta a Vermont, ela começa a entender por que a loja de seu avô é tão especial.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>23/12/2020</date>
 </item>"
 "<item>
 
