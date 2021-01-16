@@ -1056,6 +1056,25 @@ Caçada Sangrenta</info>
 </item>"
 "<item>
 
+<title>A Cor Que Caiu do Espaço [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACRQCAINESPCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6624.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6624.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Ficção científica, Thriller
+Lançamento: 2020
+
+Uma fazenda é atingida por um meteorito que pode ter consequências apocalípticas para a família que mora lá e possivelmente para o mundo.</info>
+ 
+<genre>Terror, Mistério, Ficção científica, Thriller</genre>
+ 
+<date>24/01/2020</date>
+</item>"
+"<item>
+
 <title>A Corrente do Mal [COLOR yellow][IMDb 4,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/ACRNTDML2010.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2119,6 +2138,25 @@ A estudante Emily (Tiffany Ceri) tenta ganhar dinheiro trabalhando no turno da n
 <genre>Terror</genre>
  
 <date>12/09/2016</date>
+</item>"
+"<item>
+
+<title>A Maldição do Espelho [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMLDCAODESPLHO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6601.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6601.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2020
+
+Depois que o terrível fantasma da Rainha de Espadas ressurge, os alunos de um antigo colégio interno viram as próximas vítimas do banho de sangue. O terror começa a partir do momento em que eles recitam antigos encantamentos no banheiro do local para conquistar tudo o que desejam — mesmo que o preço seja suas almas.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>06/02/2020</date>
 </item>"
 "<item>
 
@@ -4749,6 +4787,25 @@ Um estranho tenta convencer um feliz casal de que a filha deles é na verdade a 
 </item>"
 "<item>
 
+<title>As Faces do Demônio [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASFCSDDEMO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6639.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6639.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2020
+
+Quando um demônio, que pode adquirir a forma humana invade a família de Kang-gu e instaura dúvidas e suspeitas entre eles, seu irmão Joong-su, que é pastor, deve ajudá-los. Mas ele reluta em fazê-lo por causa de seu exorcismo fracassado no passado, que resultou na morte de uma jovem. Ele tem uma nova chance de realizar um último exorcismo pelo bem de sua família.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>26/03/2020</date>
+</item>"
+"<item>
+
 <title>As Fitas de Poughkeepsie [COLOR yellow][IMDb 6,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/ASFTSDPUGKPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4822,6 +4879,25 @@ Elvira e a sua serva voltam a criar desacatos, dessa vez em uma mansão dominada
 <genre>Comédia, Terror</genre>
  
 <date>20/08/2003</date>
+</item>"
+"<item>
+
+<title>As Noivas do Vampiro [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASNVSDEDRGLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6614.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6614.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1960
+
+Marianne Danielle está viajando pelo Leste Europeu a fim de assumir o cargo de professora de francês em uma escola para moças na Transilvânia, agora livre da ameaça do Conde Drácula. Ela não é muito bem recebida pelos locais e acaba sendo acomodada no castelo da Baronesa Meinster, onde conhece o filho da nobre, que vive acorrentado à parede. Com pena do jovem, Marianne decide libertá-lo sem desconfiar que ele é um vampiro. Para sorte dela, o Doutor Van Helsing está por perto e promete por fim à vida de mais esse ser das trevas.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>05/09/1960</date>
 </item>"
 "<item>
 
@@ -5449,6 +5525,25 @@ After an overly ambitious businessman transports an 80-foot python to the United
 <genre>Terror, Ficção científica</genre>
  
 <date>01/01/2004</date>
+</item>"
+"<item>
+
+<title>Boa: A Cobra Assassina [COLOR yellow][IMDb 2,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BOACBRASANA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6654.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6654.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Ação, Aventura
+Lançamento: 2006
+
+Um grupo de adolescentes viaja para uma floresta remota em busca de um amigo que foi relatado como perdido após sua viagem à floresta. Enquanto procuravam, eles são pegos por uma tempestade de vento brutal que joga seu navio no meio da floresta. Os adolescentes são forçados a buscar abrigo em uma caverna escura onde, sem o conhecimento deles, uma criatura incomum está descansando silenciosamente ...</info>
+ 
+<genre>Terror, Ação, Aventura</genre>
+ 
+<date>27/04/2006</date>
 </item>"
 "<item>
 
@@ -7140,6 +7235,25 @@ Desde Branca de Neve e os Sete Anões até O Mágico de Oz, muitos dos contos cl
 <genre>Aventura, Fantasia, Terror, Família</genre>
  
 <date>24/08/1990</date>
+</item>"
+"<item>
+
+<title>Convenção das Bruxas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNVCAODSBRXS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Aventura, Comédia, Terror
+Lançamento: 2020
+
+O remake de Convenção das Bruxas, clássico de fantasia dos anos 1990, acompanha um garoto de sete anos que se depara com uma conferência de bruxas em um hotel. Lá, ele acaba descobrindo que um grupo de bruxas está fazendo uma convenção, pretendendo transformar todas as crianças do mundo em ratos.</info>
+ 
+<genre>Fantasia, Família, Aventura, Comédia, Terror</genre>
+ 
+<date>19/11/2020</date>
 </item>"
 "<item>
 
@@ -10639,6 +10753,25 @@ Em um trem de alta velocidade com destino à cidade de Busan, um vírus que tran
 </item>"
 "<item>
 
+<title>Invasão Zumbi 2: Península [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/INVSZMB2PNSLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6596.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6596.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Terror, Thriller
+Lançamento: 2020
+
+A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Busan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.</info>
+ 
+<genre>Ação, Terror, Thriller</genre>
+ 
+<date>27/08/2020</date>
+</item>"
+"<item>
+
 <title>Inverno de Sangue em Veneza [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/INVRNDSNGEMVENZA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -11149,6 +11282,25 @@ Uma jovem (Robin Tunney) se muda de São Francisco para Los Angeles para começa
 <genre>Fantasia, Terror</genre>
  
 <date>03/05/1996</date>
+</item>"
+"<item>
+
+<title>Jovens Bruxas: Nova Irmandade [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JVNSBRXSNVAIRMDAD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6595.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6595.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Fantasia
+Lançamento: 2020
+
+Na sequência do sucesso cult 'Jovens Bruxas', um grupo eclético de quatro adolescentes aspirantes a bruxas consegue mais do que esperava ao mergulhar em poderes recém-descobertos.</info>
+ 
+<genre>Terror, Drama, Fantasia</genre>
+ 
+<date>28/10/2020</date>
 </item>"
 "<item>
 
@@ -12615,6 +12767,25 @@ Enquanto o Natal se aproxima, o campus de uma universidade fica cada vez mais va
 </item>"
 "<item>
 
+<title>Natal Sangrento 4: A Iniciação [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/NTLSNGTO4AINCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6650.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6650.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1990
+
+Uma repórter que investiga a morte bizarra de uma mulher que saltou de um prédio em chamas se vê envolvida em um culto de bruxas que a estão fazendo parte de sua cerimônia de sacrifício durante o Natal.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>21/11/1990</date>
+</item>"
+"<item>
+
 <title>Natureza Assassina [COLOR yellow][IMDb 5,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/NTRZASASNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -13069,1149 +13240,3 @@ Depois dos três primeiros aterrorizantes ataques dos vermes malditos, finalment
  
 <date>02/01/2004</date>
 </item>"
-"<item>
-
-<title>O Ataque dos Vermes Malditos 5: Linhas de Sangue [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OATQDSVRMSMLDTS5.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3798.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3798.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Comédia, Terror, Ficção científica
-Lançamento: 2015
-
-Michael Gross retorna como entusiasta de armas e especialista em criaturas subterrâneas, o caçador Burt Gummer, com Jamie Kennedy como seu novo braço direito no papel do expert em tecnologia Travis. A dupla se junta um elenco internacional enquanto eles preparam uma batalha contra as criaturas mortais que acabam se tornando muito mais do que esperavam.</info>
- 
-<genre>Ação, Aventura, Comédia, Terror, Ficção científica</genre>
- 
-<date>06/10/2015</date>
-</item>"
-"<item>
-
-<title>O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/OATQDSVRMSMLDTS6.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3799.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3799.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Ficção científica, Fantasia, Comédia, Terror
-Lançamento: 2018
-
-Burt Gummer (Michael Gross) e seu filho Travis Welker (Jamie Kennedy) se veem cercados de Graboids e Ass-Blasters ao irem até o Canadá investigar uma série de ataques dos vermes malditos e descobrirem que as criaturas estão sendo utilizadas como armas biológicas em uma remota estação de pesquisa.</info>
- 
-<genre>Ação, Aventura, Ficção científica, Fantasia, Comédia, Terror</genre>
- 
-<date>03/11/2018</date>
-</item>"
-"<item>
-
-<title>O Ataque dos Zumbis Bávaros [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OATQDSZMBS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3800.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3800.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Terror
-Lançamento: 2016
-
-Um snowboarder e sua namorada ficam presos nos Alpes austríacos e precisam passar a noite em uma taverna, nas montanhas. Mas um experimento provocou uma epidemia zumbi e de animais mutantes na neve.</info>
- 
-<genre>Comédia, Terror</genre>
- 
-<date>01/12/2016</date>
-</item>"
-"<item>
-
-<title>O Bar [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OBAR.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3815.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3815.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller, Comédia
-Lançamento: 2017
-
-Em um café no centro de Madrid, pessoas tomam o seu café da manhã tranquilamente, como de costume. Mas, quando um dos clientes leva um tiro na cabeça ao colocar os pés fora da loja, o clima de tensão invade o local. Agora, eles estão presos, e temem sair do local e acabar terminando com o mesmo destino do homem. O problema é que a convivência com estranhos pode ser tão perigosa quanto sair dali.</info>
- 
-<genre>Terror, Thriller, Comédia</genre>
- 
-<date>15/02/2017</date>
-</item>"
-"<item>
-
-<title>O Bem-Aventurado [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/OBMAVNTRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3817.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3817.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Drama, Terror
-Lançamento: 2018
-
-Um padre de uma cidade de interior passa seus dias rezando missas e ouvindo as confissões dos poucos fiéis que sobraram. Um dia, um diabo é enviado à cidade para atormentar a paróquia, mas ele pede ajuda para o padre porque não quer mais fazer o mal.</info>
- 
-<genre>Animação, Drama, Terror</genre>
- 
-<date>30/10/2018</date>
-</item>"
-"<item>
-
-<title>O Caçador de Troll [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/OCACDRDTRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3830.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3830.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Terror
-Lançamento: 2011
-
-Na trama, um grupo de estudantes parte para o norte da Noruega com a missão de revelar uma conspiração do governo que tenta esconder do público da existência de trolls. O filme segue a linha de documentário, parecida com o filme Cloverfield onde tudo é gravado por uma câmera amadora.</info>
- 
-<genre>Fantasia, Terror</genre>
- 
-<date>28/11/2011</date>
-</item>"
-"<item>
-
-<title>O Canal [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OCANL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3838.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3838.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Mistério, Thriller
-Lançamento: 2014
-
-Um arquivista de cinema deprimido e estressado encontra sua sanidade em ruínas depois de receber um rolo de filme de 16 mm com imagens de um assassinato horrível que ocorreu no início dos anos 1900.</info>
- 
-<genre>Terror, Mistério, Thriller</genre>
- 
-<date>10/10/2014</date>
-</item>"
-"<item>
-
-<title>O Cão do Diabo [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/OCAODODIBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3840.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3840.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Cinema TV
-Lançamento: 1978
-
-Um cão que é servo do demônio aterroriza e possui os membros de uma família suburbana.</info>
- 
-<genre>Terror, Cinema TV</genre>
- 
-<date>31/10/1978</date>
-</item>"
-"<item>
-
-<title>O Cão dos Baskervilles [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/OCAODSBRSVLS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3841.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3841.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Mistério, Thriller, Terror
-Lançamento: 1959
-
-Peter Cushing é um perfeito Sherlock Holmes e André Morell um perfeito Dr Watson, neste clássico de mistério e terror, que conta também com a interpretação da lenda do horror Christopher Lee. Com envolventes interpretações e cinematografia assustadora, este excelente filme de grande qualidade, vai mantê-lo na expectativa - e ofegante - até à última imagem! Um mal demoníaco esconde-se num manto de névoa nos pântanos que povoam as lendas inglesas. Na forma de um cão infernal, ele alimenta-se da carne dos herdeiros do Palácio dos Baskervilles. Mas antes desta besta selvagem poder ferrar os dentes no novo dono da mansão, tem que colocar as suas malévolas mandíbulas no astuto intelecto do mais poderoso inimigo que alguma vez encontrou - o incomparável Sherlock Holmes.</info>
- 
-<genre>Mistério, Thriller, Terror</genre>
- 
-<date>03/07/1959</date>
-</item>"
- Terror
-Lançamento: 1933
-
-Em Nova York um famoso diretor de cinema não consegue uma atriz para sua próxima produção, pois ninguém quer ir filmar em um lugar não revelado. Assim ele mesmo começa a vagar pelas ruas até que encontra uma jovem pobre, mas muito bonita, a quem imediatamente dá o emprego. A equipe viaja e vai parar em uma ilha desconhecida, na qual os nativos oferecem ""noivas"" para Kong, um gigantesco macaco. Após muitos perigos a equipe de filmagens conseguem capturar o macaco, pois pretendem levá-lo para Nova York para ser exibido. Paralelamente o símio se apaixona pela atriz.</info>
- 
-<genre>Aventura, Drama, Terror</genre>
- 
-<date>07/04/1933</date>
-</item>"
-"<item>
-
-<title>Komodo vs. Cobra [COLOR yellow][IMDb 2,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/KMDOVSCBR.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/5/items/2916_20201020/2994.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2994.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Ficção científica, Cinema TV
-Lançamento: 2005
-
-Uma equipe de ambientalistas, incluindo uma repórter, seu camera man e a famosa namorada de um ambientalista, alugam um barco e, com o capitão, navegam para uma ilha militar. Eles suspeitam que a ilha esteja hospedando atividades ilegais. Ao chegar, porém, eles não encontram ninguém. Eles finalmente chegam a uma casa deserta, onde encontram a Dra. Susan Richardson, que lhes diz que todos na ilha estão mortos, incluindo seu pai. A equipe de Richardson estava trabalhando em um composto que poderia fazer as plantas comestíveis crescerem até o tamanho máximo, mas os militares intervieram com planos próprios. Eles queriam testar os efeitos do composto em animais e começaram a alimentar vários dragões e cobras de Komodo.</info>
- 
-<genre>Terror, Ficção científica, Cinema TV</genre>
- 
-<date>19/08/2005</date>
-</item>"
-"<item>
-
-<title>Krampus - O Terror do Natal [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/KRMPSOTRODNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/5/items/2916_20201020/2997.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2997.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Comédia, Fantasia
-Lançamento: 2015
-
-Uma família se prepara para as festas de Natal, mas o pequeno Max não está contente de ver seus familiares brigando o tempo inteiro. Irritado, ele acaba despertando uma força maligna chamada Krampus, que nada mais é do que a sombra do Papai Noel. Este monstro ataca principalmente pessoas que não acreditam no Natal, e coloca em risco Max e toda a sua família.</info>
- 
-<genre>Terror, Comédia, Fantasia</genre>
- 
-<date>03/12/2015</date>
-</item>"
-"<item>
-
-<title>Krampus o Acordo [COLOR yellow][IMDb 2,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/KRMPSOACRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/5/items/2916_20201020/2996.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/5/items/2916_20201020/2996.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror
-Lançamento: 2015
-
-Zoe (Amelia Haberman), considerada uma menina estranha, tem um amigo imaginário que não é nada comum. Krampus é o demônio que acompanha São Nicolau, figura que deu origem ao Papai Noel. Durante o Natal, ele solta sua ira sobre os moradores da pequena cidade em que Zoe mora.</info>
- 
-<genre>Terror</genre>
- 
-<date>03/11/2015</date>
-</item>"
-"<item>
-
-<title>Lâminas da Morte - A Maldição de Jack, o Estripador [COLOR yellow][IMDb 2,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LAMNSDMRTAMLDCDJCKOESTPDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3024.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3024.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Fantasia
-Lançamento: 2016
-
-Instigados por seu professor de roteiro, seis jovens escritores se reúnem em um armazém abandonado para decidir quem leva a melhor em uma macabra competição: escrever o melhor e mais assustador filme de terror da história do cinema. Ruth (Kelby Keenan) decide levar consigo as facas que um dia pertenceram à Jack, o Estripador para inspirar sua escrita. No entanto, quando o conjunto de facas desaparece, o terror deixa de ser mera ficção para os seis jovens.</info>
- 
-<genre>Terror, Fantasia</genre>
- 
-<date>06/10/2016</date>
-</item>"
-"<item>
-
-<title>Lavalantula [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LAVNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3035.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3035.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Ficção científica, Thriller
-Lançamento: 2015
-
-Tarântulas gigantes que respiram lava - Lavalantulas - emergem de antigos vulcões nas montanhas de Santa Monica, causando morte e destruição em Los Angeles. Com a Cidade dos Anjos à beira da incineração, apenas um ator de herói de ação desbotado dos anos 90 fica no caminho desse monstruoso enxame de criaturas sedentas de sangue que queimam suas vítimas vivas.</info>
- 
-<genre>Terror, Ficção científica, Thriller</genre>
- 
-<date>08/08/2015</date>
-</item>"
-"<item>
-
-<title>Lavalantula 2 [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LAVNTL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3036.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3036.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Ficção científica, Thriller
-Lançamento: 2017
-
-Steve Guttenberg repete seu papel como Colton West na sequencia de Lavalântula. Mais uma vez, gigantescas aranhas que vomitam lava estão soltas, desta vez na Flórida, onde a enteada de Colton esta passando suas férias escolares. Somente Colton e um grupo de companheiros, ex-co-estrelas da Academia de Polícia de Guttenberg (Michael Winslow e Marion Ramsey) podem detê-los. Mas será que eles serão capazes de derrotar a maior lavalântula de todas – a Gargantulântula?</info>
- 
-<genre>Terror, Ficção científica, Thriller</genre>
- 
-<date>11/07/2017</date>
-</item>"
-"<item>
-
-<title>Leatherface: O Início do Massacre [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LETHRFCOINCDMSCRE.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3042.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3042.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller, Mistério
-Lançamento: 2017
-
-Texas, 1965. Quatro jovens psicopatas escapam de um hospital psiquiátrico levando consigo uma enfermeira. Sendo perseguidos por um furioso policial em busca de vingança pela morte da filha, um deles está no caminho para ser um maníaco que usa máscaras de pele humana e mata suas vítimas com uma motosserra.</info>
- 
-<genre>Terror, Thriller, Mistério</genre>
- 
-<date>19/10/2017</date>
-</item>"
-"<item>
-
-<title>Legião [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LGAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3044.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3044.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Ação, Fantasia
-Lançamento: 2010
-
-Deus perdeu a fé na humanidade e enviou o anjo Michael (Paul Bettany), juntamente com uma legião de anjos, para dar início ao apocalipse. Entretanto, ao chegar Michael resolve se opor às ordens recebidas e proteger os humanos. O palco da batalha será no interior dos Estados Unidos, onde fica uma lanchonete gerenciada por Bob Hanson (Dennis Quaid) e seu filho Jeep (Lucas Black). Juntamente com Charlie (Adrianne Palicki), uma garçonete grávida, e Percy Walker (Charles S. Dutton), eles precisam encontrar um meio para sobreviver aos anjos que desejam exterminá-los a todo custo.</info>
- 
-<genre>Terror, Ação, Fantasia</genre>
- 
-<date>22/01/2010</date>
-</item>"
-"<item>
-
-<title>Lenda Urbana [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LNDURBNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3065.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3065.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller
-Lançamento: 1998
-
-Série de crimes inspirados em assassinatos do passado assolam uma localidade. Quando Natalie (Alicia Witt) investiga antigo crime, o assassinato de um aluno por professor psicopata, ela inadvertidamente entra na mira do maníaco homicida.</info>
- 
-<genre>Terror, Thriller</genre>
- 
-<date>27/11/1998</date>
-</item>"
-"<item>
-
-<title>Lenda Urbana 2 [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LNDURBNA2.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3066.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3066.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Mistério, Thriller
-Lançamento: 2001
-
-Um grupo de jovens estudantes de cinema estão prestes a se formar e estão ávidos por fazerem sucesso com suas idéias em Hollywood. Mas antes disso eles precisam concluir um filme, como projeto final da faculdade. Só que, no meio da produção, acidentes bizarros começam a acontecer, deixando a equipe cada vez menor e levantando a dúvida sobre quem estaria provocando tais acidentes.</info>
- 
-<genre>Terror, Mistério, Thriller</genre>
- 
-<date>26/01/2001</date>
-</item>"
-"<item>
-
-<title>Lenda Urbana 3 - A Vingança de Mary [COLOR yellow][IMDb 4,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LNDURBNA3.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3067.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3067.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller
-Lançamento: 2005
-
-Durante uma noite de celebração, três garotas invocam um espírito maligno. O que parecia ser apenas uma brincadeira entre colegiais transforma-se numa trágica sucessão de assassinatos, que precisam ser detidos a qualquer custo. Com o mal à solta, elas precisam evitar o pior e fazer de tudo para controlar essa vingança, nem que para tanto seja preciso colocar a própria vida em perigo. Essa produção é a segunda continuação da série Lenda Urbana, que faz sucesso entre o público adolescente apostando em sustos e numa boa dose de sangue.</info>
- 
-<genre>Terror, Thriller</genre>
- 
-<date>19/07/2005</date>
-</item>"
-"<item>
-
-<title>Limbo: Entre o Céu e o Inferno [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/LMBOENTROCEUEOINFNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3097.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3097.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Terror
-Lançamento: 2020
-
-Um assassino morre e é julgado no meio do inferno. No tribunal, ele tem pela frente um promotor amargo que o acusa e, em sua defesa, um advogado sem a menor experiência. O julgamento foge do controle quando o um demônio poderoso, Lúcifer e as vítimas do assassino se envolvem no processo.</info>
- 
-<genre>Comédia, Terror</genre>
- 
-<date>08/08/2020</date>
-</item>"
-"<item>
-
-<title>Little Nicky, Um Diabo Diferente [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/LTLENCKYUMDABODFRNTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3108.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3108.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Fantasia, Romance, Terror
-Lançamento: 2000
-
-Nicky (Adam Sandler) um jovem tímido e desajeitado, que gosta de heavy metal e vive sendo motivo de chacota por seus dois irmãos. Nicky seria um jovem normal, se não fosse por um único detalhe: ele filho do Diabo (Harvey Keitel) em pessoa. E exatamente por causa deste detalhe Nicky precisa agora encarar o maior desafio de sua vida: enfrentar seus dois irmãos, que pretendem tomar do pai o trono demoníaco e criar um novo inferno na terra. Mas para tanto Nicky terá que partir até Nova York, onde conhecerá seu grande amor (Patricia Arquette) e travará o duelo final com seus dois irmãos.</info>
- 
-<genre>Comédia, Fantasia, Romance, Terror</genre>
- 
-<date>10/11/2000</date>
-</item>"
-"<item>
-
-<title>Lobisomem: A Besta Entre Nós [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/LBSMEMABSTENTNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3113.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3113.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Terror, Thriller
-Lançamento: 2012
-
-Quando uma monstruosa criatura apavora um vilarejo nas noites de luar, o jovem Daniel convence um grupo de treinados caçadores de lobisomens a deixá-lo participar de sua captura. À medida que os moradores são atacados um a um e transformados em monstros vorazes, Daniel começa a recear que o monstro seja alguém mais próximo do que podia imaginar.</info>
- 
-<genre>Drama, Terror, Thriller</genre>
- 
-<date>09/10/2012</date>
-</item>"
-"<item>
-
-<title>Lobisomens do Terceiro Reich [COLOR yellow][IMDb 2,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LBSMNDTRCRORCH.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3114.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3114.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror
-Lançamento: 2018
-
-Na Alemanha, no auge da Segunda Guerra Mundial, um grupo de soldados americanos descobre o plano diabólico do doutor Mengele de criar um exército imparável de lobisomens nazistas.</info>
- 
-<genre>Terror</genre>
- 
-<date>05/02/2018</date>
-</item>"
-"<item>
-
-<title>Lobo [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/LBO1994.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3115.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3115.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Drama, Terror
-Lançamento: 1994
-
-Vindo de Vermont tarde da noite, o editor de livros Will Randall (Jack Nicholson) ao retornar para casa atropela um lobo. Quando sai do carro para ver se o animal morreu, acaba sendo mordido. Deste instante em diante começa a se transformar em um lobo. Paralelamente sua vida particular e profissional é afetada, pois é traído por sua mulher e está prestes em ser despedido. Além disto Laura Alden (Michelle Pfeiffer), a bela filha de Raymond Alden (Christopher Plummer), futuro comprador da editora; se apaixona por Randall, sem imaginar que o homem que ela ama está se transformando em uma fera capaz de atos animalescos.</info>
- 
-<genre>Fantasia, Drama, Terror</genre>
- 
-<date>17/06/1994</date>
-</item>"
-"<item>
-
-<title>Lobos [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/LOBOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3118.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3118.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Ação
-Lançamento: 2014
-
-Um jovem que se transforma em lobisomem é falsamente acusado de assassinar seus pais. Na fuga, ele chega a uma cidadezinha chamada Lupine Ridge, onde eventos sobrenaturais acontecem.</info>
- 
-<genre>Terror, Ação</genre>
- 
-<date>14/11/2014</date>
-</item>"
-"<item>
-
-<title>Luzes de Phoenix [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/LUZSDPNX.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3168.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3168.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Mistério, Ficção científica
-Lançamento: 2017
-
-Vinte anos depois de três adolescentes terem desaparecido na sequência de misteriosas luzes no Arizona, imagens nunca vistas antes daquela noite são descobertas, relatando as últimas horas daquela expedição fatídica.</info>
- 
-<genre>Terror, Mistério, Ficção científica</genre>
- 
-<date>21/04/2017</date>
-</item>"
-"<item>
-
-<title>Ma [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3169.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3169.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror
-Lançamento: 2019
-
-Maggie e seus amigos, todos menores de idade, estão tentando descolar bebidas alcóolicas em um super mercado quando conhecem Sue Ann (Octavia Spencer), uma mulher adulta que usa sua identidade para ajudá-los. Além de fornecer as bebidas, ela decide oferecer sua casa para que eles organizem uma festa com o pessoal do colégio. Os eventos acabam se tornando uma rotina do grupo, até que os jovens começam a identificar um comportamento estranho da dona da casa, que se torna cada vez mais controladora e obsessiva.</info>
- 
-<genre>Terror</genre>
- 
-<date>31/05/2019</date>
-</item>"
-"<item>
-
-<title>Madrugada dos Mortos [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MDRGDADSMRTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3186.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3186.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Terror
-Lançamento: 2004
-
-Após mais um dia de trabalho, tudo que Ana quer é tomar um banho ao lado do marido e dormir. Mas nas primeiras horas da manhã, ela é violentamente atacada por uma legião de mortos-vivos, e se descobre um pesadelo real: o mundo inteiro está tomado por zumbis. Em fuga desesperada, Ana se une a um pequeno grupo de sobreviventes, que se refugiam num shopping center enquanto o mundo lá fora se transforma literalmente no inferno.</info>
- 
-<genre>Ação, Terror</genre>
- 
-<date>23/04/2004</date>
-</item>"
-"<item>
-
-<title>Mãe e Pai [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MAEPAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3190.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3190.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Thriller, Terror, Comédia
-Lançamento: 2017
-
-Uma adolescente e seu irmãozinho devem sobreviver a 24 horas durante as quais uma histeria em massa de origens desconhecidas faz com que os pais se voltem violentamente para seus próprios filhos. A sinopse oficial ainda não foi divulgada.</info>
- 
-<genre>Thriller, Terror, Comédia</genre>
- 
-<date>09/09/2017</date>
-</item>"
-"<item>
-
-<title>mãe! [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MAE.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3192.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3192.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Terror, Mistério
-Lançamento: 2017
-
-Um casal vive em um imenso casarão no campo. Enquanto a jovem esposa passa os dias restaurando o lugar, afetado por um incêndio no passado, o marido mais velho tenta desesperadamente recuperar a inspiração para voltar a escrever os poemas que o tornaram famoso. Os dias pacíficos se transformam com a chegada de uma série de visitantes que se impõem à rotina do casal e escondem suas verdadeiras intenções.</info>
- 
-<genre>Drama, Terror, Mistério</genre>
- 
-<date>21/09/2017</date>
-</item>"
-"<item>
-
-<title>Maldição - Reze para não Vê-la [COLOR yellow][IMDb 4,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MALDCRZPRNVLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3202.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3202.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Mistério
-Lançamento: 2006
-
-Um grupo de seis garotas, de aproximadamente 15 anos, moram em um colégio interno, onde são aterrorizadas por uma freira. Um dia a freira descobre que uma das meninas está grávida. Chocada, a religiosa tenta “purificar” a jovem torturando-a., fato que é presenciado por suas amigas que, consumidas pelo medo, resolvem partir para cima da freira para livrar a amiga da dor. Dezessete anos depois, cada uma das jovens segue seu próprio caminho longe do colégio e distanciadas umas das outras por conta desse terrível desfecho no passado, que parece voltar depois de tanto tempo.</info>
- 
-<genre>Terror, Mistério</genre>
- 
-<date>25/04/2006</date>
-</item>"
-"<item>
-
-<title>Malditas Aranhas! [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MLDTSARANHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3203.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3203.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Comédia, Terror, Thriller
-Lançamento: 2002
-
-Após um acidente tóxico ter ocorrido próximo de uma pequena cidade do interior dos Estados Unidos, várias aranhas venenosas são expostas à radiação e crescem em proporções monstruosas, ameaçando toda a população local.</info>
- 
-<genre>Ação, Comédia, Terror, Thriller</genre>
- 
-<date>13/09/2002</date>
-</item>"
-"<item>
-
-<title>Maligno [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/MLGNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3208.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3208.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller
-Lançamento: 2019
-
-A repentina mudança no comportamento do jovem Miles (Jackson Robert Scott), faz Sarah (Taylor Schilling) suspeitar que algo maligno está agindo sobre seu filho e controlando suas ações. Com um crescente terror tomando conta de sua família, ela se vê entre o medo e a razão à medida em que tenta descobrir o que há de errado com ele.</info>
- 
-<genre>Terror, Thriller</genre>
- 
-<date>28/06/2019</date>
-</item>"
-"<item>
-
-<title>Mandy - Sede de Vingança [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MNDY.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3219.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3219.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Thriller, Terror, Fantasia, Mistério
-Lançamento: 2018
-
-Em algum lugar no deserto primitivo perto das Montanhas das Sombras, no ano de 1983, Red Miller (Nicolas Cage) e sua esposa Mandy (Andrea Riseborough) vivem uma vida tranquila. Depois que uma seita religiosa invade o local e mata o amor de sua vida, Red vive apenas por uma coisa: caçar esses maníacos e exigir vingança.</info>
- 
-<genre>Ação, Thriller, Terror, Fantasia, Mistério</genre>
- 
-<date>13/09/2018</date>
-</item>"
-"<item>
-
-<title>Máquina da Vingança [COLOR yellow][IMDb 4,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MQNDVNGNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3224.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3224.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Terror, Thriller, Ficção científica
-Lançamento: 2019
-
-Em um futuro distópico, o promotor público Caddock é brutalmente assassinado por um grupo de criminosos. Ao ser arremessado de um prédio e morrer em cima do próprio carro, o espírito de Caddock reencarna no veículo e deseja vingança.</info>
- 
-<genre>Ação, Terror, Thriller, Ficção científica</genre>
- 
-<date>08/01/2019</date>
-</item>"
-"<item>
-
-<title>Mar Aberto [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MRABRTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3232.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3232.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller, Terror
-Lançamento: 2004
-
-Daniel e Susan embarcam para suas férias tropicais com suas certificações de mergulho em mãos. Durante um mergulho em grupo, os dois se separam dos outros para mergulharem um pouco mais profundamente. Uma contagem incorreta das pessoas sugere que todo o grupo voltou e o barco vai embora. Quando o par emerge, eles veem o barco ao longe, mas não acham que tenham sido deixados para trás e com tubarões à espreita, suas chances de sobrevivência se tornam menores.</info>
- 
-<genre>Drama, Thriller, Terror</genre>
- 
-<date>20/08/2004</date>
-</item>"
-"<item>
-
-<title>Mara: o Demônio do Sono [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MARAODEMODSNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3234.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3234.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Crime, Terror, Thriller
-Lançamento: 2018
-
-A psicóloga criminosa Kate Fuller é designada para o assassinato de um homem que aparentemente foi estrangulado durante o sono por sua esposa e a única testemunha é sua filha de oito anos, Sophie. Enquanto Kate mergulha no mistério de um antigo demônio que mata as pessoas durante o sono, ela experimenta os mesmos sintomas petrificantes de todas as vítimas e espirais anteriores, através de um arrepiante pesadelo para salvar a si mesma e a Sophie antes que ela adormeça novamente.</info>
- 
-<genre>Crime, Terror, Thriller</genre>
- 
-<date>07/09/2018</date>
-</item>"
-"<item>
-
-<title>Maré de Sangue [COLOR yellow][IMDb 3,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MREDSNGE.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/5745.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5745.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller
-Lançamento: 2011
-
-Cinco amigos viajam para uma ilha paradisíaca, mas a diversão acaba quando um deles aparece morto. Para piorar a situação, o único barco do lugar desaparece. E, presos ali, eles se tornam alvos fáceis para um misterioso assassino em busca de vingança. Juntos, eles precisam encontrar, rapidamente, quem está por trás das mortes ou será tarde demais para sair de lá com vida.</info>
- 
-<genre>Terror, Thriller</genre>
- 
-<date>25/12/2011</date>
-</item>"
-"<item>
-
-<title>Maria e João - O Conto das Bruxas [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MRAEJAOOCNTDSBRXS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3241.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3241.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Fantasia, Thriller
-Lançamento: 2020
-
-Há muito tempo, em um campo distante, Maria (Sophia Lillis) leva seu irmãozinho João (Sammy Leakey) a um bosque escuro, em uma busca desesperada por comida e trabalho. Quando eles encontram Holda (Alice Krige), uma misteriosa mulher que reside na floresta, os dois irmãos descobrem que nem todo conto de fadas termina bem.</info>
- 
-<genre>Terror, Fantasia, Thriller</genre>
- 
-<date>20/02/2020</date>
-</item>"
-"<item>
-
-<title>Matadores de Vampiras Lésbicas [COLOR yellow][IMDb 5,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MTDRSDVMPRSLSBCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3263.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3263.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Comédia
-Lançamento: 2009
-
-Com suas mulheres tendo sido escravizadas por um bando de vampiras lésbicas, os homens restantes de uma cidade rural mandam dois rapazes desafortunados para as charnecas como um sacrifício.</info>
- 
-<genre>Terror, Comédia</genre>
- 
-<date>16/03/2009</date>
-</item>"
-"<item>
-
-<title>Mau-Olhado [COLOR yellow][IMDb 4,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MAUOLHDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3718.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3718.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Mistério, Thriller, Terror
-Lançamento: 2020
-
-Baseado na premiada história em áudio de Madhuri Shekar, Evil Eye conta a história de uma mulher que está convicta que o namorado de sua filha tem uma conexão sombria e macabra com um homem que tentou matá-la há 30 anos.</info>
- 
-<genre>Mistério, Thriller, Terror</genre>
- 
-<date>13/10/2020</date>
-</item>"
-"<item>
-
-<title>Mayhem: Senhores Do Caos [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MYHMSNHRSDCOS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801400.us.archive.org/1/items/3098_20201117/3290.jpg</image>
-<thumbnail>https://ia801400.us.archive.org/1/items/3098_20201117/3290.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Música, Terror
-Lançamento: 2019
-
-Na Noruega do fim dos anos 1980, surgia a primeira banda de black metal do país: Mayhem. Em Oslo, o fundador Euronymous (Rory Culkin), de apenas 17 anos, planejava ações violentas para divulgar seu trabalho. Quando se junta a Varg Vikernes (Emory Cohen), a situação fica caótica e culmina numa tragédia irreversível. Inspirado em uma história real.</info>
- 
-<genre>Drama, Música, Terror</genre>
- 
-<date>08/02/2019</date>
-</item>"
-"<item>
-
-<title>Medo Profundo [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MDOPRFND.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3301.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3301.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller, Terror, Aventura
-Lançamento: 2018
-
-De férias no México, duas irmãs estão prestes a passar pelos momentos de maior tensão em sua vida: presas em uma gaiola de tubarões a 47 metros de profundidade no oceano, eles terão que lutar contra o tempo para permanecerem vivas. Mas com apenas uma hora de oxigênio e com tubarões brancos rondando o local, as chances se tornam cada vez menores.</info>
- 
-<genre>Drama, Thriller, Terror, Aventura</genre>
- 
-<date>08/03/2018</date>
-</item>"
-"<item>
-
-<title>Medo Profundo - O Segundo Ataque [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MDOPRFNDOSGNDOATO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3302.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3302.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror
-Lançamento: 2019
-
-Um grupo de cinco amigas aventureiras viaja até Recife, região nordeste do Brasil, para conhecer as ruínas de uma cidade subaquática, no litoral da cidade. No entanto, durante o passeio pelo fundo do mar, elas descobrem que não estão sozinhas e os verdadeiros ""moradores"" do local não estão muito satisfeitos com as visitas.</info>
- 
-<genre>Terror</genre>
- 
-<date>20/11/2019</date>
-</item>"
-"<item>
-
-<title>Mega Piranha [COLOR yellow][IMDb 2,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MGAPRNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3304.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3304.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Terror, Ficção científica
-Lançamento: 2010
-
-No Rio Amazonas, um grupo encontra a Megapiranha, uma espécie pré-histórica, que supostamente morreu há milhões de anos e ainda vive isolada num afluente do rio. Mas através da interferência humana no ambiente local, as megapiranhas conseguem escapar de seu local isolado, matando todos que cruzam seu caminho, indo em direção da Flórida, no auge da temporada turística</info>
- 
-<genre>Ação, Aventura, Terror, Ficção científica</genre>
- 
-<date>10/04/2010</date>
-</item>"
-"<item>
-
-<title>Mega Shark vs Giant Octopus: Monstros Marinhos [COLOR yellow][IMDb 2,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MGASRKVSGNTOCTPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3305.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3305.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Ficção científica
-Lançamento: 2009
-
-A costa da Califórnia é aterrorizada por duas enormes criaturas pré-históricas do mar que lutam entre si pela supremacia do mar.</info>
- 
-<genre>Terror, Ficção científica</genre>
- 
-<date>19/05/2009</date>
-</item>"
-"<item>
-
-<title>Mega Shark vs. Crocosaurus [COLOR yellow][IMDb 2,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MGASRKVSCRCSURS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3306.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3306.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Terror, Ficção científica
-Lançamento: 2010
-
-When the prehistoric warm-water beast the Crocosaurus crosses paths with that cold-water monster the Mega Shark, all hell breaks loose in the oceans as the world's top scientists explore every option to halt the aquatic frenzy. Swallowing everything in their paths -- including a submarine or two -- Croc and Mega lead an explorer and an oceanographer on a wild chase. Eventually, the desperate men turn to a volcano for aid.</info>
- 
-<genre>Ação, Terror, Ficção científica</genre>
- 
-<date>21/12/2010</date>
-</item>"
-"<item>
-
-<title>Megatubarão [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MEGTBRAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3311.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3311.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Ficção científica, Terror
-Lançamento: 2018
-
-Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, um oceanógrafo chinês contrata Jonas Taylor, um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
- 
-<genre>Ação, Ficção científica, Terror</genre>
- 
-<date>09/08/2018</date>
-</item>"
-"<item>
-
-<title>Melanie: A Última Esperança [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MLANAULTMESPRC.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3314.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3314.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Terror, Thriller, Ficção científica
-Lançamento: 2016
-
-Em um futuro próximo, algumas crianças são mantidas como reféns por um cientista em busca da cura para uma doença que infestou todo o planeta. Melanie, uma garotinha com dons muito especiais, chama a atenção de Helen Justineau e da Dr. Caroline Caldwell, que decidem embarcar em uma jornada com a menina.</info>
- 
-<genre>Drama, Terror, Thriller, Ficção científica</genre>
- 
-<date>23/09/2016</date>
-</item>"
-"<item>
-
-<title>Mentes Malignas [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MNTSMLGNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3328.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3328.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror
-Lançamento: 2018
-
-Um filme antológico na forma de longa-metragem de horror. Estes segmentos assustadores são recheados de personagens conhecidos como mitos, tradições e contos populares. Criadas para dar lógica aos medos mais sombrios da humanidade, essas histórias lançaram as bases para o que hoje conhecemos como gênero de terror.</info>
- 
-<genre>Terror</genre>
- 
-<date>11/10/2018</date>
-</item>"
-"<item>
-
-<title>Mentira Incondicional [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MNTRINCDNL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3715.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3715.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Terror, Mistério, Thriller
-Lançamento: 2020
-
-Quando uma adolescente confessa ter matado impulsivamente sua melhor amiga, seus pais desesperados encobrem o crime terrível com uma rede de mentiras.</info>
- 
-<genre>Drama, Terror, Mistério, Thriller</genre>
- 
-<date>06/10/2020</date>
-</item>"
-"<item>
-
-<title>Meu Amigo Vampiro [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MEUAMGVAMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3339.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3339.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Comédia, Animação, Família, Fantasia, Aventura, Ficção científica
-Lançamento: 2017
-
-Entendiado em seu 13º aniversário pelo 300º ano, o vampiro Rudolph decidiu iniciar uma ousada aventura: vai para o mundo real dos humanos buscar por novidades. Lá, onde apenas pessoas vivas têm espaço, ele vai começar uma amizade improvável com Tony, um adolescente de 12 anos apaixonado por lendas vampirescas. Mas o que ele não imagina é que Roque, um caçador, pretender capturá-lo a qualquer custo.</info>
- 
-<genre>Terror, Comédia, Animação, Família, Fantasia, Aventura, Ficção científica</genre>
- 
-<date>04/10/2017</date>
-</item>"
-"<item>
-
-<title>Meu Bebê é o Diabo! [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MEUBBEODBO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3342.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3342.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Terror
-Lançamento: 2013
-
-Um casal feliz, prestes a ter seu primeiro bebê, decide comprar uma grande casa abandonada na Nova Orleans. O lugar é conhecido na região como uma mansão mal-assombrada, mas eles não acreditam nessas histórias e acreditam que podem ter um bom investimento em mãos se fizerem uma boa reforma. Pouco tempo depois da mudança, eles começam a suspeitar que fantasmas estão presentes no local, e que a esposa grávida teria sido possuída por um demônio. Com medo de ter um filho marcado por forças do mal, o marido chama a elite de exorcistas do Vaticano para salvá-los.</info>
- 
-<genre>Comédia, Terror</genre>
- 
-<date>06/09/2013</date>
-</item>"
-"<item>
-
-<title>Meu Namorado é um Zumbi [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MENMRDOEUMZMB.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3354.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3354.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Comédia, Romance
-Lançamento: 2013
-
-Em um mundo pós-apocalíptico, um zumbi romântico se apaixona por uma humana, e o envolvimento deles cria uma reação em cadeia. Ele quer provar que os zumbis podem mudar, mas o cenário indica uma batalha entre os vivos e os mortos-vivos.</info>
- 
-<genre>Terror, Comédia, Romance</genre>
- 
-<date>08/02/2013</date>
-</item>"
-"<item>
-
-<title>Meus Vizinhos São um Terror [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MEUSVZNHSAOUMTROR.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3371.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3371.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Terror, Thriller
-Lançamento: 1989
-
-Quando os Klopek, uma inusitada família se muda para a casa ao lado da de Ray Peterson (Tom Hanks) várias situações estranhas começam a surgir e moradores a desaparecer. Restará a Ray e ao resto da população local, descobrir quem são essas pessoas e seus envolvimentos nos atuais acontecimentos.</info>
- 
-<genre>Comédia, Terror, Thriller</genre>
- 
-<date>26/10/1989</date>
-</item>"
-"<item>
-
-<title>Midsommar: O Mal Não Espera a Noite [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MDSMROMALNESPRANTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3380.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3380.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Drama, Mistério
-Lançamento: 2019
-
-Dani e Christian formam um jovem casal americano com um relacionamento prestes a desmoronar. Mas depois que uma tragédia familiar os mantém juntos, Dani, que está de luto, convida-se para se juntar a Christian e seus amigos em uma viagem para um festival de verão único em uma remota vila sueca. O que começa como férias despreocupadas de verão em uma terra de luz eterna toma um rumo sinistro quando os moradores do vilarejo convidam o grupo a participar de festividades que tornam o paraíso pastoral cada vez mais preocupante e visceralmente perturbador.</info>
- 
-<genre>Terror, Drama, Mistério</genre>
- 
-<date>19/09/2019</date>
-</item>"
-"<item>
-
-<title>Mimic: Não Confie nas Vozes [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MMCNCNFNASVZS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3392.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3392.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller
-Lançamento: 2017
-
-Hee-yeon é uma mulher cujo filho está desaparecido. Um dia, ela encontra uma menina perto do Monte Jang, uma misteriosa montanha onde há uma criatura perigosa que imita as vozes das pessoas para capturá-las, segunda a lenda.</info>
- 
-<genre>Terror, Thriller</genre>
- 
-<date>17/08/2017</date>
-</item>"
-"<item>
-
-<title>Minha Namorada é uma Vampira [COLOR yellow][IMDb 4,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MNHNMRDEVMP.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3399.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3399.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Thriller, Cinema TV, Terror
-Lançamento: 2018
-
-Quando a jovem Leah (Leila George) traz para casa seu novo interesse amoroso da faculdade para conhecer sua mãe, elas estão prestes a aprender que existem coisas mais perigosas do que dormir com um psicopata. Remake do clássico cult de 1996.</info>
- 
-<genre>Thriller, Cinema TV, Terror</genre>
- 
-<date>01/01/2018</date>
-</item>"
-"<item>
-
-<title>Minotauro [COLOR yellow][IMDb 3,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/MNTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3410.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3410.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Aventura, Fantasia
-Lançamento: 2006
-
-Na antiga Era do Bronze, aproximadamente 1400 AC, Theo, um jovem pastor, tem a missão de libertar seu povo e resgatar seu amor perdido. Através de incontáveis e sangrentas batalhas, ele viaja até uma ilha sombria e sinistra. Lá, o tirânico senhor Deucalion o desafia a entrar no Labirinto para resgatar seu grande amor. Ele não apenas terá de sobreviver a essa tarefa impossível, mas deverá matar o monstruoso Minotauro que tem amaldiçoado seu povo há anos.</info>
- 
-<genr
