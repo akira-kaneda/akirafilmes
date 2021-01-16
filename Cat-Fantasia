@@ -3238,6 +3238,25 @@ Coringa e Pinguim fogem do Asilo Arkham e vão atrás de um dinheiro escondido e
 </item>"
 "<item>
 
+<title>Batman: Alma do Dragão [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BTMNAALMDRGO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6620.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6620.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Ação, Aventura, Crime, Fantasia, Baseado em Quadrinho
+Lançamento: 2021
+
+Na década de 1970, Bruce Wayne enfrenta uma ameaça mortal de seu passado com a ajuda de três ex-colegas das artes marciais: Richard Dragon, Ben Turner e Lady Shiva.</info>
+ 
+<genre>Animação, Ação, Aventura, Crime, Fantasia, Baseado em Quadrinho</genre>
+ 
+<date>14/01/2021</date>
+</item>"
+"<item>
+
 <title>Batman: O Mistério da Mulher Morcego [COLOR yellow][IMDb 6,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/BATMOMSTRDMLHRMRCG.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4337,6 +4356,25 @@ Desde Branca de Neve e os Sete Anões até O Mágico de Oz, muitos dos contos cl
 <genre>Aventura, Fantasia, Terror, Família</genre>
  
 <date>24/08/1990</date>
+</item>"
+"<item>
+
+<title>Convenção das Bruxas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNVCAODSBRXS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Aventura, Comédia, Terror
+Lançamento: 2020
+
+O remake de Convenção das Bruxas, clássico de fantasia dos anos 1990, acompanha um garoto de sete anos que se depara com uma conferência de bruxas em um hotel. Lá, ele acaba descobrindo que um grupo de bruxas está fazendo uma convenção, pretendendo transformar todas as crianças do mundo em ratos.</info>
+ 
+<genre>Fantasia, Família, Aventura, Comédia, Terror</genre>
+ 
+<date>19/11/2020</date>
 </item>"
 "<item>
 
@@ -7646,6 +7684,25 @@ Uma jovem (Robin Tunney) se muda de São Francisco para Los Angeles para começa
 </item>"
 "<item>
 
+<title>Jovens Bruxas: Nova Irmandade [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JVNSBRXSNVAIRMDAD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6595.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6595.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Fantasia
+Lançamento: 2020
+
+Na sequência do sucesso cult 'Jovens Bruxas', um grupo eclético de quatro adolescentes aspirantes a bruxas consegue mais do que esperava ao mergulhar em poderes recém-descobertos.</info>
+ 
+<genre>Terror, Drama, Fantasia</genre>
+ 
+<date>28/10/2020</date>
+</item>"
+"<item>
+
 <title>Jumanji [COLOR yellow][IMDb 7,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/JUMNJ.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9148,6 +9205,25 @@ Veja a origem lendária de um dos renomados membros da Liga da Justiça, Mulher 
 </item>"
 "<item>
 
+<title>Mulher-Maravilha 1984 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MLHRMRVLHA1984.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6583.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6583.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2020
+
+Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.</info>
+ 
+<genre>Fantasia, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>17/12/2020</date>
+</item>"
+"<item>
+
 <title>Mundo Proibido [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/MNDPRBDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9734,6 +9810,25 @@ Jupiter Jones é a descendente de uma linhagem que a coloca como a próxima ocup
 <genre>Ficção científica, Fantasia, Ação, Aventura</genre>
  
 <date>05/02/2015</date>
+</item>"
+"<item>
+
+<title>O Dom da Serpente [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ODMDSRPNTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6590.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6590.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 2019
+
+Dina, uma jovem que herdou a habilidade sobrenatural de ver os pecados e as fraquezas das outras pessoas olhando nos olhos precisa salvar sua família. Com a ajuda do pai, que ela não conhecia, Dina terá que escolher entre o seu próprio dom e a magia negra.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>14/11/2019</date>
 </item>"
 "<item>
 
@@ -11867,6 +11962,25 @@ Um Yeti, criatura conhecida como o Abominável Homem das Neves, está indo na co
 </item>"
 "<item>
 
+<title>Pequenos Grandes Heróis [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PQNSGRNDSHRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6586.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6586.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Fantasia, Família
+Lançamento: 2020
+
+Após seus pais serem sequestrados por invasores aliens, os filhos dos super-heróis da Terra precisam se reunir e aprender a trabalhar juntos para salvar não apenas os pais, mas o planeta.</info>
+ 
+<genre>Ação, Fantasia, Família</genre>
+ 
+<date>25/12/2020</date>
+</item>"
+"<item>
+
 <title>Pequenos Guerreiros [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/PQNSGUROS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -13653,6 +13767,25 @@ Ashley Albright (Lindsay Lohan) é uma socialite de Manhattan, que é também a 
 </item>"
 "<item>
 
+<title>Soul: Uma Aventura com Alma [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SOLUMAVTRCMALM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Drama, Música, Fantasia
+Lançamento: 2020
+
+Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.</info>
+ 
+<genre>Animação, Comédia, Drama, Música, Fantasia</genre>
+ 
+<date>25/12/2020</date>
+</item>"
+"<item>
+
 <title>Spawn: O Soldado do Inferno [COLOR yellow][IMDb 5,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/SPWMPSLDINFN.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -14547,6 +14680,25 @@ Os UglyDolls Moxy, Wage, Babo, Ice-Bat e Wedgehead rumam ao Instituto da Perfei�
 </item>"
 "<item>
 
+<title>Ulysses [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ULYSES.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6611.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6611.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 1955
+
+Adaptação para o cinema do segundo épico de Homero, que fala sobre os esforços de Ulisses para voltar para sua casa após o fim de dez anos de guerra.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>01/10/1955</date>
+</item>"
+"<item>
+
 <title>Um Conto Americano 4: O Mistério do Monstro da Noite [COLOR yellow][IMDb 6,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/UMCNTAMRCNO4OMSTRDMNSTRDNTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -14962,6 +15114,25 @@ O segurança Larry Daley (Ben Stiller) segue com seu inusitado trabalho no Museu
 <genre>Aventura, Comédia, Fantasia, Família</genre>
  
 <date>17/12/2014</date>
+</item>"
+"<item>
+
+<title>Uma Sereia em Paris [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMSRIAEMPRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6618.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6618.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Fantasia, Drama
+Lançamento: 2020
+
+Gaspard, um cantor melódico de coração partido, jura que nunca mais se apaixonará. Mas uma noite, ao voltar para casa, ele ouve o som da voz de uma bela sereia ferida a quem tentará salvar.</info>
+ 
+<genre>Romance, Fantasia, Drama</genre>
+ 
+<date>11/03/2020</date>
 </item>"
 "<item>
 
@@ -15571,939 +15742,3 @@ O Zumbilênio é um parque de diversões como nenhum outro: Somente legítimos l
  
 <date>31/12/2018</date>
 </item>"
-MDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MEUMNSTRDESTMCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3353.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3353.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Família, Fantasia
-Lançamento: 2007
-
-Angus MacMorrow (Alex Etel) é um solitário garoto escocês que sonha com o retorno de seu pai para casa. Um dia ele encontra na praia um objeto misterioso, o qual leva para casa. Logo ele descobre que se trata de um ovo do lendário monstro do lago Loch Ness. Ao nascer Angus lhe dá o nome de Crusoé, tentando de todas as formas escondê-lo.</info>
- 
-<genre>Aventura, Família, Fantasia</genre>
- 
-<date>25/12/2007</date>
-</item>"
-"<item>
-
-<title>Meu Papai é Noel [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MEUPAPENOEL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3361.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3361.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Drama, Comédia, Família
-Lançamento: 1994
-
-Papai Noel sofre um acidente no telhado da casa de Allen, um bem-sucedido vendedor de brinquedos (Tim Allen). Como não pode continuar seu trabalho, Noel pede para que o vendedor entregue os presentes para as crianças naquela data e explica como fazê-lo. Ele começa a ajudar, mas percebe que está engordando e sua barba crescendo. E com o tempo, Allen transforma-se no próprio Papai Noel.</info>
- 
-<genre>Fantasia, Drama, Comédia, Família</genre>
- 
-<date>11/11/1994</date>
-</item>"
-"<item>
-
-<title>Meu Papai é Noel 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MEUPAPENOEL2.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3362.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3362.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Comédia, Família
-Lançamento: 2002
-
-Após 8 anos ocupando o posto de Papai Noel, Scott Calvin (Tim Allen) é considerado a pessoa mais indicada para o cargo. Entretanto, Scott enfrenta problemas. Além de estar perdendo peso inexplicavelmente, seu filho Charlie (Eric Lloyd) entrou neste ano para a lista dos meninos maus, que não receberão presente no próximo Natal. Preocupado, Scott decide voltar para casa para saber o que está acontecendo com Charlie, deixando em seu lugar um substituto. Porém, logo após a viagem de Scott o Papai Noel temporário começa a tomar medidas arbitrárias, que modificam com as definições de bom e mau para os garotos e pode acabar estragando o próprio Natal.</info>
- 
-<genre>Fantasia, Comédia, Família</genre>
- 
-<date>01/11/2002</date>
-</item>"
-"<item>
-
-<title>Minotauro [COLOR yellow][IMDb 3,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/MNTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3410.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3410.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Aventura, Fantasia
-Lançamento: 2006
-
-Na antiga Era do Bronze, aproximadamente 1400 AC, Theo, um jovem pastor, tem a missão de libertar seu povo e resgatar seu amor perdido. Através de incontáveis e sangrentas batalhas, ele viaja até uma ilha sombria e sinistra. Lá, o tirânico senhor Deucalion o desafia a entrar no Labirinto para resgatar seu grande amor. Ele não apenas terá de sobreviver a essa tarefa impossível, mas deverá matar o monstruoso Minotauro que tem amaldiçoado seu povo há anos.</info>
- 
-<genre>Terror, Aventura, Fantasia</genre>
- 
-<date>11/03/2006</date>
-</item>"
-"<item>
-
-<title>Missão Cegonha [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MSOCGNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3417.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3417.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família, Fantasia, Aventura, Animação, Comédia
-Lançamento: 2017
-
-Mesmo que todos digam o contrário (e até mesmo sua aparência afirme), o pardal Richard está convicto de que ele é, de fato, uma cegonha. Para mostrar a todos que está certo, ele toma uma atitude ousada: decide partir em uma longa jornada de inverno para a África, para completar um rito de passagem e enfim se tornar uma cegonha de respeito.</info>
- 
-<genre>Família, Fantasia, Aventura, Animação, Comédia</genre>
- 
-<date>26/10/2017</date>
-</item>"
-"<item>
-
-<title>Missão Dragão - Sua História [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/DRGNQSTYRSTRY.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601402.us.archive.org/7/items/1883_20201001/2041.jpg</image>
-<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/2041.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Aventura, Comédia, Fantasia, Ação, Família
-Lançamento: 2019
-
-Luca segue os passos do pai para resgatar a mãe do maligno Ladja. Sua única esperança é encontrar o herói que carrega a espada zenitiana.</info>
- 
-<genre>Animação, Aventura, Comédia, Fantasia, Ação, Família</genre>
- 
-<date>02/08/2019</date>
-</item>"
-"<item>
-
-<title>Misterio de Anubis: A Pedra de Rá  [COLOR yellow][IMDb 9,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MSTRDANBSAPDRDRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3432.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3432.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Fantasia, Família, Mistério
-Lançamento: 2013
-
-Os alunos da Casa Anúbis estão na véspera da formatura quando encontram um novo grupo de alunos do último ano e uma pedra misteriosa que os leva em uma missão para salvar o mundo do mal.</info>
- 
-<genre>Drama, Fantasia, Família, Mistério</genre>
- 
-<date>17/06/2013</date>
-</item>"
-"<item>
-
-<title>Modest Heroes [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MDSTHROS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3441.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3441.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Fantasia, Aventura, Drama
-Lançamento: 2018
-
-Uma antologia de três curtas originais escrita e dirigida por Hiromasa Yonebayashi, Yoshiyuki Momose e Akihiko Yamashita.</info>
- 
-<genre>Animação, Fantasia, Aventura, Drama</genre>
- 
-<date>24/08/2018</date>
-</item>"
-"<item>
-
-<title>Mogli - O Menino Lobo [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MGLOMENLB.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3444.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3444.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Drama, Família, Fantasia
-Lançamento: 2016
-
-Mogli é um menino criado por uma família de lobos. Mas Mogli sente que não é mais bem-vindo na floresta quando o temido tigre Shere Khan, que carrega cicatrizes causadas por caçadores, promete eliminar o que ele considera uma ameaça. Forçado a abandonar o único lar que conhece, Mogli embarca em uma cativante jornada de autoconhecimento, guiado pela pantera e mentora Bagheera e pelo alegre urso Baloo. Pelo caminho, Mogli encontra criaturas da selva que não são exatamente bondosas, incluindo Kaa, uma cobra cuja voz sedutora e olhar penetrante hipnotizam o menino-lobo, e Rei Loiue, o nobre de fala mansa que tenta convencer Mogli a contar o segredo da ilusória flor vermelha mortal: o fogo.</info>
- 
-<genre>Aventura, Drama, Família, Fantasia</genre>
- 
-<date>14/04/2016</date>
-</item>"
-"<item>
-
-<title>Mojin - A Lenda Perdida [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MJNALNDPRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3446.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3446.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Fantasia
-Lançamento: 2015
-
-Em 1988, três lendários ladrões de túmulos, os Mojin, se aposentam e mudam para Nova York. Hu Bayi (Kun Chen) e Shirley Yang (Shu Qi) acabam se envolvendo romanticamente, enquenato Wang Kaixuan (Bo Huang) pensa que o grande Mojin merece mais do que os problemas financeiros que eles enfrentam nos Estados Unidos. O trio volta à ativa no interior da Mongólia, China, quando recebem a missão de encontrar o túmulo de uma antiga princesa do local.</info>
- 
-<genre>Ação, Aventura, Fantasia</genre>
- 
-<date>28/12/2015</date>
-</item>"
-"<item>
-
-<title>Monster High: Monstros, Câmera, Ação! [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MNSTRHGBEMVNDMNSTRHG.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3453.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3453.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família, Animação, Fantasia
-Lançamento: 2014
-
-Quando é levada a acreditar que é a herdeira do trono vampiro, Draculaura e suas melhores amigas viajam para a Transilvânia para uma coroação real de arrasar. Mas logo elas descobrem que a caçada pela rainha ainda não acabou. Para descobrir a identidade da verdadeira Rainha Vampira as monstrinhas embarcam em uma viagem repleta de aventura que as levará da nebulosa Londoom aos pântanos de Nova Goreleans e finalmente aos glamorosos estúdios de Hauntlywood. Será esse o momento em que Draculaura finalmente recebe seus poderes vampiros e descobre que os seus sonhos podem mesmo se tornar reais?</info>
- 
-<genre>Família, Animação, Fantasia</genre>
- 
-<date>25/03/2014</date>
-</item>"
-"<item>
-
-<title>Monty Python em Busca do Cálice Sagrado [COLOR yellow][IMDb 8,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MNTYPTHEMBSCDCLCESGDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Comédia, Fantasia
-Lançamento: 1975
-
-O Rei Artur sai à procura de cavaleiros que o acompanhe em uma atabalhoada jornada histórica: a busca do Santo Graal. Aparecem então Sir Lancelot, o Bravo; Sir Robin, o Não-Tão-Bravo-Quanto-Sir-Lancelot; Sir Galahad, o Puro, entre outros personagens surreais. Escrita pelo genial grupo de comédia britânico Monty Python, a trama do longa satiriza diversos eventos históricos ocorridos na Idade Média.</info>
- 
-<genre>Aventura, Comédia, Fantasia</genre>
- 
-<date>13/08/1975</date>
-</item>"
-"<item>
-
-<title>Moonwalker [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MCHLJCKSMNWLKR.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3377.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3377.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Música
-Lançamento: 1988
-
-O filme começa com o vídeo de ""Man in the Mirror"" e depois parte para uma edição de videoclipes da careira de Michael. Depois vem uma paródia de ""Bad"" interpretada por crianças e então em uma seqüência Michael é perseguido por fãs. Então mais dois vídeos são mostrados e o filme mostra Michael como um herói com mágicos poderes, que é perseguido por Mr. Big (Joe Pesci), um traficante de drogas, mas mesmo assim Michael salva três crianças. Entre os vídeos estão ""Smooth Criminal"" e ""Come Together"".</info>
- 
-<genre>Fantasia, Música</genre>
- 
-<date>29/10/1988</date>
-</item>"
-"<item>
-
-<title>Mortal Kombat [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MRTLKMBTOLFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3474.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3474.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Fantasia
-Lançamento: 1995
-
-Os planetas estão desalinhados. Para deter as forças do mal e salvar a humanidade, Lord Rayden, o protetor da Terra, escolhe as três pessoas capazes de vencer o Mortal Kombat, disputado pelos melhores lutadores do universo.</info>
- 
-<genre>Ação, Fantasia</genre>
- 
-<date>29/09/1995</date>
-</item>"
-"<item>
-
-<title>Mortal Kombat Legends: A Vingança de Scorpion [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3472.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3472.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Ação, Aventura, Animação
-Lançamento: 2020
-
-Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
- 
-<genre>Fantasia, Ação, Aventura, Animação</genre>
- 
-<date>12/04/2020</date>
-</item>"
-"<item>
-
-<title>Mortal Kombat: A Aniquilação [COLOR yellow][IMDb 3,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MRTLKMBTAANQLCAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3473.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3473.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Fantasia, Ficção científica
-Lançamento: 1997
-
-Shao Kahn, o imperador do Outworld, desrespeita todas as regras de Mortal Kombat e abre ilegalmente as portas entre o seu reino e a Terra. Se elas permanecerem abertas por sete dias será o fim dos humanos, assim, um grupo de guerreiros tem seis dias para fechar as portas e salvar a Terra, mas para isto precisam enfrentar e vencer as demoníacas forças do Outworld.</info>
- 
-<genre>Ação, Fantasia, Ficção científica</genre>
- 
-<date>11/11/1997</date>
-</item>"
-"<item>
-
-<title>Motoqueiro Fantasma [COLOR yellow][IMDb 5,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MTQRFNTSM01.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3485.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3485.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Thriller, Ação, Fantasia, Baseado em Quadrinho
-Lançamento: 2007
-
-Johnny Blaze (Nicolas Cage) trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto (Peter Fonda) para proteger as duas pessoas que mais amava: seu pai, Barton (Brett Cullen), e sua namorada de adolescência, Roxanne Simpson (Eva Mendes). Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.</info>
- 
-<genre>Thriller, Ação, Fantasia, Baseado em Quadrinho</genre>
- 
-<date>16/02/2007</date>
-</item>"
-"<item>
-
-<title>Motoqueiro Fantasma: Espírito de Vingança [COLOR yellow][IMDb 4,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MTQRFNTSM02.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3486.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3486.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Fantasia, Thriller, Baseado em Quadrinho
-Lançamento: 2012
-
-Depois de um período recluso na Europa, Johnny Blaze embarca em uma nova missão para se livrar da maldição de ser um motoqueiro fantasma. Desta vez, ele precisa impedir que o próprio demônio encarnado sequestre um garoto de dez anos que pode ser a única esperança da humanidade contra as trevas.</info>
- 
-<genre>Ação, Fantasia, Thriller, Baseado em Quadrinho</genre>
- 
-<date>22/02/2012</date>
-</item>"
-"<item>
-
-<title>Muito Além do Ordinário [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MTALMDORNRIO.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/5722.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5722.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Comédia, Terror
-Lançamento: 2019
-
-Rose Dooley (Maeve Higgins) é uma simpática instrutora de direção que possui habilidades sobrenaturais. Sempre requisitada para ajudar seus vizinhos, ela é chamada por Martin (Barry Ward) para examinar sua filha Sarah (Emma Coleman). Mal sabem eles que a adolescente está sendo oferecida em sacrifício por um rock star falido.</info>
- 
-<genre>Fantasia, Comédia, Terror</genre>
- 
-<date>27/09/2019</date>
-</item>"
-"<item>
-
-<title>Mulan [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/MULAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3503.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3503.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Drama, Fantasia
-Lançamento: 2020
-
-Hua Mulan é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.</info>
- 
-<genre>Ação, Aventura, Drama, Fantasia</genre>
- 
-<date>04/09/2020</date>
-</item>"
-"<item>
-
-<title>Mulher Maravilha [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/MLHRMRVLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3505.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3505.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho
-Lançamento: 2009
-
-Mulher Maravilha contará a origem da amazona na mísitca ilha grega de Temíscera e sua inevitável jornada pelo mundo dos homens, onde ela se estabelce como heroína que segue suas próprias regras. Entretanto, o conflito se estabelece quando o deus da guerra, Ares, escapa da sua prisão e jura vingança contra o mundo dos mortais e dos deuses. Cabe à Mulher-Maravilha impedi-lo.</info>
- 
-<genre>Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
- 
-<date>03/03/2009</date>
-</item>"
-"<item>
-
-<title>Mulher-Gato [COLOR yellow][IMDb 3,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MLHRGTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3507.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3507.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Fantasia, Mistério
-Lançamento: 2004
-
-Patience Phillips (Halle Berry) é uma tímida artista plástica que trabalha em uma empresa de cosméticos. Quando Patience acidentalmente descobre um segredo da empresa em que trabalha, ela se vê envolvida em uma conspiração corporativa que sequer imaginara até então. O que acontece a seguir transformar Patience para sempre, fazendo com que ela ganhe a força, agilidade, velocidade e sensibilidade de um gato. Com seus novos poderes e a recém-ganha intuição felina, Patience se torna a Mulher-Gato.</info>
- 
-<genre>Ação, Fantasia, Mistério</genre>
- 
-<date>13/08/2004</date>
-</item>"
-"<item>
-
-<title>Mulher-Maravilha [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MLHRMRVLHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3508.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3508.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Fantasia, Baseado em Quadrinho
-Lançamento: 2017
-
-Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.</info>
- 
-<genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
- 
-<date>01/06/2017</date>
-</item>"
-"<item>
-
-<title>Mulher-Maravilha - Linhagem de Sangue [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MLHRMRVLHLNHGMDSNG.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3509.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3509.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Ação, Fantasia, Baseado em Quadrinho
-Lançamento: 2019
-
-Veja a origem lendária de um dos renomados membros da Liga da Justiça, Mulher Maravilha, conforme ela enfrenta o mal com sua espada e seu laço mágico. Determinada e igualmente forte no corpo e no coração, ela assume a missão de ajudar uma jovem garota problemática que foi recrutada por uma organização mortal conhecida como Corporação Vilania, cujos membros criminosos almejam invadir Themyscira, o lar paradisíaco de nossa heroína. A batalha será épica, porque se há uma coisa que as Amazonas conhecem bem, é a guerra!</info>
- 
-<genre>Animação, Ação, Fantasia, Baseado em Quadrinho</genre>
- 
-<date>05/10/2019</date>
-</item>"
-"<item>
-
-<title>Mundo Proibido [COLOR yellow][IMDb 4,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MNDPRBDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3515.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3515.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Comédia, Fantasia
-Lançamento: 1992
-
-Depois de um incidente bizarro, Frank é transportado para um universo animado, o Cool World. Lá, por vários anos, ele é o único humano entre vários personagens animados. Um dia, o cartunista Jack também entra para o Cool World e lança seus olhares devassos em sua própria criação, a beldade loura Holli, que quer se tornar humana. A interação excessiva entre personagens de desenho animado e humanos pode resultar em consequências desastrosas, um risco que Jack parece estar disposto a correr.</info>
- 
-<genre>Animação, Comédia, Fantasia</genre>
- 
-<date>10/07/1992</date>
-</item>"
-"<item>
-
-<title>Mune, O Guardião da Lua [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MUNOGRDAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3516.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3516.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Família, Aventura, Fantasia, Comédia
-Lançamento: 2015
-
-Em um mundo de imaginação, Mune é um ser mágico designado para tomar conta das estrelas. Mas uma série de desastres vai fazer com que o pior aconteça.</info>
- 
-<genre>Animação, Família, Aventura, Fantasia, Comédia</genre>
- 
-<date>05/02/2015</date>
-</item>"
-"<item>
-
-<title>My Hero Academia: 2 Heróis - O Filme [COLOR yellow][IMDb 7,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/MYHRACDM2HRSOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3521.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3521.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Ação, Comédia, Fantasia, Aventura
-Lançamento: 2018
-
-Deku e All Might são convidados para a I-Expo, a maior exposição de invenções e novidades para heróis superpoderosos, reunindo patrocinadores e profissionais do mundo todo. Quando a exposição é invadida por vilões, burlando todo o poderoso sistema de segurança do local, a sociedade de heróis fica gravemente ameaçada. Só uma pessoa é capaz de salvar a todos e restaurar a paz: All Might.</info>
- 
-<genre>Animação, Ação, Comédia, Fantasia, Aventura</genre>
- 
-<date>25/09/2018</date>
-</item>"
-"<item>
-
-<title>My Little Pony - O Filme [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3526.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3526.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Música, Aventura, Animação, Família, Fantasia
-Lançamento: 2017
-
-Quando uma força obscura ameaça Ponyville e a Mane 6, os pequenos pôneis embarcar em uma viagem até o fim de Equestria para salvar sua amada casa. Lá eles conhecem novos amigos e passam por desafios perigosos ao longo do caminho.</info>
- 
-<genre>Música, Aventura, Animação, Família, Fantasia</genre>
- 
-<date>05/10/2017</date>
-</item>"
-"<item>
-
-<title>My Little Pony: Equestria Girls - A Lenda de Everfree [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MYLTPNYESQTRAGRIL4.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3523.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3523.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Animação, Música, Fantasia, Comédia
-Lançamento: 2016
-
-O Acampamento Everfree corre o risco de fechar e as Equestria Girls usam seus novos poderes para organizar uma festa para arrecadar fundos e salvar o acampamento.</info>
- 
-<genre>Aventura, Animação, Música, Fantasia, Comédia</genre>
- 
-<date>01/10/2016</date>
-</item>"
-"<item>
-
-<title>My Little Pony: Garotas de Equestria  [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/MYLTPNYESQTRAGRIL1.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3522.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3522.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Comédia, Família, Fantasia, Música
-Lançamento: 2013
-
-Para recuperar a coroa que foi roubada do Império Cristal, Twilight persegue o ladrão e acaba descobrindo um mundo paralelo. Lá, ela se transforma em uma adolescente e precisa frequentar a escola.</info>
- 
-<genre>Animação, Comédia, Família, Fantasia, Música</genre>
- 
-<date>16/06/2013</date>
-</item>"
-"<item>
-
-<title>Mystikal: O Mundo da Magia [COLOR yellow][IMDb 3,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/MSTCLOMNDAMGIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3528.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3528.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Fantasia, Ação
-Lançamento: 2012
-
-Em uma última era, em um mundo imaginário dominado por sombras, três conseguem conquistar feiticeiros do mal e colocam em três caixas de Pandora. Cada mago deve salvar suas vidas e proteger cada uma das caixas contendo: guerra, praga e fome. Se os fantasmas conseguirem se libertar, abrirão os portões do inferno.</info>
- 
-<genre>Aventura, Fantasia, Ação</genre>
- 
-<date>01/01/2012</date>
-</item>"
-"<item>
-
-<title>Na Munheca: Festança da Noite das Bruxas [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/NAMNHCAFSTCDNTDSBRXS.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/5744.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5744.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Comédia, Família, Fantasia
-Lançamento: 2011
-
-Irwin, Hoss Delgado, Jeff the Spider, Fred Fredburger e General Skarr do ""Grim Adventures of Billy e Mandy"" se unem para lutar contra um exército de doces do mal do Submundo no Halloween.</info>
- 
-<genre>Ação, Comédia, Família, Fantasia</genre>
- 
-<date>29/10/2011</date>
-</item>"
-"<item>
-
-<title>Nanny McPhee 2: E as Lições Mágicas [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/NANYMCPHEASLCESMGCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3557.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3557.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Fantasia, Família
-Lançamento: 2010
-
-Dessa vez, ela se encontra na fazenda de uma família onde a confusão corre solta entre crianças tempestuosas do campo e seus mimados primos da cidade. Lançando mão de tudo, desde uma motocicleta voadora a um porquinho que escala árvores, Nanny McPhee traz a tona a fórmula certa para ensinar cinco novas lições a seus protegidos.</info>
- 
-<genre>Comédia, Fantasia, Família</genre>
- 
-<date>20/08/2010</date>
-</item>"
-"<item>
-
-<title>Nanny McPhee: A Babá Encantada [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/NCYEMBSCDSIMSM.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3558.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3558.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Comédia, Família
-Lançamento: 2005
-
-Cedric Brown tem 7 filhos que podem ser consideradas as crianças mais malcriadas do planeta. A mãe deles morreu há um ano e a tia Adelaide, que ajuda Cedric complementando seu salário na funerária em que trabalha, ameaça cortar a pensão caso ele não se case dentro de um mês. Cedric não quer contar a verdade aos filhos, pois teme que caso se afunde em dívidas perca a guarda deles e não quer deixá-los preocupados. Porém, quando eles descobrem que em breve terão uma madrasta, pioram ainda mais de comportamento como protesto por achar que o pai não gosta mais deles. Após forçarem o pedido de demissão da 17ª babá, Cedric mais uma vez ouve a sugestão de que contrate a babá McPhee. O problema é que ele não tem a menor idéia de como encontrá-la. Até que, numa noite qualquer, ela de repente surge à porta da casa. Após aceitar o emprego, a babá McPhee fica decidida a pôr os garotos na linha, fazendo com que eles provem um pouco do seu próprio remédio.</info>
- 
-<genre>Fantasia, Comédia, Família</genre>
- 
-<date>21/10/2005</date>
-</item>"
-"<item>
-
-<title>Não Olhe [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/NOLH.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3568.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3568.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller, Fantasia
-Lançamento: 2018
-
-Uma tímida e reclusa estudante de 18 anos do ensino médio é alienada por seus pais e impiedosamente rejeitada por seus colegas. Desesperada e isolada, ela confia em seu próprio reflexo - e no espelho ela encontra seu gêmeo maligno imaginado, alguém que a apóia, encoraja e conhece todos os seus desejos secretos. Quando as “garotas” trocam de lugar, a sexualidade reprimida e uma violência feroz explodem com uma perigosa sensação de liberdade.</info>
- 
-<genre>Terror, Thriller, Fantasia</genre>
- 
-<date>12/10/2018</date>
-</item>"
-"<item>
-
-<title>Não Tenha Medo do Escuro [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/NTNHAMEDESCRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3571.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3571.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Terror, Thriller
-Lançamento: 2011
-
-Sally Hurst (Bailee Madison) é uma criança solitária e curiosa, que foi morar com seu pai Alex (Guy Pearce) e Kim (Katie Holmes) numa mansão do século 19. Um dia, enquanto explorava a enorme propriedade, ela descobre um local escondido e isolado, desde que o construtor da residência desapareceu um século atrás. É quando a menina acaba libertando estranhas criaturas que pretendem levá-la para o mundo das trevas e precisa convencer os adultos de que não se trata de uma fantasia, mas de uma assustadora realidade.</info>
- 
-<genre>Fantasia, Terror, Thriller</genre>
- 
-<date>14/10/2011</date>
-</item>"
-"<item>
-
-<title>Nas Trevas [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/NASTRVS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3575.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3575.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Drama, Fantasia
-Lançamento: 2018
-
-Mina seria uma adolescente como qualquer outra se não tivesse sido amaldiçoada e transformada em uma vampira morta-viva. Ela é obrigada a assombrar a casa onde cresceu: ninguém entra ou sai vivo de lá. Mas a chegada de Alex, um menino cego da mesma idade de Mina, pode fazê-la reviver sentimentos adormecidos, como empatia e amor.</info>
- 
-<genre>Terror, Drama, Fantasia</genre>
- 
-<date>12/10/2018</date>
-</item>"
-"<item>
-
-<title>Natal com os Storybots [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/NATLCMSTRBTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3583.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3583.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Fantasia, Música
-Lançamento: 2017
-
-Quando Bo pensa erroneamente que seus amigos não gostam de seus presentes, ela dirige para o Pólo Norte para pedir ajuda a Santa para fazer melhores presentes. Ela aprende ao longo do caminho que o Natal é muito mais do que apenas os brinquedos.</info>
- 
-<genre>Animação, Fantasia, Música</genre>
- 
-<date>01/12/2017</date>
-</item>"
-"<item>
-
-<title>Natal Shrektacular do Burro [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/NTLSHRKTCLRDBRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3588.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3588.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Animação, Drama, Comédia, Ficção científica, Família
-Lançamento: 2010
-
-As risadas do Burro vão encher os salões, nesta coletânea de Natal totalmente nova. Burro apresenta seu próprio show natalino, com seus amigos de Tão Tão Distante, neste alegre presente musical, com todos os enfeites da época! Entre no SHREKTACULAR espírito natalino, com as festivas canções, a engraçada Decoração do Burro e uma hilariante lareira virtual que é tão cômica, que está pegando fogo!</info>
- 
-<genre>Fantasia, Animação, Drama, Comédia, Ficção científica, Família</genre>
- 
-<date>07/12/2010</date>
-</item>"
-"<item>
-
-<title>Neon Genesis Evangelion - O Fim do Evangelho [COLOR yellow][IMDb 8,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/NENGNSEVNGLNOFMDEVNGLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3601.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3601.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Ficção científica, Animação, Fantasia, Ação
-Lançamento: 1997
-
-Tanto este filme, como o anterior (Morte e Renascimento), caracterizam o “final alternativo” de Neon Genesis Evangelion. Por ser um final alternativo, os episódios 25 e 26 da série original são desconsiderados. O Fim de Evangelion, assim como Morte e Renascimento, é divido em duas partes: O primeiro é a repetição de “Renascimento” com mais cenas e renomeado para “Air” (chamado também de ""Episódio 25""). A segunda parte é chamada de “Heart” (ou ""Episódio 26""). O filme mostra o verdadeiro final da série. Todos os acontecimentos de Neon Genesis Evangelion culminaram para esse ponto. O Terceiro Impacto começa e cabe a Shinji Ikari decidir o futuro da humanidade. Sem deixar os momentos de ação e de filosofia de lado (e também muitas indagações), O Fim de Evangelion é um final merecido para série.</info>
- 
-<genre>Drama, Ficção científica, Animação, Fantasia, Ação</genre>
- 
-<date>19/07/1997</date>
-</item>"
-"<item>
-
-<title>Ni no Kuni [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/NINOKNI.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3608.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3608.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Aventura, Ação, Fantasia
-Lançamento: 2019
-
-Dois adolescentes encaram uma aventura mágica para salvar sua amiga Kotona em outro mundo. Mas o amor complica a missão.</info>
- 
-<genre>Animação, Aventura, Ação, Fantasia</genre>
- 
-<date>23/08/2019</date>
-</item>"
-"<item>
-
-<title>Nicky e o Feitiço do Dragão [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/NCKYEOFTCDRG.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3610.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3610.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família, Comédia, Animação, Fantasia, Aventura
-Lançamento: 2016
-
-Nick é um garoto de 10 anos, sonhador e amável, que tem dificuldades em alcançar as expectativas do pai, um famoso caçador de dragões. Montando em seu bezerrinho de estimação, ele gosta de imaginar que está voando nas costas de um dragão. Nick descobre a lenda dos poderes mágicos da flor de fogo e embarca em uma grande aventura ao lado de Draco. Na floresta encantada, o garoto se depara com um gigante assustador, fica amigo de um goblin travesso, entra na caverna do último dragão e é enfeitiçado pela princesa da água. Será que ele e seus amigos serão capazes de encontrar a flor de fogo a tempo de acabar com os planos da bruxa do pântano?</info>
- 
-<genre>Família, Comédia, Animação, Fantasia, Aventura</genre>
- 
-<date>01/02/2016</date>
-</item>"
-"<item>
-
-<title>Noelle [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/NOELE.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3642.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3642.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Família, Comédia, Fantasia
-Lançamento: 2020
-
-Noelle (Anna Kendrick) é a filha do Papai Noel, que é forçada a assumir o negócio da família quando seu pai decide se aposentar e seu irmão, Nick (Bill Hader), acaba ficando impossibilitado de ajudar antes de seu primeiro grande voo de Natal.</info>
- 
-<genre>Família, Comédia, Fantasia</genre>
- 
-<date>17/11/2020</date>
-</item>"
-"<item>
-
-<title>Nossa Casa: Especial de Fim de Ano [COLOR yellow][IMDb 4,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/NOSCSESPCLDFMDAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3655.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3655.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Família, Comédia, Fantasia, Ficção científica
-Lançamento: 2017
-
-Ele quer apresentar a seus companheiros boovs a alegria do Natal. Só que sua bem intencionada missão quase destrói a cidade!</info>
- 
-<genre>Animação, Família, Comédia, Fantasia, Ficção científica</genre>
- 
-<date>01/12/2017</date>
-</item>"
-"<item>
-
-<title>O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno [COLOR yellow][IMDb 5,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/OATQDSVRMSMLDTS6.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3799.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3799.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Ficção científica, Fantasia, Comédia, Terror
-Lançamento: 2018
-
-Burt Gummer (Michael Gross) e seu filho Travis Welker (Jamie Kennedy) se veem cercados de Graboids e Ass-Blasters ao irem até o Canadá investigar uma série de ataques dos vermes malditos e descobrirem que as criaturas estão sendo utilizadas como armas biológicas em uma remota estação de pesquisa.</info>
- 
-<genre>Ação, Aventura, Ficção científica, Fantasia, Comédia, Terror</genre>
- 
-<date>03/11/2018</date>
-</item>"
-"<item>
-
-<title>O Aviso [COLOR yellow][IMDb 5,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OAVSO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3810.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3810.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Thriller, Drama, Fantasia
-Lançamento: 2018
-
-Depois de seu amigo ser baleado, Jon descobre um padrão matemático nas mortes ocorridas no local e tenta alertar a próxima vítima.</info>
- 
-<genre>Thriller, Drama, Fantasia</genre>
- 
-<date>23/03/2018</date>
-</item>"
-"<item>
-
-<title>O Bom Gigante Amigo [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/OBMGIGNTAMG.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3824.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3824.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Família, Fantasia
-Lançamento: 2016
-
-Sofia é uma menina órfã que vive em um orfanato. Uma noite, em plena Hora das Bruxas, ela é raptada por um gigante orelhudo que a descobriu espiando pela janela. Mas Sofia logo descobriu que ela não precisava ter medo daquele gigante, que era amigável e tinha como função soprar sonhos nas janelas das crianças. Ao lado dele, ela bola um plano para acabar com os gigantes maus, que adoram devorar ""serumanos"". Um plano que envolve pesadelos terríveis e a rainha da Inglaterra.</info>
- 
-<genre>Aventura, Família, Fantasia</genre>
- 
-<date>28/06/2016</date>
-</item>"
-"<item>
-
-<title>O Buraco [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/OBRCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3828.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3828.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Thriller, Aventura, Fantasia
-Lançamento: 2009
-
-A família Thompson acaba de se mudar para uma nova cidade e tenta se adaptar. A mãe, Susan (Teri Polo), está fugindo de alguém e carrega junto seus filhos, o adolescente Dane (Chris Massoglia) e o pequeno Lucas (Nathan Gamble). Na nova casa, os garotos descobrem um buraco sem fundo, e o mal parece ser libertado. Todos começam a ter visões estranhas e coisas esquisitas passam a acontecer com eles e com a vizinha Julie (Haley Bennett), adolescente como Dane. De espírito aventureiro, os três vão aprender a lidar com seus medos.</info>
- 
-<genre>Thriller, Aventura, Fantasia</genre>
- 
-<date>31/10/2009</date>
-</item>"
-"<item>
-
-<title>O Caçador de Troll [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/OCACDRDTRL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3830.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3830.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Terror
-Lançamento: 2011
-
-Na trama, um grupo de estudantes parte para o norte da Noruega com a missão de revelar uma conspiração do governo que tenta esconder do público da existência de trolls. O filme segue a linha de documentário, parecida com o filme Cloverfield onde tudo é gravado por uma câmera amadora.</info>
- 
-<genre>Fantasia, Terror</genre>
- 
-<date>28/11/2011</date>
-</item>"
-"<item>
-
-<title>O Céu Pode Esperar [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/OCEUPDESPRA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3860.jpg
