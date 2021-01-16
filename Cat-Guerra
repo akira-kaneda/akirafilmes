@@ -522,6 +522,25 @@ Em 1914, uma mulher deixa seu país quando conhece um médico norte-americano qu
 </item>"
 "<item>
 
+<title>Amor Sem Fronteiras [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMRSMFRNTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6606.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6606.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Aventura, Guerra
+Lançamento: 2003
+
+Sarah Jordan (Angelina Jolie) é uma socialite casada com Henry Bauford (Linus Roache), filho de um influente empresário americano. Após conhecer Nick Callahan (Clive Owen), um médico que se dedica a causas humanitárias na África, Sarah se dispõe a ajudá-lo. Ela arrecada fundos para comprar medicamentos e comida para refugiados na Etiópia, aonde vai para entregá-los à equpe de Nick. Ver o sofrimento e a miséria do povo etíope de perto faz com que Sarah decida mudar de vida ao retornar a Londres, passando a trabalhar para uma ONG que ajuda causas humanitárias.</info>
+ 
+<genre>Drama, Romance, Aventura, Guerra</genre>
+ 
+<date>24/10/2003</date>
+</item>"
+"<item>
+
 <title>Apocalypse Now [COLOR yellow][IMDb 8,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/APCLPSNW.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2516,6 +2535,25 @@ Um atirador de elite que nunca se permitiu em pensar os alvos como humanos come�
 <genre>Guerra, Drama, Thriller</genre>
  
 <date>11/03/2016</date>
+</item>"
+"<item>
+
+<title>Rogue Warfare - Ameaça Global [COLOR yellow][IMDb 2,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/RGUWRFRAMCGLBL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6605.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6605.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Guerra
+Lançamento: 2019
+
+Uma rede terrorista cria uma arma química capaz de causar danos de proporções catastróficas. O presidente dos EUA então une forças com a China, a Rússia, a Grã-Bretanha e a França para criar um esquadrão de peso capaz de pôr fim a essa ameaça global.</info>
+ 
+<genre>Ação, Guerra</genre>
+ 
+<date>07/11/2019</date>
 </item>"
 "<item>
 
