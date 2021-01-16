@@ -421,6 +421,25 @@ Com entrevistas raras, imagens e escutas clandestinas, documentário reconstrói
 </item>"
 "<item>
 
+<title>Crack: Cocaína, Corrupção e Conspiração [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CRCKCOCNCRPCAOECSPRCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6621.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6621.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2021
+
+Uma droga barata e poderosa surge durante uma recessão, acendendo um pânico moral alimentado pelo racismo. Explore a complexa história do crack na década de 1980.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>11/01/2021</date>
+</item>"
+"<item>
+
 <title>Crip Camp: Revolução pela Inclusão [COLOR yellow][IMDb 7,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/CRPCMPRVLCPLINCLSAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1055,6 +1074,25 @@ Casado e com filhos nos EUA, um cineasta gay documenta o processo de aceitação
 </item>"
 "<item>
 
+<title>Minimalismo Já [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MNMLSMOJA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6633.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6633.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2021
+
+Os minimalistas reformularam essa frase para criar um senso de urgência para a cultura de consumo de hoje: agora é a hora de menos.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>01/01/2021</date>
+</item>"
+"<item>
+
 <title>Mistérios do Triangulo das Bermudas [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/MESTSDTRNGDSBRMDAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1242,6 +1280,25 @@ A Bíblia e o entendimento de sua palavra profética têm sido assuntos debatido
 <genre>Documentário</genre>
  
 <date>28/05/2018</date>
+</item>"
+"<item>
+
+<title>Os Segredos de Saqqara [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSGRDSDSQARA|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6589.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6589.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2020
+
+Este documentário segue uma equipe de arqueólogos enquanto eles desenterram artefatos incríveis em uma tumba antiga não descoberta em Sacará, Egito.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>28/10/2020</date>
 </item>"
 "<item>
 
@@ -1755,6 +1812,25 @@ Alguns medicamentos oferecem a estudantes, atletas, programadores e pessoas de t
 <genre>Documentário</genre>
  
 <date>16/03/2018</date>
+</item>"
+"<item>
+
+<title>Tony Parker: The Final Shot [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TNYPRKENTROSMRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6645.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6645.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Documentário
+Lançamento: 2021
+
+O histórico e a carreira de Tony Parker, cuja determinação o levou a se tornar indiscutivelmente o maior jogador de basquete francês.</info>
+ 
+<genre>Documentário</genre>
+ 
+<date>06/01/2021</date>
 </item>"
 "<item>
 
