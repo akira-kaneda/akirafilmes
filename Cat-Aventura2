@@ -1,5 +1,138 @@
 "<item>
 
+<title>Montanha Gelada [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/CLDMNTAN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1579.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1579.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Drama, História, Romance
+Lançamento: 2004
+
+Após o término da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar à sua casa, na vila de Cold Mountain. Lá está à sua espera Ada, sua namorada, que luta para administrar uma grande fazenda após a morte de seu pai. Para ajudá-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experiências da guerra.</info>
+ 
+<genre>Aventura, Drama, História, Romance</genre>
+ 
+<date>13/02/2004</date>
+</item>"
+"<item>
+
+<title>Monte Carlo [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MNTCRLO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3463.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3463.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Romance
+Lançamento: 2011
+
+Grace (Selena Gomez) consegue realizar o sonho de viajar para Paris com as amigas Meg (Leigthon Meester) e Emma (Kate Cassidy), mas o passeio revela-se um tanto decepcionante. O trio anda meio desanimado até o dia em que Grace é confundida com uma milionária inglesa chamada Cordélia e resolve assumir o papel. Muito luxo - e confusão - as espera em Monte Carlo.</info>
+ 
+<genre>Aventura, Comédia, Romance</genre>
+ 
+<date>23/09/2011</date>
+</item>"
+"<item>
+
+<title>Monty Python em Busca do Cálice Sagrado [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/MNTYPTHEMBSCDCLCESGDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3464.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Fantasia
+Lançamento: 1975
+
+O Rei Artur sai à procura de cavaleiros que o acompanhe em uma atabalhoada jornada histórica: a busca do Santo Graal. Aparecem então Sir Lancelot, o Bravo; Sir Robin, o Não-Tão-Bravo-Quanto-Sir-Lancelot; Sir Galahad, o Puro, entre outros personagens surreais. Escrita pelo genial grupo de comédia britânico Monty Python, a trama do longa satiriza diversos eventos históricos ocorridos na Idade Média.</info>
+ 
+<genre>Aventura, Comédia, Fantasia</genre>
+ 
+<date>13/08/1975</date>
+</item>"
+"<item>
+
+<title>Mortal Kombat Legends: A Vingança de Scorpion [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3472.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3472.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Aventura, Animação
+Lançamento: 2020
+
+Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
+ 
+<genre>Fantasia, Ação, Aventura, Animação</genre>
+ 
+<date>12/04/2020</date>
+</item>"
+"<item>
+
+<title>Morte Súbita [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/MRTSBT1995.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3479.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3479.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Thriller, Drama
+Lançamento: 1995
+
+O inspetor de incêndios Darren McCord vai a um jogo de hóquei com seus dois filhos. No jogo, o vice-presidente dos EUA é vítima de terroristas comandados pelo ex-agente da CIA Joshua Foss, que idealizou um esquema para fazê-lo de refém e exigir dinheiro. Além disso, existem bombas escondidas no estádio prontas para serem detonadas no final do jogo. Darren descobre o plano e, usando suas habilidades marciais, precisa lidar com as bombas, com os terroristas, com o sequestro da filha e com o tempo.</info>
+ 
+<genre>Ação, Aventura, Thriller, Drama</genre>
+ 
+<date>27/10/1995</date>
+</item>"
+"<item>
+
+<title>Moscou Contra 007 [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/0071963MSCCNT007.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3482.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3482.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Aventura
+Lançamento: 1964
+
+James Bond (Sean Connery) é incumbido de ajudar uma bela agente soviética a fugir de seu país, para então tentar recuperar uma leitora de códigos na embaixada russa, em Londres. Porém, Bond não sabe que a temível organização criminosa Spectre organizou esta armadilha no intuito de executá-lo.</info>
+ 
+<genre>Ação, Thriller, Aventura</genre>
+ 
+<date>24/04/1964</date>
+</item>"
+"<item>
+
+<title>Motoqueiros Selvagens [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MTOSLVGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601406.us.archive.org/32/items/3521_20201118/3487.jpg</image>
+<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3487.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia
+Lançamento: 2007
+
+Quatro amigos de longa data se reencontram com um desejo em comum: largar suas vidas chatas e problemáticas. Atrapalhados e meio fora de forma, eles saem sem rumo pelas estradas, incorporados a uma gangue de motociclistas. A aventura ganha mais emoção quando os rivais Del Fuegos decidem desafiá-los.</info>
+ 
+<genre>Ação, Aventura, Comédia</genre>
+ 
+<date>02/03/2007</date>
+</item>"
+"<item>
+
 <title>Mr. Bean - O Filme [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/MRBENOFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -130,6 +263,25 @@ Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) 
 <genre>Ação, Aventura, Fantasia, Baseado em Quadrinho</genre>
  
 <date>01/06/2017</date>
+</item>"
+"<item>
+
+<title>Mulher-Maravilha 1984 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MLHRMRVLHA1984.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6583.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6583.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Aventura, Baseado em Quadrinho
+Lançamento: 2020
+
+Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.</info>
+ 
+<genre>Fantasia, Ação, Aventura, Baseado em Quadrinho</genre>
+ 
+<date>17/12/2020</date>
 </item>"
 "<item>
 
@@ -1140,6 +1292,44 @@ Jupiter Jones é a descendente de uma linhagem que a coloca como a próxima ocup
 </item>"
 "<item>
 
+<title>O Dia Depois de Amanhã [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ODIADPSDAMNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6609.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6609.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Ficção científica, Thriller
+Lançamento: 2004
+
+A Terra sofre alterações climáticas que modificam drasticamente a vida da humanidade. Com o norte se resfriando cada vez mais e passando por uma nova era glacial, milhões de sobreviventes rumam para o sul. Porém o paleoclimatologista Jack Hall (Dennis Quaid) segue o caminho inverso e parte para Nova York, já que acredita que seu filho Sam (Jake Gyllenhaal) ainda está vivo.</info>
+ 
+<genre>Ação, Aventura, Ficção científica, Thriller</genre>
+ 
+<date>28/05/2004</date>
+</item>"
+"<item>
+
+<title>O Dom da Serpente [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ODMDSRPNTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6590.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6590.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 2019
+
+Dina, uma jovem que herdou a habilidade sobrenatural de ver os pecados e as fraquezas das outras pessoas olhando nos olhos precisa salvar sua família. Com a ajuda do pai, que ela não conhecia, Dina terá que escolher entre o seu próprio dom e a magia negra.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>14/11/2019</date>
+</item>"
+"<item>
+
 <title>O Dragão do Natal [COLOR yellow][IMDb 4,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ODRGODNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1194,6 +1384,25 @@ Rússia, século 19. Yakovlev é um veterano de guerra que recebeu a previsão q
 <genre>Aventura, Ação, Drama</genre>
  
 <date>29/09/2016</date>
+</item>"
+"<item>
+
+<title>O Elo Perdido [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OELOPRDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6649.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6649.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia, Ficção científica, Família
+Lançamento: 2009
+
+Rick Marshall (Will Farrell) consegue fazer com que sua experiência de espaço-tempo funcione, abrindo assim um vórtice que o manda a um universo alternativo, junto de sua assistente e um caipira. Nesse universo ele está rodeando de dinossauros e fantásticas criaturas.</info>
+ 
+<genre>Aventura, Comédia, Ficção científica, Família</genre>
+ 
+<date>05/06/2009</date>
 </item>"
 "<item>
 
@@ -8078,6 +8287,25 @@ O Homem de Aço luta contra Brainiac, um cientista ciborgue alienígena do plane
 </item>"
 "<item>
 
+<title>Tá Todo Mundo Louco! - Uma Corrida de Milhõe$ [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TATDOMNDLCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6658.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6658.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Comédia
+Lançamento: 2002
+
+Um grupo de bilionários entediados, que adoram apostar entre si, resolvem inventar um novo jogo. Eles escolhem aleatoriamente seis grupos de pessoas estranhas e as enviam para a cidade de Las Vegas. A 900 quilômetros dali, no Novo México, é escondida a quantia de US$ 2 milhões, que será dada ao grupo que chegar ao local primeiro. É quando então se envolvem na louca disputa uma hippie, o juiz de futebol mais odiado do país, um turista italiano e muitos outros participantes.</info>
+ 
+<genre>Aventura, Comédia</genre>
+ 
+<date>11/01/2002</date>
+</item>"
+"<item>
+
 <title>Tango & Cash - Os Vingadores [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/TNGECSH.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9161,6 +9389,25 @@ First Lieutenant Shun'ichi Maki of the Japan Air Self-Defense Force is a prestig
 </item>"
 "<item>
 
+<title>Ulysses [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ULYSES.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6611.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6611.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 1955
+
+Adaptação para o cinema do segundo épico de Homero, que fala sobre os esforços de Ulisses para voltar para sua casa após o fim de dez anos de guerra.</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>01/10/1955</date>
+</item>"
+"<item>
+
 <title>Um Conto Americano 4: O Mistério do Monstro da Noite [COLOR yellow][IMDb 6,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/UMCNTAMRCNO4OMSTRDMNSTRDNTE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9994,6 +10241,25 @@ O pequeno Manou passou a vida inteira acreditando que era uma gaivota, quando na
 <genre>Animação, Aventura, Família, Comédia</genre>
  
 <date>25/01/2019</date>
+</item>"
+"<item>
+
+<title>Voando Alto [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VONDALTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6657.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6657.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, História, Aventura
+Lançamento: 2016
+
+Cortado da equipe britânica de esqui, Eddie Edwards tenta uma vaga na prova de saltos na Olimpíada de Inverno de 1988. Para isso, contará com a ajuda de Bronson Peary, um ex-atleta que trabalha como motorista de máquina de limpar neve.</info>
+ 
+<genre>Comédia, Drama, História, Aventura</genre>
+ 
+<date>31/03/2016</date>
 </item>"
 "<item>
 
