@@ -1125,6 +1125,25 @@ Lançamento: 2017
 </item>"
 "<item>
 
+<title>A Escolha Perfeita [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ESCLHPRFT2016.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6580.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6580.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2016
+
+Charlie é um playboy que não acredita no amor, e está tão certo disso que aceita uma aposta de seus dois melhores amigos, Rick e Victor, que dizem que se ele conseguir permanecer com uma mulher durante um mês, ele irá se apaixonar. Charlie só não esperava conhecer a bela e misteriosa Eva, com quem começa um romance. Antes convencido que o caso não duraria, ele passa a se questionar se aquele relacionamento merece durar mais de uma noite.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>11/03/2016</date>
+</item>"
+"<item>
+
 <title>A Escolha Perfeita [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AESCLHPRFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1464,6 +1483,25 @@ Na Inglaterra do século XVIII, Sarah Churchill, a Duquesa de Marlborough (Rache
 <genre>Drama, História, Comédia</genre>
  
 <date>24/01/2019</date>
+</item>"
+"<item>
+
+<title>A Festa de Formatura [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AFSTDFRMTURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6520.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Música, Romance
+Lançamento: 2020
+
+Um grupo de atores veteranos da Broadway vão sem aviso a uma festa de final de ano de uma escola que não permitiu que uma de suas alunas fosse ao baile acompanhada de sua namorada.</info>
+ 
+<genre>Comédia, Música, Romance</genre>
+ 
+<date>02/12/2020</date>
 </item>"
 "<item>
 
@@ -3614,6 +3652,25 @@ Gene Ryack é um piloto contratado pela CIA para, sob disfarce, para transportar
 </item>"
 "<item>
 
+<title>AK vs AK [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AKVSAK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6600.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6600.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Thriller
+Lançamento: 2020
+
+Para se vingar de um astro do cinema, um diretor sequestra a filha do ator e filma em tempo real a busca por ela.</info>
+ 
+<genre>Comédia, Drama, Thriller</genre>
+ 
+<date>24/12/2020</date>
+</item>"
+"<item>
+
 <title>Alex Strangelove [COLOR yellow][IMDb 6,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/ALXSTRGLV.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3649,6 +3706,25 @@ Alexandre é um garoto de 11 anos que enfrenta o pior dia de sua vida. Primeiro,
 <genre>Família, Comédia</genre>
  
 <date>23/10/2014</date>
+</item>"
+"<item>
+
+<title>Alguém Avisa? [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ALGMAVSA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6522.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6522.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2021
+
+Uma jovem tem um plano para propor casamento à sua namorada na festa de Natal da família, mas descobre que sua parceira ainda não se assumiu perante seus pais conservadores.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>14/01/2021</date>
 </item>"
 "<item>
 
@@ -4355,6 +4431,25 @@ Alvin (Nick Cannon) é um limpador de piscinas nerd e conhecedor de carros. Ele 
 </item>"
 "<item>
 
+<title>Amor de Balada [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMRDBLDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6581.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6581.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2020
+
+Milo trabalha como bartender em Berlim e uma noite conhece sua mulher dos sonhos Sunny através de uma série de coincidências. Os dois se encontram para um encontro, mas a noite romântica perfeita até agora.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>13/02/2020</date>
+</item>"
+"<item>
+
 <title>Amor em Jogo [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/AMREMJGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4868,6 +4963,25 @@ Ambientada no meio da crise imobiliária de 2009, a vida de Cassie Fowler, uma m
 <genre>Comédia, Thriller</genre>
  
 <date>24/08/2018</date>
+</item>"
+"<item>
+
+<title>Arrebentando em Nova York [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ARBTNDOEMNY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6607.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6607.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Comédia, Thriller
+Lançamento: 1996
+
+Keung (Jackie Chan) é um perito em artes marciais de Hong Kong que viaja para o casamento do seu tio em Nova York. Durante sua estada no Bronx, ele compra briga com motoqueiros e mafiosos, causando um verdadeiro terremoto de pancadaria na cidade. Para piorar, os policiais não conseguem controlar a situação e o lutador vai ter que resolver a situação pelas próprias mãos.</info>
+ 
+<genre>Crime, Ação, Comédia, Thriller</genre>
+ 
+<date>26/02/1996</date>
 </item>"
 "<item>
 
@@ -6393,6 +6507,25 @@ Os detetives da Narcóticos Marcus Burnett (Martin Lawrence) e Mike Lowrey (Will
 </item>"
 "<item>
 
+<title>Banana Split [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BNANSPLT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6532.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6532.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2018
+
+Ao longo de um verão, duas adolescentes desenvolvem uma amizade perfeita entre parentesco, com um grande problema: uma delas está namorando o ex da outra.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>22/09/2018</date>
+</item>"
+"<item>
+
 <title>Bandidas [COLOR yellow][IMDb 5,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/BNDAS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6889,6 +7022,25 @@ Adam é um adolescente que sai em uma missão épica e ousada para tentar descob
 </item>"
 "<item>
 
+<title>Big Time Adolescence [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BGTMEADLSCNE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6529.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6529.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Enquanto passa por um forte período de amadurecimento em sua vida, um jovem suburbano conta com as estranhas e destrutivas tentativas de ajuda de seu melhor amigo: um desistente da escola completamente diferente dele. Juntos, eles passam por uma longa jornada de conhecimento interior e percebem que ser adulto é muito mais complicado do que parece.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>13/03/2020</date>
+</item>"
+"<item>
+
 <title>Big Time Rush: O Filme [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/BTRSHOFILME.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6924,6 +7076,25 @@ Jack (Jack Cullison) é um universitário inconsequente que está com os dias co
 <genre>Comédia</genre>
  
 <date>29/08/2015</date>
+</item>"
+"<item>
+
+<title>Bill & Ted: Encare a Música [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BILETDENCRAMSCA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6638.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6638.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Ficção científica, Aventura
+Lançamento: 2020
+
+As apostas estão mais altas que nunca para os dois amigos viajantes do tempo, agora já na meia-idade, em uma nova aventura buscando a canção que trará harmonia ao universo, ajudados por suas filhas, figuras históricas e lendas da música.</info>
+ 
+<genre>Comédia, Ficção científica, Aventura</genre>
+ 
+<date>28/08/2020</date>
 </item>"
 "<item>
 
@@ -7247,6 +7418,25 @@ Borat é o nome de um repórter de TV do Kazaquistão enviado aos Estados Unidos
 <genre>Comédia</genre>
  
 <date>01/11/2006</date>
+</item>"
+"<item>
+
+<title>Break: O Poder da Dança [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRKOPRDNC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6533.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6533.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 2018
+
+Lucie, uma jovem dançarina sofre um acidente. Quando ela acorda do coma, ela e seu parceiro começam a treinar para um show de dança. No caminho, ela começa a procurar seu pai distante, um caminho que pode levá-la a um amor transformador.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>18/07/2018</date>
 </item>"
 "<item>
 
@@ -8620,6 +8810,25 @@ Já se passaram dez anos desde a criação da Grande Trégua, um elaborado siste
 </item>"
 "<item>
 
+<title>Como Casar com um Milionário [COLOR yellow][IMDb 4,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CPMCSRCMUMLNRIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6642.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6642.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2019
+
+Este filme é um guia (muito engraçado) para quem sonha com um relacionamento feliz! O longa conta a história de Alicja, uma menina que vai acidentalmente a um curso ministrado pela autora de guias de best-sellers, Sonia. Sônia assume que “é melhor chorar em uma Mercedes do que em outro lugar” e revela métodos comprovados de sedução que funcionam mesmo nos casos mais complicados.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>29/11/2019</date>
+</item>"
+"<item>
+
 <title>Como Enlouquecer seu Chefe [COLOR yellow][IMDb 7,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/COMELQCERSEUCHFE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8674,6 +8883,25 @@ Ben é um publicitário que aposta com o chefe que faz qualquer mulher se apaixo
 <genre>Comédia, Romance</genre>
  
 <date>07/02/2003</date>
+</item>"
+"<item>
+
+<title>Como Sair de Buffalo [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMSRDBFLO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6534.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6534.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Romance
+Lançamento: 2020
+
+Peg Dahl, uma golpista de Buffalo, fará de tudo para escapar de sua cidade natal, Buffalo, estado de Nova York, e assim ela chega ao submundo das cobranças de dívidas.</info>
+ 
+<genre>Comédia, Drama, Romance</genre>
+ 
+<date>14/02/2020</date>
 </item>"
 "<item>
 
@@ -8980,6 +9208,25 @@ Na noite do Halloween, uma pequena cidade descobrirá que algumas tradições nu
 <genre>Terror, Thriller, Comédia</genre>
  
 <date>07/12/2007</date>
+</item>"
+"<item>
+
+<title>Convenção das Bruxas [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CNVCAODSBRXS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6617.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Aventura, Comédia, Terror
+Lançamento: 2020
+
+O remake de Convenção das Bruxas, clássico de fantasia dos anos 1990, acompanha um garoto de sete anos que se depara com uma conferência de bruxas em um hotel. Lá, ele acaba descobrindo que um grupo de bruxas está fazendo uma convenção, pretendendo transformar todas as crianças do mundo em ratos.</info>
+ 
+<genre>Fantasia, Família, Aventura, Comédia, Terror</genre>
+ 
+<date>19/11/2020</date>
 </item>"
 "<item>
 
@@ -11073,6 +11320,25 @@ Bobby e Stig são dois agentes à paisana escalados para roubar um banco que ser
 </item>"
 "<item>
 
+<title>Doug: O Filme [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOUGOFLM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6510.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6510.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia
+Lançamento: 1999
+
+Doug e seu amigo Skeeter saíram para encontrar o monstro do lago Lucky Duck. Embora as coisas fiquem realmente fora de controle quando alguém deixa escapar que o monstro é real.</info>
+ 
+<genre>Animação, Família, Comédia</genre>
+ 
+<date>26/03/1999</date>
+</item>"
+"<item>
+
 <title>Dou-lhes um Ano [COLOR yellow][IMDb 5,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/DOULHSUANO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -11301,6 +11567,25 @@ Quando um golpe dá terrivelmente errado e deixa as crianças do bairro furiosas
 </item>"
 "<item>
 
+<title>Duas por Uma [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DUSPRUMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6537.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6537.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Com a carreira destruída, uma atriz contrata sua standin para fazer reabilitação em seu lugar. Ela só não imaginava que a substituta fosse gostar tanto do papel.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
 <title>Duck Butter [COLOR yellow][IMDb 5,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/DCKBTR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -11317,6 +11602,25 @@ Insatisfeitas com a desonestidade que veem nas relações, duas mulheres fazem u
 <genre>Drama, Romance, Comédia</genre>
  
 <date>27/04/2018</date>
+</item>"
+"<item>
+
+<title>Duck Tales, O Filme: O Tesouro da Lâmpada Perdida [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DCKTLSOTSRODLMPDPRDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6494.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6494.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Família, Comédia, Fantasia
+Lançamento: 1990
+
+O multimilionário Tio Patinhas vai embarcar numa aventura no Egito com seus sobrinhos-netos Huguinho, Zezinho e Luizinho. Lá há um gigantesco tesouro escondido e uma lâmpada mágica perdida, onde vive um poderoso gênio adormecido. Porém, a ambição de Patinhas terá de enfrentar os planos do maligno Merlock, que também deseja colocar as mãos nessa fortuna.</info>
+ 
+<genre>Aventura, Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>03/08/1990</date>
 </item>"
 "<item>
 
@@ -11355,6 +11659,25 @@ Lily (Lucy Hale), Chloe (Kathryn Prescott), Amelia (Alexandra Shipp) e Rebecca (
 <genre>Comédia</genre>
  
 <date>20/04/2018</date>
+</item>"
+"<item>
+
+<title>Duelo no Asfalto [COLOR yellow][IMDb 5,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DUELNASFTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6637.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6637.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Roy derrapa feio na véspera do casamento e, para não perder a noiva, acaba aceitando correr contra uma nova adversária na pista de Nürburgring, na Alemanha.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>14/10/2020</date>
 </item>"
 "<item>
 
@@ -11871,6 +12194,25 @@ Claudia e Antonio estão casados há 15 anos. Depois de tantos anos de casamento
 </item>"
 "<item>
 
+<title>Em Um Relacionamento Sério [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMUMRLCNMNTOSRIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6597.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6597.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia
+Lançamento: 2018
+
+Dois casais estão passando por situações bem diferentes em seus relacionamentos amorosos. Primeiro, Owen e Hallie, um casal estável e de longa data, e que agora estão lutando para impedir que seu relacionamento seja completamente destruído. E há Matt e Willa, que embarcam em um romance muito diferente do que haviam previsto.</info>
+ 
+<genre>Drama, Comédia</genre>
+ 
+<date>09/11/2018</date>
+</item>"
+"<item>
+
 <title>Embriagado de Amor [COLOR yellow][IMDb 7,3][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/EMBRGDSDAMR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -12213,6 +12555,25 @@ Após 10 anos de convivência, Greg enfim consegue se enturmar com seu sogro, Ja
 </item>"
 "<item>
 
+<title>Entre Armas e Brinquedos [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ENTRARMSEBRQDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6542.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6542.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Fantasia
+Lançamento: 2020
+
+Enquanto um Papai Noel desordeiro e nada ortodoxo luta contra a falência de seus negócios, um inconformado garoto de doze anos contrata um assassino para matar o Bom Velhinho como forma de vingança após receber um pedaço de carvão de presente de Natal.</info>
+ 
+<genre>Ação, Comédia, Fantasia</genre>
+ 
+<date>26/11/2020</date>
+</item>"
+"<item>
+
 <title>Entre Facas e Segredos [COLOR yellow][IMDb 7,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ENTRFCSESGRDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -12305,6 +12666,25 @@ Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntame
 <genre>Comédia, Drama, Thriller</genre>
  
 <date>15/08/2019</date>
+</item>"
+"<item>
+
+<title>Era Uma Vez um Boneco de Neve [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ERUMVZUMBNCODNVE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6543.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Fantasia
+Lançamento: 2020
+
+Os primeiros passos de Olaf conforme ele ganha vida e busca sua identidade nas montanhas nevadas dos arredores de Arendelle.</info>
+ 
+<genre>Animação, Família, Comédia, Fantasia</genre>
+ 
+<date>18/12/2020</date>
 </item>"
 "<item>
 
@@ -12859,400 +13239,20 @@ Dois vendedores são presos, por destruírem o caminhão da companhia em que tra
 </item>"
 "<item>
 
-<title>Falcons em Jogo [COLOR yellow][IMDb 3,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FLCNSEMJGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<title>Fada Madrinha [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/FDAMDRNHA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
 
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2317.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2317.jpg</thumbnail>
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6545.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6545.jpg</thumbnail>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 
-<info>Genero: Terror, Comédia
-Lançamento: 2019
-
-Todas as garotas do time de vôlei Os Falcões acabam encalhados no meio do nada depois que sua mini-van quebra. Mal sabem eles que desembarcaram em território de caçadores degenerados e a caça continua. Assim começa uma noite muito longa, onde eles devem correr por suas vidas e testar seu espírito de equipe. Mas as meninas são mais engenhosas do que parecem. No coração da floresta, as mesas estão prestes a se alternar entre caçadores e caçadores...</info>
- 
-<genre>Terror, Comédia</genre>
- 
-<date>26/07/2019</date>
-</item>"
-"<item>
-
-<title>Família do Bagulho [COLOR yellow][IMDb 7,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FMLDBGLH.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2319.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2319.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Crime
-Lançamento: 2013
-
-Um traficante é forçado por seu chefe a ir ao México pegar uma carga de maconha. A fim de melhorar suas chances de passar pela fronteira, David pede a uma stripper e dois adolescentes locais para acompanhá-lo e fingir que são uma família em férias.</info>
- 
-<genre>Comédia, Crime</genre>
- 
-<date>28/09/2013</date>
-</item>"
-"<item>
-
-<title>Fazenda dos Cisnes [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/FZNDSCSN.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2337.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2337.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Comédia, Família, Cinema TV
-Lançamento: 2015
-
-A hostilidade se transforma em outra coisa entre um fazendeiro viúvo e uma ornitóloga insistente que veio para sua fazenda para salvar uma família de cisnes.</info>
- 
-<genre>Drama, Comédia, Família, Cinema TV</genre>
- 
-<date>25/01/2015</date>
-</item>"
-"<item>
-
-<title>Fechando Negócio [COLOR yellow][IMDb 5,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FCHNDNEGC.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2338.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2338.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 2016
-
-A história gira em torno de Hardy Buchanan (Skyler Gisondo), uma escola secundária pobre cercado por afluência em uma escola privada de elite, localizada em Long Island’s Gold Coast. Hardy luta para sustentar sua mãe instável (Kristin Chenoweth) e sua propriedade premiada, Walter, o cão da família. Quando Walter fica doente, Hardy tem que vir acima com dinheiro rápido para pagar a cirurgia. Sozinha e sem ninguém para se virar, Hardy se junta a Bo (Katrina Bowden), uma socialite sem objetivo.</info>
- 
-<genre>Comédia</genre>
- 
-<date>20/05/2016</date>
-</item>"
-"<item>
-
-<title>Feel the Beat [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/FELTHBEAT.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2339.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2339.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Música, Drama
+<info>Genero: Família, Fantasia, Comédia
 Lançamento: 2020
 
-Depois de fracassar em um teste da Broadway, ela volta à cidade natal e aceita preparar um grupo de crianças desajeitadas para uma competição de dança.</info>
+Uma fada madrinha jovem e inexperiente embarca numa aventura por conta própria para provar seu valor rastreando uma jovem cujo pedido de ajuda foi ignorado. O que ela descobre é que a garota agora se tornou uma mulher adulta que precisa de algo muito diferente de um ""príncipe encantado"".</info>
  
-<genre>Comédia, Música, Drama</genre>
+<genre>Família, Fantasia, Comédia</genre>
  
-<date>19/06/2020</date>
-</item>"
-"<item>
-
-<title>Feitiço da Lua [COLOR yellow][IMDb 7,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/FTCODLUA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3754.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3754.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Drama, Romance
-Lançamento: 1988
-
-Loretta Castorini, uma contadora do Brooklyn com seus 30 e tantos anos, cujo marido morreu há vários anos em um acidente de ônibus, decide que é hora de se casar novamente. Então, ela aceita a proposta de um agradável, companheiro de meia idade chamado Johnny Cammareri. Loretta está convencida de seu primeiro casamento foi amaldiçoado porque ela e o marido haviam se casado na Câmara Municipal. Então ela está determinada a fazer as coisas direito desta vez, mesmo quando admite para sua mãe, Rose, que não está realmente apaixonada por Johnny. Ao que Rose responde: ""Bom. Quando você o amar, ele vai deixá-la louca, porque eles sabem que podem"". Rose fala por triste experiência, ela suspeita que seu marido, Cosmo, está traindo. Loretta está convencida de que casar com Johnny é a coisa certa a fazer. Até que ela conhece o irmão mais novo Ronny, que trabalha nos fornos em uma padaria do bairro e é mal-humorado e apaixonado. Então surgem as complicações dignas de uma ópera cômica.</info>
- 
-<genre>Comédia, Drama, Romance</genre>
- 
-<date>01/01/1988</date>
-</item>"
-"<item>
-
-<title>Feito na América [COLOR yellow][IMDb 7,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FEITNAMRNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2340.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2340.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Crime, Comédia
-Lançamento: 2017
-
-Durante a década de 1980, Barry Seal (Tom Cruise), um piloto oportunista da Trans World Airlines, é inesperadamente recrutado pela CIA para realizar uma das maiores operações secretas da história dos Estados Unidos.</info>
- 
-<genre>Ação, Crime, Comédia</genre>
- 
-<date>14/09/2017</date>
-</item>"
-"<item>
-
-<title>Felicidade por um Fio [COLOR yellow][IMDb 6,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FLCDADEPRUMFIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2341.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2341.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Romance
-Lançamento: 2018
-
-Uma publicitária perfeccionista com problemas na vida amorosa embarca em uma jornada de autoconhecimento que começa no visual radicalmente novo.</info>
- 
-<genre>Comédia, Romance</genre>
- 
-<date>21/09/2018</date>
-</item>"
-"<item>
-
-<title>Feliz Aniversário de Casamento [COLOR yellow][IMDb 5,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FLZANSRIODCSMNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2342.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2342.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Romance, Comédia
-Lançamento: 2018
-
-Durante seu terceiro aniversário de casamento, um casal (Noël Wells e Ben Schwartz) precisa decidir se é melhor seguir com seu casamento ou se o divórcio é a única solução para os dois.</info>
- 
-<genre>Romance, Comédia</genre>
- 
-<date>30/03/2018</date>
-</item>"
-"<item>
-
-<title>Feliz Natal, Drake & Josh [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FLZNTLDRKEJSH.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2345.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2345.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Cinema TV
-Lançamento: 2008
-
-Quando vai trabalhar como Papai Noel num shopping center, Drake promete à pequena Mary Alice que ela e sua família terão o melhor Natal de todos. Agora, ele e Josh vão passar por muitos apuros e confusões para conseguir cumprir a promessa.</info>
- 
-<genre>Comédia, Cinema TV</genre>
- 
-<date>05/12/2008</date>
-</item>"
-"<item>
-
-<title>Férias Ardentes [COLOR yellow][IMDb 4,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/FRSARDNTS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2349.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2349.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 1985
-
-Quatro garotos norte-americanos decidem trabalhar em um hotel mexicano pensando somente em diversão e sexo. Contudo, os planos não dão muito certo, principalmente com a chegada da família de um dos rapazes.</info>
- 
-<genre>Comédia</genre>
- 
-<date>31/07/1985</date>
-</item>"
-"<item>
-
-<title>Férias do Barulho [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/FRSDBRLHO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2350.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2350.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 1985
-
-Em busca de curtição, os amigos Jack (Johnny Depp) e Ben (Rob Morrow) embarcam numa viagem rumo à um hotel de luxo na Flórida. Eles esperam encontrar belas mulheres e muita farra, mas acabam se envolvendo com um perigoso ladrão (Hector Elizondo), que passa a persegui-los. Enquanto tentam se livrar de confusão, eles acabam passando por situações cômicas.</info>
- 
-<genre>Comédia</genre>
- 
-<date>03/05/1985</date>
-</item>"
-"<item>
-
-<title>Férias Frustradas [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FERSFRTSDS2015.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2351.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2351.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 2015
-
-Rusty Griswold (Ed Helms) trabalha como piloto de avião na EconoAir, uma companhia de baixo custo. Ele é casado com Debbie (Christina Applegate) e tem dois filhos, James (Skyler Gisondo) e Kevin (Steele Stebbins), que vivem brigando. Disposto a se divertir com a família, Rusty decide seguir os passos de seu pai (Chevy Chase) e comandar uma ida ao parque de diversões Wally World, localizado a dias de viagem. Rusty logo aluga um carro albanês, sem imaginar que a viagem em família será bem mais complicada do que imaginava.</info>
- 
-<genre>Comédia</genre>
- 
-<date>10/09/2015</date>
-</item>"
-"<item>
-
-<title>Férias Frustradas [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/FERSFRTSDS1983.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2352.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2352.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Aventura
-Lançamento: 1983
-
-A família Griswold está de férias e resolve ir para o ""Walley Park"", um parque temático. O pai Clark (Chevy Chase), sua esposa Ellen (Beverly D'Angelo), e os filhos Audrey (Dana Barron) e Rusty (Anthony Michael Hall) pegam a longa estrada de Chicago até a Costa Oeste. No meio do caminho, encontram com o primo Eddie (Randy Quaid) e a tia Edna (Imogene Coca), e acabam tendo que levá-la até Phoenix. Até os Griswold chegarem ao parque muitas confusões acontecem e, quando eles finalmente chegam, uma surpresa pouco agradável os surpreende.</info>
- 
-<genre>Comédia, Aventura</genre>
- 
-<date>28/07/1983</date>
-</item>"
-"<item>
-
-<title>Férias Frustradas de Natal [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FRSFRSTDADNTL.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2353.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2353.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 1989
-
-Clark Griswolds (Chevy Chase) promete à sua família um Natal maravilhoso. Ele enfeita a casa com mais de 20 mil luzes e prepara uma árvore que não cabe nem na sala de estar. Com tudo pronto, ele convida o resto da família para estar com eles. Quando chega a véspera do dia 24, depois de meses de preparo, as coisas não saem tão bem quanto o planejado, a começar por um peru explosivo e um gato enroscado nas luzinhas de Natal.</info>
- 
-<genre>Comédia</genre>
- 
-<date>01/12/1989</date>
-</item>"
-"<item>
-
-<title>Férias Frustradas de Verão [COLOR yellow][IMDb 6,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FRSFRSTDADVRAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2354.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2354.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 2009
-
-1987. James Brennan (Jesse Eisenberg) acaba de se formar na faculdade e sonhava em passar as férias de verão na Europa. Entretanto, a difícil situação financeira de seus pais impede que realize o sonho e, além disto, tenha que conseguir o quanto antes um emprego de verão. James consegue uma vaga no Adventureland, um parque de diversões onde atende o público junto aos brinquedos. De início ele não gosta do local, mas tudo muda quando começa a se interessar por Em Lewin (Kristen Stewart), uma colega de trabalho.</info>
- 
-<genre>Comédia</genre>
- 
-<date>03/04/2009</date>
-</item>"
-"<item>
-
-<title>Férias Frustradas em Las Vegas [COLOR yellow][IMDb 6,0][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FRSFRSTDAEMLSVGS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2355.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2355.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia
-Lançamento: 1997
-
-Quando as férias chegam, Clark Griswold (Chevy Chase) decide levar sua família para passar um tempo em Las Vegas. Lá, eles encontram os primos Eddie (Randy Quaid) e Catherine (Miriam Flynn), e também a prima Vicky (Shae D'lyn), que eles descobrem ser dançarina de uma gaiola em uma boate. No meio disso tudo, Clark descobre que não pode se controlar em relação ao jogo, e enquanto isso sua esposa passa o tempo ao lado de outro homem.</info>
- 
-<genre>Comédia</genre>
- 
-<date>13/02/1997</date>
-</item>"
-"<item>
-
-<title>Férias Frustradas na Europa [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FRSFRSTDANAEURPA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2356.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2356.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Comédia, Romance
-Lançamento: 1985
-
-Os Griswald ganham uma viagem de férias para a Europa em um programa de televisão. Eles então arrumam suas malas rapidamente e partem para o velho continente. Juntos eles passam pela Inglaterra, França, Alemanha e Itália. Em todos os países eles só não encontram dificuldades em se meter em confusões. Como aconteceu a Inglaterra, quando Clarck (Chevy Chase) não conseguiu se adaptar a dirigir os carros ingleses ou então na Itália onde Ellen (Beverly D'Angelo) foi simplesmente raptada.</info>
- 
-<genre>Aventura, Comédia, Romance</genre>
- 
-<date>25/07/1985</date>
-</item>"
-"<item>
-
-<title>Férias no Trailer [COLOR yellow][IMDb 5,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/FRSNTRLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2357.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2357.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Comédia, Família
-Lançamento: 2006
-
-Bob Munro (Robin Williams) está estressado de tanto trabalhar. Decidido a descansar, ele quer levar sua esposa Jamie (Cheryl Hines) e seus filhos Cassie (JoJo) e Carl (Josh Hutcherson) para uma viagem. Após prometer levá-los ao Havaí, Bob decide mudar os planos sem comunicá-los e decide viajar pelo Colorado em um trailer. Jamie, Cassie e Carl não gostam da idéia, mas aceitam fazer a viagem. Só que a vida em um trailer não tem o conforto com o qual estão acostumados em Los Angeles e cada tentativa de Bob em animar sua família acaba se tornando um grande desastre.</info>
- 
-<genre>Comédia, Família</genre>
- 
-<date>28/04/2006</date>
-</item>"
-"<item>
-
-<title>Festa da Salsicha [COLOR yellow][IMDb 6,1][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/FSTDSLSCHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2358.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2358.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Animação, Comédia, Fantasia
-Lançamento: 2016
-
-Dentro de um supermercado, os alimentos sonham em serem escolhidos pelas pessoas e se mudarem para as casas dos compradores. Mas eles nem suspeitam que serão cortados, ralados, cozidos e devorados! Quando uma salsicha descobre a terrível verdade, ela reúne outros alimentos com a tarefa de voltarem ao mercado e avisarem todos os colegas do risco que correm.</info>
- 
-<genre>Aventura, Animação, Comédia, Fantasia</genre>
- 
-<date>06/10/2016</date>
-</item>"
-"<item>
-
-<title>Festa no Céu [COLOR yellow][IMDb 7,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/FSTNOCEU.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801908.us.archive.org/33/items/2334_20201015/2359.jpg</image>
-<thumbnail>https://ia801908.us.archive.org/33/items/2334_20201015/2359.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Animação, Aventura, Comédia, Família, Fantasia
-Lançamento: 2014
-
-Um grupo de crianças bagunceiras é encaminhado a uma visita guiada ao museu como “punição” pelo mau comportamento. Lá, uma guia diferente resolve percorrer um caminho alternativo e os apresenta ao ""Livro da Vida"", que contém todas as histórias. A mais simbólica delas, baseada nas tradições mexicanas, envolve três mundos. Catrina/La Muerte é uma adorada deusa ancestral, que governa a Terra dos Lembrados. Ela é ex-mulher de Xibalba, o governante trapaceiro da Terra dos Esquecidos. Em uma visita à Terra dos Vivos, eles fazem uma aposta. Se a jovem e bela Maria, filha da maior autoridade da cidade de San Angel, escolher se casar com o emotivo violinista Manolo, Catrina ganha e Xibalba não poderá mais interferir no Mundo dos Vivos, como gosta de fazer. Se o preferido for o valente Joaquim, Xibalba passa a governar também o Mundo dos Lembrados.</info>
- 
-<genre>Animação, Aventura, Comédia, Família, Fantasia</genre>
- 
-<date>15/10/2014</date>
+<date>04/12/2020</date>
 </item>"
