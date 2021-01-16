@@ -240,8 +240,20 @@ ADDON CENTRALIZADOR DE LINKS</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 "<channels>
 <channel>
-<name>[COLOR white]FICÇÃO CIENTÍFICA[/COLOR]</name>
-<thumbnail>https://ia601405.us.archive.org/4/items/baseado-em-quadrinhos/Ficcao.jpg</thumbnail>
+<name>[COLOR white]FICÇÃO CIENTÍFICA1[/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Cat-Ficcao1</thumbnail>
+<externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Cat-Ficcao</externallink>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+<info>
+ADDON CENTRALIZADOR DE LINKS</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+"<channels>
+<channel>
+<name>[COLOR white]FICÇÃO CIENTÍFICA2[/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Cat-Ficcao2</thumbnail>
 <externallink>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/Cat-Ficcao</externallink>
 <fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
 <info>
