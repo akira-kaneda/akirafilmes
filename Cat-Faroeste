@@ -171,6 +171,25 @@ Lefty Brown (Bill Pullman) é um ajudante de 63 anos que toda a sua vida ficou a
 </item>"
 "<item>
 
+<title>Além da Liberdade [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ALMDLBRDAD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6647.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6647.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Drama
+Lançamento: 2019
+
+O carcereiro Samuel Tillery trabalha como guarda dos prisioneiros mais perigosos do Missouri enquanto eles esperam o julgamento. Quando a população se revolta, Samuel é levado ao limite para defender aquilo em que acredita.</info>
+ 
+<genre>Faroeste, Drama</genre>
+ 
+<date>13/09/2019</date>
+</item>"
+"<item>
+
 <title>Amaldiçoada [COLOR yellow][IMDb 7,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AMLDODA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
