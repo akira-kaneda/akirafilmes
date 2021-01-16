@@ -1,5 +1,252 @@
 "<item>
 
+<title>Partida Fria [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PARTDFRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4809.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4809.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2019
+
+Durante a crise dos mísseis de Cuba em 1962, um gênio da matemática é enviado para jogar xadrez com soviéticos em um jogo mortal de espionagem.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>08/11/2019</date>
+</item>"
+"<item>
+
+<title>Parto Forçado [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRTOFRCDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4810.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4810.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Cinema TV
+Lançamento: 2020
+
+A vida de uma mulher grávida muda quando ela percebe que alguém próximo a ela tem planos mais sombrios para ela e para o bebê.</info>
+ 
+<genre>Terror, Thriller, Cinema TV</genre>
+ 
+<date>08/05/2020</date>
+</item>"
+"<item>
+
+<title>Passageiros [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PSGRS2008.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4811.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4811.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Thriller, Romance
+Lançamento: 2008
+
+Claire Summers (Anne Hathaway) é uma jovem terapeuta designada por Perry (Andre Braugher), seu mentor, a dar orientação psicológica aos cinco sobreviventes de um terrível acidente aéreo. Ela enfrenta problemas ao ser confrontada por Eric (Patrick Wilson), que recusa sua ajuda e usa o acidente para tentar cortejá-la. Isto faz com que, paralelamente, Claire lute contra as iniciativas de Eric e os demais pacientes enfrentem dificuldades com as lembranças do acidente, distintas das explicações oficiais fornecidas pela companhia aérea.</info>
+ 
+<genre>Drama, Mistério, Thriller, Romance</genre>
+ 
+<date>23/10/2008</date>
+</item>"
+"<item>
+
+<title>Passageiros do Medo [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OULTMPSGRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4464.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4464.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Mistério
+Lançamento: 2013
+
+O médico Lewis Shaler segue sua rotina e pega um trem como em todos os outros dias, mas logo percebe que os freios não estão funcionando e que o segurança desapareceu misteriosamente. Agora, ele e os demais passageiros precisam se salvar de um vingativo sociopata que assumiu o controle do veículo.</info>
+ 
+<genre>Ação, Thriller, Mistério</genre>
+ 
+<date>18/10/2013</date>
+</item>"
+"<item>
+
+<title>Pássaro do Oriente [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/PSRODORNTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4814.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4814.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Mistério, Romance, Thriller
+Lançamento: 2019
+
+Em Tóquio de 1989, Lucy Fly, uma misteriosa estrangeira assombrada por um passado doloroso, entra em um intenso relacionamento com Teiji, um fotógrafo local com problemas semelhantes. A aparente paz de espírito de Lucy começa a ser testada quando uma recém-chegada, Lily Bridges se envolve em suas vidas.</info>
+ 
+<genre>Drama, Mistério, Romance, Thriller</genre>
+ 
+<date>08/11/2019</date>
+</item>"
+"<item>
+
+<title>Pecado Original [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PCDORIGNL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4830.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4830.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2001
+
+No exótico mundo de Cuba Luis Antonio Vargas (Antonio Banderas), um rico comerciante de café, acerta os detalhes de seu casamento acertado pelo correio. Porém, pouco após sua futura esposa chegar à sua casa ele descobre que ela na verdade é uma impostora, que não o ama e está apenas interessada em sua fortuna.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>03/08/2001</date>
+</item>"
+"<item>
+
+<title>Pecados Mortais [COLOR yellow][IMDb 2,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PCDSMRTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4832.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4832.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2013
+
+David begins experiencing cloudy memories of a long-lost life amidst the violent Cortello family in Sicily Ã¢â'¬Â¦ a family he ultimately betrayed. And the wages of sin are deadly.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>23/02/2013</date>
+</item>"
+"<item>
+
+<title>Pedido de Amizade [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PEDODAMZDE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4833.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4833.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2016
+
+Quando um estudante universitária decide deletar uma misteriosa garota que conheceu na internet, ela se vê lutando com uma presença demoníaca que só tem um objetivo: fazê-la ficar só. E para isso está colocando um plano sórdido em prática, para matar todos os amigos da moça.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>09/12/2016</date>
+</item>"
+"<item>
+
+<title>Pequenos Delitos [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PQNSDLTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4850.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4850.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Thriller, Crime
+Lançamento: 2017
+
+A história de um ex-policial desonrado que acaba de cumprir uma pena de seis anos de prisão por uma tentativa de homicídio. Ao sair ele volta para casa em busca de resgate, mas acaba preso na confusão que deixou.</info>
+ 
+<genre>Drama, Comédia, Thriller, Crime</genre>
+ 
+<date>28/04/2017</date>
+</item>"
+"<item>
+
+<title>Perdido na Fama [COLOR yellow][IMDb 4,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRDONFMA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4866.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4866.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Crime, Thriller
+Lançamento: 2017
+
+Turk Henry, um baixista de uma banda mega-platina recentemente separada, leva sua esposa mimada para férias exóticas para o Chile, mas ela é levada por um grupo de piratas que querem dinheiro para comprar um barco. Turk embarca em uma missão desafiadora de resgate em Santiago, na América do Sul.</info>
+ 
+<genre>Ação, Aventura, Comédia, Crime, Thriller</genre>
+ 
+<date>08/09/2017</date>
+</item>"
+"<item>
+
+<title>Perigo em Alto Mar [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRGOEMALTMR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4874.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4874.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller
+Lançamento: 2010
+
+Baseado em fatos reais, este longa mostra uma viagem de barco que tinha tudo para ser inesquecível, mas que se torna um verdadeiro pesadelo para quatro jovens quando a embarcação acaba tombando em alto-mar. Sem conseguirem reverter a situação, decidem que a melhor maneira de sobreviver é nadando até a ilha mais próxima, e, durante o percurso, descobrem que estão sendo seguidos de perto por um enorme e faminto tubarão branco.</info>
+ 
+<genre>Drama, Terror, Thriller</genre>
+ 
+<date>15/05/2010</date>
+</item>"
+"<item>
+
+<title>Perigo na Montanha [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRGONMONTN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4876.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4876.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ação, Thriller
+Lançamento: 2018
+
+Joe Braven (Jason Momoa) é um madeireiro que mora na fronteira dos EUA com o Canadá. Ele será confrontado por um grupo de traficantes de drogas e fará o que for preciso para proteger sua família.</info>
+ 
+<genre>Drama, Ação, Thriller</genre>
+ 
+<date>02/02/2018</date>
+</item>"
+"<item>
+
+<title>Perigo por Encomenda [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRGOPRENCNDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/4878.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/4878.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Thriller
+Lançamento: 2012
+
+Wilee (Joseph Gordon-Lewitt) adora pedalar e ganha a vida como entregador pelas ruas de Nova York. Acostumado ao stress e aos perigos da profissão, ele só não imaginava que uma nova encomenda, daquelas com prazo curto para ser entregue, seria alvo da cobiça de um policial corrupto (Michael Shannon). Agora, cumprir a missão tornou-se mais do que uma questão de tempo, pois virou um caso de vida ou morte.</info>
+ 
+<genre>Crime, Ação, Thriller</genre>
+ 
+<date>28/09/2012</date>
+</item>"
+"<item>
+
 <title>Perigo Próximo [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/PRGOPRXMO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
