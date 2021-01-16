@@ -39,6 +39,25 @@ Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bomb
 </item>"
 "<item>
 
+<title>12 Horas [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/12HRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6612.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6612.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Mistério
+Lançamento: 2012
+
+A história gira em torno de Jill (Amanda Seyfried), uma jovem que escapou de um serial killer há dois anos e que agora acredita que o mesmo sujeito raptou sua irmã mais nova. Ela terá que lutar contra a desconfiança das pessoas que não acreditam que tenha sido sequestrada em primeiro lugar.</info>
+ 
+<genre>Drama, Thriller, Mistério</genre>
+ 
+<date>24/02/2012</date>
+</item>"
+"<item>
+
 <title>2:22 - Encontro Marcado [COLOR yellow][IMDb 5,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/222ENCTRMRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -478,6 +497,25 @@ Apaixonada pelo misterioso Sir Thomas Sharpe (Tom Hiddleston), a escritora Edith
 <genre>Drama, Fantasia, Terror, Mistério, Romance, Thriller</genre>
  
 <date>15/10/2015</date>
+</item>"
+"<item>
+
+<title>A Cor Que Caiu do Espaço [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ACRQCAINESPCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6624.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6624.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Ficção científica, Thriller
+Lançamento: 2020
+
+Uma fazenda é atingida por um meteorito que pode ter consequências apocalípticas para a família que mora lá e possivelmente para o mundo.</info>
+ 
+<genre>Terror, Mistério, Ficção científica, Thriller</genre>
+ 
+<date>24/01/2020</date>
 </item>"
 "<item>
 
