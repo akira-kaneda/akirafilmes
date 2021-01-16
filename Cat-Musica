@@ -1522,6 +1522,25 @@ O dia da formatura está se aproximando para Troy, Gabriella, Sharpay, Chad, Rya
 </item>"
 "<item>
 
+<title>High School Musical: O Musical: Especial de Festas [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCServer15/ondemand/HGHSCHLMSCLOMSCLASRT01ESCLDFSTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6613.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6613.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música
+Lançamento: 2020
+
+O elenco de ""High School Musical: A Série: O Musical"" oferece uma abundância de alegria nesse Especial de Festas enquanto apresentam suas canções favoritas de Natal, Hanukkah e Ano Novo, e compartilham suas melhores memórias das festas.</info>
+ 
+<genre>Música</genre>
+ 
+<date>11/12/2020</date>
+</item>"
+"<item>
+
 <title>Hip-Hop Beats [COLOR yellow][IMDb 6,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/HPHOPBETS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2833,6 +2852,25 @@ Um empolgado coala chamado Buster decide criar uma competição de canto para au
 <genre>Animação, Comédia, Drama, Família, Música</genre>
  
 <date>22/12/2016</date>
+</item>"
+"<item>
+
+<title>Soul: Uma Aventura com Alma [COLOR yellow][IMDb 8,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SOLUMAVTRCMALM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6585.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Drama, Música, Fantasia
+Lançamento: 2020
+
+Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.</info>
+ 
+<genre>Animação, Comédia, Drama, Música, Fantasia</genre>
+ 
+<date>25/12/2020</date>
 </item>"
 "<item>
 
