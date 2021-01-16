@@ -657,6 +657,25 @@ Juliet Ashton (Lily James) é uma jovem escritora, com falta de inspiração, qu
 </item>"
 "<item>
 
+<title>A Tabacaria [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ATBCRIA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6640.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6640.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 2019
+
+Franz é um rapaz de 17 anos de idade que chega a Viena para trabalhar como aprendiz em uma tabacaria. Ali, ele conhece Sigmund Freud, um cliente frequente. Com o passar do tempo, os dois, apesar de origens muito distintas, desenvolvem uma amizade única. Quando Franz se apaixona perdidamente pela dançarina Anezka, ele busca os conselhos de seu amigo Sigmund, que, apesar de ser um renomado psicanalista, admite que o sexo feminino é um grande mistério para ele em termos românticos. A tensão política e social aumenta dramaticamente na Áustria, piorando com a chegada dos nazistas à capital. Franz, Sigmund e Anezka se perdem no meio do caos da cidade e cada um terá uma decisão difícil para tomar: ficar ou fugir de Viena?</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>05/09/2019</date>
+</item>"
+"<item>
+
 <title>A Trincheira Infinita [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ATRNCRINFTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2672,6 +2691,25 @@ Donnie Yen terá uma luta explosiva com o ex-campeão mundial dos pesos pesados 
 </item>"
 "<item>
 
+<title>O Grande Mestre 4: A Batalha Final [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OGRNDMSTR4.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6631.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6631.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Drama, História
+Lançamento: 2019
+
+Donnie Yen reprisa seu papel como o lendário mestre de Wing Chun no grand finale da revolucionária série de artes marciais. Após a morte de sua esposa, Ip Man viaja para São Francisco para aliviar as tensões entre os mestres locais de kung fu e seu aluno estrela, Bruce Lee, enquanto procura um futuro melhor para seu filho. Do visionário de ação por trás de Kill Bill e The Matrix, testemunhe conclusão heróica da saga que inspirou uma nova onda de fãs de filmes de artes marciais.</info>
+ 
+<genre>Ação, Drama, História</genre>
+ 
+<date>19/12/2019</date>
+</item>"
+"<item>
+
 <title>O Guardião de Lincoln [COLOR yellow][IMDb 5,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/OGRDAODLCHLN.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4266,6 +4304,25 @@ Após a morte de seu pai, Vladimir, príncipe viking é forçado ao exilio atrav
 <genre>História, Ação, Drama</genre>
  
 <date>29/12/2016</date>
+</item>"
+"<item>
+
+<title>Voando Alto [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/VONDALTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6657.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6657.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, História, Aventura
+Lançamento: 2016
+
+Cortado da equipe britânica de esqui, Eddie Edwards tenta uma vaga na prova de saltos na Olimpíada de Inverno de 1988. Para isso, contará com a ajuda de Bronson Peary, um ex-atleta que trabalha como motorista de máquina de limpar neve.</info>
+ 
+<genre>Comédia, Drama, História, Aventura</genre>
+ 
+<date>31/03/2016</date>
 </item>"
 "<item>
 
