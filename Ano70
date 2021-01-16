@@ -477,6 +477,25 @@ Charlotte, é uma pequena aranha que tenta salvar a vida do porquinho Wilbur, te
 </item>"
 "<item>
 
+<title>Os Anjos Também Comem Feijão [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DOSANJSDPSDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6608.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6608.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Comédia
+Lançamento: 1973
+
+Ambientado na Nova York dos anos 30, ""Anche gli Angeli Mangiano Fagioli"" é um western italiano de 1973, dirigido por E. Clucher e Enzo Barboni, tendo Bud Spencer como um lutador mascarado chamado Charlie Smith, lutador mascarado e Giuliano Gemma como Sonny, um ex-vendedor gelo que trabalha como faxineiro no ginásio do japonês ""Naka-kata"", envolvidos com a máfia.</info>
+ 
+<genre>Crime, Ação, Comédia</genre>
+ 
+<date>22/03/1973</date>
+</item>"
+"<item>
+
 <title>No Mundo de 2020 [COLOR yellow][IMDb 7,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/NMUND2020.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
