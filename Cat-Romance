@@ -2519,6 +2519,25 @@ Jade Butterfield (Gabriella Wilde) é uma jovem superprotegida pelos pais, que a
 </item>"
 "<item>
 
+<title>Amor Sem Fronteiras [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AMRSMFRNTRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6606.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6606.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Aventura, Guerra
+Lançamento: 2003
+
+Sarah Jordan (Angelina Jolie) é uma socialite casada com Henry Bauford (Linus Roache), filho de um influente empresário americano. Após conhecer Nick Callahan (Clive Owen), um médico que se dedica a causas humanitárias na África, Sarah se dispõe a ajudá-lo. Ela arrecada fundos para comprar medicamentos e comida para refugiados na Etiópia, aonde vai para entregá-los à equpe de Nick. Ver o sofrimento e a miséria do povo etíope de perto faz com que Sarah decida mudar de vida ao retornar a Londres, passando a trabalhar para uma ONG que ajuda causas humanitárias.</info>
+ 
+<genre>Drama, Romance, Aventura, Guerra</genre>
+ 
+<date>24/10/2003</date>
+</item>"
+"<item>
+
 <title>Amor Sem Querer [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AMRSMQR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6376,6 +6395,25 @@ O casamento de Grace Kelly (Nicole Kidman) e o príncipe Rainier III (Tim Roth) 
 </item>"
 "<item>
 
+<title>Guerra é Guerra! [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/GURAEGURA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6603.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6603.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Romance
+Lançamento: 2012
+
+Tuck e Frank são melhores amigos que trabalham juntos como agentes da CIA. Quando descobrem que estão saindo com a mesma mulher, entram em uma disputa que coloca em risco a amizade e a vida dos dois.</info>
+ 
+<genre>Ação, Comédia, Romance</genre>
+ 
+<date>16/03/2012</date>
+</item>"
+"<item>
+
 <title>Hair [COLOR yellow][IMDb 7,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/HAIR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6734,6 +6772,25 @@ Refilmagem do clássico ""Odeio-te Meu Amor"", escrito e dirigido por Preston St
 <genre>Comédia, Romance</genre>
  
 <date>10/02/1984</date>
+</item>"
+"<item>
+
+<title>Infiltrada no Natal [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/INFLTDNONTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6635.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6635.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2019
+
+Jennifer Clarke é uma repórter investigativa que precisa trabalhar infiltrada como balconista em uma loja de departamentos até o Natal. Durante o período, ela acaba encontrando um grande amor.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>24/11/2019</date>
 </item>"
 "<item>
 
@@ -7156,6 +7213,25 @@ No início da década de 1990, as florestas tropicais brasileiras estão sob a a
 </item>"
 "<item>
 
+<title>Lar Doce Lar... Ou Não [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LRDCELROUNAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6643.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6643.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance, Drama
+Lançamento: 2020
+
+Aborrecida com o seu estilo de vida social de borboleta, Victoria Tremont anseia por encontrar essa pessoa especial. Naturalmente, quando um estranho bonito entra na cafetaria onde trabalha, ela se volta para o encanto. Mas quando ele não responde a ela flertando como os homens costumam fazer, ela fica perplexa. Ela descobre que ele dirige um ministério que constrói habitações acessíveis, e vê que se ela quiser chamar a atenção dele, tudo o que tem de fazer é ser voluntária..</info>
+ 
+<genre>Comédia, Romance, Drama</genre>
+ 
+<date>01/05/2020</date>
+</item>"
+"<item>
+
 <title>Lembranças [COLOR yellow][IMDb 7,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/LMBRCS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -7267,6 +7343,25 @@ Um casal de ingleses ao fazerem um cruzeiro, conhecem uma bela e jovem francesa 
 <genre>Thriller, Drama, Romance</genre>
  
 <date>11/03/1994</date>
+</item>"
+"<item>
+
+<title>Lua-de-Mel a Três [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LUADMLATRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6651.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6651.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Romance, Thriller
+Lançamento: 1992
+
+Jack Singer (Nicolas Cage) é um detetive que está apaixonado por sua namorada (Sarah Jessica Parker), mas por causa da sua mãe (Anne Bancroft) morre de medo de se casar. Ella porém o encosta na parede, pressionando-o para viajarem para Las Vegas para casar. No entanto, horas antes do casamento o noivo é convidado para um jogo de pôquer e perde muito dinheiro. Como não pode pagar seu oponente (James Caan), ele concorda em receber a noiva ""emprestada"" no fim-de-semana como pagamento.</info>
+ 
+<genre>Ação, Comédia, Romance, Thriller</genre>
+ 
+<date>28/08/1992</date>
 </item>"
 "<item>
 
@@ -8122,6 +8217,25 @@ Katie é uma patinadora do gelo olímpica aposentada que aceita um novo desafio.
 <genre>Romance, Cinema TV</genre>
  
 <date>22/11/2018</date>
+</item>"
+"<item>
+
+<title>Natal Sempre e Para Sempre [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/NTLSMPREPRSMPR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6593.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6593.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2020
+
+Quando a executiva de marketing Lucy descobre que herdou a loja de Natal de seu avô, ""Forever Christmas"", ela faz uma viagem de volta para casa para dar suporte à loja durante sua temporada final de Natal antes de vendê-la. Mas uma vez que ela está de volta a Vermont, ela começa a entender por que a loja de seu avô é tão especial.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>23/12/2020</date>
 </item>"
 "<item>
 
@@ -9818,6 +9932,25 @@ Kelly (Cindy Busby) e seu pai, Hank (James Brolin), descobrem que, simplesmente,
 </item>"
 "<item>
 
+<title>Palavras nas Paredes do Banheiro [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PLVRSNPRDSDBNHR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6615.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6615.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance
+Lançamento: 2020
+
+Adam é um estudante que sofre de esquizofrenia paranoica acompanhadas de alucinações, e por conta disso, resolve participar do teste de uma nova droga que promete esconder todos estes sintomas de seus colegas de sala.</info>
+ 
+<genre>Drama, Romance</genre>
+ 
+<date>26/11/2020</date>
+</item>"
+"<item>
+
 <title>Para Sempre [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/PRSMPRE.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9834,6 +9967,25 @@ Paige e Leo são felizes recém-casados, mas um acidente deixa Paige em coma. Qu
 <genre>Drama, Romance</genre>
  
 <date>07/06/2012</date>
+</item>"
+"<item>
+
+<title>Para Sempre Cinderela [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRSMPRCNDRLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6656.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6656.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Comédia
+Lançamento: 1998
+
+O clássico conto da Gata Borralheira ganha uma nova versão, mostrando o que seria a “verdadeira” história da Cinderela. Danielle perde seu pai muito nova e é criada por uma madrasta muito má. Já crescida, ela se apaixona pelo Príncipe Henry, o que pode estragar os planos ambiciosos da madrasta.</info>
+ 
+<genre>Drama, Romance, Comédia</genre>
+ 
+<date>31/07/1998</date>
 </item>"
 "<item>
 
@@ -12383,6 +12535,25 @@ Sara Thomas é o tipo de mulher que prefere ficar à margem no trabalho, mas qua
 </item>"
 "<item>
 
+<title>Um Dia de Chuva em Nova York [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMDIADCHVEMNVYRK.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6584.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6584.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2019
+
+Apaixonado por Nova York, Gatsby (Timothée Chalamet) decide passar um fim de semana na cidade ao lado de Ashleigh (Elle Fanning), sua namorada. No entanto, aquilo que era pra ser uma aventura romântica acaba tomando um rumo inesperado. Aspirante a jornalista, Ashleigh conhece o diretor de cinema Roland Pollard (Liev Schreiber), que a convida para a exibição de seu mais recente trabalho. Gatsby, por sua vez, encontra Chan (Selena Gomez), a irmã mais nova de sua ex-namorada, com quem passa o restante da viagem. Um dia de chuva em Nova York será o suficiente para fazer com que Ashleigh redescubra suas verdadeiras paixões e Gatsby aprenda que só se vive uma vez - mas que é o suficiente se for ao lado da pessoa certa.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>10/10/2019</date>
+</item>"
+"<item>
+
 <title>Um Dia de Louco [COLOR yellow][IMDb 5,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/UMDIADLCO.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -13064,6 +13235,25 @@ Kate (Emilia Clarke) é uma jovem inglesa cuja vida é uma bagunça. Ela trabalh
 <genre>Comédia, Romance, Drama</genre>
  
 <date>28/11/2019</date>
+</item>"
+"<item>
+
+<title>Uma Sereia em Paris [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMSRIAEMPRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6618.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6618.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Fantasia, Drama
+Lançamento: 2020
+
+Gaspard, um cantor melódico de coração partido, jura que nunca mais se apaixonará. Mas uma noite, ao voltar para casa, ele ouve o som da voz de uma bela sereia ferida a quem tentará salvar.</info>
+ 
+<genre>Romance, Fantasia, Drama</genre>
+ 
+<date>11/03/2020</date>
 </item>"
 "<item>
 
