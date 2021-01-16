@@ -933,6 +933,25 @@ Um alienígena predador, invisível e equipado com armas poderosas, desembarca e
 </item>"
 "<item>
 
+<title>Natal Sangrento 4: A Iniciação [COLOR yellow][IMDb 3,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/NTLSNGTO4AINCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6650.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6650.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1990
+
+Uma repórter que investiga a morte bizarra de uma mulher que saltou de um prédio em chamas se vê envolvida em um culto de bruxas que a estão fazendo parte de sua cerimônia de sacrifício durante o Natal.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>21/11/1990</date>
+</item>"
+"<item>
+
 <title>A Pequena Sereia [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/APQNSRAFILME01.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2543,6 +2562,25 @@ Lançamento: 1992
 Jeff Matthews (Edward Furlong) é filho de Renee Halow (Darlanne Fluegel), uma atriz de filme de terror que morreu acidentalmente durante uma filmagem, quando recebeu um enorme choque elétrico. Jeff se muda com Chase Matthews (Anthony Edwards), seu pai, um veterinário, para o campo e lá Jeff faz amizade com Drew Gilbert (Jason McGuire), um tímido garoto que é maltrado por Gus Gilbert (Clancy Brown), seu padrasto, que é o xerife local. Jeff também descobre um antigo cemitério indígena, no qual pessoas e animais que ali são enterrados voltam à vida.</info>
  
 <genre>Terror</genre>
+ 
+<date>28/08/1992</date>
+</item>"
+"<item>
+
+<title>Lua-de-Mel a Três [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LUADMLATRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6651.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6651.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia, Romance, Thriller
+Lançamento: 1992
+
+Jack Singer (Nicolas Cage) é um detetive que está apaixonado por sua namorada (Sarah Jessica Parker), mas por causa da sua mãe (Anne Bancroft) morre de medo de se casar. Ella porém o encosta na parede, pressionando-o para viajarem para Las Vegas para casar. No entanto, horas antes do casamento o noivo é convidado para um jogo de pôquer e perde muito dinheiro. Como não pode pagar seu oponente (James Caan), ele concorda em receber a noiva ""emprestada"" no fim-de-semana como pagamento.</info>
+ 
+<genre>Ação, Comédia, Romance, Thriller</genre>
  
 <date>28/08/1992</date>
 </item>"
@@ -6693,6 +6731,25 @@ Filme feito para a TV do alienígena mais simpático da galáxia, que volta nest
 </item>"
 "<item>
 
+<title>Arrebentando em Nova York [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ARBTNDOEMNY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601408.us.archive.org/19/items/6599_20201231/6607.jpg</image>
+<thumbnail>https://ia601408.us.archive.org/19/items/6599_20201231/6607.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Comédia, Thriller
+Lançamento: 1996
+
+Keung (Jackie Chan) é um perito em artes marciais de Hong Kong que viaja para o casamento do seu tio em Nova York. Durante sua estada no Bronx, ele compra briga com motoqueiros e mafiosos, causando um verdadeiro terremoto de pancadaria na cidade. Para piorar, os policiais não conseguem controlar a situação e o lutador vai ter que resolver a situação pelas próprias mãos.</info>
+ 
+<genre>Crime, Ação, Comédia, Thriller</genre>
+ 
+<date>26/02/1996</date>
+</item>"
+"<item>
+
 <title>Dragon Ball: A Caminho do Poder [COLOR yellow][IMDb 7,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCServer01/videos/DBFILME04.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9414,6 +9471,25 @@ As gêmeas Hallie e Annie (Lindsay Lohan) foram separadas ainda pequenas. Uma fi
 <genre>Comédia, Família</genre>
  
 <date>29/07/1998</date>
+</item>"
+"<item>
+
+<title>Para Sempre Cinderela [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRSMPRCNDRLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601404.us.archive.org/9/items/6649_20210115/6656.jpg</image>
+<thumbnail>https://ia601404.us.archive.org/9/items/6649_20210115/6656.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Romance, Comédia
+Lançamento: 1998
+
+O clássico conto da Gata Borralheira ganha uma nova versão, mostrando o que seria a “verdadeira” história da Cinderela. Danielle perde seu pai muito nova e é criada por uma madrasta muito má. Já crescida, ela se apaixona pelo Príncipe Henry, o que pode estragar os planos ambiciosos da madrasta.</info>
+ 
+<genre>Drama, Romance, Comédia</genre>
+ 
+<date>31/07/1998</date>
 </item>"
 "<item>
 
