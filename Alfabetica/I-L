@@ -8440,6 +8440,25 @@ Lucas Nickle (Zach Tyler) é um garotinho de dez anos que acaba de se mudar para
 </item>"
 "<item>
 
+<title>Luccas Neto em: Acampamento de Férias 3 [COLOR yellow][IMDb 3,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LCSNTOEMACMPMTDFRS3.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6667.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6667.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia,Família
+Lançamento: 2021
+
+Nestas férias, Luccas Neto e seus amigos viajam para um novo acampamento! Desta vez, enfrentarão uma equipe de rivais muito habilidosos e uma chefe rigorosíssima. Surpresas e músicas divertidas aguardam você nesta nova aventura!</info>
+ 
+<genre>Comédia,Família</genre>
+ 
+<date>13/01/2021</date>
+</item>"
+"<item>
+
 <title>Luce [COLOR yellow][IMDb 6,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/LCE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
