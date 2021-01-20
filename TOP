@@ -3789,6 +3789,25 @@ Uma profunda investigação sobre o escândalo que abalou os Estados Unidos e o 
 </item>"
 "<item>
 
+<title>O Bebê de Rosemary [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OBBDRSMRY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6668.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6668.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Mistério
+Lançamento: 1968
+
+Um jovem casal se muda para um apartamento em Nova York para começar uma família. As coisas ficam assustadoras quando Rosemary começa a suspeitar que seu futuro bebê não está seguro ao lado dos seus estranhos vizinhos.</info>
+ 
+<genre>Terror, Drama, Mistério</genre>
+ 
+<date>12/06/1968</date>
+</item>"
+"<item>
+
 <title>O Estranho Mundo de Jack [COLOR yellow][IMDb 8,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/OESTNHMNDJCK.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9419,23 +9438,4 @@ Após um encontro casual com um agente, Caco decide ir para Hollywood buscar esp
 <genre>Música, Aventura, Comédia, Família</genre>
  
 <date>05/10/1979</date>
-</item>"
-"<item>
-
-<title>O Caçador de Pipas [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/OCACDRDPIPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801501.us.archive.org/21/items/3962_20201118/3829.jpg</image>
-<thumbnail>https://ia801501.us.archive.org/21/items/3962_20201118/3829.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama
-Lançamento: 2007
-
-Kabul. Amir (Zekeria Ebrahimi) e Hassan (Ahmad Khan Mahmidzada) são dois amigos, que se divertem em um torneio de pipas. Após a vitória neste dia um ato de traição de um menino marcará para sempre a vida de ambos. Amir passa a viver nos Estados Unidos, retornando ao Afeganistão apenas após 20 anos. É quando ele enfrenta a mão de ferro do governo talibã para tentar consertar o ocorrido em seu passado.</info>
- 
-<genre>Drama</genre>
- 
-<date>14/10/2007</date>
 </item>"
