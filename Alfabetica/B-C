@@ -3637,6 +3637,25 @@ Saigon, 1975 O Coronel James Braddock deixou para trás mais do que recordaçõe
 </item>"
 "<item>
 
+<title>Brahms: Boneco do Mal II [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRHMBNCDMAL2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6665.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6665.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2020
+
+Liza e sua jovem família se mudam para a Mansão Heelshire, em uma pequena vila na Inglaterra. Quando seu filho encontra um amigo no realista boneco Brahms, estranhos acontecimentos passam a cercar suas vidas de terror.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>07/05/2020</date>
+</item>"
+"<item>
+
 <title>Branca de Neve e o Caçador [COLOR yellow][IMDb 6,1][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/BRNCDNVEOCACDR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -8258,6 +8277,25 @@ Kayla Morgan, atleta de snowboard afastada da sua equipe, e Will Cloud, ex-campe
 </item>"
 "<item>
 
+<title>Clouds [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CLDS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6660.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6660.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Música, Drama, Romance
+Lançamento: 2021
+
+O jovem músico Zach Sobiech descobre que tem apenas alguns meses de vida devido a um câncer terminal. Com pouco tempo, corre atrás de seu sonho e grava um álbum, sem saber que logo será um fenômeno da Internet. Assim, a música dá um novo significado à vida de Zach e o ajuda a encontrar a maneira perfeita de se despedir... com uma música que será ouvida no mundo todo.</info>
+ 
+<genre>Música, Drama, Romance</genre>
+ 
+<date>29/01/2021</date>
+</item>"
+"<item>
+
 <title>Cloverfield: Monstro [COLOR yellow][IMDb 7,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/CLVRFLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9435,6 +9473,25 @@ Este filme é um guia (muito engraçado) para quem sonha com um relacionamento f
 <genre>Comédia</genre>
  
 <date>29/11/2019</date>
+</item>"
+"<item>
+
+<title>Como Construir uma Garota [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CMCNSTRUMGRTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6664.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6664.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Johanna tem 16 anos e é esperta, tem opiniões fortes e excesso de peso. Com hormônios furiosos ela está desesperada para sair de sua cidade natal e fazer um nome para si mesma - o que ela faz, se reinventando como Dolly Wilde, uma crítica de música de rock. Ganhando notoriedade como um enfant terrible, ela finalmente descobre 'como construir uma garota' - mas é essa a garota que ela queria construir?</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>08/05/2020</date>
 </item>"
 "<item>
 
