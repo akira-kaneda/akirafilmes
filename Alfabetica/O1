@@ -1351,6 +1351,25 @@ Depois de tantas idas e vindas, Bridget Jones (Renée Zellweger) e Mark (Colin F
 </item>"
 "<item>
 
+<title>O Bebê de Rosemary [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OBBDRSMRY.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6668.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6668.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Mistério
+Lançamento: 1968
+
+Um jovem casal se muda para um apartamento em Nova York para começar uma família. As coisas ficam assustadoras quando Rosemary começa a suspeitar que seu futuro bebê não está seguro ao lado dos seus estranhos vizinhos.</info>
+ 
+<genre>Terror, Drama, Mistério</genre>
+ 
+<date>12/06/1968</date>
+</item>"
+"<item>
+
 <title>O Bem-Aventurado [COLOR yellow][IMDb 6,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/OBMAVNTRDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -3989,6 +4008,25 @@ James, é um rico empresário que foi condenado por um crime que ele não comete
 <genre>Comédia</genre>
  
 <date>27/03/2015</date>
+</item>"
+"<item>
+
+<title>O Elevador [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ELASCNSR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6666.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6666.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Romance, Comédia
+Lançamento: 2021
+
+Sito e Ana são um casal feliz. Durante uma briga, Ana segue Sito até o elevador. Eles discutem na descida, mas quando chegam ao saguão, o elevador retorna ao 10º andar e começa tudo novamente. Eles estão presos em um loop temporal. Sito sabe, mas Ana não. Então, ele precisa convencê-la do que está acontecendo. Para conseguirem sair, eles precisarão solucionar seus problemas de relacionamento.</info>
+ 
+<genre>Ficção científica, Romance, Comédia</genre>
+ 
+<date>15/01/2021</date>
 </item>"
 "<item>
 
@@ -9500,4 +9538,1867 @@ Starr Carter (Amandla Stenberg) é uma adolescente negra de dezesseis anos que p
 <genre>Crime, Drama</genre>
  
 <date>19/10/2018</date>
+</item>"
+"<item>
+
+<title>O Oficial e o Espião [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OOFCLEOESPIAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4224.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4224.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História, Thriller
+Lançamento: 2020
+
+Paris, final do século 19. O capitão francês Alfred Dreyfus é um dos poucos judeus que faz parte do exército. No dia 22 de dezembro de 1884, seus inimigos alcançam seu objetivo: conseguem fazer com que Dreyfus seja acusado de alta traição. Pelo crime, julgado à portas fechadas, o capitão é sentenciado à prisão perpétua no exílio. Intrigado com a evolução do caso, o investigador Picquart decide seguir as pistas para desvendar o mistério por trás da condenação de Dreyfus.</info>
+ 
+<genre>Drama, História, Thriller</genre>
+ 
+<date>10/02/2020</date>
+</item>"
+"<item>
+
+<title>O Olho do Demônio [COLOR yellow][IMDb 3,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OOLHDODEMO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4225.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4225.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2019
+
+Uma jovem retorna à casa de campo de seu pai nos pântanos após sua morte misteriosa e encontra um amuleto amaldiçoado, conectado à bruxaria local. Ela liberta dois demônios mortais, que a assombram.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>26/02/2019</date>
+</item>"
+"<item>
+
+<title>O Olho do Mal [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OLHDML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4226.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4226.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror, Thriller
+Lançamento: 2008
+
+A violinista Sydney Wells sofreu um acidente durante sua infância que a deixou cega. Quando ela consegue recuperar a visão através de um transplante de córnea, ela passa a ver imagens sombrias e aterrorizantes que a amedrontam. Sem poder distinguir se a situação é devido a adaptação de seu corpo à nova situação, a jovem passa a desconfiar que a causa está ligada ao doador.</info>
+ 
+<genre>Drama, Terror, Thriller</genre>
+ 
+<date>01/02/2008</date>
+</item>"
+"<item>
+
+<title>O Operário [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OOPARIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4227.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4227.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2005
+
+A última vez em que Trevor Reznik (Christian Bale) dormiu foi há um ano, sendo que desde então o cansaço vem destruindo progressivamente sua saúde física e mental. Ele trabalha numa fábrica operando maquinário pesado, e faz de tudo para manter seu emprego. Envergonhado por causa de seu problema, Trevor isola-se cada vez mais, tornando-se paranóico. Depois de se envolver em um acidente no trabalho em que um homem perde um braço, Trevor começa a crer que seus colegas estão conspirando para demiti-lo. Ele precisará lutar não apenas para se manter no cargo, mas também para manter a sanidade.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>14/01/2005</date>
+</item>"
+"<item>
+
+<title>O Orfanato [COLOR yellow][IMDb 7,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OORFNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4228.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4228.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Drama, Thriller
+Lançamento: 2007
+
+Laura (Belén Rueda) passou os anos mais felizes de sua vida em um orfanato, onde recebeu os cuidados de uma equipe e de outros companheiros órfãos, a quem considerava como se fossem seus irmãos e irmãs verdadeiros. Agora, 30 anos depois, ela retornou ao local com seu marido Carlos (Fernando Cayo) e seu filho Simón (Roger Príncep), de 7 anos. Ela deseja restaurar e reabrir o orfanato, que está abandonado há vários anos. O local logo desperta a imaginação de Simón, que passa a criar contos fantásticos. Entretanto à medida que os contos ficam mais estranhos Laura começa a desconfiar que há algo à espreita na casa.</info>
+ 
+<genre>Terror, Drama, Thriller</genre>
+ 
+<date>28/12/2007</date>
+</item>"
+"<item>
+
+<title>O Otário [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OOTARIO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4229.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4229.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 2000
+
+Paul Tannek (Jason Biggs) é um jovem deslocado que vive num verdadeiro buraco na Universidade de Nova York. As garotas o rejeitam e os demais companheiros de faculdade simplesmente o ignoram. Até que ele conhece Dora Diamond (Mena Suvari), uma jovem estudante que é tão deslocada na cidade quanto ele. Dora não tem dinheiro nem lugar para morar, e seu namorado, o Professor Edward Alcott (Greg Kinnear), está mais interessado em manipulá-la do que em amá-la. Paul decide então ajudá-la a conseguir um emprego e a se vestir melhor, aprendendo ele mesmo a aproveitar melhor a cidade em que vive.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>21/07/2000</date>
+</item>"
+"<item>
+
+<title>O Ouro de Mackenna [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OORODMCKNA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4230.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4230.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Ação, Faroeste
+Lançamento: 1969
+
+Ao cavalgar pelo deserto o delegado Mackenna (Gregory Peck), é alvo de tiros dados por um velho chefe Apache. Ao responder aos tiros, MacKenna acaba ferindo mortalmente o velho índio. Antes de morrer, o chefe lhe dá um antigo mapa que, segundo ele, traz o segredo da localização do vale do ouro. Mas o alerta que, ao encontrar o veio de ouro, despertará a fúria de antigos deuses... Ele não acredita no velho e joga o mapa no fogo. Mas grava o desenho na memória... O bandido Colorado (Omar Sharif) sequestra McKenna, pois acredita que ele é a única pessoa viva que conhece o tortuoso caminho para o vale do ouro... Ao longo da jornada, novos personagens se juntam a esta busca...</info>
+ 
+<genre>Aventura, Ação, Faroeste</genre>
+ 
+<date>09/05/1969</date>
+</item>"
+"<item>
+
+<title>O Outro [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OOTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4231.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4231.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2018
+
+A persona de uma célebre autora é ameaçada quando sua melhor amiga e musa revela o segredo obscuro por trás da origem de seu primeiro romance, acendendo uma história incendiária de sexo, mentiras e traição.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>22/04/2018</date>
+</item>"
+"<item>
+
+<title>O Outro Lado do Céu [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OOUTRLDODCEU.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4232.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4232.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Drama, Família
+Lançamento: 2001
+
+John Groberg (Christopher Gorham) é um jovem missionário que, nos anos 50, embarca em uma longa viagem juntamente com os nativos da ilha Tongan, deixando para trás a noiva e sua família. Ao longo de sua viagem ele escreve cartas para sua noiva, relatando suas aventuras para sobreviver em uma terra desconhecida. Ao mesmo tempo Groberg conhece a cultura local e faz amigos nos 3 anos que passa longe de casa.</info>
+ 
+<genre>Ação, Aventura, Drama, Família</genre>
+ 
+<date>12/04/2001</date>
+</item>"
+"<item>
+
+<title>O Outro Lado do Céu 2: Fogo da Fé [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OOUTRLDODCEU2FGDFE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4233.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4233.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Aventura
+Lançamento: 2019
+
+O missionário John H. Groberg (Christopher Gorham) retorna em 1960 ao Reino de Tonga com seus filhos e sua esposa. Quando seu sexto filho nasce com uma grave doença, sua família enfrenta um teste final de fé e encontram apoio na oração das pessoas da região. As barreiras religiosas são destruídas quando todos se unem pela única esperança de um milagre que salve o bebê.</info>
+ 
+<genre>Drama, Aventura</genre>
+ 
+<date>28/06/2019</date>
+</item>"
+"<item>
+
+<title>O Outro Lado do Lago [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OOUTRLDOLGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4234.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4234.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror
+Lançamento: 2018
+
+Harry e Rose partem para um fim de semana no campo na tentativa de salvar o relacionamento já desgastado. Ao chegarem lá, atravessam o lago em uma canoa e chegam à cabana dos pais de Harry. Depois de uma conversa, fazem as pazes e aproveitam o que parecia ser uma noite bonita e tranquila. No meio da madrugada, contudo, a cabana é invadida e eles começam a ser perseguidos por alguém que quer matá-los a qualquer custo.</info>
+ 
+<genre>Thriller, Terror</genre>
+ 
+<date>04/12/2018</date>
+</item>"
+"<item>
+
+<title>O Outro Pai [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OOUTRPAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4235.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4235.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2019
+
+Após a morte da mãe, quatro irmãs descobrem um assustador segredo de família e partem numa jornada para descobrir a verdade sobre suas origens.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>03/05/2019</date>
+</item>"
+"<item>
+
+<title>O Pacote [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPCTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4236.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4236.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2018
+
+Após um inusitado acidente durante uma viagem, um grupo de amigos corre contra o tempo para que um deles consiga – literalmente – voltar para casa inteiro!</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>10/08/2018</date>
+</item>"
+"<item>
+
+<title>O Pacto [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPCTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4237.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4237.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror
+Lançamento: 2006
+
+No século 17, cinco famílias com poderes sobrenaturais fazem um pacto de silêncio. Eventualmente, uma família querendo todo o poder é banida. Os descendentes daquelas quatro famílias são herdeiros de um tremendo poder. Conhecido como os Filhos de Ipswich, os meninos atendem à academia de elite Spencer. Quando um aluno é encontrado morto após uma festa, segredos ameaçam quebrar o pacto que tem protegido as famílias dos meninos ao longo dos séculos.</info>
+ 
+<genre>Fantasia, Terror</genre>
+ 
+<date>08/09/2006</date>
+</item>"
+"<item>
+
+<title>O Pacto [COLOR yellow][IMDb 5,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPCTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4238.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4238.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Drama
+Lançamento: 2018
+
+Mónica é uma designer de jóias que tem a vida virada do avesso quando sua única filha, Clara, entra em um inexplicável coma. Mesmo com o auxílio dos médicos, nada parece melhorar a enfermidade da garota, até que uma misteriosa mulher apresenta a Mónica uma pedra que consegue tirá-la daquela condição. O que ela não diz é que, ao salvar uma vida, a pedra requer que duas sejam sacrificadas em retorno.</info>
+ 
+<genre>Terror, Thriller, Drama</genre>
+ 
+<date>17/08/2018</date>
+</item>"
+"<item>
+
+<title>O Pacto dos Lobos [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPCTODLBS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4239.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4239.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Terror, Ação, História
+Lançamento: 2002
+
+Em 1765, durante o reinado de Luís XV, uma misteriosa criatura traz pânico e terror em uma província rural da França. Chamada de a Besta de Gevaudan, ela atacava crianças e mulheres há meses e ninguém era capaz de prevenir suas ações, vê-la com nitidez ou sequer capturá-la. Desesperado em pôr um fim na situação, o rei decide então enviar ao local o renomado biólogo Gregóire de Fronsac (Samuel Le Bihan). Entretanto, Gregóire terá não apenas que lutar contra o monstro mas também contra a ignorância, a conspiração e a intolerância local, recebendo o apoio de duas mulheres, uma aristocrata e uma prostituta.</info>
+ 
+<genre>Aventura, Terror, Ação, História</genre>
+ 
+<date>14/06/2002</date>
+</item>"
+"<item>
+
+<title>O Padrasto [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPDSTRO1987.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4240.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4240.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 1987
+
+é um filme de terror e suspense estadunidense de 1987, coescrito por Carolyn Lefcourt, Brian Garfield, Donald E. Westlake e dirigido por Joseph Ruben. O filme é vagamente baseado na vida do serial killer John List. Teve as sequências ""Stepfather II"" e ""Stepfather III"", e a refilmagem The Stepfather.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>23/01/1987</date>
+</item>"
+"<item>
+
+<title>O Padrasto [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPDSTRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4241.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4241.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2009
+
+Após passar um tempo estudando em um colégio militar, Michael (Penn Badgley) descobre que sua mãe, Susan (Sela Ward), está morando com seu novo namorado, David Harris (Dylan Walsh). Ela parece profundamente envolvida com seu novo amor e demonstra estar feliz com o relacionamento. Entretanto, quanto mais Michael conhece David, mais ele passa a suspeitar das verdadeiras intenções de seu novo padastro.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>16/10/2009</date>
+</item>"
+"<item>
+
+<title>O Pagamento [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPGMNTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4242.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4242.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Mistério, Ficção científica, Thriller
+Lançamento: 2004
+
+Michael Jennings é um engenheiro de computação contratado por corporações para descobrir os segredos de empresas concorrentes. Quando ele finaliza um projeto, sua memória é apagada para evitar o vazamento de informações secretas. Porém, quando termina seu trabalho mais recente, ele acorda do processo de eliminação de memória apenas com um envelope na mão, contendo vários objetos, e começa a ser perseguido pela polícia.</info>
+ 
+<genre>Ação, Aventura, Mistério, Ficção científica, Thriller</genre>
+ 
+<date>12/03/2004</date>
+</item>"
+"<item>
+
+<title>O Paizão [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPZAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4243.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4243.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama
+Lançamento: 1999
+
+Sonny Koufax tem 32 anos de idade e passou toda a sua vida fugindo das responsabilidades. Mas quando sua namorada decide trocá-lo por um homem muito mais velho, ele resolve provar que está pronto para uma vida adulta com o objetivo de reconquistar o seu grande amor. Desesperado, Sonny adota um menino de cinco anos, Julian, para tentar impressionar a ex-namorada. Sem jeito para ser pai, aos poucos Sonny aprende a lidar com a nova situação e passa a gostar da criança.</info>
+ 
+<genre>Comédia, Drama</genre>
+ 
+<date>25/06/1999</date>
+</item>"
+"<item>
+
+<title>O Panaca [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPNCA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4244.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4244.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1980
+
+Navin R. Johnson (Steve Martin) cresceu no Mississipi, tendo sido adotado por uma família de agricultores negros. Ao completar 18 anos ele tem vontade de conhecer o resto do planeta e parte para St. Louis. Todos exploram sua ingenuidade e uma invenção banal o transforma em milionário.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>12/01/1980</date>
+</item>"
+"<item>
+
+<title>O Paradoxo Cloverfield [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRDXOCLVRFLD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4245.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4245.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Mistério, Thriller, Terror, Ficção científica
+Lançamento: 2018
+
+Orbitando um planeta à beira da guerra, cientistas testam um dispositivo para resolver uma crise de energia e acabam cara a cara com uma realidade alternativa obscura.</info>
+ 
+<genre>Mistério, Thriller, Terror, Ficção científica</genre>
+ 
+<date>04/02/2018</date>
+</item>"
+"<item>
+
+<title>O Parque dos Sonhos [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRQDSNHS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4246.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4246.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Animação, Aventura, Família, Fantasia
+Lançamento: 2019
+
+A jovem otimista e sonhadora June encontra escondido na floresta um parque de diversões chamado Wonderland, que é cheio de passeios e animais que falam. O único problema é que o parque está confuso e desorganizado. June logo descobre que o parque veio de sua imaginação e que ela é a única que pode deixar o lugar mágico de novo.</info>
+ 
+<genre>Comédia, Animação, Aventura, Família, Fantasia</genre>
+ 
+<date>14/03/2019</date>
+</item>"
+"<item>
+
+<title>O Passado de Alice [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPASDODALCE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4247.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4247.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2016
+
+Depois de quase ser assassinada e acordar de um coma, Alice não tem nenhuma memória. Conforme vai descobrindo terríveis verdades sobre o passado, ela luta por sua redenção.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>27/11/2016</date>
+</item>"
+"<item>
+
+<title>O Passageiro [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSGRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4248.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4248.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2018
+
+Durante o seu trajeto usual de volta para casa, um vendedor de seguros (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>08/03/2018</date>
+</item>"
+"<item>
+
+<title>O Peixe Grande & Begônia [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPXGRNDEBGNO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4249.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4249.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Aventura, Fantasia
+Lançamento: 2016
+
+Uma garota de um reino mágico se transforma em um golfinho para explorar o mundo humano, onde conhece um jovem e embarca numa perigosa missão.</info>
+ 
+<genre>Animação, Aventura, Fantasia</genre>
+ 
+<date>08/07/2016</date>
+</item>"
+"<item>
+
+<title>O Pequenino [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNINO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4250.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4250.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Crime
+Lançamento: 2006
+
+O anão Calvin mal saiu da prisão e já planeja um novo assalto a uma joalheria. Perseguido pela polícia, ele esconde o diamante na bolsa de Vanessa, cujo marido, Darryl, sonha em ter um filho. Aproveitando a oportunidade para recuperar a pedra, Calvin se veste como criança e é deixado em frente à casa de Darryl para que seja acolhido. O casal passa um final de semana com o pequeno e decide adotá-lo, acreditando ser um bebê abandonado.</info>
+ 
+<genre>Comédia, Crime</genre>
+ 
+<date>31/08/2006</date>
+</item>"
+"<item>
+
+<title>O Pequeno Narigudo [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNONRGDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4251.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4251.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Fantasia
+Lançamento: 2003
+
+Uma bruxa planeja conquistar o mundo, mas para tanto precisa da ajuda do garoto Jacob. Ele, filho de um humilde sapateiro, se recusa a ajudar a bruxa, que está disfarçada como uma bela senhora. Irritada, a bruxa lança uma maldição ao garoto, que o transforma em um anão feito e com um enorme nariz, além de deixá-lo preso no castelo por 7 anos. Quando finalmente consegue sair de sua prisão, Jacob retorna à sua casa mas descobre que a vida que tinha mudou drasticamente. Seu pai morrera de tristeza e sua mãe não mais o reconhecia. Porém, quando Jacob salva um ganso, descobre que ele é na verdade uma princesa, que também foi enfeitiçada pela bruxa. Eles então se unem para desfazer os feitiços que os afligem.</info>
+ 
+<genre>Animação, Fantasia</genre>
+ 
+<date>20/03/2003</date>
+</item>"
+"<item>
+
+<title>O Pequeno Nicolau [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPQNONCL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4252.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4252.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2009
+
+Nicolau (Maxime Godart) leva uma vida tranquila, sendo amado por seus pais e com diversos amigos, com os quais se diverte um bocado. Um dia ele surpreende uma conversa entre os pais, a qual faz com que acredite que sua mãe está grávida. Ele logo entra em pânico, pois acredita que assim que o bebê nascer ele não mais receberá atenção e será abandonado na floresta, assim como ocorre nas histórias do pequeno Poucet, de Perrault.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>10/10/2009</date>
+</item>"
+"<item>
+
+<title>O Pequeno Órfão [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPQNORFAO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4253.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4253.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Aventura, Família
+Lançamento: 2019
+
+As aventuras do jovem Rémi, cuidado pela gentil Sra Barberin. Aos 10 anos, ele é arrancado de sua mãe adotiva e confiado ao senhor Vitalis, um músico itinerante misterioso. Ao seu lado, ele vai aprender a dura vida de showman e cantar para ganhar o pão. Acompanhado pelo fiel cão Capi e o macaco Joli-Coeur, sua longa viagem através da França, de encontros, amizades e apoio mútuo, leva o segredo de suas origens…</info>
+ 
+<genre>Romance, Aventura, Família</genre>
+ 
+<date>07/02/2019</date>
+</item>"
+"<item>
+
+<title>O Pequeno Príncipe [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPQNPRNCP.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4254.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4254.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Fantasia, Família
+Lançamento: 2015
+
+A Pequena Garota encontra o excêntrico Aviador, que a introduz ao mágico mundo do Pequeno Príncipe. Neste mundo em que tudo é possível, a Garota aprende a redescobrir sua infância.</info>
+ 
+<genre>Aventura, Animação, Fantasia, Família</genre>
+ 
+<date>20/08/2015</date>
+</item>"
+"<item>
+
+<title>O Pequeno Spirou [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/ASAVNTRSDPQNSPR.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601405.us.archive.org/13/items/974_20200914/992.jpg</image>
+<thumbnail>https://ia601405.us.archive.org/13/items/974_20200914/992.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2017
+
+Adaptação para o cinema da história em quadrinhos 'Le Petit Spirou'. Petit Spirou está com seu destino traçado por sua família. No próximo ano escolar, ele vai entrar na escola de noivos. Surpreso, Petit Spirou decide, com a ajuda de seus amigos para usar seus últimos dias de aula para finalmente declarar seu amor por Suzette. E não importa como. Ele decide fazer uma incrível aventura em que descobre sua verdadeira vocação: aventureiro! Mas isso não será tão fácil, pois é contra as ambições da família...</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>27/09/2017</date>
+</item>"
+"<item>
+
+<title>O Pequeno Stuart Little [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNSTRTLTLE.mp4?expires=1604974123&token=940e2e4fd5e7031b4be107773edd6975|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4255.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4255.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Família, Comédia, Animação
+Lançamento: 2000
+
+Stuart era um rato abandonado que vivia num orfanato, junto com outras crianças. Até que a família Little decide adotar um irmão para seu filho George (Jonathan Lipnicki) e se apaixona pelo carisma do pequeno ratinho. Stuart é então adotado e passa a lidar com divergências com Snowbell, o gato da família, e o próprio irmão, que não o aceita.</info>
+ 
+<genre>Fantasia, Família, Comédia, Animação</genre>
+ 
+<date>14/01/2000</date>
+</item>"
+"<item>
+
+<title>O Pequeno Stuart Little 2 [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNSTRTLTLE2.mp4?expires=1604974172&token=4794c0b87ddd0ef9d0d142ff6feb260d|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4256.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4256.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Família, Aventura, Animação, Comédia
+Lançamento: 2002
+
+Num belo dia, ao retornar da escola, Stuart Little salva Margalo, um passarinho fêmea machucado, das garras de um falcão traiçoeiro. Stuart a leva para morar com sua família, onde Margalo se recupera rapidamente e cria uma grande amizade com o pequeno rato falante. Até que, repentinamente, Margalo desaparece junto com uma valiosa antiguidade da familia. É quando Stuart precisa reunir todas as suas forças para reencontrar Margalo e trazer de volta a antiguidade à sua casa.</info>
+ 
+<genre>Família, Aventura, Animação, Comédia</genre>
+ 
+<date>06/12/2002</date>
+</item>"
+"<item>
+
+<title>O Pequeno Stuart Little 3 [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPQNSTRTLTLE3.mp4?expires=1604974193&token=9f496feff5b168e53504759dc024df37|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4257.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4257.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Animação, Comédia, Família
+Lançamento: 2005
+
+Faz as malas e agarra a tua tenda de campismo, está na hora de embarcares com STUART LITTLE, numa grande aventura no bosque! Neste excitante filme de animação, os Little mergulham na vida selvagem ao decidir acampar longe da cidade. Só há um detalhe para o qual não estão preparados: a enorme e malvada fera que vive no bosque. Enquanto Stuart aprende as aptidões básicas de sobrevivência com a destemida doninha Reeko, o medroso Snowbell prefere proteger-se com o expedito gato vadio Monty. A melhor aventura de Stuart!</info>
+ 
+<genre>Fantasia, Animação, Comédia, Família</genre>
+ 
+<date>11/10/2005</date>
+</item>"
+"<item>
+
+<title>O Peregrino - Uma Jornada para o Céu [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRGRNO.mp4?expires=1604974225&token=46a0ad484f6ce638e407dfbbd87800e9|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4258.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4258.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Fantasia
+Lançamento: 2008
+
+O Peregrino, Uma Jornada para o Céu é uma adaptação moderna do conto clássico de John Bunyan. Efeitos visuais incríveis, lindas locações e um elenco maravilhoso dão vida à estória que inspirou gerações por centenas de anos. Siga Cristão e seus companheiros nesta grande jornada da Cidade da destruição para as portas do céu. Ao longo do caminho, os peregrinos encaram grandes e pequenos obstáculos feitos pelo homem e criados por demônios. Além da história fascinante, a poderosa obra de Bunyan nos ensina sobre perigos e a esperança da vida cristã sobre a triunfante glória que espera todos aqueles que seguem o Rei dos reis!</info>
+ 
+<genre>Aventura, Fantasia</genre>
+ 
+<date>27/09/2008</date>
+</item>"
+"<item>
+
+<title>O Perigo Bate à Porta [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRGBTAPRT.mp4?expires=1604974292&token=331c20530184a9b034fa439b921e3ccf|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4259.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4259.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2016
+
+Levemente inspirado nos assassinatos da Família Manson, a história mostra quatro amigos que se reúnem em uma aconchegante casa durante o verão de 1969, mas não tem noção de que um grupo de psicopatas estão à espreita do lado de fora. O que começa com uma simples festa de despedida se transforma numa noite de terror quando os visitantes se tornam violentos com os quatro, que são forçados a lutarem por suas vidas</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>21/10/2016</date>
+</item>"
+"<item>
+
+<title>O Perigo Mora ao Lado [COLOR yellow][IMDb 3,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRGOMRAOLDO.mp4?expires=1604974321&token=53a535733997ca014c177dbc81aa0642|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4260.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4260.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2018
+
+Rachel e Peter são um casal feliz que vive na cidade grande. Após Rachel ser assaltada, os dois resolvem se mudar para o subúrbio. Ao se estabilizarem em sua nova casa, eles só desejam viver uma vida tranquila. Porém, com o passar do tempo, seus vizinhos se mostram cada vez mais estranhos.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>31/01/2018</date>
+</item>"
+"<item>
+
+<title>O Pesadelo [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSDLO.mp4?expires=1604974338&token=6236ea0b73cb83d25bfd267949ada36e|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4261.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4261.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Terror, Drama, Mistério
+Lançamento: 2005
+
+Tim Jensen (Barry Watson) cresceu em uma casa aparentemente mal-assombrada, o que fez com que crescesse cheio de traumas de sua infância. Em uma tentativa de eliminá-los de uma vez por todas, ele aceita retornar à casa onde cresceu para saber se os seres que tanto o atormentaram no passado são verdadeiros ou apenas fruto de sua imaginação.</info>
+ 
+<genre>Thriller, Terror, Drama, Mistério</genre>
+ 
+<date>04/02/2005</date>
+</item>"
+"<item>
+
+<title>O Pesadelo 2 [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSDLO2.mp4?expires=1604974374&token=d022e7954dc089477efcf07a0df6b3e5|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4262.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4262.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2007
+
+Uma jovem mulher tenta curar sua fobia do bicho-papão, verificando-se em uma unidade de saúde mental, apenas para perceber tarde demais que ela agora está preso sem poder fazer nada com ela própria maior medo.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>20/10/2007</date>
+</item>"
+"<item>
+
+<title>O Pesadelo 3 [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSDLO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4263.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4263.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2008
+
+Quando um estudante universitário testemunhas do alegado suicídio de seu companheiro de quarto, ele põe em movimento uma série de terríveis acontecimentos que causam a temer a entidade sobrenatural. Enquanto ela tenta convencer o resto do seu dormitório que o Boogeyman existir, a força do mal se torna mais forte e seus amigos começam a pagar o preço. Agora ela deve parar este último mal antes de todo o campus cai presa.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>17/10/2008</date>
+</item>"
+"<item>
+
+<title>O Pesadelo De Um Pai [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSDLDUPAI.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4264.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4264.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Cinema TV
+Lançamento: 2018
+
+O pai manda a filha para a universidade. Lá ela não demora para cair nos encantos da sua companheira de quarto. Logo a manipulação desta nova amizade a distanciará do seu pai, que descobre os verdadeiros motivos.</info>
+ 
+<genre>Thriller, Cinema TV</genre>
+ 
+<date>16/09/2018</date>
+</item>"
+"<item>
+
+<title>O Peso do Passado [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPSODPSADO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4265.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4265.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Crime, Drama, Ação
+Lançamento: 2019
+
+Erin Bell é uma detetive da Polícia de Los Angeles que, quando jovem, foi colocada à paisana com uma gangue no deserto da Califórnia, com resultados trágicos. Quando o líder dessa gangue reaparecer muitos anos depois, ela deve trabalhar o caminho de volta através dos membros remanescentes e em sua própria história com eles para finalmente contar com os demônios que destruíram seu passado.</info>
+ 
+<genre>Thriller, Crime, Drama, Ação</genre>
+ 
+<date>17/01/2019</date>
+</item>"
+"<item>
+
+<title>O Peste [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPSTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4266.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4266.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Comédia
+Lançamento: 1997
+
+Em Miami, o divertido Pestario Vargas (John Leguizamo) está prestes a entrar numa aventura, onde ele terá que ser a presa e, se sobreviver, ele ganhar 50 mil dólares.</info>
+ 
+<genre>Ação, Comédia</genre>
+ 
+<date>07/02/1997</date>
+</item>"
+"<item>
+
+<title>O Pestinha [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPESTNH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4267.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4267.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1990
+
+Ben Healy (John Ritter) é um simpático mas batido yuppie, que trabalha para seu pai, Big Ben (Jack Warden), um autoritário negociante de materiais esportivo. Ben amaria ter um filho, mas Flo (Amy Yasbeck), sua esposa, não pode concebê-lo. Ben vai até uma agência de adoção pouco escrupulosa e fala de seu dilema com o agente Igor Peabody (Gilbert Gottfried), que apresenta a Ben e a Flo um atraente menino de sete anos, Junior (Michael Oliver), que na verdade não é uma criança modelo, pois é malévolo e incorrigível. Já adotado, Junior deixa um rastro de destruição no seu caminho e mostra um método efetivo, mas pouco ético, de ganhar na Liga Infantil. Ben está tendo dúvidas sérias sobre Junior quando Martin Beck (Michael Richards), um serial killer, escapa da prisão e seqüestra Junior e sua nova mãe.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>27/07/1990</date>
+</item>"
+"<item>
+
+<title>O Pestinha 2 [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPESTNH2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4268.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4268.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 1991
+
+Recém divorciado, Ben e seu filho Junior mudam-se para uma nova cidade onde existem muitas mulheres separadas disponíveis. Logo elas tratam de fazer fila na porta de Ben, enquanto Junior tortura seus vizinhos e colegas de classe com suas travessuras cruéis. Uma divorciada persistente consegue colocar suas garras no novo solteirão da cidade, apesar do amor dele por uma bela enfermeira, e os dois concordam em se casar. Agora Junior e sua amiga Trixie, filha da enfermeira, precisam impedir o casamento a qualquer custo.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>03/07/1991</date>
+</item>"
+"<item>
+
+<title>O Pestinha 3 [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPESTNH3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4269.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4269.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2005
+
+A terceira parte da trilogia O Pestinha traz o endiabrado Junior em sua fase pré-adolescente. Ele está apaixonado por Tiffany, a garota mais popular e bonita da escola, que nem ao menos sabe que ele existe. O que ela sabe é que outros três garotos estão interessados nela e para Junior, endiabrado como sempre, eles não passam de rivais. Está armada a cena para uma verdadeira guerra! E para conquistar o coração da bela Tiffany e se livrar dos concorrentes ele vai precisar contar com a ajuda de seu avô, o velho Big Ben.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>13/10/2005</date>
+</item>"
+"<item>
+
+<title>O Pianista [COLOR yellow][IMDb 3,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPNSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4270.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4270.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Guerra
+Lançamento: 2003
+
+Um pianista judeu polonês vê Varsóvia mudar gradualmente à medida que a Segunda Guerra Mundial começa. Szpilman é forçado a ir para o Gueto de Varsóvia, mas depois é separado de sua família durante a Operação Reinhard. A partir deste momento até que os prisioneiros dos campos de concentração sejam liberados, Szpilman se esconde em vários locais entre as ruínas de Varsóvia.</info>
+ 
+<genre>Drama, Guerra</genre>
+ 
+<date>07/03/2003</date>
+</item>"
+"<item>
+
+<title>O Pintassilgo [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPNTSLGO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4271.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4271.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Theodore Decker (Ansel Elgort) sobreviveu a um atentato terrorista em uma galeria de arte, mas perdeu sua mãe no local. Vivendo em Las Vegas, ele acaba ingressando em uma carreira perigosa e à margem da lei: a falsificação de obras.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>10/10/2019</date>
+</item>"
+"<item>
+
+<title>O Pior Trabalho do Mundo [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPIRTRBLHODMNDO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4272.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4272.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2010
+
+Um ambicioso executivo de uma gravadora, Aaron Green, tem que fazer o que parece ser uma tarefa fácil: acompanhar uma estrela de rock, Aldous Snow, até o Teatro Grego de Los Angeles para a o primeiro show de uma turnê. Mas Snow tem outros planos. Sabendo que seu grande amor está na Califórnia, o roqueiro quer reconquistá-la e pode acabar deixando o show em segundo plano.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>04/06/2010</date>
+</item>"
+"<item>
+
+<title>O Planeta dos Macacos [COLOR yellow][IMDb 8,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/PLNTDSMCMCS1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4274.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4274.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Drama, Ação
+Lançamento: 1968
+
+George Taylor (Charlton Heston), um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.</info>
+ 
+<genre>Ficção científica, Aventura, Drama, Ação</genre>
+ 
+<date>07/02/1968</date>
+</item>"
+"<item>
+
+<title>O Planeta Vermelho [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPLNTVERML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4275.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4275.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller, Terror
+Lançamento: 2013
+
+Missão espacial descobre evidências microscópicas de vida no seu último dia em Marte. Os dois astronautas da expedição decidem usar suas últimas horas no planeta para buscar mais provas de vida em uma região chamada Site 9. Durante a escavação, uma tragédia acontece e um dos astronautas é tomado pela estranha forma de vida marciana.</info>
+ 
+<genre>Ficção científica, Thriller, Terror</genre>
+ 
+<date>06/12/2013</date>
+</item>"
+"<item>
+
+<title>O Plano de Maggie [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/MAGTMPLNS.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4276.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4276.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia, Romance
+Lançamento: 2016
+
+A jovem Maggie, tenta viver por conta própria na cidade que nunca dorme: Nova Iorque. A moça deseja ter um filho, criando-o por conta própria, mas quando ela se envolve romanticamente com John, um homem casado, as coisas podem se complicar e todo o equilíbrio dos planos de Maggie pode cair por terra.</info>
+ 
+<genre>Drama, Comédia, Romance</genre>
+ 
+<date>10/11/2016</date>
+</item>"
+"<item>
+
+<title>O Plano Imperfeito [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPLNIMPRPTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4277.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4277.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2018
+
+Harper (Zoey Deutch) e Charlie (Glen Powell) são dois assistentes executivos sobrecarregados e mal pagos, derrotados pela competição acirrada de Manhattan. Pouco conscientes de seus próprios sonhos adiados, esses jovens de vinte e poucos anos vivem para servir um par de chefes durões (Lucy Liu e Taye Diggs) que os levam a um frenesi diário. Reunindo-se por puro desespero, Harper e Charlie criam um plano para se tornarem casamenteiros secretos, tirando seus chefes das costas e atraindo-os para um falso romance. Mas o que começa como uma manobra brilhante rapidamente sai de controle quando percebem que ser o mestre de marionetes não é tão simples quanto parece.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>15/06/2018</date>
+</item>"
+"<item>
+
+<title>O Plano Perfeito [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPLNOPRFTO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4278.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4278.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 2006
+
+Assaltantes vestidos com uniformes de pintor invadem um movimentado banco em Nova York e fazem reféns. A polícia chega ao local esperando resolver a situação rapidamente, mas os detetives Frazier e Mitchell se surpreendem com a inteligência e a frieza do líder dos bandidos, Dalton Russell, que parece estar sempre um passo à frente das ações da polícia.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>24/03/2006</date>
+</item>"
+"<item>
+
+<title>O Plano Perfeito 2 [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPLNOPRFTO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4279.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4279.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2020
+
+Um negociador de reféns da NYPD se junta a um agente federal para resgatar dezenas de turistas mantidos reféns durante um sequestro de 10 horas no U.S. Federal Reserve.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>08/03/2020</date>
+</item>"
+"<item>
+
+<title>O Poço [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4280.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4280.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Ficção científica, Thriller
+Lançamento: 2019
+
+Em uma prisão onde os detentos nos andares de cima comem melhor do que os que estão abaixo, um homem decide fazer algo para mudar essa situação.</info>
+ 
+<genre>Drama, Ficção científica, Thriller</genre>
+ 
+<date>08/11/2019</date>
+</item>"
+"<item>
+
+<title>O Poder da Coragem [COLOR yellow][IMDb 7,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/NERJA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4281.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4281.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2016
+
+Neerja é um retrato da vida da corajosa comissária de bordo Neerja Bhanot, que sacrificou sua vida protegendo 359 passageiros do voo 73 da Pan Am, em 1986. O voo, que ia de Mumbai, na Índia, para os Estados Unidos, foi sequestrado por quatro integrantes da organização terrorista Abu Nidal, que tinham a intenção de lançá-lo contra um prédio em Israel.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>19/02/2016</date>
+</item>"
+
+"<item>
+
+<title>O Poder e o Impossível  [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPODREOIMPSVL.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4283.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4283.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2017
+
+Um atleta de snowboard, viciado em adrenalina, acaba preso em uma grande tempestade de neve. Isolado, nos limites de sua resistência e sem conseguir contato com ninguém, ele precisará fazer o possível e o impossível para sair dessa situação fatal, enfrentando seus medos e também seu passado.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>14/12/2017</date>
+</item>"
+"<item>
+
+<title>O Poderoso Chefão [COLOR yellow][IMDb 9,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO1.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4284.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4284.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1972
+
+Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>07/07/1972</date>
+</item>"
+"<item>
+
+<title>O Poderoso Chefão: Parte II [COLOR yellow][IMDb 9,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4285.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4285.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 1975
+
+Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>14/02/1975</date>
+</item>"
+"<item>
+
+<title>O Poderoso Chefão: Parte III [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPDRSOCFAO3.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4286.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4286.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 1991
+
+Don Michel Corleone está envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitimação dos interesses da família, em Nova York e na Itália, antes de sua morte. Mas seu protegido não está só interessado em parte do império da família. Ele também deseja a filha de Michael, Mary.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>15/03/1991</date>
+</item>"
+"<item>
+
+<title>O Poderoso Chefinho [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4287.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4287.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Comédia, Família
+Lançamento: 2017
+
+Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
+ 
+<genre>Animação, Comédia, Família</genre>
+ 
+<date>30/03/2017</date>
+</item>"
+"<item>
+
+<title>O Policial do Futuro [COLOR yellow][IMDb 4,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPLCLDFUT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4288.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4288.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Ficção científica
+Lançamento: 2016
+
+Um detetive de homicídios danificado (Johnny Messner ) deve impedir que um pai em luto de desencadear um “vírus robótico ” que ele acredita que irá destruir a célula terrorista que assassinou seu filho, mas a um custo inimaginável.</info>
+ 
+<genre>Thriller, Ação, Ficção científica</genre>
+ 
+<date>01/03/2016</date>
+</item>"
+"<item>
+
+<title>O Prazer de sua Companhia [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRZRDSUACMPNH.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/7/items/1883_20201001/1979.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/7/items/1883_20201001/1979.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2008
+
+Depois de perder a mulher de seus sonhos, Anderson (Biggs) está convencido de que nunca irá se apaixonar outra vez. Mas graças a seu melhor amigo ele é encorajado a conhecer uma garçonete chamada Katie (Fisher). Mesmo sendo uma desconhecida, Anderson não leva muito tempo para pedir a moça em casamento. Uma situação desconcertante, mas que irá mostrar que aquele era o tipo de amor que Anderson e Katie sempre estiveram procurando.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>15/01/2008</date>
+</item>"
+"<item>
+
+<title>O Prazer de sua Companhia [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRZRDSCMPNHA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4289.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4289.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2008
+
+Depois de perder a mulher de seus sonhos, Anderson (Biggs) está convencido de que nunca irá se apaixonar outra vez. Mas graças a seu melhor amigo ele é encorajado a conhecer uma garçonete chamada Katie (Fisher). Mesmo sendo uma desconhecida, Anderson não leva muito tempo para pedir a moça em casamento. Uma situação desconcertante, mas que irá mostrar que aquele era o tipo de amor que Anderson e Katie sempre estiveram procurando.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>15/01/2008</date>
+</item>"
+"<item>
+
+<title>O Preço [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRC.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4290.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4290.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 2017
+
+Seyi Ogunde é um jovem nigeriano imigrante que trabalha em Wall Street e está desesperado para ter sucesso em sua carreira. Além do trabalho estressante, ele precisa lidar com a saúde debilitada de seu pai e o início do namoro com uma jovem branca.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>10/11/2017</date>
+</item>"
+"<item>
+
+<title>O Preço da Ajuda [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCDAJDA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5711.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5711.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Cinema TV, Thriller
+Lançamento: 2020
+
+Em O Preço da Ajuda, Karen (Michelle Borth) é uma mulher que nunca planejou ser uma heroína. Viúva recente, ela ocupa seu tempo com o emprego e cuidando de seu filho Max. Um dia, Karen salva a vida de Jeremy (Mark Rendall) durante um assalto a uma drogaria. Rapidamente, ela descobre que o rapaz, encantado com ela, pretende retribuir o favor a qualquer custo. À medida que os esforços de Jeremy se tornam mais extremos, Karen começa a se perguntar até onde ele irá com a sua fixação.</info>
+ 
+<genre>Cinema TV, Thriller</genre>
+ 
+<date>13/03/2020</date>
+</item>"
+"<item>
+
+<title>O Preço da Coragem [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCDCRGM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5741.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5741.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2007
+
+23 de janeiro de 2003. Daniel Pearl (Dan Futterman), chefe da sucursal do Wall Street Journal no sudeste asiático, está trabalhando numa matéria sobre um homem-bomba chamado Richard Reid. Sua pesquisa o levou a Karashi, onde um intermediário lhe prometeu uma boa fonte. Quando Daniel saiu para a entrevista avisou Mariane (Angelina Jolie), sua esposa, de que talvez voltasse tarde. Porém ele jamais retornou. Grávida de 6 meses, Mariane decidiu escrever um livro para apresentar a seu filho quem era seu pai, que ele não conheceria.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>02/11/2007</date>
+</item>"
+"<item>
+
+<title>O Preço da Ganância [COLOR yellow][IMDb 4,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCDGNCIA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4291.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4291.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama
+Lançamento: 2017
+
+Durante uma excursão de fim de semana na mata, três amigos descobrem quatro malas cheias de dinheiro. Elas pertencem a Miller, um homem de negócios que deixa tudo para trás, incluindo sua família, para começar uma nova vida depois de desviar o dinheiro de um cliente. A ganância dos jovens logo colocará-los contra Miller - que fará de tudo para recuperar a quantia - e contra eles mesmos.</info>
+ 
+<genre>Thriller, Drama</genre>
+ 
+<date>14/10/2017</date>
+</item>"
+"<item>
+
+<title>O Preço da Liberdade [COLOR yellow][IMDb 2,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRCDLBRD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4292.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4292.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Drama, Ficção científica
+Lançamento: 2012
+
+No ano de 2030, a América tornou-se uma versão distorcida de liberdade. A verdade é silenciada, e aqueles com fé ousada agora são terroristas – os terroristas que devem ser caçados e destruídos. Com a ajuda de seu amigo Aaron, um SEAL da Marinha especialista em informática, Zach elabora um plano para quebrar o bloco do governo para baixo em webcasts desonestos. Mas a sua proclamação de fé vem com um preço pesado. Agora, preso por o governante implacável, Jack Johansen, Zach tem que lutar por sua vida, seus amigos e sua querida esposa e filhos. Mas, mesmo com a morte batendo à sua porta, Zach deve completar sua missão – uma missão da qual ele nunca pode voltar. “A Liberdade do Silêncio” é uma história fascinante, uma que irá produzir os fogos de liberdade em todos nós!</info>
+ 
+<genre>Thriller, Drama, Ficção científica</genre>
+ 
+<date>07/01/2012</date>
+</item>"
+"<item>
+
+<title>O Preço da Verdade [COLOR yellow][IMDb 7,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCDVRDAD.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4293.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4293.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller
+Lançamento: 2020
+
+Um advogado arrisca sua carreira e família para descobrir um sombrio segredo escondido por uma das maiores empresas do mundo e levar justiça a uma comunidade perigosamente exposta por décadas a produtos químicos mortais.</info>
+ 
+<genre>Drama, Thriller</genre>
+ 
+<date>13/02/2020</date>
+</item>"
+"<item>
+
+<title>O Preço de um Resgate [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRCDUMRSGT.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4294.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4294.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 1996
+
+O proprietário de uma companhia aérea, Tom Mullen, acumulou grande riqueza trabalhando arduamente. Um grupo de criminosos sequestra seu filho e pede um resgate de dois milhões de dólares. Incentivado por sua esposa e um agente do FBI, Tom prepara-se para pagar, mas a entrega do resgate dá errado. Enfurecido, Tom decide virar a mesa e oferece dinheiro pela vida dos sequestradores, na televisão, em rede nacional.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>08/11/1996</date>
+</item>"
+"<item>
+
+<title>O Preço do Amanhã [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRCDAMNHA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4295.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4295.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller, Ficção científica
+Lançamento: 2011
+
+Acusado de assassinato, um homem deve descobrir como derrubar um sistema onde tempo é dinheiro e que permite que os ricos vivam para sempre, enquanto os pobres devem implorar por cada minuto de suas vidas.</info>
+ 
+<genre>Ação, Thriller, Ficção científica</genre>
+ 
+<date>04/11/2011</date>
+</item>"
+"<item>
+
+<title>O Preço do Desafio [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRCDSFIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4296.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4296.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 1988
+
+O professor Jaime Escalante tenta educar uma classe de alunos problemáticos em um bairro pobre de Los Angeles. Para motivar os jovens, a maioria de ascendência mexicana como ele, o professor resolve apelar para sua própria herança cultural. Assim, ele evoca latino-americanos famosos por seus feitos para demonstrar a importância do aprendizado na conquista da cidadania. Paulatinamente, a maré vira a seu favor.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>11/03/1988</date>
+</item>"
+"<item>
+
+<title>O Predador [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4297.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4297.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Aventura, Thriller
+Lançamento: 1987
+
+O major Alan ""Dutch"" Schaefer lidera uma equipe de resgate em uma selva da América Central, para tentar encontrar um ministro estrangeiro e funcionários do governo que saíram da rota e se perderam. O exército acredita que eles estejam nas mãos de guerrilheiros, mas o que eles não imaginam é que a floresta esconde uma ameaça mortal, um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.</info>
+ 
+<genre>Ficção científica, Ação, Aventura, Thriller</genre>
+ 
+<date>30/07/1987</date>
+</item>"
+"<item>
+
+<title>O Predador [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4298.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4298.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller, Aventura, Terror, Comédia
+Lançamento: 2018
+
+Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett é chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido em cativeiro.</info>
+ 
+<genre>Ficção científica, Ação, Thriller, Aventura, Terror, Comédia</genre>
+ 
+<date>14/09/2018</date>
+</item>"
+"<item>
+
+<title>O Predador 2: A Caçada Continua [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/PRDRS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5025.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5025.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Ação, Thriller
+Lançamento: 1990
+
+Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.</info>
+ 
+<genre>Ficção científica, Ação, Thriller</genre>
+ 
+<date>20/11/1990</date>
+</item>"
+"<item>
+
+<title>O Predestinado [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRDSTNDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4299.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4299.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Thriller
+Lançamento: 2014
+
+Um agente temporal (Ethan Hawke) encara sua última missão após anos de viagens no tempo caçando criminosos e executando a lei. O desafio final será finalmente capturar seu inimigo mais desafiador, o homem que há muito o intriga e ludibria.</info>
+ 
+<genre>Ficção científica, Thriller</genre>
+ 
+<date>24/12/2014</date>
+</item>"
+"<item>
+
+<title>O Pregador Sinistro [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPRGDRSNSTRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4300.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4300.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Thriller, Cinema TV
+Lançamento: 2017
+
+Um assassino em série se mascarou como um pregador para se vingar das mulheres. Sua última esposa pode ter se suicidado e sua esposa atual está doente. A mãe solteira Trish e sua filha se mudam para a cidade e estão em risco de se tornarem suas próximas vítimas.</info>
+ 
+<genre>Drama, Thriller, Cinema TV</genre>
+ 
+<date>12/09/2017</date>
+</item>"
+"<item>
+
+<title>O Presente [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRSENT.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4301.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4301.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Mistério, Drama
+Lançamento: 2015
+
+Simon e Robyn casaram há pouco tempo e estão muito felizes até o dia em que ele reencontra Gordo, um colega de escola. Um segredo do passado dos dois vem à tona e Robyn se sente cada vez mais insegura perto do companheiro.</info>
+ 
+<genre>Thriller, Mistério, Drama</genre>
+ 
+<date>03/12/2015</date>
+</item>"
+"<item>
+
+<title>O Presente de Natal de Angela [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRSNTDNTLDANGLA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</image>
+<thumbnail>https://ia801501.us.archive.org/13/items/6573_20201223/6560.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação
+Lançamento: 2020
+
+Com o pai trabalhando na Austrália, a pequena Ângela bola um plano para realizar seu grande desejo: reunir a família no Natal.</info>
+ 
+<genre>Animação</genre>
+ 
+<date>01/12/2020</date>
+</item>"
+"<item>
+
+<title>O Primeiro Homem [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRMRHOME.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4302.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4302.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: História, Drama
+Lançamento: 2018
+
+A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrifícios e custos de Neil e toda uma nação durante uma das mais perigosas missões na história das viagens espaciais.</info>
+ 
+<genre>História, Drama</genre>
+ 
+<date>18/10/2018</date>
+</item>"
+"<item>
+
+<title>O Primeiro Mentiroso [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRMROMRNTSO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4303.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4303.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Fantasia, Romance
+Lançamento: 2009
+
+Num mundo em que as pessoas falam e conhecem apenas a verdade, Mark Bellison (Ricky Gervais), um fracassado desiludido, inventa a mentira e torna-se uma espécie de guru, conquistando fama e fortuna.</info>
+ 
+<genre>Comédia, Fantasia, Romance</genre>
+ 
+<date>14/09/2009</date>
+</item>"
+"<item>
+
+<title>O Primeiro Ministro [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRMRMSTRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4304.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4304.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2016
+
+O primeiro ministro da Bélgica é sequestrado junto a sua mulher e seus filhos logo antes de uma visita oficial da presidente dos Estados Unidos. Os sequestradores lhe oferecem uma chance para salvar sua família: agora, ele é encarregado de assassinar a mandatária estadunidense.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>02/03/2016</date>
+</item>"
+"<item>
+
+<title>O Primeiro Passo [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRMROPASO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4305.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4305.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Família
+Lançamento: 2016
+
+Depois de discutir com o treinador do time de futebol americano da escola, Austin, o melhor jogador do time, é posto de lado e não joga mais. Desiludido, ele muda de cidade numa tentativa de retomar sua carreira e recuperar sua grande chance na vida. Só que as coisas começam mal quando ele arruma problemas com seus novos colegas – Austin é mal recebido pelas estrelas do time. Com o passar dos dias, a situação piora violentamente. Obrigado a rever o modo como encara sua própria vida, Austin conhece novos amigos, que o levam para conhecer o grupo de jovens da igreja local.</info>
+ 
+<genre>Comédia, Drama, Família</genre>
+ 
+<date>15/07/2016</date>
+</item>"
+"<item>
+
+<title>O Príncipe das Sombras [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDSMBRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4306.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4306.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1987
+
+Uma equipe de pesquisa encontra um cilindro misterioso em uma igreja deserta. Se aberto, pode significar o fim do mundo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>23/10/1987</date>
+</item>"
+"<item>
+
+<title>O Príncipe de Peoria e o Milagre de Natal [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRNCDPRIAEOMLGDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4307.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4307.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2018
+
+Com apenas 13 anos, Emil (Gavin Lewis) é o príncipe de um rico reino insular que decide viajar até os Estados Unidos para viver anonimamente como um estudante de intercâmbio. Lá, ele começa uma amizade improvável com Teddy (Theodore Barnes), um adolescente exigente e estudioso que é seu completo oposto.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>17/12/2018</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Egito [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRNCPDEGTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4308.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4308.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Drama, Família
+Lançamento: 1998
+
+No Egito antigo, quando os hebreus lá viviam como escravos e o faraó Seti, temendo o constante nascimento de crianças hebréias, pois no futuro poderiam se tornar uma força que ameaçasse seu poder, ordena que todos os bebês hebreus do sexo masculino sejam afogados. Uma hebréia se desespera ao ver que seu filho poderá ser morto e, para salvá-lo, o coloca em uma cesta no rio. A criança acaba sendo encontrada pela rainha, assim Moisés criado como irmão de Ramsés, o herdeiro do trono de Seti. Os dois crescem e se tornam grande amigos, mas Moisés acaba descobrindo sua origem, decide abandonar o palácio e libertar os hebreus, para levá-los para a Terra Prometida.</info>
+ 
+<genre>Aventura, Animação, Drama, Família</genre>
+ 
+<date>15/12/1998</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRNCPDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4309.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4309.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2017
+
+Uma jovem jornalista recebe um belo presente de Natal ao ser enviada para cobrir a história de um príncipe prestes a se tornar rei.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>17/11/2017</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal: O Bebê Real [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDNTLOBBREL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4310.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4310.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Família
+Lançamento: 2019
+
+Neste Natal, Aldovia vai ganhar um presente de especial: um bebê real. Mas, antes, a rainha Amber precisa desvendar um mistério para proteger a família e o reino.</info>
+ 
+<genre>Romance, Família</genre>
+ 
+<date>05/12/2019</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal: O Casamento Real [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDNTLOCSMNTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4311.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4311.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2018
+
+Um ano após Amber ajudar Richard a conquistar a coroa, os dois estão prestes a se casar (no Natal), mas seus planos são ameaçados quando ela começa a ter dúvidas sobre ser ou não uma rainha, enquanto Richard enfrenta uma crise política que não só ameaça o período festivo mas o futuro do reino.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>30/11/2018</date>
+</item>"
+"<item>
+
+<title>O Príncipe Feliz [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRCNPFLZ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4312.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4312.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2018
+
+Icônico autor, Oscar Wilde passou por momentos difíceis. Casado com Constance, o dramaturgo vai parar atrás das grades após se envolver com outro homem. Tempos depois, ele é solto e inicia uma viagem pela Europa, local que será palco de seus três últimos anos de vida.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>10/10/2018</date>
+</item>"
+"<item>
+
+<title>O Profissional [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPRFSNAL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4315.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4315.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Ação
+Lançamento: 1995
+
+Mathilda tem apenas 12 anos de idade mas já conhece o lado obscuro da vida: seu pai abusivo guarda drogas para policiais corruptos e a mãe a negligencia. O vizinho Léon gosta de cuidar de plantas, mas é um assassino de aluguel para o gângster Tony. Quando sua família é assassinada por um agente antidrogas desonesto, Mathilda se une a um relutante Léon para aprender o negócio mortal e vingar a morte da família.</info>
+ 
+<genre>Crime, Drama, Ação</genre>
+ 
+<date>17/02/1995</date>
+</item>"
+"<item>
+
+<title>O Projeto Filadélfia [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPJTOFLDFA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4317.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4317.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Thriller
+Lançamento: 1984
+
+Durante a Segunda Guerra Mundial, cientistas e militares norte-americanos se unem para a realização do ""Projeto Filadélfia"", uma experiência com campos de força cujo objetivo é tornar um enorme porta-aviões invisível ao radar inimigo. O experimento funciona, mas a embarcação realmente desaparece por alguns minutos, ficando invisível. Na verdade, ela foi sugada por uma espécie de buraco negro, por onde dois dos marinheiros, David (Michael Paré) e Jim (Bobby Di Cicco), atravessam um portal do tempo, chegando ao ano de 1984. Completamente perdidos, cultural e geograficamente, eles são perseguidos pelo exército enquanto tentam encontrar uma forma de voltar ao seu próprio tempo.</info>
+ 
+<genre>Ficção científica, Aventura, Thriller</genre>
+ 
+<date>03/08/1984</date>
+</item>"
+"<item>
+
+<title>O Protetor [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRTOR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4318.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4318.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2014
+
+O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Porém, quando ele conhece Teri, uma jovem que está em poder de uma quadrilha russa, ele simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>25/09/2014</date>
+</item>"
+"<item>
+
+<title>O Protetor 2 [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRTOR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4319.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4319.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2018
+
+Robert McCall agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave, no intuito de encontrar pistas sobre o autor do crime.</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>16/08/2018</date>
+</item>"
+"<item>
+
+<title>O Público [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPBLCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4320.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4320.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Em uma biblioteca pública de Cincinnati, em Ohio, muitos dos clientes são moradores de rua e pessoas com problemas mentais. Quando o inverno severo começa a causar mortes por hipotermia nas ruas, os funcionários da biblioteca decidem transformá-la em um abrigo de emergência. O que eles não esperavam é que esse pequeno ato de desobediência fosse atrair tanta atenção da polícia, se transformando em uma grande batalha.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>25/07/2019</date>
 </item>"
