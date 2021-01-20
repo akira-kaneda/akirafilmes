@@ -1,0 +1,38 @@
+"<item>
+
+<title>Boneco do Mal [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/BONCDML.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601507.us.archive.org/17/items/1411_20200923/1300.jpg</image>
+<thumbnail>https://ia601507.us.archive.org/17/items/1411_20200923/1300.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 2016
+
+Greta é uma jovem americana que aceita um trabalho como babá em uma pequena vila inglesa. Porém, o garoto de 8 anos de quem ela tem que cuidar é, na verdade, um boneco de quem o casal cuida como se fosse um menino de verdade, como uma forma de lidarem com a morte do filho, ocorrida 20 anos antes. Após violar uma lista de regras do garoto, uma série de eventos inexplicáveis transformam a vida dela em um pesadelo.</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>18/02/2016</date>
+</item>"
+"<item>
+
+<title>Brahms: Boneco do Mal II [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BRHMBNCDMAL2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6665.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6665.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Mistério, Thriller
+Lançamento: 2020
+
+Liza e sua jovem família se mudam para a Mansão Heelshire, em uma pequena vila na Inglaterra. Quando seu filho encontra um amigo no realista boneco Brahms, estranhos acontecimentos passam a cercar suas vidas de terror.</info>
+ 
+<genre>Terror, Mistério, Thriller</genre>
+ 
+<date>07/05/2020</date>
+</item>"
