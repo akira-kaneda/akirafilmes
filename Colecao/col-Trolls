@@ -36,3 +36,22 @@ Quando descobre que os Bergens não têm mais feriados em seu calendário, a ete
  
 <date>02/12/2017</date>
 </item>"
+"<item>
+
+<title>Trolls 2 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TRLS2.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6659.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6659.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Família, Comédia, Fantasia, Aventura, Música
+Lançamento: 2020
+
+A rainha Poppy (Anna Kendrick) e Branch (Justin Timberlake) fazem uma descoberta surpreendente: há outros mundos Troll além do seu, e suas diferenças criam grandes confrontos entre essas diversas tribos. Quando uma ameaça misteriosa coloca todos os Trolls do país em perigo, Poppy, Branch e seu grupo de amigos devem embarcar em uma jornada épica para criar harmonia entre os Trolls rivais e uní-los contra um mal maior.</info>
+ 
+<genre>Animação, Família, Comédia, Fantasia, Aventura, Música</genre>
+ 
+<date>16/04/2020</date>
+</item>"
