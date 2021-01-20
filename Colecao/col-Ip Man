@@ -38,6 +38,25 @@ No pós-guerra, de Hong Kong, o lendário Wing Chun Ip Man mestre é relutanteme
 </item>"
 "<item>
 
+<title>Mestre Z: O Legado de Ip Man [COLOR yellow][IMDb 6,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MSTRZOLGDIPMN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6663.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6663.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2018
+
+Continuando após os acontecimentos de “Ip Man 3”, Zhang retoma seu papel titular como Cheung Tin Chi, um mestre da Wing Chun que procura seu lugar no mundo. Pobre e com um filho pra criar, ele enfrentará vários problemas.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>26/12/2018</date>
+</item>"
+"<item>
+
 <title>O Grande Mestre 4: A Batalha Final [COLOR yellow][IMDb 7,0][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/OGRNDMSTR4.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
