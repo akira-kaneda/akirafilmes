@@ -1,0 +1,13 @@
+"<item>
+
+<title>Youjo Senki – Filme</title>
+<link>https://pitou.goyabu.com/streaming/filmes/youjo-senki-filme.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801503.us.archive.org/1/items/37-2_20210120/37-2.jpg</image>
+<thumbnail>https://ia801503.us.archive.org/1/items/37-2_20210120/37-2.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Em 1926, Tanya e seu pelotão voltam para casa após derrotar os remanescentes do exército republicano. No entanto, quando chegam, recebem notícias de uma mobilização maciça perto da fronteira com a Federação Russa, então o exército do Império deve se mobilizar. Outro exército multinacional sob a liderança dos Aliados se une a Federação Russa. O inimigo do meu inimigo é meu amigo, mas no exercito dos Aliados está Mary Sioux, uma garota que jurou exigir justiça contra o Império pela morte de seu pai.
+</info>
+ </item>"
