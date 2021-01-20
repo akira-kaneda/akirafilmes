@@ -4411,6 +4411,25 @@ Quando dois amigos viajam para o México para celebrar o aniversário de um dele
 </item>"
 "<item>
 
+<title>Anjo Maldito [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ANJMLDTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6669.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6669.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 2009
+
+Na Chicago nos dias de hoje, o antigo demônio vingador Lilith, tenta arruinar a vida de um jovem paramédico enquanto destrói qualquer um que interfira em seu plano.</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>05/02/2009</date>
+</item>"
+"<item>
+
 <title>Anjo Negro [COLOR yellow][IMDb 5,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/ANJNGRO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
