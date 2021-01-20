@@ -3952,6 +3952,25 @@ O melhor assassino do ramo faz sua 500ª morte — e decide se aposentar. Em vez
 </item>"
 "<item>
 
+<title>Uma Noite em Miami... [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/UMNTEMMIAM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6662.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6662.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Uma noite em Miami é o relato fictício de uma noite incrível onde os ícones Muhammad Ali, Malcolm X, Sam Cooke e Jim Brown se reúnem e discutem seus papéis na luta pelos direitos civis e na revolução cultural dos anos 1960.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>25/12/2020</date>
+</item>"
+"<item>
+
 <title>Uma Noite Infernal [COLOR yellow][IMDb 5,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/UMANTINFRNL.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -7616,194 +7635,4 @@ A chegada de um caçador de lobos a uma cidadezinha irlandesa é o começo de um
 <genre>Aventura, Animação, Fantasia, Família</genre>
  
 <date>26/10/2020</date>
-</item>"
-"<item>
-
-<title>Wolverine: Imortal [COLOR yellow][IMDb 6,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN06.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6429.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho
-Lançamento: 2013
-
-Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.</info>
- 
-<genre>Ação, Ficção científica, Aventura, Fantasia, Baseado em Quadrinho</genre>
- 
-<date>26/07/2013</date>
-</item>"
-"<item>
-
-<title>Woodlawn: Talento e Fé [COLOR yellow][IMDb 6,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer2/ondemand/TLNTEFWODLWN.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6430.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6430.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama
-Lançamento: 2015
-
-Um jogador de futebol americano luta contra as pressões sociais e raciais para ser bem sucedido. Talentoso, ele aprenderá que terá de se apegar à fé e à sua capacidade para romper as barreiras impostas pelo destino.</info>
- 
-<genre>Drama</genre>
- 
-<date>15/10/2015</date>
-</item>"
-"<item>
-
-<title>Wu Kong - Contra a Ira dos Deuses [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer5/ondemand/WUKNGCNTRAIRDSDES.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6431.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6431.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Ação, Aventura
-Lançamento: 2017
-
-Há muitos anos, o Monte Huaguo foi destruído pelo Reino Celestial, a morada dos deuses da mitologia chinesa, deixando Sun Wu Kong, o Rei Macaco, furioso, já que o local era seu lar. Kong está decidido a confrontar aqueles que determinaram seu destino.</info>
- 
-<genre>Fantasia, Ação, Aventura</genre>
- 
-<date>13/07/2017</date>
-</item>"
-"<item>
-
-<title>Xanadu [COLOR yellow][IMDb 5,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/XNDU.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6440.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6440.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Fantasia, Ficção científica, Romance
-Lançamento: 1980
-
-Uma bela musa inspira um artista e seu amigo mais velho a converter um auditório dilapidado em um luxuoso clube de patinação.</info>
- 
-<genre>Fantasia, Ficção científica, Romance</genre>
- 
-<date>08/08/1980</date>
-</item>"
-"<item>
-
-<title>Xeque-Mate [COLOR yellow][IMDb 7,7][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/XQUMTE.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6441.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6441.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Drama, Thriller, Crime, Mistério
-Lançamento: 2006
-
-Slevin Kelevra (Josh Hartnett) está com vários problemas em sua vida. O prédio onde mora foi condenado, sua carteira de identidade foi roubada e ele recentemente flagrou sua namorada na cama com outro homem. Para escapar ao menos por algum tempo dos problemas, ele consegue emprestado com seu amigo Nick Fisher (Sam Jaeger) um apartamento em Nova York. Paralelamente um plano está sendo tramado no submundo do crime de Nova York. Para se vingar da morte de seu filho, o Chefe (Morgan Freeman) planeja um golpe no filho de seu arquiinimigo, o Rabino (Ben Kingsley). O Chefe contrata Goodkat (Bruce Willis) para executar o plano, que consiste em encontrar um apostador que deva muito dinheiro ao Chefe a ponto de aceitar matar o filho do Rabino para se livrar da dívida. O escolhido é Nick Fisher, o que faz com que Goodkat vá até seu apartamento e confunda Slevin com seu alvo.</info>
- 
-<genre>Drama, Thriller, Crime, Mistério</genre>
- 
-<date>15/09/2006</date>
-</item>"
-"<item>
-
-<title>X-Men 2 [COLOR yellow][IMDb 7,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN02.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6433.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6433.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho
-Lançamento: 2003
-
-Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.</info>
- 
-<genre>Aventura, Ação, Ficção científica, Thriller, Baseado em Quadrinho</genre>
- 
-<date>27/04/2003</date>
-</item>"
-"<item>
-
-<title>X-Men Origens: Wolverine [COLOR yellow][IMDb 6,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN04.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6434.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6434.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho
-Lançamento: 2009
-
-Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.</info>
- 
-<genre>Aventura, Ação, Thriller, Ficção científica, Baseado em Quadrinho</genre>
- 
-<date>30/04/2009</date>
-</item>"
-"<item>
-
-<title>X-Men: Apocalipse [COLOR yellow][IMDb 6,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/XMENAPCLPSE.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6435.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6435.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Ficção científica, Fantasia, Baseado em Quadrinho
-Lançamento: 2016
-
-Apocalipse, o primeiro mutante de todos, consegue retornar à vida após milhares de anos. Agora, ele sai à procura de seguidores para dominar o mundo. Caberá aos X-Men se unirem para impedir os planos do vilão e evitar uma catástofre mundial.</info>
- 
-<genre>Ação, Aventura, Ficção científica, Fantasia, Baseado em Quadrinho</genre>
- 
-<date>19/05/2016</date>
-</item>"
-"<item>
-
-<title>X-Men: Dias de um Futuro Esquecido [COLOR yellow][IMDb 7,9][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/XMEN07.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6436.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6436.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho
-Lançamento: 2014
-
-Convencido de que os mutantes são uma ameaça para a humanidade, o Dr. Bolivar Trask desenvolve os Sentinelas, gigantescos robôs, que os perseguem impiedosamente. Os poucos sobreviventes têm que viver escondidos. Entre eles está Wolverine, que viaja no tempo, rumo aos anos 1970, a fim de impedir que este futuro trágico para os mutantes se torne realidade.</info>
- 
-<genre>Ação, Aventura, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
- 
-<date>22/05/2014</date>
-</item>"
-"<item>
-
-<title>X-Men: Fênix Negra [COLOR yellow][IMDb 5,8][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer1/ondemand/XMENFNXNGRA.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/6437.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/6437.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Ficção científica, Ação, Aventura, Baseado em Quadrinho
-Lançamento: 2019
-
-Ambientado em 1992, Charles Xavier (James McAvoy) está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey (Sophie Turner).</info>
- 
-<genre>Ficção científica, Ação, Aventura, Baseado em Quadrinho</genre>
- 
-<date>06/06/2019</date>
 </item>"
