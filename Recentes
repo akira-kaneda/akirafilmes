@@ -207,3 +207,17 @@ Na Chicago nos dias de hoje, o antigo demônio vingador Lilith, tenta arruinar a
  
 <date>05/02/2009</date>
 </item>"
+
+"<item>
+
+<title>Este é o Meu Garoto [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://fvs.io/redirector?token=YWtjM2FYNE9BWTh2N3pSY01rU1VSekV0THFESENXZTl3RlJmUkQ0VlN3ZEhNZmNvQ21maFNZWElMMG14UVdrWTMrWE82Rms1Y1pxYU16dExnMktFdzZaQTRJMzgxNyt6SWI1YTBRWVZyVVNjM0ZYL0tOanE0NGJQMG10WHlXV3pmNzBvMEZtVk0wQkJHRzBGZmpWR3c5UmxhcEpMWVdUVGRBPT06Tk05MXBFZkFHMEJqUFR1NkkxcWJIQT09</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601501.us.archive.org/7/items/6667_20210120/6669.jpg</image>
+<thumbnail>https://ia601501.us.archive.org/7/items/6667_20210120/6669.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+ 
+<date>05/02/2009</date>
+</item>
