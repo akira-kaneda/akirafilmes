@@ -1,0 +1,26 @@
+"<item>
+
+<title>01-Gravado ao Vivo com Plateia</title>
+<link>https://$doregex[RC]/RCServer15/ondemand/WNDVSNT01EP01.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601506.us.archive.org/18/items/13-1_20210127/13-1.jpg</image>
+<thumbnail>https://ia601506.us.archive.org/18/items/13-1_20210127/13-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Wanda e Visão tentam esconder seus poderes durante um jantar com o chefe de Visão e sua esposa.
+</info>
+ </item>"
+"<item>
+
+<title>02-Não Mude de Canal</title>
+<link>https://$doregex[RC]/RCServer15/ondemand/WNDVSNT01EP02.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601506.us.archive.org/18/items/13-1_20210127/13-1.jpg</image>
+<thumbnail>https://ia601506.us.archive.org/18/items/13-1_20210127/13-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Wanda e Visão fazem truques de mágica em um show de talentos beneficente para tentar se enturmar.
+</info>
+ </item>"
