@@ -24,3 +24,17 @@
 <info>Wanda e Visão fazem truques de mágica em um show de talentos beneficente para tentar se enturmar.
 </info>
  </item>"
+ "<item>
+
+<title>03-Agora em Cores</title>
+<link>https://$doregex[RC]/RCServer15/ondemand/WNDVSNT01EP03.mp4</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601506.us.archive.org/18/items/13-1_20210127/13-1.jpg</image>
+<thumbnail>https://ia601506.us.archive.org/18/items/13-1_20210127/13-1.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Com a gravidez, os poderes de Wanda fogem ao controle e a dupla se prepara para um parto acelerado.
+</info>
+ </item>"
+
