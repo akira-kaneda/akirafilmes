@@ -1769,6 +1769,25 @@ Para convencer os pais a deixá-la realizar seu sonho de estudar culinária em N
 </item>"
 "<item>
 
+<title>Isolado na Pandemia [COLOR yellow][IMDb 4,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ISLDNPNDM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6712.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6712.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller
+Lançamento: 2020
+
+Após a erupção de uma pandemia global, um homem barricado sozinho em casa e racionando comida começa a tentar resgatar uma vizinha depois de uma enxame de hordas de Screamers mortos-vivos invadir seu complexo de apartamentos.</info>
+ 
+<genre>Terror, Thriller</genre>
+ 
+<date>16/10/2020</date>
+</item>"
+"<item>
+
 <title>Isolados [COLOR yellow][IMDb 6,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ISLDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1899,6 +1918,25 @@ No século 19, Little Jack nasce em um dia tão frio que o seu coração fica co
 <genre>Animação, Romance, Aventura, Drama, Fantasia</genre>
  
 <date>24/09/2014</date>
+</item>"
+"<item>
+
+<title>Jack Frost [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JCKFRST.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6676.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6676.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Terror, Comédia
+Lançamento: 1997
+
+Enquanto um notório assassino em série está sendo levado para sua execução, o caminhão que o carrega encontra um acidente bizarro que o transforma em um boneco de neve mutante. O xerife que originalmente prendeu o psicopata continua preocupado com seu retorno e parece que seus temores eram fundados. Em pouco tempo, os corpos se amontoam, todos mortos de formas horripilantes no inverno. O xerife pode parar o reinado gelado de terror do assassino?</info>
+ 
+<genre>Fantasia, Terror, Comédia</genre>
+ 
+<date>18/11/1997</date>
 </item>"
 "<item>
 
@@ -2374,6 +2412,25 @@ Conheça os Murphys, uma família com azar sem fim. “Tudo que pode dar errado,
 <genre>Família, Fantasia, Comédia, Cinema TV</genre>
  
 <date>29/11/2013</date>
+</item>"
+"<item>
+
+<title>Jiu Jitsu [COLOR yellow][IMDb 2,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JIUTTSU.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6698.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6698.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Ação, Ficção científica
+Lançamento: 2020
+
+Uma antiga ordem de experientes lutadores de Jiu Jitsu enfrenta temíveis invasores alienígenas em uma batalha pela Terra a cada seis anos.</info>
+ 
+<genre>Fantasia, Ação, Ficção científica</genre>
+ 
+<date>20/11/2020</date>
 </item>"
 "<item>
 
@@ -4161,6 +4218,25 @@ Um agente federal americano (U.S. Marshal) em busca de justiça para o assassina
 <genre>Faroeste</genre>
  
 <date>15/09/2017</date>
+</item>"
+"<item>
+
+<title>Justiça Brutal [COLOR yellow][IMDb 6,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/JSTCBRTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6697.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6697.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Ação, Thriller
+Lançamento: 2019
+
+O veterano policial Brett Ridgeman (Mel Gibson) e seu parceiro mais jovem e volátil, Anthony Lurasetti (Vince Vaughn), são suspensos quando um vídeo de suas táticas de trabalho brutais vira notícia. Sem dinheiro e sem opções, eles decidem entrar para o mundo do crime. Porém, o que eles encontram na criminalidade é algo muito mais obscuro do que esperavam.</info>
+ 
+<genre>Crime, Ação, Thriller</genre>
+ 
+<date>22/03/2019</date>
 </item>"
 "<item>
 
@@ -6309,6 +6385,25 @@ Texas, 1965. Quatro jovens psicopatas escapam de um hospital psiquiátrico levan
 <genre>Terror, Thriller, Mistério</genre>
  
 <date>19/10/2017</date>
+</item>"
+"<item>
+
+<title>Legado de Violência [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/LGDSDVOLNC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6695.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6695.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 2019
+
+Quando seu filho envolvido com negócios perigosos e pessoas de mau caráter foge, um pai se vê em meio a uma crise pessoal e familiar. Agora, ele deve adentrar uma odisseia violenta para regressar para casa enquanto lida com a paternidade, a própria família e o destino, por mais cruel que ele seja.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>05/12/2019</date>
 </item>"
 "<item>
 
