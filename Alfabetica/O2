@@ -1,5 +1,233 @@
 "<item>
 
+<title>O Príncipe das Sombras [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDSMBRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4306.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4306.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1987
+
+Uma equipe de pesquisa encontra um cilindro misterioso em uma igreja deserta. Se aberto, pode significar o fim do mundo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>23/10/1987</date>
+</item>"
+"<item>
+
+<title>O Príncipe de Peoria e o Milagre de Natal [COLOR yellow][IMDb 5,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer2/ondemand/OPRNCDPRIAEOMLGDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4307.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4307.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família
+Lançamento: 2018
+
+Com apenas 13 anos, Emil (Gavin Lewis) é o príncipe de um rico reino insular que decide viajar até os Estados Unidos para viver anonimamente como um estudante de intercâmbio. Lá, ele começa uma amizade improvável com Teddy (Theodore Barnes), um adolescente exigente e estudioso que é seu completo oposto.</info>
+ 
+<genre>Comédia, Família</genre>
+ 
+<date>17/12/2018</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Egito [COLOR yellow][IMDb 7,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPRNCPDEGTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4308.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4308.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Aventura, Animação, Drama, Família
+Lançamento: 1998
+
+No Egito antigo, quando os hebreus lá viviam como escravos e o faraó Seti, temendo o constante nascimento de crianças hebréias, pois no futuro poderiam se tornar uma força que ameaçasse seu poder, ordena que todos os bebês hebreus do sexo masculino sejam afogados. Uma hebréia se desespera ao ver que seu filho poderá ser morto e, para salvá-lo, o coloca em uma cesta no rio. A criança acaba sendo encontrada pela rainha, assim Moisés criado como irmão de Ramsés, o herdeiro do trono de Seti. Os dois crescem e se tornam grande amigos, mas Moisés acaba descobrindo sua origem, decide abandonar o palácio e libertar os hebreus, para levá-los para a Terra Prometida.</info>
+ 
+<genre>Aventura, Animação, Drama, Família</genre>
+ 
+<date>15/12/1998</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRNCPDNTL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4309.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4309.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Cinema TV
+Lançamento: 2017
+
+Uma jovem jornalista recebe um belo presente de Natal ao ser enviada para cobrir a história de um príncipe prestes a se tornar rei.</info>
+ 
+<genre>Romance, Cinema TV</genre>
+ 
+<date>17/11/2017</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal: O Bebê Real [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDNTLOBBREL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4310.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4310.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Família
+Lançamento: 2019
+
+Neste Natal, Aldovia vai ganhar um presente de especial: um bebê real. Mas, antes, a rainha Amber precisa desvendar um mistério para proteger a família e o reino.</info>
+ 
+<genre>Romance, Família</genre>
+ 
+<date>05/12/2019</date>
+</item>"
+"<item>
+
+<title>O Príncipe do Natal: O Casamento Real [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRNCPDNTLOCSMNTO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4311.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4311.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Comédia
+Lançamento: 2018
+
+Um ano após Amber ajudar Richard a conquistar a coroa, os dois estão prestes a se casar (no Natal), mas seus planos são ameaçados quando ela começa a ter dúvidas sobre ser ou não uma rainha, enquanto Richard enfrenta uma crise política que não só ameaça o período festivo mas o futuro do reino.</info>
+ 
+<genre>Romance, Comédia</genre>
+ 
+<date>30/11/2018</date>
+</item>"
+"<item>
+
+<title>O Príncipe Feliz [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRCNPFLZ.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4312.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4312.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2018
+
+Icônico autor, Oscar Wilde passou por momentos difíceis. Casado com Constance, o dramaturgo vai parar atrás das grades após se envolver com outro homem. Tempos depois, ele é solto e inicia uma viagem pela Europa, local que será palco de seus três últimos anos de vida.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>10/10/2018</date>
+</item>"
+"<item>
+
+<title>O Profissional [COLOR yellow][IMDb 8,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer1/ondemand/OPRFSNAL.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4315.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4315.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Ação
+Lançamento: 1995
+
+Mathilda tem apenas 12 anos de idade mas já conhece o lado obscuro da vida: seu pai abusivo guarda drogas para policiais corruptos e a mãe a negligencia. O vizinho Léon gosta de cuidar de plantas, mas é um assassino de aluguel para o gângster Tony. Quando sua família é assassinada por um agente antidrogas desonesto, Mathilda se une a um relutante Léon para aprender o negócio mortal e vingar a morte da família.</info>
+ 
+<genre>Crime, Drama, Ação</genre>
+ 
+<date>17/02/1995</date>
+</item>"
+"<item>
+
+<title>O Projeto Filadélfia [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPJTOFLDFA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4317.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4317.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ficção científica, Aventura, Thriller
+Lançamento: 1984
+
+Durante a Segunda Guerra Mundial, cientistas e militares norte-americanos se unem para a realização do ""Projeto Filadélfia"", uma experiência com campos de força cujo objetivo é tornar um enorme porta-aviões invisível ao radar inimigo. O experimento funciona, mas a embarcação realmente desaparece por alguns minutos, ficando invisível. Na verdade, ela foi sugada por uma espécie de buraco negro, por onde dois dos marinheiros, David (Michael Paré) e Jim (Bobby Di Cicco), atravessam um portal do tempo, chegando ao ano de 1984. Completamente perdidos, cultural e geograficamente, eles são perseguidos pelo exército enquanto tentam encontrar uma forma de voltar ao seu próprio tempo.</info>
+ 
+<genre>Ficção científica, Aventura, Thriller</genre>
+ 
+<date>03/08/1984</date>
+</item>"
+"<item>
+
+<title>O Protetor [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/OPRTOR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4318.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4318.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2014
+
+O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Porém, quando ele conhece Teri, uma jovem que está em poder de uma quadrilha russa, ele simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>25/09/2014</date>
+</item>"
+"<item>
+
+<title>O Protetor 2 [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/OPRTOR2.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4319.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4319.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller, Ação, Crime
+Lançamento: 2018
+
+Robert McCall agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave, no intuito de encontrar pistas sobre o autor do crime.</info>
+ 
+<genre>Thriller, Ação, Crime</genre>
+ 
+<date>16/08/2018</date>
+</item>"
+"<item>
+
+<title>O Público [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OPBLCO.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601402.us.archive.org/20/items/4417_20201118/4320.jpg</image>
+<thumbnail>https://ia601402.us.archive.org/20/items/4417_20201118/4320.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+Em uma biblioteca pública de Cincinnati, em Ohio, muitos dos clientes são moradores de rua e pessoas com problemas mentais. Quando o inverno severo começa a causar mortes por hipotermia nas ruas, os funcionários da biblioteca decidem transformá-la em um abrigo de emergência. O que eles não esperavam é que esse pequeno ato de desobediência fosse atrair tanta atenção da polícia, se transformando em uma grande batalha.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>25/07/2019</date>
+</item>"
+"<item>
+
 <title>O Quarto da Morte [COLOR yellow][IMDb 4,7][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/OQRTODMRTE.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -1505,6 +1733,25 @@ Feng está de volta à sociedade após um longo período na cadeia. Aos 16 anos 
 </item>"
 "<item>
 
+<title>O Senhor das Sombras [COLOR yellow][IMDb 4,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OSNHRDSMBRS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6675.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6675.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 1998
+
+Demônio é enviado pra tomar a alma de um jovem garoto que tem potencial de se tornar um santo.Conseguindo isto ele abrirá uma portal para o inferno que destruirá o mundo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>01/11/1998</date>
+</item>"
+"<item>
+
 <title>O Senhor dos Anéis [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/OSNHRDSANES.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2113,6 +2360,25 @@ Tom Ripley (Matt Damon) possui um dom incomum: capaz de imitar, com perfeição,
 </item>"
 "<item>
 
+<title>O Tempo com Você [COLOR yellow][IMDb 7,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OTMPCMVC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6711.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6711.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Animação, Romance, Fantasia, Drama
+Lançamento: 2020
+
+Durante o verão, Hodaka (Kotaro Daigo) foge de sua casa em uma ilha periférica para chegar a Tóquio. Ele não tem dinheiro mas, depois de muitos dias, acaba encontrando trabalho como escritor freelancer para uma obscura revista. Um dia, porém, Hodaka conhece uma garota no meio da agitação da cidade grande. Hina (Nana Mori) é uma garota alegre que vive sozinha com seu irmão mais novo, devido a uma série de circunstâncias. Ela tem um poder que deixa Hodaka impressionado: Hina pode controlar o tempo.</info>
+ 
+<genre>Animação, Romance, Fantasia, Drama</genre>
+ 
+<date>15/01/2020</date>
+</item>"
+"<item>
+
 <title>O Tempo Não Espera Por Ninguém [COLOR yellow][IMDb 4,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer2/ondemand/OTMPNESPRPNGM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2148,6 +2414,25 @@ Viktor Navorski é um cidadão da Europa Oriental que viaja rumo a Nova York jus
 <genre>Comédia, Drama</genre>
  
 <date>10/09/2004</date>
+</item>"
+"<item>
+
+<title>O Tigre Branco [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OTGRBRNCO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6713.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6713.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama
+Lançamento: 2021
+
+Um ambicioso motorista indiano usa sua inteligência e astúcia para escapar da pobreza e alcançar o sucesso. Uma jornada épica baseada no best-seller do New York Times.</info>
+ 
+<genre>Crime, Drama</genre>
+ 
+<date>13/01/2021</date>
 </item>"
 "<item>
 
@@ -3042,6 +3327,25 @@ Chris Samuels, um lutador profissional e pai de família, se aposenta dos ringue
 <genre>Crime, Ação</genre>
  
 <date>08/01/2016</date>
+</item>"
+"<item>
+
+<title>O Vingador [COLOR yellow][IMDb 6,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OVNGDR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6714.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6714.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Mistério, Thriller
+Lançamento: 1986
+
+Jack Murphy (Charles Bronson), um veterano detetive da polícia, atravessa uma fase na qual tudo está dando para ele. Primeiramente recebe uma ligação no qual uma mulher diz que vai matá-lo, mas antes transformará sua vida num inferno. Ele comete o erro de não dar importância para esta ligação. Depois, numa perseguição policial, mata Tony Vincenzo (Chris DeRose), o irmão do gângster Frank Vincenzo (Richard Romanus), e agora está marcado para morrer. Sua esposa o deixou e se tornou uma ""dançarina exótica"", mas logo ela e seu novo marido são assassinados. Jack é incriminado, preso, mas foge com Arabella McGee (Kathleen Wilhoite), uma marginal jovem e desbocada que foi presa por Jack. Ele agora precisa contar com a ajuda dela para poder provar sua inocência.</info>
+ 
+<genre>Ação, Mistério, Thriller</genre>
+ 
+<date>18/04/1986</date>
 </item>"
 "<item>
 
