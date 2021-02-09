@@ -867,6 +867,25 @@ Antonio Bay, uma comunidade pesqueira, está prestes a comemorar cem anos de fun
 </item>"
 "<item>
 
+<title>A Bruxa da Casa ao Lado [COLOR yellow][IMDb 5,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ABRXDCSAOLDO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6717.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6717.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2020
+
+Um adolescente rebelde lidando com o divórcio iminente de seus pais acaba enfrentando uma bruxa de mil anos que se apossou do corpo de uma vizinha.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>09/03/2020</date>
+</item>"
+"<item>
+
 <title>A Bruxa de Blair [COLOR yellow][IMDb 6,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/ABRXDBLR.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2843,6 +2862,25 @@ Lançamento: 2017
 </item>"
 "<item>
 
+<title>A Escavação [COLOR yellow][IMDb 7,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AESCVCAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6705.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6705.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, História
+Lançamento: 2021
+
+Às vésperas da Segunda Guerra Mundial, uma rica viúva contrata um arqueólogo amador para escavar sepultamentos ancestrais em sua propriedade. Ao fazerem uma descoberta histórica, os ecos do passado ressoam em um futuro de incertezas.</info>
+ 
+<genre>Drama, História</genre>
+ 
+<date>15/01/2021</date>
+</item>"
+"<item>
+
 <title>A Escola da Vida [COLOR yellow][IMDb 6,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/AESCLDVDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4555,6 +4593,25 @@ Desde criança, Nigel é fascinado por culinária, embora sua mãe só soubesse 
 </item>"
 "<item>
 
+<title>A História Pessoal de David Copperfield [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AHSTRPSLDVDCPFLD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6704.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6704.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia
+Lançamento: 2019
+
+Da adolescência à idade adulta, David Copperfield é cercado de bondade, maldade, pobreza e riqueza, ao conhecer uma série de personagens notáveis na Inglaterra vitoriana.</info>
+ 
+<genre>Drama, Comédia</genre>
+ 
+<date>07/11/2019</date>
+</item>"
+"<item>
+
 <title>A História sem Fim [COLOR yellow][IMDb 7,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AHSTSMFM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5312,6 +5369,25 @@ Por meio de seus alunos, Akane (Satomi Ishihara) descobre a existência de um v�
 <genre>Terror</genre>
  
 <date>12/05/2012</date>
+</item>"
+"<item>
+
+<title>A Ira de Cain [COLOR yellow][IMDb 4,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/AIRDCAIN.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6674.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6674.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 2010
+
+Um conhecido criminoso, Miles ""Cain"" Skinner está cumprindo prisão perpétua. Temido e respeitado entre os presos, ele vê seu rival Redfoot ser transferido para a mesma prisão, e é tomado pela raiva. Quando descobre que sua pena pode ser reduzida devido um câncer no cérebro, ele decide mudar de vida. Mas sua liberdade tem uma condição.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>16/11/2010</date>
 </item>"
 "<item>
 
@@ -11337,80 +11413,4 @@ O Barão Frankenstein foge da execução na guilhotina e usa o pseudônimo Dr. S
 <genre>Terror, Ficção científica</genre>
  
 <date>01/06/1958</date>
-</item>"
-"<item>
-
-<title>A Vingança de Julia [COLOR yellow][IMDb 4,5][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/AVNGCDJLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/670.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/670.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror
-Lançamento: 2011
-
-Julia decide marcar um encontro com o homem que conheceu pela internet e acaba sendo sequestrada e marcada com a letra X na própria pele. Mas a jovem está determinada a acabar com este pesadelo.</info>
- 
-<genre>Terror</genre>
- 
-<date>24/09/2011</date>
-</item>"
-"<item>
-
-<title>A Vingança de Lefty Brown [COLOR yellow][IMDb 6,3][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/AVNGCDLTYBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Faroeste
-Lançamento: 2017
-
-Lefty Brown (Bill Pullman) é um ajudante de 63 anos que toda a sua vida ficou ao lado da lenda do faroeste Eddie Johnson (Peter Fonda). Johnson foi apontado como senador de Montana e, apesar das objeções da esposa Laura, planeja deixar Lefty em cargo do rancho. Quando um ladrão mata Johnson, Lefty é confrontado pela sombra do parceiro e das feias realidades da justiça na fronteira.</info>
- 
-<genre>Faroeste</genre>
- 
-<date>15/12/2017</date>
-</item>"
-"<item>
-
-<title>A Vingança Perfeita [COLOR yellow][IMDb 5,4][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer4/ondemand/AVNGCPRFTA.mp4|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia801409.us.archive.org/28/items/6166_20201209/5844.jpg</image>
-<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5844.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Crime, Drama, Thriller
-Lançamento: 2018
-
-Dois assassinos de aluguel (Max Irons e Dexter Fletcher) embarcam uma missão suicída, encomendada por uma pessoa misteriosa. Até que surge uma mulher perigosa, Annie (Margot Robbie), que está mais envolvida nessa história do que aparenta.</info>
- 
-<genre>Crime, Drama, Thriller</genre>
- 
-<date>11/05/2018</date>
-</item>"
-"<item>
-
-<title>A Visita [COLOR yellow][IMDb 6,2][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/AVSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</image>
-<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Terror, Thriller, Mistério
-Lançamento: 2015
-
-Um garoto (Ed Oxenbould) e sua irmã (Olivia DeJonge) são mandados pela mãe (Kathryn Hahn) para visitar seus avós que moram em uma remota fazenda. Não demora muito até que os irmãos descubram que os idosos estão envolvidos com coisas profundamente pertubadoras que colocam a vida dos netos em perigo.</info>
- 
-<genre>Terror, Thriller, Mistério</genre>
- 
-<date>11/09/2015</date>
 </item>"
