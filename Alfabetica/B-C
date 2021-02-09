@@ -2476,6 +2476,25 @@ Billy Madison (Adam Sandler) é uma criança de vinte e oito anos que só pensa 
 </item>"
 "<item>
 
+<title>Billy The Kid: O Fora da Lei [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/BLYTHKDOFRADLEI.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6701.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6701.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste, Drama
+Lançamento: 2019
+
+No Velho Oeste, Rio Cutler é um jovem garoto que mata o pai para proteger a mãe da violência dentro de casa. Quando seu tio Grant descobre, ele inicia uma violenta caçada pelo menino que foge com a irmã Sara. Logo, a dupla se vê em meio a um embate memorável entre o fora da lei Billy 'The Kid' e o xerife Pat Garrett, deixando tudo ainda mais caótico.</info>
+ 
+<genre>Faroeste, Drama</genre>
+ 
+<date>26/04/2019</date>
+</item>"
+"<item>
+
 <title>Biquínis Recheados [COLOR yellow][IMDb 4,9][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer5/ondemand/BNQNSRCHDS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4584,6 +4603,25 @@ Basesado em um dos mais desprezíveis casos de homicídios não resolvidos na hi
 <genre>Terror</genre>
  
 <date>01/08/2017</date>
+</item>"
+"<item>
+
+<title>Cabana da Possessão [COLOR yellow][IMDb 3,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/CBNADPSESAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6700.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6700.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2019
+
+Vikki e seus amigos viajam para as montanhas e se hospedam em uma cabana que possui uma apavorante história. Pouco a pouco, ela começa a ser dominada por uma força misteriosa e incontrolável, que a obriga a cometer as piores atrocidades. A noite será marcada por uma luta desesperada pela sobrevivência à medida que Vikki é possuída por um espírito maligno e tenta matar seus amigos.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>24/05/2019</date>
 </item>"
 "<item>
 
