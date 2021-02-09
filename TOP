@@ -5955,6 +5955,25 @@ Benjamin Button é um homem que nasce idoso e rejuvenesce à medida que o tempo 
 </item>"
 "<item>
 
+<title>O Gângster [COLOR yellow][IMDb 7,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OGNSTR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6709.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6709.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Crime
+Lançamento: 2008
+
+Frank Lucas trabalha como chofer de um dos mafiosos mais importantes do Harlem. Após a morte de seu chefe, Frank usa sua perspicácia e jeito para os negócios para se transformar em um dos mais poderosos líderes criminosos da cidade. Enquanto isso, o policial veterano Richie Roberts percebe mudanças na estrutura do poder da máfia, e busca uma maneira de levar seu oponente à justiça.</info>
+ 
+<genre>Drama, Crime</genre>
+ 
+<date>25/01/2008</date>
+</item>"
+"<item>
+
 <title>O Hobbit: A Desolação de Smaug [COLOR yellow][IMDb 7,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer1/ondemand/OHBTADSLCDSMG.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9419,23 +9438,4 @@ Na antiga China, durante a guerra, todos os homens são convocados para lutar. M
 <genre>Animação, Família, Aventura</genre>
  
 <date>18/06/1998</date>
-</item>"
-"<item>
-
-<title>Muppets - O Filme [COLOR yellow][IMDb 7,6][/COLOR]</title>
-<link>https://$doregex[RC]/RCFServer3/ondemand/MUPTSOFLME.mp4?attachment=true|Referer=https://redecanais.ws</link>
-<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
-
-<image>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</image>
-<thumbnail>https://ia601406.us.archive.org/32/items/3521_20201118/3519.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
-
-<info>Genero: Música, Aventura, Comédia, Família
-Lançamento: 1979
-
-Após um encontro casual com um agente, Caco decide ir para Hollywood buscar espaço no show business. Fozzie, Gonzo e Miss Piggy juntam-se a ele, na esperança de também se tornarem grandes astros. No caminho, porém, Caco acaba nas mãos do Doutor Hopper, perigoso dono de uma rede de restaurantes.</info>
- 
-<genre>Música, Aventura, Comédia, Família</genre>
- 
-<date>05/10/1979</date>
 </item>"
