@@ -646,6 +646,25 @@ Uma comédia sobre as alegrias e os embaraços do sexo adolescente, mas principa
 </item>"
 "<item>
 
+<title>Mais Um Verão Com Mamãe [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MSUMBRAOCMAE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6694.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6694.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+O projeto de férias de um adolescente apaixonado por heavy metal fracassam no último minuto e ele deve passar todo o verão com a pessoa que mais o irrita: sua mãe.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>13/08/2020</date>
+</item>"
+"<item>
+
 <title>Mais Uma Chance [COLOR yellow][IMDb 7,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/MSUMCHNC.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -4693,6 +4712,25 @@ Monique é uma adolescente obstinada que foi criada em lares adotivos. E decide 
 </item>"
 "<item>
 
+<title>Minha Querida Nora [COLOR yellow][IMDb 5,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MNHQRDANRA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6693.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6693.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2020
+
+Louise descobre que seu marido é infiel e então parte em uma viagem de fim de semana sozinha na Córsega, surpreendendo toda sua família. Após uma noite de loucuras e diversão, ela acorda e descobre que o homem com quem dormiu está morto. A situação que já era atípica sai ainda mais do controle quando a mãe do falecido aparece coroando Louise como a nora que nunca teve.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>19/08/2020</date>
+</item>"
+"<item>
+
 <title>Minha Vida Dava um Filme [COLOR yellow][IMDb 5,8][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/MNHVDVAUMFLM.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6818,6 +6856,25 @@ Mulher Maravilha contará a origem da amazona na mísitca ilha grega de Temísce
 <genre>Ação, Aventura, Animação, Fantasia, Ficção científica, Baseado em Quadrinho</genre>
  
 <date>03/03/2009</date>
+</item>"
+"<item>
+
+<title>Mulher Nota 10 [COLOR yellow][IMDb 6,1][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/MLHRNT10.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6707.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6707.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Romance
+Lançamento: 1979
+
+George Webber (Dudley Moore) é um compositor de sucesso, que vê Jenny Hanley (Bo Derek), uma noiva, a caminho da igreja. Ela o deixa totalmente obcecado, sendo que deste instante em diante estar com ela passa a ser a meta da sua vida, apesar de ter uma sólida relação com Samantha Taylor (Julie Andrews), uma renomada cantora e atriz. Esta busca vai lhe provocar uma estranha reação.</info>
+ 
+<genre>Comédia, Romance</genre>
+ 
+<date>18/12/1979</date>
 </item>"
 "<item>
 
