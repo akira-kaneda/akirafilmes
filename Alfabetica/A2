@@ -1,5 +1,81 @@
 "<item>
 
+<title>A Vingança de Julia [COLOR yellow][IMDb 4,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVNGCDJLA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/670.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/670.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2011
+
+Julia decide marcar um encontro com o homem que conheceu pela internet e acaba sendo sequestrada e marcada com a letra X na própria pele. Mas a jovem está determinada a acabar com este pesadelo.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>24/09/2011</date>
+</item>"
+"<item>
+
+<title>A Vingança de Lefty Brown [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVNGCDLTYBRWN.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/671.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2017
+
+Lefty Brown (Bill Pullman) é um ajudante de 63 anos que toda a sua vida ficou ao lado da lenda do faroeste Eddie Johnson (Peter Fonda). Johnson foi apontado como senador de Montana e, apesar das objeções da esposa Laura, planeja deixar Lefty em cargo do rancho. Quando um ladrão mata Johnson, Lefty é confrontado pela sombra do parceiro e das feias realidades da justiça na fronteira.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>15/12/2017</date>
+</item>"
+"<item>
+
+<title>A Vingança Perfeita [COLOR yellow][IMDb 5,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer4/ondemand/AVNGCPRFTA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia801409.us.archive.org/28/items/6166_20201209/5844.jpg</image>
+<thumbnail>https://ia801409.us.archive.org/28/items/6166_20201209/5844.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 2018
+
+Dois assassinos de aluguel (Max Irons e Dexter Fletcher) embarcam uma missão suicída, encomendada por uma pessoa misteriosa. Até que surge uma mulher perigosa, Annie (Margot Robbie), que está mais envolvida nessa história do que aparenta.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>11/05/2018</date>
+</item>"
+"<item>
+
+<title>A Visita [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer3/ondemand/AVSTA.mp4?attachment=true|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</image>
+<thumbnail>https://ia601403.us.archive.org/27/items/802_20200914/672.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Thriller, Mistério
+Lançamento: 2015
+
+Um garoto (Ed Oxenbould) e sua irmã (Olivia DeJonge) são mandados pela mãe (Kathryn Hahn) para visitar seus avós que moram em uma remota fazenda. Não demora muito até que os irmãos descubram que os idosos estão envolvidos com coisas profundamente pertubadoras que colocam a vida dos netos em perigo.</info>
+ 
+<genre>Terror, Thriller, Mistério</genre>
+ 
+<date>11/09/2015</date>
+</item>"
+"<item>
+
 <title>A Vizinhança Assombrada [COLOR yellow][IMDb 3,6][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/AVZNHAASBRDA.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -187,6 +263,25 @@ Liz e Ben oferecem a um grupo de imigrantes ilegais um trabalho em sua casa. Acr
 <genre>Terror, Thriller</genre>
  
 <date>06/03/2020</date>
+</item>"
+"<item>
+
+<title>Abaixo de Zero [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ABXODZRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6703.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6703.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Crime, Thriller
+Lançamento: 2021
+
+Um ônibus penitenciário é atacado e o policial encarregado tem que enfrentar criminosos dentro e fora do veículo, além de um inimigo silencioso: o frio congelante.</info>
+ 
+<genre>Ação, Crime, Thriller</genre>
+ 
+<date>29/01/2021</date>
 </item>"
 "<item>
 
@@ -967,6 +1062,63 @@ As irmãs Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Flo
 <genre>Drama, Romance</genre>
  
 <date>09/01/2020</date>
+</item>"
+"<item>
+
+<title>Adorável Androide [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ADRVLANDRD.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6679.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6679.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ficção científica, Cinema TV
+Lançamento: 1987
+
+O Sr. Carlson, um renomado cientista, enquanto desenvolvia um projeto para sua empresa de brinquedos, cria um andróide tão perfeito que acredita ser ele a companhia perfeita para sua filha Beck (orfã de mãe). Chamando-o de Chip e para não ser descoberto pela tal empresa de brinquedos, os três se mudam e tentam dar a Chip uma vida normal! Mas Chip enfrenta dificuldades, pois só entende as palavras ao pé da letra, tem força de robô e usa baterias! Chip conquista o coração da família e aos poucos desenvolve sentimentos. Mas não deixe de ver os erros também.</info>
+ 
+<genre>Comédia, Família, Ficção científica, Cinema TV</genre>
+ 
+<date>19/06/1987</date>
+</item>"
+"<item>
+
+<title>Adorável Andróide 2: Uma Paixão Eletrônica [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ADRVLANDRD2UMPXAOELTRNC.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6678.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6678.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ficção científica, Cinema TV
+Lançamento: 1989
+
+Chip, o menino andróide está de volta. Desta vez, ele vai para a faculdade, infectado por um vírus de computador e apaixonado por Roberta, outra andróide. Haverá um final feliz?</info>
+ 
+<genre>Comédia, Família, Ficção científica, Cinema TV</genre>
+ 
+<date>23/09/1989</date>
+</item>"
+"<item>
+
+<title>Adorável Andróide 3: Chip, Meu Filho é um Andróide [COLOR yellow][IMDb 5,9][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ADRVLANDRD3CHPMFEUA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6677.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6677.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Família, Ficção científica, Cinema TV
+Lançamento: 1992
+
+No filme final da série, Chip e seu ""pai"" participam de uma convenção de robótica. Aqui, o Dr. Carson é sequestrado e substituído por um andróide. Chip e seus novos amigos podem salvar o Dr. Carson de um perigoso competidor?</info>
+ 
+<genre>Comédia, Família, Ficção científica, Cinema TV</genre>
+ 
+<date>01/01/1992</date>
 </item>"
 "<item>
 
@@ -8251,6 +8403,25 @@ A vida de Frank sofre uma reviravolta quando sua esposa e filha são assassinada
 <genre>Thriller, Ação, Drama</genre>
  
 <date>23/11/2017</date>
+</item>"
+"<item>
+
+<title>Assassinos Sádicos [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/ASASNSDCS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6702.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6702.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror
+Lançamento: 2021
+
+Uma família de açougueiros sádicos mora no interior. Desde o auge do inverno até os dias difíceis do verão, qualquer um que cruze seu caminho vira carne morta.</info>
+ 
+<genre>Terror</genre>
+ 
+<date>12/01/2021</date>
 </item>"
 "<item>
 
