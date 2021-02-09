@@ -1786,6 +1786,25 @@ Após ter sua casa invadida e esposa assassinada por bandidos, Paul (Bruce Willi
 </item>"
 "<item>
 
+<title>Desejo de Matar [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DSJDMTR1974.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6719.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6719.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação
+Lançamento: 1974
+
+Em Nova York vive Paul Kersey, um homem pacífico que tem sua vida destroçada quando três marginais invadem seu apartamento, estupram sua filha, que fica em estado gravíssimo, e matam Joanna, sua mulher. Após uma viagem a uma cidade do Arizona, na qual todos andam armados e a criminalidade é mínima, Kersey, decide eliminar qualquer um que o ameace, pois a polícia se mostra incapaz de encontrar os culpados. Assim Kersey, se arma e começa a patrulhar as ruas, matando assassinos e ladrões e ficando obcecado em fazer justiça. Paralelamente ele é caçado por Frank Ochoa, um detetive da polícia que deseja encontrar o homem que está fazendo o trabalho dos tiras.</info>
+ 
+<genre>Ação</genre>
+ 
+<date>24/07/1974</date>
+</item>"
+"<item>
+
 <title>Desejo do Corpo [COLOR yellow][IMDb 4,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/DESJODCRPO.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -2049,6 +2068,25 @@ Spike Lee conta a história de quatro veteranos de guerra afro-americanos que vo
 <genre>Guerra, Drama</genre>
  
 <date>12/06/2020</date>
+</item>"
+"<item>
+
+<title>Destruição Final: O Último Refúgio [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DSTRCAOFNLOULTMRFGIO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6716.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6716.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Thriller
+Lançamento: 2020
+
+Quando cientistas descobrem que um cometa atingirá a Terra em poucos dias e provavelmente causará a extinção da humanidade, uma família tenta cruzar o país para chegar a sua única esperança de sobrevivência: um grupo de abrigos subterrâneos em Greenland.</info>
+ 
+<genre>Ação, Thriller</genre>
+ 
+<date>19/11/2020</date>
 </item>"
 "<item>
 
@@ -3607,6 +3645,25 @@ Nelson Moss (Keanu Reeves) é um atarefado executivo que só pensa em seu trabal
 <genre>Drama, Romance</genre>
  
 <date>16/02/2001</date>
+</item>"
+"<item>
+
+<title>Doce Refém [COLOR yellow][IMDb 7,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/DCRFM.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6715.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6715.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Romance, Drama, Cinema TV
+Lançamento: 1975
+
+Um rapaz mentalmente perturbado (Martin Sheen) sequestra uma garota (Linda Blair) e a leva para as montanhas. Com o tempo, os dois se tornam amigos e acabam se apaixonando um pelo outro.</info>
+ 
+<genre>Romance, Drama, Cinema TV</genre>
+ 
+<date>10/10/1975</date>
 </item>"
 "<item>
 
@@ -6706,6 +6763,25 @@ Ambientado logo após o final da Segunda Guerra Mundial, IN FULL BLOOM é um dra
 <genre>Ação, Crime, Drama</genre>
  
 <date>19/06/2019</date>
+</item>"
+"<item>
+
+<title>Em busca de 'Ohana [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EMBSCDOHNA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6699.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6699.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Ação, Aventura, Comédia, Família
+Lançamento: 2021
+
+De férias no Havaí, um casal de irmãos do Brooklyn se conecta com a família e as origens enquanto buscam um tesouro perdido.</info>
+ 
+<genre>Ação, Aventura, Comédia, Família</genre>
+ 
+<date>29/01/2021</date>
 </item>"
 "<item>
 
@@ -10183,6 +10259,25 @@ Desde muito pequena exibindo talento para patinação artística no gelo, Tonya 
 <genre>Drama</genre>
  
 <date>15/02/2018</date>
+</item>"
+"<item>
+
+<title>Eurotrip: Passaporte para a Confusão [COLOR yellow][IMDb 6,6][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/EURTRIPSPRTPRACNFSAO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6681.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6681.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia
+Lançamento: 2004
+
+Depois de um rompimento brutal em uma festa de formatura do colegial, o apaixonado adolescente de Ohio, Scott Thomas, vai em uma busca na Europa para encontrar seu amigo alemão Mieke. Junto dele estão seu amigo desmiolado e um par de gêmeos que eles encontram em Paris. A busca de Scott não é fácil, no entanto, os mochileiros se envolvem em muitas situações burlescas quando pulam de um país para o outro.</info>
+ 
+<genre>Comédia</genre>
+ 
+<date>14/05/2004</date>
 </item>"
 "<item>
 
