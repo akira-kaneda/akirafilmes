@@ -4522,6 +4522,25 @@ Nick, um policial de Nova York, está atrás de uma gangue russa que está envol
 </item>"
 "<item>
 
+<title>Skull: A Máscara de Anhangá [COLOR yellow][IMDb 5,0][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SKLAMSCDANHGA.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6671.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6671.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Terror, Fantasia
+Lançamento: 2020
+
+Após décadas desaparecido, um artefato místico chamado “A Máscara de Anhangá” ressurge na metrópole de São Paulo, encarnando uma entidade milenar e iniciando uma série de crimes sangrentos.</info>
+ 
+<genre>Terror, Fantasia</genre>
+ 
+<date>21/09/2020</date>
+</item>"
+"<item>
+
 <title>Sky High: Super Escola de Heróis [COLOR yellow][IMDb 6,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/SPRESCLDHRS.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -5507,6 +5526,25 @@ Recentemente falecido, um fantasma retorna à sua casa suburbana para consolar s
 <genre>Drama, Fantasia, Romance</genre>
  
 <date>07/07/2017</date>
+</item>"
+"<item>
+
+<title>Sombras do Terror [COLOR yellow][IMDb 4,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/SMBSDTROR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6687.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6687.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Terror
+Lançamento: 2019
+
+Stan mora com seu avô abusivo e tenta proteger seu melhor amigo de agressores do ensino médio. Quando ele descobre que uma criatura assassina se refugia dentro de seu galpão, ele tenta combater o demônio sozinho até que seu amigo intimidado descubra a criatura e tenha um plano muito mais sinistro.</info>
+ 
+<genre>Drama, Terror</genre>
+ 
+<date>25/10/2019</date>
 </item>"
 "<item>
 
@@ -9140,6 +9178,25 @@ A guerra não acaba quando a paz é assinada. Um grupo de jovens prisioneiros al
 </item>"
 "<item>
 
+<title>Terra dos Bravos [COLOR yellow][IMDb 5,5][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TRADSBRVS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6686.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6686.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Faroeste
+Lançamento: 2021
+
+O detetive Matthias Breecher é contratado para rastrear o pior dos criminosos de guerra confederados. Enquanto ele percorre o Velho Oeste em busca de justiça, sua determinação é testada quando ele conhece uma determinada mulher pioneira que é muito mais do que parece.</info>
+ 
+<genre>Faroeste</genre>
+ 
+<date>25/01/2021</date>
+</item>"
+"<item>
+
 <title>Terra Estranha [COLOR yellow][IMDb 5,2][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/TRAESTNHA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -9232,6 +9289,25 @@ Cory (Jeremy Renner), caçador de coiotes e predadores traumatizado pela morte d
 <genre>Crime, Drama, Mistério, Thriller</genre>
  
 <date>02/11/2017</date>
+</item>"
+"<item>
+
+<title>Terra Selvagem [COLOR yellow][IMDb 6,2][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TRASLVGM2020.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6685.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6685.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2020
+
+Um relutante boxeador e seu irmão devem viajar pelo país para uma última luta, mas uma inesperada companheira de viagem expõe as fissuras em seu vínculo ao longo do caminho.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>06/11/2020</date>
 </item>"
 "<item>
 
@@ -10980,6 +11056,25 @@ Prepare-se para muita alegria de abanar o rabo, pois os cãezinhos favoritos de 
 <genre>Romance, Animação, Família, Aventura, Fantasia</genre>
  
 <date>29/03/1996</date>
+</item>"
+"<item>
+
+<title>Todos os Meus Amigos Estão Mortos [COLOR yellow][IMDb 5,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/TDSOSMEUSAMGSESTMRTS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6680.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6680.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Comédia, Drama, Thriller
+Lançamento: 2020
+
+Os acontecimentos de uma festa de Ano-Novo expõem segredos entre amigos, partem corações e levam a um final chocante e inesperado.</info>
+ 
+<genre>Comédia, Drama, Thriller</genre>
+ 
+<date>28/12/2020</date>
 </item>"
 "<item>
 
