@@ -7588,6 +7588,25 @@ Stone (Edward Norton) foi condenado à prisão por doze anos e já cumpriu oito.
 </item>"
 "<item>
 
+<title>Homens, Mulheres e Filhos [COLOR yellow][IMDb 6,7][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/OHMNSMLHRSEFLHS.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6706.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6706.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama, Comédia
+Lançamento: 2014
+
+Adultos, adolescentes e crianças amam, sofrem, se relacionam e compartilham tudo, sempre conectados. A internet é onipresente e, nesta grande rede em que o mundo se transformou, as ideias de sociedade e interação social ganham um novo significado. Algumas situações como um casal que não tem intimidade; uma garota que quer ser uma anoréxica melhor; um adolescente que vive em num mundo de pornografia virtual, fazem o expectador repensar a relações humanas.</info>
+ 
+<genre>Drama, Comédia</genre>
+ 
+<date>17/10/2014</date>
+</item>"
+"<item>
+
 <title>Honey - No Ritmo dos Seus Sonhos [COLOR yellow][IMDb 5,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer3/ondemand/HONY1.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
