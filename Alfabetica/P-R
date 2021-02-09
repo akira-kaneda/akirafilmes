@@ -532,6 +532,25 @@ Um grupo de amigos se reencontram para comemorar um aniversário especial, com a
 </item>"
 "<item>
 
+<title>Palmer [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PLMR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6690.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6690.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2021
+
+Após 12 anos na prisão, Eddie Palmer volta para casa para reconstruir sua vida. Ele cria uma ligação inesperada com Sam, um rapaz marginalizado que vem de uma família problemática e, agora, o passado de Eddie ameaça arruinar a sua nova vida.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>29/01/2021</date>
+</item>"
+"<item>
+
 <title>Pandemia [COLOR yellow][IMDb 4,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/PNDMIA.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -662,6 +681,25 @@ Faz muitos anos que o assassino ""Ghostface"" deixou um rastro mortal pela cidad
 <genre>Terror, Mistério</genre>
  
 <date>11/04/2011</date>
+</item>"
+"<item>
+
+<title>Pânico Abaixo de Zero [COLOR yellow][IMDb 4,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PNCOABXODZRO.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6670.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6670.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Thriller
+Lançamento: 2020
+
+Naomi e Matt estão viajando pela Noruega. Para a surpresa e despreparo da dupla, uma nevasca faz com que fiquem presos em um carro que logo é coberto por neve. Com o passar do tempo, a situação se torna ainda mais caótica, criando forte tensão entre o casal que deve lutar para sobreviver. Inspirado em uma história real.</info>
+ 
+<genre>Thriller</genre>
+ 
+<date>28/08/2020</date>
 </item>"
 "<item>
 
@@ -5607,6 +5645,25 @@ Após a execução de um serial killer, John Hobbes (Denzel Washington), um dete
 </item>"
 "<item>
 
+<title>Posto de Combate [COLOR yellow][IMDb 6,8][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PSTDCMBTE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6689.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6689.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Guerra, Drama, História, Ação
+Lançamento: 2020
+
+Baseado na história real da Batalha de Kamdesh que transformou a tropa em uma das mais condecoradas da Guerra do Afeganistão. Uma pequena unidade de soldados americanos enfrenta um esmagador ataque coordenado do Talibã.</info>
+ 
+<genre>Guerra, Drama, História, Ação</genre>
+ 
+<date>24/06/2020</date>
+</item>"
+"<item>
+
 <title>Pottersville - Quanto Mais Selvagem Melhor [COLOR yellow][IMDb 5,4][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/PTRSVLQNTMSLVGMMLHR.mp4|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
@@ -6573,6 +6630,25 @@ Os anjos desertores procuram aqui na Terra o livro que revela o nome daquele que
 <genre>Terror, Thriller</genre>
  
 <date>06/09/2005</date>
+</item>"
+"<item>
+
+<title>Professor [COLOR yellow][IMDb 6,4][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/PRFSR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6688.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6688.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Drama
+Lançamento: 2019
+
+James Lewis é professor de inglês em um colégio conceituado e, quando ele presencia uma briga, começa a notar que um de seus alunos é alvo de constante provocação. Agora, para resolver a situação, ele deve enfrentar os agressores, mas vai acabar se envolvendo com pessoas mais perigosas do que imaginava.</info>
+ 
+<genre>Drama</genre>
+ 
+<date>13/08/2019</date>
 </item>"
 "<item>
 
@@ -8473,6 +8549,25 @@ Reuben Feffer (Ben Stiller) é um homem prevenido, que detesta correr riscos. Po
 <genre>Comédia, Romance</genre>
  
 <date>20/02/2004</date>
+</item>"
+"<item>
+
+<title>Quero Ser Grande [COLOR yellow][IMDb 7,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/QROSRGRNDE.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6708.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6708.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Fantasia, Drama, Comédia, Romance, Família
+Lançamento: 1988
+
+Em um passeio num parque de diversões Josh acaba barrado na montanha-russa. Revoltado, ele pede à máquina dos desejos para ser grande. No dia seguinte o pedido foi realizado e a mãe o expulsa de casa, pois não conhece aquele estranho de trinta anos. Josh, porém, continua sendo apenas uma criança e agora precisa aprender a se relacionar no mundo dos adultos.</info>
+ 
+<genre>Fantasia, Drama, Comédia, Romance, Família</genre>
+ 
+<date>03/06/1988</date>
 </item>"
 "<item>
 
