@@ -652,6 +652,25 @@ Em 10 Coisas que Deveríamos Fazer Antes de Nos Separar, Abigail (Christina Ricc
 </item>"
 "<item>
 
+<title>10 Minutos Para Morrer [COLOR yellow][IMDb 6,3][/COLOR]</title>
+<link>https://$doregex[RC]/RCFServer5/ondemand/10MNTSPRMOR.mp4|Referer=https://redecanais.ws</link>
+<regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
+
+<image>https://ia601505.us.archive.org/10/items/6699_20210209/6710.jpg</image>
+<thumbnail>https://ia601505.us.archive.org/10/items/6699_20210209/6710.jpg</thumbnail>
+<fanart>https://ia601509.us.archive.org/2/items/fanart_20200831/fanart.jpg</fanart>
+
+<info>Genero: Crime, Drama, Thriller
+Lançamento: 1983
+
+Warren Stacy é um serial killer que sente prazer em ficar nu enquanto esfaqueia suas vítimas. Leo Kessler, um policial veterano, acredita que encontrou o assassino e “planta” falsas evidências para obter uma condenação. Quando a “evidência” é achada, o criminoso é preso e planeja se vingar em Laurie, a filha de Kessler.</info>
+ 
+<genre>Crime, Drama, Thriller</genre>
+ 
+<date>11/03/1983</date>
+</item>"
+"<item>
+
 <title>10.5: Apocalypse [COLOR yellow][IMDb 4,5][/COLOR]</title>
 <link>https://$doregex[RC]/RCFServer4/ondemand/10.5APCLPS.mp4?attachment=true|Referer=https://redecanais.ws</link>
 <regex><name>RC</name><expres>(.*?).rc</expres><page>https://raw.githubusercontent.com/akira-kaneda/akirafilmes/master/teste/rc</page></regex>
