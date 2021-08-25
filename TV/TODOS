@@ -7,7 +7,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/cultura.png" group-title="ABERTO",CULTURA
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w2010740683.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagem-2/Imagem2.png" group-title="ABERTO",GAZETA
-https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/media_w2010740683_22735.m3u8
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO SP
@@ -17,7 +17,7 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoa
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/record.png" group-title="ABERTO",RECORD SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/rede-tv.png" group-title="ABERTO",REDE TV
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w942117259.m3u8
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/sbt.png" group-title="ABERTO",SBT SP
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/boomerang.png" group-title="DESENHO",BOOMERANG
