@@ -5,9 +5,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="ABERTO",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/cultura.png" group-title="ABERTO",CULTURA
-https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w2010740683.m3u8
+http://177.20.208.58:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagem-2/Imagem2.png" group-title="ABERTO",GAZETA
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w2010740683.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO SP
