@@ -2,7 +2,7 @@
 
 #EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="DESENHO",ANIMES
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="ABERTO",BAND
+#EXTINF:-1 cn-id=10338246 cn-records=1 tvg-name="teste" tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="ABERTO",BAND
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/cultura.png" group-title="ABERTO",CULTURA
