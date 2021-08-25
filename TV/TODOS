@@ -20,7 +20,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/rede-tv.png" group-title="ABERTO",REDE TV
 http://177.20.208.58:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/sbt.png" group-title="ABERTO",SBT
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/boomerang.png" group-title="DESENHO",BOOMERANG
 https://geralorigin.eu-central-1.edge.mycdn.live/live/boomeranghd/video.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/cn.png" group-title="DESENHO",CARTOON NETWORK
