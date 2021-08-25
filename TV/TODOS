@@ -1,17 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://archive.org/download/kpopsexy/kpopsexy.png" group-title="ABERTO",KPOP
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
-#EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="ABERTO",teste
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w1798935438.m3u8
 #EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="ABERTO",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/cultura.png" group-title="ABERTO",CULTURA
-https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
+http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO RJ
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO SP
 http://mainpanel01.club:8080/eva/eva/5429
+#EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://archive.org/download/kpopsexy/kpopsexy.png" group-title="ABERTO",KPOP
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/record.png" group-title="ABERTO",RECORD SP
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/rede-tv.png" group-title="ABERTO",REDE TV
