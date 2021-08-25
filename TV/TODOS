@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://archive.org/download/kpopsexy/kpopsexy.png" group-title="ABERTO",teste2
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://archive.org/download/kpopsexy/kpopsexy.png" group-title="ABERTO",KPOP
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 #EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="ABERTO",teste
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w1798935438.m3u8
 #EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/band.png" group-title="ABERTO",BAND
