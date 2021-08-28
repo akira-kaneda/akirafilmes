@@ -9,9 +9,9 @@ http://177.20.208.58:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagem-2/Imagem2.png" group-title="ABERTO",GAZETA
 https://playback2.akamaized.net/streams/5381476_8947634_lsit9chnlhc20iwwaga_1/exp=1630203692~acl=%2f*~data=hdntl~hmac=20ed494ae333f6cdac925c5cde38d026f98272ab530012d653c5272e917aef1d/media/5381476_8947634_lsit9chnlhc20iwwaga_1@2320000p.m3u8
 #EXTINF:-1 tvg-name="GLOBO SP FHD²" tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO RJ
-http://xcui.vitvabc.xyz:8880/287994003523/287994003523/32215
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/31/items/sportv-3/globo.png" group-title="ABERTO",GLOBO SP
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37361
+http://dnsl.me:80/aroldo/aroldo123/48531
 #EXTINF:-1 cn-id=10338246 cn-records=1 tvg-logo="https://archive.org/download/kpopsexy/kpopsexy.png" group-title="ABERTO",KPOP
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/31/items/sportv-3/record.png" group-title="ABERTO",RECORD
